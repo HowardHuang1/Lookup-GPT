@@ -1,4 +1,6 @@
+import os
 import scrapy
+from urllib.parse import urlparse, unquote
 from ..items import UclaItem
 
 class UclaSpider(scrapy.Spider):
@@ -12,7 +14,6 @@ class UclaSpider(scrapy.Spider):
     accessed_urls = set(start_urls)
 
     def valid_next_page(self, url):
-        #print(type(url), url)
         if url is None or url in self.accessed_urls:
             return False
         for domain in self.disallowed_domains:
@@ -20,8 +21,10 @@ class UclaSpider(scrapy.Spider):
                 return False
         return True
 
-
     def parse(self, response):
+        # Save response body as .txt in an organized folder structure
+        self.save_response(response)
+
         for sel in response.xpath('//ul/li'):
             item = UclaItem()
             item['title'] = sel.xpath('a/text()').extract()
@@ -29,10 +32,25 @@ class UclaSpider(scrapy.Spider):
             item['description'] = sel.xpath('text()').extract()
             yield item
 
-            # Extract the URLs of the next pages to scrape
+            # Extract and follow the URLs of the next pages to scrape
             next_pages = response.xpath('//a/@href').extract()
             for next_page in next_pages:
                 next_page = response.urljoin(next_page)
                 if self.valid_next_page(next_page):
-                    yield scrapy.Request(next_page, callback=self.parse)
                     self.accessed_urls.add(next_page)
+                    yield scrapy.Request(next_page, callback=self.parse)
+
+    def save_response(self, response):
+        parsed_url = urlparse(response.url)
+        path_segments = parsed_url.path.strip('/').split('/')
+        decoded_segments = [unquote(segment) for segment in path_segments]
+        file_path = os.path.join('data', parsed_url.netloc, *decoded_segments)
+
+        if not file_path.endswith('.txt'):
+            file_path += '.txt'
+
+        os.makedirs(os.path.dirname(file_path), exist_ok=True)
+
+        with open(file_path, 'wb') as f:
+            f.write(response.body)
+        self.log(f'Saved file {file_path}')
