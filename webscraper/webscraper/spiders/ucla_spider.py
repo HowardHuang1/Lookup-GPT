@@ -32,13 +32,16 @@ class UclaSpider(scrapy.Spider):
             item['description'] = sel.xpath('text()').extract()
             yield item
 
-            # Extract and follow the URLs of the next pages to scrape
+            # CUSTOMIZE depth limit in scrapy to work
+            '''
+            # Extract and follow the URLs of the next pages to scrape (DFS) 
             next_pages = response.xpath('//a/@href').extract()
             for next_page in next_pages:
                 next_page = response.urljoin(next_page)
                 if self.valid_next_page(next_page):
                     self.accessed_urls.add(next_page)
                     yield scrapy.Request(next_page, callback=self.parse)
+            '''
 
     def save_response(self, response):
         parsed_url = urlparse(response.url)
