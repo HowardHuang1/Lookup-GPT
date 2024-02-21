@@ -1,0 +1,279 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Academic Counseling | UCLA Registrar’s Office</title>
+<link rel="stylesheet" href="/themes/custom/ucla_sa/fonts/proximanova.css?v=20240220143018">
+<link rel="stylesheet" href="/themes/custom/ucla_sa/css/ucla_sa.css??v=20240220143018">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-74929151-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', 'UA-74929151-1');
+</script>
+<style type="text/css">
+[data-ucla-path="/embed/course-descriptions"] {
+  background-color: #FFF;
+  background-image: none;
+}
+[data-ucla-path="/embed/course-descriptions"] > header,
+[data-ucla-path="/embed/course-descriptions"] > footer,
+[data-ucla-path="/embed/course-descriptions"] .course-descriptions-search,
+[data-ucla-path="/embed/course-descriptions"] #block-ucla-sa-local-tasks {
+  display: none;
+}
+
+/* Used for newer custom sidebars */
+.gray-callout {
+  margin: 1rem 0;
+  padding: 1rem;
+  background-color: #ebebeb;
+  color: #000;
+}
+.gray-callout h2 {
+  margin-top: 0;
+  font-size: 1.2rem;
+  line-height: 1.4rem;
+}
+
+
+/* temporary until the app launches, then remove this line */
+[data-ucla-path^="/student-records/diplomas/"] nav.secondary-breadcrumbs li:nth-child(5n+4),
+[data-ucla-path="/templates/digital-diploma-validation"] nav.secondary-breadcrumbs li:nth-child(5n+4) {
+  display: none;
+}
+</style>
+</head>
+<body
+    data-ucla-ref="registrar/academics/academic-counseling"
+    data-ucla-path="/academics/academic-counseling"
+    data-ucla-origin="https://registrar.ucla.edu"
+    class="no-js"
+>
+<script>document.body.classList.remove('no-js'); document.body.classList.add('js');</script>
+<header class="header">
+    <div class="skip-to-main">
+    <a href="#main">Skip to Main Content</a>
+    </div>
+            <div class="nav-topbar desktop-only">
+    <nav aria-label="Secondary Top" class="nav-secondary container">
+    <ul>
+  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
+  <li><a href="/forms">Forms</a></li>
+  <li><a href="/archives">Archives</a></li>
+</ul>
+    </nav>
+    </div>
+    <div class="headerbar container">
+          <a href="/" class="site-name"><img src="/sites/default/files/UCLA_Logo_Registrars.fw_.png" height="70" width="780" alt="UCLA Registrar&#039;s Office"></a>
+          <div class="header-right">
+      <button class="mobile-only" aria-haspopup="true" aria-controls="menus" aria-expanded="false" aria-label="Main Menus"></button>
+      <form action="https://www.ucla.edu/search" method="GET" class="site-search desktop-only">
+      <label for="header-search-headerbar">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-headerbar"><button type="submit">Search</button>
+      </form>
+      </div>
+    </div>
+    <div id="menus">
+    <form action="https://www.ucla.edu/search" method="GET" class="site-search mobile-only">
+      <label for="header-search-mobile-only">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-mobile-only"><button type="submit">Search</button>
+    </form>
+    <nav aria-label="Main" class="nav-main container">
+    <ul>
+  <li><a href="/registration-classes">Registration &amp; Classes</a>
+    <ul>
+      <li><a href="/registration-classes" aria-label="Overview of Registration and Classes">Overview</a></li>
+      <li><a href="/registration-classes/registration-and-payment">Registration and Payment</a></li>
+      <li><a href="https://sa.ucla.edu/ro/public/soc">Schedule of Classes</a></li>
+      <li><a href="/registration-classes/enrollment-policies">Enrollment Policies</a></li>
+      <li><a href="/registration-classes/enrollment-appointments">Enrollment Appointments and Passes</a></li>
+      <li><a href="/registration-classes/study-list">Study List</a></li>
+      <li><a href="/registration-classes/examinations">Examinations</a></li>
+      <li><a href="/registration-classes/absences-and-readmission">Absences and Readmission</a></li>
+      <li><a href="/registration-classes/graduation">Graduation</a></li>
+    </ul>
+</li>
+  <li><a href="/fees-residence">Fees &amp; Residence</a>
+    <ul>
+      <li><a href="/fees-residence" aria-label="Overview of Fees and Residence">Overview</a></li>
+      <li><a href="/fees-residence/residence-requirements">Residence Requirements</a></li>
+      <li><a href="https://sa.ucla.edu/RO/Fees/Public/public-fees">Annual and Term Student Fees</a></li>
+      <li><a href="/fees-residence/graduate-student-in-absentia-fees">Graduate Student in Absentia Fees</a></li>
+      <li><a href="/fees-residence/health-sciences-summer-fees-medicine-dentistry">Health Sciences Summer Fees (Medicine, Dentistry)</a></li>
+      <li><a href="/fees-residence/self-supporting-degrees">Self-Supporting Degree Fees</a></li>
+      <li><a href="/fees-residence/course-and-study-list-fees">Course and Study List Fees</a></li>
+      <li><a href="/fees-residence/document-and-service-fees">Document and Service Fees</a></li>
+      <li><a href="/fees-residence/transcript-related-fees">Transcript-Related Fees</a></li>
+      <li><a href="/fees-residence/degree-and-diploma-fees">Degree and Diploma Fees</a></li>
+      <li><a href="/fees-residence/fee-descriptions">Fee Descriptions</a></li>
+    </ul>
+</li>
+  <li><a href="/academics">Academics</a>
+    <ul>
+      <li><a href="/academics" aria-label="Overview of Academics">Overview</a></li>
+      <li><a href="http://catalog.registrar.ucla.edu/">General Catalog</a></li>
+      <li><a href="/academics/course-descriptions">Course Descriptions</a></li>
+      <li><a href="/academics/diversity-requirement">Diversity Requirement</a></li>
+      <li><a href="/academics/foreign-language-requirement">Foreign Language Requirement</a></li>
+      <li><a href="/academics/ge-requirement">GE Requirement</a></li>
+      <li><a href="/academics/writing-ii-requirement">Writing II Requirement</a></li>
+     <li><a href="/academics/foreign-literature-in-english-translation">Foreign Literature in English Translation</a></li>
+      <li><a href="/academics/departments-programs-and-freestanding-minors">Departments, Programs, and Freestanding Minors</a></li>
+      <li><a href="/academics/academic-counseling">Academic Counseling</a></li>
+    </ul>
+</li>
+  <li><a href="/student-records">Student Records</a>
+    <ul>
+      <li><a href="/student-records" aria-label="Overview of Student Records">Overview</a></li>
+      <li><a href="/student-records/personal-information">Personal Information</a></li>
+      <li><a href="/student-records/academic-transcript">Academic Transcript</a></li>
+      <li><a href="/student-records/proof-of-enrollment">Proof of Enrollment</a></li>
+      <li><a href="/student-records/transfer-credit-processing">Transfer Credit Processing</a></li>
+      <li><a href="/student-records/grades-and-academic-revisions">Grades and Academic Revisions</a></li>
+      <li><a href="/student-records/student-rights-privacy">Student Rights and Privacy</a></li>
+      <li><a href="/student-records/closure-of-student-record">Closure of Student Record</a></li>
+      <li><a href="/student-records/diplomas">Diplomas</a></li>
+      <li><a href="/student-records/notary-services">Notary Services</a></li>
+      <li><a href="/student-records/veteran-services">Veteran Services</a></li>
+      <li><a href="/student-records/professional-school-and-extension-transcripts">Professional School and Extension Transcripts</a></li>
+    </ul>
+</li>
+  <li><a href="/calendars">Calendars</a>
+    <ul>
+      <li><a href="/calendars" aria-label="Overview of Calendars">Overview</a></li>
+      <li><a href="/calendars/annual-academic-calendar">Annual Academic Calendar</a></li>
+      <li><a href="/term-calendar">Term Calendar</a></li>
+      <li><a href="/calendars/professional-school-calendars">Professional School Calendars</a></li>
+      <li><a href="/calendars/summer-session-calendar">Summer Session Calendar</a></li>
+    </ul>
+</li>
+  <li><a href="/faculty-staff">Faculty &amp; Staff</a>
+    <ul>
+      <li><a href="/faculty-staff" aria-label="Overview of Faculty and Staff">Overview</a></li>
+      <li><a href="/faculty-staff/classrooms-and-scheduling">Classrooms and Scheduling</a></li>
+      <li><a href="/faculty-staff/courses-and-programs">Courses and Programs</a></li>
+      <li><a href="/faculty-staff/accessing-student-data">Accessing Student Data</a></li>
+      <li><a href="/faculty-staff/grade-submission-deadlines">Grade Submission Deadlines</a></li>
+      <li><a href="/faculty-staff/ferpa">FERPA</a></li>
+    </ul>
+</li>
+</ul>
+    </nav>
+    <nav aria-label="Secondary Menu" class="nav-secondary container mobile-only">
+    <ul>
+  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
+  <li><a href="/forms">Forms</a></li>
+  <li><a href="/archives">Archives</a></li>
+</ul>
+    </nav>
+    </div>
+</header>
+<main id="main">
+  <div class="container">
+        <div class="page page-has-menu">
+<div class="page-header">
+  <div id="block-system-messages">
+<div data-drupal-messages-fallback class="hidden"></div>
+</div>
+<div id="block-breadcrumbs">
+  
+    
+        <nav aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol>
+          <li>
+                            <a href="https://registrar.ucla.edu/">Home</a>
+                        </li>
+          <li>
+                            <a href="https://registrar.ucla.edu/academics">Academics</a>
+                        </li>
+          <li>
+                            <a href="https://registrar.ucla.edu/academics/academic-counseling">Academic Counseling</a>
+                        </li>
+        </ol>
+  </nav>
+
+  </div>
+<div id="block-ucla-sa-page-title">
+  
+    
+      
+  <h1>Academic Counseling</h1>
+
+
+  </div>
+
+
+</div>
+<div class="page-content">
+  <div id="block-mainpagecontent">
+  
+    
+      <div data-ucla-node-id="138">
+
+
+
+
+
+<div class="body-content body--section">
+
+<p class="lead">Academic counseling can help students determine how to fulfill requirements, create degree objectives, or decide on a major. New students should get academic counseling before they enroll in classes.</p> <h2>College and School Advising Offices</h2> <ul> <li><strong>College of Letters and Science</strong> <ul> <li><strong><a href="https://www.aap.ucla.edu/units/aap-college-counseling/">Academic Advancement Program (AAP)</a>,</strong> 1209 Campbell Hall</li> <li><strong><a href="https://caac.ucla.edu">Center for Academic Advising in the College (CAAC)</a></strong>, A316 Murphy Hall</li> <li><strong><a href="https://www.honors.ucla.edu/services-menu/">College Honors Program</a></strong>, A311 Murphy Hall</li> <li><strong><a href="https://uclabruins.com/sports/2013/4/17/academic-student-services-AS2">Student Athletics Academic and Student Services</a></strong>, Morgan Center</li></ul></li> <li><strong><a href="https://www.arts.ucla.edu/resource/current-students/current-students-faq/">School of the Arts and Architecture</a></strong><br> 2200 Broad Art Center</li> <li><strong><a href="https://gseis.ucla.edu/education/academic-programs/education-and-social-transformation-major/">School of Education and Information Studies</a></strong><br> 1002 Moore Hall</li> <li><strong><a href="http://www.seasoasa.ucla.edu">Henry Samueli School of Engineering and Applied Science</a></strong><br> 6426 Boelter Hall</li> <li><strong><a href="https://schoolofmusic.ucla.edu/students/student-affairs/">Herb Alpert School of Music</a></strong><br> 1642 Schoenberg Music Building</li> <li><strong><a href="https://www.nursing.ucla.edu/about/contact">School of Nursing</a></strong><br> 2-137 Factor Building</li> <li><strong><a href="https://luskin.ucla.edu/undergraduate-program/contact-us">Meyer and Renee Luskin School of Public Affairs</a></strong><br> 3357 Public Affairs Building</li> <li><strong><a href="https://ph.ucla.edu/students/student-services">Jonathan and Karin Fielding School of Public Health</a></strong><br> 16-059 Center for Health Sciences</li> <li><strong><a href="https://www.tft.ucla.edu/about/student-services-office/">School of Theater, Film, and Television</a></strong><br> 103 East Melnitz Building</li></ul> <p>To contact a departmental adviser, see the <strong><a href="/academics/departments-programs-and-freestanding-minors">individual department</a></strong>.</p>
+
+</div>
+
+
+
+
+</div>
+  </div>
+
+
+</div>
+<div class="page-menu">
+  <nav aria-labelledby="section-menu-title" class="section-menu secondary-breadcrumbs">
+<h2 id="section-menu-title" class="section-menu-title"><a href="/academics" data-drupal-link-system-path="node/4">Academics</a></h2>
+<ul>
+<li class="section-menu-item"><a href="https://catalog.registrar.ucla.edu/">General Catalog</a></li>
+<li class="section-menu-item"><a href="/academics/course-descriptions" data-drupal-link-system-path="node/30">Course Descriptions</a></li>
+<li class="section-menu-item"><a href="/academics/diversity-requirement" data-drupal-link-system-path="node/16">Diversity Requirement</a></li>
+<li class="section-menu-item"><a href="/academics/foreign-language-requirement" data-drupal-link-system-path="node/135">Foreign Language Requirement</a></li>
+<li class="section-menu-item"><a href="/academics/ge-requirement" data-drupal-link-system-path="node/14">GE Requirement</a></li>
+<li class="section-menu-item"><a href="/academics/writing-ii-requirement" data-drupal-link-system-path="node/5">Writing II Requirement</a></li>
+<li class="section-menu-item"><a href="/academics/foreign-literature-in-english-translation" data-drupal-link-system-path="node/679">Foreign Literature in English Translation</a></li>
+<li class="section-menu-item"><a href="/academics/departments-programs-and-freestanding-minors" data-drupal-link-system-path="node/229">Departments, Programs, and Freestanding Minors</a></li>
+<li class="section-menu-item section-menu-item-active"><a href="/academics/academic-counseling" data-drupal-link-system-path="node/138" class="is-active">Academic Counseling</a></li>
+</ul>
+</nav>
+
+
+
+</div>
+</div>
+
+
+      </div>
+</main>
+<footer>
+<div class="container">
+<nav class="nav-footer" aria-label="Footer">
+  <ul>\n  <li><a href="/about-the-registrars-office">About</a></li>\n  <li><a href="/contacts-hours">Contacts/Hours</a></li>\n  <li><a href="https://my.ucla.edu/">MyUCLA</a></li>\n  <li><a href="https://www.studentaffairs.ucla.edu/">Student Affairs</a></li>\n  <li><a href="https://www.ucla.edu/">UCLA.edu</a></li>\n  <li><a href="/voter-information">Register to Vote</a></li>\n</ul>
+
+</nav>
+</div>
+</footer>
+<script src="/themes/custom/ucla_sa/js/ucla_sa.js?v=a20240220143018" async></script>
+<script type="text/javascript">
+(function() {
+  if(document.querySelector('[data-ucla]')) {
+    var embed = document.createElement('script'); embed.type = 'text/javascript'; embed.async = true;
+    embed.src = '/themes/custom/ucla_sa/js/ucla_embed.js?v=20240220143018';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(embed, s);
+  }
+})();
+</script>
+</body>
+</html>

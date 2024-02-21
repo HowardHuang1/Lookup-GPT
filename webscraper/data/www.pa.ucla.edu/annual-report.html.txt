@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<title>UCLA Physics & Astronomy</title>
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="update.css">
+<link rel="SHORTCUT ICON" href="favicon.ico" />
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</head>
+<body>
+<ol class="breadcrumb bg-primary text-light">
+  <li class="breadcrumb-item"><img src="logo_UCLA_white.svg" class="ucla-logo" /></li>
+  <li class="breadcrumb-item">College</li>
+  <li class="breadcrumb-item">Physical Sciences</li>
+</ol>
+
+<nav class="navbar navbar-expand-lg navbar-light mt-0 mt-lg-0 mr-4 border-bottom mb-4">
+  <a class="navbar-brand" href="https://www.pa.ucla.edu/index.php"><img src="https://www.pa.ucla.edu/pa-logo-new.png" height="110px"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarText">
+    <!-- To change the menu alignment from left to right, use ml-auto -->
+    <ul class="navbar-nav mr-auto text-primary">
+      <li class="nav-item"><a class="nav-link text-primary" href="https://www.pa.ucla.edu/index.php">Home</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          About
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            
+          <a class="dropdown-item" href="../videos/admitvideo.html" >Admit Video</a>
+          <a class="dropdown-item" href="https://youtu.be/chk8MNJJ950">APS video tour of Physics & Astronomy</a>
+          <a class="dropdown-item" href="/visiting.html">Visiting the Department</a>
+          <a class="dropdown-item" href="/annual-report.html">Annual Reports</a>
+          <a class="dropdown-item" href="/diversity.html">Diversity</a>
+          <a class="dropdown-item" href="/open-positions.html">Employment</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Education
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/undergraduate-program.html">Undergraduate</a>
+          <a class="dropdown-item" href="/graduate-admissions.html">Graduate admissions</a>
+          <a class="dropdown-item" href="/current-graduate-students.html">Current graduate students</a>
+          <a class="dropdown-item" href="https://bruinlearn.ucla.edu/courses/288">BruinLearn, UCLA's new LMS</a>
+          <a class="dropdown-item" href="/phd-physics-bridge-program.html">Physics PhD Bridge Program</a>
+          <a class="dropdown-item" href="/undergraduate-research-experience.html">REU program</a>
+          <a class="dropdown-item" href="https://qst.ucla.edu/">Quantum master program</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link text-primary" <a href="/research.html">Research</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" <a href="http://www.astro.ucla.edu/">Astro&nbsp;Division</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          People
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/faculty.html">Faculty</a>
+          <a class="dropdown-item" href="/faculty-affiliated.html">Affiliated Faculty</a>
+          <a class="dropdown-item" href="/researchers.html">Researchers, Project Scientists, Adjuncts</a>
+          <a class="dropdown-item" href="/lecturers.html">Lecturers</a>
+          <a class="dropdown-item" href="/postdocs.html">Postdoctoral Scholars</a>
+          <a class="dropdown-item" href="/grad-students.html">Graduate Students</a>
+          <a class="dropdown-item" href="/staff.html">Staff</a>
+          <a class="dropdown-item" href="/memorials.html">Memorials</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/events.php">Events</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/clubs.html">Clubs</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/giving.html">Giving</a></li>
+      <!--<li class="nav-item"><a class="nav-link text-primary" href="/contact.html">Contact</a></li>-->
+      <!--<li class="nav-item"><a class="nav-link"><img src="images/search-icon-2.svg" /></a></li>-->
+      <!--<li class="nav-item"><a class="nav-link"><img src="https://atmos.ucla.edu/Icon/search-icon-2.svg" /></a></li>-->
+    </ul>
+  </div>
+</nav>
+<div class="container">
+    <div class="row">
+    <div class="col-md-4 order-md-1 col-sm-12 order-sm-0 pb-4">
+      <!--<img src="home-image.jpg" width="100%"/>-->
+      <!--
+<h2 class="module-header">Search</h2>
+      <p></p>
+      <script async src="https://cse.google.com/cse.js?cx=015121140664034713057:qm87o70wka5"></script>
+		<div class="gcse-search"></div>
+<br />
+-->      <h2 class="module-header">Annual Reports</h2>
+      <p></p>
+      <p>
+      <ul>
+        <li><a href="annual-reports/Reflections-2020-21.pdf">2020-2021</a></li>
+        <li><a href="annual-reports/Reflections-2019-20.pdf">2019-2020</a></li>
+        <li><a href="annual-reports/reflections-2019.pdf">2018-2019</a></li>
+      	<li><a href="annual-reports/reflections-2018.pdf">2017-2018</a></li>
+      	<li><a href="annual-reports/annual-report-2016-2017.pdf">2016-2017</a></li>
+      	<li><a href="annual-reports/annualreport-2015-2016.pdf">2015-2016</a></li>
+      	<li><a href="annual-reports/annualreport-2014-2015.pdf">2014-2015</a></li>
+      	<li><a href="annual-reports/annualreport-2013-2014.pdf">2013-2014</a></li>
+      	<li><a href="annual-reports/annualreport-2012-2013.pdf">2012-2013</a></li>
+      	<li><a href="annual-reports/annualreport-2011-2012.pdf">2011-2012</a></li>
+      	<li><a href="annual-reports/annualreport-2010-2011.pdf">2010-2011</a></li>
+      	<li><a href="annual-reports/annualreport-2009-2010.pdf">2009-2010</a></li>
+      	<li><a href="annual-reports/annualreport_0809.pdf">2008-2009</a></li>
+      	<li><a href="annual-reports/annualreport_0708.pdf">2007-2008</a></li>
+      	<li><a href="annual-reports/annualreport_0607.pdf">2006-2007</a></li>
+      	<li><a href="annual-reports/annualreport_0506.pdf">2005-2006</a></li>
+      	<li><a href="annual-reports/annualreport_0405.pdf">2004-2005</a></li>
+      	<li><a href="annual-reports/annualreport_0304.pdf">2003-2004</a></li>
+      	<li><a href="annual-reports/annualreport_0203.pdf">2002-2003</a></li>
+      	<li><a href="annual-reports/annualreport_0102.pdf">2001-2002</a></li>
+      </ul>
+      </p>
+    </div>
+    <div class="col-md-8 order-md-0 col-sm-12 order-sm-1">
+      <h2>Annual Report 2020-2021</h2>
+      <br />
+      <p><img src="images/reflections-2021.jpg" class="image1 float-left" width="300px" hspace="15px" alt="...">
+      <p>REFLECTING ON ACADEMIC YEAR 2020-21 is not a typical exercise. The year will be remembered as one with entirely remote instruction and social events. We can breathe some sigh of relief from the vantage point of today, with Fall 2021 being 80% in-person instruction. We are looking forward to being back 100% in the Winter Quarter of AY 21-22.</p>
+      <p>Despite being apart from one another, our research, learning, and social interactions continued—and even flour- ished in some respects. By the quantitative measure of this year’s edition of Reflections, we even had to add four pages. I am beyond thrilled to have a feature article celebrating Andrea Ghez’s 2020 Nobel Prize in Physics. While many campus publications have covered Prof. Ghez’s and her col- laborators’ groundbreaking work, because this article is of and for the Physics & Astronomy Department, we are able to go into much more scientific and technical depth. It is with pride that I point out that this piece was written by a current Astronomy and Astrophysics graduate student, Briley Lewis.</p>
+      <p>I hope you enjoy this edition. In addition to the unprec- edented feature article, we ask you to meet the Vice Chairs who help to sustain our department and its key activities. A cornucopia of research accomplishments are given to enter- tain and educate our current (and future) alumni. I also invite you to read how the undergraduate and graduate students’ outreach activities rose to the challenge of remote life. To learn more, please visit our “Clubs” link on the top of the P&A homepage: <a href="https://www.pa.ucla.edu/">https://www.pa.ucla.edu/</a>.</p>
+      <p>Once again I want to thank all our supporters during this difficult time. The pandemic brought extra expenses ranging from audio-visual equipment to student financial support. Your generosity to the Chair’s Discretionary Fund allowed us to be nimble and go beyond the limitations of our state and federal support. And I thank our dedicated departmental staff, whose behind-the-scenes work made this all possible.</p>
+      <p>I wish good health and a productive year to our entire P&A community and their loved ones.</p>
+        <br />
+      <p>Warm regards, <br />
+      <b>DAVID SALTZBERG</b><br />
+      Chair, Department of Physics & Astronomy <br />
+      </p>
+      <p><a href="annual-reports/Reflections-2020-21.pdf">Read the entire issue of "Reflections"</a></p>
+      <p></p>
+      <hr>
+    </div>
+  </div>
+</div>
+
+<div class="w-100 d-none d-sm-block d-md-none"><!-- wrap every 1 on sm--></div>
+<div class="w-100 d-none d-md-block d-lg-none"><!-- wrap every 2 on md--></div>
+  </div>
+</div>
+<footer class="site-footer">
+<footer class="footer text-light">
+<div class="container">
+<div class="row pt-3 pb-3">
+<div class="col-4">
+<!--<img src="white-pa-logo-new-crop.png" height="45px" align="left" />-->
+<h5>UCLA Physics & Astronomy Department</h5>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> UCLA Physics & Astronomy<br />
+475 Portola Plaza, Los Angeles, CA 90095-1547<br />
+310-825-3440</p>
+<p>
+<ul>
+	<li><a href="https://www.pa.ucla.edu/contact.html">Contact Physics & Astronomy</a></li>
+</ul>
+</p>	
+</div>
+<div class="col-4">
+<!--<img src="https://atmos.ucla.edu/sites/default/files/Uxd_Wht_ATMOS.svg" />-->
+<h5>ABOUT UCLA</h5>
+<p>
+<ul>
+      	<li><a href="http://www.ucla.edu/">UCLA Home</a></li>
+      	<li><a href="https://www.physicalsciences.ucla.edu/">Division of Physical Sciences</a></li>
+      	<li><a href="https://covid-19.ucla.edu/">UCLA COVID-19 Resources</a></li>
+      	<li><a href="https://admission.ucla.edu/visit/maps-and-parking">Maps, directions, and parking</a></li>
+      </ul>
+</p>
+
+</div>
+<div class="col-4">
+<!--<img src="https://atmos.ucla.edu/sites/default/files/Uxd_Wht_ATMOS.svg" />-->
+<h5>RESOURCES</h5>
+<p>
+<ul>
+      	<li><a href="https://bruinlearn.ucla.edu/courses/288">BruinLearn</a></li>
+      	<li><a href="https://www.pa.ucla.edu/instructional-support.html">Instructional Support</a></li>
+      	<li><a href="http://www.pa.ucla.edu/diversity.html">Diversity</a></li>
+        <li><a href="http://www.pa.ucla.edu/wellness.html">Wellness</a></li>
+        <li><a href="/covid.html">COVID</a></li>
+        <li><a href="https://computing.pa.ucla.edu/">Computing and IT Support</a></li>
+        <!--<li><a href="http://iff.pa.ucla.edu/">Machine Shop and Instrument Fabrication Facility</a></li>  -->
+        <li><a href="https://machine-shop.pa.ucla.edu">Machine Shop and Instrument Fabrication Facility</a></li>
+        <li><a href="https://www.pa.ucla.edu/research-store.html">Research Store</a></li> 
+      	<li><a href="http://www.pa.ucla.edu/contact.html">Physics & Astronomy Administration</a></li>
+      	<li><a href="http://demoweb.physics.ucla.edu/demo-manual">Demoweb: Lecture demonstration </a></li>
+      	<li><a href="http://demoweb.physics.ucla.edu/">Demoweb: Lab manuals</a></li>
+      </ul>
+</p>
+</div></div>
+</div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,494 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>AfterHours &amp; Immediate Care Options | UCLA Student Health</title>
+<link rel="stylesheet" href="/themes/custom/ucla_sa/fonts/proximanova.css?v=20240220144912">
+<link rel="stylesheet" href="/themes/custom/ucla_sa/css/ucla_sa.css??v=20240220144912">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120085288-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', 'UA-120085288-1');
+</script>
+<style type="text/css">
+.full-bleed-text{
+     padding:6%;
+}
+@media only screen and (min-width:990px){
+     .full-bleed-bg{
+         background: url(/media/487);
+         height:640px;
+         background-repeat: no-repeat;
+         background-size: 100%;
+         padding: 2rem;
+         margin-right: -24px;
+         margin-left: -24px;
+    }
+    .full-bleed-bg img{
+         display:none;
+    }
+    .full-bleed-text h2{
+         font-size: 3rem;
+         line-height: 3.375rem;
+         padding-bottom:2%;
+    }
+    .full-bleed-text p, .full-bleed-text ul{
+         font-size:16pt;
+         line-height: 1.4;
+    }
+}
+@media only screen and (max-width:1024px){
+     .full-bleed-text{
+         padding: 4% 
+    }
+}
+
+
+
+.button-with-bg{
+  text-align: center;
+  background-image: linear-gradient(#003B5C, #2774AE);
+  margin: 0 -24px -4px -24px;
+  padding: 2rem;
+}
+
+.button-with-bg h2 {
+ color:#fff;
+ font-weight:normal;
+}
+
+.bg-button a {
+ background-color: var(--ucla-gold);
+ border-color: var(--ucla-gold);
+ color: #000000;
+}
+
+.bg-button a:hover, .bg-button a:focus {
+ background-color: var(--yellow);
+ border-color: var(--yellow);
+color: #000000;
+}
+
+.ashe-floor-1 {
+  width: 109px;
+  height: 280px;
+  background-image: url('/file/d631dcd5-329a-4cc3-aa13-95a622d717ed');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ashe-floor-2 {
+  width: 187px;
+  height: 280px;
+  background-image: url('/file/6bf4b8aa-1230-499b-89a5-174dfb6f55f8');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ashe-floor-3 {
+  width: 136px;
+  height: 280px;
+  background-image: url('/file/b3e196ae-bd4f-4cc3-895b-6a0c9db975d0');
+ background-repeat: no-repeat;
+  background-size: cover;
+}
+.ashe-floor-4 {
+  width: 163px;
+  height: 280px;
+  background-image: url('/file/5d544f8b-240f-4524-b511-91bc6344ac9b');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.ashe-floor-descriptions {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 1rem;
+}
+.ashe-floor-descriptions p {
+  display: inline-block; 
+   vertical-align: top;
+}
+.ashe-room-radiology {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/d4e70fd1-2fab-48e6-9ff8-744627eaca9b');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-womens {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/5ad53dc9-c564-46dc-9edd-22c3aaeb737b');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-acupuncture {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/793e100d-14a8-4aab-b56e-585721bfd304');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-scheduling {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/40ed8066-6720-452c-890b-3283e5b417ce');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-2-clinic {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/0f600fff-520f-42bf-b32e-22abb9c4c9e2');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-dental {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/1abd9f51-be51-4fb5-9d40-b2cd429a6e83');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-nursing {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/afdea2af-83c4-4add-b611-c3aa88eac7af');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-immune {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/6d25268e-2d10-4517-98c2-fe2f6b38b606');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-physical-therapy {
+  width: 57px;
+  height: 57px;
+  background-image: url('file/3985052e-3b2d-45d7-b961-8c37c9734d85');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-records {
+  width: 57px;
+  height: 57px;
+  background-image: url('file/0510707f-0eef-4615-882e-4dbefd38861f');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-insurance {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/c0eaeffc-1b38-43d8-8735-8a807eb4dd69');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+@media (max-width:768px) {
+  .ashe-floor-descriptions {
+      margin-top: 2rem;
+  }
+}
+img {
+display: block;
+}
+.tables-col-4 th, .tables-col-4 td {
+    width: 25%;
+}
+.tables-col-5 th, .tables-col-5 td {
+    width: 20%;
+}
+</style>
+<script type="text/javascript">
+"use strict";
+async function covidFAQ() {
+    var node = document.querySelector('[data-ucla=covid-faq]');
+    if(typeof(node) == undefined || node == null) {
+        return;
+    }
+    var before = `${node.innerHTML}`;
+    node.innerText = 'Loading FAQs...';
+    var r = await fetch('https://www.uclahealth.org/ucla-campus-faq-feed.cfm?smajax=true');
+    var data = await r.json();
+    node.innerHTML = '';
+    var toc = document.createElement('div');
+    toc.classList.add('table-of-contents');
+    node.parentNode.insertBefore(toc, node);
+    console.log(node.parentNode.parentNode);
+    var activeCategory = '';
+    for(var i=0; i<data.length; i++) {
+        var item = data[i];
+        if(activeCategory != item.category) {
+            var h2 = document.createElement('h2');
+            h2.innerHTML = item.category;
+            activeCategory = `${item.category}`;
+            node.appendChild(h2);
+        }
+        var h3 = document.createElement('h3');
+        h3.innerHTML = item.question;
+
+        var div = document.createElement('div');
+        div.innerHTML = item.answer;
+
+        for(var ul of div.querySelectorAll('ul')) {
+            ul.classList.add('bullet');
+        }
+        for(var a of div.querySelectorAll('a')) {
+            if(!a.getAttribute('href').match(/http/)) {
+                a.setAttribute('href', `https:///www.uclahealth.org/${a.getAttribute('href')}`);
+            }
+        }
+
+        node.appendChild(h3);
+        node.appendChild(div);
+    }
+
+var tocs = document.querySelectorAll('.table-of-contents');
+for(var i=0; i < tocs.length; i++) {
+    generateTableOfContents(tocs[i]);
+}
+
+ 
+
+
+function generateTableOfContents(toc) {
+    var parent = document.querySelector('.page-content');
+    toc.innerHTML = '';
+    var currentLevel = 2;
+    var ulForLevel = {
+        2: document.createElement('ul'),
+        3: null
+    }
+    toc.appendChild(ulForLevel[2]);
+    console.log(ulForLevel);
+    var tocFound = false;
+    var items = parent.querySelectorAll('h2, h3');
+    console.log(items);
+    for(var i=0; i < items.length; i++) {
+        var item = items[i];
+        console.log(item);
+        var key = item.textContent.replace(/ /g, '_').replace(/[^a-zA-Z0-9_]/g, '').toLowerCase();
+        item.id = key;
+        var li = document.createElement('li');        
+        var a = document.createElement('a');
+        a.href = '#' + key;
+        a.innerText = item.innerText;
+        li.appendChild(a);
+        var level = parseInt(item.nodeName.replace('H', ''));
+        if(currentLevel > level) {
+            ulForLevel[currentLevel] = null;
+        } else if(level == NaN) {
+        	level = 2;
+        }
+        if(ulForLevel[level] != null) {
+            ulForLevel[level].appendChild(li);           
+        } else {
+            ulForLevel[level] = document.createElement('ul');
+            console.log( ulForLevel[level - 1], item, level);
+            ulForLevel[level - 1].querySelector(':scope > li:last-child').appendChild(ulForLevel[level]);
+            ulForLevel[level].appendChild(li);
+        }
+        currentLevel = level;
+    }
+}
+
+}
+
+if (document.readyState === "complete" || document.readyState === "interactive") {
+    // Document is already ready to go.
+    setTimeout(covidFAQ, 1);
+} else {
+    document.addEventListener('DOMContentLoaded', function (event) {
+        covidFAQ();
+    });
+}
+</script>
+</head>
+<body
+    data-ucla-ref="load/insurance/benefits/urgentcare-emergency"
+    data-ucla-path="/insurance/benefits/urgentcare-emergency"
+    data-ucla-origin="https://www.studenthealth.ucla.edu"
+    class="no-js"
+>
+<script>document.body.classList.remove('no-js'); document.body.classList.add('js');</script>
+<header class="header">
+    <div class="skip-to-main">
+    <a href="#main">Skip to Main Content</a>
+    </div>
+            <div class="nav-topbar desktop-only">
+    <nav aria-label="Secondary Top" class="nav-secondary container">
+    <ul>
+  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
+  <li><a href="https://www.immunizationrequirement.ucla.edu/">Immunization Requirements</a></li>
+  <li><a href="/afterhours">AfterHours</a></li>
+  <li><a href="/careers">Careers</a></li>
+  <li class="topbar-yellow-button"><strong><a href="/portal">PATIENT PORTAL</a></strong></li>
+</ul>
+    </nav>
+    </div>
+    <div class="headerbar container">
+          <a href="/" class="site-name"><img src="/sites/default/files/UCLA_Logo_AsheCenter.fw_.png" height="70" width="780" alt="UCLA Arthur Ashe Student Health &amp; Wellness Center"></a>
+          <div class="header-right">
+      <button class="mobile-only" aria-haspopup="true" aria-controls="menus" aria-expanded="false" aria-label="Main Menus"></button>
+      <form action="https://www.ucla.edu/search" method="GET" class="site-search desktop-only">
+      <label for="header-search-headerbar">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-headerbar"><button type="submit">Search</button>
+      </form>
+      </div>
+    </div>
+    <div id="menus">
+    <form action="https://www.ucla.edu/search" method="GET" class="site-search mobile-only">
+      <label for="header-search-mobile-only">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-mobile-only"><button type="submit">Search</button>
+    </form>
+    <nav aria-label="Main" class="nav-main container">
+    <ul>
+  <li><a href="/services">Services</a></li>
+  <li><a href="/insurance">Insurance</a></li>
+  <li><a href="/fees">Fees</a></li>
+  <li><a href="/about">About</a></li>
+  <li><a href="/contact">Contact</a></li>
+</ul>
+    </nav>
+    <nav aria-label="Secondary Menu" class="nav-secondary container mobile-only">
+    <ul>
+  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
+  <li><a href="https://www.immunizationrequirement.ucla.edu/">Immunization Requirements</a></li>
+  <li><a href="/afterhours">AfterHours</a></li>
+  <li><a href="/careers">Careers</a></li>
+  <li class="topbar-yellow-button"><strong><a href="/portal">PATIENT PORTAL</a></strong></li>
+</ul>
+    </nav>
+    </div>
+</header>
+<main id="main">
+  <div class="container">
+        <div class="page">
+<div class="page-header">
+  <div id="block-system-messages">
+<div data-drupal-messages-fallback class="hidden"></div>
+</div>
+<div id="block-breadcrumbs">
+  
+    
+        <nav aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol>
+          <li>
+                            <a href="https://www.studenthealth.ucla.edu/">Home</a>
+                        </li>
+          <li>
+                            <a href="https://www.studenthealth.ucla.edu/insurance">Insurance</a>
+                        </li>
+          <li>
+                            <a href="https://www.studenthealth.ucla.edu/insurance/benefits/urgentcare-emergency">AfterHours</a>
+                        </li>
+        </ol>
+  </nav>
+
+  </div>
+<div id="block-ucla-sa-page-title">
+  
+    
+      
+  <h1>AfterHours &amp; Immediate Care Options</h1>
+
+
+  </div>
+
+
+</div>
+<div class="page-content">
+  <div id="block-mainpagecontent">
+  
+    
+      <div data-ucla-node-id="13">
+
+
+
+
+
+<div class="body-content body--section">
+
+<section class="callout"> <h2><strong>How to get care when our center is closed or same day appointments are filled:</strong></h2> <p>The fastest way to schedule an appointment at The Ashe Center is by logging into the Patient Portal anytime to book an appointment time that works for you. If you are unable to find an appointment online, please call the Ashe appointment line at (310) 825-4073 (Option 1) during business hours for additional appointment availability. If The Ashe Center is closed or there is not an appointment available as soon as you need it, you still have access to care -- both online, and in the local community using your UCSHIP benefits. You can access our 24/7 Nurseline by phone, LiveHealth Online via telehealth, visit a local urgent care center, or emergency department nearby.</p></section> <section class="columns columns-2 columns-2-7030"> <section class="column column-1"> <h2>24/7 AfterHours Nurseline (<a href="tel:310-825-4073">310-825-4073</a>)</h2> <p>All currently registered UCLA students have access to advice &amp; information from a registered nurse through the <a href="/services/nurse-line">AfterHours NurseLine</a> at (310) 825-4073. For more information, visit the NurseLine section of our website.</p> <h2>Mental Health Concerns (<a href="tel:310-825-0768">310-825-0768</a>)</h2> <p>For mental health-related concerns when the <a href="https://www.counseling.ucla.edu/">Counseling &amp; Psychological Services (CAPS)</a> is closed, you may speak with a CAPS Crisis Clinician by calling (310) 825-0768.</p> <h3>Introducing LyraHealth</h3>  <a href="https://myucship.lyrahealth.com/">
+  <img loading="eager" src="/sites/default/files/styles/header_image/public/2022-11/UCLABanner-1170x366.png?itok=yeUT6Gs9" width="1170" height="366" alt="Lyra Health UCSHIP Banner for Mental Health Services">
+
+
+
+
+</a> <p>Lyra offers UCSHIP members access to confidential care for emotional and mental health, how, when, and where they need it. Members (students, their spouses, and dependents (enrolled in a UC SHIP medical plan will all have access to Lyra.</p> <ul> <li>Fast access to a coach or therapist</li> <li>Find providers that make you feel comfortable</li> <li>24/7 appointments and care access</li></ul> <p><strong>No matter what students are dealing with, Lyra can help</strong></p> <p>Learn more at <a href="https://myucship.lyrahealth.com/">myucship.lyrahealth.com</a> or call (877) 214-3767.</p> <h2>Accessing Urgent Care Centers</h2> <h3><strong>In-network Urgent Care visits have a $25 co-payment.</strong></h3> <p>Note: If you go to a non-participating Anthem Blue Cross urgent care center, deductible will be applied and the claim will be covered at 60 percent of the maximum allowed amount. You may be held liable for any amount over the maximum allowed amount.</p> <p class="button"><a href="https://myucship.org/uc-los-angeles/coverage/medical/#outside">Find Care That's Covered by UCSHIP</a></p> <h3>Urgent Care Centers within 10 Miles of UCLA</h3> <p>For an up-to-date list of urgent care centers within the UCLA area, please <a href="/file/83abf498-cff0-4a4a-92e6-28471b02ead0">download the PDF guide here​</a>.​<br> <br> Note: The Ashe Center does not promote or endorse any outside provider/facility. We also cannot confirm urgent care holiday hours. We offer this instructional information as courtesy to you. If the Urgent Care Center is closed, you can also seek medical emergency care at the Ronald Reagan Westwood or Santa Monica UCLA Medical Centers. Refer to the insurance page for a summary of urgent care plan benefits.</p> <h3>Tip: You'll need your UCSHIP insurance card to access care off campus.</h3> <p class="button"><a href="https://www.sydneyhealth.com/">Have Your UCSHIP Digital Card Ready</a></p> <h2>Accessing UCLA Health Immediate Cares</h2> <p>UCLA Health Primary Care Clinics that offer walk-in appointments are called Immediate Cares. Students can access local UCLA Health Immediate Cares to address their urgent medical concerns with a UCLA Health Physician when same-day appointments have filled at The Ashe Center. UCLA Health Immediate Care visits are subject to applicable copays and coinsurances for services rendered.</p> <p><strong>Students must provide a copy of their After Visit Summary (AVS) to the Insurance Services Office at The Ashe Center through their Ashe Patient Portal (Messages&gt;Insurance Question) within seven (7) days of their visit to ensure coverage through UCSHIP.</strong></p> <p>If the UCLA Health Physician makes any follow up treatment recommendations (e.g. MRI, Ultrasound, Specialist Visit, etc.), students must consult with their Ashe Primary Care Provider to discuss the recommendation(s) prior to seeking services. <em><strong>A valid Ashe Center Referral is required for all non-emergent Specialty Care Services outside of The Ashe Center.</strong></em></p> <p class="button"><a href="https://www.uclahealth.org/immediate-care">Find a UCLA Immediate Care Center</a></p> <h2>LiveHealth Online Telemedicine (24/7/365)</h2> <p>Online video appointments (telemedicine) with an Anthem network provider when The Ashe Center is closed.</p> <p>Your UCSHIP plan makes seeing a doctor easy when The Ashe Center is not available to you (building closures, away from campus, or if you just have a very busy schedule that prevents you from scheduling an in-person appointment).</p> <h3><strong>NEW! LiveHealth Online appointments are $0 for UCSHIP students.</strong></h3> <p>LiveHealth Online provides access to U.S. board-certified doctors 24/7/365 via phone or online video consults for urgent, non-Emergency medical assistance, including the ability to write prescriptions. LiveHealth Online provides behavioral health services as well. If follow up care is required after a consult, the student must obtain a referral from the Ashe Center prior to seeking care outside of the Ashe Center.</p> <p class="button"><a href="https://www.studenthealth.ucla.edu/services/livehealth-online">How to access LiveHealth Online telehealth</a></p></section> <section class="column column-2"> <section class="callout"> <h3>Download the AfterHours &amp; Urgent Care Flier</h3> <p class="button"><a data-entity-substitution="canonical" data-entity-type="media" data-entity-uuid="83abf498-cff0-4a4a-92e6-28471b02ead0" href="/portals/27/documents/pdf/afterhours_urgent_care_2020-21.pdf">AfterHours Care PDF</a></p></section> <section class="callout"> <h2>Nearest UCLA Immediate Care Locations</h2> <p><em><strong>Century City Immediate Care</strong></em><br> 10250 Santa Monica Blvd<br> Los Angeles, CA 90067<br> Phone: 310-286-0122</p> <ul> <li>Mon - Fri: 8am - 8pm</li> <li>Sat - Sun: 9am - 6pm</li></ul> <p><br> <em><strong>Westwood Immediate Care</strong></em><br> 200 Medical Plaza Suite #420<br> Los Angeles, CA 90067<br> Phone: 310-206-6232</p> <p><em>Weekday hours now extended!</em></p> <ul> <li>Mon - Fri: 8am - 9pm</li> <li>Sat - Sun: 9am - 5pm</li></ul> <p class="button"><a href="https://www.sydneyhealth.com/">Get Your UCSHIP Digital Card</a></p></section> <p></p> <section class="callout"> <h2>Nearest Emergency Room Location</h2> <p><em><strong>Ronald Reagan Emergency Department at UCLA Health</strong></em></p> <p><strong>Address</strong>:<br> 757 Westwood Plaza Los Angeles, CA 90095</p> <ul> <li> <p><a href="https://www.uclahealth.org/hospitals/resnick/resources/information-visitors/ronald-reagan-emergency-department">Ronald Reagan Emergency Department</a></p></li></ul> <p>The Ronald Reagan UCLA Medical Center Emergency Department (ED) is a comprehensive emergency facility staffed to provide 24-hour response to the emergency care needs of the community.</p> <p><strong>What to Expect:</strong></p> <p>Immediately upon arrival you will check-in at the registration counter. Once registration is complete, you will first see a nurse who will conduct an initial evaluation known as triage. This means that each patient is evaluated to determine the level of medical emergency. This allows us to keep every patient’s wait time as short as possible, as well as provide prompt appropriate care to all patients. After triage is complete, you will be brought to a patient room or asked to take a seat in the waiting room until a room is ready. If your condition changes while you are in the waiting room, please notify the triage nurse immediately.</p></section></section></section> <section class="callout"> <h2>In Case of Emergency</h2> <p><strong>Emergency room visits at participating Anthem in-network facilities have a co-payment of $125.</strong> If you are admitted, this co-payment will be waived and you will be charged the hospitalization co-insurance rate. Please visit the Plan Highlights for additional breakdown of these fees.<br> <br> Additionally, the <a href="https://www.uclahealth.org/emergency-department/westwood-location">UCLA Emergency Room</a> can be reached directly at (310) 825-2111. Remember that it is important to follow up with your Ashe Center Primary Care Provider (PCP) at least 24-48 hours after being seen in an urgent care facility to ensure continuity of care.</p></section> <section class="columns columns-2 columns-2-5050"> <section class="column column-1"> <h2>Emergency Room vs. Urgent Care</h2> <p>A trip to the emergency Room can be costly and time-consuming. Unless you have a life-threatening condition, it is best to go to an Urgent Care center near you.<br> <br> <strong>Here is the difference between the two:</strong></p> <h2>Emergency Room</h2> <ul> <li>High Fever</li> <li>Difficulty Breathing</li> <li>Poisoning</li> <li>Broken Bones</li> <li>Uncontrolled Bleeding</li></ul> <p>Emergency Room wait time for non-life threatening conditions is about <strong>2-6 hours</strong></p> <p><strong>$125 COPAY</strong><br> UCSHIP @ Ronald Reagan &amp; Santa Monica ER</p> <h2>Urgent Care</h2> <ul> <li>Cold/Flu</li> <li>Sore Throat</li> <li>Nausea</li> <li>Eye/Ear Infection</li> <li>Minor Cuts/Burns</li></ul> <p>Urgent Care wait time for non-life threatening conditions is about <strong>15 Minutes</strong></p> <p><strong>$25 COPAY</strong><br> UCSHIP @ In-Network Urgent Care</p></section> <section class="column column-2"> <h2>Local Emergency Rooms</h2> <p><strong>Ronald Reagan ER (0.9 miles away)</strong><br> 757 Westwood Plaza<br> Los Angeles, CA 90095<br> <strong>Mon-Sun Open 24 hours</strong></p> <p><strong>Santa Monica ER (5.7 miles away)</strong><br> 1225 15th Street<br> Santa Monica, CA 90404<br> <strong>Mon-Sun Open 24 Hours</strong></p> <h2>Are you outside of the UCLA area?</h2> <p>Please visit the <a href="http://www.anthem.com/">Anthem Blue Cross website</a> and click on “Find a Medical Provider” to locate an Urgent Care Center in your area.</p> <p><strong>Remember that you and your insurance company will be responsible for the total cost of any care you receive outside of The Ashe Center.</strong>It is important to carry your UC SHIP <em>Anthem Blue Cross</em> insurance card with you.</p> <p class="button"><a href="https://www.studenthealth.ucla.edu/insurance/benefits/referrals">Learn about Referrals with UCSHIP</a></p></section></section>
+
+</div>
+
+
+
+
+
+</div>
+  </div>
+
+
+</div>
+</div>
+
+
+        <div class="page-footer-container page-footer-2-column" role="contentinfo">
+<div class="page-footer-box">
+<h2 class="h3">Contact Ashe Center</h2>
+<p>
+    <a href="https://goo.gl/maps/xLvHX7pY6TzVduS37">221 Westwood Plaza<br>
+    Los Angeles, CA 90095</a><br>
+    <a href="tel:+13108254073">310-825-4073</a><br>
+    Fax: (310) 206-8012<br>
+    <a href="/contact">Contact</a>
+</p>
+</div>
+<div class="page-footer-box">
+<h2 class="h3">Stay in the know</h2>
+<div class="social-links-container">
+  <a href="https://www.facebook.com/uclastudenthealth/"><span class="social-link-label">Facebook @uclastudenthealth</span></a>
+  <a href="https://www.instagram.com/uclaashecenter"><span class="social-link-label">Instagram @uclaashecenter</span></a>
+  <a href="https://www.linkedin.com/company/ucla-ashe-student-health-center/"><span class="social-link-label">LinkedIn @ucla-ashe-student-health-center</span></a>
+</div>
+<p>
+  <a href="/services/sydney-health-mobile-app">Sydney Health Mobile App</a>
+</p>
+</div>
+</div>
+      </div>
+</main>
+<footer>
+<div class="container">
+<nav class="nav-footer" aria-label="Footer">
+  <ul>\n  <li><a href="https://www.ucla.edu/accessibility" class="icon-ada">Accessibility</a></li>\n  <li><a href="https://www.ucla.edu/">UCLA</a></li>\n  <li><a href="https://www.studentaffairs.ucla.edu/">Student Affairs</a></li>\n  <li><a href="https://www.transportation.ucla.edu/campus-parking">Maps, Directions, Parking</a></li>\n  <li><a href="https://registrar.ucla.edu/calendars">Academic Calendar</a></li>\n  <li><a href="https://www.universityofcalifornia.edu/">University of California</a></li>\n  <li><a href="https://www.ucla.edu/terms-of-use">Terms of Use</a></li>\n</ul>
+
+</nav>
+</div>
+</footer>
+<script src="/themes/custom/ucla_sa/js/ucla_sa.js?v=a20240220144912" async></script>
+<script type="text/javascript">
+(function() {
+  if(document.querySelector('[data-ucla]')) {
+    var embed = document.createElement('script'); embed.type = 'text/javascript'; embed.async = true;
+    embed.src = '/themes/custom/ucla_sa/js/ucla_embed.js?v=20240220144912';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(embed, s);
+  }
+})();
+</script>
+</body>
+</html>

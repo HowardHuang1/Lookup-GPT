@@ -1,0 +1,399 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Unlock your potential with UCLA&#039;s Center for Prehospital Care Scholarships, offering a gateway to exceptional paramedic education. Immerse yourself in opportunities like the Tom W. Olofson Scholarship, honoring a philanthropic legacy. Benefit from the Marshall T. Morgan, Derrick Schiller, Ryan M. Sorek, and Bryant Gladney scholarships, each carrying a unique story of" />
+<meta name="abstract" content="Explore unparalleled opportunities with UCLA&#039;s Center for Prehospital Care Scholarships. From the prestigious Tom W. Olofson Scholarship covering full course fees to the dedicated programs honoring heroes like Marshall T. Morgan, Derrick Schiller, Ryan M. Sorek, and Bryant Gladney, our scholarships propel aspiring paramedics toward excellence. Dive into NAEMT&#039;s array of scholarships, fostering diversity and supporting EMT students. Discover the Firehouse Subs Public Safety Foundation Scholarship, empowering future first responders. Elevate your paramedic education with financial support—fuel your passion and shape a rewarding career." />
+<meta name="keywords" content="Paramedic Program Scholarships, UCLA Center for Prehospital Care, Tom W. Olofson Scholarship, Marshall T. Morgan Scholarship, Derrick Schiller Memorial Scholarship, Ryan M. Sorek Memorial Scholarship, Bryant Gladney Paramedic Education Scholarship, NAEMT Scholarships, NAEMT Foundation Scholarships, NAEMT Diversity Scholarships, Firehouse Subs Public Safety Foundation Scholarship Program, EMT scholarships, Paramedic scholarships, Los Angeles." />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.cpc.mednet.ucla.edu/services/financial-aid" />
+<link rel="shortlink" href="https://www.cpc.mednet.ucla.edu/node/25" />
+<meta property="og:site_name" content="UCLA CPC" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.cpc.mednet.ucla.edu/services/financial-aid" />
+<meta property="og:title" content="Scholarships" />
+<meta property="og:description" content="Tom W. Olofson Scholarship (Paramedic Program) Tom W. Olofson was a successful business executive, investor, and philanthropist. Mr. Olofson took delight during his life in supporting a variety of philanthropic efforts, and in his memory, his family has established the first scholarship to award full course fees for the UCLA Paramedic Program. In addition to the full course fee scholarship, the Tom W. Olofson Scholarship awards a second student up to $2,000 toward course fees. For more information and to apply, please visit the Tom W. Olofson Scholarship page. Marshall T." />
+<meta property="og:updated_time" content="2023-11-13T14:19:15-08:00" />
+<meta property="article:published_time" content="2014-09-18T13:14:33-07:00" />
+<meta property="article:modified_time" content="2023-11-13T14:19:15-08:00" />
+  <title>Scholarships | UCLA CPC</title>
+  <style>
+@import url("https://www.cpc.mednet.ucla.edu/modules/system/system.base.css?s8lm5r");
+</style>
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/modules/field/theme/field.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/filebrowser/css/filebrowser_style.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/views/css/views.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ckeditor/css/ckeditor.css?s8lm5r");
+</style>
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ctools/css/ctools.css?s8lm5r");
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.css?s8lm5r" media="all" />
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/css/style.css?s8lm5r");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_YndZxdyT8-8LUpZC5MssOCg5j7KN4UJGOzCX7A0hGKI.js"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.js?s8lm5r"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_sGFJ0aln9SHwpHdKSzoE8Cdcd6RIMEIfIGrifGaUeBw.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cpc_bootstrap","theme_token":"y8mLe9rP8Up2wCwCpYKjyTL6MtYsb_cmHlqc9vtcWtM","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"https:\/\/code.jquery.com\/jquery-3.7.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/contrib\/popup\/popup.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/cpc_bootstrap\/cpc_js.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/filebrowser\/css\/filebrowser_style.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/popup\/popup.css":1,"sites\/all\/themes\/cpc_bootstrap\/css\/style.css":1}},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":250,"delay":0},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+      </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-25 node-type-cpc-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+
+<style>
+.navbar-default {
+    background-color: #000000;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ffb300;
+  background-color: transparent;
+}
+.login-header, .login-header a
+	{ color: white; }
+.login-header a:hover, .login-header a:active, .login-header a:visited
+	{ color: #ffffff; }
+.msg-button, .msg-button a
+	{ color: white; }
+.msg-button a:hover, .msg-button a:active, .msg-button a:visited
+	{ color: #ffffff; }
+.hp_quicklinks {
+	color: #00a5e5;
+	}
+.hp_quicklinks a, .hp_quicklinks a:hover, .hp_quicklinks a:active, .hp_quicklinks a:visited {
+	color: #ffb300;
+}
+.row div.featureslot {
+	padding:2em;
+}
+.node-cpc-page div.content {
+  overflow: visible;
+}
+@media (max-width: 768px) {
+  .row div.featureslot {
+	padding-top:1em;
+	padding-bottom:1em;
+  }
+}
+</style>
+<header id="navbar" role="banner">
+	<div class="container containerlogin">
+		<div class="row" style="margin-top:0px; margin-bottom:0px; background-color: #666666;">
+			<div class="login-header pull-right" style="display: inline; background-color: #00a5e5; padding:10px;">
+				<!-- AJAX Replaces here	-->
+				[ Login / Register ] <span class="glyphicon glyphicon-shopping-cart"></span> 0  items in cart
+			</div>
+			<div class="pull-left hp_quicklinks" style="display: inline; padding:10px;"><p>
+	&nbsp; &nbsp;</p>
+</div>
+		</div>
+	</div>
+  <div class="containernavbar container navbar-default">
+    <div class="navbar-header">
+      				<a class="logo navbar-btn pull-left" href="/" title="Home">
+					<img src="https://www.cpc.mednet.ucla.edu/sites/default/files/images/cpc_logo-323x32.png" alt="Home" id="logo" class="img-responsive" />
+				</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first expanded dropdown"><a href="/cpc/course-listings" title="Our Courses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Courses <span class="caret"></span></a><ul class="dropdown-menu"><li class="first collapsed"><a href="/emt-courses">EMT</a></li>
+<li class="collapsed"><a href="/paramedic-courses">Paramedic</a></li>
+<li class="leaf"><a href="/content/licensed-phlebotomist-course">Licensed Phlebotomist</a></li>
+<li class="expanded"><a href="/aha-courses">BLS, ACLS &amp; PALS</a></li>
+<li class="expanded"><a href="/cpr-first-aid-courses">CPR &amp; First Aid</a></li>
+<li class="last collapsed"><a href="/trauma-courses">Trauma &amp; NAEMT Courses</a></li>
+</ul></li>
+<li class="expanded active-trail dropdown"><a href="/students" class="active-trail dropdown-toggle" data-target="#" data-toggle="dropdown">Students <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/services/payment-methods">Payment Methods</a></li>
+<li class="leaf"><a href="/services/payment-plan">Payment Plan</a></li>
+<li class="leaf"><a href="/services/refunds-transfers">Refunds &amp; Transfers</a></li>
+<li class="leaf"><a href="/services/transcripts">Transcripts</a></li>
+<li class="leaf active-trail active"><a href="/services/financial-aid" class="active-trail active">Scholarships</a></li>
+<li class="leaf"><a href="/veterans">Veteran&#039;s Assistance Benefits</a></li>
+<li class="leaf"><a href="/services/students-with-disabilities">Educational Accommodations</a></li>
+<li class="last leaf"><a href="/services/college-credit">College Credit &amp; CEUs</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/services" title="Services for agencies, hospitals, and businesses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/fdqi" title="node/572">Fire Department Quality Improvement</a></li>
+<li class="last leaf"><a href="/international">International</a></li>
+</ul></li>
+<li class="last expanded dropdown"><a href="/content/about-us" data-target="#" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/about/contact">Contact Us</a></li>
+<li class="leaf"><a href="/giving">Giving</a></li>
+<li class="leaf"><a href="/content/ucla-center-prehospital-care-strategic-plan">Strategic Plan</a></li>
+<li class="leaf"><a href="/about/leadership">Leadership</a></li>
+<li class="leaf"><a href="/diversity-resources">Equity, Diversity &amp; Inclusion</a></li>
+<li class="leaf"><a href="/about/history">Our History</a></li>
+<li class="leaf"><a href="/about/employment">Jobs at the Center</a></li>
+<li class="last leaf"><a href="https://www.uclahealth.org/privacy-practices" title="">Privacy Practices</a></li>
+</ul></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+	
+<!--
+	<div class="container">
+		<ol class="breadcrumb"><li class="first"><a href="/students" class="active-trail">Students</a></li>
+<li class="active last">Scholarships</li>
+</ol>	</div>
+-->
+	</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    <div class="col-sm-9 xcol-sm-push-3 col-md-float-right">
+            <a id="main-content"></a>
+            <!--
+			        <h1 class="page-header">Scholarships</h1>
+      			-->
+			<!--------------------->
+							<h1 class="page-header">Scholarships</h1>
+					<!--–– SECTION HIDDEN UNIVERSAL INFO AREA ––-->
+				<!--------------------->
+
+	                                      		</div>
+		
+          <div class="col-sm-3 xcol-sm-pull-9 col-md-float-left" role="complementary">
+          <div class="region region-sidebar-first">
+    <div id="block-menu-block-6" class="block block-menu-block">
+
+    <h2 class="block-title">Students</h2>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-6 menu-name-main-menu parent-mlid-4771 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-864"><a href="/services/payment-methods">Payment Methods</a></li>
+<li class="leaf menu-mlid-3896"><a href="/services/payment-plan">Payment Plan</a></li>
+<li class="leaf menu-mlid-1473"><a href="/services/refunds-transfers">Refunds &amp; Transfers</a></li>
+<li class="leaf menu-mlid-1475"><a href="/services/transcripts">Transcripts</a></li>
+<li class="leaf active-trail active menu-mlid-865 active"><a href="/services/financial-aid" class="active-trail active">Scholarships</a></li>
+<li class="leaf menu-mlid-1474"><a href="/veterans">Veteran&#039;s Assistance Benefits</a></li>
+<li class="leaf menu-mlid-1478"><a href="/services/students-with-disabilities">Educational Accommodations</a></li>
+<li class="last leaf menu-mlid-1479"><a href="/services/college-credit">College Credit &amp; CEUs</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+      </div>  <!-- /#sidebar-first -->
+    		
+    <div class="col-sm-9 xcol-sm-push-3 col-md-float-right">
+        <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-25" class="node node-cpc-page clearfix" about="/services/financial-aid" typeof="sioc:Item foaf:Document">
+
+	<!--
+  	-->
+      <span property="dc:title" content="Scholarships" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  <div class="content">
+    
+		<!--
+					<h1 class="page-header">Scholarships</h1>
+				-->
+		
+		<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+          <h3 class="c4">
+	<span class="c10">Tom W. Olofson Scholarship (Paramedic Program)</span></h3>
+<p class="c4">
+	<span class="c5">Tom W. Olofson was a successful business executive, investor, and philanthropist. Mr. Olofson took delight during his life in supporting a variety of philanthropic efforts, and in his memory, his family has established the first scholarship to award full course fees for the UCLA Paramedic Program. In addition to the full course fee scholarship, the Tom W. Olofson Scholarship awards a second student up to $2,000 toward course fees. For more information and to apply, please visit the </span><span class="c8"><a class="c0" href="/tom-w-olofson-scholarship">Tom W. Olofson Scholarship</a></span><span class="c6 c5">&nbsp;page.</span></p>
+<h3>
+	Marshall T. Morgan, MD Memorial Scholarship (Paramedic Program)</h3>
+<p class="c4">
+	<span class="c5">Established in memory of longtime UCLA emergency physician Marshall T. Morgan, this program provides two scholarships annually to students admitted to the UCLA Paramedic Education Program. The scholarship will award up to $3000 toward UCLA Paramedic course fees and materials. Application information will be sent to those eligible after acceptance into the UCLA Paramedic Program. Please see the </span><span class="c8"><a class="c0" href="/marshall-morgan-scholarship">Marshall Morgan Scholarship page</a></span><span class="c6 c5">&nbsp;for details.</span></p>
+<h3 class="c7" id="h.ghcb3bbvezvj">
+	<span class="c6 c10">Derrick Schiller Memorial Scholarship (Paramedic Program)</span></h3>
+<p>
+	Derrick Schiller always dreamed of following in his father’s footsteps by becoming a firefighter-paramedic. He proudly served the community as an EMT while putting himself through the UCLA paramedic program and graduated in January 2017. Tragically, Derrick passed away later that year as a result of a motorcycle accident. To honor Derrick’s memory, his family established the Derrick Schiller Memorial Scholarship to support the education of UCLA Paramedic students who, like Derrick, come from families with members in the fire service or emergency medical services. For more information, and to apply for the scholarship, please visit the <a href="/derrick-schiller-scholarship">Derrick Schiller Memorial Scholarship page</a>.</p>
+<h3 class="c7" id="h.mn6vgs3p17a">
+	<span class="c6 c10">Ryan M. Sorek Memorial Scholarship (Paramedic Program)</span></h3>
+<p class="c4">
+	Ryan Michael Sorek was a graduate of the 2002 UCLA Daniel Freeman Paramedic Program and a passionate and dedicated paramedic who saved many lives in his lifetime. Ryan tragically passed away on March 9, 2007, as a result of an on-duty exposure at the young age of 25. To honor Ryan's memory and to keep his drive and passion alive in the emergency medicine community, his family and friends have established the Ryan M. Sorek Memorial Scholarship to support the education of future students at the UCLA Center for Prehospital Care Paramedic Program. For more information and to apply for the scholarship, please visit the <a href="/content/ryan-m-sorek-memorial-scholarship">Ryan M. Sorek Memorial Scholarship page</a>.</p>
+<h3>
+	Bryant Gladney Paramedic Education Scholarship (Paramedic Program)</h3>
+<p class="c4">
+	Bryant Gladney was an Assistant Chief of Training with the Boone County Fire Protection District, where he built one of the most sought after EMS education programs in Missouri. His passion was for medicine and for teaching, where he was able to impact thousands of EMT and Paramedic students. Chief Gladney lost his life in the line-of-duty in 2021. The Bryant Gladney Paramedic Education Scholarship is a $1,000 tuition scholarship offered to students who are currently enrolled in or starting a Paramedic program in the United States. These scholarships are awarded to students who display a strong passion for serving their community and who plan to pursue a life-long career in emergency medicine. Learn more about the Bryant Gladney Foundation, access the application and latest information by visiting <a href="https://www.gladneyfoundation.org">gladneyfoundation.org</a> and selecting “Scholarship”.</p>
+<h3>
+	NAEMT Scholarships</h3>
+<p>
+	<strong>For current NAEMT members:&nbsp;</strong>NAEMT offers Active members a variety of scholarships to advance their education and careers.</p>
+<ul>
+<li>
+		First Responders (to become EMT-Basic): Up to $500 each. Offered twice a year.</li>
+<li>
+		EMT-Basic (to become an EMT-Paramedic): Up to $5000 each. Offered twice a year.</li>
+<li>
+		Paramedics (to advance education in the realm of EMS): Up to $2000 each. Offered twice a year.</li>
+<li>
+		NAEMT-Columbia Southern University Scholarship: Up to 60 credit hours toward an online degree program. Offered annually. Applications accepted July 30 to October 31.</li>
+</ul>
+<p>
+	To apply or learn more, login to the <a href="https://naemt.org/member-portal/login?ReturnUrl=https://naemt.org/member-portal/member-portal-overview" target="_blank">Member Portal at naemt.org</a> and select "Scholarships."</p>
+<p>
+	<strong>For EMT students:&nbsp;</strong>Scholarships are also available for those interested in starting an EMS career.</p>
+<ul>
+<li>
+		NAEMT Foundation scholarships: Up to $1000 each. Applications accepted March 1 to April 30. <a href="https://naemt.org/about-naemt/naemt-foundation/foundation-scholarships" target="_blank">Learn more about NAEMT Foundation scholarships.</a></li>
+<li>
+		NAEMT Diversity scholarships: Up to $1,250 each for tuition, fees and books. <a href="https://naemt.org/initiatives/diversity-scholarships" target="_blank">Learn more about NAEMT Diversity scholarships.</a></li>
+</ul>
+<h3>
+	Firehouse Subs Public Safety Foundation Scholarship Program (EMT &amp; Paramedic Program)</h3>
+<p>
+	Firehouse Subs Public Safety Foundation has established a scholarship program to assist students who plan to enroll in an EMT or Paramedic program. Applicants must be high school seniors or graduates, or current college undergraduates and plan to pursue a career as a first responder, firefighter, police officer, paramedic or EMT. If selected as a recipient, the student will receive a $5,000 award. This program is administered by Scholarship America®, the nation’s largest designer and manager of scholarships and other education support programs for corporations, foundations, associations, and individuals. Eligibility for individual programs is determined at the sole discretion of the sponsor, and eligible applications are reviewed by Scholarship America’s evaluation team. Awards are granted without regard to race, color, creed, religion, sexual orientation, gender, disability, or national origin. To learn more and apply, <a href="https://learnmore.scholarsapply.org/firehousesubsfoundation/">please visit Firehouse Subs Scholarship website.</a></p>
+<p>
+	&nbsp;</p>
+    		
+  </div>
+
+    		
+</div>
+  </div>
+</div>
+  </div>
+    </div>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+	
+	<div class="col-sm-3">
+      <div class="region region-footer-left">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="footer-menu footer-menu-left">
+<li>
+		<span style="color:#00a5e5;">Resources</span></li>
+<li>
+		<a href="https://www.cpc.mednet.ucla.edu/pcrf/">PCRF</a></li>
+<li>
+		<a href="/about/contact">Contact</a></li>
+<li>
+		<a href="https://vipcpc1.ad.medctr.ucla.edu/portal">Portal</a></li>
+<li>
+		<a href="https://www.cpc.mednet.ucla.edu/SRRS/Staff/StaffMain.aspx">SRRS Staff Page</a></li>
+<li>
+		<a href="/associates">Associate Resources</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-6">
+      <div class="region region-footer-middle">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="footer-menu footer-menu-center-left">
+<li>
+		<a href="/courses">Courses</a></li>
+<li>
+		<a href="/emt">EMT</a></li>
+<li>
+		<a href="/paramedic">Paramedic</a></li>
+<li>
+		<a href="/lifesupport">CPR, ACLS, PALS</a></li>
+<li>
+		<a href="/course/phlebotomy">Phlebotomy</a></li>
+<li>
+		<a href="/course/phtls">Trauma</a></li>
+</ul>
+<ul class="footer-menu footer-menu-center-center">
+<li>
+		<a href="/students">Students</a></li>
+<li>
+		<a href="/services/payment-methods">Payment Methods</a></li>
+<li>
+		<a href="/services/financial-aid">Financial Aid</a></li>
+<li>
+		<a href="/services/books">Books</a></li>
+<li>
+		<a href="/services/transcripts">Transcripts</a></li>
+</ul>
+<ul class="footer-menu footer-menu-center-right">
+<li>
+		<a href="/about">About Us</a></li>
+<li>
+		<a href="/about/contact">Contact</a></li>
+<li>
+		<a href="/giving">Giving</a></li>
+<li>
+		<a href="/about/leadership">Leadership</a></li>
+<li>
+		<a href="/diversity-resources">Equity, Diversity<br />
+		&amp; Inclusion</a></li>
+<li>
+		<a href="/about/history">Our History</a></li>
+<li>
+		<a href="/about/employment">Jobs at CPC</a></li>
+<li>
+		<a href="https://www.uclahealth.org/privacy-notice">Privacy Practices</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-3">
+      <div class="region region-footer-right">
+    <div id="block-block-4" class="block block-block">
+
+    
+  <div class="content">
+    <div style="width:185px; xmargin:20px auto;">
+	<a href="http://www.facebook.com/uclacpc"><img class="img-responsive" src="/sites/all/themes/cpc_bootstrap/theme_images/facebookIcon-240.png" style="display: inline-block; margin: 5px; max-width:120px;" /></a><!--<img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-FB.png" style="display: inline-block; margin: 5px;" /> <img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-LI.png" style="display: inline-block; margin: 5px;" /><img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-YT.png" style="display: inline-block; margin: 5px;" /> --> <a href="https://www.instagram.com/uclacpc/" target="_blank"><img src="/sites/default/files/icons/instagram_glyph_color.png" style="display: inline-block; max-height: 40px; max-width: 40px; " /></a></div>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-12 footer-bottom">
+		<div style="text-align: center; border-top: 1px solid #777;display:none;">
+		<a href="">Privacy</a> | <a href="">Terms</a>
+		</div>
+	</div>
+</footer>
+  	  <script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=15&cb=336762963" async></script></body>
+</html>

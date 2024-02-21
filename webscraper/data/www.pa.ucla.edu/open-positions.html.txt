@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<title>UCLA Physics & Astronomy</title>
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="update.css">
+<link rel="SHORTCUT ICON" href="favicon.ico" />
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</head>
+<body>
+<ol class="breadcrumb bg-primary text-light">
+  <li class="breadcrumb-item"><img src="logo_UCLA_white.svg" class="ucla-logo" /></li>
+  <li class="breadcrumb-item">College</li>
+  <li class="breadcrumb-item">Physical Sciences</li>
+</ol>
+
+<nav class="navbar navbar-expand-lg navbar-light mt-0 mt-lg-0 mr-4 border-bottom mb-4">
+  <a class="navbar-brand" href="https://www.pa.ucla.edu/index.php"><img src="https://www.pa.ucla.edu/pa-logo-new.png" height="110px"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarText">
+    <!-- To change the menu alignment from left to right, use ml-auto -->
+    <ul class="navbar-nav mr-auto text-primary">
+      <li class="nav-item"><a class="nav-link text-primary" href="https://www.pa.ucla.edu/index.php">Home</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          About
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            
+          <a class="dropdown-item" href="../videos/admitvideo.html" >Admit Video</a>
+          <a class="dropdown-item" href="https://youtu.be/chk8MNJJ950">APS video tour of Physics & Astronomy</a>
+          <a class="dropdown-item" href="/visiting.html">Visiting the Department</a>
+          <a class="dropdown-item" href="/annual-report.html">Annual Reports</a>
+          <a class="dropdown-item" href="/diversity.html">Diversity</a>
+          <a class="dropdown-item" href="/open-positions.html">Employment</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Education
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/undergraduate-program.html">Undergraduate</a>
+          <a class="dropdown-item" href="/graduate-admissions.html">Graduate admissions</a>
+          <a class="dropdown-item" href="/current-graduate-students.html">Current graduate students</a>
+          <a class="dropdown-item" href="https://bruinlearn.ucla.edu/courses/288">BruinLearn, UCLA's new LMS</a>
+          <a class="dropdown-item" href="/phd-physics-bridge-program.html">Physics PhD Bridge Program</a>
+          <a class="dropdown-item" href="/undergraduate-research-experience.html">REU program</a>
+          <a class="dropdown-item" href="https://qst.ucla.edu/">Quantum master program</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link text-primary" <a href="/research.html">Research</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" <a href="http://www.astro.ucla.edu/">Astro&nbsp;Division</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          People
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/faculty.html">Faculty</a>
+          <a class="dropdown-item" href="/faculty-affiliated.html">Affiliated Faculty</a>
+          <a class="dropdown-item" href="/researchers.html">Researchers, Project Scientists, Adjuncts</a>
+          <a class="dropdown-item" href="/lecturers.html">Lecturers</a>
+          <a class="dropdown-item" href="/postdocs.html">Postdoctoral Scholars</a>
+          <a class="dropdown-item" href="/grad-students.html">Graduate Students</a>
+          <a class="dropdown-item" href="/staff.html">Staff</a>
+          <a class="dropdown-item" href="/memorials.html">Memorials</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/events.php">Events</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/clubs.html">Clubs</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/giving.html">Giving</a></li>
+      <!--<li class="nav-item"><a class="nav-link text-primary" href="/contact.html">Contact</a></li>-->
+      <!--<li class="nav-item"><a class="nav-link"><img src="images/search-icon-2.svg" /></a></li>-->
+      <!--<li class="nav-item"><a class="nav-link"><img src="https://atmos.ucla.edu/Icon/search-icon-2.svg" /></a></li>-->
+    </ul>
+  </div>
+</nav>
+<div class="container">
+    <div class="row">
+    <div class="col-md-4 order-md-1 col-sm-12 order-sm-0 pb-4">
+      <!--<img src="home-image.jpg" width="100%"/>-->
+      <!--
+<h2 class="module-header">Search</h2>
+      <p></p>
+      <script async src="https://cse.google.com/cse.js?cx=015121140664034713057:qm87o70wka5"></script>
+		<div class="gcse-search"></div>
+<br />
+-->      <h2 class="module-header">Campus job resources</h2>
+      <p></p>
+      <p>
+      <ul>
+      	<li><a href="https://hr.mycareer.ucla.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1349212096906">UCLA career opportunities</a></li>
+      	<li><a href="https://www.apo.ucla.edu/resources/employment-opportunities">Academic employment opportunities</a></li>
+      	<li><a href="http://jobs.universityofcalifornia.edu/">Opportunities at other UC locations</a></li>
+      	<li><a href="Associated Students UCLA">Associated Students UCLA</a></li>
+      </ul>
+      </p>
+    </div>
+    <div class="col-md-8 order-md-0 col-sm-12 order-sm-1">
+      <!--<p class="branding-ribbon">THIS SECONDARY PAGE</p>
+      <br/><p class="branding-ribbon">IS FOR TESTING</p>-->
+      <h2>Open positions in Physics & Astronomy</h2>
+      <hr>
+      <p>
+       <h5>University of California, Los Angeles<br />
+       POSTDOCTORAL SCHOLAR POSITION IN <br>EXPERIMENTAL FUSION AND PLASMA PHYSICS – UCLA</h5>
+      </p>
+      <p>The Plasma Diagnostics Group (PDG–<a href="https://plasma-diagnostics-group.physics.ucla.edu">PDG–https://plasma-diagnostics-group.physics.ucla.edu</a>) in the Department of Physics & Astronomy at UCLA invites outstanding candidates to apply for a full-time (100%) appointment as a Postdoctoral Scholar in the area of Plasma and Fusion Physics. The successful candidate will engage in experimental research within the broad area of fast-ion physics in fusion research plasmas in spherical tokamaks. The successful candidate will analyze experimental data from the National Spherical Torus eXperiment Upgrade (NSTX-U, <a href="https://nstx-u.pppl.gov">https://nstx-u.pppl.gov</a>) spherical tokamak and its predecessor NSTX and perform related modeling and simulation to solve challenging problems in the area of wave-particle interactions and their consequences for fusion plasma performance. Energetic ions from high-power, high-energy neutral heating beams play a critical role in plasma heating and current drive. However, these energetic ions also drive waves with a diverse range of significant, sometimes negative, consequences for spherical tokamak performance that must be understood to advance the spherical tokamak as a fusion reactor concept. The successful candidate will work in close collaboration with other members of the PDG and the NSTX-U Research Team at the Princeton Plasma Physics Laboratory in Princeton (PPPL), NJ, USA, and disseminate the results of their research through presentations at international conferences and publications in peer-reviewed journals.</p>
+      <p>Qualified candidates will have a Ph.D. in Physics or a related field earned within the past ten years and no more than five years of cumulative postdoctoral research experience, including at other institutions. The candidate should have a demonstrated background directly applicable to the area of research. Experience with both data analysis and modeling or simulation is advantageous. Experience with programming for these tasks is advantageous, particularly with Python, NumPy, and SciPy.</p>
+      <p>Candidates should provide a Cover Letter, Curriculum Vita, a Publication List, a Statement of Research Experiences and Future Research Goals, and a Statement on Contributions to Equity, Diversity, and Inclusion describing an applicant’s past, present, and future (planned) contributions. (see Academic Job Search–<a href="https://career.ucla.edu/grad/academic-job-search">https://career.ucla.edu/grad/academic-job-search</a> and EDI Statement FAQ–<a href="https://ucla.app.box.com/v/edi-statement-faqs">https://ucla.app.box.com/v/edi-statement-faqs</a>). The candidate should arrange for 2–3 letters of reference to be included with the application. Applications will be considered until the position is filled. However, for full consideration in the first review of applicants, materials should be submitted by August 1, 2023.</p>
+      <p><a href="https://www.postdoc.ucla.edu/resources/appointment-information/appointment-types-and-criteria/">https://www.postdoc.ucla.edu/resources/appointment-information/appointment-types-and-criteria/</a>.</p>
+      <p>Interested applicants should apply via UCRecruit at: <a href="https://recruit.apo.ucla.edu/JPF08667">https://recruit.apo.ucla.edu/JPF08667</a>.
+      <hr>
+      <p>
+       <h5>University of California, Los Angeles<br />
+       ASSISTANT PROJECT SCIENTIST POSITION IN <br>EXPERIMENTAL FUSION AND PLASMA PHYSICS – UCLA
+       </h5>
+      </p>
+      <p>
+      <b>POSITION OVERVIEW</b><br>
+      <b>Position Title:</b> Assistant Project Scientist<br>
+      <b>Salary Range:</b> $71,500–$79,300<br>
+      <b>Start Date:</b> Position is available starting October 1, 2023<br>
+      <b>APPLICATION WINDOW</b><br>
+      <b>Open Date:</b> July 13, 2023<br>
+      <b>Initial Review Date:</b> August 13, 2023, 11:59 pm (Pacific Daylight Time)<br>
+      Applications will be considered until the position is filled. However, for full consideration in the first review of applicants, materials should be submitted by this date.<br>
+      <b>Job Location:</b> Princeton, NJ, USA
+      </p>
+      <b>POSITION DESCRIPTION</b>
+      <p>The Plasma Diagnostics Group (PDG–<a href="https://plasma-diagnostics-group.physics.ucla.edu">https://plasma-diagnostics-group.physics.ucla.edu</a>) in the Department of Physics & Astronomy at UCLA invites outstanding candidates to apply for a full-time (100%) appointment in the career position of Assistant Project Scientist in the area of Plasma and Fusion Physics. The successful candidate will engage in experimental research within the broad area of fast-ion physics in fusion research plasmas in spherical tokamaks. The successful candidate will analyze experimental data from the National Spherical Torus eXperiment Upgrade (NSTX-U, <a href="https://nstx-u.pppl.gov">https://nstx-u.pppl.gov</a>) spherical tokamak and its predecessor NSTX and perform related modeling and simulation to solve challenging problems in the area of wave-particle interactions and their consequences for fusion plasma performance. The successful candidate will also propose, participate and lead new experiments in NSTX-U beginning in late 2025 or 2026, when NSTX-U is expected to commence experimental operations. Energetic ions from high power, high energy neutral heating beams play a critical role in plasma heating and current drive. However, these energetic ions also drive waves with a diverse range of significant, sometimes negative, consequences for spherical tokamak performance that must be understood to advance the spherical tokamak as a fusion reactor concept. The successful candidate will work in close collaboration with other members of the PDG and the NSTX-U Research Team at the Princeton Plasma Physics Laboratory in Princeton (PPPL), NJ, USA, and disseminate the results of their research through presentations at international conferences and publications in peer reviewed journals. The successful candidate will candidate will be stationed at PPPL, in Princeton, NJ, embedded in the NSTX-U research program, after NSTX-U experimental operations start. Prior to that, the successful candidate may optionally be stationed at UCLA, in Los Angeles, CA.</p>
+      <p>Qualified candidates will have a Ph.D. in Physics and at least two years of research experience subsequent to the completion of the Ph.D. at the time of hiring. The candidate should have a demonstrated background directly applicable to the area of research. Experience with both data analysis and modeling or simulation is advantageous. Experience with programming for these tasks is advantageous, particularly with Python, NumPy and SciPy.</p>
+      <p>Candidates should provide a Cover Letter, Curriculum Vita, a Publication List, a Statement of Research Experiences and Future Research Goals, a Statement on Contributions to Equity, Diversity, and Inclusion describing an applicant’s past, present, and future (planned) contributions (see EDI Statement FAQ–<a href="https://ucla.app.box.com/v/edi-statement-faqs">https://ucla.app.box.com/v/edi-statement-faqs</a>), and complete a reference check authorization release form. The candidate should arrange for 2–3 letters of reference to be included with the application. Applications will be considered until the position is filled. However, for full consideration in the first review of applicants, materials should be submitted by August 13, 2023 at <a href="https://recruit.apo.ucla.edu/JPF08669">https://recruit.apo.ucla.edu/JPF08669</a>.</p>
+      <p>The initial appointment will be for a two-year period, with the possibility of renewal. Initial salary will scale with the successful candidate’s experience from $71,500/year to $79,300/year. The successful candidate will be eligible for a wide range of competitive benefits including health/dental/vision insurance, retirement and more. For further information regarding salary, term of appointment and benefits, see details for Project Scientist Series (Represented) at <a href="https://ucnet.universityofcalifornia.edu/labor/bargaining-units/ra/contract.html">https://ucnet.universityofcalifornia.edu/labor/bargaining-units/ra/contract.html</a> and resources referred to therein.</p>
+      <p>As a University employee, you will be required to comply with all applicable University policies and/or collective bargaining agreements, as may be amended from time to time. Federal, state, or local government directives may impose additional requirements.</p>
+      <p><i>The University of California is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age or protected veteran status. For the complete University of California nondiscrimination and affirmative action policy, see: UC Nondiscrimination & Affirmative Action Policy </i><br>
+      <a href="http://policy.ucop.edu/doc/4000376/NondiscrimAffirmAct">http://policy.ucop.edu/doc/4000376/NondiscrimAffirmAct</a>.</p>
+      <hr>
+       <h5>University of California, Los Angeles<br />
+       STROBE Postdoctoral Fellow Position</h5>
+      </p>
+      <p>
+        The University of California at Los Angeles and the STROBE NSF Science & Technology Center are seeking candidates for a SROBE Postdoctoral Fellow to work in atomic electron tomography, coherent diffractive imaging (CDI) and/or ptychography. The successful candidate will have the opportunity to use state-of-the-art electron microscopes and/or coherent X-ray sources to study quantum, energy, disordered, and/or biological materials. Experience in S/TEM, CDI / ptychography, computational methods, phase retrieval, X-ray/electron imaging/diffraction or material characterization is preferred, but candidates with a strong background in other areas will be equally considered. Applicants should send a CV and a list of publications to Prof. John Miao (<a href="mailto:miao@physics.ucla.edu">miao@physics.ucla.edu</a>).</p>
+        <p> For more information, please visit <a href="http://www.physics.ucla.edu/research/imaging/">www.physics.ucla.edu/research/imaging</a>.</p>
+      <p>
+        <p>The University of California is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, age or protected veteran status. For the complete University of California nondiscrimination and affirmative action policy see: UC Nondiscrimination & Affirmative Action Policy Policy (<a href="http://policy.ucop.edu/doc/4000376/NondiscrimAffirmAct">http://policy.ucop.edu/doc/4000376/NondiscrimAffirmAct</a>).
+     <hr>
+       
+       <h5>University of California, Los Angeles<br />
+       Postdoctoral Scholar Position in Physics & Astronomy at UCLA</h5>
+      <p>
+        The Plasma Diagnostics Group at UCLA is looking for a qualified person to fill an experimental Postdoctoral Scholar position. A qualified candidate should have received a Ph.D. in Plasma Physics or a related field and have a demonstrated background in experimental plasma physics. The Postdoctoral position involves implementing, operating, and utilizing two microwave diagnostics: Doppler backscattering (DBS) and cross-polarization scattering (CPS) diagnostics at the MAST-U spherical tokamak located at the Culham Centre for Fusion Energy, Culham, UK. These diagnostic techniques measure internal density turbulence (DBS), turbulence flows (DBS), and internal magnetic turbulence (CPS). These measurements are used to address important areas of fusion energy and high temperature plasma research including physics of plasma turbulence, thermal and particle transport, flows, etc. These are very exciting areas of research with significant opportunities for journal publications and public presentations. We seek applicants with laboratory, technical, and software expertise. Experience with microwave diagnostics is a plus but is not required. The responsibilities of this position will include proposing new experiments, leading experimental efforts, data analysis using advanced numerical techniques, close participation in experimental efforts, writing and publishing results in scientific journals, and oral presentations of results. This work will be performed under the guidance of a Researcher in the UCLA Physics and Astronomy Department. Work will take place onsite at the MAST-U spherical tokamak located at Culham, UK. Hiring is contingent on having the right to work in the U.S. and a willingness to relocate to the MAST-U facility located in Culham, UK upon hiring. Interested applicants should send a letter of interest, a current CV, and two letters of reference to Dr. Terry Rhodes at <a href="mailto:trhodes@ucla.edu">trhodes@ucla.edu</a>.
+      </p>
+      <p>
+        As a condition of employment, you will be required to comply with the University of California SARS-CoV-2 (COVID-19) Vaccination Program Policy. All Covered Individuals under the policy must provide proof of Full Vaccination or, if applicable, submit a request for Exception (based on Medical Exemption, Disability, and/or Religious Objection) or Deferral (based on pregnancy) no later than the applicable deadline. New University of California employees must (a) provide proof of receiving at least one dose of a COVID-19 Vaccine no later than 14 calendar days after their first date of employment and provide proof of Full Vaccination no later than eight weeks after their first date of employment; or (b) if applicable, submit a request for Exception or Deferral no later than 14 calendar days after their first date of employment. (Capitalized terms in this paragraph are defined in the policy.) Federal, state, or local public health directives may impose additional requirements.
+      </p>
+      <p>
+        The University of California is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age or protected veteran status. For the complete University of California nondiscrimination and affirmative action policy, see: UC Nondiscrimination & Affirmative Action Policy.
+      </p>
+      <hr>
+      <h5>University of California, Los Angeles<br />
+       Postdoctoral Scholar Position in Physics & Astronomy at UCLA/<br \>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;DIII-D National Fusion Facility</h5>
+
+      <p>The Plasma Diagnostics Group at UCLA is looking for a qualified person to fill an experimental Postdoctoral Scholar position. Qualified candidates will have received a Ph.D. in plasma science or a related field (engineering, etc.) and have a demonstrated background in experimental science. The Postdoctoral position involves (1) the operation and maintenance of an advanced fast density profile reflectometer system, (2) improvement of the density profile software, and (3) the development of new data analysis techniques to extract density turbulence, coherent mode behavior, etc. This diagnostic techniques measures electron density profiles, turbulence, and coherent modes with good time and spatial resolutions (25 microsec and 0.5 cm). These measurements are used to address important areas of fusion energy and high temperature plasma research including physics of thermal and particle transport, spatial asymmetries, testing of simulations against experimental data using the synthetic diagnostics developed here, etc. These are very exciting areas of research with significant opportunities for journal publications and public presentations. We seek applicants with laboratory, technical, and software expertise. Experience with microwave diagnostics is a plus. The responsibilities of this position will include experimental efforts, analysis of data using advanced numerical techniques, writing and publishing results in scientific journals, and oral presentations of results. This work will be performed under the guidance of a Researcher in the UCLA Physics and Astronomy Department. Work will take place onsite at the DIII-D National Fusion Facility located in San Diego, CA. Hiring is contingent on having the right to work in the U.S. and a willingness to relocate to San Diego upon hiring. Interested applicants should send a letter of interest, a current CV, and two letters of reference to Dr. Terry Rhodes at <a href="mailto:trhodes@ucla.edu">trhodes@ucla.edu</a>.
+      </p>
+      <p>
+        As a condition of employment, you will be required to comply with the University of California SARS-CoV-2 (COVID-19) Vaccination Program Policy. All Covered Individuals under the policy must provide proof of Full Vaccination or, if applicable, submit a request for Exception (based on Medical Exemption, Disability, and/or Religious Objection) or Deferral (based on pregnancy) no later than the applicable deadline. New University of California employees must (a) provide proof of receiving at least one dose of a COVID-19 Vaccine no later than 14 calendar days after their first date of employment and provide proof of Full Vaccination no later than eight weeks after their first date of employment; or (b) if applicable, submit a request for Exception or Deferral no later than 14 calendar days after their first date of employment. (Capitalized terms in this paragraph are defined in the policy.) Federal, state, or local public health directives may impose additional requirements.
+      </p>
+      <p>
+        The University of California is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age or protected veteran status. For the complete University of California nondiscrimination and affirmative action policy, see: UC Nondiscrimination & Affirmative Action Policy.
+      </p>
+       <hr>
+      <h5>University of California, Los Angeles<br />
+       Postdoctoral Scholar Position in Physics & Astronomy at UCLA<br \></h5>
+      <p>The Infrared Laboratory at UCLA is looking for a qualified person to fill an experimental Postdoctoral Scholar position. A qualified candidate should have received a Ph.D. in astronomy, physics, or a related field and have a demonstrated background in astronomical instrumentation.</p>
+      <p>The Postdoctoral position involves supporting the development of the HISPEC spectrometers. The HISPEC instrument is being developed for the W.M. Keck Observatory and uses adaptive optics to feed two cryogenic R~100k spectrometers in the near-infrared via single-mode fibers. This instrument is being designed to support spectroscopy of transiting and non-transiting exoplanets in close orbits, direct high-contrast detection, and spectroscopy of spatially separated substellar companions, and exoplanet dynamical mass and orbit measurements using precision radial velocity monitoring calibrated with an ultra-stable laser frequency comb. These are exciting areas of research with significant opportunities for journal publications and public presentations.</p>
+      <p>We seek applicants with laboratory, technical, and software expertise to support the design and full-scale development of the backend spectrometers. Experience in astronomical or optical instrument development, alignment, and/or testing is required. Experience with and ability to work with the science detector and its readout electronics, including preamplifier design, electronics testing, and performance tuning, are highly preferred. A US driver’s license, to be able to drive between UCLA and collaboration partners in Southern California, is preferred. The responsibilities of this position will include instrument design, assembly, and testing, production of design documentation, participation in formal reviews, writing and publishing results in scientific journals, and oral presentations of results. This work will be performed under the guidance of Prof. Michael Fitzgerald in the UCLA Physics and Astronomy Department. Work will take place onsite at UCLA. Hiring is contingent on having the right to work in the U.S. and a willingness to relocate to UCLA upon hiring. The expected term is one year with the potential for renewal for an additional two years. Interested applicants should submit a letter of interest, a current CV, and two letters of reference via the application portal at <a href="https://recruit.apo.ucla.edu/JPF07303">https://recruit.apo.ucla.edu/JPF07303</a>. Applications should be received by March 25, 2022.</p>
+       <hr>
+      <h5>University of California, Los Angeles<br />
+       Post-doctoral position on LZ Dark Matter experiment<br \>
+       </h5>
+      <P>We invite applications for a post-doctoral position within the dark matter research group at the University of California, Los Angeles (UCLA).</P>
+      <p>The successful candidate will primarily work on the LUX-ZEPLIN (LZ) dark matter experiment. The candidate is expected to strongly contribute to LZ data analysis and LZ detector calibrations with regular shifts to Sanford Underground Research Facility where the experiment is located to work on the upgrade and the operation of the different detector calibration systems. The successful candidate is also expected to contribute to R&D projects towards next generation dark matter detectors which will be conducted within the research laboratory at UCLA .</p>
+      <p>We are looking for an outstanding candidate who has obtained, or is about to obtain, a Ph.D. in experimental particle or astroparticle physics. Applicants with both software and hardware experience in liquefied noble gas detectors are preferred. The regular duration of the position would be two years, with a possible extension upon agreement. Applicants should send a CV, a list of publications to which they made a significant contribution, and a brief statement of research interests to: <a href="mailto:akamaha@physics.ucla.edu">akamaha@physics.ucla.edu</a>. </p>
+      <p>Please also arrange for (03) three letters of recommendation to be sent to the same email address. Applications will be considered until the position is filled. However, for full consideration, materials should be submitted by June 30, 2022. </p>
+      <p><i>Women and underrepresented minority candidates are especially encouraged to apply. The University of California is an Equal Opportunity/Affirmative Action Employer.</i></p> 
+      <p><b>Contact:</b> Prof. Alvine Kamaha (<a href="mailto:akamaha@physics.ucla.edu">akamaha@physics.ucla.edu</a>)</p>
+      <p><b>Letters of Reference should be sent to:</b> <a href="mailto:akamaha@physics.ucla.edu">akamaha@physics.ucla.edu</a> </p>
+      <p><b>Deadline:</b> June 30, 2022 </p>
+      
+      <hr>
+
+    </div>
+  </div>
+</div>
+
+<div class="w-100 d-none d-sm-block d-md-none"><!-- wrap every 1 on sm--></div>
+<div class="w-100 d-none d-md-block d-lg-none"><!-- wrap every 2 on md--></div>
+  </div>
+</div>
+<footer class="site-footer">
+<footer class="footer text-light">
+<div class="container">
+<div class="row pt-3 pb-3">
+<div class="col-4">
+<!--<img src="white-pa-logo-new-crop.png" height="45px" align="left" />-->
+<h5>UCLA Physics & Astronomy Department</h5>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> UCLA Physics & Astronomy<br />
+475 Portola Plaza, Los Angeles, CA 90095-1547<br />
+310-825-3440</p>
+<p>
+<ul>
+	<li><a href="https://www.pa.ucla.edu/contact.html">Contact Physics & Astronomy</a></li>
+</ul>
+</p>	
+</div>
+<div class="col-4">
+<!--<img src="https://atmos.ucla.edu/sites/default/files/Uxd_Wht_ATMOS.svg" />-->
+<h5>ABOUT UCLA</h5>
+<p>
+<ul>
+      	<li><a href="http://www.ucla.edu/">UCLA Home</a></li>
+      	<li><a href="https://www.physicalsciences.ucla.edu/">Division of Physical Sciences</a></li>
+      	<li><a href="https://covid-19.ucla.edu/">UCLA COVID-19 Resources</a></li>
+      	<li><a href="https://admission.ucla.edu/visit/maps-and-parking">Maps, directions, and parking</a></li>
+      </ul>
+</p>
+
+</div>
+<div class="col-4">
+<!--<img src="https://atmos.ucla.edu/sites/default/files/Uxd_Wht_ATMOS.svg" />-->
+<h5>RESOURCES</h5>
+<p>
+<ul>
+      	<li><a href="https://bruinlearn.ucla.edu/courses/288">BruinLearn</a></li>
+      	<li><a href="https://www.pa.ucla.edu/instructional-support.html">Instructional Support</a></li>
+      	<li><a href="http://www.pa.ucla.edu/diversity.html">Diversity</a></li>
+        <li><a href="http://www.pa.ucla.edu/wellness.html">Wellness</a></li>
+        <li><a href="/covid.html">COVID</a></li>
+        <li><a href="https://computing.pa.ucla.edu/">Computing and IT Support</a></li>
+        <!--<li><a href="http://iff.pa.ucla.edu/">Machine Shop and Instrument Fabrication Facility</a></li>  -->
+        <li><a href="https://machine-shop.pa.ucla.edu">Machine Shop and Instrument Fabrication Facility</a></li>
+        <li><a href="https://www.pa.ucla.edu/research-store.html">Research Store</a></li> 
+      	<li><a href="http://www.pa.ucla.edu/contact.html">Physics & Astronomy Administration</a></li>
+      	<li><a href="http://demoweb.physics.ucla.edu/demo-manual">Demoweb: Lecture demonstration </a></li>
+      	<li><a href="http://demoweb.physics.ucla.edu/">Demoweb: Lab manuals</a></li>
+      </ul>
+</p>
+</div></div>
+</div>
+</footer>
+</body>
+</html>

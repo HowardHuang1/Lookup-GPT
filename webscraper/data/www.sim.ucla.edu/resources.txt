@@ -1,0 +1,1758 @@
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " data-theme="surface" data-alert="false">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="Catalog of the UCLA Simulation Center&#039;s available resources and equipment for use in medical education and training." />
+<meta name="keywords" content="Medical Simulation Resources and Equipment" />
+<link rel="canonical" href="https://www.sim.ucla.edu/resources" />
+<meta property="og:site_name" content="Simulation Center" />
+<meta property="og:type" content="page" />
+<meta property="og:url" content="https://www.sim.ucla.edu/resources" />
+<meta property="og:title" content="Medical Simulation Resources and Equipment | Simulation Center" />
+<meta property="og:description" content="Catalog of the UCLA Simulation Center&#039;s available resources and equipment for use in medical education and training." />
+<meta property="og:updated_time" content="2024-01-11T13:41:45-08:00" />
+<meta property="article:published_time" content="2023-08-02T13:08:49-07:00" />
+<meta property="article:modified_time" content="2024-01-11T13:41:45-08:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Catalog of the UCLA Simulation Center&#039;s available resources and equipment for use in medical education and training." />
+<meta name="twitter:title" content="Medical Simulation Resources and Equipment | Simulation Center" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebSite",
+            "@id": "https://www.sim.ucla.edu/",
+            "name": "Simulation Center",
+            "url": "https://www.sim.ucla.edu/",
+            "publisher": {
+                "@type": "EducationalOrganization",
+                "@id": "https://regents.universityofcalifornia.edu",
+                "name": "Regents of the University of California",
+                "url": "https://regents.universityofcalifornia.edu"
+            },
+            "inLanguage": "EN"
+        }
+    ]
+}</script>
+
+    <title>Medical Simulation Resources and Equipment | Simulation Center</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/ajax-progress.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/autocomplete-loading.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/filter/css/filter.caption.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/core/modules/media/css/filter.caption.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/modules/contrib/extlink/extlink.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="//use.typekit.net/gqr2ulm.css" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/global.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/utilities.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/block.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/main.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/view.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/nav.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/layout.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/embedded-media.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/button.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/container-inline.module.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/fieldset.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/field.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/form.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/form-item.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/form-item-label.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/form-boolean.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/form-item-upload.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/form-text.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/form-select.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/links.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/page-header.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/page-title.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/skip-link.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/pager.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/table.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/views-exposed-form.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/site-footer.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/menu-social.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/site-credit.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/menu-footer.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/copyright.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/menu-utility.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/media.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/text.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/menu-sidebar.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/sidebar-toggle.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/breadcrumb.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/page.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/search-block-form.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/site-search.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/site-header.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/site-alert.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/site-secondary.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/menu-secondary.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/site-primary.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/site-branding.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/site-navigation.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/mobile-button.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/menu-main.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/menu-toggle.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/fullcalendar.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/toolbar.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/toolbar-secondary.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/horizontal-toolbar.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/tabledrag.css?s8lrvs" />
+<link rel="stylesheet" media="all" href="/themes/custom/surface/dist/css/translate.css?s8lrvs" />
+
+    
+    
+  </head>
+  <body class="no-alert path-node page-node-type-sf-paragraph-page" data-menu="dropdown" data-search="modal">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+  Skip to main content
+</a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="site-container">
+      
+  
+
+<header id="header" class="site-header" data-drupal-selector="site-header" role="banner" data-once="navigation">
+            
+  <section class="site-secondary">
+    <div class="container">
+      <div class="site-secondary__content">
+              
+
+        
+    <ul class="menu menu-secondary" >
+
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="http://www.ucla.edu/" class="menu__link menu__link--link">University of California, Los Angeles</a>
+                        </li>
+        </ul>
+  
+
+
+    
+        <div class="site-secondary__buttons">
+                        <a href="https://sim.ucla.edu/give" class="button button--give" target="_blank">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+    <path fill="currentColor" d="M148 76.6C148 34.3 182.3 0 224.6 0c20.3 0 39.8 8.1 54.1 22.4l9.3 9.3 9.3-9.3C311.6 8.1 331.1 0 351.4 0C393.7 0 428 34.3 428 76.6c0 20.3-8.1 39.8-22.4 54.1L302.1 234.1c-7.8 7.8-20.5 7.8-28.3 0L170.4 130.7C156.1 116.4 148 96.9 148 76.6zM568.2 336.3c13.1 17.8 9.3 42.8-8.5 55.9L433.1 485.5c-23.4 17.2-51.6 26.5-80.7 26.5H192 32c-17.7 0-32-14.3-32-32V416c0-17.7 14.3-32 32-32H68.8l44.9-36c22.7-18.2 50.9-28 80-28H272h16 64c17.7 0 32 14.3 32 32s-14.3 32-32 32H288 272c-8.8 0-16 7.2-16 16s7.2 16 16 16H392.6l119.7-88.2c17.8-13.1 42.8-9.3 55.9 8.5zM193.6 384l0 0-.9 0c.3 0 .6 0 .9 0z"/>
+  </svg>
+  <span>Giving</span>
+</a>
+      
+      
+
+<div class="translate">
+  <button aria-label="Google Translate" class="button button--translate" role="button" type="button" aria-expanded="false" aria-controls="translate__container" data-drupal-selector="translate-button">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <path fill="currentColor" d="M352 256c0 22.2-1.2 43.6-3.3 64H163.3c-2.2-20.4-3.3-41.8-3.3-64s1.2-43.6 3.3-64H348.7c2.2 20.4 3.3 41.8 3.3 64zm28.8-64H503.9c5.3 20.5 8.1 41.9 8.1 64s-2.8 43.5-8.1 64H380.8c2.1-20.6 3.2-42 3.2-64s-1.1-43.4-3.2-64zm112.6-32H376.7c-10-63.9-29.8-117.4-55.3-151.6c78.3 20.7 142 77.5 171.9 151.6zm-149.1 0H167.7c6.1-36.4 15.5-68.6 27-94.7c10.5-23.6 22.2-40.7 33.5-51.5C239.4 3.2 248.7 0 256 0s16.6 3.2 27.8 13.8c11.3 10.8 23 27.9 33.5 51.5c11.6 26 21 58.2 27 94.7zm-209 0H18.6C48.6 85.9 112.2 29.1 190.6 8.4C165.1 42.6 145.3 96.1 135.3 160zM8.1 192H131.2c-2.1 20.6-3.2 42-3.2 64s1.1 43.4 3.2 64H8.1C2.8 299.5 0 278.1 0 256s2.8-43.5 8.1-64zM194.7 446.6c-11.6-26-20.9-58.2-27-94.6H344.3c-6.1 36.4-15.5 68.6-27 94.6c-10.5 23.6-22.2 40.7-33.5 51.5C272.6 508.8 263.3 512 256 512s-16.6-3.2-27.8-13.8c-11.3-10.8-23-27.9-33.5-51.5zM135.3 352c10 63.9 29.8 117.4 55.3 151.6C112.2 482.9 48.6 426.1 18.6 352H135.3zm358.1 0c-30 74.1-93.6 130.9-171.9 151.6c25.5-34.2 45.2-87.7 55.3-151.6H493.4z"/>
+  </svg>
+  <span>Translate</span>
+</button>
+  <div class="translate__container" data-drupal-selector="translate-container">
+    <div class="translate__caret"></div>
+    <div class="translate__menu"></div>
+  </div>
+
+  <script>window.gtranslateSettings = {"default_language":"en","native_language_names":true,"languages":["en","ar","zh-CN","zh-TW","tl","it","ja","ko","fa","ru","es","vi"],"wrapper_selector":".translate__menu"}</script>
+  <script src="https://cdn.gtranslate.net/widgets/v1.0.0/ln.js" defer></script>
+</div>
+      <button class="button button--search" aria-label="Search Form" data-drupal-selector="search-open" aria-expanded="false">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <path fill="currentColor" d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352c79.5 0 144-64.5 144-144s-64.5-144-144-144S64 128.5 64 208s64.5 144 144 144z"/>
+  </svg>
+  <span class="button__close">Search</span>
+</button>
+            </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="site-primary">
+    <div class="container">
+      <div class="site-primary__content">
+              
+<a href="/" rel="home" class="site-branding site-branding--horizontal">
+      <img src="https://www.sim.ucla.edu/sites/g/files/oketem401/files/logos/UCLA-Simulation-Center_Horizontal_CMYK_blk.svg" alt="Home" />
+  </a>
+
+    
+              <nav id="site-navigation" class="site-navigation" data-drupal-selector="site-navigation">
+  <div class="site-navigation-container">
+              
+
+  
+    
+    
+    <ul class="menu-main menu-main--dropdown menu-main--level-1"  data-type="dropdown" data-drupal-selector="menu-main--level-1" >
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-1  menu__item--has-children" data-drupal-selector="menu__item--has-children">
+          
+                                    <a href="/about-us" title="About the UCLA Simulation Center" class="menu__link menu__link--link menu__link--level-1  menu__link--has-children" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/666">            <span class="menu__link-inner menu__link-inner--level-1">About</span>
+          </a>
+            
+            
+                              <button class="menu-toggle" data-drupal-selector="menu-toggle" aria-controls="menu-main-item-1" aria-expanded="false">
+  <span class="visually-hidden">About sub-navigation</span>
+  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512">
+    <path fill="currentColor" d="M201.4 342.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 274.7 86.6 137.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/>
+  </svg>
+</button>
+              
+                                                
+    
+    
+    <ul class="menu-main  menu-main--level-2" id="menu-main-item-1"  data-drupal-selector="menu-main--level-2" >
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/history" title="History of the UCLA Simulation Center" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/671">            <span class="menu__link-inner menu__link-inner--level-2">History</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/about/our-team" title="UCLA Simulation Center Team" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/811">            <span class="menu__link-inner menu__link-inner--level-2">Our Team</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/about/steering-committee" title="UCLA Simulation Center Steering Committee" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/716">            <span class="menu__link-inner menu__link-inner--level-2">Steering Committee</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/giving" title="Giving" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/616">            <span class="menu__link-inner menu__link-inner--level-2">Giving</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/maxine-eugene-rosenfeld" title="Eugene and Maxine Rosenfeld" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/676">            <span class="menu__link-inner menu__link-inner--level-2">Eugene &amp; Maxine Rosenfeld</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/about/simulation-faq" title="Simulation Frequently Asked Questions" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/1176">            <span class="menu__link-inner menu__link-inner--level-2">Simulation FAQ</span>
+          </a>
+            
+            
+                  </li>
+          </ul>
+  
+              
+              
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-1  menu__item--has-children" data-drupal-selector="menu__item--has-children">
+          
+                                    <a href="/facility" title="UCLA Simulation Center Facility" class="menu__link menu__link--link menu__link--level-1  menu__link--has-children" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/621">            <span class="menu__link-inner menu__link-inner--level-1">Facility</span>
+          </a>
+            
+            
+                              <button class="menu-toggle" data-drupal-selector="menu-toggle" aria-controls="menu-main-item-12" aria-expanded="false">
+  <span class="visually-hidden">Facility sub-navigation</span>
+  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512">
+    <path fill="currentColor" d="M201.4 342.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 274.7 86.6 137.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/>
+  </svg>
+</button>
+              
+                                                
+    
+    
+    <ul class="menu-main  menu-main--level-2" id="menu-main-item-12"  data-drupal-selector="menu-main--level-2" >
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/facility/rosenfeld-hall-map" title="Rosenfeld Hall Map" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/1051">            <span class="menu__link-inner menu__link-inner--level-2">Rosenfeld Hall Map</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/facility/sim-center-annex-map" title="Sim Center Annex Map" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/1056">            <span class="menu__link-inner menu__link-inner--level-2">Sim Center Annex Map</span>
+          </a>
+            
+            
+                  </li>
+          </ul>
+  
+              
+              
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-1  menu__item--has-children" data-drupal-selector="menu__item--has-children">
+          
+                                    <a href="/standardized-patient-program" title="UCLA Standardized Patient Program" class="menu__link menu__link--link menu__link--level-1  menu__link--has-children" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/991">            <span class="menu__link-inner menu__link-inner--level-1">SP Program</span>
+          </a>
+            
+            
+                              <button class="menu-toggle" data-drupal-selector="menu-toggle" aria-controls="menu-main-item-123" aria-expanded="false">
+  <span class="visually-hidden">SP Program sub-navigation</span>
+  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512">
+    <path fill="currentColor" d="M201.4 342.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 274.7 86.6 137.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/>
+  </svg>
+</button>
+              
+                                                
+    
+    
+    <ul class="menu-main  menu-main--level-2" id="menu-main-item-123"  data-drupal-selector="menu-main--level-2" >
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/sp-program/becoming-a-standardized-patient" title="Becoming a Standardized Patient" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/996">            <span class="menu__link-inner menu__link-inner--level-2">Becoming an SP</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/sp-program/requesting-a-standardized-patient" title="Request a Standardized Patient" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/1001">            <span class="menu__link-inner menu__link-inner--level-2">Requesting an SP</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/sp-program/standardized-patient-faq" title="Standardized Patient Frequently Asked Questions" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/1006">            <span class="menu__link-inner menu__link-inner--level-2">Standardized Patient FAQ</span>
+          </a>
+            
+            
+                  </li>
+          </ul>
+  
+              
+              
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-1 menu__item--active-trail menu__item--has-children" data-drupal-selector="menu__item--has-children">
+          
+                                    <a href="/resources" title="Simulation Resources" class="menu__link menu__link--link menu__link--level-1 menu__link--active-trail menu__link--has-children is-active" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/981">            <span class="menu__link-inner menu__link-inner--level-1">Resources</span>
+          </a>
+            
+            
+                              <button class="menu-toggle" data-drupal-selector="menu-toggle" aria-controls="menu-main-item-1234" aria-expanded="false">
+  <span class="visually-hidden">Resources sub-navigation</span>
+  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512">
+    <path fill="currentColor" d="M201.4 342.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 274.7 86.6 137.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/>
+  </svg>
+</button>
+              
+                                                
+    
+    
+    <ul class="menu-main  menu-main--level-2" id="menu-main-item-1234"  data-drupal-selector="menu-main--level-2" >
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/resources/high-fidelity-simulators" title="High Fidelity Simulators" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/1011">            <span class="menu__link-inner menu__link-inner--level-2">High Fidelity Simulators</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/resources/low-fidelity-simulators" title="Low Fidelity Simulators" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/1016">            <span class="menu__link-inner menu__link-inner--level-2">Low Fidelity Simulators</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/resources/task-trainers" title="Task Trainers" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/1021">            <span class="menu__link-inner menu__link-inner--level-2">Task Trainers</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/resources/virtual-simulators" title="Virtual Simulators" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/1026">            <span class="menu__link-inner menu__link-inner--level-2">Virtual Simulators</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/resources/clinical-equipment" title="Clinical Equipment" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/1031">            <span class="menu__link-inner menu__link-inner--level-2">Clinical Equipment</span>
+          </a>
+            
+            
+                  </li>
+          </ul>
+  
+              
+              
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-1  menu__item--has-children" data-drupal-selector="menu__item--has-children">
+          
+                                    <a href="/courses" title="UCLA Simulation Center Courses" class="menu__link menu__link--link menu__link--level-1  menu__link--has-children" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/601">            <span class="menu__link-inner menu__link-inner--level-1">Courses</span>
+          </a>
+            
+            
+                              <button class="menu-toggle" data-drupal-selector="menu-toggle" aria-controls="menu-main-item-12345" aria-expanded="false">
+  <span class="visually-hidden">Courses sub-navigation</span>
+  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512">
+    <path fill="currentColor" d="M201.4 342.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 274.7 86.6 137.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/>
+  </svg>
+</button>
+              
+                                                
+    
+    
+    <ul class="menu-main  menu-main--level-2" id="menu-main-item-12345"  data-drupal-selector="menu-main--level-2" >
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/courses/medical-students" title="Courses for Medical Students" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/826">            <span class="menu__link-inner menu__link-inner--level-2">Medical Students</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/courses/residents" title="Courses for Residents" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/836">            <span class="menu__link-inner menu__link-inner--level-2">Residents</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/courses/nursing-students" title="Courses for Nursing Students" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/1171">            <span class="menu__link-inner menu__link-inner--level-2">Nursing Students</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/courses/clinical-nurses" title="Courses for Clinical Nurses" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/841">            <span class="menu__link-inner menu__link-inner--level-2">Clinical Nurses</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2  menu__item--has-children" >
+          
+                                    <a href="/courses/continuing-professional-development" title="Continuing Professional Development Courses" class="menu__link menu__link--link menu__link--level-2  menu__link--has-children" data-drupal-link-system-path="node/1036">            <span class="menu__link-inner menu__link-inner--level-2">Continuing Professional Development</span>
+          </a>
+            
+            
+              
+              
+              
+            
+                  </li>
+          </ul>
+  
+              
+              
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-1  menu__item--has-children" data-drupal-selector="menu__item--has-children">
+          
+                                    <a href="/calendar" title="UCLA Simulation Center Calendar" class="menu__link menu__link--link menu__link--level-1  menu__link--has-children" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/871">            <span class="menu__link-inner menu__link-inner--level-1">Calendar</span>
+          </a>
+            
+            
+                              <button class="menu-toggle" data-drupal-selector="menu-toggle" aria-controls="menu-main-item-123456" aria-expanded="false">
+  <span class="visually-hidden">Calendar sub-navigation</span>
+  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512">
+    <path fill="currentColor" d="M201.4 342.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 274.7 86.6 137.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/>
+  </svg>
+</button>
+              
+                                                
+    
+    
+    <ul class="menu-main  menu-main--level-2" id="menu-main-item-123456"  data-drupal-selector="menu-main--level-2" >
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="https://calendar.google.com/calendar/embed?src=uclasimulation%40gmail.com&amp;mode=agenda&amp;ctz=America/Los_Angeles" title="Simulation Technology Calendar" class="menu__link menu__link--link menu__link--level-2">            <span class="menu__link-inner menu__link-inner--level-2">Sim Technology Calendar</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="https://calendar.google.com/calendar/embed?src=uclaspprogram%40gmail.com&amp;mode=agenda&amp;ctz=America/Los_Angeles" title="Standardized Patient Program Calendar" class="menu__link menu__link--link menu__link--level-2">            <span class="menu__link-inner menu__link-inner--level-2">SP Program Calendar</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/groups/simulation-center" title="UCLA Simulation Center Events" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="taxonomy/term/416">            <span class="menu__link-inner menu__link-inner--level-2">Events</span>
+          </a>
+            
+            
+                  </li>
+          </ul>
+  
+              
+              
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-1  menu__item--has-children" data-drupal-selector="menu__item--has-children">
+          
+                                    <a href="/research" title="UCLA Simulation Center Research" class="menu__link menu__link--link menu__link--level-1  menu__link--has-children" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/956">            <span class="menu__link-inner menu__link-inner--level-1">Research</span>
+          </a>
+            
+            
+                              <button class="menu-toggle" data-drupal-selector="menu-toggle" aria-controls="menu-main-item-1234567" aria-expanded="false">
+  <span class="visually-hidden">Research sub-navigation</span>
+  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512">
+    <path fill="currentColor" d="M201.4 342.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 274.7 86.6 137.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/>
+  </svg>
+</button>
+              
+                                                
+    
+    
+    <ul class="menu-main  menu-main--level-2" id="menu-main-item-1234567"  data-drupal-selector="menu-main--level-2" >
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/research/bibliography" title="Research Bibliography" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/1041">            <span class="menu__link-inner menu__link-inner--level-2">Bibliography</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2  menu__item--has-children" >
+          
+                                    <a href="/research/sophie" title="Simulated Online Pharmaceutical Image Editor" class="menu__link menu__link--link menu__link--level-2  menu__link--has-children" data-drupal-link-system-path="node/1186">            <span class="menu__link-inner menu__link-inner--level-2">SOPHIE</span>
+          </a>
+            
+            
+              
+              
+              
+            
+                  </li>
+          </ul>
+  
+              
+              
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-1  menu__item--has-children" data-drupal-selector="menu__item--has-children">
+          
+                                    <a href="/contact-us" title="Contact Us" class="menu__link menu__link--link menu__link--level-1  menu__link--has-children" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/926">            <span class="menu__link-inner menu__link-inner--level-1">Contact</span>
+          </a>
+            
+            
+                              <button class="menu-toggle" data-drupal-selector="menu-toggle" aria-controls="menu-main-item-12345678" aria-expanded="false">
+  <span class="visually-hidden">Contact sub-navigation</span>
+  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512">
+    <path fill="currentColor" d="M201.4 342.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 274.7 86.6 137.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/>
+  </svg>
+</button>
+              
+                                                
+    
+    
+    <ul class="menu-main  menu-main--level-2" id="menu-main-item-12345678"  data-drupal-selector="menu-main--level-2" >
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="https://sim-request.ctrl.ucla.edu/" title="Sim Request Portal" class="menu__link menu__link--link menu__link--level-2">            <span class="menu__link-inner menu__link-inner--level-2">Sim Request Portal</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="https://uclahs.az1.qualtrics.com/jfe/form/SV_eVQbq9dNMgDKc2G" title="Tour Request" class="menu__link menu__link--link menu__link--level-2">            <span class="menu__link-inner menu__link-inner--level-2">Tour Request</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+
+                  
+                  
+                
+        <li class="menu__item menu__item--link menu__item--level-2" >
+          
+                                    <a href="/contact/directions-parking" title="Directions and Parking" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/931">            <span class="menu__link-inner menu__link-inner--level-2">Directions &amp; Parking</span>
+          </a>
+            
+            
+                  </li>
+          </ul>
+  
+              
+              
+            
+                  </li>
+          </ul>
+  
+
+
+          
+
+        
+    <ul class="menu menu-secondary" >
+
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="http://www.ucla.edu/" class="menu__link menu__link--link">University of California, Los Angeles</a>
+                        </li>
+        </ul>
+  
+
+
+          </div>
+</nav>
+      <button class="mobile-button" data-drupal-selector="mobile-button" aria-label="Main Menu" aria-controls="site-navigation" aria-expanded="false">
+  <svg viewBox="0 0 100 100">
+    <path class="line line1" d="M 20,29.000046 H 80.000231 C 80.000231,29.000046 94.498839,28.817352 94.532987,66.711331 94.543142,77.980673 90.966081,81.670246 85.259173,81.668997 79.552261,81.667751 75.000211,74.999942 75.000211,74.999942 L 25.000021,25.000058" />
+    <path class="line line2" d="M 20,50 H 80" />
+    <path class="line line3" d="M 20,70.999954 H 80.000231 C 80.000231,70.999954 94.498839,71.182648 94.532987,33.288669 94.543142,22.019327 90.966081,18.329754 85.259173,18.331003 79.552261,18.332249 75.000211,25.000058 75.000211,25.000058 L 25.000021,74.999942" />
+  </svg>
+  <div class="mobile-button__text">
+    <div class="mobile-button__open">Main</div>
+    <div class="mobile-button__close">Close</div>
+  </div>
+</button>
+          </div>
+    </div>
+  </section>
+
+        
+
+
+<section class="site-search site-search--modal" data-drupal-selector="site-search" id="site-search" role="search">
+  <div class="container">
+
+          <div class="site-search__close">
+        <button class="button button--square button--outline" aria-label="Search close" type="button" role="button" data-drupal-selector="search-close">
+          <span class="visually-hidden" aria-label="Close Overlay" aria-hidden="false"></span>
+          <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 352 512">
+            <path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path>
+          </svg>
+        </button>
+      </div>
+
+      <div class="site-search__heading">
+        <h2>Search</h2>
+		    <span>Try looking up an academic program, research topic, or information about life at UCLA.</span>
+      </div>
+    
+    <div class="site-search__content">
+              
+
+
+
+<form action="/search" method="get" id="search-block-form--88" accept-charset="UTF-8" class="search-block-form">
+  <div class="js-form-item form-item js-form-type-search form-item-keys js-form-item-keys form-no-label">
+    <label for="edit-keywords" class="form-item__label visually-hidden">Search</label>
+    <input title="Enter the terms you wish to search for." placeholder="Search by keyword or phrase." data-drupal-selector="edit-keys" type="search" id="edit-keywords" name="keywords" value="" size="15" maxlength="128" class="form-search form-element form-element--type-search form-element--api-search">
+  </div>
+  <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--88">
+    <button class="search-block-form__submit js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit--88" value="Search">
+      <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 23">
+        <path fill="currentColor" d="M21.7,21.3l-4.4-4.4C19,15.1,20,12.7,20,10c0-5.5-4.5-10-10-10S0,4.5,0,10s4.5,10,10,10c2.1,0,4.1-0.7,5.8-1.8l4.5,4.5c0.4,0.4,1,0.4,1.4,0S22.1,21.7,21.7,21.3z M10,18c-4.4,0-8-3.6-8-8s3.6-8,8-8s8,3.6,8,8S14.4,18,10,18z"></path>
+      </svg>
+      <span class="visually-hidden">Search</span>
+    </button>
+  </div>
+</form>
+          </div>
+
+      </div>
+</section>
+    </header>
+
+  
+  <main id="main-content" tabindex="-1" role="main" class="main">
+        
+
+
+  
+  <section class="region  region--highlighted"  >
+
+        
+
+
+
+
+
+
+
+  <div class="block block-system-messages-block" >
+
+  
+    
+
+  
+        <div data-drupal-messages-fallback class="hidden messages-list"></div>
+  
+  
+  </div>
+
+    
+  </section>
+
+    
+    
+    
+
+
+  
+  <section class="region  region--content"  id="content">
+
+        
+
+
+
+
+
+
+
+  <div class="block block-system-main-block" >
+
+  
+    
+
+      <div class="block__content" >
+  
+        
+
+
+
+<article class="page page--full"  about="/resources">
+  <header class="page-header ">
+    <div class="container">
+      <div class="page-header__content">
+        
+        
+  
+
+
+<nav class="breadcrumb"  aria-labelledby="system-breadcrumb" role="navigation">
+  <div id="surface-breadcrumb" class="visually-hidden">Breadcrumb</div>
+  <ol class="breadcrumb__list">
+          <li class="breadcrumb__item">
+                  <a href="/" class="breadcrumb__link">
+                          <svg class="svg-inline" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                <path fill="currentColor" d="M288 115L69.47 307.71c-1.62 1.46-3.69 2.14-5.47 3.35V496a16 16 0 0 0 16 16h128a16 16 0 0 0 16-16V368a16 16 0 0 1 16-16h96a16 16 0 0 1 16 16v128a16 16 0 0 0 16 16h128a16 16 0 0 0 16-16V311.1c-1.7-1.16-3.72-1.82-5.26-3.2zm282.69 121.28l-255.94-226a39.85 39.85 0 0 0-53.45 0l-256 226a16 16 0 0 0-1.21 22.6L25.5 282.7a16 16 0 0 0 22.6 1.21L277.42 81.63a16 16 0 0 1 21.17 0L527.91 283.9a16 16 0 0 0 22.6-1.21l21.4-23.82a16 16 0 0 0-1.22-22.59z"></path>
+              </svg>
+              <span class="visually-hidden">Home</span>
+                      </a>
+                                  </li>
+      </ol>
+</nav>
+
+
+        <div class="page-header__text">
+          
+                      <h1>
+              
+
+<span>Resources</span>
+
+            </h1>
+                    
+
+                  </div>
+      </div>
+
+          </div>
+  </header>
+
+  <main class="page__main" >
+    <div class="container">
+        
+<div class="paragraph paragraph--type--sf-section paragraph--view-mode--default">
+  
+
+  <div class="layout layout--twocol-30-70">
+          <div  class="layout__region layout__region--first">
+        
+
+
+
+
+
+<nav class="nav"  aria-labelledby="block-sidebar-navigation" role="navigation">
+  
+  <div class="nav__title"  id="block-sidebar-navigation"><a href="/resources" title="Simulation Resources">Resources</a></div>
+  
+
+      
+
+
+
+  
+    
+    
+    <ul class="menu-sidebar"  data-drupal-selector="menu-sidebar--level-1" >
+      
+                          
+        
+        
+                
+        <li class="menu__item menu__item--link menu__item--level-1" data-drupal-selector="">
+                    
+                                    <a href="/resources/high-fidelity-simulators" title="High Fidelity Simulators" class="menu__link menu__link--link menu__link--level-1" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/1011">            <span class="menu__link-inner menu__link-inner--level-1">High Fidelity Simulators</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+        
+                
+        <li class="menu__item menu__item--link menu__item--level-1" data-drupal-selector="">
+                    
+                                    <a href="/resources/low-fidelity-simulators" title="Low Fidelity Simulators" class="menu__link menu__link--link menu__link--level-1" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/1016">            <span class="menu__link-inner menu__link-inner--level-1">Low Fidelity Simulators</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+        
+                
+        <li class="menu__item menu__item--link menu__item--level-1" data-drupal-selector="">
+                    
+                                    <a href="/resources/task-trainers" title="Task Trainers" class="menu__link menu__link--link menu__link--level-1" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/1021">            <span class="menu__link-inner menu__link-inner--level-1">Task Trainers</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+        
+                
+        <li class="menu__item menu__item--link menu__item--level-1" data-drupal-selector="">
+                    
+                                    <a href="/resources/virtual-simulators" title="Virtual Simulators" class="menu__link menu__link--link menu__link--level-1" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/1026">            <span class="menu__link-inner menu__link-inner--level-1">Virtual Simulators</span>
+          </a>
+            
+            
+                  </li>
+      
+                          
+        
+        
+                
+        <li class="menu__item menu__item--link menu__item--level-1" data-drupal-selector="">
+                    
+                                    <a href="/resources/clinical-equipment" title="Clinical Equipment" class="menu__link menu__link--link menu__link--level-1" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/1031">            <span class="menu__link-inner menu__link-inner--level-1">Clinical Equipment</span>
+          </a>
+            
+            
+                  </li>
+          </ul>
+  
+
+
+  </nav>
+
+        
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+        
+
+
+<div class="text prose  mb-15" >
+  <h2>Resources for Simulation Training</h2>
+
+<p>The UCLA Simulation Center has a variety of resources and equipment to help provide&nbsp;the most realistic and effective medical training experience possible for our learners. These items range from simple procedural task trainers to advanced computerized patient simulators that mimic real human physiology.</p>
+</div>
+
+<div class="paragraph paragraph--type--sf-section paragraph--view-mode--default">
+  
+
+  <div class="layout layout--threecol">
+          <div  class="layout__region layout__region--first">
+        
+
+
+<div class="text prose  mb-15" >
+  <a href="/node/991">
+
+
+
+
+
+
+<div class="media align-center media--type-sf-image-media-type media--view-mode-landscape-4-3">
+  
+            
+
+
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/g/files/oketem401/files/styles/landscape_4_3_1200x900/public/media/images/StandardizedPatient.png.webp?itok=D2slryPz 1x" media="all and (min-width: 1200px)" type="image/webp" width="685" height="514">
+              <source srcset="/sites/g/files/oketem401/files/styles/landscape_4_3_992x744/public/media/images/StandardizedPatient.png.webp?itok=MaM1zmzM 1x" media="all and (min-width: 992px)" type="image/webp" width="685" height="514">
+              <source srcset="/sites/g/files/oketem401/files/styles/landscape_4_3_768x576/public/media/images/StandardizedPatient.png.webp?itok=GDf4mIO1 1x" media="all and (min-width: 768px)" type="image/webp" width="685" height="514">
+              <source srcset="/sites/g/files/oketem401/files/styles/cinemascope_21_9_480x206/public/media/images/StandardizedPatient.png.webp?itok=AvI7lYBs 1x" media="all and (min-width: 480px)" type="image/webp" width="800" height="514">
+                  
+
+<img loading="eager" src="/sites/g/files/oketem401/files/styles/landscape_4_3_480x360/public/media/images/StandardizedPatient.png.webp?itok=4r5_O6nW" width="685" height="514" alt="Standardized Patient and Medical Student" typeof="foaf:Image">
+
+  </picture>
+
+</div>
+      
+      </div>
+
+</a>
+
+<p>An overview of the UCLA Simulation Center's Standardized Patient (SP) Program.</p>
+
+<p><a class="button button--primary" href="/node/991">Standardized Patients</a></p>
+</div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+        
+
+
+<div class="text prose  mb-15" >
+  <a href="/node/1011">
+
+
+
+
+
+
+<div class="media align-center media--type-sf-image-media-type media--view-mode-landscape-4-3">
+  
+            
+
+
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/g/files/oketem401/files/styles/landscape_4_3_1200x900/public/media/images/Sim%20Centers%20220907_455p.png.webp?itok=dppa0iy5 1x" media="all and (min-width: 1200px)" type="image/webp" width="800" height="600">
+              <source srcset="/sites/g/files/oketem401/files/styles/landscape_4_3_992x744/public/media/images/Sim%20Centers%20220907_455p.png.webp?itok=Rb0dbOUE 1x" media="all and (min-width: 992px)" type="image/webp" width="800" height="600">
+              <source srcset="/sites/g/files/oketem401/files/styles/landscape_4_3_768x576/public/media/images/Sim%20Centers%20220907_455p.png.webp?itok=d9Fv7deW 1x" media="all and (min-width: 768px)" type="image/webp" width="800" height="600">
+              <source srcset="/sites/g/files/oketem401/files/styles/cinemascope_21_9_480x206/public/media/images/Sim%20Centers%20220907_455p.png.webp?itok=yuYS3KRu 1x" media="all and (min-width: 480px)" type="image/webp" width="900" height="600">
+                  
+
+<img loading="eager" src="/sites/g/files/oketem401/files/styles/landscape_4_3_480x360/public/media/images/Sim%20Centers%20220907_455p.png.webp?itok=D1E1-tGK" width="800" height="600" alt="Medical Students with High Fidelity Mannequin Simulator" typeof="foaf:Image">
+
+  </picture>
+
+</div>
+      
+      </div>
+
+</a>
+
+<p>An overview of high fidelity computerized patient simulators owned by the UCLA Simulation Center.</p>
+
+<p><a class="button button--primary" href="/node/1011">High Fidelity Simulators</a></p>
+</div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--third">
+        
+
+
+<div class="text prose  mb-15" >
+  <a href="/node/1016">
+
+
+
+
+
+
+<div class="media align-center media--type-sf-image-media-type media--view-mode-landscape-4-3">
+  
+            
+
+
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/g/files/oketem401/files/styles/landscape_4_3_1200x900/public/media/images/Sim%20Centers%20220907.png.webp?itok=W8WGgmof 1x" media="all and (min-width: 1200px)" type="image/webp" width="800" height="600">
+              <source srcset="/sites/g/files/oketem401/files/styles/landscape_4_3_992x744/public/media/images/Sim%20Centers%20220907.png.webp?itok=APcyM_Vh 1x" media="all and (min-width: 992px)" type="image/webp" width="800" height="600">
+              <source srcset="/sites/g/files/oketem401/files/styles/landscape_4_3_768x576/public/media/images/Sim%20Centers%20220907.png.webp?itok=7ZyxUuEB 1x" media="all and (min-width: 768px)" type="image/webp" width="800" height="600">
+              <source srcset="/sites/g/files/oketem401/files/styles/cinemascope_21_9_480x206/public/media/images/Sim%20Centers%20220907.png.webp?itok=r37BC1em 1x" media="all and (min-width: 480px)" type="image/webp" width="900" height="385">
+                  
+
+<img loading="eager" src="/sites/g/files/oketem401/files/styles/landscape_4_3_480x360/public/media/images/Sim%20Centers%20220907.png.webp?itok=LRDLoi0t" width="800" height="600" alt="Medical Students with a Low Fidelity Simulator Mannequin" typeof="foaf:Image">
+
+  </picture>
+
+</div>
+      
+      </div>
+
+</a>
+
+<p>An overview of low fidelity patient simulators owned by the UCLA Simulation Center.</p>
+
+<p><a class="button button--primary" href="/node/1016">Low Fidelity Simulators</a></p>
+</div>
+
+      </div>
+      </div>
+
+</div>
+
+<div class="paragraph paragraph--type--sf-section paragraph--view-mode--default">
+  
+
+  <div class="layout layout--threecol">
+          <div  class="layout__region layout__region--first">
+        
+
+
+<div class="text prose  mb-15" >
+  <a href="/node/1021">
+
+
+
+
+
+
+<div class="media align-center media--type-sf-image-media-type media--view-mode-landscape-4-3">
+  
+            
+
+
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/g/files/oketem401/files/styles/landscape_4_3_1200x900/public/media/images/GeffenHandsOn.UCLA_.03292022_JS.0233.jpg.webp?itok=aIrG6z0Y 1x" media="all and (min-width: 1200px)" type="image/webp" width="817" height="613">
+              <source srcset="/sites/g/files/oketem401/files/styles/landscape_4_3_992x744/public/media/images/GeffenHandsOn.UCLA_.03292022_JS.0233.jpg.webp?itok=3tmbL9xa 1x" media="all and (min-width: 992px)" type="image/webp" width="817" height="613">
+              <source srcset="/sites/g/files/oketem401/files/styles/landscape_4_3_768x576/public/media/images/GeffenHandsOn.UCLA_.03292022_JS.0233.jpg.webp?itok=mHVVbTWw 1x" media="all and (min-width: 768px)" type="image/webp" width="817" height="613">
+              <source srcset="/sites/g/files/oketem401/files/styles/cinemascope_21_9_480x206/public/media/images/GeffenHandsOn.UCLA_.03292022_JS.0233.jpg.webp?itok=onCrqoDK 1x" media="all and (min-width: 480px)" type="image/webp" width="1200" height="514">
+                  
+
+<img loading="eager" src="/sites/g/files/oketem401/files/styles/landscape_4_3_480x360/public/media/images/GeffenHandsOn.UCLA_.03292022_JS.0233.jpg.webp?itok=0k9fMbp_" width="817" height="613" alt="Task Trainer Simulator" typeof="foaf:Image">
+
+  </picture>
+
+</div>
+      
+      </div>
+
+</a>
+
+<p>An overview of procedural task trainers owned by the UCLA Simulation Center.</p>
+
+<p><a class="button button--primary" href="/node/1021">Task Trainers</a></p>
+</div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+        
+
+
+<div class="text prose  mb-15" >
+  <a href="/node/1026">
+
+
+
+
+
+
+<div class="media align-center media--type-sf-image-media-type media--view-mode-landscape-4-3">
+  
+            
+
+
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/g/files/oketem401/files/styles/landscape_4_3_1200x900/public/media/images/VR-Demo-Prospective-Students.png.webp?itok=noF6diDp 1x" media="all and (min-width: 1200px)" type="image/webp" width="445" height="334">
+              <source srcset="/sites/g/files/oketem401/files/styles/landscape_4_3_992x744/public/media/images/VR-Demo-Prospective-Students.png.webp?itok=zL6edRc1 1x" media="all and (min-width: 992px)" type="image/webp" width="445" height="334">
+              <source srcset="/sites/g/files/oketem401/files/styles/landscape_4_3_768x576/public/media/images/VR-Demo-Prospective-Students.png.webp?itok=oBf4ol4e 1x" media="all and (min-width: 768px)" type="image/webp" width="445" height="334">
+              <source srcset="/sites/g/files/oketem401/files/styles/cinemascope_21_9_480x206/public/media/images/VR-Demo-Prospective-Students.png.webp?itok=MYk7uqoo 1x" media="all and (min-width: 480px)" type="image/webp" width="882" height="334">
+                  
+
+<img loading="eager" src="/sites/g/files/oketem401/files/styles/landscape_4_3_480x360/public/media/images/VR-Demo-Prospective-Students.png.webp?itok=qYHf9xES" width="445" height="334" alt="VR Simulator Demo with Prospective Students" typeof="foaf:Image">
+
+  </picture>
+
+</div>
+      
+      </div>
+
+</a>
+
+<p>An overview of virtual simulator hardware and software owned by the UCLA Simulation Center.</p>
+
+<p><a class="button button--primary" href="/node/1026">Virtual Simulators</a></p>
+</div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--third">
+        
+
+
+<div class="text prose  mb-15" >
+  <a href="/node/1031">
+
+
+
+
+
+
+<div class="media align-center media--type-sf-image-media-type media--view-mode-landscape-4-3">
+  
+            
+
+
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/g/files/oketem401/files/styles/landscape_4_3_1200x900/public/media/images/Sim%20Centers%20220907_1.png.webp?itok=pnyxI-S5 1x" media="all and (min-width: 1200px)" type="image/webp" width="800" height="600">
+              <source srcset="/sites/g/files/oketem401/files/styles/landscape_4_3_992x744/public/media/images/Sim%20Centers%20220907_1.png.webp?itok=FGmxR-80 1x" media="all and (min-width: 992px)" type="image/webp" width="800" height="600">
+              <source srcset="/sites/g/files/oketem401/files/styles/landscape_4_3_768x576/public/media/images/Sim%20Centers%20220907_1.png.webp?itok=TiUn8VSo 1x" media="all and (min-width: 768px)" type="image/webp" width="800" height="600">
+              <source srcset="/sites/g/files/oketem401/files/styles/cinemascope_21_9_480x206/public/media/images/Sim%20Centers%20220907_1.png.webp?itok=jkYEoGWR 1x" media="all and (min-width: 480px)" type="image/webp" width="900" height="385">
+                  
+
+<img loading="eager" src="/sites/g/files/oketem401/files/styles/landscape_4_3_480x360/public/media/images/Sim%20Centers%20220907_1.png.webp?itok=upLUZ8r-" width="800" height="600" alt="Defibrillator Used During Scenario Based Training" typeof="foaf:Image">
+
+  </picture>
+
+</div>
+      
+      </div>
+
+</a>
+
+<p>An overview of clinical equipment owned by the UCLA Simulation Center.</p>
+
+<p><a class="button button--primary" href="/node/1031">Clinical Equipment</a></p>
+</div>
+
+      </div>
+      </div>
+
+</div>
+
+      </div>
+      </div>
+
+</div>
+
+  
+<div class="paragraph paragraph--type--sf-section paragraph--view-mode--default">
+  
+
+  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+    </div>
+  </div>
+
+</div>
+
+
+    </div>
+  </main>
+</article>
+
+  
+      </div>
+  
+  </div>
+
+    
+  </section>
+
+    
+    </main>
+
+      
+  
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="site-footer__content grid">
+      <div class="site-footer__branding">
+              
+<a href="/" rel="home" class="site-branding site-branding--footer site-branding--horizontal">
+      <img src="https://www.sim.ucla.edu/sites/g/files/oketem401/files/logos/UCLA-Simulation-Center_Horizontal_CMYK_White.svg" alt="Home" />
+  </a>
+
+
+      <ul class="menu menu-social">
+    <li class="menu__item">
+    <a class="menu__link" href="https://www.facebook.com/DavidGeffenSchoolofMedicineUCLA/" target="_blank">
+      <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+        <path fill="currentColor" d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"/>
+      </svg>
+      <span class="visually-hidden">Facebook</span>
+    </a>
+  </li>
+  
+    <li class="menu__item">
+    <a class="menu__link" href="https://twitter.com/dgsomucla" target="_blank">
+      <svg aria-hidden="true" width="300" height="306" viewBox="0 0 1200 1227" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+      <path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"/>
+      </svg>
+      <span class="visually-hidden">X</span>
+    </a>
+  </li>
+  
+    <li class="menu__item">
+    <a class="menu__link" href="https://www.instagram.com/dgsomucla/" target="_blank">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path aria-hidden="true" fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/>
+      </svg>
+      <span class="visually-hidden">Instagram</span>
+    </a>
+  </li>
+  
+    <li class="menu__item">
+    <a class="menu__link" href="https://www.youtube.com/c/davidgeffenschoolofmedicineatucla" target="_blank">
+      <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+        <path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"/>
+      </svg>
+      <span class="visually-hidden">YouTube</span>
+    </a>
+  </li>
+  
+    <li class="menu__item">
+    <a class="menu__link" href="https://www.linkedin.com/school/david-geffen-school-of-medicine-at-ucla/" target="_blank">
+      <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"/>
+      </svg>
+      <span class="visually-hidden">LinkedIn</span>
+    </a>
+  </li>
+  </ul>
+
+              <div class="site-credit">
+  <p>700 Westwood Plaza<br />
+Suite 1106<br />
+Los Angeles, CA 90095</p>
+
+<p>Telephone:<strong> (310) 267-2114</strong></p>
+
+</div>
+                </div>
+
+      <div class="site-footer__menu">
+              
+
+    
+          
+      <ul class="menu menu-footer" >
+    
+                        
+      
+      
+            
+      <li class="menu__item menu__item--nolink">
+                  <h4 class="menu__link menu__link--nolink">Simulation Courses</h4>
+        
+                      
+          <ul class="menu__subnav">
+    
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="/courses/medical-students" title="Courses for Medical Students" class="menu__link menu__link--link" data-drupal-link-system-path="node/826">Medical Students</a>
+                  
+              </li>
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="/courses/residents" title="Courses for Residents" class="menu__link menu__link--link" data-drupal-link-system-path="node/836">Residents</a>
+                  
+              </li>
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="/courses/nursing-students" title="Courses for Nursing Students" class="menu__link menu__link--link" data-drupal-link-system-path="node/1171">Nursing Students</a>
+                  
+              </li>
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="/courses/clinical-nurses" title="Courses for Clinical Nurses" class="menu__link menu__link--link" data-drupal-link-system-path="node/841">Clinical Nurses</a>
+                  
+              </li>
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="/courses/continuing-professional-development" title="Continuing Professional Development Courses" class="menu__link menu__link--link" data-drupal-link-system-path="node/1036">Continuing Professional Development</a>
+                  
+              </li>
+        </ul>
+  
+              </li>
+                        
+      
+      
+            
+      <li class="menu__item menu__item--nolink">
+                  <h4 class="menu__link menu__link--nolink">Training Resources</h4>
+        
+                      
+          <ul class="menu__subnav">
+    
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="/standardized-patient-program" title="Standardized Patients" class="menu__link menu__link--link" data-drupal-link-system-path="node/991">Standardized Patients</a>
+                  
+              </li>
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="/resources/high-fidelity-simulators" title="High Fidelity Simulators" class="menu__link menu__link--link" data-drupal-link-system-path="node/1011">High Fidelity Simulators</a>
+                  
+              </li>
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="/resources/low-fidelity-simulators" title="Low Fidelity Simulators" class="menu__link menu__link--link" data-drupal-link-system-path="node/1016">Low Fidelity Simulators</a>
+                  
+              </li>
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="/resources/task-trainers" title="Task Trainers" class="menu__link menu__link--link" data-drupal-link-system-path="node/1021">Task Trainers</a>
+                  
+              </li>
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="/resources/virtual-simulators" title="Virtual Simulators" class="menu__link menu__link--link" data-drupal-link-system-path="node/1026">Virtual Simulators</a>
+                  
+              </li>
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="/resources/clinical-equipment" title="Clinical Equipment" class="menu__link menu__link--link" data-drupal-link-system-path="node/1031">Clinical Equipment</a>
+                  
+              </li>
+        </ul>
+  
+              </li>
+                        
+      
+      
+            
+      <li class="menu__item menu__item--nolink">
+                  <h4 class="menu__link menu__link--nolink">Connect</h4>
+        
+                      
+          <ul class="menu__subnav">
+    
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="/contact-us" title="Contact Us" class="menu__link menu__link--link" data-drupal-link-system-path="node/926">Contact Us</a>
+                  
+              </li>
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="https://sim-request.ctrl.ucla.edu/" title="Sim Request Portal" class="menu__link menu__link--link">Sim Requests</a>
+                  
+              </li>
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="https://uclahs.az1.qualtrics.com/jfe/form/SV_eVQbq9dNMgDKc2G" title="Tour Requests" class="menu__link menu__link--link">Tour Requests</a>
+                  
+              </li>
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="/contact/directions-parking" title="Directions and Parking" class="menu__link menu__link--link" data-drupal-link-system-path="node/931">Directions &amp; Parking</a>
+                  
+              </li>
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="/facility/rosenfeld-hall-map" title="Rosenfeld Hall Map" class="menu__link menu__link--link" data-drupal-link-system-path="node/1051">Rosenfeld Hall Map</a>
+                  
+              </li>
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="/facility/sim-center-annex-map" title="Sim Center Annex Map" class="menu__link menu__link--link" data-drupal-link-system-path="node/1056">Sim Center Annex Map</a>
+                  
+              </li>
+                        
+      
+      
+            
+      <li class="menu__item menu__item--link">
+                              <a href="/calendar" title="UCLA Simulation Center Calendar" class="menu__link menu__link--link" data-drupal-link-system-path="node/871">Calendar</a>
+                  
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+          </div>
+    </div>
+    <div class="site-footer__utility grid">
+      <div class="copyright">
+  &copy; 2024 Regents of University of California
+</div>
+      
+
+<ul class="menu menu-utility">
+	<li class="menu__item">
+		<a class="menu__link" href="https://www.bso.ucla.edu/">Emergency</a>
+	</li>
+	<li class="menu__item">
+		<a class="menu__link" href="http://www.ucla.edu/accessibility">Accessibility</a>
+	</li>
+	<li class="menu__item">
+		<a class="menu__link" href="https://www.ucla.edu/terms-of-use">UCLA Privacy Policy</a>
+	</li>
+	<li class="menu__item">
+		<a class="menu__link" href="https://www.uclahealth.org/privacy-notice">UCLA Health Privacy Notice</a>
+	</li>
+  <li class="menu__item">
+          <a class="menu__link" rel="nofolow" href="/user/login">Login</a>
+    </ul>
+    </div>
+
+      </div>
+</footer>
+
+  </div>
+
+  </div>
+
+    
+    
+        <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/981","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":true,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"before","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"user":{"uid":0,"permissionsHash":"c33fc14e53ed07ab8df3135e5a55797b301011410ae9046bfd008ff43095d64f"}}</script>
+<script src="/sites/g/files/oketem401/files/js/js_5hHaU43jXUlaXqVbbvNLw1Uz4xfyL45jlpcTPjGp9Io.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=surface&amp;include=eJxVj1myxCAIRTeUxDWhkoRqHAqw62X3z-pBO58c4A56qWFyHhQXbbJDQHdw8cAL_hlTfrgorQJvn3FcJcxtbUZMdg2oZLjupRjKYBmeSwWBQ6Ce-pWbZGu5Ns-kJ8bxxHCVZkvCSOB24i64BahGJf8k6MsxWQ94D6cU0cMM4gUhBmnJD1ThmL09lzD7KYKEc33BXknSveR7Pd0FsjIY3q_O7ojyD7Qxiac"></script>
+
+  <script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=17&cb=1917439096" async></script></body>
+</html>

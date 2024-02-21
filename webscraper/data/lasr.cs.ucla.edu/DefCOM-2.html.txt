@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta http-equiv="content-type"
+ content="text/html; charset=ISO-8859-1">
+  <title>Conquest-2</title>
+</head>
+<body style="color: rgb(0, 0, 0); background-color: rgb(153, 255, 153);"
+ link="#000099" vlink="#990099" alink="#000099">
+<br>
+<br>
+<div style="text-align: center;"><big><big><big><span
+ style="font-family: capitals;">DefCOM</span></big><br>
+<br style="font-weight: bold; font-family: capitals;">
+<span
+ style="font-weight: bold; font-family: helvetica,arial,sans-serif;"><big><span
+ style="font-style: italic;">Distributed Defense Against DDoS Attacks</span></big><br
+ style="font-style: italic;">
+&nbsp;
+</span></big></big><br style="font-family: helvetica,arial,sans-serif;">
+</div>
+<br>
+<hr style="width: 100%; height: 5px; color: rgb(102, 0, 204);"><br>
+<br>
+<br>
+<div style="margin-left: 40px;"><big
+ style="font-weight: bold; font-family: helvetica,arial,sans-serif;">NSF
+Grant: <span style="color: rgb(0, 0, 153);">CNS-016528-001 (Sep 2004
+to Aug 2007)<br>
+<span style="color: rgb(0, 0, 0);">University of Delaware PI:&nbsp;</span>
+<a href="http://www.eecis.udel.edu/%7Esunshine/">Jelena Mirkovic</a> <br>
+</span></big><big
+ style="font-weight: bold; font-family: helvetica,arial,sans-serif;">UCLA
+PI:&nbsp; <span style="color: rgb(0, 0, 153);"><a
+ href="http://www.lasr.cs.ucla.edu/reiher.new/index2.html">Peter
+Reiher</a>
+(Laboratory for Advanced Systems Research)</span></big><br>
+<br>
+</div>
+<center>
+<br>
+<br>
+</center>
+<div style="margin-left: 40px;"><span style="font-weight: bold;"><span
+ style="font-style: italic;">DefCOM&nbsp;</span> is a three-year
+NSF-funded collaborative research grant with the Professor Jelena
+Mirkovic and the University of Delaware.&nbsp; Under this grant, the <a
+ href="http://lasr.cs.ucla.edu">LASR</a>
+lab shall demonstrate that an effective defense against flooding
+distributed denial-of-servicer (DDoS) attacks, and collatoral damage
+can be achieved practically through a sparse deploymet of an overlay
+network of defense nodes.<br>
+<br>
+Many critical funstions today are realized through the use of network
+services, and DDoS attacks represent a major threat to network
+operations.&nbsp; They overwhelm a key resource at the victim network,
+generating a flood of seemingly legitimate packets, deny services to
+legitimate clients and frequently create heavy Internet
+congestion.&nbsp; Attackers need not possess any particular skill to
+perpetrate DDoS attacks, and face virtually no risk of
+attribution.&nbsp; In spite of numerous research and commercial efforts,
+there are still no effective DDoS defenses.<br>
+<br>
+<span style="font-style: italic;">DefCOM</span>, our distributed DDoS
+defense system, will distribute nodes throughout the Internet
+(organized into peer-to-peer overlays) and will act jointly to detect
+and respond to DDoS attacks.&nbsp; Attack resonse is twofold:&nbsp; on
+one hand, defense nodes constrain susicious traffic, relieving the
+victim from high-volume incoming streams that consume resources; on the
+other hand, nodes cooperate to detect legitimate traffic within the
+suspicious streams and ensure its correct delivery.&nbsp; Thus, <span
+ style="font-style: italic;">DefCOM</span> achieves the primary goal of
+DDoS defense -- that of cancelling the denial-of-service effect.&nbsp;
+Additionally, the system has a solid economic model where networks
+deploying defense nodes directly benefit from their operation.&nbsp; <span
+ style="font-style: italic;">DefCOM</span> further offers a framework
+for existing security systems to join the overlay and cooperate in the
+defense.&nbsp; These features create an excellent motivation for wide
+deployment and the possibility of a large impact on the DDoS threat.<br
+ style="font-weight: bold;">
+</span></div>
+<div style="margin-left: 40px;"><br style="font-weight: bold;">
+<br>
+</div>
+<br>
+</body>
+</html>

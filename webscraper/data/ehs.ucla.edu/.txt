@@ -1,0 +1,843 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://ehs.ucla.edu/" />
+<link rel="shortlink" href="https://ehs.ucla.edu/" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="apple-mobile-web-app-capable" content="yes" />
+<link rel="icon" href="/themes/custom/siteden_surface/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Home | Environment, Health &amp; Safety</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_WaxQHvNMOc1CnEHe8YGEfw7yXnZ64R5uRzc_O_Dlihk.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_N4u4zV_avOKoN3P_iTI3_v_aBGyTVinRyLMGFo1in5w.css" />
+
+    
+  </head>
+  <body class="path-frontpage page-node-type-sf-landing node-3241">
+    <a class="skip-to-main-button" href="#main-content" role="link" aria-label="Skip to main content">Skip to Main Content</a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+    <div class="region region-message" aria-label="message">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+
+<header id="header">
+        <div class="region region-university-header" aria-label="university_header">
+    
+<div class="header-logo">
+  <div class="header-logo__wrap">
+    <a href="https://www.ucla.edu/">
+      <img class="header-logo__image" src="/themes/custom/siteden_surface/assets/images/surface-images/logo-ucla.svg" alt="UCLA Logo" />
+    </a>
+
+      </div>
+</div>
+
+
+  </div>
+
+  
+  <div class="header-wrap">
+      <div class="region region-header" aria-label="header">
+    
+<div id="block-siteden-surface-branding" class="block block-system block-system-branding-block">
+    
+    
+    
+<div class="site-name clearfix">
+    <a href="/" title="Home" rel="home">Environment, Health &amp; Safety</a>
+</div>
+
+</div>
+
+  </div>
+
+      <div class="region region-navigation header__navbar" id="nav-main">
+    <nav role="navigation" aria-labelledby="block-siteden-surface-main-menu-menu" id="block-siteden-surface-main-menu" class="nav-primary block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-siteden-surface-main-menu-menu">Main navigation</h2>
+  
+
+        
+
+<ul region="navigation" class="nav-primary__list">
+
+      <li class="menu-firstchild is-expanded has-children">
+    <a href="/about-ehs">About EH&amp;S</a>
+          <button class="nav-primary__toggle" aria-label="toggle button to access submenu"></button>
+      <ul region="navigation" class="nav-primary__sublist">
+
+      <li>
+    <a href="/about-ehs" data-drupal-link-system-path="node/1226">Department Overview</a>
+      </li>
+      <li>
+    <a href="/ehs-mission-vision" data-drupal-link-system-path="node/2676">Our Philosophy</a>
+      </li>
+      <li>
+    <a href="/people" data-drupal-link-system-path="people">Staff Directory</a>
+      </li>
+      <li>
+    <a href="https://lucid.app/documents/view/3bd2c19b-15e9-4d9a-a6fc-5086c9f878fe">Organizational Chart</a>
+      </li>
+
+</ul>
+
+      </li>
+      <li class="is-expanded has-children">
+    <a href="/services" data-drupal-link-system-path="node/1421">How Can We Help?</a>
+          <button class="nav-primary__toggle" aria-label="toggle button to access submenu"></button>
+      <ul region="navigation" class="nav-primary__sublist">
+
+      <li>
+    <a href="/book-ehs-office-hours-services" data-drupal-link-system-path="node/3281">Book EH&amp;S Office Hours &amp; Services</a>
+      </li>
+      <li>
+    <a href="/report" data-drupal-link-system-path="node/1231">File a Report</a>
+      </li>
+      <li>
+    <a href="/inspections" data-drupal-link-system-path="node/1111">Inspections @ UCLA</a>
+      </li>
+      <li>
+    <a href="/special-event-permits" data-drupal-link-system-path="node/1561">Special Event Permit</a>
+      </li>
+      <li>
+    <a href="/documents-library" title="All documents, guides &amp; factsheets that EH&amp;S provides" data-drupal-link-system-path="node/3256">Documents Library</a>
+      </li>
+      <li>
+    <a href="/training-support/overview/navigating-worksafe" data-drupal-link-system-path="node/1601">Navigating Worksafe</a>
+      </li>
+      <li>
+    <a href="/getting-started" data-drupal-link-system-path="node/1001">Getting Started at UCLA</a>
+      </li>
+      <li>
+    <a href="/getting-started/lab-moves-close-outs" data-drupal-link-system-path="node/2436">Lab Moves &amp; Close-Outs</a>
+      </li>
+      <li>
+    <a href="/request-consultation" data-drupal-link-system-path="node/1491">Request Consultation</a>
+      </li>
+      <li>
+    <a href="/waste/services" data-drupal-link-system-path="node/1306">Waste Services</a>
+      </li>
+      <li>
+    <a href="/training-support/overview" data-drupal-link-system-path="node/996">Training</a>
+      </li>
+      <li>
+    <a href="/ehs-service-funds" data-drupal-link-system-path="node/3551">EH&amp;S Service Funds </a>
+      </li>
+
+</ul>
+
+      </li>
+      <li class="is-expanded has-children">
+    <a href="/chemical-inventory-system" data-drupal-link-system-path="node/2181">Programs &amp; Tools</a>
+          <button class="nav-primary__toggle" aria-label="toggle button to access submenu"></button>
+      <ul region="navigation" class="nav-primary__sublist">
+
+      <li>
+    <a href="https://map.ucla.edu/aq/">Campus Air Quality Index</a>
+      </li>
+      <li>
+    <a href="/chemical-inventory-system" data-drupal-link-system-path="node/2181">Chemical Inventory</a>
+      </li>
+      <li>
+    <a href="/controlled-substances-program" data-drupal-link-system-path="node/2241">Controlled Substances for Research</a>
+      </li>
+      <li>
+    <a href="/return-work-resources" data-drupal-link-system-path="node/2706">COVID-19 Return to Work Resources</a>
+      </li>
+      <li>
+    <a href="/crane-hoist-safety" data-drupal-link-system-path="node/2231">Crane &amp; Hoist Safety</a>
+      </li>
+      <li>
+    <a href="http://lhat.ehs.ucla.edu">Laboratory Hazard Assessment Tool (LHAT)</a>
+      </li>
+      <li>
+    <a href="http://mwa.ehs.ucla.edu">Medical Waste Accumulation System (MWA)</a>
+      </li>
+      <li>
+    <a href="/ucla-emergency-ppe-supply-store" data-drupal-link-system-path="node/2696">PPE Supply Store</a>
+      </li>
+      <li>
+    <a href="/pregnantworkers" data-drupal-link-system-path="node/2441">Pregnant Worker Safety</a>
+      </li>
+      <li>
+    <a href="https://rats.research.ucla.edu/">Research Application Tracking System (RATS)</a>
+      </li>
+      <li>
+    <a href="/safety-forward-program" data-drupal-link-system-path="node/2756">Safety Forward</a>
+      </li>
+      <li>
+    <a href="https://safetynet.research.ucla.edu/">SafetyNet</a>
+      </li>
+      <li>
+    <a href="https://ehs.ucla.edu/ucla-scientific-diving-program">Scientific Dive &amp; Boat Safety</a>
+      </li>
+      <li>
+    <a href="/storm-water-program" data-drupal-link-system-path="node/1036">Storm Water Program</a>
+      </li>
+      <li>
+    <a href="http://ehs.ucop.edu/waste">Waste Accumulation Storage Tracking (WASTe)</a>
+      </li>
+      <li>
+    <a href="http://worksafe.ucla.edu/">Worksafe</a>
+      </li>
+
+</ul>
+
+      </li>
+
+</ul>
+
+
+
+  </nav>
+
+<button id="search-button" aria-label="toggle button to access search form" class="search-bar__button">
+  <svg role="img" aria-hidden="true" class="nav-primary__search-icon" width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Search Icon</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+      <g transform="translate(-15.000000, -15.000000)">
+        <g id="Nav-Item">
+          <g transform="translate(12.000000, 12.000000)">
+            <polygon class="Path-polygon" points="0 0 24 0 24 24 0 24"></polygon>
+            <path d="M15.5,14 L14.71,14 L14.43,13.73 C15.41,12.59 16,11.11 16,9.5 C16,5.91 13.09,3 9.5,3 C5.91,3 3,5.91 3,9.5 C3,13.09 5.91,16 9.5,16 C11.11,16 12.59,15.41 13.73,14.43 L14,14.71 L14,15.5 L19,20.49 L20.49,19 L15.5,14 Z M9.5,14 C7.01,14 5,11.99 5,9.5 C5,7.01 7.01,5 9.5,5 C11.99,5 14,7.01 14,9.5 C14,11.99 11.99,14 9.5,14 Z" fill="#00598C" fill-rule="evenodd"></path>
+          </g>
+        </g>
+      </g>
+    </g>
+  </svg>
+</button>
+
+<div id="block-search" role="search" class="search-bar">
+<form region="navigation" class="search-bar__form" action="/search/google" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search the site:</label>
+        <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" placeholder="Search …" required="required" class="search-bar__input form-search" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" class="btn search-bar__submit button js-form-submit form-submit" type="submit" id="edit-submit" value="Search" />
+</div>
+
+</form>
+
+</div>
+
+  </div>
+
+    <div class="hamburger__container">
+
+<button id="primary-ham" class="hamburger" type="button" aria-label="toggle button to access navigation and search" title="navigation and search">
+  <span class="hamburger__box">
+    <span class="hamburger__inner"></span>
+  </span>
+</button>
+
+</div>
+  </div>
+</header>
+
+<main id="main-content" tabindex="-1">
+
+  
+      <div class="layout__container">
+      
+    </div>
+  
+  
+  <div class="layout__container layout--default     ">
+    
+    <div class="layout__content">
+        <div class="region region-content" aria-label="content">
+    
+<div id="block-siteden-surface-content" class="block block-system block-system-main-block panel">
+    
+    
+        
+<article role="article" about="/home" class="node node--type-sf-landing node--view-mode-full">
+
+  
+    
+
+  
+  <div class="node__content">
+    
+      <div class="field field--name-field-sf-content field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">  <div class="paragraph paragraph--type--sf-section paragraph--view-mode--default">
+            <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+        <div class="option--bg-color--white paragraph paragraph--type--sf-box-banner paragraph--view-mode--default">
+      <div class="banner--box panel">
+  <div class="banner--box__image">
+    <article class="media media--type-sf-image-media-type media--view-mode-hero-banner">
+  
+      
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_hero_banner/public/media/images/Virtual%20Office%20Hours_Twitter%20Post%20%281%29.png?h=8abcec71&amp;itok=H58ZSQFw" width="1708" height="962" alt="office hours" typeof="foaf:Image" class="image-style-sf-hero-banner" />
+
+
+</div>
+      
+  </article>
+
+  </div>
+
+  <div class="banner--box__body">
+    <div class="banner--box__body-inner">
+          <h2 class="banner--box__title">We&#039;re Here to Help </h2>
+    
+          <div class="banner--box__summary">
+        Have Questions? Need Assistance? We've made it easier to contact an EH&amp;S professional in one of our many areas of expertise.
+      </div>
+    
+      <div class="banner--box__button-group">
+                        <a href="/book-ehs-office-hours-services" class="banner--box__button">Read more</a>
+              </div>
+    </div>
+  </div>
+</div>
+  </div>
+
+    </div>
+  </div>
+
+      </div>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--sf-section paragraph--view-mode--default">
+            <div class="layout layout--twocol-section layout--twocol-section--25-75">
+
+          <div  class="layout__region layout__region--first">
+          <div class="paragraph paragraph--type--sf-view-embed paragraph--view-mode--default">
+      <div class="sf_view-embed">
+      <h2 class="heading--bar">Latest News Articles</h2>
+    
+<div class="field__item field__item-label-hidden">
+  
+    
+      <div class="views-element-container"><div class="view view-sf-articles-recent view-id-sf_articles_recent view-display-id-block_1 js-view-dom-id-5abd57585a9d76c28cc7ddbafa136af21d576b2183a4501b65cd7f05c612f7e7">
+  
+    
+      
+      <div class="view-content ">
+          <div>
+
+  <article role="article" about="/lab-safety-awareness-week-2024" class="view-mode--listing">
+      <div class="node-general__media">
+      
+            <div class="field field--name-field-sf-featured-media field--type-entity-reference field--label-hidden field__item">  <a href="/lab-safety-awareness-week-2024" hreflang="en"><img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/Lab%20Safety%20Week%20Digital%20Graphic%20DRAFT%202_0.jpg?h=3e07f1d9&amp;itok=etho3pJC" width="320" height="240" alt="Loving Lab Safety flyer. EH&amp;S Lab Safety Awareness Week, Kick-off event Monday, Feb 12 from 10 am to 2 pm. Includes map showing locations of event tables on campus." typeof="foaf:Image" class="image-style-sf-thumbnail" />
+
+</a>
+</div>
+      
+    </div>
+  
+  <div class="node-general__info">
+    <div class="node-general__title">
+              <h3><a href="/lab-safety-awareness-week-2024">Loving Lab Safety: Celebrate Lab Safety Awareness Week, brought to you by EH&amp;S! </a></h3>
+          </div>
+  </div>
+</article>
+
+</div>
+    <div>
+
+  <article role="article" about="/news/ehs-closed-jan-15-2024-observance-mlk-jr-holiday" class="view-mode--listing">
+      <div class="node-general__media">
+      
+            <div class="field field--name-field-sf-featured-media field--type-entity-reference field--label-hidden field__item">  <a href="/news/ehs-closed-jan-15-2024-observance-mlk-jr-holiday" hreflang="en"><img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/MLK%20Day_0.png?h=8abcec71&amp;itok=TLtrxMoe" width="320" height="240" alt="mlk 2024" typeof="foaf:Image" class="image-style-sf-thumbnail" />
+
+</a>
+</div>
+      
+    </div>
+  
+  <div class="node-general__info">
+    <div class="node-general__title">
+              <h3><a href="/news/ehs-closed-jan-15-2024-observance-mlk-jr-holiday">EH&amp;S Closed Jan. 15, 2024 in Observance of MLK, Jr. Holiday</a></h3>
+          </div>
+  </div>
+</article>
+
+</div>
+    <div>
+
+  <article role="article" about="/news/ehs-23-24-winter-break-service-hours" class="view-mode--listing">
+  
+  <div class="node-general__info">
+    <div class="node-general__title">
+              <h3><a href="/news/ehs-23-24-winter-break-service-hours">EH&amp;S &#039;23-&#039;24 Winter Break Service Hours</a></h3>
+          </div>
+  </div>
+</article>
+
+</div>
+    <div>
+
+  <article role="article" about="/news/ehs-offices-closed-observance-thanksgiving-holiday-1" class="view-mode--listing">
+      <div class="node-general__media">
+      
+            <div class="field field--name-field-sf-featured-media field--type-entity-reference field--label-hidden field__item">  <a href="/news/ehs-offices-closed-observance-thanksgiving-holiday-1" hreflang="en"><img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/2023%20Thanksgiving%20FB%20%281%29_0.png?h=eb901320&amp;itok=TvvwbNnF" width="320" height="240" alt="2023 Thanksgiving FB (1).png" typeof="foaf:Image" class="image-style-sf-thumbnail" />
+
+</a>
+</div>
+      
+    </div>
+  
+  <div class="node-general__info">
+    <div class="node-general__title">
+              <h3><a href="/news/ehs-offices-closed-observance-thanksgiving-holiday-1">EH&amp;S Offices Closed in Observance of Thanksgiving Holiday </a></h3>
+          </div>
+  </div>
+</article>
+
+</div>
+    <div>
+
+  <article role="article" about="/news/veterans-day-observed-friday-nov-10-2023" class="view-mode--listing">
+      <div class="node-general__media">
+      
+            <div class="field field--name-field-sf-featured-media field--type-entity-reference field--label-hidden field__item">  <a href="/news/veterans-day-observed-friday-nov-10-2023" hreflang="en"><img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/2022%20VETS%20DAY%20TWITTER%20%281%29.png?h=8abcec71&amp;itok=s2qvfVmG" width="320" height="240" alt="2022 VETS DAY TWITTER (1).png" typeof="foaf:Image" class="image-style-sf-thumbnail" />
+
+</a>
+</div>
+      
+    </div>
+  
+  <div class="node-general__info">
+    <div class="node-general__title">
+              <h3><a href="/news/veterans-day-observed-friday-nov-10-2023">Veterans Day Observed Friday, Nov. 10, 2023</a></h3>
+          </div>
+  </div>
+</article>
+
+</div>
+
+    </div>
+  
+            <div class="view-footer">
+      <a href="/articles/news" class="icon-link icon-link--internal">View all</a>
+    </div>
+    </div>
+</div>
+
+  </div>
+
+</div>
+  </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+          <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><h2 class="heading--bar">Quick Links</h2>
+
+<div class="o-pack">
+<div>
+<article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/report%20an%20incident.jpg?h=e5aec6c8&amp;itok=E-yTs8kI" width="320" height="240" alt="Report an incident " typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="/report">Report an Incident</a></h4>
+</div>
+
+<div>
+<article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/imgpsh_mobile_save.jpg?h=f8821c3d&amp;itok=Q8I009Y4" width="320" height="240" alt="Virtual office hours icon" typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="https://www.ehs.ucla.edu/ehs-virtual-office-hours">Book Office Hour</a><a href="http://www.ehs.ucla.edu/ehs-virtual-office-hours-and-services">s &amp; Services</a></h4>
+</div>
+
+<div>
+<article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/people%20at%20computers.jpg?h=3c05be85&amp;itok=Sn0D_ndY" width="320" height="240" alt="people at computers" typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="/training-support/overview">Training Assistance</a> </h4>
+</div>
+
+<div>
+<article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/atkinson-01.00352-de-neve-plaza_0_0.jpg?h=3e62cf23&amp;itok=3FhaGiUT" width="320" height="240" alt="atkinson" typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="https://www.bso.ucla.edu/">Bruins Safe Online (BSO)</a></h4>
+</div>
+
+<div>
+<article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/aqi_index-01.png?h=f43a4612&amp;itok=IpqmHLyr" width="320" height="240" alt="AQI Index" typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="https://map.ucla.edu/aq/">UCLA Air Quality Index</a></h4>
+</div>
+</div></div>
+      
+      </div>
+  <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><div class="alert alert--error"><br /><strong>If you are experiencing an emergency, please call 9-1-1.</strong><br /><br /><strong><a href="https://www.ehs.ucla.edu/report">Report an Incident</a> (310) 825-9797 </strong><br /><br /><strong>For the latest COVID-19 info: <a href="http://COVID-19.UCLA.EDU">COVID-19.UCLA.EDU</a><br /><br />
+Campus support:<br /><a href="http://ehs.ucla.edu/return-work-resources">https://ehs.ucla.edu/return-work-resources</a></strong></div>
+
+<p class="u-clear"><br /><strong>Find our services by specialty below, check the menus at the top of the page, or schedule a virtual appointment. </strong></p></div>
+      
+      </div>
+
+      </div>
+    
+  </div>
+
+      </div>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--sf-section paragraph--view-mode--default">
+            <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+        <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><h2 class="heading--bar">EH&amp;S by Speciality</h2>
+
+<p class="lead"><em>Not sure where to start? Try the dropdown menus at the top of the page, or schedule a virtual appointment for guided assistance. </em></p></div>
+      
+      </div>
+
+    </div>
+  </div>
+
+      </div>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--sf-section paragraph--view-mode--default">
+            <div class="layout layout--fourcol-section">
+
+          <div  class="layout__region layout__region--first">
+          <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/administration_image-01_0_0.png?h=d73894fd&amp;itok=hVKzRLYC" width="320" height="240" alt="Strathmore Building" typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="/administration">Administration</a></h4></div>
+      
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+          <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/mouse%20-2.jpg?h=b7bee6e5&amp;itok=0_GANJ58" width="320" height="240" alt="Animal Research Safety - Mouse small" typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="/animal-research-safety">Animal Research Safety </a></h4></div>
+      
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--third">
+          <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/biosafety_image-01.png?h=5aab12c9&amp;itok=bXy_a3_E" width="320" height="240" alt="Biosafety--Pipetting " typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="/biosafety">BioSafety </a></h4></div>
+      
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--fourth">
+          <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/chem_safety_image_resized-01.png?h=5aab12c9&amp;itok=EWNKssd_" width="320" height="240" alt="Chem Safety" typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="/chemical-safety">Chemical Safety </a></h4></div>
+      
+      </div>
+
+      </div>
+    
+  </div>
+
+      </div>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--sf-section paragraph--view-mode--default">
+            <div class="layout layout--fourcol-section">
+
+          <div  class="layout__region layout__region--first">
+          <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/csp%20-%20pills.jpg?h=eea869cb&amp;itok=InVisHNr" width="320" height="240" alt="pills" typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="/controlled-substances-program">Controlled Substances</a></h4></div>
+      
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+          <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/OEM_1.jpg?h=9a82abf1&amp;itok=2r-Fk2gR" width="320" height="240" alt="Emergency Response " typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="https://www.oem.ucla.edu/">Emergency Management </a></h4></div>
+      
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--third">
+          <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/shutterstock_741063196%20%281%29%20%281%29.jpg?h=a61266fd&amp;itok=CZ8FTTQt" width="320" height="240" alt="campus" typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="/environmental-health-compliance-units">Environmental Health &amp; Compliance </a></h4></div>
+      
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--fourth">
+          <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/field%20research%20safety.jpg?h=d2336f69&amp;itok=enRuw9y6" width="320" height="240" alt="field research safety " typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="/field-research">Field Research Safety </a></h4></div>
+      
+      </div>
+
+      </div>
+    
+  </div>
+
+      </div>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--sf-section paragraph--view-mode--default">
+            <div class="layout layout--fourcol-section">
+
+          <div  class="layout__region layout__region--first">
+          <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/Fire%20Banner_White.png?h=9fdf2b0c&amp;itok=Y5GnVg3N" width="320" height="240" alt="UCLA Campus with UCFD Artwork" typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="/fire">UCLA Fire</a></h4></div>
+      
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+          <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/20210212_120148%20%282%29.jpg?h=d21f4bcd&amp;itok=HqJVisBw" width="320" height="240" alt="Researcher performing computer tasks. " typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="/high-containment">High Containment</a></h4></div>
+      
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--third">
+          <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/industrial_hygiene_resized_artboard_1_0_0.png?h=3e62cf23&amp;itok=bHRnClAO" width="320" height="240" alt="person in protective gear" typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="/eosp/industrial-hygiene">Industrial Hygiene</a></h4></div>
+      
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--fourth">
+          <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/shutterstock_631003721.png?h=de162969&amp;itok=EEyluxGy" width="320" height="240" alt="laser " typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="/laser-photobiological-safety">Laser &amp; Photobiological Safety</a></h4></div>
+      
+      </div>
+
+      </div>
+    
+  </div>
+
+      </div>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--sf-section paragraph--view-mode--default">
+            <div class="layout layout--fourcol-section">
+
+          <div  class="layout__region layout__region--first">
+          <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/shutterstock_1337985209.jpg?h=29234840&amp;itok=pdKEzGaB" width="320" height="240" alt="Radiation Symbol on lab window " typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="/radiation-safety">Radiation Safety </a></h4></div>
+      
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+          <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/shutterstock_1110009464.jpg?h=241828bc&amp;itok=1nftNw3x" width="320" height="240" alt="safety compliance" typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="/eosp/general-occupational-safety">Safety &amp; Compliance</a></h4></div>
+      
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--third">
+          <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/shutterstock_1606120012.jpg?h=241828bc&amp;itok=vIcKObts" width="320" height="240" alt="training on laptop " typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="/training-support/overview">Training </a></h4></div>
+      
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--fourth">
+          <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><article class="media media--type-sf-image-media-type media--view-mode-thumbnail"><div class="field field--name-thumbnail field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_thumbnail/public/media/images/Waste%20Management.jpg?h=09433bb2&amp;itok=ekikjlIr" width="320" height="240" alt="Waste Bins" typeof="foaf:Image" class="image-style-sf-thumbnail" /></div>
+      
+  </article><h4><br /><a href="/waste/services">Waste Services </a></h4></div>
+      
+      </div>
+
+      </div>
+    
+  </div>
+
+      </div>
+</div>
+          </div>
+  
+  </div>
+
+</article>
+
+  </div>
+
+  </div>
+
+    </div>
+
+    
+      </div>
+</main>
+
+
+<div class="footer__dept" aria-label="Department footer" role="contentinfo">
+  <div class="layout__container">
+
+    
+      <div class="footer__dept--left">  <div class="region region-footer" aria-label="footer">
+    <div id="block-bbfooterlogo" class="o-media branding">
+      
+        
+              <div class="o-media__figure branding__figure">
+        <a class="link-img" href="/"><img alt="Site logo" src="https://live-ucla-siteden-ehs.pantheonsite.io/sites/default/files/2020-10/Uxd_Wht_EHS.svg" /></a>
+      </div>
+          </div>
+
+<div id="block-ehsfootercontent" class="block block-block-content block-block-contente225eca3-8ce2-41fa-959a-77a0a99daf40 block-type--sf_basic">
+    
+    
+        
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><em><strong>If you are experiencing an emergency, please call 9-1-1.</strong></em><br />
+ <br /><strong>EH&amp;S Main Line (Office): </strong>(310) 825-5689</p>
+
+<p><strong>Report an incident (EH&amp;S Hotline):</strong> (310) 825-9797</p></div>
+      
+  </div>
+
+<div id="block-siteden-surface-social" class="block-social-media-links panel--transparent block block-social-media-links-block">
+    
+    
+      <div class="social-follow">
+    
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a class="social-media-link-icon--instagram" href="https://www.instagram.com/uclaehs/"  aria-label="Follow UCLA EH&amp;amp;S on Instagram" title="Follow UCLA EH&amp;amp;S on Instagram" >
+                        <img src="/profiles/custom/siteden/modules/custom/sitefarm_custom_social_links/img/instagram.svg" alt="Instagram icon" typeof="foaf:Image" loading="lazy" />
+
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--facebook" href="https://www.facebook.com/UCLAEHS/"  aria-label="Follow UCLA EH&amp;amp;S on Facebook" title="Follow UCLA EH&amp;amp;S on Facebook" >
+                        <img src="/profiles/custom/siteden/modules/custom/sitefarm_custom_social_links/img/facebook.svg" alt="Facebook icon" typeof="foaf:Image" loading="lazy" />
+
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--twitter" href="https://www.twitter.com//uclaehs"  aria-label="Follow UCLA EH&amp;amp;S on Twitter" title="Follow UCLA EH&amp;amp;S on Twitter" >
+                        <img src="/profiles/custom/siteden/modules/custom/sitefarm_custom_social_links/img/twitter.svg" alt="Twitter icon" typeof="foaf:Image" loading="lazy" />
+
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--youtube_channel" href="https://www.youtube.com/channel/UCVkDVCc22SJD6BAaY47pdYQ"  aria-label="Follow UCLA EH&amp;amp;S on YouTube" title="Follow UCLA EH&amp;amp;S on YouTube" >
+                        <img src="/profiles/custom/siteden/modules/custom/sitefarm_custom_social_links/img/youtube.svg" alt="Youtube Channel icon" typeof="foaf:Image" loading="lazy" />
+
+      </a>
+
+          </li>
+  </ul>
+
+  </div>
+</div>
+
+  </div>
+</div>
+      <div class="footer__dept--right">
+        <nav role="navigation" aria-labelledby="-menu" class="l-footer__menu o-flex-region block block-menu navigation menu--">
+            
+  <h2 class="visually-hidden" id="-menu"></h2>
+  
+
+        
+  </nav>
+
+        
+      </div>
+
+    
+  </div>
+</div>
+<div class="layout__container global-foot" aria-label="Global footer" role="contentinfo">
+  <div class="global-foot__wrapper">
+    <div class="social-links-container">
+      <a class="social-icon" href="https://www.facebook.com/UCLA/"><span class="social-icon--facebook"></span><span class="visuallyhidden">Facebook</span></a>
+      <a href="https://www.instagram.com/ucla/"><span class="social-icon--instagram"></span><span class="visuallyhidden">Instagram</span></a>
+      <a href="https://www.linkedin.com/school/ucla"><span class="social-icon--linkedin"></span><span class="visuallyhidden">Linked</span></a>
+      <a href="https://twitter.com/ucla"><span class="social-icon--twitter"></span><span class="visuallyhidden">Twitter</span></a>
+      <a href="https://www.youtube.com/user/UCLA"><span class="social-icon--youtube"></span><span class="visuallyhidden">Youtube</span></a>
+      <a href="https://www.tiktok.com/@ucla?lang=en"><span class="social-icon--tiktok"></span><span class="visuallyhidden">TikTok</span></a>
+      <a href="https://story.snapchat.com/@uclaofficial"><span class="social-icon--snapchat"></span><span class="visuallyhidden">Snapchat</span></a>
+    </div>
+
+    <div class="global-foot__legal">
+
+      <p class="global-foot__legal--copyright">&copy; 2024 Regents of the <a class="copy__link-a dark" href="http://www.universityofcalifornia.edu/">University of California</a></p>
+
+      <ul class="global-foot__legal--list">
+        <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="https://www.bso.ucla.edu/">Emergency</a></li>
+        <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="https://www.ucla.edu/accessibility">Accessibility</a></li>
+        <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="https://www.ucla.edu/terms-of-use/">Privacy &amp; Terms of Use</a></li>
+      </ul>
+
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/3241","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"UA-45095774-16","otherIds":["G-T4J2BT1NHE"],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"classy\/base,classy\/messages,classy\/node,core\/normalize,google_cse\/googlecseWatermark,google_tag\/gtag,google_tag\/gtag.ajax,layout_builder\/fourcol_section,layout_builder\/twocol_section,layout_discovery\/onecol,media\/filter.caption,paragraphs\/drupal.paragraphs.unpublished,siteden_surface\/global-scripts,siteden_surface\/global-styles,social_media_links\/social_media_links.theme,system\/base,views\/views.module","theme":"siteden_surface","theme_token":null},"ajaxTrustedUrl":{"\/search\/google":true},"googleCSE":{"cx":"006855704751877854816:rdczcvmkzze","language":"en","resultsWidth":0,"domain":"ehs.ucla.edu","isDefault":true},"user":{"uid":0,"permissionsHash":"fcbc02227617b148678e2c98a4eced2dce7735f11641836971bb31d18fdb6eef"}}</script>
+<script src="/sites/default/files/js/js_f_uTkYYuFSIiTto1BQXc_3e01dLCz-qvkY9YzIUhqwc.js"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?s8xi8i"></script>
+<script src="/sites/default/files/js/js_d3nug2_jFRiwBb-NRZ3mmPKU-S3f9Nh3teW6sJS5tYU.js"></script>
+
+  </body>
+</html>

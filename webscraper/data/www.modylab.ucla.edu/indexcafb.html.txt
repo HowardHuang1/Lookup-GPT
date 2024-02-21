@@ -1,0 +1,714 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	
+<!-- Mirrored from www.modylab.ucla.edu/index.php?option=com_docman&Itemid=27 , Wed, 25 Sep 2013 15:08:47 GMT -->
+<head>
+	<title>UCLA Istvan Mody Lab - Downloads</title>
+<meta name="description" content="Synaptic Signaling in Health and Disease Our research focuses on 1) the physiology, pharmacology, and pathology of synaptic transmission in the mammalian brain, and 2) the regulation of intracellular calcium homeostasis. The two themes ultimately converge in our quest for understanding how long-term alterations in the excitability of nerve cells and circuits are responsible for offsetting the frail balance between excitation and inhibition. Tipping this balance, either acutely of chronically, results in the nervous system showing signs of abnormal activity leading to specific brain disorders. We study synaptic transmission and the activation of extrasynaptic receptors in the healthy and the diseased brain. We presently carry out research in animal models of epilepsy, Huntington's disease, stress, alcoholism, PMS/PMDD, postpartum depression, while also recording from human brain tissue surgically removed for the treatment of epilepsies. By studying the fundamental mechanisms responsible for the altered synapses and circuits our studies will lead to novel therapies for a number of devastating neurological and psychiatric disorders. The experimental approaches we use include patch-clamp recordings (whole-cell, single channel and perforated patch) in brain slices, in acutely isolated animal and human neurons, or in cultured neurons/slices; chronic recordings in vivo to monitor long-term changes in the excitability of circuits; infrared and fluorescent video microscopy and simultaneous recordings in live brain tissue; various neuroanatomical and immunohistochemical techniques; measurement of intraneuronal calcium and the binding kinetics of calcium to various calcium-binding proteins; molecular biological approaches aimed at reducing or altering specific brain proteins as in genetic knockouts/knockins and various methods aimed at altering cellular protein levels." />
+<meta name="keywords" content="UCLA, Mody Lab, Istvan Mody, Guido Faas, Journal Club, Neurology Research, Neuroscience, Brain Research, CBRI, Jamie Maguire, Maksim Gill, Ed Mann, Ben Huang" />
+<meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2007 Open Source Matters. All rights reserved." />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" media="all" href="comtmp/components/com_docman/themes/default/css/theme.html" />
+<link rel="stylesheet" type="text/css" media="all" href="comtmp/components/com_docman/themes/default/css/theme10.html" />
+	
+	
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<link href="comtmp/templates/rt_hivemind/css/template_css.css" rel="stylesheet" type="text/css" />
+<link href="comtmp/templates/rt_hivemind/css/rokslidestrip.css" rel="stylesheet" type="text/css" />
+<link href="comtmp/templates/rt_hivemind/css/light.css" rel="stylesheet" type="text/css" />
+<link href="comtmp/templates/rt_hivemind/css/menustyle3-light.css" rel="stylesheet" type="text/css" />
+<link href="comtmp/templates/rt_hivemind/rokzoom/rokzoom.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+	div.wrapper { margin: 0 auto; width: 962px;padding:0;}
+	/* clear fixes for pure css layout */
+	</style>	
+<script type="text/javascript" src="comtmp/templates/rt_hivemind/js/mootools-release-1.11.js"></script>
+<script type="text/javascript" src="comtmp/templates/rt_hivemind/js/rokslidestrip.js"></script>
+<script type="text/javascript" src="comtmp/templates/rt_hivemind/rokzoom/rokzoom-2.js"></script>
+<script type="text/javascript" src="comtmp/templates/rt_hivemind/js/rokfonts.js"></script>   
+<script type="text/javascript">
+	window.addEvent('load', function() {
+		var modules = ['module','module-menu','module-color1','module-color2','module-color3','module-color4','module-style1','module-style1-color1','module-style1-color2','module-style1-color3','module-style1-color4','module-style2','module-style2-color1','module-style2-color2','module-style2-color3','module-style2-color4'];
+		var header = "h3";
+			    RokBuildSpans(modules, header);
+        	});
+</script>
+	
+<!--[if IE]>
+<script type="text/javascript">
+
+var sfHover = function(search, replaced) {
+	if (!replaced) replaced = 'sfHover';
+
+	var els = $$('.' + search).getElements('li');
+	if (!els.length) return false;
+
+		els.each(function(el) {
+			el.addEvents({
+				'mouseenter': function() {
+					this.addClass(replaced);
+				},
+				'mouseleave': function() {
+					this.removeClass(replaced);
+				}
+			});
+		});
+	}
+
+window.addEvent('domready', function() {
+	sfHover('menutop');
+});
+</script>
+
+<![endif]-->
+	
+<script type="text/javascript">
+	window.addEvent('load', function() {
+		RokZoom.init({
+			imageDir: 'templates/rt_hivemind/rokzoom/images/',
+			resizeFX: {
+				duration: 700,
+				transition: Fx.Transitions.Cubic.easeOut,
+				wait: true
+			},
+			opacityFX: {
+				duration: 500,
+				wait: false	
+			}
+		});
+	});
+</script>
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1791317-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	</head>
+	<body id="ff-optima" class="f-smaller light">
+		<!-- begin wrapper -->
+		<div class="wrapper">
+			<!-- begin top section -->
+			<div id="top">
+				
+												<div id="accessibility">
+					<div id="buttons">
+						<a href="index47b6.html?option=com_docman&amp;Itemid=27&amp;fontstyle=f-larger" title="Increase size" class="large"><span class="button">&nbsp;</span></a>
+						<a href="index5cc3.html?option=com_docman&amp;Itemid=27&amp;fontstyle=f-default" title="Default size" class="default"><span class="button">&nbsp;</span></a>
+						<a href="indexb0bd.html?option=com_docman&amp;Itemid=27&amp;fontstyle=f-smaller" title="Decrease size" class="small"><span class="button">&nbsp;</span></a>
+					</div>
+				</div>
+					
+			</div>
+			<!-- end top section -->
+			<!-- begin mainbody -->
+			<div id="mainbody-top">
+				<div id="mainbody-top2">
+					<div id="mainbody-top3">
+					</div>
+				</div>
+			</div>
+			<div id="mainbody">
+				<!-- begin header -->
+				<div id="header">
+					
+					<div id="horiz-menu" class="splitmenu menustyle3">
+						<div id="horiz-menu2">
+															<ul class="menutop"  id="horiznav"><li class="">
+<span class="top"><a href="index6bf3.html?option=com_content&amp;task=view&amp;id=37&amp;Itemid=74">Home</a></span></li><li class="active">
+<span class="top"><a href="indexcafb.html?option=com_docman&amp;Itemid=27">Publications</a></span></li><li class="">
+<span class="top"><a href="index2f77.html?option=com_content&amp;task=view&amp;id=24&amp;Itemid=69">Lab Members</a></span></li><li class="">
+<span class="top"><a href="index0c1b.html?option=com_content&amp;task=view&amp;id=30&amp;Itemid=70">Research</a></span></li><li class="">
+<span class="top"><a href="indexa915.html?option=com_content&amp;task=view&amp;id=38&amp;Itemid=103">Journal Club</a></span></li><li class="">
+<span class="top"><a href="index1d6b.html?option=com_content&amp;task=view&amp;id=36&amp;Itemid=73">About Us</a></span></li>
+</ul>								
+						</div>
+					</div>
+				</div>
+				<!-- end header -->
+									<div id="pathway">
+						<span class="pathway"><a href="index-2.html" class="pathway">Home</a> <img src="comtmp/templates/rt_hivemind/images/arrow.png" border="0" alt="arrow" />   Publications </span>					</div>
+								<div id="mainbody-padding">
+					
+					<!-- begin maincolumn -->
+					<div id="maincol">
+					    <div id="maincol-container">
+	    					    						<div id="showcase">
+    							
+			<div class="module">
+			<div>
+				<div>
+					<div>
+						<h3>Terms Of Use</h3><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="ProgId" content="Word.Document" />
+<meta name="Generator" content="Microsoft Word 12" />
+<meta name="Originator" content="Microsoft Word 12" />
+<link href="file:///C:/Users/mGill/AppData/Local/Temp/msohtmlclip1/01/clip_filelist.xml" rel="File-List" />
+<link href="file:///C:/Users/mGill/AppData/Local/Temp/msohtmlclip1/01/clip_themedata.thmx" rel="themeData" />
+<link href="file:///C:/Users/mGill/AppData/Local/Temp/msohtmlclip1/01/clip_colorschememapping.xml" rel="colorSchemeMapping" />
+<!--[if gte mso 9]><xml>
+<w:WordDocument>
+<w:View>Normal</w:View>
+<w:Zoom>0</w:Zoom>
+<w:TrackMoves/>
+<w:TrackFormatting/>
+<w:PunctuationKerning/>
+<w:ValidateAgainstSchemas/>
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF/>
+<w:LidThemeOther>EN-US</w:LidThemeOther>
+<w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+<w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+<w:Compatibility>
+<w:BreakWrappedTables/>
+<w:SnapToGridInCell/>
+<w:WrapTextWithPunct/>
+<w:UseAsianBreakRules/>
+<w:DontGrowAutofit/>
+<w:SplitPgBreakAndParaMark/>
+<w:DontVertAlignCellWithSp/>
+<w:DontBreakConstrainedForcedTables/>
+<w:DontVertAlignInTxbx/>
+<w:Word11KerningPairs/>
+<w:CachedColBalance/>
+</w:Compatibility>
+<w:DoNotOptimizeForBrowser/>
+<m:mathPr>
+<m:mathFont m:val="Cambria Math"/>
+<m:brkBin m:val="before"/>
+<m:brkBinSub m:val="&#45;-"/>
+<m:smallFrac m:val="off"/>
+<m:dispDef/>
+<m:lMargin m:val="0"/>
+<m:rMargin m:val="0"/>
+<m:defJc m:val="centerGroup"/>
+<m:wrapIndent m:val="1440"/>
+<m:intLim m:val="subSup"/>
+<m:naryLim m:val="undOvr"/>
+</m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+LatentStyleCount="267">
+<w:LsdException Locked="false" Priority="0" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+<w:LsdException Locked="false" Priority="9" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+<w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+<w:LsdException Locked="false" Priority="10" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+<w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+<w:LsdException Locked="false" Priority="11" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+<w:LsdException Locked="false" Priority="22" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+<w:LsdException Locked="false" Priority="20" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+<w:LsdException Locked="false" Priority="59" SemiHidden="false"
+UnhideWhenUsed="false" Name="Table Grid"/>
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+<w:LsdException Locked="false" Priority="1" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 1"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+<w:LsdException Locked="false" Priority="34" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+<w:LsdException Locked="false" Priority="29" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+<w:LsdException Locked="false" Priority="30" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 2"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 3"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 4"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 5"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 6"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+<w:LsdException Locked="false" Priority="19" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+<w:LsdException Locked="false" Priority="21" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+<w:LsdException Locked="false" Priority="31" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+<w:LsdException Locked="false" Priority="32" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+<w:LsdException Locked="false" Priority="33" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+<w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+<w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+</w:LatentStyles>
+</xml><![endif]--><style>
+<!--
+/* Font Definitions */
+@font-face
+{font-family:"Cambria Math";
+panose-1:2 4 5 3 5 4 6 3 2 4;
+mso-font-charset:1;
+mso-generic-font-family:roman;
+mso-font-format:other;
+mso-font-pitch:variable;
+mso-font-signature:0 0 0 0 0 0;}
+@font-face
+{font-family:Calibri;
+panose-1:2 15 5 2 2 2 4 3 2 4;
+mso-font-charset:0;
+mso-generic-font-family:swiss;
+mso-font-pitch:variable;
+mso-font-signature:-1610611985 1073750139 0 0 159 0;}
+@font-face
+{font-family:Consolas;
+panose-1:2 11 6 9 2 2 4 3 2 4;
+mso-font-charset:0;
+mso-generic-font-family:modern;
+mso-font-pitch:fixed;
+mso-font-signature:-1610611985 1073750091 0 0 159 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-unhide:no;
+mso-style-qformat:yes;
+mso-style-parent:"";
+margin:0in;
+margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:Calibri;
+mso-fareast-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+{mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-link:"Plain Text Char";
+margin:0in;
+margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:10.5pt;
+font-family:Consolas;
+mso-fareast-font-family:Calibri;
+mso-fareast-theme-font:minor-latin;
+mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;}
+span.PlainTextChar
+{mso-style-name:"Plain Text Char";
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-unhide:no;
+mso-style-locked:yes;
+mso-style-link:"Plain Text";
+mso-ansi-font-size:10.5pt;
+mso-bidi-font-size:10.5pt;
+font-family:Consolas;
+mso-ascii-font-family:Consolas;
+mso-hansi-font-family:Consolas;}
+.MsoChpDefault
+{mso-style-type:export-only;
+mso-default-props:yes;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:Calibri;
+mso-fareast-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;}
+@page Section1
+{size:8.5in 11.0in;
+margin:1.0in 1.0in 1.0in 1.0in;
+mso-header-margin:.5in;
+mso-footer-margin:.5in;
+mso-paper-source:0;}
+div.Section1
+{page:Section1;}
+-->
+</style><!--[if gte mso 10]>
+<style>
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin:0in;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:"Times New Roman";
+mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]-->
+<p class="MsoPlainText">
+<span style="font-family: verdana,geneva">
+<span style="background-color: #ffffff">The reprints on our webpage are provided for
+non-commercial research and education use, including use for instruction and
+sharing with colleagues.</span></span><span style="background-color: #ffffff; font-family: verdana,geneva">&nbsp; Other uses,
+including reproduction and distribution, or selling or licensing copies, or
+posting to personal, institutional or third party websites are prohibited.
+</span>
+</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		    						</div>
+    						    						    						<div id="body-padding">
+    						    <script language="javascript" type="text/javascript" src="comtmp/components/com_docman/themes/default/js/theme.js"></script>
+<script language="javascript" type="text/javascript" src="comtmp/includes/js/overlib_mini.js"></script>
+<script language="javascript" type="text/javascript" src="comtmp/includes/js/overlib_hideform_mini.js"></script>
+<div id="dm_header">
+<div>
+<a href="indexcafb.html?option=com_docman&amp;Itemid=27">
+<img src="comtmp/components/com_docman/themes/default/images/icons/32x32/home.png" alt="Downloads Home" /><br />
+</a>
+</div>
+<div>
+<a href="index50ed.html?option=com_docman&amp;task=search_form&amp;Itemid=27">
+<img src="comtmp/components/com_docman/themes/default/images/icons/32x32/search.png" alt="Search Document" /><br />
+</a>
+</div>
+</div>
+<div class="clr"></div>
+<div id="dm_cats">
+<h3>Categories<span>Files</span></h3>
+<div>
+<div class="dm_row">
+<a class="dm_icon" href="index378a.html?option=com_docman&amp;task=cat_view&amp;gid=32&amp;Itemid=27"><img src="comtmp/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">2</span>
+<a class="dm_name" href="index378a.html?option=com_docman&amp;task=cat_view&amp;gid=32&amp;Itemid=27">2012</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="indexbc53.html?option=com_docman&amp;task=cat_view&amp;gid=31&amp;Itemid=27"><img src="comtmp/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">6</span>
+<a class="dm_name" href="indexbc53.html?option=com_docman&amp;task=cat_view&amp;gid=31&amp;Itemid=27">2011</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="indexa201.html?option=com_docman&amp;task=cat_view&amp;gid=30&amp;Itemid=27"><img src="comtmp/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">7</span>
+<a class="dm_name" href="indexa201.html?option=com_docman&amp;task=cat_view&amp;gid=30&amp;Itemid=27">2010</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="index211b.html?option=com_docman&amp;task=cat_view&amp;gid=26&amp;Itemid=27"><img src="comtmp/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">4</span>
+<a class="dm_name" href="index211b.html?option=com_docman&amp;task=cat_view&amp;gid=26&amp;Itemid=27">2009</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="index9352.html?option=com_docman&amp;task=cat_view&amp;gid=15&amp;Itemid=27"><img src="comtmp/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">10</span>
+<a class="dm_name" href="index9352.html?option=com_docman&amp;task=cat_view&amp;gid=15&amp;Itemid=27">2008</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="index2c67.html?option=com_docman&amp;task=cat_view&amp;gid=14&amp;Itemid=27"><img src="comtmp/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">8</span>
+<a class="dm_name" href="index2c67.html?option=com_docman&amp;task=cat_view&amp;gid=14&amp;Itemid=27">2007</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="indexfd92.html?option=com_docman&amp;task=cat_view&amp;gid=13&amp;Itemid=27"><img src="comtmp/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">6</span>
+<a class="dm_name" href="indexfd92.html?option=com_docman&amp;task=cat_view&amp;gid=13&amp;Itemid=27">2006</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="index0175.html?option=com_docman&amp;task=cat_view&amp;gid=16&amp;Itemid=27"><img src="comtmp/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">6</span>
+<a class="dm_name" href="index0175.html?option=com_docman&amp;task=cat_view&amp;gid=16&amp;Itemid=27">2005</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="index910d.html?option=com_docman&amp;task=cat_view&amp;gid=17&amp;Itemid=27"><img src="comtmp/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">5</span>
+<a class="dm_name" href="index910d.html?option=com_docman&amp;task=cat_view&amp;gid=17&amp;Itemid=27">2004</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="index6d63.html?option=com_docman&amp;task=cat_view&amp;gid=18&amp;Itemid=27"><img src="comtmp/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">6</span>
+<a class="dm_name" href="index6d63.html?option=com_docman&amp;task=cat_view&amp;gid=18&amp;Itemid=27">2003</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="indexd847.html?option=com_docman&amp;task=cat_view&amp;gid=19&amp;Itemid=27"><img src="comtmp/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">7</span>
+<a class="dm_name" href="indexd847.html?option=com_docman&amp;task=cat_view&amp;gid=19&amp;Itemid=27">2002</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="index2aff.html?option=com_docman&amp;task=cat_view&amp;gid=20&amp;Itemid=27"><img src="comtmp/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">8</span>
+<a class="dm_name" href="index2aff.html?option=com_docman&amp;task=cat_view&amp;gid=20&amp;Itemid=27">2001</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="index0c16.html?option=com_docman&amp;task=cat_view&amp;gid=21&amp;Itemid=27"><img src="comtmp/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">0</span>
+<a class="dm_name" href="index0c16.html?option=com_docman&amp;task=cat_view&amp;gid=21&amp;Itemid=27">2000</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="index0afa.html?option=com_docman&amp;task=cat_view&amp;gid=22&amp;Itemid=27"><img src="comtmp/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">0</span>
+<a class="dm_name" href="index0afa.html?option=com_docman&amp;task=cat_view&amp;gid=22&amp;Itemid=27">Before 2000</a>
+</div>
+<div class="clr"></div>
+</div>
+</div>    						</div>
+    						    					</div>
+					</div>
+					<!-- end maincolumn -->
+					<!-- begin sidecolumn -->
+											<div id="sidecol">
+							<div id="sidecol-padding">
+																							</div>
+						</div>
+										<!-- end sidecolumn -->
+					<div class="clr"></div>
+				</div>
+			</div>
+			<!-- end mainbody -->
+			<!-- begin bottom section -->
+						<div id="mainbody-bottom">
+				<div id="mainbody-bottom2">
+					<div id="mainbody-bottom3">
+					</div>
+				</div>
+			</div>
+			<!-- end bottom section -->
+							<div align="center">
+				<div id="footer">
+							<div class="moduletable">
+			<p align="center">
+<a target="_self" href="indexb002.html?option=com_content&amp;task=view&amp;id=36&amp;Itemid=71"><span style="font-size: 8pt">Contact Us</span></a><span style="font-size: 8pt"><span>&nbsp; |&nbsp; <a target="_self" href="index7a3a.html?option=com_joomap&amp;Itemid=75">Site Map</a></span> <br />
+<span style="color: #999999">Copyright &copy; 2005-2008 - All Rights Reserved - UCLA Istvan Mody Lab</span></span> 
+</p>
+		</div>
+						</div>
+				</div>
+					</div>
+		<!-- end wrapper -->
+	<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=6&cb=316890015" async></script></body>
+
+<!-- Mirrored from www.modylab.ucla.edu/index.php?option=com_docman&Itemid=27 , Wed, 25 Sep 2013 15:09:10 GMT -->
+</html><!-- 1380121717 -->

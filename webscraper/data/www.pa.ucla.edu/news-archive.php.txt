@@ -1,0 +1,445 @@
+  
+
+ <!DOCTYPE html>
+<title>UCLA Physics & Astronomy</title>
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="update.css">
+<link rel="SHORTCUT ICON" href="favicon.ico" />
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>  
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<style>
+  /* Make the image fully responsive */
+  .carousel-inner img {
+    width: auto;
+    height: 300px;
+  }
+  .carousel {
+    background: #2f4357;
+    margin-top: 20pxx;
+  }
+  
+  </style>
+
+</head>
+<body>
+<ol class="breadcrumb bg-primary text-light">
+  <li class="breadcrumb-item"><img src="logo_UCLA_white.svg" class="ucla-logo" /></li>
+  <li class="breadcrumb-item">College</li>
+  <li class="breadcrumb-item">Physical Sciences</li>
+</ol>
+
+<nav class="navbar navbar-expand-lg navbar-light mt-0 mt-lg-0 mr-4 border-bottom mb-4">
+  <a class="navbar-brand" href="https://www.pa.ucla.edu/index.php"><img src="https://www.pa.ucla.edu/pa-logo-new.png" height="110px"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarText">
+    <!-- To change the menu alignment from left to right, use ml-auto -->
+    <ul class="navbar-nav mr-auto text-primary">
+      <li class="nav-item"><a class="nav-link text-primary" href="https://www.pa.ucla.edu/index.php">Home</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          About
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            
+          <a class="dropdown-item" href="../videos/admitvideo.html" >Admit Video</a>
+          <a class="dropdown-item" href="https://youtu.be/chk8MNJJ950">APS video tour of Physics & Astronomy</a>
+          <a class="dropdown-item" href="/visiting.html">Visiting the Department</a>
+          <a class="dropdown-item" href="/annual-report.html">Annual Reports</a>
+          <a class="dropdown-item" href="/diversity.html">Diversity</a>
+          <a class="dropdown-item" href="/open-positions.html">Employment</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Education
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/undergraduate-program.html">Undergraduate</a>
+          <a class="dropdown-item" href="/graduate-admissions.html">Graduate admissions</a>
+          <a class="dropdown-item" href="/current-graduate-students.html">Current graduate students</a>
+          <a class="dropdown-item" href="https://bruinlearn.ucla.edu/courses/288">BruinLearn, UCLA's new LMS</a>
+          <a class="dropdown-item" href="/phd-physics-bridge-program.html">Physics PhD Bridge Program</a>
+          <a class="dropdown-item" href="/undergraduate-research-experience.html">REU program</a>
+          <a class="dropdown-item" href="https://qst.ucla.edu/">Quantum master program</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link text-primary" <a href="/research.html">Research</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" <a href="http://www.astro.ucla.edu/">Astro&nbsp;Division</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          People
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/faculty.html">Faculty</a>
+          <a class="dropdown-item" href="/faculty-affiliated.html">Affiliated Faculty</a>
+          <a class="dropdown-item" href="/researchers.html">Researchers, Project Scientists, Adjuncts</a>
+          <a class="dropdown-item" href="/lecturers.html">Lecturers</a>
+          <a class="dropdown-item" href="/postdocs.html">Postdoctoral Scholars</a>
+          <a class="dropdown-item" href="/grad-students.html">Graduate Students</a>
+          <a class="dropdown-item" href="/staff.html">Staff</a>
+          <a class="dropdown-item" href="/memorials.html">Memorials</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/events.php">Events</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/clubs.html">Clubs</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/giving.html">Giving</a></li>
+      <!--<li class="nav-item"><a class="nav-link text-primary" href="/contact.html">Contact</a></li>-->
+      <!--<li class="nav-item"><a class="nav-link"><img src="images/search-icon-2.svg" /></a></li>-->
+      <!--<li class="nav-item"><a class="nav-link"><img src="https://atmos.ucla.edu/Icon/search-icon-2.svg" /></a></li>-->
+    </ul>
+  </div>
+</nav>
+<div class="container">
+  
+    <div class="row">
+      <div class="col-md-3 order-md-1 col-sm-12 order-sm-0 pb-4">
+        <!--<img src="home-image.jpg" width="100%"/>-->
+        <!--
+<h2 class="module-header">Search</h2>
+      <p></p>
+      <script async src="https://cse.google.com/cse.js?cx=015121140664034713057:qm87o70wka5"></script>
+		<div class="gcse-search"></div>
+<br />
+-->        <h2 class="module-header">News Resources</h2>
+        <p></p>
+        <p>
+        <ul>
+          <li><a href="http://www.astro.ucla.edu/news">Astro Division News</a></li>
+          <li><a href="http://newsroom.ucla.edu/">UCLA Newsroom</a></li>
+          <li><a href="https://www.physicalsciences.ucla.edu/">Physical Sciences News</a></li>
+        </ul>
+        </p>
+      </div>
+      <div class="col-md-9 order-md-0 col-sm-12 order-sm-1">
+        <div id="message_table" style="overflow: auto;">
+           <h2>News Archive</h2>
+      <br />
+     <table class="table table-bordered table-striped" >   
+      
+             <tr> 
+             <td>2024-01-03</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/innovation-hub.png"></td><td>Governor Newsom, Professor Hudson, and UC/UCLA announce plans for Innovation Hub</td><td><a href="https://www.youtube.com/watch?app=desktop&v=BKl5Nz3CqM0"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-12-19</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Miao_figure.png"></td><td>Prof. John Miao led a team that determined, for the first time, the 3D atomic structure and chemical order of medium- and high-entropy alloys. The paper was published in Nature.</td><td><a href="https://newsroom.ucla.edu/releases/3d-atomic-details-next-generation-alloys-revealed"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-10-23</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Durr-Shenshen.png"></td><td>PhD alum Steven Durr, Prof. Shenshen Wang and collaborators distilled physical principles from powerful machine learning algorithms. </td><td><a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041004"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-10-23</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/David-Saltzberg.png"></td><td>Congratulations to Professor David Saltzberg, the 2023 APS Division of Particles and Fields Instrumentation Prize</td><td><a href="https://cpad-dpf.org/?page_id=750"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-10-23</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Alvine-Kamaha.png"></td><td>Congratulations to Professor Alvine Kamaha, named as 2024 recipient of the APS Edward A. Bouchet Award, which recognizes... a distinguished minority physicist who has made significant contributions to physics research and the advancement of underrepresented minority scientists</td><td><a href="https://aps.org/programs/honors/prizes/bouchet.cfm?_gl=1*1dxlm3o*_ga*NzQ5ODQ0ODI4LjE2MzIwODc3MTY.*_ga_1CCM6YP0WF*MTY5ODE2Njc2MC4zNC4xLjE2OTgxNjY3NzkuNDEuMC4w"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-08-27</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/David-Leibrandt.png"></td><td>Congratulations to Professor David Leibrandt for his naming as 2023 Moore Experimental Investigator!</td><td><a href="https://www.moore.org/investigator-detail?investigatorId=leibrandt-ph.d"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-08-08</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/2023-DOE-Early-Career-Scientists.jpg"></td><td>Congratulations to Professors Derek Schaeffer and Mikhail Solon, named 2023 DOE Early Career Scientists</td><td><a href="https://science.osti.gov/early-career"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-08-02</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/John-Sarrao.png"></td><td>UCLA Ph. D. John Sarrao named Director of SLAC National Accelerator Laboratory.</td><td><a href="https://news.stanford.edu/report/2023/07/17/john-sarrao-named-director-slac-national-accelerator-laboratory/"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-07-26</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Kogara-and-Musumeci.png"></td><td>Prof. Kogar from condensed matter and Prof. Musumeci from accelerator and beam physics team up to win the highly competitive EPIQS award from Moore foundation to develop a novel high resolution electron energy loss spectrometer.</td><td><a href="https://www.moore.org/grant-detail?grantId=GBMF11943"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-07-23</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Oppenheimer-news.png"></td><td>Professor David Saltzberg provided equations to "Oppenheimer"</td><td><a href="https://thebulletin.org/premium/2023-07/an-extended-interview-with-christopher-nolan-director-of-oppenheimer/"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-06-06</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Elisabetta-Manca.png"></td><td>Experimental particle physics postdoc Elisabetta Manca won the Conversi Dissertation Prize from the INFN (Italian National Institute of Nuclear Physics).</td><td><a href="https://normalenews.sns.it/premio-conversi-2022-a-elisabetta-manca-ex-allieva-phd-della-scuola-normale"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-05-31</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Dissertation-year-fellowship.png"></td><td>Congratulations to Stephen Ebert, Tiema Qian, and Zhiwan Xu, who were each awarded a UCLA Dissertation Year Fellowship!</td><td><a href="https://grad.ucla.edu/funding/financial-aid/funding-for-continuing-students/dissertation-year-fellowship/"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-05-29</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Amanda-Younes.png"></td><td>Undergraduate Amanda Younes has been interviewed by New Scientist about her project 'cooling by heating'.</td><td><a href="https://www.newscientist.com/article/2375575-sunlight-could-cool-an-atom-to-its-coldest-possible-temperature/, and https://arxiv.org/abs/2305.11124"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-05-11</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Karoly-Holczer-news.jpg"></td><td>Following his election to the Hungarian Academy of Sciences, Professor Karoly Holczer delivered his acceptance lecture on April 26, 2023.</td><td><a href="https://mta.hu/xi-osztaly/holczer-karoly-az-mta-kulso-tagja-akademiai-szekfoglaloja-112851 (Hungarian) and https://www.flickr.com/photos/mtasajto/albums/72177720307832869"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-04-23</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/protocluster_small.jpg
+"></td><td>GLASS-JWST team, led by Prof Tommaso Treu confirms most distant cosmic structure known</td><td><a href="https://www.nasa.gov/feature/goddard/2023/webb-reveals-early-universe-prequel-to-huge-galaxy-cluster
+"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-04-16</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Shenshen-news.jpg"></td><td>Prof. Shenshen Wang and former grad student Hongda Jiang explained, in a pair of works, why antibody-producing cells physically learn and collectively remember the pathogens.</td><td><a href="https://newsroom.ucla.edu/releases/immune-cells-use-force-to-direct-their-own-evolution?utm_source=4-14-2023-issue&utm_medium=email&utm_content=immune-cells&utm_campaign=newsroom-weekly-newsletter"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-04-11</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/jet-charge.jpg"></td><td>The recent work on jet charge by Scientist Andrew Larakoski, former undergrad Jinghong Yang, and Prof. Zhongbo Kang has been selected as Editors’ Suggestion in Physical Review Letters.</td><td><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.151901"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-04-02</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/NSF-logo.jpg"></td><td>The department wishes to congratulate our undergraduate students awarded the 2023 NSF Graduate Research Fellowship: Cody Fan, Rebekah Jin</td><td><a href="https://beta.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-04-02</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/NSF-logo.jpg"></td><td>The department wishes to congratulate our graduate students awarded the 2023 NSF Graduate Research Fellowship: Zoe Haggard, Sahil Hegde, Asari Prado, Claire Elisabeth Williams, Anna Wolz</td><td><a href="https://beta.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-03-23</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/figure-TMM.jpg"></td><td>Prof. John Miao led a team that observed topological magnetic monopoles in 3D. The paper has been published in Nature Nanotechnology</td><td><a href="https://als.lbl.gov/imaging-topological-magnetic-monopoles-in-3d/"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-03-22</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Miao_picture_news.jpg"></td><td>Prof. John Miao led a team of scientists from CU Boulder, UCLA, Stanford and UC Berkeley that has received a $7.5 million MURI award. </td><td><a href="https://cnsi.ucla.edu/project/march-24-2023-department-of-defense-funds-ucla-led-research-project-headed-by-professor-john-miao/"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-03-15</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Shenshen-Hongda-news.jpg"></td><td>Prof. Shenshen Wang and PhD student Hongda Jiang developed a new theoretical framework that predicts how and why immune cells use force to direct their own evolution.</td><td><a href="https://www.pnas.org/doi/10.1073/pnas.2213067120"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-03-02</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/ni-ni-fellow.jpg"></td><td>Congratulations to Professor Ni Ni, on her election to Secretary/Treasurer for the APS Division of Materials Physics.</td><td><a href="https://engage.aps.org/dmp/resources/newsletters/archived-newsletters/winter-2023"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-02-14</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/ZviBern.jpg"></td><td>Congratulations to Professor Zvi Bern, who has been awarded the 2023 Galileo Galilei medal!</td><td><a href="https://www.ggi.infn.it/galileomedal.html"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-02-01</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/James-Rosenzweig-news.jpg"></td><td>Congratulations to Prof. James Rosenzweig for being awarded the 2023 EPS Hannes Hannes Alfven Prize</td><td><a href="http://plasma.ciemat.es/eps/"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-02-01</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/events/Treu-event.jpg"></td><td>Prof Tommaso Treu Named Fellow of the American Association for the Advancement of Science</td><td><a href="https://www.aaas.org/page/2022-fellows-0?adobe_mc=MCMID"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-01-25</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/saltzberg-news.jpg"></td><td>Congratulations to Professor David Saltzberg for his well-deserved winning of the 2022 APS Division of Particles and Fields Mentoring Award</td><td><a href="https://engage.aps.org/dpf/honors/prizes-awards/mentoring-award"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-01-25</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/events/Turner.jpg"></td><td>Visiting Professor has something to say about the future of physics.</td><td><a href="https://www.nytimes.com/2023/01/24/science/physics-cosmology-astronomy.html?unlocked_article_code=o501mWTEMQaDeCNLmJzW63_pORTH0lsGWjZPH1kAJFQlcNoqJCAJouxWwtNhCKx4ul1gvhSvGV00-7dUE6e0hHHIxURBHR7OOjcgPCfQIlTMY1nIyo9nZ4alYsnK-7AtGCJquDw_SlYzCHTsEsQLO7EohokTH0QIbEGyaCbuVciw4Z4sXnqsO3eUQ8G5JYO5_Fr5krEoR8xjxOO0dVAW5d6O6J5iPedDarqfuLBMVlMVN-PrZfY4_CKoZmg96chP_M5_aHKmRj62aZw95DOEJ_4xvieUP8dt89HuCVcZA7zvMV_OA_Z5yVzTJ468yyhvOkMhVD3er7j6A3hwohWvDGqO-ckf&smid=share-url"> Read More </a></td><tr>
+             <tr> 
+             <td>2023-01-19</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/sound-wave.jpg"></td><td>A recently discovered acoustic effect allows a hot gas to simulate the gravity-induced convection within a star or giant planet.</td><td><a href="https://physics.aps.org/articles/v16/10"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-11-21</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Alex-Kusenko.jpg"></td><td>Alex Kusenko was named Associate Editor of the Reviews of Modern Physics.</td><td><a href="https://journals.aps.org/rmp/staff"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-11-16</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/abell-glasses.png"></td><td>Tommaso Treu leads team finding and studying the first galaxies to form after the big bang.</td><td><a href="https://webbtelescope.org/contents/news-releases/2022/news-2022-044"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-11-11</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/James-Rosenzweig-news.jpg"></td><td>We congratulate Prof. James Rosenzweig for being awarded the prestigious Advanced Accelerator Concepts 2022 prize</td><td><a href=""> Read More </a></td><tr>
+             <tr> 
+             <td>2022-11-08</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Guido-Roberts-Borsani.jpg"></td><td>Dr Guido Roberts-Borsani awarded Chancellor’s Award for Postdoctoral Research.</td><td><a href="https://www.postdoc.ucla.edu/chancellors-award-for-postdoctoral-research/"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-11-08</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/a370_sn_draftv2_19Oct22.jpg"></td><td>Tommaso Treu parts of a study published in Nature that captures very early stages of Supernova explosion using </td><td><a href="https://hubblesite.org/contents/news-releases/2022/news-2022-054"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-10-31</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Agnieszka-DNP-Award-2022.jpg"></td><td>UCLA Graduate Dr. Agnieszka Sorensen won dissertation award from APS Division of Nuclear Physics</td><td><a href="https://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Sorensen&first_nm=Agnieszka&year=2023"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-10-30</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/campbell-fellow.jpg"></td><td>Congratulations to Professor Wes Campbell, for his naming by the Gordon and Betty Moore Foundation to the first cohort of Experimental Physics Investigators.</td><td><a href="https://www.moore.org/article-detail?newsUrlName=gordon-and-betty-moore-foundation-announces-first-cohort-of-experimental-physics-investigators"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-10-20</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/2022-APS-Fellows.jpg "></td><td>Congratulations to Professors Campbell, Kraus, Naoz, and Ni for being named APS Fellows</td><td><a href="https://www.aps.org/programs/honors/fellowships/archive-all.cfm"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-10-18</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/campbell-fellow.jpg"></td><td>The department congratulates Professor Wes Campbell, named 2022 APS Fellow in the Division of Atomic, Molecular, and Optical Physics (DAMOP).</td><td><a href="https://www.aps.org/programs/honors/fellowships/archive-all.cfm"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-10-15</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/GLASS-JWST-APJL.jpg"></td><td>Astrophysical Journal Letters Focus Issue on Early Results from the James Webb Space Telescope program GLASS, led by UCLA Professor Tommaso Treu.</td><td><a href="https://iopscience.iop.org/collections/2041-8205_Early-Results-from-GLASS-JWST"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-10-10</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/ni-ni-fellow.jpg"></td><td>The department congratulates Professor Ni Ni, named 2022 APS Fellow in the Division of Materials Physics (DMP).</td><td><a href="https://www.aps.org/programs/honors/fellowships/archive-all.cfm"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-10-10</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/naoz-fellow.jpg"></td><td>The department congratulates Professor Smadar Naoz, named 2022 APS Fellow in the Division of Astrophysics (DAP).</td><td><a href="https://www.aps.org/programs/honors/fellowships/archive-all.cfm"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-10-10</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/kraus-fellow.jpg"></td><td>The department congratulates Professor Per Kraus, named 2022 APS Fellow in the Division of Particles and Fields (DPF).</td><td><a href="https://www.aps.org/programs/honors/fellowships/archive-all.cfm"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-09-27</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Matthew-Hosek-news.jpg"></td><td>Congratulations to Dr. Matthew Hosek for receiving the Brinson Prize Fellowship to work with the Galactic Center Group.</td><td><a href="https://brinsonfoundation.org/brinson-prize-fellowships/"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-08-18</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Briley-lynn-news.jpg"></td><td>Graduate student Briley Lewis writes on research into black holes and dark matter at UCLA</td><td><a href="https://aeon.co/essays/how-primordial-black-holes-might-explain-dark-matter"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-07-31</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/hudson-group-news.jpg
+"></td><td>UCLA-led team develops new approach for building quantum computers. The building blocks of chemistry offer the potential to dramatically scale up quantum processing.</td><td><a href="https://newsroom.ucla.edu/releases/new-approach-for-building-quantum-computers"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-07-30</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/do_tuan_news.jpg"></td><td>Congratulations to Professor Tuan Do, who has been recipient of the 2022-2023 UCLA Society of Hellman Fellows award.</td><td><a href="https://apo.ucla.edu/faculty-career-development/hellman-fellowship/hellman"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-07-11</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Tommaso-JWST-news.jpg"></td><td>An international team lead by UCLA Professor Tommaso Treu has obtained some of the very first data with the new James Webb Space Telescope.</td><td><a href="https://arxiv.org/abs/2206.07978"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-07-11</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/BRENNA-MOCKLER-news.png"></td><td>Congratulations to Dr. Brenna Mockler for receiving the UC Chancellor postdoctoral fellowship.</td><td><a href="https://ppfp.ucop.edu/info/fellowship-recipients/fellows-2022/fellows-2022-name/index.html"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-07-07</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Alvine-Kamaha-news.png"></td><td>Prof. Alvine Kamaha's LUX-ZEPLIN experiment set the world's best limit on dark matter and continues to run.</td><td><a href="https://newsroom.ucla.edu/releases/alvine-kamaha-and-search-for-dark-matter"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-06-21</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/shenshen_news.jpg"></td><td>Congratulations to Prof. Shenshen Wang on being awarded a National Science Foundation CAREER award.</td><td><a href="https://beta.nsf.gov/funding/opportunities/faculty-early-career-development-program-career"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-05-31</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/ulrich-news.png"></td><td>Congratulations to Prof. Roger Ulrich on being awarded the 2022 Kavli Prize in Astrophysics.</td><td><a href="https://www.kavliprize.org/prizes/astrophysics/2022"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-05-13</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Andrea-Ghez-news.jpg"></td><td>Read Prof. Andrea Ghez's interesting interview with the LA Times</td><td><a href="https://www.latimes.com/science/story/2022-05-13/q-a-she-discovered-the-black-hole-at-the-center-of-our-galaxy-this-week-she-finally-saw-it"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-05-08</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/karoly-news.jpg"></td><td>Prof. Karoly Holczer has been elected to the Hungarian Academy of Sciences.</td><td><a href="https://mta.hu/kozgyules2022/bemutatjuk-a-magyar-tudomanyos-akademia-uj-tagjait-112124"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-05-02</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/alice-news.jpg"></td><td>Prof. Alice Shapley will give the Faculty Research Lecture on "Traveling Back in Time to the Birth of Galaxies” (May 17)</td><td><a href="https://uclaspecialevents.ucla.edu/facultyresearchlecture132"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-05-02</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/image-for-cern-news.jpg"></td><td>CERN has featured a UCLA physics result, a search for exotic new particles signaled by anomalous lifetimes</td><td><a href="https://cms.cern/news/detector-far-far-away-searching-elusive-long-lived-travellers-tracing-pairs-muons"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-05-02</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/walter-lynn-news.jpg "></td><td>Graduate Student Walter Lynn won a Dept. of Energy Office of Science Graduate Student Research Fellowship</td><td><a href="https://science.osti.gov/WDTS/SCGSR/SCGSR-Awards"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-05-02</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/krilov-news.jpg"></td><td>Congratulations to Dr. Stephanie Krilov, who has won the Academic Senate's staff award for Diversity, Equity, and Inclusion.</td><td><a href=""> Read More </a></td><tr>
+             <tr> 
+             <td>2022-04-11</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Joshua-Samani.jpg"></td><td>Congratulations to Joshua Samani for being awarded the Academic Senate Distinguished Teaching Award for Senate Faculty.</td><td><a href=""> Read More </a></td><tr>
+             <tr> 
+             <td>2022-04-05</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Sydney_Feldma_news.jpeg"></td><td>Congratulations to Sydney Feldman on winning an NSF Graduate Research Fellowship.</td><td><a href="https://beta.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-03-24</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/SmadarNaoz-news.jpg"></td><td>Prof. Smadar Naoz was elected to the Executive Committee of the Far West Section of the APS.</td><td><a href="https://engage.aps.org/fws/governance/executive-committee/committee-members?Execute=1"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-02-17</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/EIC+2_mid.jpg"></td><td>Prof. Zhongbo Kang won a Dept. of Energy grant to boost diversity in nuclear physics.</td><td><a href="https://newsroom.ucla.edu/releases/diversifying-the-field-of-nuclear-physics"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-02-17</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/cycle-1-go-news-pa.jpg"></td><td>Profs. Malkan, Shapley, and Treu presented a webinar on UCLA Astronomy's science with the James Webb Space Telescope.</td><td><a href="https://www.youtube.com/watch?v=cv-i1MdyESE"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-02-14</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/UCLA+Sloan+fellows+2022.jpg"></td><td>Prof. Mikhail Solon named Sloan Research Fellow. UCLA leads all universities in number of 2022 awardees.</td><td><a href="https://newsroom.ucla.edu/stories/ucla-has-most-2022-sloan-research-fellows"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-01-30</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/agnieszka-news.jpg"></td><td>Recent PhD graduate, Agnieszka (Wergieluk) Sorensen, had her nuclear physics results featured by DOE Office of Science.</td><td><a href="https://www.energy.gov/science/np/articles/measuring-speed-sound-dense-nuclear-matter"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-01-12</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/NAT-Maria-Vincent2-news.jpg"></td><td>Astrophysics B.S. graduate, Maria Vincent, was granted the UAE Golden Visa award.</td><td><a href="https://gulfnews.com/uae/uaes-space-odyssey-inspires-23-year-old-indian-to-reach-for-the-stars-1.84853922"> Read More </a></td><tr>
+             <tr> 
+             <td>2022-01-05</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/potw2132a-news.jpg"></td><td>Prof. Tommaso Treu was named AAS Fellow for his "innovative strong gravitational lensing observations and analysis methods."</td><td><a href="https://aas.org/press/aas-names-23-new-fellows-2022"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-12-12</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Amy-lo-news.jpg"></td><td>PhD alum Amy Lo was featured on "60 Minutes" for her role on the James Webb Space Telescope.
+ </td><td><a href="https://www.cbsnews.com/news/james-webb-space-telescope-60-minutes-2021-12-12/"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-12-12</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/pearce-kusenko-news.jpg"></td><td>PhD alum Lauren Pearce, Prof. Kusenko, and collaborators have linked gravitational waves, supersymmetry, and the Universe’s matter/antimatter asymmetry.</td><td><a href="https://www.sciencedaily.com/releases/2021/12/211208110316.htm"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-10-30</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/TeV-mass-particles-news.jpg"></td><td>CERN publicized PhD student Brent Stone's search for TeV-mass particles decaying into two Higgs bosons.</td><td><a href="https://cms.cern/news/twice-higgs-twice-fun"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-10-18</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/quantum-art-news.jpg"></td><td>Prof. Hudson and colleagues won a $3M NSF grant to support PhD students in quantum science and engineering.</td><td><a href="https://newsroom.ucla.edu/dept/faculty/ucla-awarded-3-million-nsf-quantum-science-and-engineering-grant"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-10-12</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Alice-Tommaso-news.jpg"></td><td>Profs. Alice Shapley and Tommaso Treu have been elected fellows of the American Physical Society (APS).</td><td><a href="https://newsroom.ucla.edu/dept/faculty/alice-shapley-tommaso-treu-american-physical-society"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-09-19</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/SmadarNaoz-news.jpg"></td><td>Prof. Smadar Naoz and collaborators won the Scialog award: Signatures of Life in the Universe, for averting false biosignatures.</td><td><a href="https://rescorp.org/news/2021/09/8-projects-win-funding-in-1st-year-of-scialog-signatures-of-life-in-the-universe"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-09-19</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/physicsToday-news.jpg"></td><td>Recent Astro PhD, Jon Zink, and colleagues improved Kepler planet finding and are featured in Physics Today.</td><td><a href="https://physicstoday.scitation.org/do/10.1063/PT.6.1.20210916a/full/"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-09-05</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/uperconductor-news.jpg"></td><td>Physics Today featured Prof. Stuart Brown's lab for ruling out claims of SRO's spin-triplet superconductivity.</td><td><a href="https://physicstoday.scitation.org/doi/10.1063/PT.3.4829"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-08-29</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Antarctic-balloon-campaigns.jpg"></td><td>Prof. Rene Ong's General AntiParticle Spectrometer was approved by NASA for at least two Antarctic balloon campaigns.</td><td><a href="https://gaps1.astro.ucla.edu/gaps/"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-07-20</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/nini-chaowei-news.jpg"></td><td>Prof. Ni Ni's group and collaborators discovered the Layer Hall effect in a 2D topological axion antiferromagnet.</td><td><a href="https://www.nature.com/articles/s41586-021-03679-w"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-06-29</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/dumitrescu-news.jpg"></td><td>Prof. Thomas Dumitrescu has co-founded the Simons Collaboration on Global Categorical Symmetries, initially awarded $8M  to unlock the power of symmetry.</td><td><a href="https://www.simonsfoundation.org/2021/06/24/foundation-announces-the-simons-collaboration-on-global-categorical-symmetries/"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-06-22</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/2021-Doctoral-hooding-ceremony.jpg"></td><td>Congratulations to Dissertation Year Fellows: Kevin Chen, Bao Minh Hoang, Chaowei Hu, Dimitrios Kosmopoulos, John Terry, & Ji Zou.</td><td><a href=""> Read More </a></td><tr>
+             <tr> 
+             <td>2021-06-07</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Large-Plasma-Device.jpg"></td><td>UCLA's Basic Plasma Science Facility accelerated electrons by Alfvén waves to solve the mystery of aurora borealis.</td><td><a href="https://newsroom.ucla.edu/releases/physicists-solve-mystery-surrounding-aurora-borealis"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-05-17</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Chen-Hsuan-Hsu-news.jpg"></td><td>Former grad student Chen-Hsuan Chu (PhD '14 with Chakravarty) won RIKEN's Emergent Matter Science award.</td><td><a href="https://cems.riken.jp/en/events/89th-cems-colloquium-the-8th-cems-award-lectures"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-05-01</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/cropp-feruson-news.jpg"></td><td>Congratulations to PhD students Eric Cropp and Kyle Ferguson on winning  DOE Office of Science graduate fellowships</td><td><a href="https://science.osti.gov/-/media/wdts/scgsr/pdf/SCGSR-2020-S2-Awards--public-announcement.pdf"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-04-22</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Miao_picture_news.jpg"></td><td>Prof. John Miao received the 2021 Innovation in Materials Characterization Award from the Materials Research Society</td><td><a href="https://www.mrs.org/meetings-events/spring-meetings-exhibits/2021-mrs-spring-meeting/activities-events/awards/meet-mrs-award-recipients"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-04-21</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Spenser-Talkington-Jonathan-Lin-news.jpg"></td><td>Congratulations to Spenser Talkington and Jonathan Lin on their NSF Graduate Research Fellowships.</td><td><a href="https://www.nsfgrfp.org/"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-04-14</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/zhang-news.jpg"></td><td>Congratulations to Dr. Shu "Suzy" Zhang on the UCLA Chancellor's Award for Postdoctoral Research</td><td><a href="https://www.postdoc.ucla.edu/chancellors-award-for-postdoctoral-research/chancellors-award-for-postdoctoral-research-award-recipients/"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-04-05</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/hubble-news.jpg"></td><td>Congratulations to PhD students Anowar Shajib, Jon Zink, and former undergrad Erika Holmbeck on their Hubble Fellowships.</td><td><a href="https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2021-nhfp-fellows#section-e078384c-fe57-4654-8b5a-9334d19dd289"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-03-31</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/3D-atomic-news.jpg"></td><td>Prof. John Miao led a team that solved a century-old scientific problem, the paper is published in this week's Nature.</td><td><a href="https://newsroom.ucla.edu/releases/first-ever-3d-atomic-imaging-amorphous-solid"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-03-31</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/cycle-1-go-news.jpg"></td><td>Profs. Malkan, Shapley, Treu, Turner, and Drs. Hosek and Roberts-Borsani are among the first awarded James Webb Space Telescope time.</td><td><a href="https://www.stsci.edu/jwst/science-execution/approved-programs/cycle-1-go"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-03-30</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/emily-martin-news.jpg"></td><td>Congratulations to former UCLA Astro PhD student Dr. Emily Martin for her 51 Pegasi b Fellowship from the Heising-Simons Foundation</td><td><a href="http://www.51pegasib.org/"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-03-25</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/SRose-news.jpg"></td><td>Congratulations to Astro PhD student Sanaea Rose for winning the Charles E. and Sue K. Young Graduate Student Fellowship.</td><td><a href="news/Sanaea-Rose-received-Charles-E-Young-Graduate-Student-Fellowship-Award.pdf"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-03-05</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/keck_observatory_07-news.jpg"></td><td>A $500,000 gift from Astrid and Howard Preston will allow renovation of UCLA's Remote Observing Facility</td><td><a href="https://www.college.ucla.edu/2021/02/22/gift-from-astrid-and-howard-preston-will-fund-renovation-of-uclas-remote-observing-facility/"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-02-11</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Tommaso-Treu-news.jpg"></td><td>Congratulations to Prof. Tommaso Treu on the AAAS Newcomb Cleveland Prize and locating a Fast Radio Burst.</td><td><a href="https://www.aaas.org/news/astronomical-discovery-earns-2020-aaas-newcomb-cleveland-prize"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-02-05</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Alex-Kusenko-news.jpg"></td><td>Congratulations to Prof. Alex Kusenko for being selected as a Simons Fellow in Theoretical Physics.</td><td><a href="https://www.simonsfoundation.org/2021/02/04/2021-simons-fellows-in-mathematics-and-theoretical-physics-announced/"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-02-01</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/daniel-gilman-news.jpg"></td><td>Recent PhD student, Daniel Gilman, won honorable mention at the CGS/ProQuest Distinguished Dissertation Award ceremony.</td><td><a href="https://cgsnet.org/winners-2020-cgsproquest%C2%AE-distinguished-dissertation-awards-announced"> Read More </a></td><tr>
+             <tr> 
+             <td>2021-01-17</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/malkan-news.jpg"></td><td>Prof. Matt Malkan has been appointed to the National Science Board to advise Congress and the White House.</td><td><a href="https://newsroom.ucla.edu/dept/faculty/matthew-malkan-astronomy-professor-national-science-board"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-12-14</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/dimitrios1.jpg"></td><td>Graduate student Dimitrios Kosmopoulos has been awarded the Mavroyannis Scholarship in Theoretical Physics from the AHEPA.</td><td><a href="https://ahepa.org/2020-constantine-and-patricia-mavroyannis-scholarship-recipients-announced/"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-12-10</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Kalliopi-Petraki-news.jpg"></td><td>Congratulations to P&A alumna Kalliopi Petraki (PhD '09) on promotion to the highest professorial rank at the Sorbonne and a 2M euro theory grant."</td><td><a href="https://sciences.sorbonne-universite.fr/actualites/erc-consolidator-2020"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-12-04</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/carter-news.jpg"></td><td>Prof. Troy Carter chaired the panel that authored the long-range strategic plan for fusion power and plasma science.</td><td><a href="https://science.osti.gov/-/media/fes/fesac/pdf/2020/202012/DRAFT_Fusion_and_Plasmas_Report_120420.pdf?la=en&hash=0BC10F27FAFFCDF79867E08ECDF762C16434F8D5"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-12-02</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Maxx-Tepper-news.png"></td><td>Engineer Maxx Tepper's high-bandwidth custom electronics work for the LHC was featured by Samtec Blog.</td><td><a href="https://blog.samtec.com/post/firefly-technology-enables-bandwidth-in-cern-lhc/"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-11-24</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/gelmini-news.jpg"></td><td>Prof. Graciela Gelmini was named Fellow of the American Association for the Advancement of Science (AAAS). </td><td><a href="https://newsroom.ucla.edu/releases/four-professors-2020-fellows-american-association-advancement-science"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-11-20</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/tng-image.jpg"></td><td>The newest faculty of UCLA Astronomy and Astrophysics gave a public webinar about their research to nearly 1,000 people.</td><td><a href="https://www.youtube.com/watch?v=mB-nJOQHxY0&feature=youtu.be"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-11-10</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Alina-kocjocki-news.jpg"></td><td>Senior physics major Alina Kochocki won Honorable Mention for the 2020 University Space Research Association (USRA) Distinguished Undergraduate Award</td><td><a href=""> Read More </a></td><tr>
+             <tr> 
+             <td>2020-10-12</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Erik-Petigura-news.png"></td><td>Check out the profile of Prof. Erik Petigura in the Daily Bruin.</td><td><a href="https://dailybruin.com/2020/10/08/professors-101-his-studies-are-out-of-this-world-but-erik-petigura-finds-ways-to-stay-grounded "> Read More </a></td><tr>
+             <tr> 
+             <td>2020-10-05</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/ghez-nobel-pa.jpg"></td><td>Andrea Ghez, the Lauren B. Leichtman and Arthur E. Levine Professor of Astrophysics at UCLA, has been awarded the 2020 Nobel Prize in Physics.</td><td><a href="https://newsroom.ucla.edu/releases/andrea-ghez-wins-2020-nobel-prize-in-physics"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-09-21</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/holczer-news.jpg"></td><td>Prof. Karoly Holczer and colleagues won a $1M NSF award to develop nitrogen vacancies in diamonds to advance quantum sensing.</td><td><a href="https://nsf.gov/awardsearch/showAward?AWD_ID=2040520&HistoricalAwards=false"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-09-08</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/art-electronica-gekelman-vesna-news.jpg"></td><td>Profs. Walter Gekelman and Victoria Vesna will give a virtual plasma physics tour for Ars Electronica.</td><td><a href="https://mailchi.mp/ucla/exhibitions-for-ars-electronica-and-telluric-vibrations?e=[UNIQID]"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-08-31</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/bob-finkelstein-news.jpg"></td><td>We mourn the passing of Prof. Bob Finkelstein who joined our faculty in 1948 and remained active through this year.</td><td><a href="https://www.pa.ucla.edu/robert-finkelstein-memorial.php"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-08-19</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/miao-news-8-20-20.jpg"></td><td>Prof. John Miao, PhD student Arjun Rana and colleagues report an innovative method to capture multiple images from attosecond pulses.</td><td><a href="https://physics.aps.org/articles/v13/s108"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-08-04</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/Seth-Putterman-news.jpg"></td><td>Prof. Seth Putterman was awarded the DoD's Newton Award for Transformative Ideas during the COVID-19 Pandemic.</td><td><a href="news//Seth_Putterman_Newto_award_2020.pdf"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-07-28</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/anni-white-news.jpg"></td><td>Former UCLA Physics PhD Student, Anne White, has been appointed the Distinguished Professor of Engineering at MIT's School of Engineering.</td><td><a href="http://web.mit.edu/nse/news/2020/white-soe-distinguished%20professor.html?fbclid=IwAR3s58ang4Q0cnpSdtkkKH5b_zTGKqO9lmyERiXxuYvaTckPjeX8_4-vnkA"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-07-28</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/nini-chaowei-news.jpg"></td><td>Congratulations to Prof. Ni Ni and PhD student Chaowei Hu for the fabrication and discovery of the first intrinsic ferromagnetic topological insulator.</td><td><a href="https://www.physicalsciences.ucla.edu/physics-lab-makes-new-materials/"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-07-24</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/niemann3-news.jpg"></td><td>Congratulations to Prof. Christoph Niemann for winning the 2020 APS John Dawson Award for Excellence in Plasma Physics</td><td><a href="https://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Niemann&first_nm=Christoph&year=2020"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-07-21</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/quantum2020-news.jpg"></td><td>UCLA Physics will co-lead a new $25M NSF Quantum Leap Challenge Institute to overcome scientific challenges to quantum computing.</td><td><a href="https://newsroom.ucla.edu/releases/uc-to-lead-group-creating-quantum-computing-institute"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-07-17</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/mori-news.jpg"></td><td>Congratulations to Prof. Warren Mori for winning the 2020 APS Maxwell Prize for outstanding contributions to the field of plasma physics.</td><td><a href="https://www.aps.org/programs/honors/prizes/maxwell.cfm"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-07-01</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/thomas-news.jpg"></td><td>Congratulations to Prof. Thomas Dumitrescu for being named a UCLA Hellman Fellow.</td><td><a href="https://www.apo.ucla.edu/faculty-career-development/hellman-fellowship/hellman"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-06-05</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/kangfig-news.jpg"></td><td>Prof. Zhongbo Kang has won an NSF Career Award for theoretical work in quantum chromodynamics and nucleon structure.</td><td><a href="https://newsroom.ucla.edu/dept/faculty/nuclear-physicist-honored-with-national-science-foundation-award-for-early-faculty"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-06-05</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/eddie-chang-news.jpg"></td><td>Grad Student Eddie Chang won "Best Poster" at the national APS meeting of the Group on Precision Measurement and Fundamental Constants</td><td><a href="events/2020_DAMOP_HUNTER.pdf"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-06-01</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/peccei-news.jpg"></td><td>Our department mourns the passing of Prof. Roberto Peccei and remembers his deep legacy and friendship.</td><td><a href="https://www.pa.ucla.edu/peccei-memorial.php"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-05-15</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/quantum-news.jpg"></td><td>UCLA physicists have created the world's best fidelity qubit, the basic element of quantum information, making it easier to build a quantum computer.  </td><td><a href="https://www.nature.com/articles/s41534-020-0265-5"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-05-01</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/ferromagnetic-order-news.jpg"></td><td>A surprising ferromagnetic order in superconductors predicted by Prof. Sudip Chakravarty, then-grad student Angela Kopp, and then-postdoc Amit Ghosal has been found experimentally.</td><td><a href="news/ferromagnetic-order-news.pdf"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-05-01</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/pilgram-news.jpg"></td><td>Congratulations to second-year grad student Jessica Pilgram, recent awardee of an NSF GRFP.</td><td><a href="news/pilgram-news.pdf"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-04-14</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/viruse-news.jpg"></td><td>Prof. Robijn Bruisnma published an article calculating the general phase plot for the capsid of viruses, which was selected as Editor's Suggestion for Physical Review Letters.</td><td><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.158101"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-04-07</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/miao-2-news.jpg"></td><td>A Nature video featuring the research from Prof. John Miao's group has reached 10 million views, becoming the most viewed video ever made by Nature in any discipline and indicating that the public is still interested in the basic research.</td><td><a href="https://www.youtube.com/watch?v=yqLlgIaz1L0"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-04-02</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/bachtis-news.jpg"></td><td>Prof. Michalis Bachtis and UCLA colleagues have been awarded $2.2M as part of an NSF Major Research Equipment & Facilities Grant to upgrade the Compact Muon Solenoid detector at CERN's Large Hadron Collider.  </td><td><a href="https://www.pa.ucla.edu/faculty-websites/bachtis.html"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-04-02</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/ventilator-news.jpg"></td><td>Dr. Hanguo Wang of UCLA helped start a project to build ventilators to fight COVID-19 disease using common off-the-shelf parts. </td><td><a href="https://arxiv.org/pdf/2003.10405.pdf"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-03-30</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/trent.jpg"></td><td>Trent Thomas, a senior astrophysics major in the UCLA Physics & Astronomy department, just received an NSF Graduate Fellowship.</td><td><a href="https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-03-08</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/miao-news.jpg"></td><td>Prof. John Miao led a team that produces most accurate 3D images of 2D materials. The work was published in Nature Materials today, accompanied with a News & Views article by Prof. Angus Kirkland of Oxford University.</td><td><a href="https://newsroom.ucla.edu/releases/3d-images-of-2d-materials"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-02-24</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/ghez-mclean-pa.jpg"></td><td>Professors Andrea Ghez and Ian McLean were named inaugural fellows of the American Astronomical Society (AAS) for their contributions toward the AAS mission of enhancing and sharing humanity's scientific understanding of the universe.</td><td><a href="https://aas.org/grants-and-prizes/aas-fellows"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-02-12</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/petigura-pa.jpg"></td><td>Erik Petigura, an assistant professor of physics and astronomy, has been selected to receive the 2020 Sloan Research Fellowship, which selects early-career scientists and scholars who are rising stars of science.</td><td><a href="https://newsroom.ucla.edu/stories/four-ucla-faculty-members-awarded-2020-sloan-research-fellowships"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-01-20</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/smadar2020.jpg"></td><td>American Astronomical Society has announced that Smadar Naoz is the recipient of the Helen B. Warner Prize for 2020 for her many early career contributions to theoretical astrophysics.</td><td><a href="https://aas.org/press/aas-announces-2020-prize-recipients"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-01-09</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/hanguo.jpg"></td><td>Hanguo Wang has been awarded the 2019 DPF Instrumentation Award for contributions to and development of the use of liquid xenon and argon detectors for direct detection searches for dark matter, including the two-phase technique.</td><td><a href="https://www.aps.org/units/dpf/newsletters/upload/December-2019-Newsletter.pdf"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-01-09</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/ni-chaowei.jpg"></td><td>Professor Ni Ni and graduate student Chaowei Hu have found a new magnetic topological insulator, MnBi4Te7, a candidate for the Quantum Anomalous Hall effect.</td><td><a href="https://www.nature.com/articles/s41467-019-13814-x"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-01-07</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/holicow1-pa.jpg"></td><td>Tommaso Treu and other HoLiCOW colleagues have found a new Hubble measurement that strengthens a discrepancy in the universe's expansion rate.</td><td><a href="https://hubblesite.org/contents/news-releases/2020/news-2020-04"> Read More </a></td><tr>
+             <tr> 
+             <td>2020-01-07</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/holicow2-pa.jpg"></td><td>Using NASA's Hubble Space Telescope, Tommaso Treu and fellow astronomers have found that dark matter forms much smaller clumps than previously known.</td><td><a href="https://hubblesite.org/contents/news-releases/2020/news-2020-05"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-12-16</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/morris-physics.jpg"></td><td>Mark Morris and colleagues have revealed a new image of a candy-cane-shaped feature in the center of our galaxy.</td><td><a href="http://newsroom.ucla.edu/releases/astronomers-candy-cane-galaxy"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-12-11</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/snaoz-pa.jpg"></td><td>Astrophysicist Smadar Naoz has found that a supermassive black hole at the center of our galaxy may have a friend.</td><td><a href="https://theconversation.com/supermassive-black-hole-at-the-center-of-our-galaxy-may-have-a-friend-128295"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-12-11</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/jewitt-pa-dec.jpg"></td><td>David Jewitt leads a new analysis of data from Hubble Space Telescope that provides more details about the first observed interstellar comet.</td><td><a href="http://newsroom.ucla.edu/releases/image-more-details-interstellar-comet-borisov"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-11-19</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/wright-nini.jpg"></td><td>UCLA professors Edward L. Wright and Ni Ni have been acknowledged in the 2019 list of the world's most influential scientific researchers.</td><td><a href="http://newsroom.ucla.edu/releases/ucla-scientists-among-worlds-most-influential-scholars-based-on-citations-2019"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-11-05</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/jia-newpa.jpg"></td><td>Jia Han is the lead author of the article "3D measurements of plasma parameters in an industrial plasma etch tool" in "Physics of Plasmas." </td><td><a href="https://aip.scitation.org/doi/10.1063/1.5115415"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-11-04</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/saturn-moons.jpg"></td><td>David Jewitt and colleagues have discovered twenty new moons of Saturn. This brings the ringed planet's total number of moons to 82, surpassing Jupiter, which has 79. </td><td><a href="https://carnegiescience.edu/news/saturn-surpasses-jupiter-after-discovery-20-new-moons-and-you-can-help-name-them"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-10-28</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/keck-treu.jpg"></td><td>Astronomer Tommaso Treu and colleagues have released a study suggesting that the universe is expanding more rapidly than previously thought.</td><td><a href="http://www.keckobservatory.org/hubble-constant"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-10-25</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/fortson.jpg"></td><td>Lucy Fortson won the APS Nicholson Medal for "the humanitarian aspect of physics." Dr. Fortson received her Ph.D. in physics from UCLA in 1991.</td><td><a href="https://www.aps.org/programs/honors/prizes/nicholson.cfm"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-10-25</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/ancient-news.jpg"></td><td>Ben Zuckerman and Hilke Schlichting have co-authored a study suggesting that Earth is not unique: Earth-like planets may be common in the universe.</td><td><a href="http://newsroom.ucla.edu/releases/stars-planets-earth-geochemistry"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-10-24</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/jewitt-comet.jpg"></td><td>David Jewitt has captured the best and sharpest look at a comet from outside of our solar system that recently barged into our own.</td><td><a href="http://newsroom.ucla.edu/releases/close-look-first-interstellar-comet"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-10-22</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/rich-news.jpg"></td><td>R. Michael Rich has led an international team carrying out a survey for the Haloes and Environments of Nearby Galaxies (HERON) collaboration. </td><td><a href="https://phys.org/news/2019-10-heron-survey-fishes-ghostly-galaxy.html"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-10-22</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/hansen-news.jpg"></td><td>In a recent article in The Conversation, Brad Hansen discusses what moons in other solar systems reveal about planets like Neptune and Jupiter.</td><td><a href="https://theconversation.com/what-moons-in-other-solar-systems-reveal-about-planets-like-neptune-and-jupiter-124163"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-10-01</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/regan.jpg"></td><td>Chris Regan and William Hubbard have received Microscopy Today's "Innovation Award" for their invention of SEEBIC imaging.</td><td><a href="https://www.cambridge.org/core/journals/microscopy-today/article/2019-microscopy-today-innovation-awards/F6B2072618BF51968FF1060957A8F840/core-reader"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-10-01</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/royce.jpg"></td><td>UCLA has had four faculty named APS Fellows in the 2019 Cohort: Andrea Ghez, Eric Hudson, Aydogan Ozcan, and Chee Wei Wong. </td><td><a href="http://newsroom.ucla.edu/dept/faculty/four-ucla-professors-elected-2019-fellows-of-the-american-physical-society"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-10-01</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/brown-news.jpg"></td><td>Prof. Stuart Brown and collaborators have published a major breakthrough in superconductivity in the journal Nature.</td><td><a href="https://www.physicalsciences.ucla.edu/solving-a-puzzle-of-unconventional-superconductivity/"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-10-01</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/black-holes.jpg"></td><td>The enormous black hole at the center of our galaxy is having an unusually large meal of interstellar gas and dust. Researchers don't yet understand why.</td><td><a href="http://newsroom.ucla.edu/releases/black-hole-getting-hungrier"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-09-01</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/thomas_office.jpg"></td><td>Thomas Dumitrescu, assistant professor in the department, has been awarded the prestigious Department of Energy Office of Science Early Career Award for his work "New Tools for Strongly Coupled Quantum Field Theories."</td><td><a href="https://science.osti.gov/early-career"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-09-01</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/whitehorn.jpg"></td><td>Professor Nathan Whitehorn's project, IceCube, the Antarctic neutrino detector that in July of 2018 helped unravel one of the oldest riddles in physics and astronomy - the origin of high-energy neutrinos and cosmic rays - is getting an upgrade. </td><td><a href="https://news.wisc.edu/icecube-antarctic-neutrino-detector-to-get-37-million-upgrade/"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-08-07</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/klein.jpg"></td><td>Dr. Beth Klein has been awarded the American Physical Society's M. Hildred Blewett Fellowship.  Dr. Klein, a junior development engineer in the Astronomy Division, studies polluted white dwarf stars, elemental compositions of extrasolar planetesimals, formation and evolution of rocky planets and exoplanets, and high-resolution spectroscopy and imaging.</td><td><a href="http://www.pa.ucla.edu/content/beth-klein-awarded-american-physical-societys-m-hildred-blewett-fellowship"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-07-01</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/mehta.jpg"></td><td>At 6:56 in this video by Nature Magazine, Physics & Astronomy Professor Mayank Mehta discusses how virtual-reality mazes are helping to unlock the complexity of the human brain.</td><td><a href="https://www.nature.com/articles/d41586-019-02154-x"> Read More </a></td><tr>
+             <tr> 
+             <td>2019-01-01</td><td align="center"><img class="news-archive-img width="200" height="136" src="images/news/ghez.jpg"></td><td>More than 100 years after Albert Einstein published his iconic general theory of relativity, it is beginning to fray at the edges, said Andrea Ghez, UCLA professor of physics and astronomy. "Einstein's right, at least for now," said Ghez. </td><td><a href="http://newsroom.ucla.edu/releases/einstein-general-relativity-theory-questioned-ghez"> Read More </a></td><tr>    
+     </table>
+      </div>
+    </div> <!-- end row -->
+  
+</div> <!-- rnd Container -->
+</body>
+</html>

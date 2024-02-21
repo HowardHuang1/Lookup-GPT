@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>UCLA Student Conduct Code | UCLA Dean of Students</title>
+<link rel="stylesheet" href="/themes/custom/ucla_sa/fonts/proximanova.css?v=20240217141013">
+<link rel="stylesheet" href="/themes/custom/ucla_sa/css/ucla_sa.css??v=20240217141013">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-90090752-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', 'UA-90090752-1');
+</script>
+<style type="text/css">
+/* List items with headers, instead with links as main subject Start */
+/* Custom embed: Honor Societies /node/45 */
+.header-list .list-item {
+  grid-template-columns: auto 1fr;
+}
+/* List items with headers, instead with links as main subject End */
+/* Map icon Start */
+/* Custom embed: Location: Map /node/48 */
+.ucla-map {
+    display: grid;
+}
+.ucla-map img {
+    z-index: 0;
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+.ucla-map:after {
+    z-index: 100;
+    grid-column: 1/2;
+    grid-row: 1/2;
+    content: ' ';
+    background-image: url(/sites/default/files/2021-02/icon-location-magenta.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-position: center calc(50% - 0.8rem);
+}
+/* Map icon End */
+</style>
+</head>
+<body
+    data-ucla-ref="load/student-conduct-code"
+    data-ucla-path="/student-conduct-code"
+    data-ucla-origin="https://www.deanofstudents.ucla.edu"
+    class="no-js"
+>
+<script>document.body.classList.remove('no-js'); document.body.classList.add('js');</script>
+<header class="header">
+    <div class="skip-to-main">
+    <a href="#main">Skip to Main Content</a>
+    </div>
+            <div class="nav-topbar desktop-only">
+    <nav aria-label="Secondary Top" class="nav-secondary container">
+    <ul>
+  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
+  <li><a href="/contact-us">Contact Us</a></li>
+  <li class="topbar-yellow-button"><strong><a href="/incident-report">REPORT AN INCIDENT OF BIAS</a></strong></li>
+  <li class="topbar-yellow-button"><strong><a href="/studentconductcode">STUDENT CONDUCT CODE</a></strong></li>
+</ul>
+    </nav>
+    </div>
+    <div class="headerbar container">
+          <a href="/" class="site-name"><img src="/sites/default/files/UCLA_Logo_DSO.fw_.png" height="70" width="780" alt="UCLA Office of the Dean of Students"></a>
+          <div class="header-right">
+      <button class="mobile-only" aria-haspopup="true" aria-controls="menus" aria-expanded="false" aria-label="Main Menus"></button>
+      <form action="https://www.ucla.edu/search" method="GET" class="site-search desktop-only">
+      <label for="header-search-headerbar">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-headerbar"><button type="submit">Search</button>
+      </form>
+      </div>
+    </div>
+    <div id="menus">
+    <form action="https://www.ucla.edu/search" method="GET" class="site-search mobile-only">
+      <label for="header-search-mobile-only">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-mobile-only"><button type="submit">Search</button>
+    </form>
+    <nav aria-label="Main" class="nav-main container">
+    <ul>
+  <li><a href="">Students</a>
+    <ul>
+      <li><a href="/academic-integrity">Academic Integrity</a></li>
+      <li><a href="/student-conduct">Student Conduct</a></li>
+      <li><a href="/honor-societies">Honor Societies</a></li>
+      <li><a href="/deans-certification">Dean&#x27;s Certification</a></li>
+      <li><a href="/alcohol-policies">Alcohol Policies</a></li>
+      <li><a href="/workshops">Workshops</a></li>
+      <li><a href="/official-notices">Official Notices</a></li>
+      <li><a href="/helpful-links">Helpful Links</a></li>
+    </ul>
+</li>
+  <li><a href="/parents">Parents</a></li>
+  <li><a href="/faculty">Faculty</a></li>
+  <li><a href="/staff">Staff</a></li>
+</ul>
+    </nav>
+    <nav aria-label="Secondary Menu" class="nav-secondary container mobile-only">
+    <ul>
+  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
+  <li><a href="/contact-us">Contact Us</a></li>
+  <li class="topbar-yellow-button"><strong><a href="/incident-report">REPORT AN INCIDENT OF BIAS</a></strong></li>
+  <li class="topbar-yellow-button"><strong><a href="/studentconductcode">STUDENT CONDUCT CODE</a></strong></li>
+</ul>
+    </nav>
+    </div>
+</header>
+<main id="main">
+  <div class="container">
+        <div class="page">
+<div class="page-header">
+  <div id="block-system-messages">
+<div data-drupal-messages-fallback class="hidden"></div>
+</div>
+<div id="block-breadcrumbs">
+  
+    
+      
+  </div>
+<div id="block-ucla-sa-page-title">
+  
+    
+      
+  <h1>UCLA Student Conduct Code</h1>
+
+
+  </div>
+
+
+</div>
+<div class="page-content">
+  <div id="block-mainpagecontent">
+  
+    
+      <div data-ucla-node-id="46" data-repeat-buttons-max-count="2">
+
+
+
+
+
+<div class="body-content body--section">
+
+<p>UCLA students are proud to be members of this community. They take pride in the reputation of our faculty; they take pride in our unparalleled programs and services; they take pride in the wealth of diversity of our community members; and they take pride in our beautiful campus. Intertwined with our core values, Bruin Pride is at the very heart of what it means to be a TRUE BRUIN. Bruins are committed to the values of Integrity, Excellence, Accountability, Respect and Service. Bruins conduct themselves with integrity and understand that the quality of their educational experience is predicated on the quality of their academic work and service to the community Bruins hold themselves accountable to the commitments they make and for their conduct. When faced with adversity, Bruins engage in thoughtful reflection and exhibit superior ethical decision-making skills. They respect the rights and dignity of all members of our community by listening attentively, communicating clearly, and remaining open to understanding others and their diverse points of view. Bruins embrace these values, for these are the values of a TRUE BRUIN.</p>
+
+</div>
+
+  <div class="cards-theme-buttons cards paragraph--type--buttons paragraph--section" data-section-title="Conduct Codes">
+          <h2>
+Conduct Codes
+</h2>
+      
+      <div class="cards-container">
+      
+  <a href="/individual-student-code"  class="card">
+          <span class="card-title">
+UCLA Student Conduct Code
+</span>
+      </a>
+
+  <a href="/group-student-code"  class="card">
+          <span class="card-title">
+UCLA Student Group Conduct Code
+</span>
+      </a>
+
+
+      </div>
+      </div>
+
+  <div class="cards-theme-buttons cards paragraph--type--buttons paragraph--section" data-section-title="Conduct Procedures">
+          <h2>
+Conduct Procedures
+</h2>
+      
+      <div class="cards-container">
+      
+  <a href="/Portals/33/Documents/UCLA%20SVSA%20Procedures%20-%20Jan%202016.pdf"  class="card">
+          <span class="card-title">
+Student Conduct Procedures for Allegations of Prohibited Conduct Under the UC Policy on Sexual Violence and Sexual harassment, effective 1/1/16
+</span>
+      </a>
+
+  <a href="/Portals/16/Documents/144317_sh_procedures_Marchv2final.pdf"  class="card">
+          <span class="card-title">
+UCLA Student Conduct Procedures for Allegations of Sexual Harassment, Sexual Misconduct, Domestic and Dating Violence, and Stalking, effective 3/25/15-1/3/16
+</span>
+      </a>
+
+
+      </div>
+      </div>
+
+
+
+
+
+
+</div>
+  </div>
+
+
+</div>
+</div>
+
+
+      </div>
+</main>
+<footer>
+<div class="container">
+<nav class="nav-footer" aria-label="Footer">
+  <ul>\n  <li><a href="https://www.ucla.edu/accessibility" class="icon-ada">Accessibility</a></li>\n  <li><a href="https://www.ucla.edu/">UCLA</a></li>\n  <li><a href="https://www.studentaffairs.ucla.edu/">Student Affairs</a></li>\n  <li><a href="https://www.transportation.ucla.edu/campus-parking">Maps, Directions, Parking</a></li>\n  <li><a href="https://registrar.ucla.edu/calendars">Academic Calendar</a></li>\n  <li><a href="https://www.universityofcalifornia.edu/">University of California</a></li>\n  <li><a href="https://www.ucla.edu/terms-of-use">Terms of Use</a></li>\n</ul>
+
+</nav>
+</div>
+</footer>
+<script src="/themes/custom/ucla_sa/js/ucla_sa.js?v=a20240217141013" async></script>
+<script type="text/javascript">
+(function() {
+  if(document.querySelector('[data-ucla]')) {
+    var embed = document.createElement('script'); embed.type = 'text/javascript'; embed.async = true;
+    embed.src = '/themes/custom/ucla_sa/js/ucla_embed.js?v=20240217141013';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(embed, s);
+  }
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,1534 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://www.cs.ucla.edu/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<title>Graduate Admission Frequently Asked Questions | CS</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><style id="et-builder-googlefonts-cached-inline">/* Original: https://fonts.googleapis.com/css?family=Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic&#038;subset=latin,latin-ext&#038;display=swap *//* User Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCc.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-v.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-v.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPHA.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwWw.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPHA.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPHA.ttf) format('truetype');}/* User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCQ.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-s.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-s.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPHw.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwWA.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPHw.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPHw.woff) format('woff');}/* User Agent: Mozilla/5.0 (Windows NT 6.3; rv:39.0) Gecko/20100101 Firefox/39.0 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCI.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-q.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-q.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPGQ.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwXg.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPGQ.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPGQ.woff2) format('woff2');}</style>		<style type="text/css">
+					.heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+											.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+					.heateor_sss_horizontal_sharing .heateorSssTCBackground{
+				color:#666;
+			}
+					.heateor_sss_horizontal_sharing span.heateor_sss_svg:hover,.heateor_sss_standard_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		.heateor_sss_vertical_sharing span.heateor_sss_svg,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_vertical_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+						.heateor_sss_vertical_sharing span.heateor_sss_svg:hover,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}div.heateor_sss_mobile_footer{display:none;}@media screen and (max-width:783px){div.heateor_sss_bottom_sharing .heateorSssTCBackground{background-color:white}div.heateor_sss_bottom_sharing{width:100%!important;left:0!important;}div.heateor_sss_bottom_sharing a{width:25% !important;}div.heateor_sss_bottom_sharing .heateor_sss_svg{width: 100% !important;}div.heateor_sss_bottom_sharing div.heateorSssTotalShareCount{font-size:1em!important;line-height:28px!important}div.heateor_sss_bottom_sharing div.heateorSssTotalShareText{font-size:.7em!important;line-height:0px!important}div.heateor_sss_mobile_footer{display:block;height:40px;}.heateor_sss_bottom_sharing{padding:0!important;display:block!important;width:auto!important;bottom:-2px!important;top: auto!important;}.heateor_sss_bottom_sharing .heateor_sss_square_count{line-height:inherit;}.heateor_sss_bottom_sharing .heateorSssSharingArrow{display:none;}.heateor_sss_bottom_sharing .heateorSssTCBackground{margin-right:1.1em!important}}.heateor_sss_sharing_container {
+ padding: 15px 0px;
+ max-width: 1000px;
+ margin: auto;
+}		</style>
+		<meta name='robots' content='max-image-preview:large' />
+<script type="text/javascript">
+			let jqueryParams=[],jQuery=function(r){return jqueryParams=[...jqueryParams,r],jQuery},$=function(r){return jqueryParams=[...jqueryParams,r],$};window.jQuery=jQuery,window.$=jQuery;let customHeadScripts=!1;jQuery.fn=jQuery.prototype={},$.fn=jQuery.prototype={},jQuery.noConflict=function(r){if(window.jQuery)return jQuery=window.jQuery,$=window.jQuery,customHeadScripts=!0,jQuery.noConflict},jQuery.ready=function(r){jqueryParams=[...jqueryParams,r]},$.ready=function(r){jqueryParams=[...jqueryParams,r]},jQuery.load=function(r){jqueryParams=[...jqueryParams,r]},$.load=function(r){jqueryParams=[...jqueryParams,r]},jQuery.fn.ready=function(r){jqueryParams=[...jqueryParams,r]},$.fn.ready=function(r){jqueryParams=[...jqueryParams,r]};</script><link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel="alternate" type="application/rss+xml" title="CS &raquo; Feed" href="https://www.cs.ucla.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CS &raquo; Comments Feed" href="https://www.cs.ucla.edu/comments/feed/" />
+<meta content="Divi Child for HSSEAS v.4.23.1" name="generator"/><link rel='stylesheet' id='admin-custom-styles-css' href='https://www.cs.ucla.edu/wp-content/plugins/jsoncontentimporterpro3/block/css/jcipro-admin-styles.css?ver=1.0.0' media='all' />
+<style id='admin-custom-styles-inline-css'>
+.menu li.et-hover>ul,.nav li.et-hover>ul{visibility:visible!important;opacity:1!important}.da11y-submenu-show{visibility:visible!important}
+.keyboard-outline{outline-style:solid!important;outline-width:2px!important;-webkit-transition:none!important;transition:none!important}a[role=tab].keyboard-outline,button:active.keyboard-outline,button:focus.keyboard-outline,input:active.keyboard-outline,input:focus.keyboard-outline{outline-offset:-5px}.et-search-form input:focus.keyboard-outline{padding-left:15px;padding-right:15px}.et_pb_tab{-webkit-animation:none!important;animation:none!important}.et_pb_scroll_top.et-visible:focus{outline-width:2px;outline-style:solid;outline-color:Highlight}@media (-webkit-min-device-pixel-ratio:0){.et_pb_scroll_top.et-visible:focus{outline-color:-webkit-focus-ring-color;outline-style:auto}}
+.et_pb_contact_form_label,.et_pb_search .screen-reader-text,.et_pb_social_media_follow_network_name,.widget_search .screen-reader-text{display:block!important}.da11y-screen-reader-text,.et_pb_contact_form_label,.et_pb_search .screen-reader-text,.et_pb_social_media_follow_network_name,.widget_search .screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden;text-shadow:none;text-transform:none;letter-spacing:normal;line-height:normal;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1em;font-weight:600;-webkit-font-smoothing:subpixel-antialiased}.da11y-screen-reader-text:focus{background:#f1f1f1;color:#00547a;-webkit-box-shadow:0 0 2px 2px rgba(0,0,0,.6);box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;display:block;height:auto;left:5px;padding:15px 23px 14px;text-decoration:none;top:7px;width:auto;z-index:1000000}
+</style>
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='events-manager-css' href='https://www.cs.ucla.edu/wp-content/plugins/events-manager/includes/css/events-manager.min.css?ver=6.4.6.4' media='all' />
+<style id='events-manager-inline-css'>
+body .em { --font-family : inherit; --font-weight : inherit; --font-size : 1em; --line-height : inherit; }
+</style>
+<link rel='stylesheet' id='divi_module_timeline-styles-css' href='https://www.cs.ucla.edu/wp-content/plugins/divi_module_timeline/styles/style.min.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='heateor_sss_frontend_css-css' href='https://www.cs.ucla.edu/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=3.3.56' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.4.2' media='all' />
+<link rel='stylesheet' id='sb_dtm_custom_css-css' href='https://www.cs.ucla.edu/wp-content/plugins/divi_module_timeline/styles/style.css?ver=6.4.2' media='all' />
+<link rel='stylesheet' id='divi-style-parent-css' href='https://www.cs.ucla.edu/wp-content/themes/Divi/style-static.min.css?ver=4.23.1' media='all' />
+<link rel='stylesheet' id='divi-style-css' href='https://www.cs.ucla.edu/wp-content/themes/Divi-child/style.css?ver=4.23.1' media='all' />
+<link rel='stylesheet' id='child-style-css' href='https://www.cs.ucla.edu/wp-content/themes/Divi-child/style.css?ver=4.23.1' media='all' />
+<link rel='stylesheet' id='mobile_style-css' href='https://www.cs.ucla.edu/wp-content/themes/Divi-child/per_site_styles/mobile_style.css?ver=4.23.1' media='all' />
+<link rel='stylesheet' id='cs-style-css' href='https://www.cs.ucla.edu/wp-content/themes/Divi-child/per_site_styles/cs_style.css?ver=6.4.2' media='all' />
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script id="jquery-js-after">
+jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){var n=String(r);n.replace("$","jQuery");var a=new Function("return "+n)();$(document).ready(a)}});
+</script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2" id="jquery-ui-mouse-js"></script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2" id="jquery-ui-sortable-js"></script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2" id="jquery-ui-datepicker-js"></script>
+<script id="jquery-ui-datepicker-js-after">
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.2" id="jquery-ui-resizable-js"></script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2" id="jquery-ui-draggable-js"></script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2" id="jquery-ui-controlgroup-js"></script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2" id="jquery-ui-checkboxradio-js"></script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2" id="jquery-ui-button-js"></script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.2" id="jquery-ui-dialog-js"></script>
+<script id="events-manager-js-extra">
+var EM = {"ajaxurl":"https:\/\/www.cs.ucla.edu\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/www.cs.ucla.edu\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"yy-mm-dd","ui_css":"https:\/\/www.cs.ucla.edu\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui\/build.min.css","show24hours":"0","is_ssl":"1","autocomplete_limit":"10","calendar":{"breakpoints":{"small":560,"medium":908,"large":false}},"phone":"","datepicker":{"format":"M j, Y"},"search":{"breakpoints":{"small":650,"medium":850,"full":false}},"url":"https:\/\/www.cs.ucla.edu\/wp-content\/plugins\/events-manager","google_maps_api":"AIzaSyDZJSRZnuKAaEp3ewVQG7150J3502YcqFk","txt_search":"Search events","txt_searching":"Searching...","txt_loading":"Loading...","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash."};
+</script>
+<script src="https://www.cs.ucla.edu/wp-content/plugins/events-manager/includes/js/events-manager.min.js?ver=6.4.6.4" id="events-manager-js"></script>
+<script src="https://www.cs.ucla.edu/wp-content/themes/Divi-child/js/seas.js?ver=4.23.1" id="seas-js"></script>
+<script src="https://www.cs.ucla.edu/wp-content/themes/Divi-child/js/header_for_mobile.js?ver=4.23.1" id="script-js"></script>
+<script src="https://www.cs.ucla.edu/wp-content/themes/Divi-child/js/jquery.autocomplete.min.js?ver=6.4.2" id="autocomplete-js"></script>
+<script src="https://www.cs.ucla.edu/wp-content/themes/Divi-child/js/autocomplete.js?ver=6.4.2" id="autocomplete-js-js"></script>
+<link rel="https://api.w.org/" href="https://www.cs.ucla.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://www.cs.ucla.edu/wp-json/wp/v2/pages/552" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.cs.ucla.edu/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.2" />
+<link rel="canonical" href="https://www.cs.ucla.edu/graduate-admission-frequently-asked-questions/" />
+<link rel='shortlink' href='https://www.cs.ucla.edu/?p=552' />
+<link rel="alternate" type="application/json+oembed" href="https://www.cs.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cs.ucla.edu%2Fgraduate-admission-frequently-asked-questions%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.cs.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cs.ucla.edu%2Fgraduate-admission-frequently-asked-questions%2F&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /><script type="text/javascript">
+	jQuery(document).ready(function(){
+		jQuery('img[usemap]').rwdImageMaps();
+	});
+</script>
+<style type="text/css">
+	img[usemap] { max-width: 100%; height: auto; }
+</style>
+<style id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<meta name="google-site-verification" content="WNTqZ1-CEdvZ-4cit5QXCHwvwUGPcbu0vUtgKHUKwqw">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7D2VK3T7FB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7D2VK3T7FB', {cookie_flags: 'SameSite=None;Secure'});
+  jQuery(document).ready(function($) {
+	$(".et-pb-icon").attr('aria-hidden', 'true');
+	$(".et_pb_main_blurb_image").attr('aria-hidden', 'true');
+  });
+</script>
+<style id="et-critical-inline-css">body{color:#2b2b2b}h1,h2,h3,h4,h5,h6{color:#2b2b2b}body{line-height:1.6em}#et_search_icon:hover,.mobile_menu_bar:before,.mobile_menu_bar:after,.et_toggle_slide_menu:after,.et-social-icon a:hover,.et_pb_sum,.et_pb_pricing li a,.et_pb_pricing_table_button,.et_overlay:before,.entry-summary p.price ins,.et_pb_member_social_links a:hover,.et_pb_widget li a:hover,.et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active,.et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active,.et_pb_gallery .et_pb_gallery_pagination ul li a.active,.wp-pagenavi span.current,.wp-pagenavi a:hover,.nav-single a,.tagged_as a,.posted_in a{color:#ffd100}.et_pb_contact_submit,.et_password_protected_form .et_submit_button,.et_pb_bg_layout_light .et_pb_newsletter_button,.comment-reply-link,.form-submit .et_pb_button,.et_pb_bg_layout_light .et_pb_promo_button,.et_pb_bg_layout_light .et_pb_more_button,.et_pb_contact p input[type="checkbox"]:checked+label i:before,.et_pb_bg_layout_light.et_pb_module.et_pb_button{color:#ffd100}.footer-widget h4{color:#ffd100}.et-search-form,.nav li ul,.et_mobile_menu,.footer-widget li:before,.et_pb_pricing li:before,blockquote{border-color:#ffd100}.et_pb_counter_amount,.et_pb_featured_table .et_pb_pricing_heading,.et_quote_content,.et_link_content,.et_audio_content,.et_pb_post_slider.et_pb_bg_layout_dark,.et_slide_in_menu_container,.et_pb_contact p input[type="radio"]:checked+label i:before{background-color:#ffd100}.container,.et_pb_row,.et_pb_slider .et_pb_container,.et_pb_fullwidth_section .et_pb_title_container,.et_pb_fullwidth_section .et_pb_title_featured_container,.et_pb_fullwidth_header:not(.et_pb_fullscreen) .et_pb_fullwidth_header_container{max-width:1000px}.et_boxed_layout #page-container,.et_boxed_layout.et_non_fixed_nav.et_transparent_nav #page-container #top-header,.et_boxed_layout.et_non_fixed_nav.et_transparent_nav #page-container #main-header,.et_fixed_nav.et_boxed_layout #page-container #top-header,.et_fixed_nav.et_boxed_layout #page-container #main-header,.et_boxed_layout #page-container .container,.et_boxed_layout #page-container .et_pb_row{max-width:1000px}a{color:#0d4481}#main-header,#main-header .nav li ul,.et-search-form,#main-header .et_mobile_menu{background-color:#003b5c}#main-header .nav li ul{background-color:#205296}.et_secondary_nav_enabled #page-container #top-header{background-color:#ffd100!important}#et-secondary-nav li ul{background-color:#ffd100}.et_header_style_centered .mobile_nav .select_page,.et_header_style_split .mobile_nav .select_page,.et_nav_text_color_light #top-menu>li>a,.et_nav_text_color_dark #top-menu>li>a,#top-menu a,.et_mobile_menu li a,.et_nav_text_color_light .et_mobile_menu li a,.et_nav_text_color_dark .et_mobile_menu li a,#et_search_icon:before,.et_search_form_container input,span.et_close_search_field:after,#et-top-navigation .et-cart-info{color:#ffffff}.et_search_form_container input::-moz-placeholder{color:#ffffff}.et_search_form_container input::-webkit-input-placeholder{color:#ffffff}.et_search_form_container input:-ms-input-placeholder{color:#ffffff}#top-menu li a{font-size:13px}body.et_vertical_nav .container.et_search_form_container .et-search-form input{font-size:13px!important}#top-menu li.current-menu-ancestor>a,#top-menu li.current-menu-item>a,#top-menu li.current_page_item>a{color:#ffffff}#main-footer{background-color:rgba(13,68,129,0)}#main-footer .footer-widget h4,#main-footer .widget_block h1,#main-footer .widget_block h2,#main-footer .widget_block h3,#main-footer .widget_block h4,#main-footer .widget_block h5,#main-footer .widget_block h6{color:#ffd100}.footer-widget li:before{border-color:#ffd100}.bottom-nav,.bottom-nav a,.bottom-nav li.current-menu-item a{color:}#et-footer-nav .bottom-nav li.current-menu-item a{color:}#footer-bottom{background-color:rgba(0,0,0,0)}#footer-info,#footer-info a{color:#ffffff}#footer-info{font-size:13px}#footer-bottom .et-social-icon a{color:#ffffff}@media only screen and (min-width:981px){.et_pb_section{padding:0% 0}.et_pb_fullwidth_section{padding:0}.et_header_style_left #et-top-navigation,.et_header_style_split #et-top-navigation{padding:30px 0 0 0}.et_header_style_left #et-top-navigation nav>ul>li>a,.et_header_style_split #et-top-navigation nav>ul>li>a{padding-bottom:30px}.et_header_style_split .centered-inline-logo-wrap{width:60px;margin:-60px 0}.et_header_style_split .centered-inline-logo-wrap #logo{max-height:60px}.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap #logo{height:60px}.et_header_style_centered #top-menu>li>a{padding-bottom:11px}.et_header_style_slide #et-top-navigation,.et_header_style_fullscreen #et-top-navigation{padding:21px 0 21px 0!important}.et_header_style_centered #main-header .logo_container{height:60px}#logo{max-height:60%}.et_pb_svg_logo #logo{height:60%}.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container,.et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header .logo_container{height:10.8px}.et_header_style_left .et-fixed-header #et-top-navigation,.et_header_style_split .et-fixed-header #et-top-navigation{padding:30px 0 0 0}.et_header_style_left .et-fixed-header #et-top-navigation nav>ul>li>a,.et_header_style_split .et-fixed-header #et-top-navigation nav>ul>li>a{padding-bottom:30px}.et_header_style_centered header#main-header.et-fixed-header .logo_container{height:60px}.et_header_style_split #main-header.et-fixed-header .centered-inline-logo-wrap{width:60px;margin:-60px 0}.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{max-height:60px}.et_pb_svg_logo.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{height:60px}.et_header_style_slide .et-fixed-header #et-top-navigation,.et_header_style_fullscreen .et-fixed-header #et-top-navigation{padding:21px 0 21px 0!important}.et_fixed_nav #page-container .et-fixed-header#top-header{background-color:#205296!important}.et_fixed_nav #page-container .et-fixed-header#top-header #et-secondary-nav li ul{background-color:#205296}.et-fixed-header #top-menu a,.et-fixed-header #et_search_icon:before,.et-fixed-header #et_top_search .et-search-form input,.et-fixed-header .et_search_form_container input,.et-fixed-header .et_close_search_field:after,.et-fixed-header #et-top-navigation .et-cart-info{color:#ffffff!important}.et-fixed-header .et_search_form_container input::-moz-placeholder{color:#ffffff!important}.et-fixed-header .et_search_form_container input::-webkit-input-placeholder{color:#ffffff!important}.et-fixed-header .et_search_form_container input:-ms-input-placeholder{color:#ffffff!important}.et-fixed-header #top-menu li.current-menu-ancestor>a,.et-fixed-header #top-menu li.current-menu-item>a,.et-fixed-header #top-menu li.current_page_item>a{color:#ffffff!important}}@media only screen and (min-width:1250px){.et_pb_row{padding:25px 0}.et_pb_section{padding:0px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:75px}.et_pb_fullwidth_section{padding:0}}h1,h1.et_pb_contact_main_title,.et_pb_title_container h1{font-size:25px}h2,.product .related h2,.et_pb_column_1_2 .et_quote_content blockquote p{font-size:21px}h3{font-size:18px}h4,.et_pb_circle_counter h3,.et_pb_number_counter h3,.et_pb_column_1_3 .et_pb_post h2,.et_pb_column_1_4 .et_pb_post h2,.et_pb_blog_grid h2,.et_pb_column_1_3 .et_quote_content blockquote p,.et_pb_column_3_8 .et_quote_content blockquote p,.et_pb_column_1_4 .et_quote_content blockquote p,.et_pb_blog_grid .et_quote_content blockquote p,.et_pb_column_1_3 .et_link_content h2,.et_pb_column_3_8 .et_link_content h2,.et_pb_column_1_4 .et_link_content h2,.et_pb_blog_grid .et_link_content h2,.et_pb_column_1_3 .et_audio_content h2,.et_pb_column_3_8 .et_audio_content h2,.et_pb_column_1_4 .et_audio_content h2,.et_pb_blog_grid .et_audio_content h2,.et_pb_column_3_8 .et_pb_audio_module_content h2,.et_pb_column_1_3 .et_pb_audio_module_content h2,.et_pb_gallery_grid .et_pb_gallery_item h3,.et_pb_portfolio_grid .et_pb_portfolio_item h2,.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2{font-size:15px}h5{font-size:13px}h6{font-size:11px}.et_pb_slide_description .et_pb_slide_title{font-size:38px}.et_pb_gallery_grid .et_pb_gallery_item h3,.et_pb_portfolio_grid .et_pb_portfolio_item h2,.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2,.et_pb_column_1_4 .et_pb_audio_module_content h2{font-size:13px}@media only screen and (max-width:980px){#main-header,#main-header .nav li ul,.et-search-form,#main-header .et_mobile_menu{background-color:#3484bf}}	h1,h2,h3,h4,h5,h6{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif}body,input,textarea,select{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif}.et_pb_fullwidth_section .et_pb_slide_description{padding-top:32%;padding-bottom:32%}span.mobile_menu_bar:before{color:white!important}.seasnav>li>ul{border-top:2px solid rgb(50,132,191)}#top-menu>li>ul:before{border-bottom:20px solid rgb(50,132,191)}#main-content a{text-decoration:underline}a.icon,a.et_pb_button,.et_pb_video_play,.et_pb_button_module_wrapper a{text-decoration:none!important}</style>
+<link rel="preload" as="style" id="et-core-unified-deferred-552-cached-inline-styles" href="https://www.cs.ucla.edu/wp-content/uploads/cs/et-cache/552/et-core-unified-deferred-552.min.css?ver=1707345770" onload="this.onload=null;this.rel='stylesheet';" /></head>
+<body class="page-template-default page page-id-552 custom-background et_pb_button_helper_class et_fixed_nav et_show_nav et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns4 et_cover_background et_pb_gutter et_pb_gutters3 et_pb_pagebuilder_layout et_smooth_scroll et_no_sidebar et_divi_theme et-db">
+	<div id="page-container">
+
+	
+	
+			<header id="main-header" data-height-onload="60">
+			<div class="container clearfix et_menu_container">
+											<h1>
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://www.cs.ucla.edu/">
+						<img src="https://www.cs.ucla.edu/wp-content/uploads/cs/UCLA_Samueli_CS_rev-1.png" alt="CS" id="logo" data-height-percentage="60" />
+					</a>
+				</div>
+								</h1>
+										<div id="et-top-navigation" data-height="60" data-fixed-height="60">
+											<nav id="top-menu-nav" aria-label="main navigation">
+						<ul id="top-menu" class="nav et_disable_top_tier"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34058"><a target="_blank" rel="noopener" href="http://samueli.ucla.edu">SAMUELI</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27733"><a href="#">ABOUT</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27738"><a href="#">Samueli Computer Science 101</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27747"><a href="https://www.cs.ucla.edu/mission-statement/">Mission Statement</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27755"><a href="https://www.cs.ucla.edu/history/">History</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27745"><a target="_blank" rel="noopener" href="https://giving.ucla.edu/campaign/Donate.aspx?SiteNum=8&#038;Fund=60989O&#038;Code=M-XXXX">Support Our Mission (Giving)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27749"><a href="https://www.cs.ucla.edu/annual-reports/">Annual Reports</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27739"><a href="#">Resources</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27829"><a href="https://www.cs.ucla.edu/dept-forms/">Department Forms</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27765"><a href="https://www.cs.ucla.edu/resources-for-students/">Resources for Students</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27834"><a href="https://www.cs.ucla.edu/dcf-faqs/">Computing Facility</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-38076"><a href="#">Equity, Diversity and Inclusion</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35686"><a target="_blank" rel="noopener" href="https://samueli.ucla.edu/equity-diversity-and-inclusion/">Equity, Diversity and Inclusion</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38075"><a href="https://samueli.ucla.edu/breakthroughtech-ai-losangeles/">Break Through Tech AI</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38328"><a href="https://samueli.ucla.edu/ucla-samueli-covid-19-information/">UCLA Samueli COVID-19 Information</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27751"><a href="https://www.cs.ucla.edu/contact/">Contact Us</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27734"><a href="#">NEWS &amp; EVENTS</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28136"><a href="https://www.cs.ucla.edu/newsroom/">Newsroom</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27750"><a href="https://www.cs.ucla.edu/announcements/">Department Announcements</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27740"><a href="#">Events Calendar</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27938"><a href="https://www.cs.ucla.edu/events/">Upcoming Events</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27865"><a href="https://www.cs.ucla.edu/roomreservations/">Room Reservations</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27859"><a target="_blank" rel="noopener" href="https://www.cal.cs.ucla.edu/cgi-bin/webevent.cgi?cmd=calmonth&#038;ncmd=startup&#038;cal=cal2">Seminars</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28362"><a href="https://www.cs.ucla.edu/video-highlights/">Video Highlights</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-27735"><a href="#">ACADEMICS</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27741"><a href="#">Undergraduate</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27867"><a target="_blank" rel="noopener" href="http://www.seasoasa.ucla.edu/admissions/undergraduate-admissions">Undergraduate Admissions</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27772"><a href="https://www.cs.ucla.edu/undergraduate-requirements/">Undergraduate Requirements</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27781"><a target="_blank" rel="noopener" href="https://www.admission.ucla.edu/prospect/applying.htm">Admission Schedule</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-27742"><a href="#">Graduate</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27752"><a href="https://www.cs.ucla.edu/graduate-admissions/">Graduate Admissions</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-38622"><a href="https://www.cs.ucla.edu/graduate-admission-frequently-asked-questions/" aria-current="page">Graduate Admissions FAQ</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27753"><a href="https://www.cs.ucla.edu/graduate-requirements/">Graduate Requirements</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28072"><a href="https://www.cs.ucla.edu/graduate-student-handbook/">Graduate Student Handbook</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34535"><a href="https://www.cs.ucla.edu/graduate-office-newsletter/">Graduate Office Notices</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34887"><a href="https://www.cs.ucla.edu/graduate-student-welfare/">Graduate Student Welfare</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27780"><a target="_blank" rel="noopener" href="https://sa.ucla.edu/ro/public/soc">Course Homepages</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27736"><a href="#">RESEARCH</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27760"><a href="https://www.cs.ucla.edu/research-areas/">Research Areas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27761"><a href="https://www.cs.ucla.edu/research-centers/">Research Centers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27762"><a href="https://www.cs.ucla.edu/research-labs/">Research Labs</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28304"><a target="_blank" rel="noopener" href="https://www.seasoasa.ucla.edu/urp/">Undergraduate Research</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28064"><a href="https://www.cs.ucla.edu/graduate-research/">Graduate Research</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28326"><a href="https://www.cs.ucla.edu/technical-reports/">Technical Reports</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27737"><a href="#">PEOPLE</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27743"><a href="#">Faculty</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27939"><a target="_blank" rel="noopener" href="https://samueli.ucla.edu/search-faculty/#cs">Faculty</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34375"><a href="https://samueli.ucla.edu/ucla-engineering-welcomes-five-new-computer-science-faculty-members/?utm_source=sfmc&#038;utm_medium=email&#038;utm_campaign=EN+-+JULY+2023+-+20230717_110240&#038;utm_term=https%3a%2f%2fsamueli.ucla.edu%2fucla-engineering-welcomes-five-new-computer-science-faculty-members%2f&#038;utm_id=1654915&#038;sfmc_id=376259034">New Faculty</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28565"><a href="https://www.cs.ucla.edu/faculty-recruitment-academic-and-staff-positions/">Academic Recruitment &#8211; Faculty, Research, Lecturer, &amp; Postdoctoral</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27937"><a href="https://www.cs.ucla.edu/lecturers/">Lecturers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27768"><a href="https://www.cs.ucla.edu/staff/">Staff</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38605"><a href="https://www.cs.ucla.edu/cs-clubs-and-associations/">Clubs and Associations</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27748"><a href="https://www.cs.ucla.edu/alumni/">Alumni</a></li>
+</ul>
+</li>
+</ul>						</nav>
+					
+										<button id="seas-search-icon" tabindex="0" aria-label="Open Search Box"></button>
+
+					
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+
+<div id="inline-search" class="inline-search toggled">
+<div class="inline-search-wrap" style="display:none">
+					<form role="search" method="get" class="search-form" action="/search">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search this site... " value="" name="q" title="Search for:">
+	</label>
+	<div id="search-buttons">
+	<input type="submit" class="search-submit" value="Search">
+	<button id="search-close" aria-label="Close Search Box">X</button>
+	</div>
+</form>				</div>
+</div>
+		</header> <!-- #main-header -->
+			<div id="et-main-area" role="main">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-552" class="post-552 page type-page status-publish hentry category-uncategorized">
+
+				
+					<div class="entry-content">
+					<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0 et_pb_fullwidth_section et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_fullwidth_image et_pb_fullwidth_image_0">
+				
+				
+				
+				
+				<img fetchpriority="high" decoding="async" width="2000" height="420" src="https://www.cs.ucla.edu/wp-content/uploads/cs/hero-academics.jpg" alt="" title="" srcset="https://www.cs.ucla.edu/wp-content/uploads/cs/hero-academics.jpg 2000w, https://www.cs.ucla.edu/wp-content/uploads/cs/hero-academics-150x32.jpg 150w, https://www.cs.ucla.edu/wp-content/uploads/cs/hero-academics-300x63.jpg 300w, https://www.cs.ucla.edu/wp-content/uploads/cs/hero-academics-1024x215.jpg 1024w, https://www.cs.ucla.edu/wp-content/uploads/cs/hero-academics-1080x227.jpg 1080w" sizes="(max-width: 2000px) 100vw, 2000px" class="wp-image-27712" />
+			
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_1 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_0">
+				
+				
+				
+				
+				<div class="et_pb_code_inner"><div id="breadCrumbs">
+<ul>
+<li><a href="/graduate-admissions">Graduate Admissions</a></li>
+<li class="active"><a href="#">Frequently Asked Questions</a></li>
+</ul></div></div>
+			</div><div class="et_pb_module et_pb_code et_pb_code_1">
+				
+				
+				
+				
+				<div class="et_pb_code_inner"><script>
+main_active_menu = 'ACADEMICS';
+content_type = 'page';
+</script>
+</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_2 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_1 seastab-row et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Frequently Asked Questions</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_3 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Due to the high volume of email inquiries, applicants will not receive a personalized response. Over the last few years, we have found that for 99% of the responses to these inquiries can be found on this FAQ admission webpage. Most questions can be answered by simply reviewing or searching a topic, such as GRE, TOEFL, official transcripts, personal statement  and document status on the above webpages.</p>
+<p>In the rare instance when a question is not answered on one of the above webpages or in the general response below, a personalized email response may be provided. As noted in the above webpages, applicants are asked <u>not </u>to make email or phone inquiries about the receipt of documents. Doing so will delay our efforts to process application material.</p>
+<p class=""><strong class="">**DeepMind Fellowship For CS MS Fall 2024 Applicants Only**</strong></p>
+<p class=""><strong class="">ELIGIBILITY</strong></p>
+<p class=""><strong><span class="">The spirit of this fellowship is to support URM or women students who would otherwise not be able to pursue a graduate degree in AI/ML. </span></strong></p>
+<p class="">The fellowship will only be awarded to students who are offered and accept admission to the M.S. program in Computer Science at UCLA.  To be eligible for this fellowship, you must satisfy ALL of the following requirements:</p>
+<p class="">* You must apply to our MS program (deadline December 15, 2023). If admitted you must start the MS  program Fall 2024 (you do not need to be admitted first to apply to the fellowship). If you are starting/have started the MS program before Fall 2024 you are not eligible to apply.</p>
+<p class="">* You must reside in the United States (no exceptions) in Fall 2024 and for the duration of your M.S. study.</p>
+<p class="">* You would be unable to take up the offer of admission to our program without financial assistance.</p>
+<p class="">* You have a demonstrable interest in artificial intelligence and/or machine learning.</p>
+<p class="">The intent of this fellowship is to provide access to higher education for students who might otherwise find it difficult or impossible to successfully pursue graduate study. In addition, individuals from cultural, racial, linguistic, geographic and socioeconomic backgrounds, including women, that are currently underrepresented in graduate education in the field of artificial intelligence and machine learning are especially encouraged to apply.</p>
+<p class="">Deadline to apply is December 15, 2023. The link will go live mid-September.</p>
+<p class="">To apply for this fellowship please visit:<span class="apple-converted-space"> </span><a class="" href="https://forms.gle/NELh4YjHixaxb86f9">CS MS DeepMind Fellowship Application</a></p>
+<p><strong>**GRE Requirement for Fall 2024-2025 Admissions Application Cycle Only**</strong></p>
+<p>Students who wish to apply for admission to our graduate program for the 2024-2025 academic year are not required to take the GRE or submit a GRE score report as part of their application package. However, students may voluntarily submit GRE test scores and they will be reviewed as part of the holistic application consideration. The applications with GRE scores will not be given greater weight than those that do not include scores.</p>
+<p>&nbsp;</p>
+<h3><a name="application-requirements"></a>Application/Admission Requirements and Data</h3></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_0 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Does the department provide “pre-application” reviews?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>It is the prospective applicant&#8217;s responsibility to do their research and  review this page, <a href="/graduate-admission-frequently-asked-questions/" target="_blank" rel="noopener noreferrer">frequently asked questions</a>, and the department’s <a href="/annual-reports/" target="_blank" rel="noopener noreferrer">annual report</a> to determine their admission competitiveness, and academic and research fit with the university/program they are applying to.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_1 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">What are the application requirements?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>An applicant for admission must hold a bachelor’s degree from an accredited college or university, must have the necessary academic preparation to complete graduate level courses in computer science, and must be able to score competitively on the GRE test. The university requires at least a scholastic average of B (3.0 on a 4.0 scale) or its equivalent if the letter grade system is not used. We expect at least a 3.50 GPA (on a 4.00 scale) in the junior and senior years, and at least 3.50 in any graduate study.<br /><strong>The GRE will not be required for the 2024-2025 Admissions cycle. </strong>Previously there are no minimums required for GRE. <br />International students must submit a TOEFL with a score of at least 87 (computer-based) or 560 (paper-based), or an IELTS with a score of at least 7.0.</p>
+<p>Conditional admission is not offered. A transitional or pre-master’s program is <strong>not </strong>available.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_2 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Do you accept applications for admission for study beginning winter or spring quarter?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>No. The Computer Science Department accepts applications for fall quarter only. Applications should be submitted only between mid-September and the deadline of December 15.</p></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>
+<a name="academic-score"></a></p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_3 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">How many applications did you receive last year and how many students were admitted?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Following are data for applicants admitted for study beginning Fall 2022.</p>
+<table style="width: 147px">
+<tbody>
+<tr>
+<td style="width: 64.59375px"> </td>
+<td style="width: 31.15625px"><strong>M.S.</strong></td>
+<td style="width: 35.78125px"><strong>Ph.D.</strong></td>
+</tr>
+<tr>
+<td style="width: 64.59375px">Applicants</td>
+<td style="width: 31.15625px">3,200</td>
+<td style="width: 35.78125px">  906</td>
+</tr>
+<tr>
+<td style="width: 64.59375px">Admittees</td>
+<td style="width: 31.15625px">  140</td>
+<td style="width: 35.78125px">    47</td>
+</tr>
+<tr>
+<td style="width: 64.59375px"> </td>
+<td style="width: 31.15625px"> </td>
+<td style="width: 35.78125px"> </td>
+</tr>
+</tbody>
+</table>
+<p><strong><br />Average GPA of all applicants/admittees: 3.75 (A=4.0)</strong></p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_4 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">My academic background is not in computer science. Am I eligible to apply to your graduate program?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>The vast majority of applicants have a background in computer science. Other majors represented include electrical engineering, math, statistics, and physics. For undergraduate work, we recommend 2 years of calculus (through differential equations and introduction to discreet structures), 1 year of physics (mechanics; Oscillations, Waves, Electric and Magnetic Fields); and a statistics course. The <a href="https://www.cs.ucla.edu/wp-content/uploads/cs/Breadth-Requirement-Form.pdf">M.S. breadth requirement</a>, which most students have partially completed before they enroll in our program, will give you an idea about recommended computer science courses.</p>
+<p>An applicant without a strong computer science background may be a very competitive applicant. Having professional experience as well as having taken courses that are equivalent to prerequisites for upper division undergraduate coursework, and the upper division courses themselves, would be most helpful. Applicants best illustrate their professional experience by succinctly describing their skills and projects in the statement of purpose, and submitting letters of recommendation that relate their achievements and skills to their potential for success in their degree and career objectives.</p>
+<p>Unfortunately, it is difficult to take CS courses at U.S. 4-year state universities due to the priority rules favoring admitted, full-time degree seeking students, community colleges typically offer only the prerequisites of the prerequisites, and extension programs offer mainly application courses and not courses equivalent to upper-division courses. However, every course taken and/or work skill achieved leads to a more competitive application. UCLA does not offer a transitional or pre-admission program, and  does not consider applications for a second bachelor’s degree. Courses offered by UCLA Extension that have the exact same course number as the courses offered in UCLA undergraduate and graduate degree programs provide good preparation.</p>
+<p><b>MSCS Program </b></p>
+<p><span style="font-weight: 400">The Computer Science Department has a regular Master of Science Program, which is designed to nurture the next generation of computing professionals with the required depth and breadth of computer science knowledge. The MSCS program is a part of the Computer Science department. To apply for the MSCS program, please click </span><a href="https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/"><span style="font-weight: 400">HERE</span></a><span style="font-weight: 400">. </span></p>
+<p><b>MEng Program </b></p>
+<p><span style="font-weight: 400">Samueli School of Engineering has a one-year Master of Engineering (MEng) </span><span style="font-weight: 400">self-supporting, professional degree</span><span style="font-weight: 400"> designed to develop future engineering leaders. The MENG degree addresses the needs of both students and industry, tailored to those who wish to pursue technical management positions, with both high-tech skill set and management savvy. The MEng program is not part of the Computer Science department.  To apply for the MEng, go to </span><a href="https://www.meng.ucla.edu/admissions/"><span style="font-weight: 400">https://www.meng.ucla.edu/admissions/</span></a></p>
+<p><b>MSCS vs. MENG</b></p>
+<p><span style="font-weight: 400">The Computer Science Department offers Master’s of Computer Science (MSCS) Program, which is a 2-year program and has existed over 50 years. MEngr program is a new, one-year program. The MENG degree addresses the needs of both students and industry, tailored to those who wish to pursue technical management positions. Both MSCS and MENG programs include a capstone project with technological concentration. </span></p>
+<p><b>Can I apply to both programs since they are housed in different departments?</b></p>
+<p><span style="font-weight: 400">No, you may only apply to one program. </span></p>
+<p><b>What are the differences between the MEng program and the MSCS program?</b></p>
+<p><span style="font-weight: 400">The Department of Computer Science Master Program (MCSC) is a 2-year program that has existed for over 50 years.  The Master of Engineering Program (MENG) is a 1-year program that is starting its 2</span><span style="font-weight: 400">nd</span><span style="font-weight: 400"> year</span></p>
+<p><strong><u>Number of Applications for 2022 Admissions Cycle</u></strong></p>
+<ul>
+<li>MCSC (MS program in the Computer Science Department) had over 4000 applications and 150 offers were made.</li>
+<li>MENG (MEng program in School of Engineering) had 573 applications and 220 offers were made.</li>
+</ul>
+<p><strong>Capstone </strong></p>
+<p><span style="font-weight: 400">MENG Capstone topic is selected by the course instructor.</span></p>
+<p><span style="font-weight: 400">MSCS Capstone topic is student-driven in which the students decide the topic and find their capstone advisor (must be CS faculty). The MSCS Capstone project is advised by faculty in the Department of Computer Science.  </span></p>
+<p><strong>Thesis</strong></p>
+<p><span style="font-weight: 400">Students in the MSCS program (Master’s in Computer Science) could choose a thesis option, instead of Capstone. The MS thesis option is designed to provide in-depth research opportunities with CS faculty. MENG does not provide a thesis option. </span></p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_5 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title"> Will my application be reviewed if any application material is submitted after December 15?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>In fairness to applicants and to assure the efficacy of the selection process, we cannot guarantee that your file will be reviewed if application materials such as test scores and transcripts are  submitted after the December 15 deadline. As long as you ordered the scores by the test maker (i.e. ETS, IELTS) to be sent to the correct school and program (it is the student&#8217;s responsibility to make sure they did) by the deadline it&#8217;s fine. Modifications/edits to the admissions application or materials (i.e. statement of purpose, personal history, etc) are not allowed. The number of qualified applicants far exceeds the number of available seats.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_6 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">How can I apply for a Fee Waiver?</h4>
+				<div class="et_pb_toggle_content clearfix"><div class="">Fee Waiver criteria  may be found here: <a class="" href="https://grad.ucla.edu/admissions/faqs/">https://grad.ucla.edu/admissions/faqs/</a></div>
+<div> </div>
+<div class=""><strong>It is the applicant&#8217;s responsibility to upload all the required documents</strong> (i.e. letter from Program Director confirming program participation for eligible programs, letter from financial aid officer from university/college you are currently enrolled in, statement from the registrar&#8217;s office confirming certain information, etc) <strong><u>as stated on the <a href="https://grad.ucla.edu/admissions/faqs/">Fee Waiver Criteria webpage</a> , in your online application </u></strong>before submitting your admissions application (the deadline to submit your admission application is December 15).</div>
+<div> </div>
+<div> </div>
+<div class="">It is the applicant&#8217;s responsibility to redact or block out all U.S. Social Security numbers before submitting the document that have social security numbers on it.  If a U.S. Social Security number is visible on the document, the <strong>UCLA Graduate Division cannot accept it</strong> and the <strong>CS department cannot redact or block out this information</strong> for an applicant.</div>
+<div> </div>
+<div> </div>
+<div>Due to the heavy volume of applicants, If you submit your fee waiver materials to the CS dept after the deadline <u>we cannot guarantee it will be reviewed</u>. This information on Fee Waiver criteria is on our webpage and the UCLA Graduate Division&#8217;s webpage all year long thus applicants are fully aware of deadlines for the application and fee waiver materials months prior to the admissions application deadline.</div>
+<div> </div>
+<div> </div>
+<div class="">If you do not meet the criteria for a Fee Waiver as specifically stated on the <a href="https://grad.ucla.edu/admissions/faqs/">Fee Waiver requirement page</a> then unfortunately you do not qualify for a fee waiver (no exceptions).</div></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_7 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Are “conditional admission” offers made to applicants?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>No. All application material must be submitted before admission consideration is given.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_8 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Is a transitional or pre-master’s program offered?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>No. Due to the overwhelming number of qualified applicants, a transitional or pre-master’s program is not offered.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_9 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">May I apply to the M.S. program if I already have earned or will soon earn a master’s degree? </h4>
+				<div class="et_pb_toggle_content clearfix"><p>You will not be considered for admission into the M.S. program if you already have or enrolled in a master’s degree in computer science or similar discipline such as information sciences or data systems. As with many computer science departments, the number of qualified applicants far exceeds the number of available seats.</p>
+<p>Due to the high volume of applicants and in fairness to all applicants and limited number of spots each year, we do not allow transfers into our MS program. </p>
+<p>You are welcome to apply to the Ph.D. program.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_3">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><a name="application-status"></a>Application/Admission/Document Status</h3></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_10 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Have you received my transcripts (or GRE, TOEFL)?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>In order to ensure your GRE/IELTS/TOEFL scores synch up with your online application make sure your last name, first name, middle name (if any) and email address match exactly on your ETS registration and on your online graduate admissions applications. If you leave out your middle name or use a different email address the scores might not synch up to your graduate admissions application and we cannot guarantee your scores will be received by the deadline. As long as you ordered the scores to be sent to the correct school and department by the deadline you&#8217;re fine. You will be contacted if any document or application material is missing or needed. Please do not email or call to inquire about receipt of documents as it will delay our efforts to process application material. Our office is able to match test reports and transcripts for nearly all applicants however it takes time due to the volume of applicants. An applicant is denied admission consideration due to an incomplete file only if he or she does not respond to our request to submit missing material. Ph.D. decisions will be emailed to all applicants in early February. M.S. decisions will be emailed out in March.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_11 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Will My Application and Application Material(s) Be Reviewed if I submit it After December 15?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>In fairness to applicants and to assure the efficacy of the selection process, we cannot guarantee that your file will be reviewed if application material is submitted after the December 15 deadline. It is the student&#8217;s responsibility to take all necessary tests and submit the test scores by the deadline (this information is on our website all year). Please note it may take weeks for scores to synch up after the application has been submitted (as long as everything was submitted by the deadline it should be fine). Please do not contact us to see if we receive your scores, it will reflect on your application checklist eventually.  Please make every effort to submit material by the deadline. Unofficial test scores may be emailed to the Computer Science Department. Modifications/edits to the admissions application or materials (i.e. statement of purpose, personal history, etc) are not allowed. As with many computer science departments, the number of qualified applicants far exceeds the number of available seats.</p>
+<p>Fee waiver criteria may be found <a href="https://grad.ucla.edu/admissions/faqs/">here</a>. Please note it is the applicant&#8217;s responsibility to ensure the materials required for a fee waiver (i.e. Program Chair letter, financial aid office letter, SSN redacted from tax documents, etc) are uploaded in their application before they submit their application. This cannot be modified/edited once an application has been officially submitted. If you do not meet the criteria as stated on the Fee waiver webpage then you are not eligible for a fee waiver (no exceptions). </p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_12 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">When will I be informed of my admission status?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>If you are a Ph.D. applicant, you will receive an email notification concerning your admission status by <strong>late February.</strong> If offered admission, you must accept or decline our offer no later than April 15. M.S. applicants will be notified in Spring (March- mid April) and must also respond by April 15.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_13 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">If I am admitted, may I defer my admission to a future term?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>No. The department does not offer admission deferrals. The number of qualified applicants far exceeds the number of available seats.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_14 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">If I am not admitted, may I re-apply the following year?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Yes. Re-applicants often have strengthened their candidacy. You would need to submit a new online application and new supplemental material. Your test scores will be available as long as they have not become outdated.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_4">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><a name="calendar"></a>Calendar/Timeline</h3></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_15 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">When is the deadline to submit application material?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>The deadline to submit application material is December 15. In fairness to applicants and to assure the efficacy of the selection process, we cannot guarantee that your file will be reviewed if application material is submitted after the December 15 deadline. Please make every effort to send/upload materials and submit your application by the deadline. In order to ensure your GRE/IELTS/TOEFL scores synch up with your online application make sure your last name, first name, middle name (if any) and email address match exactly on your ETS registration and on your online graduate admissions applications. If you leave out your middle name or use a different email address the scores might not synch up to your graduate admissions application and we cannot guarantee your scores will be received by the deadline. The number of qualified applicants far exceeds the number of available seats.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_16 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">When will my application be reviewed?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>The faculty begin reviewing Ph.D. applications in December and M.S. applications in January.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_17 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">When will I be informed of my admission status?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>If you are a Ph.D. applicant, you will receive an email notification concerning your admission status by late April to early May. If offered admission, you must accept or decline our offer no later than April 15. M.S. applicants will be notified by late March and must also respond by April 15.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_18 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">When is the university closed for the holidays?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Please visit the university’s <a href="https://www.registrar.ucla.edu/Calendars/Overview" target="_blank" rel="noopener noreferrer">academic and administrative calendar</a>.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_5">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><a name="cfs"></a>Confidential Finance Statement (CFS): International M.S. Applicants Only</h3></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_19 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">When is the deadline to submit the CFS?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Ph.D. applicants need not submit a CFS, as funding is offered to all Ph.D. applicants offered admission.</p>
+<p>M.S. applicants are not eligible for departmental financial support. TAing is not part of the Computer Science Masters Program and M.S. student (both incoming and continuing) are not guaranteed TAships/GSRs/Reader positions (i.e. Dept funding) for any year To qualify for a visa to study in the U.S., international M.S. applicants must demonstrate personal or agency financial support of at least $55,000 for the first year. Prospective M.S. applicants should apply for admission ONLY if they can provide such documentation, which will be requested if admission is offered, in early March. Information on the cost of attendance is available on the <a href="http://www.gdnet.ucla.edu/gasaa/admissions/expenses.htm" target="_blank" rel="noopener noreferrer">UCLA Graduate Division Cost of Attendance webpage</a>. Specific charges for tuition and fees and non-resident supplemental tuition are listed on the <a href="https://www.registrar.ucla.edu/Fees-Residence/Residence-Requirements/Nonresident-Supplemental-Tuition-Exemptions" target="_blank" rel="noopener noreferrer">Registrar’s fee page</a>.</p>
+<p>Information about university-wide fellowships and grants, and external fellowships may be found at the <a href="http://www.gdnet.ucla.edu/asis/stusup/index.html" target="_blank" rel="noopener noreferrer">UCLA Graduate Division funding webpage</a>.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_20 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">How much funding must I provide to qualify for a visa to study in the United States?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>The total amount of money needed for living and educational expenses for the 2020-2021 academic year for most programs at UCLA, including computer science, is about US $55,000. This includes 1) US about $32,000 for tuition and fees for three quarters, and 2) US about $19,000 for basic living costs (food, rent, laundry, local transportation, books and supplies, etc.). It is estimated that the cost for the 2020-2021 academic year will be at least $55,000. Ph.D. international students offered admission will be provided funding that meets the anticipated cost of attendance. (In a few instances, Ph.D. applicants are admitted who have their own agency funding (e.g. Fulbright Fellowship, government/industry support) that meets the anticipated cost of attendance.)</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_6">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><a name="attendance-cost"></a>Cost of Attendance</h3></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_21 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">What is the cost of attendance at UCLA?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>A sample budget for most programs, including computer science, is available on the Graduate Division <a href="http://www.gdnet.ucla.edu/gasaa/admissions/expenses.htm" target="_blank" rel="noopener noreferrer">fees and living expenses webpage</a>. Specific charges for tuition and fees and non-resident supplemental tuition are listed on the <a href="https://www.registrar.ucla.edu/Fees-Residence/Residence-Requirements/Nonresident-Supplemental-Tuition-Exemptions" target="_blank" rel="noopener noreferrer">Registrar’s fee page</a>.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_22 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">When is the deadline to submit the CFS?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Ph.D. applicants need not submit a CFS, as funding is offered to all Ph.D. applicants offered admission. Unfortunately, M.S. applicants are not eligible for departmental financial support. To qualify for a visa to study in the U.S., international M.S. applicants must demonstrate personal or agency financial support of at least $55,000 for the first year. Prospective M.S. applicants should apply for admission ONLY if they can provide such documentation, which will be requested if admission is offered, in early Spring (March-May). Information on the cost of attendance is available on the <a href="http://www.gdnet.ucla.edu/gasaa/admissions/expenses.htm" target="_blank" rel="noopener noreferrer">UCLA Graduate Division Cost of Attendance webpage</a>. Specific charges for tuition and fees and non-resident supplemental tuition are listed on the <a href="https://www.registrar.ucla.edu/Fees-Residence/Residence-Requirements/Nonresident-Supplemental-Tuition-Exemptions" target="_blank" rel="noopener noreferrer">Registrar’s fee page</a>.</p>
+<p>Information about university-wide fellowships and grants, and external fellowships may be found at the <a href="http://www.gdnet.ucla.edu/asis/stusup/index.html" target="_blank" rel="noopener noreferrer">UCLA Graduate Division funding webpage</a>.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_7">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><a name="degree-objective"></a>Degree Objective and Requirements</h3></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_23 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">May I apply to both M.S. and Ph.D. degree programs?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>You may apply to either the Ph.D. program or the M.S. program but not both. Admission to the Ph.D. program is more selective than for the M.S. program. In general, the admissions committee does not consider Ph.D. applicants for admission into the M.S. program and vice versa. While a Ph.D. degree prepares students not only for careers in research and academia, those who apply for a Ph.D. degree typically demonstrate significant achievement in and/or potential for advancing knowledge through independent research and teaching.<br />While a M.S. degree prepares students not only for careers in the industry, those who apply for an M.S. degree typically demonstrate interest in developing and applying technical skills and translational knowledge. M.S. applicants should be aware that the selection process is rigorous for M.S. students who later apply for admission into the Ph.D. program.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_24 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">May I apply to the M.S. program if I already have earned or will soon earn a master’s degree?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>You will not be considered for admission into the M.S. program if you already have a master’s degree in computer science or similar discipline such as information sciences or data systems or currently enrolled in an MS degree in a related field. As with many computer science departments, the number of qualified applicants far exceeds the number of available seats.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_25 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Am I required to have a master’s degree to apply to the Ph.D. program?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>No. In the Ph.D. classes beginning study Fall Quarter 2013 and Fall Quarter 2014, 48% and 32%, respectively, had earned only a bachelor’s degree.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_26 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">If I am a Ph.D. applicant, may I earn an M.S. degree while completing my Ph.D. at UCLA?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Yes, but only if you have not previously earned an M.S. degree in computer science or a related field. You may petition for an M.S. degree as you fulfill the M.S. degree requirements. The Ph.D. Written Qualifying Exam (WQE) may be substituted for the M.S. comprehensive exam or thesis. Degree requirements are listed at the Computer Science Department website.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_27 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Does Computer Science offer a distance learning program?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>The computer science M.S. and Ph.D. degree programs do not incorporate distance learning courses. However, the UCLA Henry Samueli School of Engineering and Applied Science does offer an online M.S. in Engineering.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_28 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Does Computer Science offer a part-time program?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>No. Students must be registered and enrolled each quarter for a minimum of 12 units. Unless granted a formal leave of absence, students are expected to register every term, including the term in which their degree or certificate is to be awarded. The filing fee may be used in lieu of registration if all formal requirements for the degree, except for filing the thesis or taking the comprehensive examination, are met prior to the first day of instruction of the term.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_29 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">How long does it take to earn an M.S. or Ph.D. degree?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>The number of terms to complete a degree program varies from student to student. On average, the M.S. degree is earned in 5 quarters (F, W, Sp, F, W, S) but so may need 6 quarters (2 full years) to finish. The MS program is an in-person 2 year full-time program.</p>
+<p>The average length of time for Ph.D. students to complete their degree is 6 years.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_8">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><a name="funding"></a>Funding</h3></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_30 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Do I need to submit an application for departmental funding?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Applicants to the Ph.D. program will automatically be considered for departmental funding; no departmental scholarship application is needed. Ph.D. international students offered admission will be provided funding that meets the anticipated cost of attendance. Awards will be given based on the Ph.D. applicants’ academic merit and potential. Ph.D. applicants are informed of their financial support in their admission offers.</p>
+<p>TAing is not part of the Computer Science Masters Program and M.S. student (both incoming and continuing) are not guaranteed TAships/GSRs (i.e. Dept funding) for any year</p>
+<p>M.S. applicants are not eligible for departmental financial support. To qualify for a visa to study in the U.S., international M.S. applicants must demonstrate personal or agency financial support of at least $55,000 for the first year. Prospective M.S. applicants should apply for admission ONLY if they can provide such documentation, which will be requested if admission is offered, in early March. Information on the cost of attendance is available on the <a href="http://www.gdnet.ucla.edu/gasaa/admissions/expenses.htm" target="_blank" rel="noopener noreferrer">UCLA Graduate Division Cost of Attendance webpage</a>.</p>
+<p>Information about university-wide fellowships and grants, and external fellowships may be found at the <a href="http://www.gdnet.ucla.edu/asis/stusup/index.html" target="_blank" rel="noopener noreferrer">UCLA Graduate Division funding webpage</a>.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_31 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">How do I apply for a teaching assistantship (TA) position?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>The department accepts applications from <strong>current</strong> students in April for TA positions to be assigned the following academic school year. Ph.D. students fill nearly all TA positions. Assignments are contingent on your eligibility which includes passing CS495: Teaching Assistant Training Seminar, and for non-native speakers of English, passing the university’s Test of Oral Proficiency (TOP). A select group of domestic M.S. admittees are invited during the summer before enrollment to apply for CS TA positions. All M.S. admittees may explore TA opportunities in other academic departments (i.e EE, Math, STAT).</p>
+<p>TAing is not part of the Computer Science Masters Program and M.S. student (both incoming and continuing) are not guaranteed TAships/GSRs (i.e. Dept funding) for any year</p>
+<p>M.S. applicants are not eligible for departmental financial support. To qualify for a visa to study in the U.S., international M.S. applicants must demonstrate personal or agency financial support of at least $55,000 for the first year. Prospective M.S. applicants should apply for admission ONLY if they can provide such documentation, which will be requested if admission is offered, in early March. Information on the cost of attendance is available on the <a href="http://www.gdnet.ucla.edu/gasaa/admissions/expenses.htm" target="_blank" rel="noopener noreferrer">UCLA Graduate Division Cost of Attendance webpage</a>.</p>
+<p>Information about university-wide fellowships and grants, and external fellowships may be found at the <a href="http://www.gdnet.ucla.edu/asis/stusup/index.html" target="_blank" rel="noopener noreferrer">UCLA Graduate Division funding webpage</a>.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_32 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">How do I apply for a graduate student researcher (GSR) position?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>PhD admittees are offered financial support as either a graduate student researcher (GSR)<strong> </strong>or departmental fellow. For M.S. admittees, a<strong> </strong>limited number of CS GSR positions are available, based on research experience and potential. They are typically secured after enrollment. Please note GSR positions will never ask for you to pay/ask for money upfront. All M.S. admittees may explore GSR opportunities in other academic departments (i.e EE, Math, STAT) and campus departments.</p>
+<p>TAing/GSrs are not part of the Computer Science Masters Program and M.S. student (both incoming and continuing) are not guaranteed TAships/GSRs (i.e. Dept funding) for any year.</p>
+<p>M.S. applicants are not eligible for departmental financial support. To qualify for a visa to study in the U.S., international M.S. applicants must demonstrate personal or agency financial support of at least $55,000 for the first year. Prospective M.S. applicants should apply for admission ONLY if they can provide such documentation, which will be requested if admission is offered, in early March. Information on the cost of attendance is available on the <a href="http://www.gdnet.ucla.edu/gasaa/admissions/expenses.htm" target="_blank" rel="noopener noreferrer">UCLA Graduate Division Cost of Attendance webpage</a>.</p>
+<p>Information about university-wide fellowships and grants, and external fellowships may be found at the <a href="http://www.gdnet.ucla.edu/asis/stusup/index.html" target="_blank" rel="noopener noreferrer">UCLA Graduate Division funding webpage</a>.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_9">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><a name="gre"></a>GRE (Graduate Record Examination)</h3>
+<p><strong>**GRE Requirement for Fall 2024-2025 Admissions Cycle Only**</strong></p>
+<p>Students who wish to apply for admission to our graduate program for the 2023-2024 academic year (applications for this cycle are due December 15, 2022) are not required to take the GRE or submit a GRE score report as part of their application package. However, students may voluntarily submit GRE test scores and they will be reviewed as part of the holistic application consideration. The applications with GRE scores will not be given greater weight than those that do not include scores.</p>
+<p>Average GRE scores are posted above <a href="./#academic-score">here</a>.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_33 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">What is UCLA’s GRE institution code? What is the GRE department code?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>UCLA’s GRE institution code is 4837. The GRE department code is 0402. If you are unable to submit the department code, we will still be able to receive your score report.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_34 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">I have completed a master’s degree. Do I need to take the GRE?</h4>
+				<div class="et_pb_toggle_content clearfix"><p><strong>**GRE Requirement for Fall 2023-2024 Admissions Cycle Only**</strong></p>
+<p>Students who wish to apply for admission to our graduate program for the 2023-2024 academic year (applications for this cycle are due December 1, 2022) are not required to take the GRE or submit a GRE score report as part of their application package. However, students may voluntarily submit GRE test scores and they will be reviewed as part of the holistic application consideration. The applications with GRE scores will not be given greater weight than those that do not include scores.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_35 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Is the GRE computer science subject test required?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>No. The admissions committee does not review scores of this exam.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_36 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Does either the university or the department require a minimum GRE score?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>No. There is no minimum GRE score requirement. However, the most competitive applicants earn average or above average scores compared to the computer science applicant pool.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_37 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">I will not receive official GRE scores until after the application deadline. </h4>
+				<div class="et_pb_toggle_content clearfix"><p>As long as you complete the exam before the December 15 deadline, we will accept the scores. You may email your unofficial verbal and quantitative scores to the Computer Science Department. Friendly reminder GRE are not required for admissions.</p>
+<p>In order to ensure your scores synch up with your online application make sure your last name, first name, middle name (if any) and email address match exactly on your ETS registration and on your online graduate admissions applications. If you leave out your middle name or use a different email address the scores might not synch up to your graduate admissions application and we cannot guarantee your scores will be received by the deadline.</p>
+<p>If you plan to take or have already taken an additional exam, please make sure that ETS has already sent your first exam report to UCLA before December 15.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_38 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">When do GRE results expire?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>The test must have been taken within five (5) years of the submission date of the UCLA Graduate Division online application. For example, if you took the exam on October 30, 2015, you would need to complete the UCLA Graduate Division online application no later than October 30, 2020.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_39 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title"> For multiple GREs, which scores do you use?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>For Fall 2024-2025 GRE scores are not required. The department will see all scores from all reports. If you plan to take or have already taken an additional exam, please make sure that ETS has already sent your first exam report to UCLA before December 15.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_40 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Will you receive my GRE report if I did not provide the department code or provided an incorrect department code?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>To avoid delays up to several weeks in matching your report to your application, it is important to use the correct institution code, 4837, and the correct department code, 0402. If you did not use the correct codes, we eventually will be able to match your report to your application but not guaranteed to do so by the deadline. We recommend that you upload student reports to the Graduate Division application and email a copy of your student report to the Computer Science Department.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_41 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">May I request that ETS send my score report to UCLA before I submit the online application?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Yes. We will be able to match your score report to your online application. In order to ensure your scores synch up with your online application make sure your last name, first name, middle name (if any) and email address match exactly on your ETS registration and on your online graduate admissions applications. If you leave out your middle name or use a different email address the scores might not synch up to your graduate admissions application and we cannot guarantee your scores will be received by the deadline.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_10">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><a name="housing"></a>Housing</h3></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_42 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Is there university housing and, if so, when can I apply?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Space in university housing is very limited. If you are interested, please submit an online housing lottery application immediately after admission to the university. The application requires a $30 non-refundable fee. Information is available at the <a href="http://www.housing.ucla.edu/" target="_blank" rel="noopener noreferrer">university housing website</a>.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_43 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Are there any special housing arrangements for computer science students? </h4>
+				<div class="et_pb_toggle_content clearfix"><p>The Computer Science Department has been allocated a limited number of spaces to hold for funded, incoming Ph.D. students in Weyburn Terrace/Hilgard Apartments. Estimated monthly payments for the 2014-2015 academic year range from $1,300 to $1,400, including utilities.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_44 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">How do students locate housing around UCLA and Los Angeles?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>A good place to start is the UCLA Community Housing Office (CHO) which provides an online rental database and maintains additional resources to assist those searching for housing in the Los Angeles area. Please visit the <a href="http://www.cho.ucla.edu/" target="_blank" rel="noopener noreferrer">community housing website</a>.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_11">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_11  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><a name="recommendation"></a>Letters of Recommendation</h3></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_45 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">May I submit more than 3 letters of recommendation?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Most applicants submit only 3 letters, which is the department’s preference. The Graduate Division online application does allow the names of 4 recommenders to be submitted, and the department will review all letters received.</p>
+<p>If you are an ESAP applicant to the CS MS program, you will need two letters of rec from CS faculty/instructors or instructors from outside the department that have a joint appointment with the UCLA CS Dept (i.e. Professors Achuta Kadambi and Mani Srivastava are ECE faculty with joint appointments with the CS Dept). If the faculty member does not have a joint appointment with the UCLA CS Dept they cannot serve as one of your two letters of rec for the CS M program as an ESAP applicant.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_46 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Can I change my recommenders or send them reminders?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Yes. The Graduate Division online application allows you to change recommenders and send reminders as needed through the recommendation provider list.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_47 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Can recommendations be sent directly to the department?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>We prefer that letters be submitted through the Graduate Division online application process. However, recommenders may mail, fax or email their letters to the following:</p>
+<p>Graduate Student Affairs Office</p>
+<p>UCLA Computer Science Department</p>
+<p>Engineering VI room 291<br />Los Angeles, CA 90095-1596</p>
+<p>No special enclosure or information is needed to match the letter to the applicant.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_48 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">May I ask my work supervisors to submit letters of recommendation? I graduated several years ago and am having difficulty contacting my former professors.</h4>
+				<div class="et_pb_toggle_content clearfix"><p>We prefer to receive letters from faculty members who are familiar with your academic history, however, we understand that applicants who have graduated several years ago, and/or applicants who have work experience may have recommenders outside of academia. Regardless of who writes the letter, the content should relate your achievements and skills to your potential for success in your degree and career objectives.</p>
+<p>For ESAP applicants, letters of recommendation should be from CS faculty/lecturers. </p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_49 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title"> Will my application be considered if my recommenders submit letters after December 15?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Letters and transcripts are due by December 15. Typically, late letters of recommendation received through December will be reviewed.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_12">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_12  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><a name="major"></a>Major (Field of Study)</h3></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_50 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Am I required to choose a major or a field of study within computer science on the Graduate Division online application?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Ph.D. applicants must select a field of study and a preferred faculty advisor when submitting the online application. M.S. applicants are not required to selected either a field of study or a preferred faculty advisor as the Master&#8217;s program does not have specializations however, most do so. Initial faculty advisors are assigned to new M.S. students during the summer before enrollment. M.S. students may choose a broad selection of courses or any combination of courses from the following fields:</p>
+<ul>
+<li>Artificial Intelligence</li>
+<li>Computer Science Theory</li>
+<li>Computer System Architecture</li>
+<li>Computational Systems Biology</li>
+<li>Databases (Information and Data Management)</li>
+<li>Graphics and Vision</li>
+<li>Network Systems</li>
+<li>Programming Languages and Systems</li>
+</ul>
+<p>Ph.D. students choose their major and minor as part of the Proposal of Fields. For more information, Ph.D. applicants may see the Proposal of Fields form and guidelines on the <a href="/graduate-program">CS Graduate Program webpage</a>. Information about the fields of study and course descriptions are available in the <a href="http://www.seasoasa.ucla.edu/admissions/hsseas-announcements" target="_blank" rel="noopener noreferrer">Henry Samueli School of Engineering and Applied Science (HSSEAS) Announcement.</a></p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_51 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">May applicants apply to more than one academic program (e.g. CS and EE)?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>
+No. Applicants may apply to only one academic program, and within that program, only one degree objective.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_13">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_13  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_13  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><a name="mba"></a>MBA/MSCS Concurrent Degree Program</h3></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_52 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">How do I apply to the MBA/MSCS Concurrent Degree Program?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Applicants to the MBA/MSCS program submit two online applications including both GRE and GMAT and different sets of recommendations. Admission to both or either is competitive, and there is no guarantee that new or current students in one program will be admitted into the other program. To begin the application process, applicants submit <a href="https://apply.anderson.ucla.edu/apply/" target="_blank" rel="noopener noreferrer">online applications</a> beginning no later than December 1 to the Anderson School for management and to the <a href="https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/" target="_blank" rel="noopener noreferrer">Graduate Division</a> for computer science.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_53 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">What are advantages of completing the concurrent degree program?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>These two world-class programs uniquely prepare students for diverse professional challenges and opportunities. Students take 16 fewer quarter units in the concurrent program and are able to complete the requirements for both programs in 3 years.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_54 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Where can I obtain additional information about the program?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Information is available on the <a href="/graduate-program">Computer Science website</a> and the <a href="https://www.anderson.ucla.edu/degrees/full-time-mba/admissions/concurrent-degrees" target="_blank" rel="noopener noreferrer">Anderson School website</a>.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_14">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_14  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_14  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><a name="personal-history-statement"></a>Personal History Statement</h3></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_55 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">In addition to the statement of purpose, is a personal history statement or writing sample required?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Yes a personal history statement (500 words max) is required. </p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_15">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_15  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_15  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><a name="statement-of-purpose"></a>Statement of Purpose</h3></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_56 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Are there format or length requirements?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Yes 500 words max for the SOP.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_57 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">In addition to the statement of purpose, is a writing sample required?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>The statement of purpose is considered to be a writing sample. No additional writing sample is requested.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_16">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_16  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_16  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><a name="toefl"></a>TOEFL/IELTS (International Applicants Only)</h3></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_58 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">What is UCLA’s TOEFL institution code? What is the TOEFL department code?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>CLA’s TOEFL institution code is 4837. The TOEFL department code is 78. In order to ensure your scores synch up with your online application make sure your last name, first name, middle name (if any) and email address match exactly on your ETS registration and on your online graduate admissions applications. If you leave out your middle name or use a different email address the scores might not synch up to your graduate admissions application and we cannot guarantee your scores will be received by the deadline.</p>
+<div class=""> </div></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_59 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Can my TOEFL/IELTS requirement be waived? I attended an institution at which all instruction was done in English.</h4>
+				<div class="et_pb_toggle_content clearfix"><div class="">Applicants who hold a bachelor’s degree or higher from a university within the United States or in another country in which English is both <strong><em>the primarily spoken language of daily life (for the country) </em></strong><strong><em>AND </em></strong><strong><em>the medium of instruction, or have completed two years of full-time study at such institutions </em></strong><em>(i.e. accredited US university or accredited university where English is the primary spoken language of  daily life (for the country) and the medium of instruction)</em><strong><em>,</em></strong> are exempted from the TOEFL/IELTS requirement. Your eligibility for an exemption will be verified by the information you provide in the academic history section of your online application and the official transcripts that you upload in your graduate admissions application.</div>
+<div> </div>
+<div class="">If your academic history does not fit this criteria then you are not exempt from the TOEFL/IELTS requirement (no exceptions) and please do not email us asking for an exception/waiver. </div>
+<div class=""> </div>
+<div class="">
+<div class="">
+<div class="">Per <a class="" href="https://grad.ucla.edu/admissions/english-requirements/#:~:text=Minimum%20IELTS%20&amp;%20TOEFL%20Scores&amp;text=7.0%20is%20the%20minimum%20required,to%20graduate%20programs%20at%20UCLA">UCLA Graduate Division website,</a> in order to be exempt from the TOEFL/IELTS requirement,  &#8220;hold a bachelor’s or higher degree from an accredited university located in the United States or in another country in which English is both the<b class=""> primary spoken language of daily life</b> (e.g., Australia, Barbados, Canada, Ireland, Jamaica, New Zealand, United Kingdom) <strong>and the medium of instruction.</strong></div>
+</div>
+</div></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_60 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Will my application still be considered for admission if I scored below the minimum on one of the sections of the TOEFL?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>The Computer Science Department will allow a score below the minimum on one section of the exam if your total TOEFL score is at least 87.</p>
+<p>For the internet-based <em>TOEFL (TOEFL iBT)</em>, the following are the minimum<br />scores for each section:</p>
+<ul>
+<li>Writing:  25</li>
+<li>Speaking:  24</li>
+<li>Reading:  21</li>
+<li>Listening:  17</li>
+</ul>
+<p>These are the minimum scores for each section. Please do not contact us to evaluate if you can still be admitted if TOEFL score(s) are lower as we do not evaluate admissions via email/over the phone. In order to see if you are eligible, the information is on this webpage and it is up to you determine if this program is a right fit and if you meet the graduate admissions requirements which are stated on this web page.  </p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_61 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">For multiple TOEFLs, which scores do you use?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>We use only the most recent TOEFL scores.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_62 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">I will not receive official TOEFL/IELTS scores until after the application deadline. Will I still be considered for admission?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>As long as you complete the exam on or before the December 15 deadline, we will accept the scores. You may email your student report to the CS department (gradadm@cs.ucla.edu). If you plan to take or have already taken an additional exam, please make sure that ETS has already sent your first exam report to UCLA by December 15 at the latest. In order to ensure your scores synch up with your online application make sure your last name, first name, middle name (if any) and email address match exactly on your ETS registration and on your online graduate admissions applications. If you leave out your middle name or use a different email address the scores might not synch up to your graduate admissions application and we cannot guarantee your scores will be received by the deadline. Please make sure you order the test scores be sent to the correct university and department. You will be contacted if any document or application material is missing or needed. Please do not email or call to inquire about receipt of documents as it will delay our efforts to process application material. Our office is able to match test reports and transcripts for nearly all applicants. An applicant is denied admission consideration due to an incomplete file only if he or she does not respond to our request to submit missing material. Ph.D. decisions will be emailed to all applicants in early February. M.S. decisions will be emailed out in early March.</p>
+<div class=""> </div></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_63 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">When do TOEFL/IELTS results expire?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>You must have taken the TOEFL within 2 years of the date the online admission application is submitted. For example, if you took the exam on October 30, 2014, you would need to complete the UCLA Graduate Division online application no later than October 30, 2016.</p>
+<div class=""> </div></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_64 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Will you receive my TOEFL report if I did not provide the department code or provided an incorrect department code?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>To avoid delays up to several weeks in matching your report to your application, it is important to use the correct institution code, 4837, and the correct department code, 78. If you did not use the correct codes, we eventually will be able to match your report to your application but cannot guarantee it will be done by the deadline. We recommend that you upload student reports to the Graduate Division application and email a copy of your student report to the Computer Science Department. In order to ensure your scores synch up with your online application make sure your last name, first name, middle name (if any) and email address match exactly on your ETS registration and on your online graduate admissions applications. If you leave out your middle name or use a different email address the scores might not synch up to your graduate admissions application and we cannot guarantee your scores will be received by the deadline.​</p>
+<div class=""> </div></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_65 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">May I request that ETS send my score report to UCLA before I submit the online application?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>In order to ensure your scores synch up with your online application make sure your last name, first name, middle name (if any) and email address match exactly on your ETS registration and on your online graduate admissions applications. If you leave out your middle name or use a different email address the scores might not synch up to your graduate admissions application and we cannot guarantee your scores will be received by the deadline.</p>
+<div class=""> </div></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_66 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Where may I find additional information concerning English requirements?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Information on the IELTS, Test of Oral Proficiency, and ESLPE is available at the <a href="http://www.gdnet.ucla.edu/gasaa/admissions/ENGREQ.HTM" target="_blank" rel="noopener noreferrer">Graduate Division website</a>.</p>
+<div class=""> </div></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_17">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_17  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_17  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><a name="transcripts"></a>Transcripts (Not required from UCLA students and alumni)</h3></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_67 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">How many transcripts are required and where do I send them?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>All applicants are required to upload ONE <strong>(1) </strong>official transcript from each <strong>post-secondary</strong> institution attended. Official transcripts should be uploaded to your online application only. If you are officially offered admission, please send us your official transcripts/degree certificate/diplomas.</p>
+<p>Applicants who are attending or have graduated from a U.S. institution that transmits transcripts electronically may request to have official transcripts emailed to: <span id="eeb-471195-436332">gradadm@cs.ucla.edu</span> but can also upload the official transcript in their online application.</p>
+<p><strong>Official transcripts are defined as original documents issued by the institution that bear the actual signature of the Registrar — not a photocopy — and the seal of the issuing institution.</strong><em> Do not, however, send the original of an academic record that cannot be replaced;</em> upload a properly certified copy instead.</p>
+<p>International applicants should refer to the “<a href="http://www.gdnet.ucla.edu/gasaa/admissions/INTLREQT.HTM">Requirements for International Students</a>” section of the Graduate Division webpage for information about submission of foreign academic records. We do not request or review WES evaluations.</p>
+<p>Most applicants are in the process of completing a degree. If offered admission, the final transcript indicating the date of the degree conferral may be submitted during the summer. <strong>Applicants from India and China who have graduated must submit official copies of their degree certificates along with their final official transcripts and diploma: </strong></p>
+<table>
+<tbody>
+<tr>
+<td width="312">If you are receiving your bachelor’s degree from a <strong>university in China</strong></td>
+<td width="312">
+<p>If your bachelor’s degree has been awarded, please upload your final official transcripts both in English and Chinese (make sure the GPA scale is included when you upload these documents), the official degree certificate both in English and Chinese and the official diploma in both English and Chinese in your online application.</p>
+<p>If you are still enrolled and have not been awarded your degree from your university in China, please be sure to upload your latest official transcripts both in English and Chinese in your online admissions application (make sure your university’s GPA scale is included when you upload these documents).</p>
+</td>
+</tr>
+<tr>
+<td width="312">If you are receiving your bachelor’s degree from a <strong>university in India</strong></td>
+<td width="312">
+<p>If you have received your bachelor’s degree from a university in India, please be sure to upload a copy of your final official transcripts along with a copy of your official diploma that shows when your degree was officially conferred and awarded.</p>
+<p>Please note the conferral certificate is NOT the same as the official diploma.</p>
+<p>If you have not been awarded your degree and are still enrolled in a university in India, please be sure to upload a copy of your official transcripts in your online admissions application (make sure your university’s GPA scale is included when you upload these documents).</p>
+</td>
+</tr>
+<tr>
+<td width="312">If you are receiving your bachelor’s degree from a University <strong>outside the U.S. (and not from India and China)</strong></td>
+<td width="312">
+<p>If you have been awarded your degree, please be sure to upload your official transcript both in English and the native language from the country the university is located in, and a copy of your official diploma both in English and the native official language from the country the university you attended in your online application.</p>
+<p>If you are currently enrolled and have not been awarded your degree from your university, please be sure to upload your official transcripts in both English and the native official language from the country the university you are attending in your online application (make sure your university’s GPA scale is included when you upload these documents).</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Official transcripts are due December 1 along with the application. We will make every effort to review late transcripts received between December 1 and December 15, but we cannot guarantee that they will be included in the review.</p>
+<p><strong>UCLA students and alumni</strong></p>
+<p>Please note: UCLA students and alumni do not need to submit official copies of UCLA transcripts. We have access to your records.</p>
+<p>Graduate Student Affairs Office<br />UCLA Computer Science Department<br />Engineering VI, room 291<br />Los Angeles, CA 90095-1596</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_68 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">I have requested that transcripts be sent to you, but I am concerned that you will not receive them by the deadline of December 1. If they arrive late, will I still be considered for admission?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Typically, late letters and late transcripts received through December 15 will be reviewed, but it cannot be guaranteed. You may upload unofficial transcripts to the Graduate Division online application. This may expedite the department’s initial review of your application; however, a departmental admission recommendation cannot be made to the Graduate Division without receipt of official transcripts.</p></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_18  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h4>For International Applicants Only</h4></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_69 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">How do you evaluate transcripts issued in a language other than English?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>International credentials issued in a language other than English must be accompanied by an English translation. Please submit ONE (1) set of official transcripts in both English and the native language. International applicants should refer to the <a href="http://www.gdnet.ucla.edu/gasaa/admissions/INTLREQT.HTM" target="_blank" rel="noopener noreferrer">Graduate Division webpage </a>for information about submission of academic records.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_70 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">My university does not assign grades on a 4.0 grade scale. Should I calculate my GPA?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>Make sure the grading scale is on the official transcripts uploaded in your online admissions application. Staff in the Computer Science Graduate Student Affairs Office review and convert, as necessary, the marks or grades of all applicants. The Graduate Division online application asks applicants to submit their grade point average on the scale used by their institutions.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_71 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">My official transcripts do not contain all the requested information such as the month and year of award. Do I need to submit a diploma?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>A complete academic history must include attested or certified copies of official documents that provide the following: 1) individual subjects or classes with marks or grades; 2) class placement or overall grade; 3) degree certificate that includes degree received and degree conferral date; and 4) institutional marks/grading scale.</p>
+<p>Most applicants are in the process of completing a degree. If offered admission, the final transcript indicating the date of the degree conferral may be submitted during the summer. Applicants from India and China who have graduated must submit official copies of their degree certificates along with their final official transcripts.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_18">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_18  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_19  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><a name="visa"></a>Visa (International Applicants Only)</h3></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_72 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">How much funding must I provide to qualify for a visa to study in the United States?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>The total amount of money needed for living and educational expenses for the 2021-2022 academic year for most programs at UCLA, including computer science, is about US $55,000. This includes 1) US about $33,100 for tuition and fees for three quarters, and 2) US about $19,500 for basic living costs (food, rent, laundry, local transportation, books and supplies, etc.). It is estimated that the cost for the 2021-2022 academic year will be at least $55,000. PhD international students offered admission will be provided funding that meets the anticipated cost of attendance. (In a few instances, PhD applicants are admitted who have their own agency funding (e.g. Fulbright Fellowship, government/industry support) that meets the anticipated cost of attendance.)</p>
+<p>M.S. applicants are not eligible for departmental financial support. TAing is not part of the Computer Science Masters Program and M.S. student (both incoming and continuing) are not guaranteed TAships/GSRs/Reader positions (i.e. Dept funding) for any year. To qualify for a visa to study in the U.S., international M.S. applicants must demonstrate personal or agency financial support of at least $55,000 for the first year. Prospective M.S. applicants should apply for admission ONLY if they can provide such documentation, which will be requested if admission is offered, in early Spring(March-May). Information on the cost of attendance is available on the <a href="http://www.gdnet.ucla.edu/gasaa/admissions/expenses.htm" target="_blank" rel="noopener noreferrer">UCLA Graduate Division Cost of Attendance webpage</a>.</p>
+<p>Information about university-wide fellowships and grants and external fellowships may be found at the <a href="http://www.gdnet.ucla.edu/asis/stusup/index.html" target="_blank" rel="noopener noreferrer">UCLA Graduate Division funding webpage</a>.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_73 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">When may I apply for a visa?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>The <a href="https://www.internationalcenter.ucla.edu/" target="_blank" rel="noopener noreferrer">UCLA Dashew Center for International Students and Scholars</a> prepares visa documents (Form I-20 for F-1 student visa) from May to September for admitted applicants who have returned the Statement of Intent to Register, Statement of Legal Residence, and CFS that includes the appropriate financial documentation. Please see information on visa procedures on the <a href="http://www.gdnet.ucla.edu/gasaa/admissions/VISAPROC.HTM" target="_blank" rel="noopener noreferrer">Graduate Division website</a>.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_19">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_19  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_20  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><a name="writing-sample"></a>Writing Sample</h3></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_74 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h4 class="et_pb_toggle_title">Is a writing sample required?</h4>
+				<div class="et_pb_toggle_content clearfix"><p>The statement of purpose is considered to be the writing sample. No additional writing sample is requested. </p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</div>
+						</div>
+
+				
+				</article>
+
+			
+
+</div>
+
+
+	<span class="et_pb_scroll_top et-pb-icon"></span>
+
+
+			<footer id="main-footer">
+				
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<div id="footer-logo">
+					<a href="https://samueli.ucla.edu/engineerchange/" target="_blank"><img src="/wp-content/uploads/samueli/engineer-change-tagline.png" alt="Engineer Change." width="200px"></a><br>
+				</div>
+				<ul class="et-social-icons" aria-label="socialmedia-menu">
+
+	<li class="et-social-icon et-social-facebook">
+		<a href="https://www.facebook.com/UCLAComputerScience/" class="icon" aria-label="Link to Facebook" rel="noopener" target="_blank">
+			<span>Facebook</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-twitter">
+		<a href="https://twitter.com/UCLAComSci" class="icon" aria-label="X" rel="noopener" target="_blank">
+			<span>X</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-instagram">
+		<a href="https://www.instagram.com/uclacomputerscience/" class="icon" aria-label="Instagram" rel="noopener" target="_blank">
+			<span>Instagram</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-linkedin">
+		<a href="https://www.linkedin.com/company/ucla-computer-science" class="icon" aria-label="Linkedin" rel="noopener" target="_blank">
+			<span>Linkedin</span>
+		</a>
+	</li>
+
+</ul>
+					</div>	<!-- .container -->
+					<div class="container clearfix">
+					<div id="footer-copyright">
+						&copy; <span style="font-style: italic;">Copyright 2024 UCLA Samueli School Of Engineering</span>
+					</div>	<!-- .container -->
+					<div id="footer-menu-wrapper">
+						<ul class="footer-menu">
+						<li><a aria-label="Contact Us" href="/contact">Contact Us</a></li>
+						<li><a target="_blank" aria-label="Accessibility" rel="noopener" href="http://www.ucla.edu/accessibility">Accessibility</a></li>
+						<li><a target="_blank" aria-label="Terms of Use" rel="noopener" href="https://samueli.ucla.edu/terms-of-use">Terms of Use</a></li>
+						<li><a target="_blank" aria-label="Safety First" rel="noopener" href="https://samueli.ucla.edu/safety-first">Safety First</a></li>
+						<li><a target="_blank" aria-label="UCLA" rel="noopener" href="http://www.ucla.edu">UCLA</a></li>
+						</ul>
+					</div>	<!-- #footer-menu-wrapper -->
+<!-- cookie consent -->
+<!-- cookie consent -->
+			</div>
+			</div>
+
+
+
+
+			</div>
+
+
+			</div>
+					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.cs.ucla.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2' media='none' onload="media='all'" />
+<script src="https://www.cs.ucla.edu/wp-content/plugins/responsive-image-maps/jquery.rwdImageMaps.min.js?ver=1.5" id="jQuery.rwd_image_maps-js"></script>
+<script id="divi-custom-script-js-extra">
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.cs.ucla.edu\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.cs.ucla.edu\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.cs.ucla.edu\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"110a308d7a","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"fe59ea305a","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"552","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https:\/\/www.cs.ucla.edu\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#ffd100","waypoints_options":[]};
+var et_pb_box_shadow_elements = [];
+</script>
+<script src="https://www.cs.ucla.edu/wp-content/themes/Divi/js/scripts.min.js?ver=4.23.1" id="divi-custom-script-js"></script>
+<script src="https://www.cs.ucla.edu/wp-content/themes/Divi/js/smoothscroll.js?ver=4.23.1" id="smoothscroll-js"></script>
+<script src="https://www.cs.ucla.edu/wp-content/plugins/divi_module_timeline/scripts/frontend-bundle.min.js?ver=1.0.0" id="divi_module_timeline-frontend-bundle-js"></script>
+<script src="https://www.cs.ucla.edu/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.6" id="page-links-to-js"></script>
+<script id="heateor_sss_sharing_js-js-before">
+function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'https://www.cs.ucla.edu/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://www.cs.ucla.edu/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://www.cs.ucla.edu/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 1;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")}
+</script>
+<script src="https://www.cs.ucla.edu/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=3.3.56" id="heateor_sss_sharing_js-js"></script>
+<script src="https://www.cs.ucla.edu/wp-content/themes/Divi/core/admin/js/common.js?ver=4.23.1" id="et-core-common-js"></script>
+<script id="divi-accessibility-da11y-js-extra">
+var _da11y = {"version":"2.0.1","active_outline_color":"#2ea3f2"};
+</script>
+<script src="https://www.cs.ucla.edu/wp-content/plugins/divi-accessibility-master/public/js/da11y.js?ver=2.0.1" id="divi-accessibility-da11y-js"></script>
+<script id="divi-accessibility-da11y-js-after">
+jQuery(document).ready(function(e){var n,a;function s(){const n=e(".et_search_form_container");n.hasClass("et_pb_is_animating")||(e(".et_menu_container").removeClass("et_pb_menu_visible et_pb_no_animation").addClass("et_pb_menu_hidden"),n.removeClass("et_pb_search_form_hidden et_pb_no_animation").addClass("et_pb_search_visible et_pb_is_animating"),setTimeout(function(){e(".et_menu_container").addClass("et_pb_no_animation"),n.addClass("et_pb_no_animation").removeClass("et_pb_is_animating")},1e3),n.find("input").focus(),function(){const n=e(".et_search_form_container"),a=e("body");if(n.hasClass("et_pb_search_visible")){const s=e("#main-header").innerHeight(),i=e("#top-menu").width(),t=e("#top-menu li a").css("font-size");n.css({height:s+"px"}),n.find("input").css("font-size",t),a.hasClass("et_header_style_left")?n.find("form").css("max-width",i+60):n.css("max-width",i+60)}}())}e(".menu-item-has-children").find("a")&&(e(".menu-item-has-children").find("a").addClass("da11y-submenu"),e(".menu-item-has-children").find("a").not(".sub-menu a").attr("aria-expanded","false")),e(".da11y-submenu").on("focus",function(){e(this).not(".sub-menu a").attr("aria-expanded","true"),e(this).siblings(".sub-menu").addClass("da11y-submenu-show"),e(this).trigger("mouseenter")}),e("body").on("keydown",".menu-item-has-children a",function(e){n=e.which,a=e.shiftKey}),e(".menu-item-has-children a").on("focusout",function(){9==n&&(a||e(this).parent().not(".menu-item-has-children").is(":last-child")&&e(this).parents(".menu-item-has-children").children(".da11y-submenu").attr("aria-expanded","false").trigger("mouseleave").siblings(".sub-menu").removeClass("da11y-submenu-show"))}),e(this).keyup(function(){e(".et-search-field").focus(function(){s()}).blur(function(){e(".et_search_form_container").hasClass("et_pb_is_animating")||(e(".et_menu_container").removeClass("et_pb_menu_hidden et_pb_no_animation").addClass("et_pb_menu_visible"),e(".et_search_form_container").removeClass("et_pb_search_visible et_pb_no_animation").addClass("et_pb_search_form_hidden et_pb_is_animating"),setTimeout(function(){e(".et_menu_container").addClass("et_pb_no_animation"),e(".et_search_form_container").addClass("et_pb_no_animation").removeClass("et_pb_is_animating")},1e3))})})});
+
+jQuery(document).ready((function(t){!function(e){const n='<a href="'+e+'" class="skip-link da11y-screen-reader-text">Skip to content</a>';t(e).attr("tabindex",-1),t("body").prepend(n)}("#main-content"),t('a[href^="#"]').click((function(){t("#"+t(this).attr("href").slice(1)).focus()}))}));
+jQuery(document).ready((function(e){let n=new Date,o=new Date;e(this).on("focusin",(function(t){e(".keyboard-outline").removeClass("keyboard-outline"),o<n&&e(t.target).addClass("keyboard-outline")})),e(this).on("mousedown",(function(){o=new Date})),e(this).on("keydown",(function(){n=new Date}))}));
+jQuery(document).ready((function(t){t(".et_pb_toggle").each((function(){t(this).attr("tabindex",0)})),t(".et_pb_toggle").on("keydown",(function(t){32===t.which&&t.preventDefault()})),t(document).on("keyup",(function(e){13!==e.which&&32!==e.which||t(".et_pb_toggle:focus .et_pb_toggle_title").trigger("click")}))}));
+jQuery(document).ready((function(e){e(".et-search-field").each((function(t){e(this).attr("id","et_pb_search_module_input_"+t),e("#et_pb_search_module_input_"+t).before('<label class="da11y-screen-reader-text" for="et_pb_search_module_input_'+t+'">Search for...</label>'),e("#et_pb_search_module_input_"+t).after('<button type="submit" class="da11y-screen-reader-text">Search</button>')})),e(".et_pb_s").each((function(t){e(this).attr("id","et_pb_s_module_input_"+t),e("#et_pb_s_module_input_"+t).before('<label class="da11y-screen-reader-text" for="et_pb_s_module_input_'+t+'">Search for...</label>')})),e(".et_pb_contact_form").each((function(){e(this).find(".et_pb_contact_captcha_question").parent().wrap("<label></label>")})),e(".et-social-facebook a.icon span").text("Facebook"),e(".et-social-twitter a.icon span").text("Twitter"),e(".et-social-google-plus a.icon span").text("Google Plus"),e(".et-social-pinterest a.icon span").text("Pinterest"),e(".et-social-linkedin a.icon span").text("LinkedIn"),e(".et-social-tumblr a.icon span").text("Tumblr"),e(".et-social-instagram a.icon span").text("Instagram"),e(".et-social-skype a.icon span").text("Skype"),e(".et-social-flikr a.icon span").text("Flickr"),e(".et-social-myspace a.icon span").text("Myspace"),e(".et-social-dribbble a.icon span").text("Dribble"),e(".et-social-youtube a.icon span").text("YouTube"),e(".et-social-vimeo a.icon span").text("Vimeo"),e(".et-social-rss a.icon span").text("RSS")}));
+jQuery(document).ready((function(t){t(".et_pb_tabs_controls").each((function(){t(this).attr("role","tabList")})),t(".et_pb_tabs_controls li").each((function(){t(this).attr("role","presentation")})),t(".et_pb_tabs_controls a").each((function(){t(this).attr("role","tab")})),t(".et_pb_tab").each((function(){t(this).attr("role","tabpanel")})),t(".et_pb_tabs_controls li:not(.et_pb_tab_active) a").each((function(){t(this).attr({"aria-selected":"false","aria-expanded":"false",tabindex:-1})})),t(".et_pb_tabs_controls li.et_pb_tab_active a").each((function(){t(this).attr({"aria-selected":"true","aria-expanded":"true",tabindex:0})})),t(".et_pb_tabs_controls a").each((function(a){t(this).attr({id:"et_pb_tab_control_"+a,"aria-controls":"et_pb_tab_panel_"+a})})),t(".et_pb_tab").each((function(a){t(this).attr({id:"et_pb_tab_panel_"+a,"aria-labelledby":"et_pb_tab_control_"+a})})),t(".et_pb_tab.et_pb_active_content").each((function(){t(this).attr("aria-hidden","false")})),t(".et_pb_tab:not(.et_pb_active_content)").each((function(){t(this).attr("aria-hidden","true")})),t(".et_pb_tabs").each((function(a){t(this).attr("data-da11y-id","et_pb_tab_module_"+a)})),t(".et_pb_tabs_controls a").on("click",(function(){const a=t(this).attr("id"),e=t(this).closest(".et_pb_tabs").attr("data-da11y-id");t('[data-da11y-id="'+e+'"] .et_pb_tabs_controls a').attr({"aria-selected":"false","aria-expanded":"false",tabindex:-1}),t(this).attr({"aria-selected":"true","aria-expanded":"true",tabindex:0}),t("#"+e+" .et_pb_tab").attr("aria-hidden","true"),t('[aria-labelledby="'+a+'"]').attr("aria-hidden","false")})),t(".et_pb_tabs_controls a").keyup((function(a){const e=t(this).closest(".et_pb_tabs").attr("data-da11y-id"),i=t('[data-da11y-id="'+e+'"]');if(39===a.which){const t=i.find("li.et_pb_tab_active").next();t.length>0?t.find("a").trigger("click"):i.find("li:first a").trigger("click")}else if(37===a.which){const t=i.find("li.et_pb_tab_active").prev();t.length>0?t.find("a").trigger("click"):i.find("li:last a").trigger("click")}t(".et_pb_tabs_controls a").removeClass("keyboard-outline"),i.find("li.et_pb_tab_active a").addClass("keyboard-outline")})),t(".et_pb_search").each((function(a){t(this).attr("data-da11y-id","et_pb_search_module_"+a)})),t('[data-required_mark="required"]').each((function(){t(this).attr("aria-required","true")})),t(".et_pb_contactform_validate_field").attr("type","hidden"),t(".et-pb-contact-message").attr("role","alert"),t("#main-content").attr("role","main"),t(".et_pb_fullwidth_header").each((function(a){t(this).attr("aria-label","Wide Header"+a)})),t("#comment-wrap").attr("aria-label","Comments")}));
+jQuery(document).ready((function(e){e("#et_top_search, .et_close_search_field, .et_pb_main_blurb_image").attr("aria-hidden","true")}));
+jQuery(document).ready((function(e){e(".mobile_menu_bar_toggle").attr({role:"button","aria-expanded":"false","aria-label":"Menu",tabindex:0}),e(".mobile_menu_bar_toggle").on("click",(function(){e(this).hasClass("a11y-mobile-menu-open")?e(this).removeClass("a11y-mobile-menu-open").attr("aria-expanded","false"):e(this).addClass("a11y-mobile-menu-open").attr("aria-expanded","true")})),e(".mobile_menu_bar_toggle").keyup((function(n){13===n.keyCode&&e(".mobile_menu_bar_toggle").click()})),e(document).keyup((function(n){27===n.keyCode&&e("#et_mobile_nav_menu .mobile_nav").hasClass("opened")&&e(".mobile_menu_bar_toggle").click()})),e(this).on("focusin",(function(){e("#et_mobile_nav_menu .mobile_nav").hasClass("opened")&&(e("#et_mobile_nav_menu .et_mobile_menu :focus").length||e("#et_mobile_nav_menu .mobile_menu_bar_toggle").click())}))}));
+</script>
+<script src="https://www.cs.ucla.edu/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.23.1" id="fitvids-js"></script>
+</body>
+</html>

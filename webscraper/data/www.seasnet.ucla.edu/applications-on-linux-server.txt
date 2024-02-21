@@ -1,0 +1,4066 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://www.seasnet.ucla.edu/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+	
+	<title>Applications on Linux Servers | SEASnet</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><style id="et-builder-googlefonts-cached-inline">/* Original: https://fonts.googleapis.com/css?family=Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic&#038;subset=latin,latin-ext&#038;display=swap *//* User Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCc.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-v.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-v.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPHA.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwWw.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPHA.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPHA.ttf) format('truetype');}/* User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCQ.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-s.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-s.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPHw.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwWA.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPHw.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=S6u9w4BMUTPHh50XSwaPHw&skey=d01acf708cb3b73b&v=v24) format('woff');}/* User Agent: Mozilla/5.0 (Windows NT 6.3; rv:39.0) Gecko/20100101 Firefox/39.0 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCI.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-q.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-q.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPGQ.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwXg.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPGQ.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPGQ.woff2) format('woff2');}</style>		<style type="text/css">
+					.heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+											.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+					.heateor_sss_horizontal_sharing .heateorSssTCBackground{
+				color:#666;
+			}
+					.heateor_sss_horizontal_sharing span.heateor_sss_svg:hover,.heateor_sss_standard_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		.heateor_sss_vertical_sharing span.heateor_sss_svg,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_vertical_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+						.heateor_sss_vertical_sharing span.heateor_sss_svg:hover,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}.heateor_sss_sharing_container {
+ padding: 15px 0px;
+ max-width: 1000px;
+ margin: auto;
+}		</style>
+		<meta name='robots' content='max-image-preview:large' />
+<script type="text/javascript">
+			let jqueryParams=[],jQuery=function(r){return jqueryParams=[...jqueryParams,r],jQuery},$=function(r){return jqueryParams=[...jqueryParams,r],$};window.jQuery=jQuery,window.$=jQuery;let customHeadScripts=!1;jQuery.fn=jQuery.prototype={},$.fn=jQuery.prototype={},jQuery.noConflict=function(r){if(window.jQuery)return jQuery=window.jQuery,$=window.jQuery,customHeadScripts=!0,jQuery.noConflict},jQuery.ready=function(r){jqueryParams=[...jqueryParams,r]},$.ready=function(r){jqueryParams=[...jqueryParams,r]},jQuery.load=function(r){jqueryParams=[...jqueryParams,r]},$.load=function(r){jqueryParams=[...jqueryParams,r]},jQuery.fn.ready=function(r){jqueryParams=[...jqueryParams,r]},$.fn.ready=function(r){jqueryParams=[...jqueryParams,r]};</script><link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel="alternate" type="application/rss+xml" title="SEASnet &raquo; Feed" href="https://www.seasnet.ucla.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="SEASnet &raquo; Comments Feed" href="https://www.seasnet.ucla.edu/comments/feed/" />
+<meta content="Divi Child for HSSEAS v.4.23.1" name="generator"/><link rel='stylesheet' id='wp-block-library-css' href='https://www.seasnet.ucla.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2' media='all' />
+<style id='wp-block-library-inline-css'>
+.menu li.et-hover>ul,.nav li.et-hover>ul{visibility:visible!important;opacity:1!important}.da11y-submenu-show{visibility:visible!important}
+.keyboard-outline{outline-style:solid!important;outline-width:2px!important;-webkit-transition:none!important;transition:none!important}a[role=tab].keyboard-outline,button:active.keyboard-outline,button:focus.keyboard-outline,input:active.keyboard-outline,input:focus.keyboard-outline{outline-offset:-5px}.et-search-form input:focus.keyboard-outline{padding-left:15px;padding-right:15px}.et_pb_tab{-webkit-animation:none!important;animation:none!important}.et_pb_scroll_top.et-visible:focus{outline-width:2px;outline-style:solid;outline-color:Highlight}@media (-webkit-min-device-pixel-ratio:0){.et_pb_scroll_top.et-visible:focus{outline-color:-webkit-focus-ring-color;outline-style:auto}}
+.et_pb_contact_form_label,.et_pb_search .screen-reader-text,.et_pb_social_media_follow_network_name,.widget_search .screen-reader-text{display:block!important}.da11y-screen-reader-text,.et_pb_contact_form_label,.et_pb_search .screen-reader-text,.et_pb_social_media_follow_network_name,.widget_search .screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden;text-shadow:none;text-transform:none;letter-spacing:normal;line-height:normal;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1em;font-weight:600;-webkit-font-smoothing:subpixel-antialiased}.da11y-screen-reader-text:focus{background:#f1f1f1;color:#00547a;-webkit-box-shadow:0 0 2px 2px rgba(0,0,0,.6);box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;display:block;height:auto;left:5px;padding:15px 23px 14px;text-decoration:none;top:7px;width:auto;z-index:1000000}
+</style>
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='events-manager-css' href='https://www.seasnet.ucla.edu/wp-content/plugins/events-manager/includes/css/events-manager.min.css?ver=6.4.6.4' media='all' />
+<style id='events-manager-inline-css'>
+body .em { --font-family : inherit; --font-weight : inherit; --font-size : 1em; --line-height : inherit; }
+</style>
+<link rel='stylesheet' id='heateor_sss_frontend_css-css' href='https://www.seasnet.ucla.edu/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=3.3.56' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.4.2' media='all' />
+<link rel='stylesheet' id='divi-style-parent-css' href='https://www.seasnet.ucla.edu/wp-content/themes/Divi/style-static.min.css?ver=4.23.1' media='all' />
+<link rel='stylesheet' id='divi-style-css' href='https://www.seasnet.ucla.edu/wp-content/themes/Divi-child/style.css?ver=4.23.1' media='all' />
+<link rel='stylesheet' id='child-style-css' href='https://www.seasnet.ucla.edu/wp-content/themes/Divi-child/style.css?ver=4.23.1' media='all' />
+<link rel='stylesheet' id='mobile_style-css' href='https://www.seasnet.ucla.edu/wp-content/themes/Divi-child/per_site_styles/mobile_style.css?ver=4.23.1' media='all' />
+<script src="https://www.seasnet.ucla.edu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://www.seasnet.ucla.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script id="jquery-js-after">
+jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){var n=String(r);n.replace("$","jQuery");var a=new Function("return "+n)();$(document).ready(a)}});
+</script>
+<script src="https://www.seasnet.ucla.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script src="https://www.seasnet.ucla.edu/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2" id="jquery-ui-mouse-js"></script>
+<script src="https://www.seasnet.ucla.edu/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2" id="jquery-ui-sortable-js"></script>
+<script src="https://www.seasnet.ucla.edu/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2" id="jquery-ui-datepicker-js"></script>
+<script id="jquery-ui-datepicker-js-after">
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script src="https://www.seasnet.ucla.edu/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.2" id="jquery-ui-resizable-js"></script>
+<script src="https://www.seasnet.ucla.edu/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2" id="jquery-ui-draggable-js"></script>
+<script src="https://www.seasnet.ucla.edu/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2" id="jquery-ui-controlgroup-js"></script>
+<script src="https://www.seasnet.ucla.edu/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2" id="jquery-ui-checkboxradio-js"></script>
+<script src="https://www.seasnet.ucla.edu/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2" id="jquery-ui-button-js"></script>
+<script src="https://www.seasnet.ucla.edu/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.2" id="jquery-ui-dialog-js"></script>
+<script id="events-manager-js-extra">
+var EM = {"ajaxurl":"https:\/\/www.seasnet.ucla.edu\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/www.seasnet.ucla.edu\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"yy-mm-dd","ui_css":"https:\/\/www.seasnet.ucla.edu\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui\/build.min.css","show24hours":"0","is_ssl":"1","autocomplete_limit":"10","calendar":{"breakpoints":{"small":560,"medium":908,"large":false}},"phone":"","datepicker":{"format":"M j, Y"},"search":{"breakpoints":{"small":650,"medium":850,"full":false}},"url":"https:\/\/www.seasnet.ucla.edu\/wp-content\/plugins\/events-manager","txt_search":"Search events","txt_searching":"Searching...","txt_loading":"Loading...","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash."};
+</script>
+<script src="https://www.seasnet.ucla.edu/wp-content/plugins/events-manager/includes/js/events-manager.min.js?ver=6.4.6.4" id="events-manager-js"></script>
+<script src="https://www.seasnet.ucla.edu/wp-content/themes/Divi-child/js/seas.js?ver=4.23.1" id="seas-js"></script>
+<script src="https://www.seasnet.ucla.edu/wp-content/themes/Divi-child/js/header_for_mobile.js?ver=4.23.1" id="script-js"></script>
+<script src="https://www.seasnet.ucla.edu/wp-content/themes/Divi-child/js/jquery.autocomplete.min.js?ver=6.4.2" id="autocomplete-js"></script>
+<script src="https://www.seasnet.ucla.edu/wp-content/themes/Divi-child/js/autocomplete.js?ver=6.4.2" id="autocomplete-js-js"></script>
+<link rel="https://api.w.org/" href="https://www.seasnet.ucla.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://www.seasnet.ucla.edu/wp-json/wp/v2/pages/605" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.seasnet.ucla.edu/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.2" />
+<link rel="canonical" href="https://www.seasnet.ucla.edu/applications-on-linux-server/" />
+<link rel='shortlink' href='https://www.seasnet.ucla.edu/?p=605' />
+<link rel="alternate" type="application/json+oembed" href="https://www.seasnet.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.seasnet.ucla.edu%2Fapplications-on-linux-server%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.seasnet.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.seasnet.ucla.edu%2Fapplications-on-linux-server%2F&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /><script type="text/javascript">
+	jQuery(document).ready(function(){
+		jQuery('img[usemap]').rwdImageMaps();
+	});
+</script>
+<style type="text/css">
+	img[usemap] { max-width: 100%; height: auto; }
+</style>
+<style id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<meta name="google-site-verification" content="WNTqZ1-CEdvZ-4cit5QXCHwvwUGPcbu0vUtgKHUKwqw">
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4REVHRMWK1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4REVHRMWK1', {cookie_flags: 'SameSite=None;Secure'});
+
+  jQuery(document).ready(function($) {
+	$(".et-pb-icon").attr('aria-hidden', 'true');
+	$(".et_pb_main_blurb_image").attr('aria-hidden', 'true');
+  });
+</script>
+<link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="https://www.seasnet.ucla.edu/wp-content/uploads/seasnet/et-cache/global/et-divi-customizer-global.min.css?ver=1707346020" /><style id="et-critical-inline-css"></style>
+<link rel="preload" as="style" id="et-core-unified-tb-7542-deferred-605-cached-inline-styles" href="https://www.seasnet.ucla.edu/wp-content/uploads/seasnet/et-cache/605/et-core-unified-tb-7542-deferred-605.min.css?ver=1707352038" onload="this.onload=null;this.rel='stylesheet';" /></head>
+<body class="page-template-default page page-id-605 custom-background et-tb-has-template et-tb-has-footer et_pb_button_helper_class et_fullwidth_nav et_fixed_nav et_show_nav et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_cover_background et_pb_gutter et_pb_gutters3 et_smooth_scroll et_full_width_page et_divi_theme et-db">
+	<div id="page-container">
+<div id="et-boc" class="et-boc">
+			
+		
+
+	<header id="main-header" data-height-onload="60">
+		<div class="container clearfix et_menu_container">
+					<div class="logo_container">
+				<span class="logo_helper"></span>
+				<a href="https://www.seasnet.ucla.edu/">
+				<img src="https://www.seasnet.ucla.edu/wp-content/uploads/seasnet/seasnet-logo-black-text.png" width="857" height="209" alt="SEASnet" id="logo" data-height-percentage="60" />
+				</a>
+			</div>
+					<div id="et-top-navigation" data-height="60" data-fixed-height="60">
+									<nav id="top-menu-nav">
+					<ul id="top-menu" class="nav et_disable_top_tier"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6984"><a target="_blank" rel="noopener" href="https://samueli.ucla.edu">SAMUELI</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-714"><a href="#">ACCOUNTS</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-737"><a href="https://www.seasnet.ucla.edu/seasnet-accounts/">Who is Eligible?</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-743"><a href="https://www.seasnet.ucla.edu/user-account-policy/">User Account Policy</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2926"><a href="https://www.seasnet.ucla.edu/student-account-info/">Student Account Information</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7117"><a href="https://www.seasnet.ucla.edu/apply-for-student-account/">Apply for Student Account</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-826"><a href="https://www.seasnet.ucla.edu/changing-password/">Changing Your Password</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-809"><a href="https://www.seasnet.ucla.edu/secure-remote-login-file-transfer/">Remote Login and File Transfer</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-834"><a href="https://www.seasnet.ucla.edu/seasnet-account-quotas/">Disk Quotas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-848"><a href="https://www.seasnet.ucla.edu/file-recovery/">File Recovery</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4351"><a href="https://www.seasnet.ucla.edu/personal-website/">Personal Website</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-680"><a href="#">CLASSES</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-776"><a href="https://www.seasnet.ucla.edu/class-websites-and-myengineering/">Class Sites and MyEngineering</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-783"><a href="https://www.seasnet.ucla.edu/information-for-instructors-and-teaching-assistants/">Instructors and Teaching Assistants</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5219"><a href="https://www.seasnet.ucla.edu/class-activation/">Class Resource Activation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-784"><a href="https://www.seasnet.ucla.edu/3760bh/">Instructional Media Room</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5209"><a href="https://www.seasnet.ucla.edu/document-scanner/">Document Scanner</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-789"><a href="https://www.seasnet.ucla.edu/linux-servers/">Linux Servers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-605 current_page_item menu-item-807"><a href="https://www.seasnet.ucla.edu/applications-on-linux-server/" aria-current="page">Applications on Linux Servers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1776"><a href="https://www.seasnet.ucla.edu/eeapps/">EE Course Applications</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-785"><a title="SEASnet RemoteApps / Remote Desktop" href="https://www.seasnet.ucla.edu/setting-up-remoteapps-and-remote-desktop/">LABS</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-790"><a href="https://www.seasnet.ucla.edu/seasnet-computer-labs/">Location and Hours</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-795"><a href="https://www.seasnet.ucla.edu/seasnet-lab-policies/">SEASnet Lab Policies</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-791"><a href="https://www.seasnet.ucla.edu/applications-on-windows-lab-pcs/">Applications on Lab PCs</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5930"><a href="https://www.seasnet.ucla.edu/setting-up-remoteapps-and-remote-desktop/">RemoteApps / Remote Desktop</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5172"><a href="https://www.seasnet.ucla.edu/printing-tips/">Printing</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-794"><a href="https://www.seasnet.ucla.edu/special-instructions-for-applications/">Special Instructions for Applications</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-800"><a href="https://www.seasnet.ucla.edu/matlab-toolboxes-instruction-only/">Matlab Toolboxes (Instruction Only)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-839"><a href="https://www.seasnet.ucla.edu/lost-and-found/">Lost &amp; Found</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-681"><a href="#">SOFTWARE</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-810"><a href="https://www.seasnet.ucla.edu/software-download/">Software Downloads</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2024"><a href="https://www.seasnet.ucla.edu/azuredev-software-download/">Microsoft Azure Dev Tools</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5192"><a target="_blank" rel="noopener" href="https://softwarecentral.ucla.edu">UCLA Software Central</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-814"><a href="https://www.seasnet.ucla.edu/licensed-software-purchases/">Licensed Software Purchases</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-815"><a target="_blank" rel="noopener" href="https://softwarecentral.ucla.edu/matlab-getmatlab">MATLAB License</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-754"><a href="#">DEPARTMENTS</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1148"><a href="https://www.seasnet.ucla.edu/seasnet-service-request/">SEASnet Service Request</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-756"><a href="https://www.seasnet.ucla.edu/new-account-requests/">Account: Admin Staff</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3055"><a href="https://www.seasnet.ucla.edu/email-accounts-and-settings/">Account: Email Configuration</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-758"><a href="https://www.seasnet.ucla.edu/departmental-computing-support/">Computer: Admin Staff Support</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-759"><a href="https://www.seasnet.ucla.edu/staff-members-responsibility/">Computer: User Responsibility</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-761"><a href="https://www.seasnet.ucla.edu/departmental-responsibility/">Computer: Dept. Responsibility</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-991"><a href="https://www.seasnet.ucla.edu/seasnet-computer-support-request-form/">Computer: Support Contract</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-757"><a href="https://www.seasnet.ucla.edu/office-relocations-and-renovations/">Office Relocations and Renovations</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-766"><a href="https://www.seasnet.ucla.edu/group-email-list/">Email Lists: for Admin Staff</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6446"><a href="https://www.seasnet.ucla.edu/student-groups-communication-tools/">Email Lists: for Student Groups</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5189"><a href="https://www.seasnet.ucla.edu/room-booking-system/">Scheduling System</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-763"><a href="https://www.seasnet.ucla.edu/sadb/">SEAS Databases</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-772"><a href="https://www.seasnet.ucla.edu/credit-card-payments/">UCLA: Credit Card System</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2687"><a href="https://www.seasnet.ucla.edu/departmental-box-accounts/">UCLA: Dept. Box Accounts</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5332"><a target="_blank" rel="noopener" href="https://help.bol.ucla.edu/kb_view.do?sys_kb_id=00a74f7cf17bc50060a225727a92e20b&#038;sysparm_nameofstack=&#038;sysparm_kb_search_table=">UCLA: Dept. Google Accounts</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6447"><a target="_blank" rel="noopener" href="https://ucla.service-now.com/support?id=its_browse_service&#038;sys_id=ce61ebf01b9c885038cec8415b4bcbf7">UCLA: DocuSign (eSignature)</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6746"><a target="_blank" rel="noopener" href="https://directory.seas.ucla.edu">UCLA: Engineering Directory</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2743"><a href="https://www.seasnet.ucla.edu/lcd-panel-event-form/">Signage Event Posting</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-682"><a href="#">NETWORK</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-835"><a href="https://www.seasnet.ucla.edu/network-access-policies/">Network Access Policies</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2234"><a href="https://www.seasnet.ucla.edu/hsseas-network-restrictions/">Network Restrictions</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-816"><a href="https://www.seasnet.ucla.edu/ip-request/">IP Address Request</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5521"><a href="https://www.seasnet.ucla.edu/firewall-access-request/">Firewall Access Request</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-817"><a href="https://www.seasnet.ucla.edu/port-activation-request/">Port Activation Request</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-818"><a href="https://www.seasnet.ucla.edu/seasnet-service-request/">Cable Request</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-819"><a href="https://www.seasnet.ucla.edu/seasnet-wireless-network/">Wireless Network</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-821"><a href="https://www.seasnet.ucla.edu/dns-request/">DNS Requests</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1432"><a href="https://www.seasnet.ucla.edu/router-reg-form/">Wireless/Wired Router Registration</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-683"><a href="#">SECURITY</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1554"><a href="https://www.seasnet.ucla.edu/security/">Computer &amp; Information Security</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7452"><a href="https://www.seasnet.ucla.edu/detecting-problems/">Detecting Problems</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-824"><a href="https://www.seasnet.ucla.edu/securing-your-computer/">Securing Your Computer</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6284"><a href="https://www.seasnet.ucla.edu/phishing-scams/">Phishing Scams</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5329"><a href="https://www.seasnet.ucla.edu/data-usage-guidelines-for-cloud-services/">Cloud Service Guidelines</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5279"><a target="_blank" rel="noopener" href="https://www.ociso.ucla.edu/security-best-practices">UCLA IT Security Best Practices</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-769"><a target="_blank" rel="noopener" href="https://it.ucla.edu/it-ucla/it-policies-practices">UCLA IT Policies &amp; Practices</a></li>
+</ul>
+</li>
+</ul>					</nav>
+				
+				
+				
+									<div id="et_top_search">
+						<span id="et_search_icon"></span>
+					</div>
+				
+				<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>			</div> <!-- #et-top-navigation -->
+		</div> <!-- .container -->
+				<div class="et_search_outer">
+			<div class="container et_search_form_container">
+				<form role="search" method="get" class="et-search-form" action="https://www.seasnet.ucla.edu/">
+				<input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />				</form>
+				<span class="et_close_search_field"></span>
+			</div>
+		</div>
+			</header> <!-- #main-header -->
+<div id="et-main-area">
+	
+<div id="main-content">
+
+
+	<div class="container">
+		<div id="content-area" class="clearfix">
+			<div id="left-area">
+
+
+			
+				<article id="post-605" class="post-605 page type-page status-publish hentry category-uncategorized">
+
+				
+					<h1 class="entry-title main_title">Applications on Linux Servers</h1>
+				
+				
+					<div class="entry-content">
+					<p>List of software packages available on lnxsrv servers</p>
+<h2><strong>Extra software</strong></h2>
+<table>
+<tbody>
+<tr>
+<th>Software</th>
+<th>Description</th>
+</tr>
+<tr>
+<td style="width:35%">CUDA toolkit for cs33</td>
+<td>
+<pre>/usr/local_cs/cs33/cuda</pre>
+</td>
+</tr>
+<tr>
+<td>GNU Common Lisp</td>
+<td>
+<pre>/usr/local/bin/gcl
+or
+/usr/local/bin/clisp</pre>
+</td>
+</tr>
+<tr>
+<td>Tangram2 for Prof. Muntz</td>
+<td>
+<pre>source /usr/local/Tangram2/setup
+tangram2</pre>
+</td>
+</tr>
+<tr>
+<td>tomcat/apache/mysql for cs130</td>
+<td>
+<pre>(lnxsrv04 only)
+tomcat
+apache
+mysql</pre>
+</td>
+</tr>
+<tr>
+<td>tomcat/apache/mysql for cs131</td>
+<td>
+<pre>(lnxsrv03 only)
+/u/cs/class/cs143/apps/tomcat/webapps
+tomcat
+apache
+mysql</pre>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2><strong>Software available from the OS installation</strong></h2>
+<table>
+<tbody>
+<tr>
+<td style="width:35%">NAME</td>
+<td>SHORT DESCRIPTION</td>
+</tr>
+<tr>
+<td>a2ps</td>
+<td>Converts text and other types of files to PostScript(TM).</td>
+</tr>
+<tr>
+<td>acl</td>
+<td>Access control list utilities.</td>
+</tr>
+<tr>
+<td>acpid</td>
+<td>ACPI Event Daemon</td>
+</tr>
+<tr>
+<td>acroread</td>
+<td>Adobe Acrobat® Reader</td>
+</tr>
+<tr>
+<td>alchemist</td>
+<td>A multi-sourced configuration back-end.</td>
+</tr>
+<tr>
+<td>alpine</td>
+<td>Alternative Pine mail user agent implementation</td>
+</tr>
+<tr>
+<td>alsa-lib-devel</td>
+<td>Static libraries and header files from the ALSA library.</td>
+</tr>
+<tr>
+<td>alsa-lib</td>
+<td>The Advanced Linux Sound Architecture (ALSA) library.</td>
+</tr>
+<tr>
+<td>amtu</td>
+<td>Abstract Machine Test Utility (AMTU)</td>
+</tr>
+<tr>
+<td>anacron</td>
+<td>A cron-like program that can run jobs lost during downtime.</td>
+</tr>
+<tr>
+<td>A Name Service Caching Daemon (nscd).</td>
+<td>A Name Service Caching Daemon (nscd).</td>
+</tr>
+<tr>
+<td>antlr</td>
+<td>ANother Tool for Language Recognition</td>
+</tr>
+<tr>
+<td>apr</td>
+<td>Apache Portable Runtime library</td>
+</tr>
+<tr>
+<td>apr-util</td>
+<td>Apache Portable Runtime Utility library</td>
+</tr>
+<tr>
+<td>aspell-en</td>
+<td>English dictionaries for Aspell.</td>
+</tr>
+<tr>
+<td>aspell</td>
+<td>A spelling checker.</td>
+</tr>
+<tr>
+<td>atk-devel</td>
+<td>System for layout and rendering of internationalized text.</td>
+</tr>
+<tr>
+<td>atk</td>
+<td>Interfaces for accessibility support</td>
+</tr>
+<tr>
+<td>at-spi</td>
+<td>Assistive Technology Service Provider Interface</td>
+</tr>
+<tr>
+<td>at</td>
+<td>Job spooling tools.</td>
+</tr>
+<tr>
+<td>attr</td>
+<td>Utilities for managing filesystem extended attributes.</td>
+</tr>
+<tr>
+<td>audiofile-devel</td>
+<td>Development files for Audio File applications.</td>
+</tr>
+<tr>
+<td>audiofile</td>
+<td>A library for accessing various audio file formats.</td>
+</tr>
+<tr>
+<td>audit-libs-python</td>
+<td>Python bindings for libaudit</td>
+</tr>
+<tr>
+<td>audit-libs</td>
+<td>Dynamic library for libaudit</td>
+</tr>
+<tr>
+<td>audit</td>
+<td>User space tools for 2.6 kernel auditing</td>
+</tr>
+<tr>
+<td>authconfig-gtk</td>
+<td>Graphical tool for setting up authentication from network services</td>
+</tr>
+<tr>
+<td>authconfig</td>
+<td>Command line tool for setting up authentication from network</td>
+</tr>
+<tr>
+<td>autoconf</td>
+<td>A GNU tool for automatically configuring source code.</td>
+</tr>
+<tr>
+<td>autofs</td>
+<td>A tool for automatically mounting and unmounting filesystems.</td>
+</tr>
+<tr>
+<td>automake14</td>
+<td>A GNU tool for automatically creating Makefiles.</td>
+</tr>
+<tr>
+<td>automake15</td>
+<td>A GNU tool for automatically creating Makefiles.</td>
+</tr>
+<tr>
+<td>automake16</td>
+<td>A GNU tool for automatically creating Makefiles.</td>
+</tr>
+<tr>
+<td>automake17</td>
+<td>A GNU tool for automatically creating Makefiles.</td>
+</tr>
+<tr>
+<td>automake</td>
+<td>A GNU tool for automatically creating Makefiles.</td>
+</tr>
+<tr>
+<td>avahi-compat-libdns_sd</td>
+<td>Libraries for Apple Bonjour mDNSResponder compatibility.</td>
+</tr>
+<tr>
+<td>avahi-glib</td>
+<td>Glib libraries for avahi</td>
+</tr>
+<tr>
+<td>avahi</td>
+<td>Local network service discovery</td>
+</tr>
+<tr>
+<td>basesystem</td>
+<td>The skeleton package which defines a simple Red Hat Linux system.</td>
+</tr>
+<tr>
+<td>bash</td>
+<td>The GNU Bourne Again shell (bash) version 3.1.</td>
+</tr>
+<tr>
+<td>bc</td>
+<td>GNU&#8217;s bc (a numeric processing language) and dc (a calculator).</td>
+</tr>
+<tr>
+<td>bind-libs</td>
+<td>Libraries used by the BIND DNS packages</td>
+</tr>
+<tr>
+<td>bind-utils</td>
+<td>Utilities for querying DNS name servers.</td>
+</tr>
+<tr>
+<td>binutils</td>
+<td>A GNU collection of binary utilities.</td>
+</tr>
+<tr>
+<td>bison</td>
+<td>A GNU general-purpose parser generator.</td>
+</tr>
+<tr>
+<td>bitmap-fonts</td>
+<td>Selected set of bitmap fonts</td>
+</tr>
+<tr>
+<td>bitstream-vera-fonts</td>
+<td>Bitstream Vera Fonts</td>
+</tr>
+<tr>
+<td>bluez-libs</td>
+<td>Bluetooth libraries</td>
+</tr>
+<tr>
+<td>boost-devel</td>
+<td>The Boost C++ headers and development libraries</td>
+</tr>
+<tr>
+<td>boost</td>
+<td>The Boost C++ Libraries</td>
+</tr>
+<tr>
+<td>brlapi</td>
+<td>Application Programming Interface for BRLTTY.</td>
+</tr>
+<tr>
+<td>bsf</td>
+<td>Bean Scripting Framework</td>
+</tr>
+<tr>
+<td>bsh-javadoc</td>
+<td>Javadoc for bsh</td>
+</tr>
+<tr>
+<td>bsh-manual</td>
+<td>Manual for bsh</td>
+</tr>
+<tr>
+<td>bsh</td>
+<td>Lightweight Scripting for Java</td>
+</tr>
+<tr>
+<td>busybox</td>
+<td>Statically linked binary providing simplified versions of system</td>
+</tr>
+<tr>
+<td>byacc</td>
+<td>A public domain Yacc parser generator.</td>
+</tr>
+<tr>
+<td>bzip2-devel</td>
+<td>Header files and libraries for developing apps which will use</td>
+</tr>
+<tr>
+<td>bzip2-libs</td>
+<td>Libraries for applications using bzip2</td>
+</tr>
+<tr>
+<td>bzip2</td>
+<td>A file compression utility.</td>
+</tr>
+<tr>
+<td>cadaver</td>
+<td>Command-line WebDAV client</td>
+</tr>
+<tr>
+<td>cairo-devel</td>
+<td>Cairo developmental libraries and header files</td>
+</tr>
+<tr>
+<td>cairo</td>
+<td>A vector graphics library</td>
+</tr>
+<tr>
+<td>ccid</td>
+<td>Generic USB CCID smart card reader driver</td>
+</tr>
+<tr>
+<td>cdparanoia-libs</td>
+<td>Libraries for libcdda_paranoia (Paranoia III).</td>
+</tr>
+<tr>
+<td>checkpolicy</td>
+<td>SELinux policy compiler</td>
+</tr>
+<tr>
+<td>chkconfig</td>
+<td>A system tool for maintaining the /etc/rc*.d hierarchy.</td>
+</tr>
+<tr>
+<td>chkfontpath</td>
+<td>Simple interface for editing the font path for the X font server.</td>
+</tr>
+<tr>
+<td>compat-gcc-34-c++</td>
+<td>C++ support for compatibility compiler</td>
+</tr>
+<tr>
+<td>compat-gcc-34-g77</td>
+<td>Fortran 77 support for compatibility compiler</td>
+</tr>
+<tr>
+<td>compat-gcc-34</td>
+<td>Compatibility GNU Compiler Collection</td>
+</tr>
+<tr>
+<td>compat-glibc-headers</td>
+<td>Header files for development using standard C libraries.</td>
+</tr>
+<tr>
+<td>compat-glibc</td>
+<td>Compatibility C library</td>
+</tr>
+<tr>
+<td>compat-libcom_err</td>
+<td>A libcom_err compatibility library</td>
+</tr>
+<tr>
+<td>compat-libf2c-34</td>
+<td>Fortran 77 compatibility runtime</td>
+</tr>
+<tr>
+<td>compat-libgcc-296</td>
+<td>Compatibility 2.96-RH libgcc library</td>
+</tr>
+<tr>
+<td>compat-libstdc++-296</td>
+<td>Compatibility 2.96-RH standard C++ libraries</td>
+</tr>
+<tr>
+<td>compat-libstdc++-33</td>
+<td>Compatibility standard C++ libraries</td>
+</tr>
+<tr>
+<td>comps-extras</td>
+<td>Images for components and tools for working with the comps file</td>
+</tr>
+<tr>
+<td>conman</td>
+<td>ConMan &#8211; The Console Manager</td>
+</tr>
+<tr>
+<td>coolkey-devel</td>
+<td>CoolKey Applet libraries</td>
+</tr>
+<tr>
+<td>coolkey</td>
+<td>CoolKey PKCS #11 module</td>
+</tr>
+<tr>
+<td>coreutils</td>
+<td>The GNU core utilities</td>
+</tr>
+<tr>
+<td>cpio</td>
+<td>A GNU archiving program.</td>
+</tr>
+<tr>
+<td>cpp</td>
+<td>The C Preprocessor.</td>
+</tr>
+<tr>
+<td>cpuspeed</td>
+<td>CPU Frequency adjusting daemon.</td>
+</tr>
+<tr>
+<td>cracklib-dicts</td>
+<td>The standard CrackLib dictionaries.</td>
+</tr>
+<tr>
+<td>cracklib</td>
+<td>A password-checking library.</td>
+</tr>
+<tr>
+<td>crash</td>
+<td>crash utility for live systems; netdump, diskdump, kdump, LKCD or</td>
+</tr>
+<tr>
+<td>crontabs</td>
+<td>Root crontab files used to schedule the execution of programs.</td>
+</tr>
+<tr>
+<td>cryptsetup-luks</td>
+<td>A utility for setting up encrypted filesystems</td>
+</tr>
+<tr>
+<td>cscope</td>
+<td>C source code tree search and browse tool</td>
+</tr>
+<tr>
+<td>ctags</td>
+<td>A C programming language indexing and/or cross-reference tool.</td>
+</tr>
+<tr>
+<td>cups-libs</td>
+<td>Common Unix Printing System &#8211; libraries</td>
+</tr>
+<tr>
+<td>cups</td>
+<td>Common Unix Printing System</td>
+</tr>
+<tr>
+<td>curl-devel</td>
+<td>Files needed for building applications with libcurl.</td>
+</tr>
+<tr>
+<td>curl</td>
+<td>A utility for getting files from remote servers (FTP, HTTP, and</td>
+</tr>
+<tr>
+<td>cvs</td>
+<td>CVS (Concurrent Versions System) is a version control system</td>
+</tr>
+<tr>
+<td>cyrus-sasl-devel</td>
+<td>Files needed for developing applications with Cyrus SASL.</td>
+</tr>
+<tr>
+<td>cyrus-sasl-lib</td>
+<td>Shared libraries needed by applications which use Cyrus SASL.</td>
+</tr>
+<tr>
+<td>cyrus-sasl-plain</td>
+<td>PLAIN and LOGIN support for Cyrus SASL.</td>
+</tr>
+<tr>
+<td>cyrus-sasl</td>
+<td>The Cyrus SASL library.</td>
+</tr>
+<tr>
+<td>db4-devel</td>
+<td>Development files for the Berkeley DB (version 4) library.</td>
+</tr>
+<tr>
+<td>db4</td>
+<td>The Berkeley DB database library (version 4) for C.</td>
+</tr>
+<tr>
+<td>dbus-devel</td>
+<td>Libraries and headers for D-BUS</td>
+</tr>
+<tr>
+<td>dbus-glib-devel</td>
+<td>Libraries and headers for the D-Bus GLib bindings</td>
+</tr>
+<tr>
+<td>dbus-glib</td>
+<td>GLib bindings for D-Bus</td>
+</tr>
+<tr>
+<td>dbus-libs</td>
+<td>Libraries for accessing D-BUS</td>
+</tr>
+<tr>
+<td>dbus-python</td>
+<td>D-Bus Python Bindings</td>
+</tr>
+<tr>
+<td>dbus</td>
+<td>D-BUS message bus</td>
+</tr>
+<tr>
+<td>dbus-x11</td>
+<td>X11-requiring add-ons for D-BUS</td>
+</tr>
+<tr>
+<td>dcraw</td>
+<td>A tool for decoding raw image data from digital cameras.</td>
+</tr>
+<tr>
+<td>dejavu-lgc-fonts</td>
+<td>DejaVu LGC Fonts</td>
+</tr>
+<tr>
+<td>Deployment_Guide-en-US</td>
+<td>Red Hat Enterprise Linux 5 &#8211; Beta</td>
+</tr>
+<tr>
+<td>desktop-backgrounds-basic</td>
+<td>Desktop background base set.</td>
+</tr>
+<tr>
+<td>desktop-file-utils</td>
+<td>Utilities for manipulating .desktop files</td>
+</tr>
+<tr>
+<td>dev86</td>
+<td>A real mode 80&#215;86 assembler and linker.</td>
+</tr>
+<tr>
+<td>device-mapper-event</td>
+<td>Device-mapper event daemon</td>
+</tr>
+<tr>
+<td>device-mapper-multipath</td>
+<td>Tools to manage multipath devices using device-mapper.</td>
+</tr>
+<tr>
+<td>device-mapper</td>
+<td>device mapper library</td>
+</tr>
+<tr>
+<td>dhclient</td>
+<td>Provides the dhclient ISC DHCP client daemon and dhclient-script .</td>
+</tr>
+<tr>
+<td>dhcpv6-client</td>
+<td>DHCPv6 client</td>
+</tr>
+<tr>
+<td>dialog</td>
+<td>A utility for creating TTY dialog boxes.</td>
+</tr>
+<tr>
+<td>diffstat</td>
+<td>A utility which provides statistics based on the output of diff.</td>
+</tr>
+<tr>
+<td>diffutils</td>
+<td>A GNU collection of diff utilities.</td>
+</tr>
+<tr>
+<td>dmidecode</td>
+<td>Tool to analyze BIOS DMI data.</td>
+</tr>
+<tr>
+<td>dmraid-events</td>
+<td>dmevent_tool (Device-mapper event tool) and DSO</td>
+</tr>
+<tr>
+<td>dmraid</td>
+<td>dmraid (Device-mapper RAID tool and library)</td>
+</tr>
+<tr>
+<td>dnsmasq</td>
+<td>A lightweight DHCP/caching DNS server</td>
+</tr>
+<tr>
+<td>docbook-dtds</td>
+<td>SGML and XML document type definitions for DocBook.</td>
+</tr>
+<tr>
+<td>dogtail</td>
+<td>GUI test tool and automation framework</td>
+</tr>
+<tr>
+<td>dos2unix</td>
+<td>Text file format converter</td>
+</tr>
+<tr>
+<td>dosfstools</td>
+<td>Utilities for making and checking MS-DOS FAT filesystems on Linux.</td>
+</tr>
+<tr>
+<td>doxygen</td>
+<td>A documentation system for C/C++.</td>
+</tr>
+<tr>
+<td>dump</td>
+<td>Programs for backing up and restoring ext2/ext3 filesystems</td>
+</tr>
+<tr>
+<td>e2fsprogs-devel</td>
+<td>Ext2/3 filesystem-specific static libraries and headers</td>
+</tr>
+<tr>
+<td>e2fsprogs-libs</td>
+<td>Ext2/3 filesystem-specific static libraries and headers</td>
+</tr>
+<tr>
+<td>e2fsprogs</td>
+<td>Utilities for managing the second and third extended (ext2/ext3)</td>
+</tr>
+<tr>
+<td>eclipse-ecj</td>
+<td>Eclipse Compiler for Java</td>
+</tr>
+<tr>
+<td>ed</td>
+<td>The GNU line editor.</td>
+</tr>
+<tr>
+<td>eject</td>
+<td>A program that ejects removable media using software control.</td>
+</tr>
+<tr>
+<td>elfutils-libelf-devel-static</td>
+<td>Static archive of libelf</td>
+</tr>
+<tr>
+<td>elfutils-libelf-devel</td>
+<td>Development support for libelf</td>
+</tr>
+<tr>
+<td>elfutils-libelf</td>
+<td>Library to read and write ELF files.</td>
+</tr>
+<tr>
+<td>elfutils-libs</td>
+<td>Libraries to handle compiled objects.</td>
+</tr>
+<tr>
+<td>elfutils</td>
+<td>A collection of utilities and DSOs to handle compiled objects.</td>
+</tr>
+<tr>
+<td>elinks</td>
+<td>A text-mode Web browser.</td>
+</tr>
+<tr>
+<td>emacs-common</td>
+<td>Emacs common files</td>
+</tr>
+<tr>
+<td>emacs-leim</td>
+<td>Emacs Lisp files for input methods for international characters.</td>
+</tr>
+<tr>
+<td>emacspeak</td>
+<td>emacspeak &#8212; The Complete Audio Desktop</td>
+</tr>
+<tr>
+<td>emacs</td>
+<td>GNU Emacs text editor</td>
+</tr>
+<tr>
+<td>enscript</td>
+<td>A plain ASCII to PostScript converter.</td>
+</tr>
+<tr>
+<td>esound-devel</td>
+<td>Development files for EsounD applications.</td>
+</tr>
+<tr>
+<td>esound</td>
+<td>Allows several audio streams to play on a single audio device.</td>
+</tr>
+<tr>
+<td>ethtool</td>
+<td>Ethernet settings tool for PCI ethernet cards</td>
+</tr>
+<tr>
+<td>expat-devel</td>
+<td>Libraries and include files to develop XML applications with expat.</td>
+</tr>
+<tr>
+<td>expat</td>
+<td>A library for parsing XML.</td>
+</tr>
+<tr>
+<td>fbset</td>
+<td>Tools for managing a frame buffer&#8217;s video mode properties.</td>
+</tr>
+<tr>
+<td>fetchmail</td>
+<td>A remote mail retrieval and forwarding utility.</td>
+</tr>
+<tr>
+<td>filesystem</td>
+<td>The basic directory layout for a Linux system.</td>
+</tr>
+<tr>
+<td>file</td>
+<td>A utility for determining file types.</td>
+</tr>
+<tr>
+<td>findutils</td>
+<td>The GNU versions of find utilities (find and xargs).</td>
+</tr>
+<tr>
+<td>finger</td>
+<td>The finger client.</td>
+</tr>
+<tr>
+<td>fipscheck-lib</td>
+<td>Library files for fipscheck</td>
+</tr>
+<tr>
+<td>fipscheck</td>
+<td>A library for integrity verification of FIPS validated modules</td>
+</tr>
+<tr>
+<td>firefox</td>
+<td>Mozilla Firefox Web browser.</td>
+</tr>
+<tr>
+<td>firstboot-tui</td>
+<td>A text interface for firstboot</td>
+</tr>
+<tr>
+<td>flac</td>
+<td>An encoder/decoder for the Free Lossless Audio Codec.</td>
+</tr>
+<tr>
+<td>flex</td>
+<td>A tool for creating scanners (text pattern recognizers).</td>
+</tr>
+<tr>
+<td>fontconfig-devel</td>
+<td>Font configuration and customization library</td>
+</tr>
+<tr>
+<td>fontconfig</td>
+<td>Font configuration and customization library</td>
+</tr>
+<tr>
+<td>foomatic</td>
+<td>Foomatic printer database.</td>
+</tr>
+<tr>
+<td>freeglut</td>
+<td>A freely licensed alternative to the GLUT library</td>
+</tr>
+<tr>
+<td>freetype-devel</td>
+<td>FreeType development libraries and header files</td>
+</tr>
+<tr>
+<td>freetype</td>
+<td>A free and portable font rendering engine</td>
+</tr>
+<tr>
+<td>ftp</td>
+<td>The standard UNIX FTP (File Transfer Protocol) client.</td>
+</tr>
+<tr>
+<td>gail</td>
+<td>Accessibility implementation for GTK+ and GNOME libraries</td>
+</tr>
+<tr>
+<td>gamin-python</td>
+<td>Python bindings for the gamin library</td>
+</tr>
+<tr>
+<td>gamin</td>
+<td>Library providing the FAM File Alteration Monitor API</td>
+</tr>
+<tr>
+<td>gawk</td>
+<td>The GNU version of the awk text processing utility.</td>
+</tr>
+<tr>
+<td>gcc-c++</td>
+<td>C++ support for GCC</td>
+</tr>
+<tr>
+<td>gcc-gfortran</td>
+<td>Fortran 95 support</td>
+</tr>
+<tr>
+<td>gcc-java</td>
+<td>Java support for GCC</td>
+</tr>
+<tr>
+<td>gcc</td>
+<td>Various compilers (C, C++, Objective-C, Java, &#8230;)</td>
+</tr>
+<tr>
+<td>GConf2-devel</td>
+<td>Headers and libraries for GConf development</td>
+</tr>
+<tr>
+<td>GConf2</td>
+<td>A process-transparent configuration system</td>
+</tr>
+<tr>
+<td>gdbm-devel</td>
+<td>Development libraries and header files for the gdbm library.</td>
+</tr>
+<tr>
+<td>gdbm</td>
+<td>A GNU set of database routines which use extensible hashing.</td>
+</tr>
+<tr>
+<td>gdb</td>
+<td>A GNU source-level debugger for C, C++, Java and other languages.</td>
+</tr>
+<tr>
+<td>gd-devel</td>
+<td>The development libraries and header files for gd</td>
+</tr>
+<tr>
+<td>gdm</td>
+<td>The GNOME Display Manager.</td>
+</tr>
+<tr>
+<td>gd</td>
+<td>A graphics library for quick creation of PNG or JPEG images</td>
+</tr>
+<tr>
+<td>gedit</td>
+<td>gEdit is a small but powerful text editor for GNOME</td>
+</tr>
+<tr>
+<td>gettext</td>
+<td>GNU libraries and utilities for producing multi-lingual messages.</td>
+</tr>
+<tr>
+<td>ghostscript-fonts</td>
+<td>Fonts for the Ghostscript PostScript(TM) interpreter.</td>
+</tr>
+<tr>
+<td>ghostscript</td>
+<td>A PostScript(TM) interpreter and renderer.</td>
+</tr>
+<tr>
+<td>giflib-devel</td>
+<td>Development tools for programs which will use the libungif library</td>
+</tr>
+<tr>
+<td>giflib</td>
+<td>Library for manipulating GIF format image files</td>
+</tr>
+<tr>
+<td>gjdoc</td>
+<td>GNU Javadoc</td>
+</tr>
+<tr>
+<td>glib2-devel</td>
+<td>The GIMP ToolKit (GTK+) and GIMP Drawing Kit (GDK) support library</td>
+</tr>
+<tr>
+<td>glib2</td>
+<td>A library of handy utility functions</td>
+</tr>
+<tr>
+<td>glibc-common</td>
+<td>Common binaries and locale data for glibc</td>
+</tr>
+<tr>
+<td>glibc-devel</td>
+<td>Object files for development using standard C libraries.</td>
+</tr>
+<tr>
+<td>glibc-headers</td>
+<td>Header files for development using standard C libraries.</td>
+</tr>
+<tr>
+<td>glibc</td>
+<td>The GNU libc libraries.</td>
+</tr>
+<tr>
+<td>glx-utils</td>
+<td>GLX utilities</td>
+</tr>
+<tr>
+<td>gmp-devel</td>
+<td>Development tools for the GNU MP arbitrary precision library.</td>
+</tr>
+<tr>
+<td>gmp</td>
+<td>A GNU arbitrary precision library.</td>
+</tr>
+<tr>
+<td>gnome-doc-utils</td>
+<td>Documentation utilities for the GNOME project</td>
+</tr>
+<tr>
+<td>gnome-icon-theme</td>
+<td>Base gnome icons</td>
+</tr>
+<tr>
+<td>gnome-keyring-devel</td>
+<td>The files needed for gnome-keyring application development</td>
+</tr>
+<tr>
+<td>gnome-keyring</td>
+<td>A framework for managing user passwords and other secrets</td>
+</tr>
+<tr>
+<td>gnome-menus</td>
+<td>A menu system for the GNOME project</td>
+</tr>
+<tr>
+<td>gnome-mime-data</td>
+<td>MIME type data files for GNOME desktop</td>
+</tr>
+<tr>
+<td>gnome-mount</td>
+<td>Mount replacement which uses HAL to do the mounting</td>
+</tr>
+<tr>
+<td>gnome-python2-bonobo</td>
+<td>Python bindings for interacting with bonobo.</td>
+</tr>
+<tr>
+<td>gnome-python2-canvas</td>
+<td>Python bindings for the GNOME Canvas.</td>
+</tr>
+<tr>
+<td>gnome-python2-desktop</td>
+<td>The sources for additional PyGNOME Python extension modules for the</td>
+</tr>
+<tr>
+<td>gnome-python2-gconf</td>
+<td>Python bindings for interacting with GConf</td>
+</tr>
+<tr>
+<td>gnome-python2-gnomeprint</td>
+<td>Python bindings for interacting with libgnomeprint</td>
+</tr>
+<tr>
+<td>gnome-python2-gnomevfs</td>
+<td>Python bindings for interacting with gnome-vfs</td>
+</tr>
+<tr>
+<td>gnome-python2-gtksourceview</td>
+<td>Python bindings for interacting with the gtksourceview library</td>
+</tr>
+<tr>
+<td>gnome-python2</td>
+<td>The sources for the PyGNOME Python extension module</td>
+</tr>
+<tr>
+<td>gnome-speech</td>
+<td>GNOME Text to Speech</td>
+</tr>
+<tr>
+<td>gnome-vfs2-devel</td>
+<td>Libraries and include files for developing GNOME VFS applications</td>
+</tr>
+<tr>
+<td>gnome-vfs2</td>
+<td>The GNOME virtual file-system libraries</td>
+</tr>
+<tr>
+<td>gnupg</td>
+<td>A GNU utility for secure communication and data storage.</td>
+</tr>
+<tr>
+<td>gnuplot</td>
+<td>A program for plotting mathematical expressions and data.</td>
+</tr>
+<tr>
+<td>gnutls</td>
+<td>A TLS protocol implementation.</td>
+</tr>
+<tr>
+<td>gphoto2</td>
+<td>Software for accessing digital cameras</td>
+</tr>
+<tr>
+<td>gpm-devel</td>
+<td>A mouse server for the Linux console.</td>
+</tr>
+<tr>
+<td>gpm</td>
+<td>A mouse server for the Linux console.</td>
+</tr>
+<tr>
+<td>grep</td>
+<td>The GNU versions of grep pattern matching utilities.</td>
+</tr>
+<tr>
+<td>groff</td>
+<td>A document formatting system.</td>
+</tr>
+<tr>
+<td>grub</td>
+<td>GRUB &#8211; the Grand Unified Boot Loader.</td>
+</tr>
+<tr>
+<td>gstreamer</td>
+<td>GStreamer streaming media framework runtime</td>
+</tr>
+<tr>
+<td>gstreamer-tools</td>
+<td>common tools and files for GStreamer streaming media framework</td>
+</tr>
+<tr>
+<td>gtk2-devel</td>
+<td>Development tools for GTK+ applications</td>
+</tr>
+<tr>
+<td>gtk2-engines</td>
+<td>Theme engines for GTK+ 2.0</td>
+</tr>
+<tr>
+<td>gtk2</td>
+<td>The GIMP ToolKit (GTK+), a library for creating GUIs for X</td>
+</tr>
+<tr>
+<td>gtksourceview</td>
+<td>A library for viewing source files</td>
+</tr>
+<tr>
+<td>gzip</td>
+<td>The GNU data compression program.</td>
+</tr>
+<tr>
+<td>hal-cups-utils</td>
+<td>Halified CUPS utilities</td>
+</tr>
+<tr>
+<td>hal-devel</td>
+<td>Libraries and headers for HAL</td>
+</tr>
+<tr>
+<td>hal</td>
+<td>Hardware Abstraction Layer</td>
+</tr>
+<tr>
+<td>hdparm</td>
+<td>A utility for displaying and/or setting hard disk parameters.</td>
+</tr>
+<tr>
+<td>hesiod-devel</td>
+<td>Development libraries and headers for Hesiod</td>
+</tr>
+<tr>
+<td>hesiod</td>
+<td>Hesiod libraries.</td>
+</tr>
+<tr>
+<td>hicolor-icon-theme</td>
+<td>Basic requirement for icon themes</td>
+</tr>
+<tr>
+<td>hmaccalc</td>
+<td>Tools for computing and checking HMAC values for files</td>
+</tr>
+<tr>
+<td>hpijs</td>
+<td>HP Printer Drivers</td>
+</tr>
+<tr>
+<td>hplip</td>
+<td>HP Linux Imaging and Printing Project</td>
+</tr>
+<tr>
+<td>htmlview</td>
+<td>Tools for launching Preferred Applications</td>
+</tr>
+<tr>
+<td>hwdata</td>
+<td>Hardware identification and configuration data</td>
+</tr>
+<tr>
+<td>ifd-egate</td>
+<td>Axalto Egate SmartCard device driver for PCSC-lite</td>
+</tr>
+<tr>
+<td>imake</td>
+<td>imake source code configuration and build system</td>
+</tr>
+<tr>
+<td>indent</td>
+<td>A GNU program for formatting C code.</td>
+</tr>
+<tr>
+<td>info</td>
+<td>A stand-alone TTY-based reader for GNU texinfo documentation.</td>
+</tr>
+<tr>
+<td>initscripts</td>
+<td>The inittab file and the /etc/init.d scripts.</td>
+</tr>
+<tr>
+<td>Internationalized Domain Name support library</td>
+<td>Internationalized Domain Name support library</td>
+</tr>
+<tr>
+<td>iproute</td>
+<td>Advanced IP routing and network device configuration tools.</td>
+</tr>
+<tr>
+<td>ipsec-tools</td>
+<td>Tools for configuring and using IPSEC</td>
+</tr>
+<tr>
+<td>iptables-ipv6</td>
+<td>IPv6 support for iptables.</td>
+</tr>
+<tr>
+<td>iptables</td>
+<td>Tools for managing Linux kernel packet filtering capabilities.</td>
+</tr>
+<tr>
+<td>iptstate</td>
+<td>A top-like display of IP Tables state table entries</td>
+</tr>
+<tr>
+<td>iputils</td>
+<td>Network monitoring tools including ping.</td>
+</tr>
+<tr>
+<td>irda-utils</td>
+<td>Utilities for infrared communication between devices.</td>
+</tr>
+<tr>
+<td>irqbalance</td>
+<td>IRQ balancing daemon.</td>
+</tr>
+<tr>
+<td>iscsi-initiator-utils</td>
+<td>iSCSI daemon and utility programs</td>
+</tr>
+<tr>
+<td>isdn4k-utils</td>
+<td>Utilities for configuring an ISDN subsystem.</td>
+</tr>
+<tr>
+<td>jakarta-commons-codec</td>
+<td>Jakarta Commons Codec Package</td>
+</tr>
+<tr>
+<td>jakarta-commons-httpclient</td>
+<td>Jakarta Commons HTTPClient Package</td>
+</tr>
+<tr>
+<td>jakarta-commons-logging</td>
+<td>Jakarta Commons Logging Package</td>
+</tr>
+<tr>
+<td>java-1.4.2-gcj-compat-devel</td>
+<td>JPackage development scripts for GCJ</td>
+</tr>
+<tr>
+<td>java-1.4.2-gcj-compat-src</td>
+<td>Source files for libgcj</td>
+</tr>
+<tr>
+<td>java-1.4.2-gcj-compat</td>
+<td>JPackage runtime scripts for GCJ</td>
+</tr>
+<tr>
+<td>java-1.6.0-openjdk-devel</td>
+<td>OpenJDK Development Environment</td>
+</tr>
+<tr>
+<td>java-1.6.0-openjdk</td>
+<td>OpenJDK Runtime Environment</td>
+</tr>
+<tr>
+<td>jpackage-utils</td>
+<td>JPackage utilities</td>
+</tr>
+<tr>
+<td>junit</td>
+<td>Java regression test package</td>
+</tr>
+<tr>
+<td>jwhois</td>
+<td>Internet whois/nicname client.</td>
+</tr>
+<tr>
+<td>kbd</td>
+<td>Tools for configuring the console (keyboard, virtual terminals,</td>
+</tr>
+<tr>
+<td>kernel-devel</td>
+<td>Development package for building kernel modules to match the</td>
+</tr>
+<tr>
+<td>kernel-headers</td>
+<td>Header files for the Linux kernel for use by glibc</td>
+</tr>
+<tr>
+<td>kernel</td>
+<td>The Linux kernel (the core of the Linux operating system)</td>
+</tr>
+<tr>
+<td>kexec-tools</td>
+<td>The kexec/kdump userspace component.</td>
+</tr>
+<tr>
+<td>keyutils-libs-devel</td>
+<td>Development package for building linux key management utilities</td>
+</tr>
+<tr>
+<td>keyutils-libs</td>
+<td>Key utilities library</td>
+</tr>
+<tr>
+<td>kpartx</td>
+<td>Partition device manager for device-mapper devices.</td>
+</tr>
+<tr>
+<td>krb5-auth-dialog</td>
+<td>Kerberos 5 authentication dialog</td>
+</tr>
+<tr>
+<td>krb5-devel</td>
+<td>Development files needed to compile Kerberos 5 programs.</td>
+</tr>
+<tr>
+<td>krb5-libs</td>
+<td>The shared libraries used by Kerberos 5.</td>
+</tr>
+<tr>
+<td>krb5-workstation</td>
+<td>Kerberos 5 programs for use on workstations.</td>
+</tr>
+<tr>
+<td>ksh</td>
+<td>The Original ATT Korn Shell</td>
+</tr>
+<tr>
+<td>kudzu-devel</td>
+<td>Development files needed for hardware probing using kudzu.</td>
+</tr>
+<tr>
+<td>kudzu</td>
+<td>The Red Hat Linux hardware probing tool.</td>
+</tr>
+<tr>
+<td>lcms</td>
+<td>Color Management System</td>
+</tr>
+<tr>
+<td>less</td>
+<td>A text file browser similar to more, but better.</td>
+</tr>
+<tr>
+<td>lftp</td>
+<td>A sophisticated file transfer program</td>
+</tr>
+<tr>
+<td>libacl-devel</td>
+<td>Access control list static libraries and headers.</td>
+</tr>
+<tr>
+<td>libacl</td>
+<td>Dynamic library for access control list support.</td>
+</tr>
+<tr>
+<td>libaio</td>
+<td>Linux-native asynchronous I/O access library</td>
+</tr>
+<tr>
+<td>libao</td>
+<td>Cross Platform Audio Output Library.</td>
+</tr>
+<tr>
+<td>libart_lgpl-devel</td>
+<td>Libraries and headers for libart_lgpl</td>
+</tr>
+<tr>
+<td>libart_lgpl</td>
+<td>Library of graphics routines used by libgnomecanvas</td>
+</tr>
+<tr>
+<td>libattr-devel</td>
+<td>Extended attribute static libraries and headers.</td>
+</tr>
+<tr>
+<td>libattr</td>
+<td>Dynamic library for extended attribute support.</td>
+</tr>
+<tr>
+<td>libavc1394</td>
+<td>Audio/Video Control library for IEEE-1394 devices</td>
+</tr>
+<tr>
+<td>libbonobo-devel</td>
+<td>Libraries and headers for libbonobo</td>
+</tr>
+<tr>
+<td>libbonobo</td>
+<td>Bonobo component system</td>
+</tr>
+<tr>
+<td>libbonoboui-devel</td>
+<td>Libraries and headers for libbonoboui</td>
+</tr>
+<tr>
+<td>libbonoboui</td>
+<td>Bonobo user interface components</td>
+</tr>
+<tr>
+<td>libcap-devel</td>
+<td>Development files for libcap</td>
+</tr>
+<tr>
+<td>libcap</td>
+<td>Library for getting and setting POSIX.1e capabilities</td>
+</tr>
+<tr>
+<td>libcroco</td>
+<td>A CSS2 parsing library</td>
+</tr>
+<tr>
+<td>libdaemon</td>
+<td>library for writing UNIX daemons</td>
+</tr>
+<tr>
+<td>libdmx</td>
+<td>X.Org X11 libdmx runtime library</td>
+</tr>
+<tr>
+<td>libdrm-devel</td>
+<td>libdrm-devel</td>
+</tr>
+<tr>
+<td>libdrm</td>
+<td>libdrm Direct Rendering Manager runtime library</td>
+</tr>
+<tr>
+<td>libdv</td>
+<td>Software decoder for DV format video</td>
+</tr>
+<tr>
+<td>liberation-fonts</td>
+<td>Fonts to replace commonly used Microsoft Windows Fonts</td>
+</tr>
+<tr>
+<td>libevent</td>
+<td>Abstract asynchronous event notification library</td>
+</tr>
+<tr>
+<td>libexif</td>
+<td>Library for extracting extra information from image files</td>
+</tr>
+<tr>
+<td>libfontenc-devel</td>
+<td>X.Org X11 libfontenc development package</td>
+</tr>
+<tr>
+<td>libfontenc</td>
+<td>X.Org X11 libfontenc runtime library</td>
+</tr>
+<tr>
+<td>libFS</td>
+<td>X.Org X11 libFS runtime library</td>
+</tr>
+<tr>
+<td>libgcc</td>
+<td>GCC version 4.1 shared support library</td>
+</tr>
+<tr>
+<td>libgcj-devel</td>
+<td>Libraries for Java development using GCC</td>
+</tr>
+<tr>
+<td>libgcj-src</td>
+<td>Java library sources from GCC4 preview</td>
+</tr>
+<tr>
+<td>libgcj</td>
+<td>Java runtime library for gcc</td>
+</tr>
+<tr>
+<td>libgcrypt-devel</td>
+<td>Development files for the libgcrypt package.</td>
+</tr>
+<tr>
+<td>libgcrypt</td>
+<td>A general-purpose cryptography library.</td>
+</tr>
+<tr>
+<td>libgfortran</td>
+<td>Fortran 95 runtime</td>
+</tr>
+<tr>
+<td>libglade2-devel</td>
+<td>The files needed for libglade application development.</td>
+</tr>
+<tr>
+<td>libglade2</td>
+<td>The libglade library for loading user interfaces.</td>
+</tr>
+<tr>
+<td>libgnomecanvas-devel</td>
+<td>Libraries and headers for libgnomecanvas</td>
+</tr>
+<tr>
+<td>libgnomecanvas</td>
+<td>GnomeCanvas widget</td>
+</tr>
+<tr>
+<td>libgnomecups</td>
+<td>GNOME library for CUPS integration</td>
+</tr>
+<tr>
+<td>libgnome-devel</td>
+<td>Libraries and headers for libgnome</td>
+</tr>
+<tr>
+<td>libgnomeprint22</td>
+<td>Printing library for GNOME.</td>
+</tr>
+<tr>
+<td>libgnomeprintui22</td>
+<td>GUI support for libgnomeprint</td>
+</tr>
+<tr>
+<td>libgnome</td>
+<td>GNOME base library</td>
+</tr>
+<tr>
+<td>libgnomeui-devel</td>
+<td>Libraries and headers for libgnome</td>
+</tr>
+<tr>
+<td>libgnomeui</td>
+<td>GNOME base GUI library</td>
+</tr>
+<tr>
+<td>libgomp</td>
+<td>GCC OpenMP 2.5 shared support library</td>
+</tr>
+<tr>
+<td>libgpg-error-devel</td>
+<td>Development files for the libgpg-error package</td>
+</tr>
+<tr>
+<td>libgpg-error</td>
+<td>libgpg-error</td>
+</tr>
+<tr>
+<td>libgsf</td>
+<td>GNOME Structured File library</td>
+</tr>
+<tr>
+<td>libgssapi</td>
+<td>Generic Security Services Application Programming Interface Library</td>
+</tr>
+<tr>
+<td>libgtop2</td>
+<td>libgtop library (version 2)</td>
+</tr>
+<tr>
+<td>libhugetlbfs</td>
+<td>Library to access the Huge TLB Filesystem</td>
+</tr>
+<tr>
+<td>libICE-devel</td>
+<td>X.Org X11 libICE development package</td>
+</tr>
+<tr>
+<td>libICE</td>
+<td>X.Org X11 libICE runtime library</td>
+</tr>
+<tr>
+<td>libicu</td>
+<td>International Components for Unicode &#8211; libraries</td>
+</tr>
+<tr>
+<td>libIDL-devel</td>
+<td>Development libraries and header files for libIDL</td>
+</tr>
+<tr>
+<td>libIDL</td>
+<td>Library for parsing IDL (Interface Definition Language)</td>
+</tr>
+<tr>
+<td>libidn-devel</td>
+<td>Development files for the libidn library</td>
+</tr>
+<tr>
+<td>libiec61883</td>
+<td>Streaming library for IEEE1394</td>
+</tr>
+<tr>
+<td>libieee1284</td>
+<td>A library for interfacing IEEE 1284-compatible devices.</td>
+</tr>
+<tr>
+<td>libjpeg-devel</td>
+<td>Development tools for programs which will use the libjpeg library.</td>
+</tr>
+<tr>
+<td>libjpeg</td>
+<td>A library for manipulating JPEG image format files.</td>
+</tr>
+<tr>
+<td>libmng-devel</td>
+<td>Development files for the Multiple-image Network Graphics library</td>
+</tr>
+<tr>
+<td>libmng</td>
+<td>Library for Multiple-image Network Graphics support</td>
+</tr>
+<tr>
+<td>libmusicbrainz</td>
+<td>Library for accessing MusicBrainz servers</td>
+</tr>
+<tr>
+<td>libnotify-devel</td>
+<td>Files for development using libnotify</td>
+</tr>
+<tr>
+<td>libnotify</td>
+<td>libnotify notification library</td>
+</tr>
+<tr>
+<td>libogg-devel</td>
+<td>Files needed for development using libogg.</td>
+</tr>
+<tr>
+<td>libogg</td>
+<td>The Ogg bitstream file format library.</td>
+</tr>
+<tr>
+<td>liboil</td>
+<td>Library of Optimized Inner Loops, CPU optimized functions</td>
+</tr>
+<tr>
+<td>libpcap</td>
+<td>A system-independent interface for user-level packet capture.</td>
+</tr>
+<tr>
+<td>libpng-devel</td>
+<td>Development tools for programs to manipulate PNG image format</td>
+</tr>
+<tr>
+<td>libpng</td>
+<td>A library of functions for manipulating PNG image format files</td>
+</tr>
+<tr>
+<td>libraw1394</td>
+<td>Library providing low-level IEEE-1394 access</td>
+</tr>
+<tr>
+<td>librsvg2</td>
+<td>An SVG library based on cairo</td>
+</tr>
+<tr>
+<td>libsane-hpaio</td>
+<td>SANE driver for scanners in HP&#8217;s multi-function devices</td>
+</tr>
+<tr>
+<td>libselinux-devel</td>
+<td>Header files and libraries used to build SELinux</td>
+</tr>
+<tr>
+<td>libselinux-python</td>
+<td>python bindings for libselinux</td>
+</tr>
+<tr>
+<td>libselinux</td>
+<td>SELinux library and simple utilities</td>
+</tr>
+<tr>
+<td>libselinux-utils</td>
+<td>SELinux libselinux utilities</td>
+</tr>
+<tr>
+<td>libsemanage</td>
+<td>SELinux binary policy manipulation library</td>
+</tr>
+<tr>
+<td>libsepol-devel</td>
+<td>Header files and libraries used to build policy manipulation tools</td>
+</tr>
+<tr>
+<td>libsepol</td>
+<td>SELinux binary policy manipulation library</td>
+</tr>
+<tr>
+<td>libsmbclient</td>
+<td>The SMB client library</td>
+</tr>
+<tr>
+<td>libSM-devel</td>
+<td>X.Org X11 libSM development package</td>
+</tr>
+<tr>
+<td>libSM</td>
+<td>X.Org X11 libSM runtime library</td>
+</tr>
+<tr>
+<td>libsoup</td>
+<td>Soup, an HTTP library implementation</td>
+</tr>
+<tr>
+<td>libstdc++-devel</td>
+<td>Header files and libraries for C++ development</td>
+</tr>
+<tr>
+<td>libstdc++</td>
+<td>GNU Standard C++ Library</td>
+</tr>
+<tr>
+<td>libsysfs</td>
+<td>Shared library for interfacing with sysfs</td>
+</tr>
+<tr>
+<td>libtermcap-devel</td>
+<td>Development tools for programs which will access the termcap</td>
+</tr>
+<tr>
+<td>libtermcap</td>
+<td>A basic system library for accessing the termcap database.</td>
+</tr>
+<tr>
+<td>libtheora</td>
+<td>Theora Video Compression Codec</td>
+</tr>
+<tr>
+<td>libtiff-devel</td>
+<td>Development tools for programs which will use the libtiff library</td>
+</tr>
+<tr>
+<td>libtiff</td>
+<td>Library of functions for manipulating TIFF format image files</td>
+</tr>
+<tr>
+<td>libtool</td>
+<td>The GNU Portable Library Tool</td>
+</tr>
+<tr>
+<td>libusb-devel</td>
+<td>Development files for libusb.</td>
+</tr>
+<tr>
+<td>libusb</td>
+<td>A library which allows userspace access to USB devices.</td>
+</tr>
+<tr>
+<td>libuser-devel</td>
+<td>Files needed for developing applications which use libuser.</td>
+</tr>
+<tr>
+<td>libuser</td>
+<td>A user and group account administration library.</td>
+</tr>
+<tr>
+<td>libutempter</td>
+<td>A privileged helper for utmp/wtmp updates</td>
+</tr>
+<tr>
+<td>libvolume_id</td>
+<td>Dynamic libraries to get volume ids</td>
+</tr>
+<tr>
+<td>libvorbis-devel</td>
+<td>Development tools for Vorbis applications.</td>
+</tr>
+<tr>
+<td>libvorbis</td>
+<td>The Vorbis General Audio Compression Codec.</td>
+</tr>
+<tr>
+<td>libwmf</td>
+<td>Windows Metafile Library</td>
+</tr>
+<tr>
+<td>libwnck</td>
+<td>Window Navigator Construction Kit</td>
+</tr>
+<tr>
+<td>libwvstreams</td>
+<td>WvStreams is a network programming library written in C++.</td>
+</tr>
+<tr>
+<td>libX11-devel</td>
+<td>X.Org X11 libX11 development package</td>
+</tr>
+<tr>
+<td>libX11</td>
+<td>X.Org X11 libX11 runtime library</td>
+</tr>
+<tr>
+<td>libXau-devel</td>
+<td>X.Org X11 libXau development package</td>
+</tr>
+<tr>
+<td>libXau</td>
+<td>X.Org X11 libXau runtime library</td>
+</tr>
+<tr>
+<td>libXaw-devel</td>
+<td>X.Org X11 libXaw development package</td>
+</tr>
+<tr>
+<td>libXaw</td>
+<td>X.Org X11 libXaw runtime library</td>
+</tr>
+<tr>
+<td>libXcomposite-devel</td>
+<td>X.Org X11 libXcomposite development package</td>
+</tr>
+<tr>
+<td>libXcomposite</td>
+<td>X.Org X11 libXcomposite runtime library</td>
+</tr>
+<tr>
+<td>libXcursor-devel</td>
+<td>X.Org X11 libXcursor development package</td>
+</tr>
+<tr>
+<td>libXcursor</td>
+<td>X.Org X11 libXcursor runtime library</td>
+</tr>
+<tr>
+<td>libXdamage-devel</td>
+<td>X.Org X11 libXdamage development package</td>
+</tr>
+<tr>
+<td>libXdamage</td>
+<td>X.Org X11 libXdamage runtime library</td>
+</tr>
+<tr>
+<td>libXdmcp-devel</td>
+<td>X.Org X11 libXdmcp development package</td>
+</tr>
+<tr>
+<td>libXdmcp</td>
+<td>X.Org X11 libXdmcp runtime library</td>
+</tr>
+<tr>
+<td>libXevie-devel</td>
+<td>X.Org X11 libXevie development package</td>
+</tr>
+<tr>
+<td>libXevie</td>
+<td>X.Org X11 libXevie runtime library</td>
+</tr>
+<tr>
+<td>libXext-devel</td>
+<td>X.Org X11 libXext development package</td>
+</tr>
+<tr>
+<td>libXext</td>
+<td>X.Org X11 libXext runtime library</td>
+</tr>
+<tr>
+<td>libXfixes-devel</td>
+<td>X.Org X11 libXfixes development package</td>
+</tr>
+<tr>
+<td>libXfixes</td>
+<td>X.Org X11 libXfixes runtime library</td>
+</tr>
+<tr>
+<td>libXfontcache-devel</td>
+<td>X.Org X11 libXfontcache development package</td>
+</tr>
+<tr>
+<td>libXfontcache</td>
+<td>X.Org X11 libXfontcache runtime library</td>
+</tr>
+<tr>
+<td>libXfont-devel</td>
+<td>X.Org X11 libXfont development package</td>
+</tr>
+<tr>
+<td>libXfont</td>
+<td>X.Org X11 libXfont runtime library</td>
+</tr>
+<tr>
+<td>libXft-devel</td>
+<td>X.Org X11 libXft development package</td>
+</tr>
+<tr>
+<td>libXft</td>
+<td>X.Org X11 libXft runtime library</td>
+</tr>
+<tr>
+<td>libXi-devel</td>
+<td>X.Org X11 libXi development package</td>
+</tr>
+<tr>
+<td>libXinerama-devel</td>
+<td>X.Org X11 libXinerama development package</td>
+</tr>
+<tr>
+<td>libXinerama</td>
+<td>X.Org X11 libXinerama runtime library</td>
+</tr>
+<tr>
+<td>libXi</td>
+<td>X.Org X11 libXi runtime library</td>
+</tr>
+<tr>
+<td>libxkbfile</td>
+<td>X.Org X11 libxkbfile runtime library</td>
+</tr>
+<tr>
+<td>libxklavier</td>
+<td>library providing high-level API for X Keyboard Extension</td>
+</tr>
+<tr>
+<td>libxml2-devel</td>
+<td>Libraries, includes, etc. to develop XML and HTML applications</td>
+</tr>
+<tr>
+<td>libxml2-python</td>
+<td>Python bindings for the libxml2 library</td>
+</tr>
+<tr>
+<td>libxml2</td>
+<td>Library providing XML and HTML support</td>
+</tr>
+<tr>
+<td>libXmu-devel</td>
+<td>X.Org X11 libXmu development package</td>
+</tr>
+<tr>
+<td>libXmu</td>
+<td>X.Org X11 libXmu/libXmuu runtime libraries</td>
+</tr>
+<tr>
+<td>libXpm-devel</td>
+<td>X.Org X11 libXpm development package</td>
+</tr>
+<tr>
+<td>libXpm</td>
+<td>X.Org X11 libXpm runtime library</td>
+</tr>
+<tr>
+<td>libXrandr-devel</td>
+<td>X.Org X11 libXrandr development package</td>
+</tr>
+<tr>
+<td>libXrandr</td>
+<td>X.Org X11 libXrandr runtime library</td>
+</tr>
+<tr>
+<td>libXrender-devel</td>
+<td>X.Org X11 libXrender development package</td>
+</tr>
+<tr>
+<td>libXrender</td>
+<td>X.Org X11 libXrender runtime library</td>
+</tr>
+<tr>
+<td>libXres-devel</td>
+<td>X.Org X11 libXres development package</td>
+</tr>
+<tr>
+<td>libXres</td>
+<td>X.Org X11 libXres runtime library</td>
+</tr>
+<tr>
+<td>libXScrnSaver-devel</td>
+<td>X.Org X11 libXScrnSaver development package</td>
+</tr>
+<tr>
+<td>libXScrnSaver</td>
+<td>X.Org X11 libXss runtime library</td>
+</tr>
+<tr>
+<td>libxslt-devel</td>
+<td>Libraries, includes, etc. to embed the Gnome XSLT engine</td>
+</tr>
+<tr>
+<td>libxslt</td>
+<td>Library providing the Gnome XSLT engine</td>
+</tr>
+<tr>
+<td>libXt-devel</td>
+<td>X.Org X11 libXt development package</td>
+</tr>
+<tr>
+<td>libXTrap-devel</td>
+<td>X.Org X11 libXTrap development package</td>
+</tr>
+<tr>
+<td>libXTrap</td>
+<td>X.Org X11 libXTrap runtime library</td>
+</tr>
+<tr>
+<td>libXtst-devel</td>
+<td>X.Org X11 libXtst development package</td>
+</tr>
+<tr>
+<td>libXtst</td>
+<td>X.Org X11 libXtst runtime library</td>
+</tr>
+<tr>
+<td>libXt</td>
+<td>X.Org X11 libXt runtime library</td>
+</tr>
+<tr>
+<td>libXv-devel</td>
+<td>X.Org X11 libXv development package</td>
+</tr>
+<tr>
+<td>libXvMC-devel</td>
+<td>X.Org X11 libXvMC development package</td>
+</tr>
+<tr>
+<td>libXvMC</td>
+<td>X.Org X11 libXvMC runtime library</td>
+</tr>
+<tr>
+<td>libXv</td>
+<td>X.Org X11 libXv runtime library</td>
+</tr>
+<tr>
+<td>libXxf86dga-devel</td>
+<td>X.Org X11 libXxf86dga development package</td>
+</tr>
+<tr>
+<td>libXxf86dga</td>
+<td>X.Org X11 libXxf86dga runtime library</td>
+</tr>
+<tr>
+<td>libXxf86misc-devel</td>
+<td>X.Org X11 libXxf86misc development package</td>
+</tr>
+<tr>
+<td>libXxf86misc</td>
+<td>X.Org X11 libXxf86misc runtime library</td>
+</tr>
+<tr>
+<td>libXxf86vm-devel</td>
+<td>X.Org X11 libXxf86vm development package</td>
+</tr>
+<tr>
+<td>libXxf86vm</td>
+<td>X.Org X11 libXxf86vm runtime library</td>
+</tr>
+<tr>
+<td>linuxwacom</td>
+<td>Wacom Drivers from Linux Wacom Project</td>
+</tr>
+<tr>
+<td>lockdev-devel</td>
+<td>The header files and a static library for the lockdev library.</td>
+</tr>
+<tr>
+<td>lockdev</td>
+<td>A library for locking devices.</td>
+</tr>
+<tr>
+<td>log4cpp</td>
+<td>C++ logging library</td>
+</tr>
+<tr>
+<td>logrotate</td>
+<td>Rotates, compresses, removes and mails system log files.</td>
+</tr>
+<tr>
+<td>logwatch</td>
+<td>A log file analysis program.</td>
+</tr>
+<tr>
+<td>lrzsz</td>
+<td>The lrz and lsz modem communications programs.</td>
+</tr>
+<tr>
+<td>lsof</td>
+<td>A utility which lists open files on a Linux/UNIX system.</td>
+</tr>
+<tr>
+<td>ltrace</td>
+<td>Tracks runtime library calls from dynamically linked executables.</td>
+</tr>
+<tr>
+<td>lvm2</td>
+<td>Userland logical volume management tools</td>
+</tr>
+<tr>
+<td>m2crypto</td>
+<td>Support for using OpenSSL in python scripts</td>
+</tr>
+<tr>
+<td>m4</td>
+<td>The GNU macro processor.</td>
+</tr>
+<tr>
+<td>mailcap</td>
+<td>Associates helper applications with particular file types.</td>
+</tr>
+<tr>
+<td>mailx</td>
+<td>The /bin/mail program for sending e-mail messages.</td>
+</tr>
+<tr>
+<td>MAKEDEV</td>
+<td>A program used for creating device files in /dev.</td>
+</tr>
+<tr>
+<td>make</td>
+<td>A GNU tool which simplifies the build process for users.</td>
+</tr>
+<tr>
+<td>man-pages</td>
+<td>Man (manual) pages from the Linux Documentation Project.</td>
+</tr>
+<tr>
+<td>man</td>
+<td>A set of documentation tools</td>
+</tr>
+<tr>
+<td>mcelog</td>
+<td>Tool to translate x86-64 CPU Machine Check Exception data.</td>
+</tr>
+<tr>
+<td>mcstrans</td>
+<td>SELinux Translation Daemon</td>
+</tr>
+<tr>
+<td>mdadm</td>
+<td>mdadm controls Linux md devices (software RAID arrays)</td>
+</tr>
+<tr>
+<td>mesa-libGL-devel</td>
+<td>Mesa libGL development package</td>
+</tr>
+<tr>
+<td>mesa-libGL</td>
+<td>Mesa libGL runtime libraries and DRI drivers</td>
+</tr>
+<tr>
+<td>mesa-libGLU-devel</td>
+<td>Mesa libGLU development package</td>
+</tr>
+<tr>
+<td>mesa-libGLU</td>
+<td>Mesa libGLU runtime library</td>
+</tr>
+<tr>
+<td>metacity</td>
+<td>Metacity window manager</td>
+</tr>
+<tr>
+<td>mgetty</td>
+<td>A getty replacement for use with data and fax modems.</td>
+</tr>
+<tr>
+<td>microcode_ctl</td>
+<td>Tool to update x86/x86-64 CPU microcode.</td>
+</tr>
+<tr>
+<td>mingetty</td>
+<td>A compact getty program for virtual consoles only.</td>
+</tr>
+<tr>
+<td>minicom</td>
+<td>A text-based modem control and terminal emulation program.</td>
+</tr>
+<tr>
+<td>mkbootdisk</td>
+<td>Creates a boot floppy disk for booting a system.</td>
+</tr>
+<tr>
+<td>mkinitrd</td>
+<td>Creates an initial ramdisk image for preloading modules.</td>
+</tr>
+<tr>
+<td>mktemp</td>
+<td>A small utility for safely making /tmp files.</td>
+</tr>
+<tr>
+<td>mlocate</td>
+<td>An utility for finding files by name</td>
+</tr>
+<tr>
+<td>module-init-tools</td>
+<td>Kernel module management utilities.</td>
+</tr>
+<tr>
+<td>mozldap</td>
+<td>Mozilla LDAP C SDK</td>
+</tr>
+<tr>
+<td>mtools</td>
+<td>Programs for accessing MS-DOS disks without mounting the disks.</td>
+</tr>
+<tr>
+<td>mtr</td>
+<td>A network diagnostic tool.</td>
+</tr>
+<tr>
+<td>mutt</td>
+<td>A text mode mail user agent.</td>
+</tr>
+<tr>
+<td>nano</td>
+<td>A small text editor</td>
+</tr>
+<tr>
+<td>nash</td>
+<td>nash shell</td>
+</tr>
+<tr>
+<td>nc</td>
+<td>Reads and writes data across network connections using TCP or UDP.</td>
+</tr>
+<tr>
+<td>ncurses-devel</td>
+<td>Development files for the ncurses library</td>
+</tr>
+<tr>
+<td>ncurses</td>
+<td>A terminal handling library</td>
+</tr>
+<tr>
+<td>neon</td>
+<td>An HTTP and WebDAV client library</td>
+</tr>
+<tr>
+<td>netpbm-devel</td>
+<td>Development tools for programs which will use the netpbm libraries.</td>
+</tr>
+<tr>
+<td>netpbm-progs</td>
+<td>Tools for manipulating graphics files in netpbm supported formats.</td>
+</tr>
+<tr>
+<td>netpbm</td>
+<td>A library for handling different graphics file formats.</td>
+</tr>
+<tr>
+<td>net-snmp-libs</td>
+<td>The NET-SNMP runtime libraries.</td>
+</tr>
+<tr>
+<td>net-tools</td>
+<td>Basic networking tools.</td>
+</tr>
+<tr>
+<td>NetworkManager-glib</td>
+<td>Libraries for adding NetworkManager support to applications that</td>
+</tr>
+<tr>
+<td>NetworkManager</td>
+<td>Network connection manager and user applications</td>
+</tr>
+<tr>
+<td>newt-devel</td>
+<td>Newt windowing toolkit development files.</td>
+</tr>
+<tr>
+<td>newt-perl</td>
+<td>Perl bindings for the Newt library</td>
+</tr>
+<tr>
+<td>newt</td>
+<td>A development library for text mode user interfaces.</td>
+</tr>
+<tr>
+<td>nfs-utils-lib</td>
+<td>Network File System Support Library</td>
+</tr>
+<tr>
+<td>nfs-utils</td>
+<td>NFS utilities and supporting clients and daemons for the kernel</td>
+</tr>
+<tr>
+<td>notification-daemon</td>
+<td>Notification Daemon</td>
+</tr>
+<tr>
+<td>notify-python</td>
+<td>Python bindings for libnotify</td>
+</tr>
+<tr>
+<td>nspr-devel</td>
+<td>Development libraries for the Netscape Portable Runtime</td>
+</tr>
+<tr>
+<td>nspr</td>
+<td>Netscape Portable Runtime</td>
+</tr>
+<tr>
+<td>nss_db</td>
+<td>An NSS library for the Berkeley DB.</td>
+</tr>
+<tr>
+<td>nss-devel</td>
+<td>Development libraries for Network Security Services</td>
+</tr>
+<tr>
+<td>nss_ldap</td>
+<td>NSS library and PAM module for LDAP.</td>
+</tr>
+<tr>
+<td>nss</td>
+<td>Network Security Services</td>
+</tr>
+<tr>
+<td>nss-tools</td>
+<td>Tools for the Network Security Services</td>
+</tr>
+<tr>
+<td>ntp</td>
+<td>Synchronizes system time using the Network Time Protocol (NTP).</td>
+</tr>
+<tr>
+<td>ntsysv</td>
+<td>A tool to set the stop/start of system services in a runlevel.</td>
+</tr>
+<tr>
+<td>numactl</td>
+<td>library for tuning for Non Uniform Memory Access machines</td>
+</tr>
+<tr>
+<td>OpenIPMI-libs</td>
+<td>The OpenIPMI runtime libraries</td>
+</tr>
+<tr>
+<td>OpenIPMI</td>
+<td>OpenIPMI (Intelligent Platform Management Interface) library and</td>
+</tr>
+<tr>
+<td>openjade</td>
+<td>A DSSSL implementation.</td>
+</tr>
+<tr>
+<td>openldap-devel</td>
+<td>OpenLDAP development libraries and header files.</td>
+</tr>
+<tr>
+<td>openldap</td>
+<td>The configuration files, libraries, and documentation for OpenLDAP.</td>
+</tr>
+<tr>
+<td>opensp</td>
+<td>SGML and XML parser</td>
+</tr>
+<tr>
+<td>openssh-askpass</td>
+<td>A passphrase dialog for OpenSSH and X</td>
+</tr>
+<tr>
+<td>openssh-clients</td>
+<td>The OpenSSH client applications</td>
+</tr>
+<tr>
+<td>openssh-server</td>
+<td>The OpenSSH server daemon</td>
+</tr>
+<tr>
+<td>openssh</td>
+<td>The OpenSSH implementation of SSH protocol versions 1 and 2</td>
+</tr>
+<tr>
+<td>openssl-devel</td>
+<td>Files for development of applications which will use OpenSSL</td>
+</tr>
+<tr>
+<td>openssl</td>
+<td>The OpenSSL toolkit</td>
+</tr>
+<tr>
+<td>oprofile</td>
+<td>System wide profiler</td>
+</tr>
+<tr>
+<td>ORBit2-devel</td>
+<td>Development libraries, header files and utilities for ORBit</td>
+</tr>
+<tr>
+<td>ORBit2</td>
+<td>A high-performance CORBA Object Request Broker</td>
+</tr>
+<tr>
+<td>pam_ccreds</td>
+<td>Pam module to cache login credentials</td>
+</tr>
+<tr>
+<td>pam-devel</td>
+<td>Files needed for developing PAM-aware applications and modules for</td>
+</tr>
+<tr>
+<td>pam_krb5</td>
+<td>A Pluggable Authentication Module for Kerberos 5.</td>
+</tr>
+<tr>
+<td>pam_passwdqc</td>
+<td>Pluggable password quality-control module.</td>
+</tr>
+<tr>
+<td>pam_pkcs11</td>
+<td>PKCS #11/NSS PAM login module</td>
+</tr>
+<tr>
+<td>pam_smb</td>
+<td>A Pluggable Authentication Module (PAM) for use with SMB servers.</td>
+</tr>
+<tr>
+<td>pam</td>
+<td>A security tool which provides authentication for applications</td>
+</tr>
+<tr>
+<td>pango-devel</td>
+<td>System for layout and rendering of internationalized text</td>
+</tr>
+<tr>
+<td>pango</td>
+<td>System for layout and rendering of internationalized text</td>
+</tr>
+<tr>
+<td>paps</td>
+<td>Plain Text to PostScript converter</td>
+</tr>
+<tr>
+<td>parted</td>
+<td>The GNU disk partition manipulation program.</td>
+</tr>
+<tr>
+<td>passwd</td>
+<td>The passwd utility for setting/changing passwords using PAM</td>
+</tr>
+<tr>
+<td>patch</td>
+<td>The GNU patch command, for modifying/upgrading files.</td>
+</tr>
+<tr>
+<td>patchutils</td>
+<td>A collection of programs for manipulating patch files</td>
+</tr>
+<tr>
+<td>pax</td>
+<td>POSIX File System Archiver</td>
+</tr>
+<tr>
+<td>pciutils-devel</td>
+<td>Linux PCI development library.</td>
+</tr>
+<tr>
+<td>pciutils</td>
+<td>PCI bus related utilities.</td>
+</tr>
+<tr>
+<td>pcmciautils</td>
+<td>PCMCIA utilities and initialization programs</td>
+</tr>
+<tr>
+<td>pcre</td>
+<td>Perl-compatible regular expression library</td>
+</tr>
+<tr>
+<td>pcsc-lite-devel</td>
+<td>PC/SC Lite development files</td>
+</tr>
+<tr>
+<td>pcsc-lite-libs</td>
+<td>PC/SC Lite libraries</td>
+</tr>
+<tr>
+<td>pcsc-lite</td>
+<td>PC/SC Lite smart card framework and applications</td>
+</tr>
+<tr>
+<td>perl-Compress-Zlib</td>
+<td>A module providing Perl interfaces to the zlib compression library.</td>
+</tr>
+<tr>
+<td>perl-HTML-Parser</td>
+<td>Perl module for parsing HTML</td>
+</tr>
+<tr>
+<td>perl-HTML-Tagset</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td>perl-libwww-perl</td>
+<td>A Perl interface to the World-Wide Web</td>
+</tr>
+<tr>
+<td>perl-String-CRC32</td>
+<td>Perl interface for cyclic redundency check generation</td>
+</tr>
+<tr>
+<td>perl</td>
+<td>The Perl programming language</td>
+</tr>
+<tr>
+<td>perl-URI</td>
+<td>A Perl module implementing URI parsing and manipulation</td>
+</tr>
+<tr>
+<td>pinfo</td>
+<td>An info file viewer.</td>
+</tr>
+<tr>
+<td>pirut</td>
+<td>Package Installation, Removal and Update Tools</td>
+</tr>
+<tr>
+<td>pkgconfig</td>
+<td>A tool for determining compilation options.</td>
+</tr>
+<tr>
+<td>pkinit-nss</td>
+<td>PKINIT for MIT Kerberos</td>
+</tr>
+<tr>
+<td>pm-utils</td>
+<td>Power management utilities and scripts for Fedora Core</td>
+</tr>
+<tr>
+<td>policycoreutils-gui</td>
+<td>SELinux configuration GUI</td>
+</tr>
+<tr>
+<td>policycoreutils</td>
+<td>SELinux policy core utilities.</td>
+</tr>
+<tr>
+<td>poppler</td>
+<td>PDF rendering library</td>
+</tr>
+<tr>
+<td>poppler-utils</td>
+<td>Command line utilities for converting PDF files.</td>
+</tr>
+<tr>
+<td>popt</td>
+<td>A C library for parsing command line parameters.</td>
+</tr>
+<tr>
+<td>portmap</td>
+<td>A program which manages RPC connections.</td>
+</tr>
+<tr>
+<td>postgresql-libs</td>
+<td>The shared libraries required for any PostgreSQL clients.</td>
+</tr>
+<tr>
+<td>ppp</td>
+<td>The PPP (Point-to-Point Protocol) daemon.</td>
+</tr>
+<tr>
+<td>prelink</td>
+<td>An ELF prelinking utility</td>
+</tr>
+<tr>
+<td>procmail</td>
+<td>The procmail mail processing program.</td>
+</tr>
+<tr>
+<td>procps</td>
+<td>System and process monitoring utilities.</td>
+</tr>
+<tr>
+<td>psacct</td>
+<td>Utilities for monitoring process activities.</td>
+</tr>
+<tr>
+<td>psgml</td>
+<td>A GNU Emacs major mode for editing SGML documents.</td>
+</tr>
+<tr>
+<td>psmisc</td>
+<td>Utilities for managing processes on your system.</td>
+</tr>
+<tr>
+<td>pstack</td>
+<td>Display stack trace of a running process</td>
+</tr>
+<tr>
+<td>psutils</td>
+<td>PostScript Utilities</td>
+</tr>
+<tr>
+<td>pycairo</td>
+<td>Python bindings for the cairo library</td>
+</tr>
+<tr>
+<td>pygobject2</td>
+<td>Python bindings for GObject</td>
+</tr>
+<tr>
+<td>pygtk2-libglade</td>
+<td>A wrapper for the libglade library for use with PyGTK</td>
+</tr>
+<tr>
+<td>pygtk2</td>
+<td>Python bindings for the GTK+ widget set.</td>
+</tr>
+<tr>
+<td>pyOpenSSL</td>
+<td>Python wrapper module around the OpenSSL library</td>
+</tr>
+<tr>
+<td>pyorbit</td>
+<td>Python bindings for ORBit2.</td>
+</tr>
+<tr>
+<td>PyQt</td>
+<td>Python bindings for Qt</td>
+</tr>
+<tr>
+<td>pyspi</td>
+<td>Python bindings for AT-SPI</td>
+</tr>
+<tr>
+<td>python-devel</td>
+<td>The libraries and header files needed for Python development.</td>
+</tr>
+<tr>
+<td>python-dmidecode</td>
+<td>Python module to access DMI data</td>
+</tr>
+<tr>
+<td>python-elementtree</td>
+<td>Fast XML parser and writer</td>
+</tr>
+<tr>
+<td>python-iniparse</td>
+<td>Python Module for Accessing and Modifying Configuration Data in INI</td>
+</tr>
+<tr>
+<td>python-ldap</td>
+<td>An object-oriented API to access LDAP directory servers.</td>
+</tr>
+<tr>
+<td>python-libs</td>
+<td>The libraries for python runtime</td>
+</tr>
+<tr>
+<td>python-numeric</td>
+<td>Numerical Extension to Python</td>
+</tr>
+<tr>
+<td>python-sqlite</td>
+<td>Python bindings for sqlite.</td>
+</tr>
+<tr>
+<td>python</td>
+<td>An interpreted, interactive, object-oriented programming language.</td>
+</tr>
+<tr>
+<td>python-urlgrabber</td>
+<td>A high-level cross-protocol url-grabber</td>
+</tr>
+<tr>
+<td>pyxf86config</td>
+<td>Python wrappers for libxf86config</td>
+</tr>
+<tr>
+<td>PyXML</td>
+<td>XML libraries for python.</td>
+</tr>
+<tr>
+<td>qt</td>
+<td>The shared library for the Qt GUI toolkit.</td>
+</tr>
+<tr>
+<td>quota</td>
+<td>System administration tools for monitoring users&#8217; disk usage.</td>
+</tr>
+<tr>
+<td>rcs</td>
+<td>Revision Control System (RCS) file version management tools.</td>
+</tr>
+<tr>
+<td>rdate</td>
+<td>Tool for getting the date/time from a remote machine.</td>
+</tr>
+<tr>
+<td>rdist</td>
+<td>Maintains identical copies of files on multiple machines.</td>
+</tr>
+<tr>
+<td>readahead</td>
+<td>Read a preset list of files into memory.</td>
+</tr>
+<tr>
+<td>readline-devel</td>
+<td>Files needed to develop programs which use the readline library.</td>
+</tr>
+<tr>
+<td>readline</td>
+<td>A library for editing typed command lines.</td>
+</tr>
+<tr>
+<td>redhat-artwork</td>
+<td>Artwork for Red Hat default look-and-feel</td>
+</tr>
+<tr>
+<td>redhat-logos</td>
+<td>Red Hat-related icons and pictures.</td>
+</tr>
+<tr>
+<td>redhat-lsb</td>
+<td>LSB support for Red Hat Linux</td>
+</tr>
+<tr>
+<td>redhat-menus</td>
+<td>Configuration and data files for the desktop menus</td>
+</tr>
+<tr>
+<td>redhat-release-notes</td>
+<td>Red Hat Enterprise Linux release notes files</td>
+</tr>
+<tr>
+<td>redhat-release</td>
+<td>Red Hat Enterprise Linux release file</td>
+</tr>
+<tr>
+<td>redhat-rpm-config</td>
+<td>Red Hat specific rpm configuration files.</td>
+</tr>
+<tr>
+<td>rhel-instnum</td>
+<td>A library for decoding RHEL installation numbers</td>
+</tr>
+<tr>
+<td>rhgb</td>
+<td>Red Hat Graphical Boot</td>
+</tr>
+<tr>
+<td>rhn-check</td>
+<td>Check for RHN actions</td>
+</tr>
+<tr>
+<td>rhn-client-tools</td>
+<td>Support programs and libraries for Red Hat Network</td>
+</tr>
+<tr>
+<td>rhnlib</td>
+<td>Python libraries for the RHN project</td>
+</tr>
+<tr>
+<td>rhnsd</td>
+<td>Red Hat Network query daemon</td>
+</tr>
+<tr>
+<td>rhn-setup-gnome</td>
+<td>A GUI interface for RHN Registration</td>
+</tr>
+<tr>
+<td>rhn-setup</td>
+<td>Configure and register an RHN client</td>
+</tr>
+<tr>
+<td>rhpl</td>
+<td>Library of python code used by programs in Red Hat Linux</td>
+</tr>
+<tr>
+<td>rhpxl</td>
+<td>Python library for configuring and running X.</td>
+</tr>
+<tr>
+<td>rmt</td>
+<td>Provides certain programs with access to remote tape devices</td>
+</tr>
+<tr>
+<td>rng-utils</td>
+<td>Random number generator related utilities</td>
+</tr>
+<tr>
+<td>rootfiles</td>
+<td>The basic required files for the root user&#8217;s directory.</td>
+</tr>
+<tr>
+<td>rpm-build</td>
+<td>Scripts and executable programs used to build packages.</td>
+</tr>
+<tr>
+<td>rpm-devel</td>
+<td>Development files for manipulating RPM packages.</td>
+</tr>
+<tr>
+<td>rpmforge-release</td>
+<td>RPMforge release file and RPM repository configuration</td>
+</tr>
+<tr>
+<td>rpm-libs</td>
+<td>Libraries for manipulating RPM packages.</td>
+</tr>
+<tr>
+<td>rpm-python</td>
+<td>Python bindings for apps which will manipulate RPM packages.</td>
+</tr>
+<tr>
+<td>rpm</td>
+<td>The RPM package management system.</td>
+</tr>
+<tr>
+<td>rp-pppoe</td>
+<td>A PPP over Ethernet client (for xDSL support).</td>
+</tr>
+<tr>
+<td>rsh-server</td>
+<td>Servers for remote access commands (rsh, rlogin, rcp).</td>
+</tr>
+<tr>
+<td>rsh</td>
+<td>Clients for remote access commands (rsh, rlogin, rcp).</td>
+</tr>
+<tr>
+<td>rsync</td>
+<td>A program for synchronizing files over a network.</td>
+</tr>
+<tr>
+<td>samba-client</td>
+<td>Samba (SMB) client programs.</td>
+</tr>
+<tr>
+<td>samba-common</td>
+<td>Files used by both Samba servers and clients.</td>
+</tr>
+<tr>
+<td>sane-backends-libs</td>
+<td>SANE libraries</td>
+</tr>
+<tr>
+<td>sane-backends</td>
+<td>Scanner access software</td>
+</tr>
+<tr>
+<td>sane-frontends</td>
+<td>Graphical frontend to SANE</td>
+</tr>
+<tr>
+<td>scrollkeeper</td>
+<td>ScrollKeeper is a cataloging system for documentation on open</td>
+</tr>
+<tr>
+<td>SDL-devel</td>
+<td>Files needed to develop Simple DirectMedia Layer applications.</td>
+</tr>
+<tr>
+<td>SDL</td>
+<td>A cross-platform multimedia library.</td>
+</tr>
+<tr>
+<td>sed</td>
+<td>A GNU stream text editor.</td>
+</tr>
+<tr>
+<td>selinux-policy-devel</td>
+<td>SELinux policy development</td>
+</tr>
+<tr>
+<td>selinux-policy-targeted</td>
+<td>SELinux targeted base policy</td>
+</tr>
+<tr>
+<td>selinux-policy</td>
+<td>SELinux policy configuration</td>
+</tr>
+<tr>
+<td>sendmail-cf</td>
+<td>The files needed to reconfigure Sendmail.</td>
+</tr>
+<tr>
+<td>sendmail</td>
+<td>A widely used Mail Transport Agent (MTA).</td>
+</tr>
+<tr>
+<td>setarch</td>
+<td>Personality setter</td>
+</tr>
+<tr>
+<td>setools</td>
+<td>SELinux tools for managing policy</td>
+</tr>
+<tr>
+<td>setroubleshoot-plugins</td>
+<td>Analysis plugins for use with setroubleshoot</td>
+</tr>
+<tr>
+<td>setroubleshoot-server</td>
+<td>SELinux troubleshoot server</td>
+</tr>
+<tr>
+<td>setserial</td>
+<td>A utility for configuring serial ports.</td>
+</tr>
+<tr>
+<td>setup</td>
+<td>A set of system configuration and setup files.</td>
+</tr>
+<tr>
+<td>setuptool</td>
+<td>A text mode system configuration tool.</td>
+</tr>
+<tr>
+<td>sgml-common</td>
+<td>Common SGML catalog and DTD files.</td>
+</tr>
+<tr>
+<td>sgpio</td>
+<td>SGPIO captive backplane tool</td>
+</tr>
+<tr>
+<td>shadow-utils</td>
+<td>Utilities for managing accounts and shadow password files.</td>
+</tr>
+<tr>
+<td>shared-mime-info</td>
+<td>Shared MIME information database</td>
+</tr>
+<tr>
+<td>sip</td>
+<td>SIP &#8211; Python/C++ Bindings Generator</td>
+</tr>
+<tr>
+<td>slang-devel</td>
+<td>The static library and header files for development using S-Lang.</td>
+</tr>
+<tr>
+<td>slang</td>
+<td>The shared library for the S-Lang extension language.</td>
+</tr>
+<tr>
+<td>slrn</td>
+<td>A threaded Internet news reader.</td>
+</tr>
+<tr>
+<td>smartmontools</td>
+<td>Tools for monitoring SMART capable hard disks</td>
+</tr>
+<tr>
+<td>sos</td>
+<td>System Support Tools</td>
+</tr>
+<tr>
+<td>specspo</td>
+<td>Fedora package descriptions, summaries, and groups.</td>
+</tr>
+<tr>
+<td>speex</td>
+<td>A voice compression format (codec)</td>
+</tr>
+<tr>
+<td>splint</td>
+<td>An implementation of the lint program</td>
+</tr>
+<tr>
+<td>sqlite-devel</td>
+<td>Development tools for the sqlite3 embeddable SQL database engine.</td>
+</tr>
+<tr>
+<td>sqlite</td>
+<td>Library that implements an embeddable SQL database engine</td>
+</tr>
+<tr>
+<td>startup-notification-devel</td>
+<td>Development portions of startup-notification</td>
+</tr>
+<tr>
+<td>startup-notification</td>
+<td>Library for tracking application startup</td>
+</tr>
+<tr>
+<td>strace</td>
+<td>Tracks and displays system calls associated with a running process.</td>
+</tr>
+<tr>
+<td>stunnel</td>
+<td>An SSL-encrypting socket wrapper.</td>
+</tr>
+<tr>
+<td>subversion</td>
+<td>Modern Version Control System designed to replace CVS</td>
+</tr>
+<tr>
+<td>svrcore</td>
+<td>Secure PIN handling using NSS crypto</td>
+</tr>
+<tr>
+<td>swig</td>
+<td>Connects C/C++/Objective C to some high-level programming</td>
+</tr>
+<tr>
+<td>symlinks</td>
+<td>A utility which maintains a system&#8217;s symbolic links.</td>
+</tr>
+<tr>
+<td>synaptics</td>
+<td>Synaptics Touchpad Driver</td>
+</tr>
+<tr>
+<td>sysfsutils</td>
+<td>sysfsutils, library interface to sysfs.</td>
+</tr>
+<tr>
+<td>sysklogd</td>
+<td>System logging and kernel message trapping daemons.</td>
+</tr>
+<tr>
+<td>syslinux</td>
+<td>Simple kernel loader which boots from a FAT filesystem</td>
+</tr>
+<tr>
+<td>system-config-date</td>
+<td>A graphical interface for modifying system date and time</td>
+</tr>
+<tr>
+<td>system-config-display</td>
+<td>A graphical interface for configuring the X Window System display</td>
+</tr>
+<tr>
+<td>system-config-language</td>
+<td>A graphical interface for modifying the system language</td>
+</tr>
+<tr>
+<td>system-config-netboot-cmd</td>
+<td>network booting/install configuration utility</td>
+</tr>
+<tr>
+<td>system-config-network</td>
+<td>The GUI of the NEtwork Administration Tool</td>
+</tr>
+<tr>
+<td>system-config-network-tui</td>
+<td>The NEtwork Administration Tool</td>
+</tr>
+<tr>
+<td>system-config-printer-libs</td>
+<td>Common code for the graphical and non-graphical pieces.</td>
+</tr>
+<tr>
+<td>system-config-printer</td>
+<td>A printer administration tool</td>
+</tr>
+<tr>
+<td>system-config-rootpassword</td>
+<td>A graphical interface for modifying the rootpassword</td>
+</tr>
+<tr>
+<td>system-config-securitylevel</td>
+<td>A graphical interface for modifying the system security level</td>
+</tr>
+<tr>
+<td>system-config-securitylevel-tui</td>
+<td>A text interface for modifying the system security level</td>
+</tr>
+<tr>
+<td>system-config-services</td>
+<td>system-config-services is an initscript and xinetd configuration</td>
+</tr>
+<tr>
+<td>system-config-users</td>
+<td>A graphical interface for administering users and groups</td>
+</tr>
+<tr>
+<td>systemtap-runtime</td>
+<td>Instrumentation System Runtime</td>
+</tr>
+<tr>
+<td>systemtap</td>
+<td>Instrumentation System</td>
+</tr>
+<tr>
+<td>SysVinit</td>
+<td>Programs which control basic system processes.</td>
+</tr>
+<tr>
+<td>talk</td>
+<td>Talk client for one-on-one Internet chatting.</td>
+</tr>
+<tr>
+<td>tar</td>
+<td>A GNU file archiving program.</td>
+</tr>
+<tr>
+<td>tcl</td>
+<td>Tcl scripting language development environment</td>
+</tr>
+<tr>
+<td>tclx</td>
+<td>Extensions for Tcl and Tk</td>
+</tr>
+<tr>
+<td>tcpdump</td>
+<td>A network traffic monitoring tool.</td>
+</tr>
+<tr>
+<td>tcp_wrappers</td>
+<td>A security tool which acts as a wrapper for TCP daemons.</td>
+</tr>
+<tr>
+<td>tcsh</td>
+<td>An enhanced version of csh, the C shell.</td>
+</tr>
+<tr>
+<td>telnet</td>
+<td>The client program for the telnet remote login protocol.</td>
+</tr>
+<tr>
+<td>termcap</td>
+<td>The terminal feature database used by certain applications.</td>
+</tr>
+<tr>
+<td>tetex-doc</td>
+<td>The documentation files for the TeX text formatting system.</td>
+</tr>
+<tr>
+<td>tetex-dvips</td>
+<td>A DVI to PostScript converter for the TeX text formatting system.</td>
+</tr>
+<tr>
+<td>tetex-fonts</td>
+<td>The font files for the TeX text formatting system.</td>
+</tr>
+<tr>
+<td>tetex-latex</td>
+<td>The LaTeX front end for the TeX text formatting system.</td>
+</tr>
+<tr>
+<td>tetex</td>
+<td>The TeX text formatting system.</td>
+</tr>
+<tr>
+<td>texinfo</td>
+<td>Tools needed to create Texinfo format documentation files.</td>
+</tr>
+<tr>
+<td>tftp-server</td>
+<td>The server for the Trivial File Transfer Protocol (TFTP).</td>
+</tr>
+<tr>
+<td>time</td>
+<td>A GNU utility for monitoring a program&#8217;s use of system resources.</td>
+</tr>
+<tr>
+<td>tk</td>
+<td>Tk graphical toolkit for the Tcl scripting language</td>
+</tr>
+<tr>
+<td>tmpwatch</td>
+<td>A utility for removing files based on when they were last accessed.</td>
+</tr>
+<tr>
+<td>tomcat5-jsp-2.0-api</td>
+<td>Jakarta Tomcat Servlet and JSP implementation classes</td>
+</tr>
+<tr>
+<td>tomcat5-servlet-2.4-api</td>
+<td>Jakarta Tomcat Servlet implementation classes</td>
+</tr>
+<tr>
+<td>traceroute</td>
+<td>Traces the route taken by packets over an IPv4/IPv6 network</td>
+</tr>
+<tr>
+<td>tree</td>
+<td>A utility which displays a tree view of the contents of</td>
+</tr>
+<tr>
+<td>ttmkfdir</td>
+<td>Utility to create fonts.scale files for truetype fonts</td>
+</tr>
+<tr>
+<td>tzdata-java</td>
+<td>Timezone data for Java</td>
+</tr>
+<tr>
+<td>tzdata</td>
+<td>Timezone data</td>
+</tr>
+<tr>
+<td>udev</td>
+<td>A userspace implementation of devfs</td>
+</tr>
+<tr>
+<td>udftools</td>
+<td>Linux UDF Filesystem userspace utilities</td>
+</tr>
+<tr>
+<td>units</td>
+<td>A utility for converting amounts from one unit to another.</td>
+</tr>
+<tr>
+<td>unix2dos</td>
+<td>unix2dos &#8211; UNIX to DOS text file format converter</td>
+</tr>
+<tr>
+<td>unzip</td>
+<td>A utility for unpacking zip files.</td>
+</tr>
+<tr>
+<td>urw-fonts</td>
+<td>Free versions of the 35 standard PostScript fonts.</td>
+</tr>
+<tr>
+<td>usbutils</td>
+<td>Linux USB utilities.</td>
+</tr>
+<tr>
+<td>usermode-gtk</td>
+<td>Graphical tools for certain user account management tasks.</td>
+</tr>
+<tr>
+<td>usermode</td>
+<td>Tools for certain user account management tasks.</td>
+</tr>
+<tr>
+<td>util-linux</td>
+<td>A collection of basic system utilities.</td>
+</tr>
+<tr>
+<td>valgrind</td>
+<td>Tool for finding memory management bugs in programs</td>
+</tr>
+<tr>
+<td>vconfig</td>
+<td>Linux 802.1q VLAN configuration utility</td>
+</tr>
+<tr>
+<td>vim-common</td>
+<td>The common files needed by any version of the VIM editor.</td>
+</tr>
+<tr>
+<td>vim-enhanced</td>
+<td>A version of the VIM editor which includes recent enhancements.</td>
+</tr>
+<tr>
+<td>vim-minimal</td>
+<td>A minimal version of the VIM editor.</td>
+</tr>
+<tr>
+<td>vixie-cron</td>
+<td>The Vixie cron daemon for executing specified programs at set</td>
+</tr>
+<tr>
+<td>vnc-server</td>
+<td>A VNC server.</td>
+</tr>
+<tr>
+<td>vte</td>
+<td>A terminal emulator</td>
+</tr>
+<tr>
+<td>wdaemon</td>
+<td>Hotplug helper for Wacom X.org driver</td>
+</tr>
+<tr>
+<td>wget</td>
+<td>A utility for retrieving files using the HTTP or FTP protocols.</td>
+</tr>
+<tr>
+<td>which</td>
+<td>Displays where a particular program in your path is located.</td>
+</tr>
+<tr>
+<td>wireless-tools</td>
+<td>Wireless ethernet configuration tools</td>
+</tr>
+<tr>
+<td>words</td>
+<td>A dictionary of English words for the /usr/share/dict directory.</td>
+</tr>
+<tr>
+<td>wpa_supplicant</td>
+<td>WPA/WPA2/IEEE 802.1X Supplicant</td>
+</tr>
+<tr>
+<td>wvdial</td>
+<td>A heuristic autodialer for PPP connections.</td>
+</tr>
+<tr>
+<td>xalan-j2</td>
+<td>Java XSLT processor</td>
+</tr>
+<tr>
+<td>Xaw3d-devel</td>
+<td>Header files and static libraries for development using Xaw3d.</td>
+</tr>
+<tr>
+<td>Xaw3d</td>
+<td>A version of the MIT Athena widget set for X.</td>
+</tr>
+<tr>
+<td>xinetd</td>
+<td>A secure replacement for inetd.</td>
+</tr>
+<tr>
+<td>xkeyboard-config</td>
+<td>xkeyboard-config alternative xkb data files</td>
+</tr>
+<tr>
+<td>xml-common</td>
+<td>Common XML catalog and DTD files.</td>
+</tr>
+<tr>
+<td>xmlrpc-javadoc</td>
+<td>Javadoc for xmlrpc</td>
+</tr>
+<tr>
+<td>xmlrpc</td>
+<td>Java XML-RPC implementation</td>
+</tr>
+<tr>
+<td>xmlsec1-devel</td>
+<td>Libraries, includes, etc. to develop applications with XML Digital</td>
+</tr>
+<tr>
+<td>xmlsec1</td>
+<td>Library providing support for &#8220;XML Signature&#8221; and &#8220;XML Encryption&#8221;</td>
+</tr>
+<tr>
+<td>xorg-x11-apps</td>
+<td>X.Org X11 applications</td>
+</tr>
+<tr>
+<td>xorg-x11-drivers</td>
+<td>X.Org X11 driver installation package</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-acecad</td>
+<td>Xorg X11 acecad input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-aiptek</td>
+<td>Xorg X11 aiptek input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-ast</td>
+<td>Xorg X11 ast video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-ati</td>
+<td>Xorg X11 ati video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-calcomp</td>
+<td>Xorg X11 calcomp input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-cirrus</td>
+<td>Xorg X11 cirrus video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-citron</td>
+<td>Xorg X11 citron input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-digitaledge</td>
+<td>Xorg X11 digitaledge input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-dmc</td>
+<td>Xorg X11 dmc input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-dummy</td>
+<td>Xorg X11 dummy video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-dynapro</td>
+<td>Xorg X11 dynapro input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-elo2300</td>
+<td>Xorg X11 elo2300 input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-elographics</td>
+<td>Xorg X11 elographics input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-evdev</td>
+<td>Xorg X11 evdev input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-fbdev</td>
+<td>Xorg X11 fbdev video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-fpit</td>
+<td>Xorg X11 fpit input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-hyperpen</td>
+<td>Xorg X11 hyperpen input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-i810</td>
+<td>Xorg X11 i810 video driver(s)</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-jamstudio</td>
+<td>Xorg X11 jamstudio input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-joystick</td>
+<td>Xorg X11 joystick input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-keyboard</td>
+<td>Xorg X11 keyboard input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-magellan</td>
+<td>Xorg X11 magellan input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-magictouch</td>
+<td>Xorg X11 magictouch input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-mga</td>
+<td>Xorg X11 mga video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-microtouch</td>
+<td>Xorg X11 microtouch input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-mouse</td>
+<td>Xorg X11 mouse input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-mutouch</td>
+<td>Xorg X11 mutouch input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-nv</td>
+<td>Xorg X11 nv video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-palmax</td>
+<td>Xorg X11 palmax input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-penmount</td>
+<td>Xorg X11 penmount input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-qxl</td>
+<td>Xorg X11 qxl video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-s3</td>
+<td>Xorg X11 s3 video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-s3virge</td>
+<td>Xorg X11 s3virge video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-savage</td>
+<td>Xorg X11 savage video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-siliconmotion</td>
+<td>Xorg X11 siliconmotion video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-sis</td>
+<td>Xorg X11 sis video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-sisusb</td>
+<td>Xorg X11 sisusb video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-spaceorb</td>
+<td>Xorg X11 spaceorb input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-summa</td>
+<td>Xorg X11 summa input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-tdfx</td>
+<td>Xorg X11 tdfx video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-tek4957</td>
+<td>Xorg X11 tek4957 input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-trident</td>
+<td>Xorg X11 trident video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-ur98</td>
+<td>Xorg X11 ur98 input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-vesa</td>
+<td>Xorg X11 vesa video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-vga</td>
+<td>Xorg X11 vga video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-via</td>
+<td>Xorg X11 via video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-vmmouse</td>
+<td>Xorg X11 vmmouse input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-vmware</td>
+<td>Xorg X11 vmware video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-void</td>
+<td>Xorg X11 void input driver</td>
+</tr>
+<tr>
+<td>xorg-x11-drv-voodoo</td>
+<td>Xorg X11 voodoo video driver</td>
+</tr>
+<tr>
+<td>xorg-x11-filesystem</td>
+<td>X.Org X11 filesystem layout</td>
+</tr>
+<tr>
+<td>xorg-x11-fonts-100dpi</td>
+<td>A set of 100dpi resolution fonts for the X Window System.</td>
+</tr>
+<tr>
+<td>xorg-x11-fonts-75dpi</td>
+<td>A set of 75dpi resolution fonts for the X Window System.</td>
+</tr>
+<tr>
+<td>xorg-x11-fonts-base</td>
+<td>Base fonts required by the X Window System.</td>
+</tr>
+<tr>
+<td>xorg-x11-fonts-ISO8859-1-100dpi</td>
+<td>A set of 100dpi ISO-8859-1 fonts for X.</td>
+</tr>
+<tr>
+<td>xorg-x11-fonts-ISO8859-1-75dpi</td>
+<td>A set of 75dpi ISO-8859-1 fonts for X.</td>
+</tr>
+<tr>
+<td>xorg-x11-fonts-ISO8859-2-100dpi</td>
+<td>A set of 100dpi Central European language fonts for X.</td>
+</tr>
+<tr>
+<td>xorg-x11-fonts-misc</td>
+<td>misc bitmap fonts for the X Window System</td>
+</tr>
+<tr>
+<td>xorg-x11-fonts-truetype</td>
+<td>TrueType fonts provided by the X Window System</td>
+</tr>
+<tr>
+<td>xorg-x11-fonts-Type1</td>
+<td>Type1 fonts provided by the X Window System</td>
+</tr>
+<tr>
+<td>xorg-x11-font-utils</td>
+<td>X.Org X11 font utilities</td>
+</tr>
+<tr>
+<td>xorg-x11-proto-devel</td>
+<td>X.Org X11 Protocol headers</td>
+</tr>
+<tr>
+<td>xorg-x11-server-utils</td>
+<td>X.Org X11 X server utilities</td>
+</tr>
+<tr>
+<td>xorg-x11-server-Xnest</td>
+<td>A nested server.</td>
+</tr>
+<tr>
+<td>xorg-x11-server-Xorg</td>
+<td>Xorg X server</td>
+</tr>
+<tr>
+<td>xorg-x11-server-Xvfb</td>
+<td>A X Windows System virtual framebuffer X server.</td>
+</tr>
+<tr>
+<td>xorg-x11-twm</td>
+<td>X.Org X11 twm window manager</td>
+</tr>
+<tr>
+<td>xorg-x11-util-macros</td>
+<td>X.Org X11 Autotools macros</td>
+</tr>
+<tr>
+<td>xorg-x11-utils</td>
+<td>X.Org X11 X client utilities</td>
+</tr>
+<tr>
+<td>xorg-x11-xauth</td>
+<td>X.Org X11 X authority utilities</td>
+</tr>
+<tr>
+<td>xorg-x11-xfs</td>
+<td>X.Org X11 xfs font server</td>
+</tr>
+<tr>
+<td>xorg-x11-xinit</td>
+<td>X.Org X11 X Window System xinit startup scripts</td>
+</tr>
+<tr>
+<td>xorg-x11-xkb-utils</td>
+<td>X.Org X11 xkb utilities</td>
+</tr>
+<tr>
+<td>xorg-x11-xtrans-devel</td>
+<td>X.Org X11 developmental X transport library</td>
+</tr>
+<tr>
+<td>xrestop</td>
+<td>X Resource Monitor</td>
+</tr>
+<tr>
+<td>xsane</td>
+<td>An X Window System front-end for the SANE scanner interface.</td>
+</tr>
+<tr>
+<td>xsri</td>
+<td>X Set Root Image</td>
+</tr>
+<tr>
+<td>xterm</td>
+<td>xterm terminal emulator for the X Window System</td>
+</tr>
+<tr>
+<td>xulrunner-devel</td>
+<td>Development files for Gecko</td>
+</tr>
+<tr>
+<td>xulrunner</td>
+<td>XUL Runtime for Gecko Applications</td>
+</tr>
+<tr>
+<td>yelp</td>
+<td>A system documentation reader from the Gnome project</td>
+</tr>
+<tr>
+<td>ypbind</td>
+<td>The NIS daemon which binds NIS clients to an NIS domain.</td>
+</tr>
+<tr>
+<td>yp-tools</td>
+<td>NIS (or YP) client programs.</td>
+</tr>
+<tr>
+<td>yum-metadata-parser</td>
+<td>A fast metadata parser for yum</td>
+</tr>
+<tr>
+<td>yum-rhn-plugin</td>
+<td>RHN support for yum</td>
+</tr>
+<tr>
+<td>yum-security</td>
+<td>Yum plugin to enable security filters</td>
+</tr>
+<tr>
+<td>yum</td>
+<td>RPM installer/updater</td>
+</tr>
+<tr>
+<td>yum-updatesd</td>
+<td>Update notification daemon</td>
+</tr>
+<tr>
+<td>zenity</td>
+<td>Display dialog boxes from shell scripts</td>
+</tr>
+<tr>
+<td>zip</td>
+<td>A file compression and packaging utility compatible with PKZIP.</td>
+</tr>
+<tr>
+<td>zlib-devel</td>
+<td>Header files and libraries for Zlib development.</td>
+</tr>
+<tr>
+<td>zlib</td>
+<td>The zlib compression and decompression library.</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+					</div>
+
+				
+				</article>
+
+			
+
+			</div>
+
+					</div>
+	</div>
+
+
+</div>
+
+	<footer class="et-l et-l--footer">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_with_border et_pb_section et_pb_section_0_tb_footer et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0_tb_footer">
+				<div class="et_pb_column et_pb_column_2_5 et_pb_column_0_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0_tb_footer">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="500" height="63" src="https://www.seasnet.ucla.edu/wp-content/uploads/seasnet/engineer-change-tagline-wide-digital.png" alt="UCLA Samueli Tagline - Engineer Change." title="Engineer Change." srcset="https://www.seasnet.ucla.edu/wp-content/uploads/seasnet/engineer-change-tagline-wide-digital-500x63.png 500w, https://www.seasnet.ucla.edu/wp-content/uploads/seasnet/engineer-change-tagline-wide-digital-480x60.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 500px, 100vw" class="wp-image-7536" /></span>
+			</div>
+			</div><div class="et_pb_column et_pb_column_3_5 et_pb_column_1_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
+				
+				
+				
+				
+				
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_1_tb_footer">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_2_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_0_tb_footer">
+				
+				
+				
+				
+				<div class="et_pb_code_inner"><script>document.write('© Copyright ' + /\d{4}/.exec(Date())[0] + ' UCLA Samueli School Of Engineering');</script></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_3_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><div id="footer-menu-wrapper">
+<ul class="footer-menu">
+<li><a aria-label="Contact Us" href="/contact">Contact Us</a></li>
+<li><a target="_blank" aria-label="Accessibility" rel="noopener" href="http://www.ucla.edu/accessibility">Accessibility</a></li>
+<li><a target="_blank" aria-label="Terms of Use" rel="noopener" href="https://samueli.ucla.edu/terms-of-use">Terms of Use</a></li>
+<li><a target="_blank" aria-label="Safety First" rel="noopener" href="https://samueli.ucla.edu/safety-first">Safety First</a></li>
+<li><a target="_blank" aria-label="UCLA" rel="noopener" href="http://www.ucla.edu">UCLA</a></li>
+</ul></div></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div id="seas-consent" class="et_pb_section et_pb_section_1_tb_footer seas-bar et_pb_sticky_module et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_2_tb_footer">
+				<div class="et_pb_column et_pb_column_3_4 et_pb_column_4_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_1_tb_footer  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and <a href="https://samueli.ucla.edu/terms-of-use/" target="_blank" rel="noopener">Terms of Use</a>.</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_5_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_0_tb_footer_wrapper  et_pb_module ">
+				<a class="et_pb_button et_pb_button_0_tb_footer accept-cookies et_pb_bg_layout_dark" href="">I ACCEPT</a>
+			</div><div class="et_pb_module et_pb_code et_pb_code_1_tb_footer">
+				
+				
+				
+				
+				<div class="et_pb_code_inner"><script>
+jQuery("#seas-consent").hide();
+jQuery(document).on("ready", function () {
+  if (document.cookie.indexOf("accepted_cookies=") < 0) {
+    jQuery("#seas-consent").show();
+  }
+
+  jQuery(".accept-cookies").on("click", function () {
+    //set cookies for 1 month. 60 = 1 min, 60 = 1 hours, 24 = 1 day, 30 = 30 days
+    document.cookie = "accepted_cookies=yes;max-age=" + 60 * 60 * 24 * 30;
+    jQuery("#seas-consent").hide();
+  });
+});
+</script></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</footer>
+		</div>
+
+			
+		</div>
+		</div>
+
+			<script src="https://www.seasnet.ucla.edu/wp-content/plugins/responsive-image-maps/jquery.rwdImageMaps.min.js?ver=1.5" id="jQuery.rwd_image_maps-js"></script>
+<script id="divi-custom-script-js-extra">
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.seasnet.ucla.edu\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.seasnet.ucla.edu\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.seasnet.ucla.edu\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"110a308d7a","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"fe59ea305a","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"605","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https:\/\/www.seasnet.ucla.edu\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#ffe800","waypoints_options":[]};
+var et_pb_box_shadow_elements = [];
+</script>
+<script src="https://www.seasnet.ucla.edu/wp-content/themes/Divi/js/scripts.min.js?ver=4.23.1" id="divi-custom-script-js"></script>
+<script src="https://www.seasnet.ucla.edu/wp-content/themes/Divi/js/smoothscroll.js?ver=4.23.1" id="smoothscroll-js"></script>
+<script src="https://www.seasnet.ucla.edu/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.6" id="page-links-to-js"></script>
+<script id="heateor_sss_sharing_js-js-before">
+function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'https://www.seasnet.ucla.edu/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://www.seasnet.ucla.edu/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://www.seasnet.ucla.edu/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 0;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")}
+</script>
+<script src="https://www.seasnet.ucla.edu/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=3.3.56" id="heateor_sss_sharing_js-js"></script>
+<script src="https://www.seasnet.ucla.edu/wp-content/themes/Divi/core/admin/js/common.js?ver=4.23.1" id="et-core-common-js"></script>
+<script id="divi-accessibility-da11y-js-extra">
+var _da11y = {"version":"2.0.1","active_outline_color":"#2ea3f2"};
+</script>
+<script src="https://www.seasnet.ucla.edu/wp-content/plugins/divi-accessibility-master/public/js/da11y.js?ver=2.0.1" id="divi-accessibility-da11y-js"></script>
+<script id="divi-accessibility-da11y-js-after">
+jQuery(document).ready(function(e){var n,a;function s(){const n=e(".et_search_form_container");n.hasClass("et_pb_is_animating")||(e(".et_menu_container").removeClass("et_pb_menu_visible et_pb_no_animation").addClass("et_pb_menu_hidden"),n.removeClass("et_pb_search_form_hidden et_pb_no_animation").addClass("et_pb_search_visible et_pb_is_animating"),setTimeout(function(){e(".et_menu_container").addClass("et_pb_no_animation"),n.addClass("et_pb_no_animation").removeClass("et_pb_is_animating")},1e3),n.find("input").focus(),function(){const n=e(".et_search_form_container"),a=e("body");if(n.hasClass("et_pb_search_visible")){const s=e("#main-header").innerHeight(),i=e("#top-menu").width(),t=e("#top-menu li a").css("font-size");n.css({height:s+"px"}),n.find("input").css("font-size",t),a.hasClass("et_header_style_left")?n.find("form").css("max-width",i+60):n.css("max-width",i+60)}}())}e(".menu-item-has-children").find("a")&&(e(".menu-item-has-children").find("a").addClass("da11y-submenu"),e(".menu-item-has-children").find("a").not(".sub-menu a").attr("aria-expanded","false")),e(".da11y-submenu").on("focus",function(){e(this).not(".sub-menu a").attr("aria-expanded","true"),e(this).siblings(".sub-menu").addClass("da11y-submenu-show"),e(this).trigger("mouseenter")}),e("body").on("keydown",".menu-item-has-children a",function(e){n=e.which,a=e.shiftKey}),e(".menu-item-has-children a").on("focusout",function(){9==n&&(a||e(this).parent().not(".menu-item-has-children").is(":last-child")&&e(this).parents(".menu-item-has-children").children(".da11y-submenu").attr("aria-expanded","false").trigger("mouseleave").siblings(".sub-menu").removeClass("da11y-submenu-show"))}),e(this).keyup(function(){e(".et-search-field").focus(function(){s()}).blur(function(){e(".et_search_form_container").hasClass("et_pb_is_animating")||(e(".et_menu_container").removeClass("et_pb_menu_hidden et_pb_no_animation").addClass("et_pb_menu_visible"),e(".et_search_form_container").removeClass("et_pb_search_visible et_pb_no_animation").addClass("et_pb_search_form_hidden et_pb_is_animating"),setTimeout(function(){e(".et_menu_container").addClass("et_pb_no_animation"),e(".et_search_form_container").addClass("et_pb_no_animation").removeClass("et_pb_is_animating")},1e3))})})});
+
+jQuery(document).ready((function(t){!function(e){const n='<a href="'+e+'" class="skip-link da11y-screen-reader-text">Skip to content</a>';t(e).attr("tabindex",-1),t("body").prepend(n)}("#main-content"),t('a[href^="#"]').click((function(){t("#"+t(this).attr("href").slice(1)).focus()}))}));
+jQuery(document).ready((function(e){let n=new Date,o=new Date;e(this).on("focusin",(function(t){e(".keyboard-outline").removeClass("keyboard-outline"),o<n&&e(t.target).addClass("keyboard-outline")})),e(this).on("mousedown",(function(){o=new Date})),e(this).on("keydown",(function(){n=new Date}))}));
+jQuery(document).ready((function(t){t(".et_pb_toggle").each((function(){t(this).attr("tabindex",0)})),t(".et_pb_toggle").on("keydown",(function(t){32===t.which&&t.preventDefault()})),t(document).on("keyup",(function(e){13!==e.which&&32!==e.which||t(".et_pb_toggle:focus .et_pb_toggle_title").trigger("click")}))}));
+jQuery(document).ready((function(e){e(".et-search-field").each((function(t){e(this).attr("id","et_pb_search_module_input_"+t),e("#et_pb_search_module_input_"+t).before('<label class="da11y-screen-reader-text" for="et_pb_search_module_input_'+t+'">Search for...</label>'),e("#et_pb_search_module_input_"+t).after('<button type="submit" class="da11y-screen-reader-text">Search</button>')})),e(".et_pb_s").each((function(t){e(this).attr("id","et_pb_s_module_input_"+t),e("#et_pb_s_module_input_"+t).before('<label class="da11y-screen-reader-text" for="et_pb_s_module_input_'+t+'">Search for...</label>')})),e(".et_pb_contact_form").each((function(){e(this).find(".et_pb_contact_captcha_question").parent().wrap("<label></label>")})),e(".et-social-facebook a.icon span").text("Facebook"),e(".et-social-twitter a.icon span").text("Twitter"),e(".et-social-google-plus a.icon span").text("Google Plus"),e(".et-social-pinterest a.icon span").text("Pinterest"),e(".et-social-linkedin a.icon span").text("LinkedIn"),e(".et-social-tumblr a.icon span").text("Tumblr"),e(".et-social-instagram a.icon span").text("Instagram"),e(".et-social-skype a.icon span").text("Skype"),e(".et-social-flikr a.icon span").text("Flickr"),e(".et-social-myspace a.icon span").text("Myspace"),e(".et-social-dribbble a.icon span").text("Dribble"),e(".et-social-youtube a.icon span").text("YouTube"),e(".et-social-vimeo a.icon span").text("Vimeo"),e(".et-social-rss a.icon span").text("RSS")}));
+jQuery(document).ready((function(t){t(".et_pb_tabs_controls").each((function(){t(this).attr("role","tabList")})),t(".et_pb_tabs_controls li").each((function(){t(this).attr("role","presentation")})),t(".et_pb_tabs_controls a").each((function(){t(this).attr("role","tab")})),t(".et_pb_tab").each((function(){t(this).attr("role","tabpanel")})),t(".et_pb_tabs_controls li:not(.et_pb_tab_active) a").each((function(){t(this).attr({"aria-selected":"false","aria-expanded":"false",tabindex:-1})})),t(".et_pb_tabs_controls li.et_pb_tab_active a").each((function(){t(this).attr({"aria-selected":"true","aria-expanded":"true",tabindex:0})})),t(".et_pb_tabs_controls a").each((function(a){t(this).attr({id:"et_pb_tab_control_"+a,"aria-controls":"et_pb_tab_panel_"+a})})),t(".et_pb_tab").each((function(a){t(this).attr({id:"et_pb_tab_panel_"+a,"aria-labelledby":"et_pb_tab_control_"+a})})),t(".et_pb_tab.et_pb_active_content").each((function(){t(this).attr("aria-hidden","false")})),t(".et_pb_tab:not(.et_pb_active_content)").each((function(){t(this).attr("aria-hidden","true")})),t(".et_pb_tabs").each((function(a){t(this).attr("data-da11y-id","et_pb_tab_module_"+a)})),t(".et_pb_tabs_controls a").on("click",(function(){const a=t(this).attr("id"),e=t(this).closest(".et_pb_tabs").attr("data-da11y-id");t('[data-da11y-id="'+e+'"] .et_pb_tabs_controls a').attr({"aria-selected":"false","aria-expanded":"false",tabindex:-1}),t(this).attr({"aria-selected":"true","aria-expanded":"true",tabindex:0}),t("#"+e+" .et_pb_tab").attr("aria-hidden","true"),t('[aria-labelledby="'+a+'"]').attr("aria-hidden","false")})),t(".et_pb_tabs_controls a").keyup((function(a){const e=t(this).closest(".et_pb_tabs").attr("data-da11y-id"),i=t('[data-da11y-id="'+e+'"]');if(39===a.which){const t=i.find("li.et_pb_tab_active").next();t.length>0?t.find("a").trigger("click"):i.find("li:first a").trigger("click")}else if(37===a.which){const t=i.find("li.et_pb_tab_active").prev();t.length>0?t.find("a").trigger("click"):i.find("li:last a").trigger("click")}t(".et_pb_tabs_controls a").removeClass("keyboard-outline"),i.find("li.et_pb_tab_active a").addClass("keyboard-outline")})),t(".et_pb_search").each((function(a){t(this).attr("data-da11y-id","et_pb_search_module_"+a)})),t('[data-required_mark="required"]').each((function(){t(this).attr("aria-required","true")})),t(".et_pb_contactform_validate_field").attr("type","hidden"),t(".et-pb-contact-message").attr("role","alert"),t("#main-content").attr("role","main"),t(".et_pb_fullwidth_header").each((function(a){t(this).attr("aria-label","Wide Header"+a)})),t("#comment-wrap").attr("aria-label","Comments")}));
+jQuery(document).ready((function(e){e("#et_top_search, .et_close_search_field, .et_pb_main_blurb_image").attr("aria-hidden","true")}));
+jQuery(document).ready((function(e){e(".mobile_menu_bar_toggle").attr({role:"button","aria-expanded":"false","aria-label":"Menu",tabindex:0}),e(".mobile_menu_bar_toggle").on("click",(function(){e(this).hasClass("a11y-mobile-menu-open")?e(this).removeClass("a11y-mobile-menu-open").attr("aria-expanded","false"):e(this).addClass("a11y-mobile-menu-open").attr("aria-expanded","true")})),e(".mobile_menu_bar_toggle").keyup((function(n){13===n.keyCode&&e(".mobile_menu_bar_toggle").click()})),e(document).keyup((function(n){27===n.keyCode&&e("#et_mobile_nav_menu .mobile_nav").hasClass("opened")&&e(".mobile_menu_bar_toggle").click()})),e(this).on("focusin",(function(){e("#et_mobile_nav_menu .mobile_nav").hasClass("opened")&&(e("#et_mobile_nav_menu .et_mobile_menu :focus").length||e("#et_mobile_nav_menu .mobile_menu_bar_toggle").click())}))}));
+</script>
+<script src="https://www.seasnet.ucla.edu/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.23.1" id="fitvids-js"></script>
+<script id="et-builder-modules-script-sticky-js-extra">
+var et_pb_sticky_elements = {"et_pb_section_1_tb_footer":{"id":"et_pb_section_1_tb_footer","selector":".et_pb_section_1_tb_footer","position":"bottom","topOffset":"0px","bottomOffset":"0px","topLimit":"none","bottomLimit":"none","offsetSurrounding":"off","transition":"on","styles":{"module_alignment":{"desktop":"","tablet":"","phone":""},"positioning":"relative"},"stickyStyles":{"position_origin_r":"top_left","horizontal_offset":"","vertical_offset":""}}};
+</script>
+<script src="https://www.seasnet.ucla.edu/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/sticky-elements.js?ver=4.23.1" id="et-builder-modules-script-sticky-js"></script>
+	
+			<span class="et_pb_scroll_top et-pb-icon"></span>
+	</body>
+</html>

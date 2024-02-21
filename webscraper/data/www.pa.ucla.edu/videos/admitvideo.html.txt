@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Embedding Video into an HTML Page</title>
+</head>
+<body>
+	<video controls="controls" src="AdmitVideo.mp4" preload autoplay>
+        Your browser does not support the HTML5 Video element.
+    </video>
+
+    <!-- <iframe width="860" height="700" src="AdmitVideo.mp4" frameborder="0" allowfullscreen></iframe> -->
+
+<!--<object data="AdmitVideo.mp4" width="900px" height="700px"></object>--> <!-- not support by Safari -->
+<!--<embed src="AdmitVideo.mp4" width="900px" height="700px">-->  <!-- not support by Safari -->
+</body>
+</html>
+
+

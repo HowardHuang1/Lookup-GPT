@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<title>UCLA Physics & Astronomy</title>
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="update.css">
+<link rel="SHORTCUT ICON" href="favicon.ico" />
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</head>
+<body>
+<ol class="breadcrumb bg-primary text-light">
+  <li class="breadcrumb-item"><img src="logo_UCLA_white.svg" class="ucla-logo" /></li>
+  <li class="breadcrumb-item">College</li>
+  <li class="breadcrumb-item">Physical Sciences</li>
+</ol>
+
+<nav class="navbar navbar-expand-lg navbar-light mt-0 mt-lg-0 mr-4 border-bottom mb-4">
+  <a class="navbar-brand" href="https://www.pa.ucla.edu/index.php"><img src="https://www.pa.ucla.edu/pa-logo-new.png" height="110px"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarText">
+    <!-- To change the menu alignment from left to right, use ml-auto -->
+    <ul class="navbar-nav mr-auto text-primary">
+      <li class="nav-item"><a class="nav-link text-primary" href="https://www.pa.ucla.edu/index.php">Home</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          About
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            
+          <a class="dropdown-item" href="../videos/admitvideo.html" >Admit Video</a>
+          <a class="dropdown-item" href="https://youtu.be/chk8MNJJ950">APS video tour of Physics & Astronomy</a>
+          <a class="dropdown-item" href="/visiting.html">Visiting the Department</a>
+          <a class="dropdown-item" href="/annual-report.html">Annual Reports</a>
+          <a class="dropdown-item" href="/diversity.html">Diversity</a>
+          <a class="dropdown-item" href="/open-positions.html">Employment</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Education
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/undergraduate-program.html">Undergraduate</a>
+          <a class="dropdown-item" href="/graduate-admissions.html">Graduate admissions</a>
+          <a class="dropdown-item" href="/current-graduate-students.html">Current graduate students</a>
+          <a class="dropdown-item" href="https://bruinlearn.ucla.edu/courses/288">BruinLearn, UCLA's new LMS</a>
+          <a class="dropdown-item" href="/phd-physics-bridge-program.html">Physics PhD Bridge Program</a>
+          <a class="dropdown-item" href="/undergraduate-research-experience.html">REU program</a>
+          <a class="dropdown-item" href="https://qst.ucla.edu/">Quantum master program</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link text-primary" <a href="/research.html">Research</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" <a href="http://www.astro.ucla.edu/">Astro&nbsp;Division</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          People
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/faculty.html">Faculty</a>
+          <a class="dropdown-item" href="/faculty-affiliated.html">Affiliated Faculty</a>
+          <a class="dropdown-item" href="/researchers.html">Researchers, Project Scientists, Adjuncts</a>
+          <a class="dropdown-item" href="/lecturers.html">Lecturers</a>
+          <a class="dropdown-item" href="/postdocs.html">Postdoctoral Scholars</a>
+          <a class="dropdown-item" href="/grad-students.html">Graduate Students</a>
+          <a class="dropdown-item" href="/staff.html">Staff</a>
+          <a class="dropdown-item" href="/memorials.html">Memorials</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/events.php">Events</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/clubs.html">Clubs</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/giving.html">Giving</a></li>
+      <!--<li class="nav-item"><a class="nav-link text-primary" href="/contact.html">Contact</a></li>-->
+      <!--<li class="nav-item"><a class="nav-link"><img src="images/search-icon-2.svg" /></a></li>-->
+      <!--<li class="nav-item"><a class="nav-link"><img src="https://atmos.ucla.edu/Icon/search-icon-2.svg" /></a></li>-->
+    </ul>
+  </div>
+</nav>
+<div class="container p-2 ">
+  <h1>Reiner L. Stenzel</h1>
+<div class="media-body">
+    <div class="row">
+    <div class="col-sm-6 col-md-6 col-lg-7" >
+    <p><img src="images/stenzel-memoial.png" width="220px" class="image1 float-left" hspace="15px" alt="...">Emeritus Prof. Reiner L. Stenzel, a world-renown plasma experimentalist, passed away on December 9, 2023 in the San Francisco Bay area where he and his wife, Hatsuko, moved after retiring from the Physics and Astronomy department at UCLA in 2011. He was 84. Stenzel completed his undergraduate education at Technische Hochschule Braunschweig, in Germany in 1965. A year later he embarked upon his doctoral research at the California Institute of Technology. His dissertation, supervised by Roy Gould, provided detailed measurements of the radiation and absorption of electromagnetic energy in a magnetized plasma column. By performing an extensive assessment of the limitations of the diagnostic used, a methodology which was to become a constant theme throughout his career, he was able to show that the level of emission was consistent with black-body radiation. He also measured that the absorption and emission occurred at a unique location, known as the upper-hybrid layer. After a postdoctoral stint at Caltech, Stenzel held research physicist/adjunct teaching positions at UCLA, jointly with a membership in the physics staff of TRW, during the 1970-76 period. He joined the UCLA physics department, full-time, as an associate professor in 1977. Stenzel held visiting professorship appointments at the University of Tokyo (1980), the University of Paris (1995), and the University of Innsbruck in Austria (2007). He was a Fellow of the American Physical Society (1993), and held patents for a large, indirectly heated, oxide cathode for producing uniform plasma, and for an apparatus to provide selected isotope separation using electrostatic excitation of ions. His research appeared in more than 220 refereed publications.</p>
+    <p>Stenzel was an expert in electronics and a craftsman in the design and construction of a variety of novel probes and antennas. He invented several plasma diagnostics, such as the microwave resonator (hairpin) probe which is now employed worldwide. While at TRW Stenzel constructed a research device in which he conducted groundbreaking experiments on whistler waves. Whistler waves permeate the plasma which surrounds the earth. They were first picked up in 1886, as an auditory signal, by a 22 km long telephone line, which served as an antenna. Their dispersion was calculated in 1925 by Appleton and then Hartree. Stenzel was the first to measure the whistler wave dispersion relationship in a controlled experiment as well as the 3D propagation of the wave in uniform and non-uniform plasmas. Stenzel followed up by studying whistler wave ducting by creating density striations with high power whistlers and then demonstrating that small amplitude waves can become trapped in the ducts. Stenzel, in close collaboration with his former graduate student Dr. Manuel Urrutia continued to perform experiments at UCLA that advanced the understanding of whistler mode excitation and its consequence for space plasmas throughout his career.</p>
+    <p>Prof. Stenzel is widely recognized as one of the best plasma experimentalists of his generation. Starting in the early 70’s and extending for about one and a half decades, he and one of us (WG) embarked upon a number of seminal experiments on plasma waves. A quiescent plasma source in a strong magnetic field was developed and first experiments were on lower- hybrid wave propagation in the linear and non-linear regimes. The experiments showed that at large amplitudes the ponderomotive force associated with the wave modified the plasma density. This in turn, drastically affected the wave propagation. Next the work on plasma resonance cones which originated at Caltech was extended to studies of focused cones using a novel ring antenna. The RF pressure at the focal point blew a hole in the plasma and led to the generation of fast particles and secondary waves. Next followed a series of experiments on ion acoustic turbulence in a strongly magnetized plasma. In the late seventies Stenzel and one of us (WG) embarked on a series of experiments on magnetic field line reconnection. To do this a
+specialized machine was constructed to enable the reconnection to occur on a pulsed basis. The collaboration resulted in six publications in the Journal of Geophysical Research and twenty papers elsewhere. The research included three dimensional measurements of the magnetic field topology, generation of a variety of plasma waves, heating and energy flow, ion jetting, anomalous resistivity, turbulence and the production of double layers. The work fostered other groups to build experiments, do analytic theory and build computer simulations in what has now endured as a cottage industry. After the reconnection work Prof. Stenzel turned his attention to the study of plasma waves that could be generated by an electrode, the space tether, which was to be used to generate power on the space shuttle. The actual experiment in space failed to unfurl but Stenzel’s experiments indicated that it wouldn’t work anyway. Stenzel and his Japanese colleagues discovered that potential double layers were formed when an ion beam was injected into a magnetic cusp during his sabbatical in Tokyo. While a visiting professor at the University of Innsbruck he studied “fireballs” produced when large potential pulses were applied to electrodes.</p>
+<p>Stenzel loved the outdoors. He was an avid mountaineer and hiked and climbed in the Sierras. He led the Sierra club and boy scout troops on expeditions for many years. Over several summers he solo hiked the Pacific Crest Trail (from Mexico to Canada). But above all, Reiner Stenzel was a loving father and husband dedicated to his family. The heroic efforts with Hatsuko to support their seriously ill twin daughters has been widely documented in various media. In spite of these great personal difficulties, he always met his colleagues and students with a most welcoming smile. He will be missed by the surviving family, friends and the worldwide plasma community.</p>
+<br>
+<p>Walter Gekelman <br>
+  George Morales </p>
+<p>Physics and Astronomy department, UCLA </p>
+   1-12-24</p>
+      <hr>
+    </div>
+
+<div class="col-sm-6 col-md-6 col-lg-5">
+   <h2 class="module-header">Giving Resources</h2>
+      <p></p>
+      <p>
+      <ul>
+        <li><a href="https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=62">Chair's Discretionary Fund: Physics & Astronomy</a></li>
+        <li><a href="https://giving.ucla.edu/campaign/?&amount=100&OrgType=C&OrgNum=11200&fund=62542O&_ga=2.31983868.354681821.1569268216-149394707.1540588168">Center for Biological Physics</a></li>
+      </ul>
+      </p> <br><br>
+  <h2 class="module-header">PA Department Memorials</h2>
+      <p></p>
+      <p>
+      <ul>
+        <li><a href="https://www.pa.ucla.edu/memorials.html">Physics & Astronomy Memorials</a></li>
+      </ul>
+      </p>
+</div>
+
+   </div>  
+  </div>
+<div class="w-100 d-none d-sm-block d-md-none"><!-- wrap every 1 on sm--></div>
+<div class="w-100 d-none d-md-block d-lg-none"><!-- wrap every 2 on md--></div>
+  </div>
+</div>
+<footer class="site-footer">
+<footer class="footer text-light">
+<div class="container">
+<div class="row pt-3 pb-3">
+<div class="col-4">
+<!--<img src="white-pa-logo-new-crop.png" height="45px" align="left" />-->
+<h5>UCLA Physics & Astronomy Department</h5>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> UCLA Physics & Astronomy<br />
+475 Portola Plaza, Los Angeles, CA 90095-1547<br />
+310-825-3440</p>
+<p>
+<ul>
+	<li><a href="https://www.pa.ucla.edu/contact.html">Contact Physics & Astronomy</a></li>
+</ul>
+</p>	
+</div>
+<div class="col-4">
+<!--<img src="https://atmos.ucla.edu/sites/default/files/Uxd_Wht_ATMOS.svg" />-->
+<h5>ABOUT UCLA</h5>
+<p>
+<ul>
+      	<li><a href="http://www.ucla.edu/">UCLA Home</a></li>
+      	<li><a href="https://www.physicalsciences.ucla.edu/">Division of Physical Sciences</a></li>
+      	<li><a href="https://covid-19.ucla.edu/">UCLA COVID-19 Resources</a></li>
+      	<li><a href="https://admission.ucla.edu/visit/maps-and-parking">Maps, directions, and parking</a></li>
+      </ul>
+</p>
+
+</div>
+<div class="col-4">
+<!--<img src="https://atmos.ucla.edu/sites/default/files/Uxd_Wht_ATMOS.svg" />-->
+<h5>RESOURCES</h5>
+<p>
+<ul>
+      	<li><a href="https://bruinlearn.ucla.edu/courses/288">BruinLearn</a></li>
+      	<li><a href="https://www.pa.ucla.edu/instructional-support.html">Instructional Support</a></li>
+      	<li><a href="http://www.pa.ucla.edu/diversity.html">Diversity</a></li>
+        <li><a href="http://www.pa.ucla.edu/wellness.html">Wellness</a></li>
+        <li><a href="/covid.html">COVID</a></li>
+        <li><a href="https://computing.pa.ucla.edu/">Computing and IT Support</a></li>
+        <!--<li><a href="http://iff.pa.ucla.edu/">Machine Shop and Instrument Fabrication Facility</a></li>  -->
+        <li><a href="https://machine-shop.pa.ucla.edu">Machine Shop and Instrument Fabrication Facility</a></li>
+        <li><a href="https://www.pa.ucla.edu/research-store.html">Research Store</a></li> 
+      	<li><a href="http://www.pa.ucla.edu/contact.html">Physics & Astronomy Administration</a></li>
+      	<li><a href="http://demoweb.physics.ucla.edu/demo-manual">Demoweb: Lecture demonstration </a></li>
+      	<li><a href="http://demoweb.physics.ucla.edu/">Demoweb: Lab manuals</a></li>
+      </ul>
+</p>
+</div></div>
+</div>
+</footer>
+</body>
+</html> 
+
+

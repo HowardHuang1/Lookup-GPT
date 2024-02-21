@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<link rel="canonical" href="https://www.emergencymedicine.ucla.edu/education/residency_program/global_health" />
+<link rel="shortlink" href="https://www.emergencymedicine.ucla.edu/node/39" />
+
+    <title>Global Health | UCLA Emergency Medicine</title>
+    <link rel="stylesheet" media="all" href="/libraries/drupal-superfish/css/superfish.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/ajax-progress.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/autocomplete-loading.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tabledrag.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/modules/extlink/extlink.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/layout_discovery/layouts/onecol/onecol.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/libraries/drupal-superfish/style/default/default.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/libraries/bootstrap/css/bootstrap.min.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/variables.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/user.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/progress.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/affix.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/book.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/contextual.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/feed-icon.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/field.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/header.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/help.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/icons.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/image-button.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/item-list.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/list-group.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/media.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/page.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/search-form.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/shortcut.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/sidebar.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/site-footer.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/skip-link.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/table.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/tabledrag.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/tableselect.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/tablesort-indicator.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/ui.widget.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/tabs.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/toolbar.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/vertical-tabs.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/views.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/webform.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/ui-dialog.css?s8yljn" />
+<link rel="stylesheet" media="all" href="//stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/subtheme/css/style.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/sites/default/files/color/bootstrap_barrio_subtheme-2b0375c6/colors.css?s8yljn" />
+<link rel="stylesheet" media="all" href="//use.fontawesome.com/releases/v5.13.0/css/all.css" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/colors/messages/messages-light.css?s8yljn" />
+<link rel="stylesheet" media="print" href="/themes/bootstrap_barrio/css/print.css?s8yljn" />
+
+    
+  </head>
+  <body class="layout-no-sidebars page-node-39 path-node node--type-page">
+    <a href="#main-content" class="visually-hidden-focusable">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper">
+  <div id="page">
+    <header id="header" class="header" role="banner" aria-label="Site header">
+                 <nav class="navbar fixed-top navbar-expand-lg" id="navbar-main">
+          		                    <a href="/" title="Home" rel="home" class="navbar-brand">
+              <img src="/sites/default/files/logo_UCLA_blue_boxed_3.png" alt="Home" class="img-fluid d-inline-block align-top" />
+            
+    </a>
+    <div id="block-mainnavigation" class="settings-tray-editable block block-superfish block-superfishmain" data-drupal-settingstray="editable">
+  
+    
+      <div class="content">
+      
+<ul id="superfish-main" class="menu sf-menu sf-main sf-horizontal sf-style-default">
+  
+
+  
+  <li id="main-menu-link-content7c99e67d-8aff-4eae-ae90-ecdf169b5712" class="sf-depth-1 sf-no-children">
+              <a href="/" class="sf-depth-1">HOME</a>
+                      </li>
+
+
+            
+  <li id="main-menu-link-content3df052d4-ad44-42a2-9337-dbac11d5b948" class="active-trail sf-depth-1 menuparent">
+              <span class="sf-depth-1 menuparent nolink">EDUCATION</span>
+        <ul class="sf-multicolumn">
+    <li class="sf-multicolumn-wrapper ">
+              <ol>      
+
+                      
+  <li id="main-menu-link-content3f8b507f-2527-4647-9c18-80b8f2b7d144" class="active-trail sf-depth-2 sf-multicolumn-column menuparent">
+        <div class="sf-multicolumn-column">
+              <a href="/education/residency_program" class="sf-depth-2 menuparent">Residency Program</a>
+                  <ol>      
+
+  
+  <li id="main-menu-link-content6828db95-7b2a-419a-9134-1190446e397c" class="sf-depth-3 sf-no-children">
+              <a href="/education/residency_program/clinical" class="sf-depth-3">Clinical Curriculum</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content85ff6fd1-6fba-4c33-8ec7-9397e1f09a36" class="sf-depth-3 sf-no-children">
+              <a href="/education/residency_program/training_sites" class="sf-depth-3">Training Sites</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentdb8f4b1b-13e7-429c-97e7-b162be1d7dc8" class="sf-depth-3 sf-no-children">
+              <a href="/education/residency_program/didactic" class="sf-depth-3">Didactic Curriculum</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentdc3387c6-8483-4c59-84c4-7b03e5bf5637" class="sf-depth-3 sf-no-children">
+              <a href="/education/residency_program/electives" class="sf-depth-3">Electives</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentff7bb319-f0bd-46e0-803b-542b8f8c3249" class="active-trail sf-depth-3 sf-no-children">
+              <a href="/education/residency_program/global_health" class="is-active sf-depth-3">Global Health</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content23a9ad40-f55a-4f20-97a0-53455bf01486" class="sf-depth-3 sf-no-children">
+              <a href="/education/residency_program/other_opportunities" class="sf-depth-3">Other Clinical Opportunities</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentef3ad0bb-5cf4-405d-ab38-8fea22a333c2" class="sf-depth-3 sf-no-children">
+              <a href="/education/residency%20program/benefits" class="sf-depth-3">Benefits</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content564e55c0-462a-4a2f-813e-9f731b0f6f04" class="sf-depth-3 sf-no-children">
+              <a href="/education/residency_program/life" class="sf-depth-3">Life as a Resident</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content8e85fa55-445e-4b6d-80f2-7bfecc6eeb46" class="sf-depth-3 sf-no-children">
+              <a href="/education/residency_program/faqs" class="sf-depth-3">Frequently Asked Questions</a>
+                      </li>
+
+
+      </ol>            </div>  </li>
+
+
+                      
+  <li id="main-menu-link-content39a5d1c1-bf2d-443b-86a5-43d1be01e0d8" class="sf-depth-2 sf-multicolumn-column menuparent">
+        <div class="sf-multicolumn-column">
+              <span class="sf-depth-2 menuparent nolink">Fellowships</span>
+                  <ol>      
+
+  
+  <li id="main-menu-link-content579ded86-323f-40ef-ad73-66ee2f55d9a7" class="sf-depth-3 sf-no-children">
+              <a href="/education/fellowships/administration" class="sf-depth-3">Administration</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content1fa6a4c5-f7ec-4298-a00b-5524cdd08f00" class="sf-depth-3 sf-no-children">
+              <a href="/education/fellowships/medical_education" class="sf-depth-3">Medical Education &amp; Simulation</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content1fcca9f2-2e7f-40ac-90ae-3c08a7bdc895" class="sf-depth-3 sf-no-children">
+              <a href="/education/fellowships/research" class="sf-depth-3">Research</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content31bbe966-7f11-44c7-ab7e-0609322d3438" class="sf-depth-3 sf-no-children">
+              <a href="/education/fellowships/ultrasound" class="sf-depth-3">Ultrasound</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content77738869-5494-47a4-9d05-a993698fc59d" class="sf-depth-3 sf-no-children">
+              <a href="/education/fellowships/idheal" class="sf-depth-3">IDHEAL</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentcc83350a-4b11-4606-9893-7a96b791b5da" class="sf-depth-3 sf-no-children">
+              <a href="https://www.emergencymedicine.ucla.edu/education/fellowships/space_medicine" class="sf-depth-3 sf-external">Space Medicine</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentf2894861-aea7-431a-9b3f-16b2ec7044e9" class="sf-depth-3 sf-no-children">
+              <a href="https://www.uclahealth.org/clinical-informatics-fellowship" class="sf-depth-3 sf-external">Clinical Informatics</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content88ddeaea-9370-4d92-9bfc-54348bead087" class="sf-depth-3 sf-no-children">
+              <a href="http://nationalcsp.org/" class="sf-depth-3 sf-external">National Clinician Scholars</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content21d62499-3d6e-4757-a009-5ebc8cf76a83" class="sf-depth-3 sf-no-children">
+              <a href="/education/fellowship/toxicology" class="sf-depth-3">Toxicology</a>
+                      </li>
+
+
+      </ol>            </div>  </li>
+
+
+                      
+  <li id="main-menu-link-contentd5cca69a-6984-48da-a9db-2024bc41e953" class="sf-depth-2 sf-multicolumn-column menuparent">
+        <div class="sf-multicolumn-column">
+              <span class="sf-depth-2 menuparent nolink">Medical Students</span>
+                  <ol>      
+
+  
+  <li id="main-menu-link-content9c22681e-9739-47a2-ba11-5263a41bac11" class="sf-depth-3 sf-no-children">
+              <a href="/education/medicalstudents/interest" class="sf-depth-3">EM Interest Group</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contenta798ac47-3fb0-47ec-8622-98b9556658b3" class="sf-depth-3 sf-no-children">
+              <a href="/education/medicalstudents/core" class="sf-depth-3">Core Emergency Medicine Experience</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content23715cf4-ec78-403a-9a1f-0fe919fe6ade" class="sf-depth-3 sf-no-children">
+              <a href="/education/medicalstudents/clerkship" class="sf-depth-3">4th Year Clerkship</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contenta478c22c-b3c4-41cd-b255-e23ea4acfc67" class="sf-depth-3 sf-no-children">
+              <a href="/education/medicalstudents/diversity" class="sf-depth-3">Visiting Elective Diversity Scholarship</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content08ea1e2f-e525-4f7e-9c9d-f048f0ffed79" class="sf-depth-3 sf-no-children">
+              <a href="/education/medicalstudents/virtual" class="sf-depth-3">Virtual Clerkship Experience</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentc10ae2df-69b1-46fa-b779-5d9441908643" class="sf-depth-3 sf-no-children">
+              <a href="/education/medicalstudents/ultrasoundrotation" class="sf-depth-3">Ultrasound Rotation</a>
+                      </li>
+
+
+      </ol>            </div>  </li>
+
+
+      </ol>        </li></ul>      </li>
+
+
+            
+  <li id="main-menu-link-content78be1bda-d943-41f6-b089-d17ae9a89171" class="sf-depth-1 menuparent">
+              <span class="sf-depth-1 menuparent nolink">SECTIONS</span>
+        <ul class="sf-multicolumn">
+    <li class="sf-multicolumn-wrapper ">
+              <ol>      
+
+  
+  <li id="main-menu-link-content2956f216-a3c9-4c3f-b702-cd1460a5c238" class="sf-depth-2 sf-no-children">
+              <a href="http://www.uclaemultrasound.org/" class="sf-depth-2 sf-external">Ultrasound</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contente102e04f-26c8-409c-9df2-b329f5bd1516" class="sf-depth-2 sf-no-children">
+              <a href="http://www.idheal-ucla.org/" class="sf-depth-2 sf-external">IDHEAL</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentbeefe732-294e-4e5b-b8fd-6426afe7e8e9" class="sf-depth-2 sf-no-children">
+              <a href="/sections/research" class="sf-depth-2">Research</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentc75efa3a-807e-49ac-9f53-b8c83a5a1f67" class="sf-depth-2 sf-no-children">
+              <a href="https://emra.dgsom.ucla.edu/pages/" class="sf-depth-2 sf-external">EM Research Associates</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentc179e522-e2c7-40da-b753-77173d463486" class="sf-depth-2 sf-no-children">
+              <a href="/sections/critical_care" class="sf-depth-2">Critical Care</a>
+                      </li>
+
+
+      </ol>        </li></ul>      </li>
+
+
+            
+  <li id="main-menu-link-content49bb1ff9-e3ee-4b56-b7bc-77fc572e1817" class="sf-depth-1 menuparent">
+              <span class="sf-depth-1 menuparent nolink">PEOPLE</span>
+        <ul class="sf-multicolumn">
+    <li class="sf-multicolumn-wrapper ">
+              <ol>      
+
+  
+  <li id="main-menu-link-content9cadd0b9-dfe3-4675-b9f9-97a38a5e1c8b" class="sf-depth-2 sf-no-children">
+              <a href="/people/leadership/chair" class="sf-depth-2">Department Chair</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentb2dca69f-658e-43f8-8285-459dc59f719d" class="sf-depth-2 sf-no-children">
+              <a href="/node/6229" class="sf-depth-2">Medical Directors</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content06b4ba8f-91b0-4796-ab22-85aafaee2760" class="sf-depth-2 sf-no-children">
+              <a href="/people/leadership/residency" class="sf-depth-2">Program Directors</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentadd8a566-f56d-4856-bc93-72090b291f78" class="sf-depth-2 sf-no-children">
+              <a href="https://www.uclahealth.org/departments/emergency-medicine/our-team/ronald-reagan-ucla-medical-center" class="sf-depth-2 sf-external">Ronald Reagan Faculty</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content7e723200-fbff-49ce-91f2-0cc5eea6b869" class="sf-depth-2 sf-no-children">
+              <a href="https://www.uclahealth.org/departments/emergency-medicine/our-team/olive-view-ucla-medical-center" class="sf-depth-2 sf-external">Olive View Faculty</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentb5bc6538-02b1-42f2-9a6c-a75c7f38897f" class="sf-depth-2 sf-no-children">
+              <a href="/people/residents" class="sf-depth-2">Residents</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content7ea5846e-ce26-4c68-ba68-9cac0961080e" class="sf-depth-2 sf-no-children">
+              <a href="/people/fellows" class="sf-depth-2">Fellows</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content6aa2da49-9415-4095-a4df-0ad1e48bd0f5" class="sf-depth-2 sf-no-children">
+              <a href="/people/alumni" class="sf-depth-2">Alumni</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentc462469d-f9f6-4781-a5ca-7d3997695508" class="sf-depth-2 sf-no-children">
+              <a href="/people/edu_staff" class="sf-depth-2">Staff</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content80c33b12-9b73-48f9-b848-c74b2af71c09" class="sf-depth-2 sf-no-children">
+              <a href="/people/scribes" class="sf-depth-2">Scribes</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentb2d70086-22d1-4708-ba4d-0ef875e21fdb" class="sf-depth-2 sf-no-children">
+              <a href="/people/band" class="sf-depth-2">Band</a>
+                      </li>
+
+
+      </ol>        </li></ul>      </li>
+
+
+  
+  <li id="main-menu-link-contentf2916f82-bade-4bff-a33a-235e8ee84787" class="sf-depth-1 sf-no-children">
+              <a href="/diversity" class="sf-depth-1">DIVERSITY</a>
+                      </li>
+
+
+            
+  <li id="main-menu-link-contentafda4ab5-c81a-4206-a397-27ebe6169b83" class="sf-depth-1 menuparent">
+              <span class="sf-depth-1 menuparent nolink">CONNECT</span>
+        <ul class="sf-multicolumn">
+    <li class="sf-multicolumn-wrapper ">
+              <ol>      
+
+  
+  <li id="main-menu-link-contentbc8755b7-0b70-4896-97f4-9e71ae0d7f32" class="sf-depth-2 sf-no-children">
+              <a href="/connect/calendar" class="sf-depth-2">Calendar</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content0c53fdd5-b7ac-45d7-b4da-e3251fcf6bb0" class="sf-depth-2 sf-no-children">
+              <a href="/connect/contact_us" class="sf-depth-2">Contact Us</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content3685e4a0-e1eb-4060-8939-078efe6bac4e" class="sf-depth-2 sf-no-children">
+              <a href="https://www.uclahealth.org/departments/emergency-medicine" class="sf-depth-2 sf-external">UCLA Department of Emergency Medicine</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentd9e7a43f-2324-4842-9f87-52807d3bdf83" class="sf-depth-2 sf-no-children">
+              <a href="https://www.uclahealth.org" class="sf-depth-2 sf-external">UCLA Health</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content83df743e-8ba7-43b6-a3d4-60466e443f86" class="sf-depth-2 sf-no-children">
+              <a href="https://medschool.ucla.edu" class="sf-depth-2 sf-external">David Geffen School Of Medicine</a>
+                      </li>
+
+
+      </ol>        </li></ul>      </li>
+
+
+            
+  <li id="main-menu-link-content9e2c385f-7cee-44d0-9731-8fdcef10c306" class="sf-depth-1 menuparent">
+              <span class="sf-depth-1 menuparent nolink">BULLETIN</span>
+        <ul class="sf-multicolumn">
+    <li class="sf-multicolumn-wrapper ">
+              <ol>      
+
+  
+  <li id="main-menu-link-contenteba1f87f-cb81-4658-bec9-d6c47d1240c0" class="sf-depth-2 sf-no-children">
+              <a href="/newsletters" class="sf-depth-2">Newsletters</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content4ac2f7bf-ab00-48d0-ae05-0fee7525a55e" class="sf-depth-2 sf-no-children">
+              <a href="/overview/history" class="sf-depth-2">History</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content8da0ab7a-f85e-4d1b-89f5-3e9c8736d6e8" class="sf-depth-2 sf-no-children">
+              <a href="/didyouknow" class="sf-depth-2">Notables</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content08d81456-5a97-4444-a62f-2d118d5ca588" class="sf-depth-2 sf-no-children">
+              <a href="/bulletin/faculty_positions" class="sf-depth-2">Faculty Positions</a>
+                      </li>
+
+
+      </ol>        </li></ul>      </li>
+
+
+  
+  <li id="main-menu-link-contentb7768948-92b7-42b4-a3d4-9dbcf79e49b7" class="sf-depth-1 sf-no-children">
+              <a href="https://students-residents.aamc.org/attending-medical-school/article/visiting-student-learning-opportunities/" class="sf-depth-1 sf-external">Apply to VSLO</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contenta23a5b0f-a659-4bc1-b545-3b32e31377da" class="sf-depth-1 sf-no-children">
+              <a href="/donate" class="sf-depth-1">Donate</a>
+                      </li>
+
+
+</ul>
+
+    </div>
+  </div>
+
+
+                              </nav>
+          </header>
+            <div id="main-wrapper" class="layout-main-wrapper clearfix">
+              <div id="main" class="container-fluid">
+          
+          <div class="row row-offcanvas row-offcanvas-left clearfix">
+              <main class="main-content col" id="content" role="main">
+                <section class="section">
+                  <a id="main-content" tabindex="-1"></a>
+                    <div data-drupal-messages-fallback class="hidden"></div><div id="block-bootstrap-barrio-subtheme-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      <div class="pagetitle">
+			<img class="responsive header-img" src="/sites/default/files/2019-07/Recruitment_S2.png"/>
+		<div class="pagetitle-nested" style="bottom: 30%;">
+		<h1 class="text-light text-center display-3 title-font"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Global Health</span>
+</h1>
+	</div>
+</div>
+
+  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="block block-layout-builder block-field-blocknodepagebody">
+  
+    
+      <div class="content">
+      
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><section class="container">
+<br>
+<p>Since the early days of the residency, the UCLA-Ronald Reagan/Olive View Emergency Medicine Residency Program has responded to the need for the development of high-quality Emergency Medicine capabilities abroad. Some examples of our work include:</p>
+
+<p>Dr. Breena Taira, Research Director and Assistant Professor of Emergency Medicine at Olive View-UCLA, is the current ACEP Ambassador to Nicaragua. She also serves as the US Executive Director for<span>&nbsp;</span><a href="http://projectsemilla.org/" target="_blank">Project SEMILLA</a>, a non-profit international partnership with the Universidad Nacional Autónoma de Nicaragua (UNAN) School of Medicine that works on improving emergency healthcare capacity in Latin America through education, system organization, and improved access to technologies.</p>
+
+<p>Recently, former Chief Resident and Ultrasound Fellow, Dr. Caleb Canders returned from Nicaragua with several Olive View-UCLA faculty as a part of this effort. Dr. Taira also chairs the<span>&nbsp;</span><a href="http://www.idheal-ucla.org/" target="_blank">International and Domestic Health Equity and Leadership (IDHEAL)</a><span>&nbsp;</span>Section of the UCLA Department of Emergency Medicine.</p>
+
+<p>In 1984, Dr. Robert Simon, then a UCLA Emergency Medicine faculty member, along with the support of fellow volunteer physicians and nurses, started the<span>&nbsp;</span><a href="https://internationalmedicalcorps.org/" target="_blank">International Medical Corps</a>. This has since become a large global non-governmental organization supporting health relief efforts in over 30 countries.</p>
+
+<p>Dr. Tom Lee, a long-time faculty member at Ronald Reagan UCLA and Antelope Valley Hospital, founded<span>&nbsp;</span><a href="http://cpintl.org/" target="_blank">Community Partners International</a>, which has been working in Myanmar for over seventeen years, serving the health and development needs of those in low resource settings</p>
+
+<p>Dr. Alan Chiem, our Ultrasound Director and Professor of Emergency Medicine, maintains a partnership to promote ultrasound education in Chile.</p>
+
+<p>Dr. Joanne Feldman, Clinical Assistant Professor of Emergency Medicine at UCLA, regularly travels to Antarctica as a physician for the research base also serves as a medical director on ecotourism expeditions across the globe.</p>
+
+<p>UCLA maintains a strong relationship with the Second Affiliated Hospital of Zhejiang University in Hangzhou, China where Dr. David Schriger, Emergency Medicine Professor in Residence, and Dr. Scott Votey, Professor of Emergency Medicine, recently returned from.</p>
+
+<p>Dr. Matt Waxman, Associate Professor of Emergency Medicine at Olive View-UCLA, recently returned from fighting the Ebola epidemic in Sierra Leone.</p>
+
+<p>Many of our graduates continue to do international work and become leaders in this field. This, in part, stems from flexible elective time allowing residents interested in global health to work in locations around the world. Recently, our residents have done electives in Haiti, South Africa, Nepal, China and Uganda. In addition, the UCLA Center for International Medicine has an established resident exchange program with Bali’s International Medical Centre Hospital for a funded Emergency Medicine experience. All faculty members welcome interested residents, and UCLA remains one of the few programs in the country that will pay your resident salary for an international emergency medicine experience!</p>
+<br>
+</section>
+</div>
+      
+    </div>
+  </div>
+<div class="block block-layout-builder block-extra-field-blocknodepagelinks">
+  
+    
+      <div class="content">
+      
+
+
+    </div>
+  </div>
+
+    </div>
+  </div>
+
+
+    </div>
+  </div>
+
+
+                </section>
+              </main>
+                                  </div>
+        </div>
+          </div>
+        <footer class="site-footer">
+              <div class="container-fluid">
+          		<div class="site-footer text-center">
+		  <div class="content">
+			<p>UCLA Emergency Medicine<br><br>1100 Glendon Avenue, Suite 1200<br>Los Angeles, California 90024<br><br>© 2024</p>
+			</div>
+		  </div>
+		  <div class="text-center text-light" style="font-size: 13px;"><div id="content-d"><a href="https://www.uclahealth.org/emergency-medicine/" target="self">Department of Emergency Medicine</a> | <a href="https://medschool.ucla.edu/" target="self">David Geffen School of Medicine at UCLA</a> | <a href="https://www.uclahealth.org" target="self">UCLA Health</a></div></div>
+        </div>
+          </footer>
+  </div>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/39","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"superfish":{"superfish-main":{"id":"superfish-main","sf":{"delay":"750","animation":{"opacity":"show","height":"show","width":"show"}},"plugins":{"touchscreen":{"behaviour":"0","mode":"useragent_predefined"},"smallscreen":{"mode":"window_width","breakpoint":780,"accordionButton":"0","title":" "},"supposition":true,"supersubs":true}}},"user":{"uid":0,"permissionsHash":"c3eba8529a21c064539869cbbc885a306d6172d928c7ceb51188c8f17b67cd4d"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.2.2"></script>
+<script src="/core/misc/drupal.js?v=10.2.2"></script>
+<script src="/core/misc/drupal.init.js?v=10.2.2"></script>
+<script src="/themes/bootstrap_barrio/js/barrio.js?v=10.2.2"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+<script src="//stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+<script src="/themes/bootstrap_barrio/subtheme/js/global.js?v=10.2.2"></script>
+<script src="/modules/extlink/extlink.js?v=10.2.2"></script>
+<script src="/libraries/drupal-superfish/superfish.js?s8yljn"></script>
+<script src="/libraries/drupal-superfish/jquery.hoverIntent.minified.js?s8yljn"></script>
+<script src="/libraries/drupal-superfish/sftouchscreen.js?s8yljn"></script>
+<script src="/libraries/drupal-superfish/sfsmallscreen.js?s8yljn"></script>
+<script src="/libraries/drupal-superfish/supposition.js?s8yljn"></script>
+<script src="/libraries/drupal-superfish/supersubs.js?s8yljn"></script>
+<script src="/modules/superfish/js/superfish.js?v=2.0"></script>
+<script src="/libraries/bootstrap/js/bootstrap.min.js?s8yljn"></script>
+
+  <script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=9&cb=276932668" async></script></body>
+</html>

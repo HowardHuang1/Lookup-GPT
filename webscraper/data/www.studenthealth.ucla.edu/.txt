@@ -1,0 +1,1173 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Shine Inside and Out: Student Health at UCLA | UCLA Student Health</title>
+<link rel="stylesheet" href="/themes/custom/ucla_sa/fonts/proximanova.css?v=20240220144912">
+<link rel="stylesheet" href="/themes/custom/ucla_sa/css/ucla_sa.css??v=20240220144912">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120085288-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', 'UA-120085288-1');
+</script>
+<style type="text/css">
+.full-bleed-text{
+     padding:6%;
+}
+@media only screen and (min-width:990px){
+     .full-bleed-bg{
+         background: url(/media/487);
+         height:640px;
+         background-repeat: no-repeat;
+         background-size: 100%;
+         padding: 2rem;
+         margin-right: -24px;
+         margin-left: -24px;
+    }
+    .full-bleed-bg img{
+         display:none;
+    }
+    .full-bleed-text h2{
+         font-size: 3rem;
+         line-height: 3.375rem;
+         padding-bottom:2%;
+    }
+    .full-bleed-text p, .full-bleed-text ul{
+         font-size:16pt;
+         line-height: 1.4;
+    }
+}
+@media only screen and (max-width:1024px){
+     .full-bleed-text{
+         padding: 4% 
+    }
+}
+
+
+
+.button-with-bg{
+  text-align: center;
+  background-image: linear-gradient(#003B5C, #2774AE);
+  margin: 0 -24px -4px -24px;
+  padding: 2rem;
+}
+
+.button-with-bg h2 {
+ color:#fff;
+ font-weight:normal;
+}
+
+.bg-button a {
+ background-color: var(--ucla-gold);
+ border-color: var(--ucla-gold);
+ color: #000000;
+}
+
+.bg-button a:hover, .bg-button a:focus {
+ background-color: var(--yellow);
+ border-color: var(--yellow);
+color: #000000;
+}
+
+.ashe-floor-1 {
+  width: 109px;
+  height: 280px;
+  background-image: url('/file/d631dcd5-329a-4cc3-aa13-95a622d717ed');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ashe-floor-2 {
+  width: 187px;
+  height: 280px;
+  background-image: url('/file/6bf4b8aa-1230-499b-89a5-174dfb6f55f8');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ashe-floor-3 {
+  width: 136px;
+  height: 280px;
+  background-image: url('/file/b3e196ae-bd4f-4cc3-895b-6a0c9db975d0');
+ background-repeat: no-repeat;
+  background-size: cover;
+}
+.ashe-floor-4 {
+  width: 163px;
+  height: 280px;
+  background-image: url('/file/5d544f8b-240f-4524-b511-91bc6344ac9b');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.ashe-floor-descriptions {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 1rem;
+}
+.ashe-floor-descriptions p {
+  display: inline-block; 
+   vertical-align: top;
+}
+.ashe-room-radiology {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/d4e70fd1-2fab-48e6-9ff8-744627eaca9b');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-womens {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/5ad53dc9-c564-46dc-9edd-22c3aaeb737b');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-acupuncture {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/793e100d-14a8-4aab-b56e-585721bfd304');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-scheduling {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/40ed8066-6720-452c-890b-3283e5b417ce');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-2-clinic {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/0f600fff-520f-42bf-b32e-22abb9c4c9e2');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-dental {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/1abd9f51-be51-4fb5-9d40-b2cd429a6e83');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-nursing {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/afdea2af-83c4-4add-b611-c3aa88eac7af');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-immune {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/6d25268e-2d10-4517-98c2-fe2f6b38b606');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-physical-therapy {
+  width: 57px;
+  height: 57px;
+  background-image: url('file/3985052e-3b2d-45d7-b961-8c37c9734d85');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-records {
+  width: 57px;
+  height: 57px;
+  background-image: url('file/0510707f-0eef-4615-882e-4dbefd38861f');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-insurance {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/c0eaeffc-1b38-43d8-8735-8a807eb4dd69');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+@media (max-width:768px) {
+  .ashe-floor-descriptions {
+      margin-top: 2rem;
+  }
+}
+img {
+display: block;
+}
+.tables-col-4 th, .tables-col-4 td {
+    width: 25%;
+}
+.tables-col-5 th, .tables-col-5 td {
+    width: 20%;
+}
+</style>
+<script type="text/javascript">
+"use strict";
+async function covidFAQ() {
+    var node = document.querySelector('[data-ucla=covid-faq]');
+    if(typeof(node) == undefined || node == null) {
+        return;
+    }
+    var before = `${node.innerHTML}`;
+    node.innerText = 'Loading FAQs...';
+    var r = await fetch('https://www.uclahealth.org/ucla-campus-faq-feed.cfm?smajax=true');
+    var data = await r.json();
+    node.innerHTML = '';
+    var toc = document.createElement('div');
+    toc.classList.add('table-of-contents');
+    node.parentNode.insertBefore(toc, node);
+    console.log(node.parentNode.parentNode);
+    var activeCategory = '';
+    for(var i=0; i<data.length; i++) {
+        var item = data[i];
+        if(activeCategory != item.category) {
+            var h2 = document.createElement('h2');
+            h2.innerHTML = item.category;
+            activeCategory = `${item.category}`;
+            node.appendChild(h2);
+        }
+        var h3 = document.createElement('h3');
+        h3.innerHTML = item.question;
+
+        var div = document.createElement('div');
+        div.innerHTML = item.answer;
+
+        for(var ul of div.querySelectorAll('ul')) {
+            ul.classList.add('bullet');
+        }
+        for(var a of div.querySelectorAll('a')) {
+            if(!a.getAttribute('href').match(/http/)) {
+                a.setAttribute('href', `https:///www.uclahealth.org/${a.getAttribute('href')}`);
+            }
+        }
+
+        node.appendChild(h3);
+        node.appendChild(div);
+    }
+
+var tocs = document.querySelectorAll('.table-of-contents');
+for(var i=0; i < tocs.length; i++) {
+    generateTableOfContents(tocs[i]);
+}
+
+ 
+
+
+function generateTableOfContents(toc) {
+    var parent = document.querySelector('.page-content');
+    toc.innerHTML = '';
+    var currentLevel = 2;
+    var ulForLevel = {
+        2: document.createElement('ul'),
+        3: null
+    }
+    toc.appendChild(ulForLevel[2]);
+    console.log(ulForLevel);
+    var tocFound = false;
+    var items = parent.querySelectorAll('h2, h3');
+    console.log(items);
+    for(var i=0; i < items.length; i++) {
+        var item = items[i];
+        console.log(item);
+        var key = item.textContent.replace(/ /g, '_').replace(/[^a-zA-Z0-9_]/g, '').toLowerCase();
+        item.id = key;
+        var li = document.createElement('li');        
+        var a = document.createElement('a');
+        a.href = '#' + key;
+        a.innerText = item.innerText;
+        li.appendChild(a);
+        var level = parseInt(item.nodeName.replace('H', ''));
+        if(currentLevel > level) {
+            ulForLevel[currentLevel] = null;
+        } else if(level == NaN) {
+        	level = 2;
+        }
+        if(ulForLevel[level] != null) {
+            ulForLevel[level].appendChild(li);           
+        } else {
+            ulForLevel[level] = document.createElement('ul');
+            console.log( ulForLevel[level - 1], item, level);
+            ulForLevel[level - 1].querySelector(':scope > li:last-child').appendChild(ulForLevel[level]);
+            ulForLevel[level].appendChild(li);
+        }
+        currentLevel = level;
+    }
+}
+
+}
+
+if (document.readyState === "complete" || document.readyState === "interactive") {
+    // Document is already ready to go.
+    setTimeout(covidFAQ, 1);
+} else {
+    document.addEventListener('DOMContentLoaded', function (event) {
+        covidFAQ();
+    });
+}
+</script>
+</head>
+<body
+    data-ucla-ref="load/"
+    data-ucla-path="/"
+    data-ucla-origin="https://www.studenthealth.ucla.edu"
+    class="no-js"
+>
+<script>document.body.classList.remove('no-js'); document.body.classList.add('js');</script>
+<header class="header">
+    <div class="skip-to-main">
+    <a href="#main">Skip to Main Content</a>
+    </div>
+            <div class="nav-topbar desktop-only">
+    <nav aria-label="Secondary Top" class="nav-secondary container">
+    <ul>
+  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
+  <li><a href="https://www.immunizationrequirement.ucla.edu/">Immunization Requirements</a></li>
+  <li><a href="/afterhours">AfterHours</a></li>
+  <li><a href="/careers">Careers</a></li>
+  <li class="topbar-yellow-button"><strong><a href="/portal">PATIENT PORTAL</a></strong></li>
+</ul>
+    </nav>
+    </div>
+    <div class="headerbar container">
+          <a href="/" class="site-name"><img src="/sites/default/files/UCLA_Logo_AsheCenter.fw_.png" height="70" width="780" alt="UCLA Arthur Ashe Student Health &amp; Wellness Center"></a>
+          <div class="header-right">
+      <button class="mobile-only" aria-haspopup="true" aria-controls="menus" aria-expanded="false" aria-label="Main Menus"></button>
+      <form action="https://www.ucla.edu/search" method="GET" class="site-search desktop-only">
+      <label for="header-search-headerbar">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-headerbar"><button type="submit">Search</button>
+      </form>
+      </div>
+    </div>
+    <div id="menus">
+    <form action="https://www.ucla.edu/search" method="GET" class="site-search mobile-only">
+      <label for="header-search-mobile-only">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-mobile-only"><button type="submit">Search</button>
+    </form>
+    <nav aria-label="Main" class="nav-main container">
+    <ul>
+  <li><a href="/services">Services</a></li>
+  <li><a href="/insurance">Insurance</a></li>
+  <li><a href="/fees">Fees</a></li>
+  <li><a href="/about">About</a></li>
+  <li><a href="/contact">Contact</a></li>
+</ul>
+    </nav>
+    <nav aria-label="Secondary Menu" class="nav-secondary container mobile-only">
+    <ul>
+  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
+  <li><a href="https://www.immunizationrequirement.ucla.edu/">Immunization Requirements</a></li>
+  <li><a href="/afterhours">AfterHours</a></li>
+  <li><a href="/careers">Careers</a></li>
+  <li class="topbar-yellow-button"><strong><a href="/portal">PATIENT PORTAL</a></strong></li>
+</ul>
+    </nav>
+    </div>
+</header>
+<main id="main">
+  <div class="container">
+        <div class="page">
+<div class="page-header">
+  <div id="block-system-messages">
+<div data-drupal-messages-fallback class="hidden"></div>
+</div>
+<div id="block-headerimageblock">
+  
+    
+      
+  <a href="https://www.studenthealth.ucla.edu/insurance/benefits/urgentcare-emergency"><img loading="eager" src="/sites/default/files/styles/header_image/public/2022-11/Get-Care-Now-2022.jpg?itok=PGTARQyB" width="1170" height="450" alt="Get Care Now graphic showing student smiling" />
+
+</a>
+
+
+  </div>
+<div id="block-ucla-sa-page-title">
+  
+    
+      
+  <h1>Shine Inside and Out: Student Health at UCLA</h1>
+
+
+  </div>
+
+
+</div>
+<div class="page-content">
+  <div id="block-mainpagecontent">
+  
+    
+      <div data-ucla-node-id="1">
+
+
+
+
+
+<div class="body-content body--section">
+
+<p class="lead">The Arthur Ashe Student Health and Wellness Center (The Ashe Center) is devoted to providing quality, accessible, state-of-the-art healthcare and education to support the unique development of UCLA students. (<a href="/about">Learn more about The Ashe Center</a>). Need an <a href="https://www.studenthealth.ucla.edu/portal">appointment</a>?</p> <ul></ul>
+
+</div>
+
+  <div class="cards-theme-services cards paragraph--section" data-section-title="Trending Topics for Student Health">
+          <h2>
+Trending Topics for Student Health
+</h2>
+      
+      <div class="cards-container">
+      
+  <a href="https://bewellbruin.ucla.edu/"  class="card">
+          <span class="card-image">
+  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2023-08/foodinsecurity.png?itok=lV2n6DdP" width="900" height="600" alt="Student carrying produce and smiling" />
+
+
+
+</span>
+      <span class="card-title">
+Be Well Bruin
+</span>
+      <span class="card-summary">
+<p class="summary">What is Be Well Bruin? Find support, resources, and tools to be the best you.</p>
+</span>
+      </a>
+
+  <a href="https://www.studenthealth.ucla.edu/covid19"  class="card">
+          <span class="card-image">
+  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2021-06/covidcentral_mask6.jpg?itok=CXnLJ24h" width="900" height="600" alt="Woman at computer with glasses and face mask" />
+
+
+
+</span>
+      <span class="card-title">
+COVID-19 Exposure Management Team
+</span>
+      <span class="card-summary">
+<p class="summary">If you test positive for COVID-19, please isolate immediately and contact our UCLA Exposure Management Team for guidance.</p>
+</span>
+      </a>
+
+  <a href="https://www.studenthealth.ucla.edu/text-alerts"  class="card">
+          <span class="card-image">
+  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2023-08/ashe-texts-signup23.jpg?itok=jn2U-taH" width="900" height="600" alt="A person with pink hair in a pink blazer holding up their phone to text" />
+
+
+
+</span>
+      <span class="card-title">
+Sign Up for Text Alerts
+</span>
+      <span class="card-summary">
+<p class="summary">The Ashe Center can send you text message alerts about your upcoming appointments, prescriptions, and more. Opt-in for text messages today.</p>
+</span>
+      </a>
+
+  <a href="/seismic"  class="card">
+          <span class="card-image">
+  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2021-04/lab-cover.jpg?itok=zx9AMnsK" width="900" height="600" alt="" />
+
+
+
+</span>
+      <span class="card-title">
+Lab Services on 1st Floor
+</span>
+      <span class="card-summary">
+<p class="summary">The Ashe Center Lab has returned to their location on the 1st Floor of The Ashe Center.</p>
+</span>
+      </a>
+
+
+      </div>
+      </div>
+
+  <div class="body-content paragraph--section" data-section-title="Student Health News &amp; Announcements">
+          <h2>
+Student Health News &amp; Announcements
+</h2>
+      
+<section class="columns columns-2 columns-2-7030">
+<section class="column column-1">
+<h3>Latest COVID-19 Protocols Update</h3>
+
+<h4><strong>What you need to know:</strong></h4>
+
+<ul>
+	<li>
+	<p>The Ashe Center masking guidelines have been updated to align with UCLA Health to keep staff and patients safe during respiratory virus season.&nbsp;</p>
+	<strong>​​​​​Effective 10/4/23, universal masking in direct patient care areas has been reinstated.</strong></li>
+	<li>
+	<p>Staff, patients and visitors to the Ashe Center must wear a mask in all clinical spaces.</p>
+	</li>
+	<li>
+	<p>Patients are required to wear masks during their visits, including all waiting areas, exam rooms and spaces where clinical work is performed.</p>
+	</li>
+	<li>
+	<p><strong>Students who test positive for COVID-19</strong> should isolate immediately and contact the <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="36349eee-a0a2-49b2-b5a9-cdc5c2d2e636" href="/exposure-management-faqs">UCLA Exposure Management Team</a> for further guidance.</p>
+	</li>
+</ul>
+
+<p class="button"><a href="https://covid-19.ucla.edu/updates-to-covid-19-protocols/">Updates from Infectious Disease Management Team</a></p>
+
+<h3>Ashe Radiology &amp; Lab Walk-in Reminders</h3>
+
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<h4>Last Appointment Before Lunch Closure</h4>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+
+<p>Please note: The last available appointment for&nbsp;Radiology and Lab is 30 minutes prior to the daily lunch closure.</p>
+
+<ul>
+	<li>All weekdays, except Wednesday: 12:30 PM</li>
+	<li>Wednesday: 12 PM</li>
+</ul>
+
+<p class="button"><a href="https://www.studenthealth.ucla.edu/contact">Ashe Center Hours of Operation</a></p>
+
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<h3>Planned Closures or Hours Changes</h3>
+
+<h4>Upcoming Campus Holiday (02/19/24)</h4>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+
+<p>The Ashe Center will be closed on&nbsp;<strong>Monday, February 19,&nbsp;</strong>in observance of the&nbsp;<strong>Presidents' Day</strong>&nbsp;university holiday. If you have&nbsp;<a href="https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html">COVID-19 symptoms</a>&nbsp;such as fever and cough, receive a positive test result, or have had close contact with someone who tested positive please do the following: (1) Isolate yourself and stay at home; (2) Call The Ashe Center COVID-19 Hotline at&nbsp;<a href="tel:3102066217">(310) 206-6217</a>&nbsp;immediately.</p>
+
+<p><strong>Please note: Processing of&nbsp;<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="406c7bbd-40fa-436a-a467-7c3b20414225" href="/services/covid-19-testing">COVID self-tests via the campus vending machines</a>&nbsp;may be affected by the university holiday.</strong></p>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<h3>Student Health Event Calendar</h3>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+
+<div data-custom-embed-id="127" data-custom-embed-title="Community Cal: Ashe Center (1 Ashe Events)">
+
+<div data-ucla="calendar" data-ucla-calendar-heading-start="2" data-ucla-calendar-max-events="1" data-ucla-calendar-path="/program/ashe" data-ucla-calendar-template="cards"> <p>Loading events...</p></div>
+
+</div>
+
+
+
+<p class="button"><a href="https://www.studenthealth.ucla.edu/student-health-event-calendar">Full Calendar of Student Health Events</a></p>
+</section>
+
+<section class="column column-2">
+<section class="callout">
+<h3>Masks Required</h3>
+
+<p>Universal masking is currently in effect. <strong>All students entering the building must wear a mask.</strong> Complimentary masks are available at The Ashe Center main entrance.</p>
+</section>
+
+<h3>Get Help Now</h3>
+
+<p>If you or anyone you know is experiencing a life threatening situation call&nbsp;911.</p>
+
+<ul>
+	<li>
+	<p>Ashe Student Health &amp; Wellness Center<br>
+	(<a href="/services/nurse-line">24hr Nurse Line</a>)&nbsp;<em>Available AfterHours</em></p>
+
+	<p><a href="tel:3108254073">310-825-4073 (Option 2)</a></p>
+	</li>
+</ul>
+
+<h3>When We Are&nbsp;Closed</h3>
+
+<p class="button"><a href="/insurance/benefits/urgentcare-emergency">After Hours Options</a></p>
+
+<ul>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="4fb0e8fb-d21d-4f11-b6e5-8f06eb5f0a43" href="/livehealth">LiveHealth Online</a><br>
+	&nbsp;</li>
+	<li>Counseling &amp; Psychological Services (<a href="https://www.counseling.ucla.edu/">CAPS</a>)<br>
+	24hr Crisis Line,&nbsp;<em>Available 24/7</em></li>
+</ul>
+
+<p><em>&nbsp; &nbsp;</em><a href="tel:3108250768">310-825-0768</a></p>
+
+<p class="button"><a href="https://www.counseling.ucla.edu/concerned-about-a-bruin/concerned-about-a-bruin">Concerned About a Bruin?</a></p>
+
+<h3>Community Resources</h3>
+
+<ul>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="1682ebc8-a832-492a-8021-73d0d883dd6f" href="/covid19">COVID Hotline</a><br>
+	<br>
+	<a href="tel:3102066217">310-206-6217</a><br>
+	&nbsp;</li>
+	<li><a href="https://www.uclahealth.org/locations/rape-treatment-center">Rape Treatment Center&nbsp;at Santa Monica</a></li>
+	<li>
+	<p>UCLA Medical Center</p>
+
+	<p><a href="tel:4242596000">424-259-6000</a></p>
+	</li>
+	<li>
+	<p>UC Police Department (<a href="https://www.police.ucla.edu/">UCPD</a>)</p>
+
+	<p><a href="tel:3108251491">310-825-1491</a></p>
+	</li>
+	<li>
+	<p><a href="https://www.transportation.ucla.edu/traffic-and-safety/campus-safety">CSO Evening Escorts</a>&nbsp;<br>
+	<em>(From Dusk until 1am)</em></p>
+
+	<p><a href="tel:3107949255">310-794-WALK (9255)</a></p>
+	</li>
+	<li>
+	<p>National Suicide Prevention Lifeline</p>
+
+	<p><a href="tel:8002738255">800-273-TALK (8255)</a></p>
+	</li>
+	<li>
+	<p><a href="https://basicneeds.ucla.edu/">UCLA Basic Needs</a></p>
+	</li>
+	<li>
+	<p>UCLA LGBT Campus Resource Center<br>
+	<br>
+	<a href="https://lgbtq.ucla.edu/direct-support">Direct Support for LGBTQIA Bruins</a></p>
+	</li>
+	<li>
+	<p><a href="https://www.studenthealth.ucla.edu/about#student_health_advisory_committee_shac">Student Health Advisory Committee​​​​</a></p>
+	</li>
+	<li>
+	<p><a href="https://healtheducation.ucla.edu/bruin-connections-events">Bruin Connections</a></p>
+	</li>
+</ul>
+
+<h3>Report Sexual Misconduct&nbsp;</h3>
+
+<p class="button"><a href="https://www.studenthealth.ucla.edu/patient-feedback/reporting-sexual-misconduct">How to Report</a></p>
+
+<p><em>Make a report of sexual harassment and notice of nondiscrimination</em></p>
+
+<ul>
+	<li><a data-entity-substitution="canonical" data-entity-type="media" data-entity-uuid="5ea10c13-bcb6-45b7-b3ef-a9ea97b281bb" href="/file/5ea10c13-bcb6-45b7-b3ef-a9ea97b281bb">Additional UCLA Campus Resources for Sexual Assault/ Sexual Violence&nbsp;</a></li>
+</ul>
+</section>
+</section>
+
+      </div>
+
+  <div class="cards-with-images-and-buttons cards paragraph--section" data-section-title="Campus Partner Spotlight">
+          <h2>
+Campus Partner Spotlight
+</h2>
+      
+      <div class="cards-container cards-container-count-1 cards-container-count-odd">
+      
+<div  class="card-with-image-and-button">
+  <span class="card-image">
+  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2024-02/230503UCOP_UCDavis_Day2_metadata_tagged059.jpeg?itok=UE92o5cd" width="900" height="600" alt="Man and woman having a conversation in a rose garden" />
+
+
+
+</span>
+  <div class="card-text">
+  <h3 class="card-title">
+Bruins For Recovery (B4R)
+</h3>
+  <div class="card-summary">
+<p class="summary">Bruins for Recovery (B4R) is a student group committed to fostering a sober community on campus and raising awareness about recovery from drugs, alcohol, and other addictive behaviors. We believe that all students deserve to enjoy long-term recovery from addiction while building meaningful lives of academic and social engagement. Our Primary Mission is to ensure that every UCLA student who has a desire to get and stay sober has a safe and supportive place to go on campus. No UCLA student should have to be isolated while seeking to get or stay free from addiction. B4R aims to generate and sustain sober fellowship and community through numerous means, including: providing resources about recovery assets on campus, organizing fun and sober activities, and being a source of sober support for recovering students and their allies, friends, and families.</p>
+
+  </div>
+  <p class="card-footer"><a href="https://bewellbruin.ucla.edu/resource/bruins-recovery-b4r" class="ucla-button ucla-button-secondary">
+Find out more about Bruins For Recovery (B4R)
+</a></p>
+  </a>
+  </div>
+</div>
+
+
+      </div>
+      </div>
+
+  <div class="body-content paragraph--section" data-section-title="In the News">
+          <h2>
+In the News
+</h2>
+      
+<section class="columns columns-2 columns-2-5050">
+<section class="column column-1">
+
+  <img loading="eager" src="/sites/default/files/styles/header_image/public/2023-04/letters-to-the-editor-5.png?itok=Fh1cVZVK" width="848" height="512" alt="Letter to the Editor Pullout Quote Art from Daily Bruin">
+
+
+
+
+
+
+<h3><a href="https://dailybruin.com/2023/04/09/letter-to-the-editor-ashe-center-offers-substantial-medical-resources-to-students">Letter to the Editor: Ashe Center Offers Substantial Medical Resources to Students</a></h3>
+
+<h4>April 9, 2023</h4>
+
+<p><em>UCLA's Student Health Advisory Committee (<a href="https://www.studenthealth.ucla.edu/shac">SHAC</a>) published this op-ed in The Daily Bruin campus publication.</em></p>
+
+<p class="button"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="96602747-d1b9-437f-9ae0-d0faa0cc637a" href="/shac">Meet the UCLA SHAC</a></p>
+</section>
+
+<section class="column column-2">
+
+  <img loading="eager" src="/sites/default/files/styles/header_image/public/2023-08/web.news_.ashefallsdown.JZH_.jpg?itok=0VQMEmT7" width="1170" height="780" alt="Exterior photo of The Ashe Center building with seismic construction banner">
+
+
+
+
+
+
+<h3><a href="https://dailybruin.com/2023/06/28/ashe-center-will-undergo-seismic-construction-until-january">Daily Bruin: The Ashe Center will undergo seismic construction until January 2024</a></h3>
+
+<h4>June 28, 2023</h4>
+
+<p>The Arthur Ashe Student Health and Wellness Center will undergo seismic reconstruction until January 2024.&nbsp;Construction at The Ashe Center will work to improve seismic resiliency.&nbsp;Other campus buildings, including Powell Library, also began seismic reconstruction earlier this year.</p>
+
+<p class="button"><a href="https://www.studenthealth.ucla.edu/seismic">Seismic Construction Updates</a></p>
+</section>
+</section>
+
+      </div>
+
+  <div class="list-with-images list paragraph--section">
+          <h2>
+Quick Links
+</h2>
+      
+      <ul class="list-items">
+      
+<li class="list-item list-item-with-image">
+  <span class="list-item-image">
+  
+  <img loading="eager" src="/sites/default/files/styles/media_library/public/portals/27/images/home/fronticon2_uchsip.jpg?itok=k_jWtzQA" width="220" height="220" alt="Recruiting at UCLA" />
+
+
+
+
+  </span>
+  <span class="list-item-content">
+    <a href="https://www.studenthealth.ucla.edu/file/44419cba-90be-46bb-a5d1-7573b474177b">
+              <strong class="list-item-title h4">
+UCSHIP Plan Brochure 2023-24
+</strong>
+          </a>
+    <span class="list-item-summary">
+<p class="summary">What is UCSHIP? The UC Student Health Insurance Plan (UCSHIP) is a systemwide health insurance plan providing enhanced benefits to all enrolled UCLA students. Learn more in the Insurance section of our website.<br />
+<br />
+</p>
+</span>
+  </span>
+</li>
+
+<li class="list-item list-item-with-image">
+  <span class="list-item-image">
+  
+  <img loading="eager" src="/sites/default/files/styles/media_library/public/portals/27/images/home/fronticon2_appt.jpg?itok=3lKDBU7S" width="220" height="220" alt="Handshake" />
+
+
+
+
+  </span>
+  <span class="list-item-content">
+    <a href="https://pncweb.sdh.ucla.edu/login_dualauthentication.aspx">
+              <strong class="list-item-title h4">
+Make an Appointment
+</strong>
+          </a>
+    <span class="list-item-summary">
+<p class="summary">Access The Ashe Center Patient Portal to make an appointment, message your primary care provider (PCP), and more.</p>
+</span>
+  </span>
+</li>
+
+<li class="list-item list-item-with-image">
+  <span class="list-item-image">
+  
+  <img loading="eager" src="/sites/default/files/styles/media_library/public/portals/27/images/home/fronticon1_feedback.jpg?itok=gyIXGL46" width="220" height="220" alt="Recruiting at UCLA" />
+
+
+
+
+  </span>
+  <span class="list-item-content">
+    <a href="/patient-feedback">
+              <strong class="list-item-title h4">
+Submit Patient Feedback
+</strong>
+          </a>
+    <span class="list-item-summary">
+<p class="summary">The Ashe Center wants feedback on your patient experience. Your feedback can be anonymous or you can include your personal information on our secure survey site to give us the opportunity to respond to you, personally.</p>
+</span>
+  </span>
+</li>
+
+
+      </ul>
+      </div>
+
+  <div class="cards-theme-services cards paragraph--section" data-section-title="Extension Services and Partners">
+          <h2>
+Extension Services and Partners
+</h2>
+      
+      <div class="cards-container">
+      
+  <a href="/services/u-see-la-optometry"  class="card">
+          <span class="card-image">
+  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/image/ac4a199cccbb1d9fba68a419de1bb0847140bc9a.jpg?itok=u58mcpau" width="900" height="600" alt="Student with Glasses" />
+
+
+
+</span>
+      <span class="card-title">
+U See LA Optometry
+</span>
+      <span class="card-summary">
+<p class="summary">An Extension of The Ashe Center, located in Ackerman Union (B-Level)</p>
+</span>
+      </a>
+
+  <a href="/services/bruin-health-pharmacy"  class="card">
+          <span class="card-image">
+  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2021-03/frontofbruinhealthpharmacy.jpg?itok=Qlv0v0H0" width="900" height="600" alt="Front of Bruin Health Pharmacy" />
+
+
+
+</span>
+      <span class="card-title">
+Bruin Health Pharmacy
+</span>
+      <span class="card-summary">
+<p class="summary">An Extension of The Ashe Center, located in Ackerman Union (A-Level)</p>
+</span>
+      </a>
+
+  <a href="/services/campus-smiles"  class="card">
+          <span class="card-image">
+  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/image/bef4f7bbb5f23e0e841c58e9471eef394e893992.jpg?itok=mx81n7GR" width="900" height="600" alt="Student Grinning" />
+
+
+
+</span>
+      <span class="card-title">
+Campus Smiles at The Ashe Center
+</span>
+      <span class="card-summary">
+<p class="summary">Comprehensive, full-service dentistry available on the second floor of The Ashe Center.</p>
+</span>
+      </a>
+
+
+      </div>
+      </div>
+
+
+
+
+
+
+</div>
+  </div>
+
+
+</div>
+</div>
+
+
+        <div class="page-footer-container page-footer-2-column" role="contentinfo">
+<div class="page-footer-box">
+<h2 class="h3">Contact Ashe Center</h2>
+<p>
+    <a href="https://goo.gl/maps/xLvHX7pY6TzVduS37">221 Westwood Plaza<br>
+    Los Angeles, CA 90095</a><br>
+    <a href="tel:+13108254073">310-825-4073</a><br>
+    Fax: (310) 206-8012<br>
+    <a href="/contact">Contact</a>
+</p>
+</div>
+<div class="page-footer-box">
+<h2 class="h3">Stay in the know</h2>
+<div class="social-links-container">
+  <a href="https://www.facebook.com/uclastudenthealth/"><span class="social-link-label">Facebook @uclastudenthealth</span></a>
+  <a href="https://www.instagram.com/uclaashecenter"><span class="social-link-label">Instagram @uclaashecenter</span></a>
+  <a href="https://www.linkedin.com/company/ucla-ashe-student-health-center/"><span class="social-link-label">LinkedIn @ucla-ashe-student-health-center</span></a>
+</div>
+<p>
+  <a href="/services/sydney-health-mobile-app">Sydney Health Mobile App</a>
+</p>
+</div>
+</div>
+      </div>
+</main>
+<footer>
+<div class="container">
+<nav class="nav-footer" aria-label="Footer">
+  <ul>\n  <li><a href="https://www.ucla.edu/accessibility" class="icon-ada">Accessibility</a></li>\n  <li><a href="https://www.ucla.edu/">UCLA</a></li>\n  <li><a href="https://www.studentaffairs.ucla.edu/">Student Affairs</a></li>\n  <li><a href="https://www.transportation.ucla.edu/campus-parking">Maps, Directions, Parking</a></li>\n  <li><a href="https://registrar.ucla.edu/calendars">Academic Calendar</a></li>\n  <li><a href="https://www.universityofcalifornia.edu/">University of California</a></li>\n  <li><a href="https://www.ucla.edu/terms-of-use">Terms of Use</a></li>\n</ul>
+
+</nav>
+</div>
+</footer>
+<script src="/themes/custom/ucla_sa/js/ucla_sa.js?v=a20240220144912" async></script>
+<script type="text/javascript">
+(function() {
+  if(document.querySelector('[data-ucla]')) {
+    var embed = document.createElement('script'); embed.type = 'text/javascript'; embed.async = true;
+    embed.src = '/themes/custom/ucla_sa/js/ucla_embed.js?v=20240220144912';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(embed, s);
+  }
+})();
+</script>
+</body>
+</html>

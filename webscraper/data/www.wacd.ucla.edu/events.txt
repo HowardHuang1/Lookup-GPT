@@ -1,0 +1,2379 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Events Calendar &bull; UCLA World Arts and Cultures/Dance</title>
+  <meta name="description" content="Our latest performances, announcements, and more.">
+      <link href="https://www.wacd.ucla.edu/assets/css/styles.min.css" rel="stylesheet">  <link href="https://www.wacd.ucla.edu/assets/css/font-awesome-5.css" rel="stylesheet">  <link href="https://www.wacd.ucla.edu/assets/css/vendor.css" rel="stylesheet">  <link href="https://www.wacd.ucla.edu/assets/css/tailwind.css" rel="stylesheet">    <link href="https://use.typekit.net/ojk6ftk.css" rel="stylesheet">      <style>
+    html, body {
+      overflow-x: hidden;
+      width: 100%;
+      width: 100vw;
+    }
+      </style>
+  <!-- Google Analytics -->
+<!-- Modern Browsers -->
+<script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-1965480-3', 'auto');
+  ga('send', 'pageview');
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<!--Old Browsers-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1965480-3', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+  <meta name="twitter:card" content="summary_large_image" />
+<meta property="og:title" content="Events Calendar"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://www.wacd.ucla.edu/announcements/events" />
+<meta property="og:description" content="Our latest performances, announcements, and more."/>
+</head>
+<body class="template-events layout-sidebar  uid-events slug-events">
+  <section id="navbar" class="section-navbar">
+  <nav class="navbar fixed-top navbar-expand-md navbar-light d-flex">
+    <!-- logos -->
+        <a class="navbar-brand flex-fill" style="background-image: url(https://www.wacd.ucla.edu/media/site/2169236257-1596238481/ucla-world-arts-and-cultures-dance-logo.svg); -webkit-print-color-adjust: exact;" href="https://www.wacd.ucla.edu" title="UCLA World Arts and Cultures/Dance">
+      <span class="d-none">UCLA World Arts and Cultures/Dance</span>
+    </a>
+        <br class="d-none">
+    <!-- menu -->
+        <div>
+      <button style="padding:0; margin-right:1rem; margin-left:1rem;" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarDropdownContent" aria-controls="navbarDropdownContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div>
+    <br class="d-none">
+    <div class="collapse navbar-collapse" id="navbarDropdownContent" style="max-width:100vw;">
+      <ul class="navbar-nav ml-auto">
+                        <li class="nav-item dropdown d-md-flex align-items-center">
+          <a style="padding-left:1rem;" class="nav-link dropdown-toggle small letter-space " href="https://www.wacd.ucla.edu/about" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About          </a>
+          <ul class="list-unstyled">
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                      <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/about/mission">
+                  Mission &amp; Educational Vision                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/about/contact">
+                  Contact                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/about/facilities">
+                  Facilities                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/about/equity-diversity-and-inclusion">
+                  Equity, Diversity, and Inclusion                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/about/history">
+                  History                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/about/art-and-global-health-center">
+                  Art &amp; Global Health Center                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/about/dancing-disability-lab">
+                  Dancing Disability Lab                </a>
+              </li>
+                                    </div>
+          </ul>
+        </li>
+                                <li class="nav-item dropdown d-md-flex align-items-center">
+          <a style="padding-left:1rem;" class="nav-link dropdown-toggle small letter-space " href="https://www.wacd.ucla.edu/people" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            People          </a>
+          <ul class="list-unstyled">
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                      <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/people/community">
+                  Our Community                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/people/faculty">
+                  Faculty                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/people/staff">
+                  Staff                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/people/lecturers-visiting-adjunct-professors">
+                  Lecturers, Visitors, Adjuncts &amp; Affiliated                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/people/graduate-students">
+                  Graduate Students                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/people/retired-faculty">
+                  Retired Faculty                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/people/memorial-chair">
+                  Alma Hawkins Visiting Chair                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/people/in-memoriam">
+                  In Memoriam                </a>
+              </li>
+                                    </div>
+          </ul>
+        </li>
+                                <li class="nav-item dropdown d-md-flex align-items-center">
+          <a style="padding-left:1rem;" class="nav-link dropdown-toggle small letter-space " href="https://www.wacd.ucla.edu/programs" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Programs          </a>
+          <ul class="list-unstyled">
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                      <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/programs/overview">
+                  Programs Overview                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/programs/undergraduate/dance">
+                  B.A. in Dance                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/programs/undergraduate/wac">
+                  B.A. in World Arts and Cultures                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/programs/graduate/choreographic-inquiry">
+                  M.F.A. in Choreographic Inquiry                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/programs/graduate/culture-and-performance">
+                  Ph.D. in Culture and Performance                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/programs/apply">
+                  Apply                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/programs/graduate/visiting-scholars">
+                  Visiting Scholars                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/programs/wac-abroad">
+                  WAC Abroad                </a>
+              </li>
+                                    </div>
+          </ul>
+        </li>
+                                <li class="nav-item dropdown d-md-flex align-items-center">
+          <a style="padding-left:1rem;" class="nav-link dropdown-toggle small letter-space " href="https://www.wacd.ucla.edu/wacd-covid-19-information" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            COVID-19          </a>
+          <ul class="list-unstyled">
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                      <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/wacd-covid-19-information/updates">
+                  WACD/Campus Updates                </a>
+              </li>
+                                    </div>
+          </ul>
+        </li>
+                                <li class="nav-item dropdown d-md-flex align-items-center">
+          <a style="padding-left:1rem;" class="nav-link dropdown-toggle small letter-space active" href="https://www.wacd.ucla.edu/announcements" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Announcements          </a>
+          <ul class="list-unstyled">
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                      <li class="pl-0 nav-item active">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space active" href="https://www.wacd.ucla.edu/announcements/events">
+                  Events Calendar                </a>
+              </li>
+                          <li class="pl-0 nav-item active">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/announcements/news">
+                  WACD News                </a>
+              </li>
+                          <li class="pl-0 nav-item active">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/announcements/newsletter">
+                  Newsletter                </a>
+              </li>
+                          <li class="pl-0 nav-item active">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/announcements/archive">
+                  Archive                </a>
+              </li>
+                                    </div>
+          </ul>
+        </li>
+                                <li class="nav-item d-md-flex align-items-center">
+          <a style="padding-left:1rem;" class="nav-link small letter-space" target="_blank" href="https://www.wacd.ucla.edu/give">
+            Give          </a>
+        </li>
+                        <!-- <li class="nav-item dropdown mb-3 mb-md-0">
+          <a style="padding-left:1rem;" class="nav-link small letter-space dropdown-toggle " href="https://www.wacd.ucla.edu/give" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <i class="fa fa-search" title="Search"></i><span class="d-inline-block d-md-none ml-1">  Search</span>
+          </a>
+          <ul class="list-unstyled">
+            <div id="searchDropdown" class="dropdown-menu dropdown-menu-md-right" aria-labelledby="navbarDropdown">
+              <li class="">
+                <form id="search" class="dropdown-item form-inline p-3">
+                  <input class="form-control mr-sm-2" type="search" placeholder="Start typing here..." aria-label="Search">
+                  <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                </form>
+              </li>
+            </div>
+          </ul>
+        </li> -->
+      </ul>
+    </div>
+      </nav>
+</section>
+<section class="section-content">
+  <!-- start hero background -->
+<!-- hero -->
+<div id="hero" class="bg-primary">
+  <div class="container main">
+    <div class="row flex-column text-white">
+      <!-- title -->
+<h1 class="mt-0">
+  Events Calendar</h1>
+      <!-- subtitle -->
+<p class="subtitle">
+  Our latest performances, announcements, and more.</p>
+      <!-- breadcrumbs -->
+<nav role="navigation" aria-label="breadcrumb" class="d-none d-md-flex">
+  <ul class="breadcrumb breadcrumb-minimal">
+        <li class="breadcrumb-item d-block">
+      <a class="d-inline-block " href="https://www.wacd.ucla.edu">
+        Home      </a>
+    </li>
+        <li class="breadcrumb-item d-block">
+      <a class="d-inline-block " href="https://www.wacd.ucla.edu/announcements">
+        Announcements      </a>
+    </li>
+        <li class="breadcrumb-item d-block">
+      <a class="d-inline-block active" href="https://www.wacd.ucla.edu/announcements/events">
+        Events Calendar      </a>
+    </li>
+      </ul>
+</nav>
+      <!-- dates -->
+    </div>
+  </div>
+</div>
+<!-- end hero background  -->
+      <div class="container docs-content mb-0 mb-sm-3">
+    <div class="row justify-xs-center">
+      <div class="col-xs-12 bg-white px-0 col-md-8">
+                                        <main class="events ">
+        <header class="">
+                </header>
+        <div role="main">
+                    <div class="btn-group mb-2" role="group" aria-label="Months">
+            <div>
+                                                <button role="button" data-mixitup-control data-filter=".Mar" style="width:60px; margin-bottom:3px;" class="btn btn-secondary mr-0">Mar</button>
+                                                                <button role="button" data-mixitup-control data-filter=".Jan" style="width:60px; margin-bottom:3px;" class="btn btn-secondary mr-0">Jan</button>
+                                                                <button role="button" data-mixitup-control data-filter=".Dec" style="width:60px; margin-bottom:3px;" class="btn btn-secondary mr-0">Dec</button>
+                                                                <button role="button" data-mixitup-control data-filter=".Nov" style="width:60px; margin-bottom:3px;" class="btn btn-secondary mr-0">Nov</button>
+                                                                <button role="button" data-mixitup-control data-filter=".Oct" style="width:60px; margin-bottom:3px;" class="btn btn-secondary mr-0">Oct</button>
+                                                                <button role="button" data-mixitup-control data-filter=".Sep" style="width:60px; margin-bottom:3px;" class="btn btn-secondary mr-0">Sep</button>
+                                                                <button role="button" data-mixitup-control data-filter=".Aug" style="width:60px; margin-bottom:3px;" class="btn btn-secondary mr-0">Aug</button>
+                                                                <button role="button" data-mixitup-control data-filter=".Jul" style="width:60px; margin-bottom:3px;" class="btn btn-secondary mr-0">Jul</button>
+                                                                <button role="button" data-mixitup-control data-filter=".Jun" style="width:60px; margin-bottom:3px;" class="btn btn-secondary mr-0">Jun</button>
+                                                                <button role="button" data-mixitup-control data-filter=".May" style="width:60px; margin-bottom:3px;" class="btn btn-secondary mr-0">May</button>
+                                                                <button role="button" data-mixitup-control data-filter=".Apr" style="width:60px; margin-bottom:3px;" class="btn btn-secondary mr-0">Apr</button>
+                                          </div>
+            <button role="button" data-mixitup-control data-filter=".today" class="btn btn-secondary ml-2">Today</button>
+            <button role="button" data-mixitup-control data-filter="all" class="btn btn-secondary">All</button>
+          </div>
+          <div id="mixItUpContainer" class="mix-container">
+                        <h2 class="border-bottom-1 mix Mar"> February 2024</h2>
+                                                <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Mar                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2024/winter/february/ucla-sex-squad-s-valentine-s-celebration"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">09</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Feb</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2024/winter/february/ucla-sex-squad-s-valentine-s-celebration">
+                        UCLA Sex Squad's Valentine's Celebration                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Friday, 02/09/2024                      <br>
+                      7:00 PM – 8:00 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2024/winter/february/ucla-sex-squad-s-valentine-s-celebration">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Mar                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2024/winter/february/film-screening-of-valentine-toya-legrand"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">24</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Feb</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2024/winter/february/film-screening-of-valentine-toya-legrand">
+                        Film screening of Valentine Toya LeGrand                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Saturday, 02/24/2024 • 5:30 PM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2024/winter/february/film-screening-of-valentine-toya-legrand">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <h2 class="border-bottom-1 mix Jan"> January 2024</h2>
+                                                <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Jan                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2024/winter/january/new-year-s-day"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">01</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Jan</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2024/winter/january/new-year-s-day">
+                        New Year's Day                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Monday, 01/01/2024                      <br>
+                      12:00 AM – 1:00 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2024/winter/january/new-year-s-day">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Jan                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2024/winter/january/open-house"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">16</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Jan</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2024/winter/january/open-house">
+                        Social Practice Art Lab Open House                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Tuesday, 01/16/2024                      <br>
+                      2:00 PM – 4:00 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2024/winter/january/open-house">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Jan                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2024/winter/january/fenomenal-rompeforma"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">29</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Jan</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2024/winter/january/fenomenal-rompeforma">
+                        Fenomenal Rompeforma                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Monday, 01/29/2024                      <br>
+                      2:30 PM – 5:00 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2024/winter/january/fenomenal-rompeforma">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <h2 class="border-bottom-1 mix Dec"> December 2023</h2>
+                                                <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Dec                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/december/sammay-dizon-public-talk"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">05</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Dec</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/december/sammay-dizon-public-talk">
+                        SAMMAY Dizon Public Talk                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Tuesday, 12/05/2023 • 4:30 PM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/december/sammay-dizon-public-talk">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <h2 class="border-bottom-1 mix Nov"> November 2023</h2>
+                                                <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Nov                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/november/shirdi-sai-baba-s-presence-mediums-mediations-and-mobilities"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">09</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Nov</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/november/shirdi-sai-baba-s-presence-mediums-mediations-and-mobilities">
+                        Shirdi Sai Baba’s Presence: Mediums, Mediations, and Mobilities                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Thursday, 11/09/2023 • 4:00 PM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/november/shirdi-sai-baba-s-presence-mediums-mediations-and-mobilities">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Nov                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/november/chew-on-this-book-talk-by-sohini-chakraborty"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">21</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Nov</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/november/chew-on-this-book-talk-by-sohini-chakraborty">
+                        Chew on This: Book Talk by Sohini Chakraborty                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Tuesday, 11/21/2023 • 2:00 PM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/november/chew-on-this-book-talk-by-sohini-chakraborty">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Nov                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/november/jennifer-harge-public-talk"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">27</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Nov</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/november/jennifer-harge-public-talk">
+                        Jennifer Harge Public Talk                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Monday, 11/27/2023 • 1:00 PM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/november/jennifer-harge-public-talk">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Nov                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/november/kate-ladenheim-public-talk"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">29</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Nov</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/november/kate-ladenheim-public-talk">
+                        Kate Ladenheim Public Talk                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Wednesday, 11/29/2023 • 1:00 PM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/november/kate-ladenheim-public-talk">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <h2 class="border-bottom-1 mix Oct"> October 2023</h2>
+                                                <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Oct                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/october/archives-of-the-body-invention-desire-and-the-memory-of-presence"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">20</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Oct</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/october/archives-of-the-body-invention-desire-and-the-memory-of-presence">
+                        Archives of the Body, a Curatorial Workshop with Regents’ Lecturer Beatriz Lemos                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Friday, 10/20/2023 • 10:00 AM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/october/archives-of-the-body-invention-desire-and-the-memory-of-presence">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Oct                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/october/ucla-department-of-worlds-arts-and-cultures-dance-presents-a-public-talk-by-choreographer-bijayini-satpathy"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">23</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Oct</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/october/ucla-department-of-worlds-arts-and-cultures-dance-presents-a-public-talk-by-choreographer-bijayini-satpathy">
+                        UCLA Department of Worlds Arts and Cultures/Dance Presents: 		 A Public Talk by Choreographer Bijayini Satpathy                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Monday, 10/23/2023 • 11:00 AM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/october/ucla-department-of-worlds-arts-and-cultures-dance-presents-a-public-talk-by-choreographer-bijayini-satpathy">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Oct                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/october/regents-lecture-by-beatriz-lemos"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">25</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Oct</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/october/regents-lecture-by-beatriz-lemos">
+                        Art | Alliances | Social Justice, a Public Talk with Regents’ Lecturer Beatriz Lemos and Professor Kyle T. Mays                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Wednesday, 10/25/2023 • 1:00 PM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/october/regents-lecture-by-beatriz-lemos">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Oct                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/october/film-screening-stepping-softly-on-the-earth"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">30</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Oct</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/october/film-screening-stepping-softly-on-the-earth">
+                        Film Screening "Stepping Softly on the Earth"                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Monday, 10/30/2023 • 3:00 PM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/october/film-screening-stepping-softly-on-the-earth">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <h2 class="border-bottom-1 mix Sep"> September 2023</h2>
+                                                <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/advisor-advisee-meetings"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">25</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/advisor-advisee-meetings">
+                        Advisor/Advisee Meetings                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Monday, 09/25/2023                      <br>
+                      9:00 AM – 4:00 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/advisor-advisee-meetings">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/advisor-advisee-meetings-2"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">26</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/advisor-advisee-meetings-2">
+                        Advisor/Advisee Meetings 2                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Tuesday, 09/26/2023                      <br>
+                      9:00 AM – 4:00 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/advisor-advisee-meetings-2">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/tac-ta-meeting"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">26</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/tac-ta-meeting">
+                        TAC/TA Meeting                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Tuesday, 09/26/2023                      <br>
+                      11:30 AM – 12:30 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/tac-ta-meeting">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/tac-ta-lunch"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">26</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/tac-ta-lunch">
+                        TAC/TA Lunch                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Tuesday, 09/26/2023                      <br>
+                      12:30 PM – 1:00 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/tac-ta-lunch">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/adjunct-and-lecturer-orientation"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">26</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/adjunct-and-lecturer-orientation">
+                        Adjunct and Lecturer Orientation                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Tuesday, 09/26/2023                      <br>
+                      1:00 PM – 1:45 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/adjunct-and-lecturer-orientation">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/ta-union-meeting"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">26</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/ta-union-meeting">
+                        TA Union Meeting                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Tuesday, 09/26/2023                      <br>
+                      1:30 PM – 2:00 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/ta-union-meeting">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/studio-instructor-information-session"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">26</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/studio-instructor-information-session">
+                        Studio Instructor Information Session                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Tuesday, 09/26/2023                      <br>
+                      2:00 PM – 2:45 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/studio-instructor-information-session">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/ladder-faculty-meeting"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">26</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/ladder-faculty-meeting">
+                        Ladder Faculty Meeting                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Tuesday, 09/26/2023                      <br>
+                      3:00 PM – 5:00 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/ladder-faculty-meeting">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/advisor-advisee-meetings-3"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">27</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/advisor-advisee-meetings-3">
+                        Advisor/Advisee Meetings 3                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Wednesday, 09/27/2023                      <br>
+                      9:00 AM – 4:00 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/advisor-advisee-meetings-3">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/soaa-welcome-breakfast-with-dean-brett-steele"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">27</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/soaa-welcome-breakfast-with-dean-brett-steele">
+                        SoAA Welcome Breakfast with Dean Brett Steele                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Wednesday, 09/27/2023                      <br>
+                      9:00 AM – 10:30 AM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/soaa-welcome-breakfast-with-dean-brett-steele">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/new-graduate-student-orientation"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">27</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/new-graduate-student-orientation">
+                        New Graduate Student   Orientation                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Wednesday, 09/27/2023                      <br>
+                      11:00 AM – 12:00 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/new-graduate-student-orientation">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/lunch-with-wacd-gso-information"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">27</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/lunch-with-wacd-gso-information">
+                        Lunch with WACD GSO Information                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Wednesday, 09/27/2023                      <br>
+                      12:00 PM – 12:45 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/lunch-with-wacd-gso-information">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/graduate-funding"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">27</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/graduate-funding">
+                        Graduate Funding                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Wednesday, 09/27/2023                      <br>
+                      1:00 PM – 1:30 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/graduate-funding">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/cap-handbook-and-degree-planning"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">27</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/cap-handbook-and-degree-planning">
+                        CAP Handbook and Degree Planning                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Wednesday, 09/27/2023                      <br>
+                      1:30 PM – 2:00 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/cap-handbook-and-degree-planning">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/mfa-handbook-and-degree-planning"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">27</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/mfa-handbook-and-degree-planning">
+                        MFA Handbook and Degree Planning                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Wednesday, 09/27/2023                      <br>
+                      1:30 PM – 2:00 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/mfa-handbook-and-degree-planning">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/professional-development"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">27</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/professional-development">
+                        Professional Development                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Wednesday, 09/27/2023                      <br>
+                      2:15 PM – 3:00 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/professional-development">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/ucla-graduate-resources-gsrc-gwc-case-managers-career"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">27</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/ucla-graduate-resources-gsrc-gwc-case-managers-career">
+                        UCLA Graduate Resources  (GSRC, GWC, Case Managers, Career)                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Wednesday, 09/27/2023                      <br>
+                      3:00 PM – 3:45 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/ucla-graduate-resources-gsrc-gwc-case-managers-career">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/division-of-graduate-education-student-welcome"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">27</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/division-of-graduate-education-student-welcome">
+                        Division of  Graduate Education Student Welcome                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Wednesday, 09/27/2023                      <br>
+                      4:00 PM – 6:30 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/division-of-graduate-education-student-welcome">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/soaa-welcome-event-creating-community"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">27</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/soaa-welcome-event-creating-community">
+                        SoAA Welcome Event “Creating Community”                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Wednesday, 09/27/2023                      <br>
+                      5:00 PM – 7:00 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/soaa-welcome-event-creating-community">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/instruction-begins"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">28</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/instruction-begins">
+                        Fall 2023 Instruction Begins                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Thursday, 09/28/2023 • 12:00 AM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/instruction-begins">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Sep                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/undergrad-welcome-event"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">29</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Sep</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/undergrad-welcome-event">
+                        Undergrad Welcome Event                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Friday, 09/29/2023                      <br>
+                      10:00 AM – 12:00 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/fall/september/undergrad-welcome-event">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <h2 class="border-bottom-1 mix Aug"> August 2023</h2>
+                                                <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Aug                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/summer/august/summer-session-c"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">05</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Aug</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/summer/august/summer-session-c">
+                        Summer Session C                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Saturday, 08/05/2023                      <br>
+                      12:00 AM – 12:00 AM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/summer/august/summer-session-c">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <h2 class="border-bottom-1 mix Jul"> July 2023</h2>
+                                                <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Jul                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/summer/july/independence-day-holiday-tuesday-july-4"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">04</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Jul</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/summer/july/independence-day-holiday-tuesday-july-4">
+                        Independence Day Holiday	Tuesday, July 4                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Tuesday, 07/04/2023 • 12:00 AM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/summer/july/independence-day-holiday-tuesday-july-4">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <h2 class="border-bottom-1 mix Jun"> June 2023</h2>
+                                                <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Jun                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/june/sex-squad"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">01</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Jun</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/june/sex-squad">
+                        Sex Squad                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Thursday, 06/01/2023 • 6:30 PM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/june/sex-squad">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Jun                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/june/firsthand-2023"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">08</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Jun</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/june/firsthand-2023">
+                        Firsthand 2023                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Thursday, 06/08/2023 • 7:30 PM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/june/firsthand-2023">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Jun                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/june/firsthand-2023-copy"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">09</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Jun</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/june/firsthand-2023-copy">
+                        Firsthand 2023                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Friday, 06/09/2023 • 7:30 PM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/june/firsthand-2023-copy">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Jun                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/june/juneteenth-holiday-monday-june-19"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">19</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Jun</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/june/juneteenth-holiday-monday-june-19">
+                        Juneteenth Holiday	Monday, June 19                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Monday, 06/19/2023 • 12:00 AM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/june/juneteenth-holiday-monday-june-19">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Jun                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/june/summer-session-begins-monday-june-26"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">26</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Jun</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/june/summer-session-begins-monday-june-26">
+                        Summer Session begins	Monday, June 26                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Monday, 06/26/2023 • 12:00 AM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/june/summer-session-begins-monday-june-26">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <h2 class="border-bottom-1 mix May"> May 2023</h2>
+                                                <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix May                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/dancing-indigenous-worlds-choreographies-of-relation-a-book-talk-with-jacqueline-shea-murphy"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">08</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">May</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/dancing-indigenous-worlds-choreographies-of-relation-a-book-talk-with-jacqueline-shea-murphy">
+                        Dancing Indigenous Worlds: Choreographies of Relation A Book Talk with Jacqueline Shea Murphy                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Monday, 05/08/2023 • 11:00 AM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/dancing-indigenous-worlds-choreographies-of-relation-a-book-talk-with-jacqueline-shea-murphy">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix May                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/chew-on-this-presents-cora-laszlo"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">09</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">May</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/chew-on-this-presents-cora-laszlo">
+                        Chew On This Presents... Cora Laszlo                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Tuesday, 05/09/2023 • 2:00 PM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/chew-on-this-presents-cora-laszlo">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix May                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/a-conversation-about-chishkale-the-blessing-of-the-acorn-with-rulan-tangen-bernadette-antoinette-smith"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">10</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">May</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/a-conversation-about-chishkale-the-blessing-of-the-acorn-with-rulan-tangen-bernadette-antoinette-smith">
+                        A Conversation about Chishkale:The Blessing of the Acorn with Rulan Tangen & Bernadette Antoinette Smith                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Wednesday, 05/10/2023 • 11:00 AM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/a-conversation-about-chishkale-the-blessing-of-the-acorn-with-rulan-tangen-bernadette-antoinette-smith">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix May                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/un-ending"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">12</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">May</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/un-ending">
+                        un/ending Senior Projects in Dance 2023                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Friday, 05/12/2023 • 7:30 PM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/un-ending">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix May                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/un-ending-copy"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">13</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">May</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/un-ending-copy">
+                        un/ending Senior Projects in Dance 2023                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Saturday, 05/13/2023 • 2:00 PM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/un-ending-copy">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix May                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/can-writing-and-dance-touch-with-dr-clare-croft"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">22</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">May</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/can-writing-and-dance-touch-with-dr-clare-croft">
+                        Can Writing and Dance Touch? with Dr. Clare Croft                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Monday, 05/22/2023 • 11:00 AM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/can-writing-and-dance-touch-with-dr-clare-croft">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix May                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/wac-senior-projects-2023-connective-tissue"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">25</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">May</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/wac-senior-projects-2023-connective-tissue">
+                        WAC Senior Projects 2023 Connective Tissue                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Thursday, 05/25/2023 • 7:00 PM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/wac-senior-projects-2023-connective-tissue">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix May                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/c-kills-f"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">31</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">May</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/c-kills-f">
+                        Cinnamon Kills First                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Wednesday, 05/31/2023 • 11:00 AM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/may/c-kills-f">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <h2 class="border-bottom-1 mix Apr"> April 2023</h2>
+                                                <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Apr                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-department-of-world-arts-and-cultures-dance-mfa-upstart-series-presents-a-one-sculpture-garden-by-joao-paulo-krug-paiva"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">06</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Apr</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-department-of-world-arts-and-cultures-dance-mfa-upstart-series-presents-a-one-sculpture-garden-by-joao-paulo-krug-paiva">
+                        UCLA Department of World Arts and Cultures/Dance MFA Upstart Series presents A One Sculpture Garden by Joao Paulo Krug Paiva                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Thursday, 04/06/2023                      <br>
+                      7:30 PM – 9:30 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-department-of-world-arts-and-cultures-dance-mfa-upstart-series-presents-a-one-sculpture-garden-by-joao-paulo-krug-paiva">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Apr                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-department-of-world-arts-and-cultures-dance-mfa-upstart-series-presents-a-one-sculpture-garden-by-joao-paulo-krug-paiva-cop"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">07</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Apr</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-department-of-world-arts-and-cultures-dance-mfa-upstart-series-presents-a-one-sculpture-garden-by-joao-paulo-krug-paiva-cop">
+                        UCLA Department of World Arts and Cultures/Dance MFA Upstart Series presents A One Sculpture Garden by Joao Paulo Krug Paiva                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Friday, 04/07/2023                      <br>
+                      7:30 PM – 9:30 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-department-of-world-arts-and-cultures-dance-mfa-upstart-series-presents-a-one-sculpture-garden-by-joao-paulo-krug-paiva-cop">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Apr                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-department-of-world-arts-and-cultures-dance-mfa-upstart-series-presents-ghost-porn-by-brendan-drake"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">13</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Apr</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-department-of-world-arts-and-cultures-dance-mfa-upstart-series-presents-ghost-porn-by-brendan-drake">
+                        UCLA Department of World Arts and Cultures/Dance MFA Upstart Series presents Ghost Porn  by Brendan Drake                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Thursday, 04/13/2023                      <br>
+                      8:00 PM – 10:00 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-department-of-world-arts-and-cultures-dance-mfa-upstart-series-presents-ghost-porn-by-brendan-drake">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Apr                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-department-of-world-arts-and-cultures-dance-mfa-upstart-series-presents-ghost-porn-by-brendan-drake-copy"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">14</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Apr</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-department-of-world-arts-and-cultures-dance-mfa-upstart-series-presents-ghost-porn-by-brendan-drake-copy">
+                        UCLA Department of World Arts and Cultures/Dance MFA Upstart Series presents Ghost Porn  by Brendan Drake                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Friday, 04/14/2023                      <br>
+                      8:00 PM – 10:00 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-department-of-world-arts-and-cultures-dance-mfa-upstart-series-presents-ghost-porn-by-brendan-drake-copy">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Apr                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-sex-squad-inaugural-spring-2023-performance"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">21</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Apr</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-sex-squad-inaugural-spring-2023-performance">
+                        UCLA Sex Squad Inaugural Spring 2023 Performance                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Friday, 04/21/2023 • 12:00 PM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-sex-squad-inaugural-spring-2023-performance">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Apr                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/a-dance-workshop-with-gina-cabeza-debaca-cifuentes"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">26</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Apr</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/a-dance-workshop-with-gina-cabeza-debaca-cifuentes">
+                        A Dance Workshop With Gina Cabeza DeBaca-Cifuentes                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                                    <li class="list-inline-item">
+                      Wednesday, 04/26/2023                      <br>
+                      1:00 PM – 2:30 PM                    </li>
+                                        <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/a-dance-workshop-with-gina-cabeza-debaca-cifuentes">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Apr                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-department-of-world-arts-and-cultures-dance-mfa-upstart-series-behind-the-house-is-the-garden-by-sammay-penaflor-dizon"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">27</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Apr</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-department-of-world-arts-and-cultures-dance-mfa-upstart-series-behind-the-house-is-the-garden-by-sammay-penaflor-dizon">
+                        UCLA Department of World Arts and Cultures/Dance MFA Upstart Series presents- behind the house is the garden by SAMMAY Peñaflor Dizon                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Thursday, 04/27/2023 • 8:00 PM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-department-of-world-arts-and-cultures-dance-mfa-upstart-series-behind-the-house-is-the-garden-by-sammay-penaflor-dizon">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                    <div class="d-flex flex-column justify-content-center" style="margin-left:0; margin-right:-30px;">
+              <div class="row ml-0 mix Apr                ">
+                <div class="pl-xs-1 pt-xs-1">
+                  <div class="d-flex col-2 text-center" style="padding-left:0;">
+                                        <a href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-department-of-world-arts-and-cultures-dance-mfa-upstart-series-behind-the-house-is-the-garden-by-sammay-penaflor-dizon-copy"><h1 style="margin-top:40px; margin-bottom:16px;"><span class="badge badge-dark" style="width:54px;font-size:24px;">28</span></h1>
+                    <h3 class="h5 text-dark text-uppercase" style="margin-top:-.5rem;">Apr</h3></a>
+                                        </div>
+                  </div>
+                  <div class="col-9 px-0" style="margin:1rem 0;">
+                                    <h3 class="h5 text-uppercase mb-0">
+                    <strong>
+                      <a class="text-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-department-of-world-arts-and-cultures-dance-mfa-upstart-series-behind-the-house-is-the-garden-by-sammay-penaflor-dizon-copy">
+                        UCLA Department of World Arts and Cultures/Dance MFA Upstart Series presents- behind the house is the garden by SAMMAY Peñaflor Dizon                      </a>
+                    </strong>
+                  </h3>
+                                    <ul class="list-inline">
+                    <strong>
+                                                                                <li class="list-inline-item">Friday, 04/28/2023 • 8:00 PM</li>
+                                                            <br class="d-block d-sm-none">
+                                                                                                    </strong>
+                  </ul>
+                  <p>
+                                      </p>
+                  <p>
+                                        <a class="btn btn-dark" href="https://www.wacd.ucla.edu/announcements/archive/2023/spring/april/ucla-department-of-world-arts-and-cultures-dance-mfa-upstart-series-behind-the-house-is-the-garden-by-sammay-penaflor-dizon-copy">Learn more</a>
+                                      </p>
+                </div>
+              </div>
+            </div>
+                                  </div>
+        </div>
+                
+      </main><!--/main-->
+                </div>
+        <aside class="col-xs-12 col-md-4 px-0">
+            <section class="small letter-space">
+  <ul id="sidebar-nav" class="list-unstyled">
+    <li class="letter-space">
+      <a class="h6 text-transform-uppercase small text-dark letter-space"       style="margin-bottom:0; padding:0;"
+      href="https://www.wacd.ucla.edu/announcements">
+        Announcements      </a>
+    </li>
+                    <a class="h6 text-transform-uppercase small active" href="https://www.wacd.ucla.edu/announcements/events">
+        <li class="letter-space active">
+          Events Calendar        </li>
+      </a>
+                              <a class="h6 text-transform-uppercase small" href="https://www.wacd.ucla.edu/announcements/news">
+        <li class="letter-space">
+          WACD News        </li>
+      </a>
+                              <a class="h6 text-transform-uppercase small" href="https://www.wacd.ucla.edu/announcements/newsletter">
+        <li class="letter-space">
+          Newsletter        </li>
+      </a>
+                              <a class="h6 text-transform-uppercase small" href="https://www.wacd.ucla.edu/announcements/archive">
+        <li class="letter-space">
+          Archive        </li>
+      </a>
+                </ul>
+</section>
+      </aside>
+        <div class="col-xs-12 px-0 col-md-8">
+          </div>
+            </div>
+      </div><!--/.row-->
+</div><!--/.container-->
+<!-- page navigation -->
+<!-- interpost -->
+<section class="interpost position-relative">
+  <div class="container-fluid" style="padding-right:0px; padding-left:0px;">
+    <div class="row gutter-0">
+                        <a class="col text-right" href="https://www.wacd.ucla.edu/announcements/news">
+        <span class="interpost interpost-next text-uppercase text-white small letter-space">
+          WACD News <i class="fas fa-arrow-right"></i>
+        </span>
+      </a>
+                      </div>
+  </div>
+</section>
+</section><!-- /.section-content -->
+<footer class="position-relative">
+<section id="basic-info">
+  <div class="padding-y-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4">
+          <address>
+                        <div itemscope itemtype="http://schema.org/EducationalOrganization">
+              <span itemprop="name">UCLA Department of World Arts and Cultures/Dance</span>
+              <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                <span itemprop="streetAddress">
+                  120 Westwood Plaza                  <br>
+                  Box 951608, 150 Kaufman Hall                </span>
+                <br>
+                                            <span itemprop="addressLocality">
+                  Los Angeles</span>,                                                 <span itemprop="addressRegion">
+                  California</span>
+                                                  <span itemprop="postalCode">
+                  90095-1608</span>
+                              </div>
+                            <br>
+              Telephone:
+              <span itemprop="telephone"><a href="tel:+1 (310) 825-3951">
+                +1 (310) 825-3951</a></span>
+                                          <br>
+              Email:
+              <span itemprop="email">
+                <a href="mailto:wacinfo@arts.ucla.edu">wacinfo@arts.ucla.edu</a>
+              </span>
+                          </div>
+          </address>
+          <br>
+          <ul class="list-unstyled d-flex pb-3" role="navigation">
+                        <a href="https://www.facebook.com/UCLAWACD/" target="_blank" title="Facebook">
+              <li class="mr-3" style="width:1.5rem; height:1.5rem; background-image:url(https://www.wacd.ucla.edu/media/site/1163753841-1596238481/facebook.svg)">
+                <span class="d-none">
+                  Facebook                </span>
+              </li>
+            </a>
+                        <a href="https://www.instagram.com/uclawacd/" target="_blank" title="Instagram">
+              <li class="mr-3" style="width:1.5rem; height:1.5rem; background-image:url(https://www.wacd.ucla.edu/media/site/724668153-1596238481/instagram.svg)">
+                <span class="d-none">
+                  Instagram                </span>
+              </li>
+            </a>
+                        <a href="https://twitter.com/UCLAWACD" target="_blank" title="Twitter">
+              <li class="mr-3" style="width:1.5rem; height:1.5rem; background-image:url(https://www.wacd.ucla.edu/media/site/2530630424-1596238481/twitter.svg)">
+                <span class="d-none">
+                  Twitter                </span>
+              </li>
+            </a>
+                        <a href="https://vimeo.com/user23405304" target="_blank" title="Vimeo">
+              <li class="mr-3" style="width:1.5rem; height:1.5rem; background-image:url(https://www.wacd.ucla.edu/media/site/3217515198-1596238481/vimeo.svg)">
+                <span class="d-none">
+                  Vimeo                </span>
+              </li>
+            </a>
+                      </ul>
+        </div>
+        <div class="col-lg-8">
+          <div class="text">
+            <p class="">
+              The Department of World Arts and Cultures/Dance is a part of the <a href="https://arts.ucla.edu" target="_blank">School of the Arts and Architecture</a> at the <a href="https://ucla.edu" target="_blank" title="UCLA">University of California, Los Angeles</a>.
+            </p>
+            <hr class="my-5">
+            <p>
+              <em>
+                The UCLA Department of World Arts and Cultures/Dance acknowledges the Gabrielino/Tongva peoples as the traditional land caretakers of <a href="assets/sounds/1-tovaangar-world.wav" target="_blank">Tovaangar</a> (Los Angeles basin, So. Channel Islands) and is grateful to have the opportunity to work for the <a href="assets/sounds/2-taraaxatom-indigenous-peoples.wav" target="_blank">taraaxatom</a> (indigenous peoples) in this place. As a land grant institution, we pay our respects to <a href="assets/sounds/3-honuukvetam-ancestors.wav" target="_blank">Honuukvetam</a> (Ancestors), <a href="assets/sounds/4-ahiihirom-wise-people-elders.wav" target="_blank">'Ahiihirom</a> (Elders), and <a href="assets/sounds/5-eyoohiinkem-our-relatives-relations.wav" target="_blank">'eyoohiinkem</a> (our relatives/relations) past, present and emerging.
+              </em>
+            </p>
+          </div>
+        </div>
+      </div><!-- /.col -->
+    </div><!-- /.row -->
+  </div><!-- /.container -->
+</section>
+<section id="footer-nav">
+  <div class="pt-5 pb-4">
+    <div class="container" style="max-width:1140px;">
+      <div class="row">
+        <div class="px-0">
+                    <nav class="small padding-y-3">
+            <ul class="card-columns">
+                            <li class="card border-0">
+                <a class="letter-space d-flex pb-1" href="https://www.wacd.ucla.edu">
+                  Home                </a>
+                              </li>
+                            <li class="card border-0">
+                <a class="letter-space d-flex pb-1" href="https://www.wacd.ucla.edu/fall-2023-chair-s-letter">
+                  Fall 2023 Chair's Letter                </a>
+                              </li>
+                            <li class="card border-0">
+                <a class="letter-space d-flex pb-1" href="https://www.wacd.ucla.edu/wacd-covid-19-information">
+                  COVID-19                </a>
+                                <ul class="list-unstyled pt-1 pl-2">
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/wacd-covid-19-information/updates">
+                      WACD/Campus Updates                    </a>
+                  </li>
+                                  </ul>
+                              </li>
+                            <li class="card border-0">
+                <a class="letter-space d-flex pb-1" href="https://www.wacd.ucla.edu/about">
+                  About                </a>
+                                <ul class="list-unstyled pt-1 pl-2">
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/about/mission">
+                      Mission &amp; Educational Vision                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/about/contact">
+                      Contact                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/about/facilities">
+                      Facilities                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/about/equity-diversity-and-inclusion">
+                      Equity, Diversity, and Inclusion                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/about/history">
+                      History                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/about/art-and-global-health-center">
+                      Art &amp; Global Health Center                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/about/dancing-disability-lab">
+                      Dancing Disability Lab                    </a>
+                  </li>
+                                  </ul>
+                              </li>
+                            <li class="card border-0">
+                <a class="letter-space d-flex pb-1" href="https://www.wacd.ucla.edu/people">
+                  People                </a>
+                                <ul class="list-unstyled pt-1 pl-2">
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/people/community">
+                      Our Community                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/people/faculty">
+                      Faculty                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/people/staff">
+                      Staff                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/people/lecturers-visiting-adjunct-professors">
+                      Lecturers, Visitors, Adjuncts &amp; Affiliated                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/people/graduate-students">
+                      Graduate Students                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/people/retired-faculty">
+                      Retired Faculty                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/people/memorial-chair">
+                      Alma Hawkins Visiting Chair                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/people/in-memoriam">
+                      In Memoriam                    </a>
+                  </li>
+                                  </ul>
+                              </li>
+                            <li class="card border-0">
+                <a class="letter-space d-flex pb-1" href="https://www.wacd.ucla.edu/programs">
+                  Programs                </a>
+                                <ul class="list-unstyled pt-1 pl-2">
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/programs/overview">
+                      Programs Overview                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/programs/undergraduate">
+                      Undergraduate Degrees                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/programs/graduate">
+                      Graduate Degrees                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/programs/apply">
+                      Apply                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/programs/wac-abroad">
+                      WAC Abroad                    </a>
+                  </li>
+                                  </ul>
+                              </li>
+                            <li class="card border-0">
+                <a class="letter-space d-flex pb-1" href="https://www.wacd.ucla.edu/announcements">
+                  Announcements                </a>
+                                <ul class="list-unstyled pt-1 pl-2">
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/announcements/events">
+                      Events Calendar                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/announcements/news">
+                      WACD News                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/announcements/newsletter">
+                      Newsletter                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/announcements/archive">
+                      Archive                    </a>
+                  </li>
+                                  </ul>
+                              </li>
+                            <li class="card border-0">
+                <a class="letter-space d-flex pb-1" href="https://www.wacd.ucla.edu/give">
+                  Give                </a>
+                              </li>
+                            <li class="card border-0">
+                <a class="letter-space d-flex pb-1" href="https://www.wacd.ucla.edu/pte-numbers">
+                  PTE Numbers for Dance Practice Courses                </a>
+                              </li>
+                          </ul>
+          </nav>
+                  </div><!-- /.col -->
+      </div><!-- /.row -->
+    </div><!-- /.container -->
+  </div>
+</section>
+<div id="footer-base">
+<section id="footer-links" style="margin:auto;max-width:1140px;" class="overflow-hint pt-3 pb-1">
+  <div class="nav-scroller">
+    <nav class="nav nav-underline justify-content-start justify-content-sm-between px-2">
+            <a class="nav-link small letter-space" href="http://www.ucla.edu/terms-of-use" target="_blank">
+        Terms of Use      </a>
+            <a class="nav-link small letter-space" href="http://www.ucla.edu/accessibility" target="_blank">
+        Accessibility      </a>
+            <a class="nav-link small letter-space" href="https://privacy.ucla.edu/" target="_blank">
+        Privacy      </a>
+            <a class="nav-link small letter-space" href="https://ucla-gme-advocate.symplicity.com/public_report" target="_blank">
+        Report Misconduct      </a>
+            <a class="nav-link small letter-space" href="https://arts.ucla.edu" target="_blank">
+        UCLA Arts      </a>
+            <a class="nav-link small letter-space" href="http://ucla.edu" target="_blank">
+        UCLA.edu      </a>
+          </nav>
+  </div>
+</section>
+<section id="copyright" class="overflow-hint" style="margin:auto;max-width:1140px;">
+  <div class="nav-scroller pl-0 pr-3">
+    <div class="nav nav-underline justify-content-start justify-content-sm-between pb-0" style="min-width:385px;">
+            <div class="order-2 flex-shrink text-sm-right">
+        <p class="small text-transform-uppercase letter-space mb-5 pr-5 pr-md-0 pl-5">
+          Made with <a href="https://getkirby.com" rel="noopener noreferrer" target="_blank">Kirby</a>.        </p><!-- / -->
+      </div><!-- /.column -->
+            <div class="order-1 w-100">
+        <p class="small text-transform-uppercase letter-space mb-5 pl-3">
+          © 2024 Regents of the <a href="https://universityofcalifornia.edu" rel="noopener noreferrer" target="_blank">University of California</a>.        </p><!-- / -->
+      </div><!-- /.column -->
+          </div><!-- /.nav nav-underline -->
+  </div><!-- /.nav-scroller -->
+</section>
+</div>
+</footer>
+<script src="https://www.wacd.ucla.edu/assets/js/lazysizes.min.js"></script><script src="https://www.wacd.ucla.edu/assets/js/popper.min.js"></script><script src="https://www.wacd.ucla.edu/assets/js/vendor.js"></script><script src="https://www.wacd.ucla.edu/assets/js/app.js"></script><script src="https://www.wacd.ucla.edu/assets/js/offcanvas.js"></script><script src="https://www.wacd.ucla.edu/assets/js/fotorama.js"></script><script src="https://www.wacd.ucla.edu/assets/js/application.js"></script><script>
+  jQuery(document.links) .filter(function() {
+    return this.hostname != window.location.hostname;})
+    .attr('target', '_blank');
+</script>
+<script src="https://www.wacd.ucla.edu/assets/js/mixitup.min.js"></script><script>
+  var mixItUpContainer = document.querySelector('#mixItUpContainer');
+  var mixer = mixitup(mixItUpContainer, {
+    selectors: {
+      control: '[data-mixitup-control]' }
+  });
+</script>
+<a class="back-to-top" style="z-index: 9999;" href="#"><i class="fa fa-arrow-up mr-1"></i> Back to top</a>
+</body>
+</html>

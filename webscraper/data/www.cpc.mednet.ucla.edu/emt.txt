@@ -1,0 +1,581 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Launch your healthcare career with UCLA&#039;s Center for Prehospital Care – home to LA&#039;s top EMT program. Benefit from expert faculty, flexible scheduling, and a stellar 96% NREMT first-time pass rate. Explore accelerated and online EMT courses, attend a free info session, and enroll today for a transformative learning experience." />
+<meta name="abstract" content="Experience excellence in emergency medical training at UCLA&#039;s Center for Prehospital Care. Our EMT program, boasting a remarkable 96% NREMT first-time pass rate, offers accelerated and online options. Join an upcoming info session, explore EMT vs. Paramedic distinctions, and find answers to FAQs. Elevate your career with LA&#039;s premier prehospital care provider." />
+<meta name="keywords" content="EMT Program, Emergency Medical Technician, NREMT Pass Rate, Accelerated EMT Course, Online EMT Program, Info Session, Healthcare Career, EMT vs. Paramedic, EMT Prep, FAQ, Payment Plans, Course Prerequisites, Required Materials, UCLA Center for Prehospital Care." />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.cpc.mednet.ucla.edu/emt" />
+<link rel="shortlink" href="https://www.cpc.mednet.ucla.edu/node/506" />
+<meta property="og:site_name" content="UCLA CPC" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.cpc.mednet.ucla.edu/emt" />
+<meta property="og:title" content="EMT: Emergency Medical Technician" />
+<meta property="og:description" content="Start Your Healthcare Career with LA’s Top EMT Program Expert UCLA program faculty teach our EMT courses in Westwood and El Segundo to prepare students for EMT certification. Students will learn how to provide emergency medical assistance to citizens suffering medical illnesses or traumatic injuries. Free Info Session – February 29 Join an online information session with our EMT faculty to determine which EMT program is right for you! RSVP TODAY  Accelerated EMT Program: This four-week EMT course is a great offering for students looking to start treating patients quickly." />
+<meta property="og:updated_time" content="2024-01-30T17:20:10-08:00" />
+<meta property="article:published_time" content="2021-02-11T17:32:33-08:00" />
+<meta property="article:modified_time" content="2024-01-30T17:20:10-08:00" />
+  <title>EMT: Emergency Medical Technician | UCLA CPC</title>
+  <style>
+@import url("https://www.cpc.mednet.ucla.edu/modules/system/system.base.css?s8lm5r");
+</style>
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/modules/field/theme/field.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/filebrowser/css/filebrowser_style.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/views/css/views.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ckeditor/css/ckeditor.css?s8lm5r");
+</style>
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ctools/css/ctools.css?s8lm5r");
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.css?s8lm5r" media="all" />
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/css/style.css?s8lm5r");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_YndZxdyT8-8LUpZC5MssOCg5j7KN4UJGOzCX7A0hGKI.js"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.js?s8lm5r"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_sGFJ0aln9SHwpHdKSzoE8Cdcd6RIMEIfIGrifGaUeBw.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cpc_bootstrap","theme_token":"zwGXPEVAEU53Ag_Dfig-WwU3LFUvLInBgbCk8vOGGK8","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"https:\/\/code.jquery.com\/jquery-3.7.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/contrib\/popup\/popup.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/cpc_bootstrap\/cpc_js.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/filebrowser\/css\/filebrowser_style.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/popup\/popup.css":1,"sites\/all\/themes\/cpc_bootstrap\/css\/style.css":1}},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":250,"delay":0},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+      </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-506 node-type-cpc-mega-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <style>
+	div#field-slideshow-1-pager {display:none;}
+.navbar-default {
+    background-color: #000000;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ffb300;
+  background-color: transparent;
+}
+@media (max-width: 768px) {
+}
+.login-header, .login-header a
+	{ color: white; }
+.login-header a:hover, .login-header a:active, .login-header a:visited
+	{ color: #ffffff; }
+.msg-button, .msg-button a
+	{ color: white; }
+.msg-button a:hover, .msg-button a:active, .msg-button a:visited
+	{ color: #ffffff; }
+.hp_quicklinks {
+	color: #00a5e5;
+	}
+.hp_quicklinks a, .hp_quicklinks a:hover, .hp_quicklinks a:active, .hp_quicklinks a:visited {
+	color: #ffb300;
+}
+.equal {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+}
+.row .hubgrid div img{
+    display: flex;
+    display: -webkit-flex;
+    align-self: flex-end;
+}
+.row div.featureslot {
+	padding:2em;
+}
+p.leadsmall {
+	font-size:16px;
+	color:#c8c8c8;
+}
+button.webform-submit {
+	text-align:center;
+	display: inline-block;
+	float:right;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	min-width:30%;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Roboto-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+.node-type-cpc-mega-page h1.onimage {
+    left: auto;
+    right: 0;
+    padding-right: 10px;
+	color: #00A5E5;
+}
+.node-type-cpc-mega-page h1.onimage .megasubhead {
+	color: #FFFFFF;
+	font-family: "Roboto-Bold","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 28px;
+	font-weight: 400;
+}
+@media (max-width: 768px) {
+  .hubgrid h2, .tagline h2, .tagline h3 {
+    font-size: 4vw !important;
+    line-height: 4vw !important;
+  }
+  .row div.featureslot {
+	padding-top:1em;
+	padding-bottom:1em;
+  }
+  .row div.featureslot.xs-nopad-bottom {
+	padding-bottom:0px;
+  }
+  .row div.featureslot.xs-nopad-top {
+	padding-top:0px;
+  }
+}
+</style>
+<header id="navbar" role="banner">
+	<div class="container containerlogin">
+		<div class="row" style="margin-top:0px; margin-bottom:0px; background-color: #666666;">
+			<div class="login-header pull-right" style="display: inline; background-color: #00a5e5; padding:10px;">
+				<!-- AJAX Replaces here	-->
+				[ Login / Register ] <span class="glyphicon glyphicon-shopping-cart"></span> 0  items in cart
+			</div>
+			<div class="pull-left hp_quicklinks" style="display: inline; padding:10px;"><p>
+	&nbsp; &nbsp;</p>
+</div>
+		</div>
+	</div>
+	<div class="containernavbar container navbar-default">
+    <div class="navbar-header">
+      				<a class="logo navbar-btn pull-left" href="/" title="Home">
+					<img src="https://www.cpc.mednet.ucla.edu/sites/default/files/images/cpc_logo-323x32.png" alt="Home" id="logo" class="img-responsive" />
+				</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first expanded dropdown"><a href="/cpc/course-listings" title="Our Courses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Courses <span class="caret"></span></a><ul class="dropdown-menu"><li class="first collapsed"><a href="/emt-courses">EMT</a></li>
+<li class="collapsed"><a href="/paramedic-courses">Paramedic</a></li>
+<li class="leaf"><a href="/content/licensed-phlebotomist-course">Licensed Phlebotomist</a></li>
+<li class="expanded"><a href="/aha-courses">BLS, ACLS &amp; PALS</a></li>
+<li class="expanded"><a href="/cpr-first-aid-courses">CPR &amp; First Aid</a></li>
+<li class="last collapsed"><a href="/trauma-courses">Trauma &amp; NAEMT Courses</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/students" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Students <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/services/payment-methods">Payment Methods</a></li>
+<li class="leaf"><a href="/services/payment-plan">Payment Plan</a></li>
+<li class="leaf"><a href="/services/refunds-transfers">Refunds &amp; Transfers</a></li>
+<li class="leaf"><a href="/services/transcripts">Transcripts</a></li>
+<li class="leaf"><a href="/services/financial-aid">Scholarships</a></li>
+<li class="leaf"><a href="/veterans">Veteran&#039;s Assistance Benefits</a></li>
+<li class="leaf"><a href="/services/students-with-disabilities">Educational Accommodations</a></li>
+<li class="last leaf"><a href="/services/college-credit">College Credit &amp; CEUs</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/services" title="Services for agencies, hospitals, and businesses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/fdqi" title="node/572">Fire Department Quality Improvement</a></li>
+<li class="last leaf"><a href="/international">International</a></li>
+</ul></li>
+<li class="last expanded dropdown"><a href="/content/about-us" data-target="#" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/about/contact">Contact Us</a></li>
+<li class="leaf"><a href="/giving">Giving</a></li>
+<li class="leaf"><a href="/content/ucla-center-prehospital-care-strategic-plan">Strategic Plan</a></li>
+<li class="leaf"><a href="/about/leadership">Leadership</a></li>
+<li class="leaf"><a href="/diversity-resources">Equity, Diversity &amp; Inclusion</a></li>
+<li class="leaf"><a href="/about/history">Our History</a></li>
+<li class="leaf"><a href="/about/employment">Jobs at the Center</a></li>
+<li class="last leaf"><a href="https://www.uclahealth.org/privacy-practices" title="">Privacy Practices</a></li>
+</ul></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+	
+<!--
+	<div class="container">
+			</div>
+-->
+	</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    <div class="col-sm-12">
+            <a id="main-content"></a>
+      			<!--------------------->
+							<div class="page-header-image">
+					<img class="img-responsive header-image" src="https://www.cpc.mednet.ucla.edu/sites/default/files/page_images/header_emt_mega.jpg">
+					<h1 class="page-header onimage">EMT: Emergency Medical Technician<br /><span class="megasubhead"><p>96% NREMT First Time Pass Rates</p>
+</span></h1>
+				</div>
+					
+		<!--–– SECTION SPECIFIC LINKS ––-->
+		
+				
+		<div class="row" style="margin-top:0px; margin-bottom:0px; background-color: #FFFFFFF;">
+			<div class="msg-button pull-right" style="display: inline; background-color: #00a5e5; padding:10px;">
+				<a aria-controls="collapseUpdate" aria-expanded="false" data-toggle="collapse" href="#collapseUpdate">
+	COVID UPDATE</a></div>
+
+			<div class="pull-left" style="display: inline; padding:10px;">
+				<p>
+	<strong>EMT Program</strong> | <a href="/emt/prerequisites">Prerequisites</a> | <a href="/emt/materials">Required Materials</a> | <a href="/emt/finances">Finances &amp; Scholarships</a>&nbsp;| <a href="/emt/faq">FAQs</a></p>
+</div>
+		</div>
+		<!--–– SECTION HIDDEN UNIVERSAL INFO AREA ––-->
+				
+		<div class="row hubgrid collapse " id="collapseUpdate" style="margin-bottom:8px; background-color: #ccedfa; ">
+			<div class="col-sm-12 clearfix featureslot">
+				<p>
+	<strong>Masks:</strong> UCLA recommends well-fitting masks in all&nbsp;facilities. Outdoor masking is optional for all.<br />
+	&nbsp;<br />
+	<strong>COVID-19 Vaccination Requirement:</strong> The University of California requires all students to be fully vaccinated against COVID-19, including a booster dose to access University facilities and programs. Students who cannot provide proof of COVID-19 vaccination may experience delays in clinical or field placement, extended completion times and the inability to meet course requirements for certification. Limited allowance for medical and religious exemption is reviewed with supporting documentation.<br />
+	&nbsp;<br />
+	Students are asked to only attend class if they are healthy and will complete a UCLA Health Symptom Survey for each day they are on-site.</p>
+			</div>
+		</div>
+		<!--------------------->
+		
+			                                      		</div>
+		
+    		
+    <div class="col-sm-12">
+        <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-506" class="node node-cpc-mega-page clearfix" about="/emt" typeof="sioc:Item foaf:Document">
+
+	<!--
+  	-->
+      <span property="dc:title" content="EMT: Emergency Medical Technician" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  <div class="content">
+    
+		
+		<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+          <!--–– SECTION Overview ––--><div class="row hubgrid" style="margin-bottom:8px; background-color: #eee; ">
+<div class="col-sm-12 clearfix featureslot">
+<h2 style="margin-top:0;">
+			Start Your Healthcare Career with LA’s Top EMT Program</h2>
+<p>
+			Expert UCLA program faculty teach our EMT courses in&nbsp;Westwood and El Segundo&nbsp;to prepare students for EMT certification. Students will learn&nbsp;how to provide emergency medical assistance to citizens suffering&nbsp;medical illnesses or traumatic injuries.</p>
+</div>
+</div>
+<!--–– FEATURE SPOT 1 FREE INFO SESSION ––--><div class="row hubgrid equal" style="margin-bottom:0em; background-color: #000000; padding-bottom:0em;">
+<div class="col-xs-8 clearfix featureslot">
+<h2 style="color:#00A5E5;margin-top:0;">
+			Free Info Session – February 29</h2>
+<p class="leadsmall">
+			Join an online information session with our EMT faculty to determine which EMT program is right for you!</p>
+<p>
+			<a class="btn btn-primary" href="https://www.eventbrite.com/e/ucla-emt-student-info-session-february-29-tickets-816085733397" role="button" target="_blank">RSVP TODAY</a></p>
+</div>
+<div class="col-xs-4 clearfix equal" style="padding:0em">
+		<img alt="Search and rescue officer" class="img-responsive" src="/sites/default/files/attached_files/emt-388x250.jpg" /></div>
+</div>
+<!--–– COURSE FORMATS 01 ––--><!---- EMT Accelerated block ----><div class="row hubgrid" style="margin-top:8px; background-color: #ffffff; ">
+<div class="col-sm-12 clearfix featureslot">
+<h3 style="margin-top:0;">
+			Accelerated EMT Program:</h3>
+<p>
+			This four-week EMT course is a great offering for students looking to start treating patients quickly. This class format has provided success to thousands of EMTs.</p>
+</div>
+</div>
+<div class="row equal">
+<div class="col-xs-2" style="display: flex; align-items: center;">
+		<img class="img-responsive center-block" src="/sites/default/files/attached_files/cpc_icon_calendar.png" style="margin-right: 0px; max-width:70%;" /></div>
+<div class="col-xs-4 clearfix" style="padding-left: 0px; display: flex; align-items: center;">
+<div>
+<p>
+				<strong>Duration: </strong>4 weeks</p>
+</div>
+</div>
+<div class="col-xs-2" style="display: flex; align-items: center;">
+		<img class="img-responsive center-block" src="/sites/default/files/attached_files/cpc_icon_instruct.png" style="margin-right: 0px; max-width:70%;" /></div>
+<div class="col-xs-4 clearfix" style="padding-left: 0px; display: flex; align-items: center;">
+<div>
+<p>
+				<strong>Lectures &amp; Skills Labs:</strong> Mon, Tue, Thu, Fri 8AM-5PM</p>
+</div>
+</div>
+</div>
+<!---- EMT Hybrid block ----><div class="row" style="background-color: #ffffff; ">
+<div class="col-sm-12 clearfix featureslot">
+<h3>
+			Online EMT Program:</h3>
+<p>
+			This ten-week course is a great offering for students looking for EMT training with a flexible schedule. This class format includes online lectures, self-paced interactive assignments, and on-site skills labs.</p>
+</div>
+</div>
+<div class="row equal">
+<div class="col-xs-2" style="display: flex; align-items: center;">
+		<img class="img-responsive center-block" src="/sites/default/files/attached_files/cpc_icon_calendar.png" style="margin-right: 0px; max-width:70%;" /></div>
+<div class="col-xs-4 clearfix" style="padding-left: 0px; display: flex; align-items: center;">
+<div>
+<p>
+				<strong>Duration: </strong>10 Weeks</p>
+</div>
+</div>
+<div class="col-xs-2" style="display: flex; align-items: center;">
+		<img class="img-responsive center-block" src="/sites/default/files/attached_files/cpc_icon_instruct.png" style="margin-right: 0px; max-width:70%;" /></div>
+<div class="col-xs-4 clearfix" style="padding-left: 0px; display: flex; align-items: center;">
+<div>
+<p>
+				<strong>Lectures: </strong>Mon &amp; Wed. 7PM-9PM<br />
+				<strong>Skills Labs - choose one:</strong><br />
+				• Sat 8AM-6PM<br />
+				• Sun 8AM-6PM<br />
+				• Tues &amp; Thurs 6PM-10PM</p>
+</div>
+</div>
+</div>
+<div class="row" style="margin-bottom:8px; background-color: #ffffff; ">
+<div class="col-sm-12 clearfix featureslot">
+<p>
+			Students must attend at least one online lecture at the scheduled time per week. All online lectures are all recorded. There are two options for skills labs and&nbsp;you must attend the selected lab&nbsp;for the duration of the hybrid course.</p>
+</div>
+</div>
+<!--–– FEATURE SPOT ENROLL - USES AJAX AT BOTTOM ––--><!---- ENROLL TODAY ----><div class="row hubgrid" style="margin-top:8px; background-color: #eee; ">
+<div class="col-sm-12 clearfix featureslot">
+<h2 style="margin:0;">
+			Enroll Today</h2>
+</div>
+</div>
+<!---- ENROLLMENT BOXES ----><div class="row hubgrid">
+<div class="col-sm-6 clearfix featureslot" style="padding-top: 0px; padding-bottom: 0px;">
+<p>
+			<strong>Accelerated Classroom&nbsp;Courses</strong><br />
+			Course fee: $1,595<br />
+			Required Materials: $349.46</p>
+<div class="enrollmentblock" data-pgmid="20">
+			CLASSES HERE</div>
+</div>
+<div class="col-sm-6 clearfix featureslot" style="padding-top: 0px; padding-bottom: 0px;">
+<p>
+			<strong>Online Course + Skills Sessions</strong><br />
+			Course fee: $1,595<br />
+			Required Materials: $349.46</p>
+<div class="enrollmentblock" data-pgmid="79">
+			CLASSES HERE</div>
+</div>
+</div>
+<div class="row" style="margin-bottom:8px; background-color: #ffffff; ">
+<div class="col-sm-12 clearfix featureslot">
+<p>
+			Non-Refundable Fee: $100</p>
+</div>
+</div>
+<!--–– SECTION Infographic Block ––--><div class="row hubgrid equal" style="margin-bottom:8px; background-color: #eee; ">
+<div class="col-xs-3 clearfix equal" style="padding:0px;">
+		<a href="/node/27" target="_blank"><img alt="What is the difference between an EMT and a Paramedic" class="img-responsive" src="/sites/default/files/attached_files/infographic-emt-paramedic-thumbnail_0.jpg" /></a></div>
+<div class="col-xs-9 clearfix featureslot">
+<h2 style="margin-top:0;">
+			What’s the difference between an EMT and a Paramedic?</h2>
+<p>
+			Curious about launching your career in Emergency Medical Services with the nation's top EMT program? Learn about the differences between these two levels of professional certification, and how you can get started.</p>
+<p>
+			<a class="btn btn-primary" href="/node/27" role="button" target="_blank">THE DIFFERENCE BETWEEN AN EMT AND A PARAMEDIC</a></p>
+</div>
+</div>
+<!--–– FEATURE SPOT - EMT Prep ––--><div class="row hubgrid equal" style="margin-bottom:0em; background-color: #000000; padding-bottom:0em;">
+<div class="col-xs-8 clearfix featureslot">
+<h2 style="color:#00A5E5;">
+			EMT Prep</h2>
+<p class="leadsmall">
+			With an EMT level review of various topics, the EMT Prep class will provide you with insights and knowledge into the EMS field.</p>
+<p>
+			<a class="btn btn-primary" href="/emt-prep" role="button">LEARN MORE</a></p>
+</div>
+<div class="col-xs-4 clearfix equal" style="padding:0em">
+		<img alt="Paramedic in training" class="img-responsive" src="/sites/default/files/attached_files/IMG_1190-firefighter_black_shirt-388x250.jpg" /></div>
+</div>
+<!--–– FEATURE SPOT - FAQ ––--><div class="row hubgrid" style="margin-bottom:8px; margin-top:8px; background-color: #eee; ">
+<div class="col-sm-4 clearfix featureslot xs-nopad-bottom">
+<h2>
+			Frequently Asked Questions</h2>
+</div>
+<div class="col-sm-8 clearfix featureslot xs-nopad-top">
+<p>
+			Find answers to your questions regarding enrollment, prerequisites, attendance, course fees, and more.</p>
+<p>
+			<a class="btn btn-primary" href="/emt/faq" role="button">LEARN MORE</a></p>
+</div>
+</div>
+<!--–– FEATURE SPOT PAYMENT PLANS ––--><div class="row hubgrid equal" style="margin-bottom:8px; background-color: #000000; padding-bottom:0em;">
+<div class="col-xs-8 clearfix featureslot">
+<h2 style="color:#00A5E5;">
+			Payment Plans</h2>
+<p class="leadsmall">
+			You can enroll in a payment plan for eligible courses and secure your seat with a down payment.</p>
+<p>
+			<a class="btn btn-primary" href="/services/payment-plan" role="button">LEARN MORE</a></p>
+</div>
+<div class="col-xs-4 clearfix equal" style="padding:0em">
+		<img alt="Paramedic in training" class="img-responsive" src="/sites/default/files/attached_files/IMG_2010-paramedic_face_front-388x250.jpg" /></div>
+</div>
+<!--–– FEATURE SPOT - PREREQUISITES ––--><div class="row hubgrid" style="margin-bottom:8px; margin-top:8px; background-color: #fff; ">
+<div class="col-sm-4 clearfix featureslot xs-nopad-bottom">
+<h2>
+			Course Prerequisites</h2>
+</div>
+<div class="col-sm-8 clearfix featureslot xs-nopad-top">
+<p>
+			Learn about the requirements you must meet to participate in our EMT program.</p>
+<p>
+			<a class="btn btn-primary" href="/emt/prerequisites" role="button">LEARN MORE</a></p>
+</div>
+</div>
+<!--–– FEATURE SPOT - REQUIRED MATERIALS ––--><div class="row hubgrid" style="margin-bottom:8px; margin-top:8px; background-color: #eee; ">
+<div class="col-sm-4 clearfix featureslot xs-nopad-bottom">
+<h2>
+			Required Materials</h2>
+</div>
+<div class="col-sm-8 clearfix featureslot xs-nopad-top">
+<p>
+			You will need a few additional items to complete the course. Learn more here.</p>
+<p>
+			<a class="btn btn-primary" href="/emt/materials" role="button">LEARN MORE</a></p>
+</div>
+</div>
+<!--–– END ––-->    		
+  </div>
+
+	
+</div>
+
+
+  </div>
+</div>
+  </div>
+    </div>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+	
+	<div class="col-sm-3">
+      <div class="region region-footer-left">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="footer-menu footer-menu-left">
+<li>
+		<span style="color:#00a5e5;">Resources</span></li>
+<li>
+		<a href="https://www.cpc.mednet.ucla.edu/pcrf/">PCRF</a></li>
+<li>
+		<a href="/about/contact">Contact</a></li>
+<li>
+		<a href="https://vipcpc1.ad.medctr.ucla.edu/portal">Portal</a></li>
+<li>
+		<a href="https://www.cpc.mednet.ucla.edu/SRRS/Staff/StaffMain.aspx">SRRS Staff Page</a></li>
+<li>
+		<a href="/associates">Associate Resources</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-6">
+      <div class="region region-footer-middle">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="footer-menu footer-menu-center-left">
+<li>
+		<a href="/courses">Courses</a></li>
+<li>
+		<a href="/emt">EMT</a></li>
+<li>
+		<a href="/paramedic">Paramedic</a></li>
+<li>
+		<a href="/lifesupport">CPR, ACLS, PALS</a></li>
+<li>
+		<a href="/course/phlebotomy">Phlebotomy</a></li>
+<li>
+		<a href="/course/phtls">Trauma</a></li>
+</ul>
+<ul class="footer-menu footer-menu-center-center">
+<li>
+		<a href="/students">Students</a></li>
+<li>
+		<a href="/services/payment-methods">Payment Methods</a></li>
+<li>
+		<a href="/services/financial-aid">Financial Aid</a></li>
+<li>
+		<a href="/services/books">Books</a></li>
+<li>
+		<a href="/services/transcripts">Transcripts</a></li>
+</ul>
+<ul class="footer-menu footer-menu-center-right">
+<li>
+		<a href="/about">About Us</a></li>
+<li>
+		<a href="/about/contact">Contact</a></li>
+<li>
+		<a href="/giving">Giving</a></li>
+<li>
+		<a href="/about/leadership">Leadership</a></li>
+<li>
+		<a href="/diversity-resources">Equity, Diversity<br />
+		&amp; Inclusion</a></li>
+<li>
+		<a href="/about/history">Our History</a></li>
+<li>
+		<a href="/about/employment">Jobs at CPC</a></li>
+<li>
+		<a href="https://www.uclahealth.org/privacy-notice">Privacy Practices</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-3">
+      <div class="region region-footer-right">
+    <div id="block-block-4" class="block block-block">
+
+    
+  <div class="content">
+    <div style="width:185px; xmargin:20px auto;">
+	<a href="http://www.facebook.com/uclacpc"><img class="img-responsive" src="/sites/all/themes/cpc_bootstrap/theme_images/facebookIcon-240.png" style="display: inline-block; margin: 5px; max-width:120px;" /></a><!--<img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-FB.png" style="display: inline-block; margin: 5px;" /> <img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-LI.png" style="display: inline-block; margin: 5px;" /><img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-YT.png" style="display: inline-block; margin: 5px;" /> --> <a href="https://www.instagram.com/uclacpc/" target="_blank"><img src="/sites/default/files/icons/instagram_glyph_color.png" style="display: inline-block; max-height: 40px; max-width: 40px; " /></a></div>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-12 footer-bottom">
+		<div style="text-align: center; border-top: 1px solid #777;display:none;">
+		<a href="">Privacy</a> | <a href="">Terms</a>
+		</div>
+	</div>
+</footer>
+  	  <script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=30&cb=1153084866" async></script></body>
+</html>

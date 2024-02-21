@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<title>UCLA Physics & Astronomy</title>
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="update.css">
+<link rel="SHORTCUT ICON" href="favicon.ico" />
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</head>
+<body>
+<ol class="breadcrumb bg-primary text-light">
+  <li class="breadcrumb-item"><img src="logo_UCLA_white.svg" class="ucla-logo" /></li>
+  <li class="breadcrumb-item">College</li>
+  <li class="breadcrumb-item">Physical Sciences</li>
+</ol>
+
+<nav class="navbar navbar-expand-lg navbar-light mt-0 mt-lg-0 mr-4 border-bottom mb-4">
+  <a class="navbar-brand" href="https://www.pa.ucla.edu/index.php"><img src="https://www.pa.ucla.edu/pa-logo-new.png" height="110px"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarText">
+    <!-- To change the menu alignment from left to right, use ml-auto -->
+    <ul class="navbar-nav mr-auto text-primary">
+      <li class="nav-item"><a class="nav-link text-primary" href="https://www.pa.ucla.edu/index.php">Home</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          About
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            
+          <a class="dropdown-item" href="../videos/admitvideo.html" >Admit Video</a>
+          <a class="dropdown-item" href="https://youtu.be/chk8MNJJ950">APS video tour of Physics & Astronomy</a>
+          <a class="dropdown-item" href="/visiting.html">Visiting the Department</a>
+          <a class="dropdown-item" href="/annual-report.html">Annual Reports</a>
+          <a class="dropdown-item" href="/diversity.html">Diversity</a>
+          <a class="dropdown-item" href="/open-positions.html">Employment</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Education
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/undergraduate-program.html">Undergraduate</a>
+          <a class="dropdown-item" href="/graduate-admissions.html">Graduate admissions</a>
+          <a class="dropdown-item" href="/current-graduate-students.html">Current graduate students</a>
+          <a class="dropdown-item" href="https://bruinlearn.ucla.edu/courses/288">BruinLearn, UCLA's new LMS</a>
+          <a class="dropdown-item" href="/phd-physics-bridge-program.html">Physics PhD Bridge Program</a>
+          <a class="dropdown-item" href="/undergraduate-research-experience.html">REU program</a>
+          <a class="dropdown-item" href="https://qst.ucla.edu/">Quantum master program</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link text-primary" <a href="/research.html">Research</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" <a href="http://www.astro.ucla.edu/">Astro&nbsp;Division</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          People
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/faculty.html">Faculty</a>
+          <a class="dropdown-item" href="/faculty-affiliated.html">Affiliated Faculty</a>
+          <a class="dropdown-item" href="/researchers.html">Researchers, Project Scientists, Adjuncts</a>
+          <a class="dropdown-item" href="/lecturers.html">Lecturers</a>
+          <a class="dropdown-item" href="/postdocs.html">Postdoctoral Scholars</a>
+          <a class="dropdown-item" href="/grad-students.html">Graduate Students</a>
+          <a class="dropdown-item" href="/staff.html">Staff</a>
+          <a class="dropdown-item" href="/memorials.html">Memorials</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/events.php">Events</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/clubs.html">Clubs</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/giving.html">Giving</a></li>
+      <!--<li class="nav-item"><a class="nav-link text-primary" href="/contact.html">Contact</a></li>-->
+      <!--<li class="nav-item"><a class="nav-link"><img src="images/search-icon-2.svg" /></a></li>-->
+      <!--<li class="nav-item"><a class="nav-link"><img src="https://atmos.ucla.edu/Icon/search-icon-2.svg" /></a></li>-->
+    </ul>
+  </div>
+</nav>
+<div class="container">
+    <div class="row">
+    <!--<div class="col-md-4 order-md-1 col-sm-12 order-sm-0 pb-4">
+      <!--<img src="home-image.jpg" width="100%"/>-->
+      <!--<h2 class="module-header">Sidebar</h2>
+      <p>This paragraph is for testing. This would make a nice sidebar.</p>
+      <p>
+      <ul>
+      	<li><a href="#">There's always room for a list</a></li>
+      	<li><a href="#">This is a second list entry</a></li>
+      	<li><a href="#">This is the inevitable third list entry</a></li>
+      </ul>
+      </p>
+      <p>Nam elit elit, molestie elementum odio sed, ornare mollis justo. Duis malesuada quis ligula at aliquam. Sed 
+      efficitur pretium diam eget tempus. In hac habitasse platea dictumst. Cras eget ornare arcu, ac porttitor urna.</p>
+      <p>Quisque facilisis auctor tellus, quis pharetra tortor tristique ut. Morbi egestas lacinia nisi, in consectetur 
+      metus mollis vel. Phasellus pulvinar condimentum erat, semper malesuada turpis rhoncus sit amet. Sed sed risus 
+      metus. Nulla facilisi.</p>
+    </div>-->
+    <div class="col-md-12 order-md-0 col-sm-12 order-sm-1">
+      <!--<p class="branding-ribbon">THIS SECONDARY PAGE</p>
+      <br/><p class="branding-ribbon">IS FOR TESTING</p>-->
+      <h2>Contact us</h2>
+      <br />
+      <p>Stuart Brown, Chair</p>
+      Office: PAB 2-707B, Knudsen 6-130G<br />
+      Phone: 310-825-3440, 310-825-4234<br />
+      Email: <a href="mailto:brown@physics.ucla.edu">brown@physics.ucla.edu</a> or <a href="mailto:chair@physics.ucla.edu">chair@physics.ucla.edu</a><br />
+      Website: <a href="https://www.pa.ucla.edu/faculty-websites/brown.html">https://www.pa.ucla.edu/faculty-websites/brown.html</a><br />
+      <hr>
+      <p><b>Student Services, Graduate Office</b></p>
+      <p>The graduate office is staffed by Brenda Buenrostro. Contact her to find out details about graduate admissions and 
+      requirements, fees, financial support, and academic timelines.</p>
+      <p>Brenda Buenrostro, Graduate Student Affairs<br />
+      Office: PAB 1-707B<br />
+      Phone: 310-825-2307<br />
+      Email: <a href="mailto:brenda@physics.ucla.edu">brenda@physics.ucla.edu</a></p>
+       <hr>
+       <p><b>Student Services, Undergraduate Office</b></p>
+       <p>The undergraduate advising office is staffed by Dr. Françoise Queval and Mary Tran. Contact them for information about undergraduate physics
+       and astronomy majors and requirements, admissions, tuitions and fees, class scheduling, and other resources.</p>
+       <p>Françoise Queval, Academic Coordinator, Undergraduate Advising<br />
+       Office: 1-707A PAB<br />
+       Phone: 310-825-2453<br />
+       Email: <a href="mailto:queval@physics.ucla.edu">queval@physics.ucla.edu</a></p>
+       <p>Mary Tran, Undergraduate Advisor<br />
+       Office: 1-707D PAB<br />
+       Phone: 310-206-1447<br />
+       Email: <a href="mailto:mtran@physics.ucla.edu">mtran@physics.ucla.edu</a></p>
+       <hr>
+       <p><b>Academic Personnel</b><br />
+       <p>Corinna Koehnenkamp handles the appointments of all faculty, researchers, project scientists, lecturers and visiting faculty, promotional 
+       activity, and sabbatical/leave of absence requests.</p>
+       <p>Corinna Koehnenkamp, Senior Academic Personnel Coordinator<br />
+       Office: 2-707D PAB<br />
+       Phone: (310) 825-3559<br />
+       Email: <a href="mailto:corinna@physics.ucla.edu">corinna@physics.ucla.edu</a><br /><br />
+       Website: <a href="https://www.pa.ucla.edu/academic-personnel.html">https://www.pa.ucla.edu/academic-personnel.html</a></p>
+       <hr>
+       <p><b>Staff and Academic Personnel</b></p>
+       <p>This unit is managed by Imelda Gonzalez-Perez for all 
+       personnel and payroll matters concerning Staff, Academic 
+       Students (ASEs, GSRs, Readers & Tutors) and Postdoctoral Scholars. This unit also manages APO payroll.</p>
+       <p>Imelda Gonzalez, Human Resources Manager<br />
+       Office: 2-707G<br />
+       Phone: 310-825-3559<br />
+       Email: <a href="mailto:igonzalezperez@physics.ucla.edu">igonzalezperez@physics.ucla.edu</a></p>
+       <p>Kay Gutierrez, Lead Human Resources Analyst<br>
+        Focus: Academic Personnel & Payroll for Postdoctoral Scholars / Back-up and lead for Academic Students Personnel<br>
+        Office: 2-707F PAB<br>
+        Phone: 310-825-3088<br/>
+        Email: <a href="mailto:kgutierrez@physics.ucla.edu">kgutierrez@physics.ucla.edu</a>.
+       </p>
+       <p>Randy Guzman, Academic Human Resources Analyst<br />
+       Focus: Academic Personnel & Payroll for Academic 
+       Students / Back-Up for Postdoctoral Scholars Personnel<br />
+       Office: 2-707F PAB<br />
+       Phone: 310-825-3403<br />
+       Email: <a href="mailto:rguzman@physics.ucla.edu">rguzman@physics.ucla.edu</a></p>
+       <p>Ruth Tesfai, Staff Human Resources Analyst<br />
+       Focus: Staff Personnel/Payroll and APO Payroll<br />
+       Office: 2-707H PAB<br />
+       Phone: 310-825-3010<br />
+       Email: <a href="mailto:rtesfai@physics.ucla.edu">rtesfai@physics.ucla.edu</a></p>
+       Staff website: <a href="https://www.pa.ucla.edu/staff-personnel.html">https://www.pa.ucla.edu/staff-personnel.html</a></p>
+       <p>Postdoc Website: Coming soon<br />
+       Payroll Website: Coming soon</p>
+       <hr>
+       <p><b>Computing and IT Support</b></p>
+       <p>The Computing and Information Systems group provides computer support and technology solutions for Physics & Astronomy department faculty, students, and 
+       staff. Visit their website as a starting point for questions regarding workstations, software, or other technical concerns. General hours are Monday through 
+       Friday from 8am to 5pm. <br />
+       Website: <a href="https://computing.pa.ucla.edu/">https://computing.pa.ucla.edu/</a><br />
+       To submit a help desk ticket, <a href="https://computing.pa.ucla.edu/content/new-helpdesk-request">please login to our user portal</a> or send a detailed
+       email to <a href="mailto:helpdesk@pa.ucla.edu">helpdesk@pa.ucla.edu</a>.</p>
+       <hr>
+       <p><b>Financial Services</b></p>
+       <p>The Financial Services office of the Physics & Astronomy Department is located in 2-707 PAB, suites H through N. Contact information for all Financial 
+       Services fund manager is available on their website.</p>
+       <p>Department Security Administrator (DSA) is <a href="mailto:jaharvey@physics.ucla.edu">Joe Harvey</a>, with <a href="mailto:delosrey@physics.ucla.edu">Joey 
+       De Los Reyes</a> as backup.</p>
+       Website: <a href="financial-services.html">Financial Services</a></p>
+       <hr>
+       <p><b>Administrative Support Group</b></p>
+       <p>The Administrative Support Group handles a number of tasks 
+       such as photocopying, exam preparation, course materials, 
+       event posting, purchasing requests, and travel reimbursements. 
+       Please visit their website for more detailed information and 
+       to contact ASG members.<br />
+       Website: <a href="administrative-support.html">Administrative Support Group</a>.</p>
+       <hr>
+       <p><b>Division of Physical Sciences Machine Shop</b></p>
+       <p>The Division of Physical Sciences Machine Shop and Instrument Fabrication Facility is a well-equipped precision support fabrication facility. Our specialty 
+       is fabrication of complex one-of-a-kind research equipment. Our customer base ranges from UCLA Physical Science Division students and faculty to National 
+       Laboratories and International Consortiums. We have been in operation since the early fifties and currently employ the most experienced, dedicated professionals 
+       in the fabrication field. Contact us via the main Machine Shop website or the Student Machine Shop site.
+       <!--<p>Machine Shop Website: <a href="http://iff.pa.ucla.edu/">http://iff.pa.ucla.edu/</a><br />-->
+       Machine Shop Website: <a href="https://machine-shop.pa.ucla.edu">https://machine-shop.pa.ucla.edu</a><br />
+       Student Machine Shop Website: <a href="http://student-shop.pa.ucla.edu/">http://student-shop.pa.ucla.edu/</a></p>
+       <hr>
+       <p><b>Research Store</b></p>
+       <p>The Physics & Astronomy Facilities unit, managed by Jules Berger, provides a variety of services to the department, including shipping and receiving, 
+       supplies, and keys.</p>
+       <p>Jules Berger, Facilities Management Operations<br />
+       Office: Knudsen Hall 1-129<br />
+       Phone: 310-825-1152<br />
+       Email: <a href="mailto:jberger@physics.ucla.edu">jberger@physics.ucla.edu</a></p>
+       Nolan Denham, Lead Facilities Specialist<br />
+       Office: Knudsen Hall 1-129<br />
+       Phone: 310-825-1152<br />
+       Email: <a href="mailto:ndenham@physics.ucla.edu">ndenham@physics.ucla.edu</a></p>
+       Cameron Irvin, Research Store; Shipping & Receiving<br />
+       Office: Knudsen Hall 1-129<br />
+       Phone: 310-825-1152<br />
+       Email: <a href="mailto:cirvin@physics.ucla.edu">cirvin@physics.ucla.edu</a></p>
+       <p>Website: <a href="research-store.html">Research Store</a></p>
+       <hr>
+       <p><b>Lower Division Labs Repair</b></p>
+       Lab TAs may report any problems in the labs with computers or equipment. If you are a student, report any problems directly to your lab TA.<br />
+       <a href="https://computing.pa.ucla.edu/ldl-repair">https://computing.pa.ucla.edu/ldl-repair</a></p>
+       
+      <hr>
+    </div>
+  </div>
+</div>
+
+<div class="w-100 d-none d-sm-block d-md-none"><!-- wrap every 1 on sm--></div>
+<div class="w-100 d-none d-md-block d-lg-none"><!-- wrap every 2 on md--></div>
+  </div>
+</div>
+<div class="w-100 d-none d-sm-block d-md-none"><!-- wrap every 1 on sm--></div>
+<div class="w-100 d-none d-md-block d-lg-none"><!-- wrap every 2 on md--></div>
+  </div>
+</div>
+<footer class="site-footer">
+<footer class="footer text-light">
+<div class="container">
+<div class="row pt-3 pb-3">
+<div class="col-4">
+<!--<img src="white-pa-logo-new-crop.png" height="45px" align="left" />-->
+<h5>UCLA Physics & Astronomy Department</h5>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> UCLA Physics & Astronomy<br />
+475 Portola Plaza, Los Angeles, CA 90095-1547<br />
+310-825-3440</p>
+<p>
+<ul>
+	<li><a href="https://www.pa.ucla.edu/contact.html">Contact Physics & Astronomy</a></li>
+</ul>
+</p>	
+</div>
+<div class="col-4">
+<!--<img src="https://atmos.ucla.edu/sites/default/files/Uxd_Wht_ATMOS.svg" />-->
+<h5>ABOUT UCLA</h5>
+<p>
+<ul>
+      	<li><a href="http://www.ucla.edu/">UCLA Home</a></li>
+      	<li><a href="https://www.physicalsciences.ucla.edu/">Division of Physical Sciences</a></li>
+      	<li><a href="https://covid-19.ucla.edu/">UCLA COVID-19 Resources</a></li>
+      	<li><a href="https://admission.ucla.edu/visit/maps-and-parking">Maps, directions, and parking</a></li>
+      </ul>
+</p>
+
+</div>
+<div class="col-4">
+<!--<img src="https://atmos.ucla.edu/sites/default/files/Uxd_Wht_ATMOS.svg" />-->
+<h5>RESOURCES</h5>
+<p>
+<ul>
+      	<li><a href="https://bruinlearn.ucla.edu/courses/288">BruinLearn</a></li>
+      	<li><a href="https://www.pa.ucla.edu/instructional-support.html">Instructional Support</a></li>
+      	<li><a href="http://www.pa.ucla.edu/diversity.html">Diversity</a></li>
+        <li><a href="http://www.pa.ucla.edu/wellness.html">Wellness</a></li>
+        <li><a href="/covid.html">COVID</a></li>
+        <li><a href="https://computing.pa.ucla.edu/">Computing and IT Support</a></li>
+        <!--<li><a href="http://iff.pa.ucla.edu/">Machine Shop and Instrument Fabrication Facility</a></li>  -->
+        <li><a href="https://machine-shop.pa.ucla.edu">Machine Shop and Instrument Fabrication Facility</a></li>
+        <li><a href="https://www.pa.ucla.edu/research-store.html">Research Store</a></li> 
+      	<li><a href="http://www.pa.ucla.edu/contact.html">Physics & Astronomy Administration</a></li>
+      	<li><a href="http://demoweb.physics.ucla.edu/demo-manual">Demoweb: Lecture demonstration </a></li>
+      	<li><a href="http://demoweb.physics.ucla.edu/">Demoweb: Lab manuals</a></li>
+      </ul>
+</p>
+</div></div>
+</div>
+</footer>
+</body>
+</html>

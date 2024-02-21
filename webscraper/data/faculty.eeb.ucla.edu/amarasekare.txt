@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>The Amarasekare Lab</title>
+
+<link rel="stylesheet" href="style.css"/>
+<link href='./images/favicon.ico' rel='icon' type='image/x-icon'/>
+
+<script type="text/javascript">
+<!-->
+var image1=new Image()
+image1.src="Img5.png"
+var image2=new Image()
+image2.src="IMG4.png"
+var image3=new Image()
+image3.src="IMG2b.png"
+var image4=new Image()
+image4.src="IMG1.png"
+//-->
+</script>
+
+
+</head>
+<body>
+<div id = "wholepage">
+<div id="background">
+  <!-- Colors the inner page with #FFFACD-->
+  <div id="headerwrap">
+    <!-- Repeats image across top of page -->
+    <div id="header">
+      <p class="title">The Amarasekare Lab<br />
+      <span class="description">UCLA Department of Ecology and Evolutionary Biology</span></p>
+      <!-- Close header -->
+    </div>
+    <!-- Close headerwrap -->
+  </div>
+
+
+  <div id="navwrap">
+    <!-- Repeats image across page behind navigation -->
+    <div id="menu">
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="Research.html">Research</a></li>
+    <li><a href="Opportunities.html">Opportunities</a></li>
+      <li><a href="People.html">People</a></li>
+      <li><a href="Publications.html">Publications</a></li>
+      <li><a href="Contact.html">Contact</a></li>
+	<li><a href="News.html">News</a></li>
+    </ul>
+    </div>
+    <!-- Close navwrap -->
+  </div>
+<br>
+  <!-- Start of page code -->
+  <div id="outerWrapper">
+    <!-- Sets page width to 960px and centers -->
+    <div id="contentWrapper">
+ </div>
+
+<img src="IMG1.png" name="slide" width="960" height="350">
+<script type="text/javascript">
+<!--
+var step=1
+function slideit(){
+document.images.slide.src=eval("image"+step+".src")
+if(step<4)
+step++
+else
+step=1
+setTimeout("slideit()",5500)
+}
+slideit()
+//-->
+</script>
+<br>
+<br>
+
+
+
+  <!-- Start of page code -->
+  <div id="outerWrapper">
+    <!-- Sets page width to 960px and centers -->
+    <div id="contentWrapper">
+      <!-- Wraps content and sidebars -->
+      <div id="Content">
+        <div class="box">
+          <h2 class="posttitle">About the lab</h2>
+		  <p><img src="DrANew.png" alt="Dr Amarasekare" width="180" height="170" class="left" />Welcome to the Amarasekare Lab! My research focuses on mechanisms that maintain biological diversity in variable environments.  I approach this issue from both an ecological and an evolutionary perspective, and explore it using a combination of observation, experimentation and mathematical modelling.  Through investigations of host-parasitoid and other multi-trophic interactions in variable environments, my research encompasses both basic and applied issues in Ecology.
+</h2>		  
+<div class="clearer"></div> 
+		</div>
+       
+        <!-- Styles container for each post -->
+			
+	  	<!-- Close content -->
+   	  </div>
+      	<!-- Begin sidebar -->
+      	<div id="sidebar">
+        	<ul>
+            <li>
+           	 
+  <div id="Footer">
+  	Amarasekare Lab <a href="index.html">Home</a> | <a href="Research.html">Research</a> | <a href="Opportunities.html">Opportunities</a>| <a href="People.html">People</a> | <a href="Publications.html">Publications</a> | <a href="Contact.html">Contact</a>
+  </div>
+  <!-- Close background-->
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<title>UCLA Physics & Astronomy</title>
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="update.css">
+<link rel="SHORTCUT ICON" href="favicon.ico" />
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</head>
+<body>
+<ol class="breadcrumb bg-primary text-light">
+  <li class="breadcrumb-item"><img src="logo_UCLA_white.svg" class="ucla-logo" /></li>
+  <li class="breadcrumb-item">College</li>
+  <li class="breadcrumb-item">Physical Sciences</li>
+</ol>
+
+<nav class="navbar navbar-expand-lg navbar-light mt-0 mt-lg-0 mr-4 border-bottom mb-4">
+  <a class="navbar-brand" href="https://www.pa.ucla.edu/index.php"><img src="https://www.pa.ucla.edu/pa-logo-new.png" height="110px"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarText">
+    <!-- To change the menu alignment from left to right, use ml-auto -->
+    <ul class="navbar-nav mr-auto text-primary">
+      <li class="nav-item"><a class="nav-link text-primary" href="https://www.pa.ucla.edu/index.php">Home</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          About
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            
+          <a class="dropdown-item" href="../videos/admitvideo.html" >Admit Video</a>
+          <a class="dropdown-item" href="https://youtu.be/chk8MNJJ950">APS video tour of Physics & Astronomy</a>
+          <a class="dropdown-item" href="/visiting.html">Visiting the Department</a>
+          <a class="dropdown-item" href="/annual-report.html">Annual Reports</a>
+          <a class="dropdown-item" href="/diversity.html">Diversity</a>
+          <a class="dropdown-item" href="/open-positions.html">Employment</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Education
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/undergraduate-program.html">Undergraduate</a>
+          <a class="dropdown-item" href="/graduate-admissions.html">Graduate admissions</a>
+          <a class="dropdown-item" href="/current-graduate-students.html">Current graduate students</a>
+          <a class="dropdown-item" href="https://bruinlearn.ucla.edu/courses/288">BruinLearn, UCLA's new LMS</a>
+          <a class="dropdown-item" href="/phd-physics-bridge-program.html">Physics PhD Bridge Program</a>
+          <a class="dropdown-item" href="/undergraduate-research-experience.html">REU program</a>
+          <a class="dropdown-item" href="https://qst.ucla.edu/">Quantum master program</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link text-primary" <a href="/research.html">Research</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" <a href="http://www.astro.ucla.edu/">Astro&nbsp;Division</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          People
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/faculty.html">Faculty</a>
+          <a class="dropdown-item" href="/faculty-affiliated.html">Affiliated Faculty</a>
+          <a class="dropdown-item" href="/researchers.html">Researchers, Project Scientists, Adjuncts</a>
+          <a class="dropdown-item" href="/lecturers.html">Lecturers</a>
+          <a class="dropdown-item" href="/postdocs.html">Postdoctoral Scholars</a>
+          <a class="dropdown-item" href="/grad-students.html">Graduate Students</a>
+          <a class="dropdown-item" href="/staff.html">Staff</a>
+          <a class="dropdown-item" href="/memorials.html">Memorials</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/events.php">Events</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/clubs.html">Clubs</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/giving.html">Giving</a></li>
+      <!--<li class="nav-item"><a class="nav-link text-primary" href="/contact.html">Contact</a></li>-->
+      <!--<li class="nav-item"><a class="nav-link"><img src="images/search-icon-2.svg" /></a></li>-->
+      <!--<li class="nav-item"><a class="nav-link"><img src="https://atmos.ucla.edu/Icon/search-icon-2.svg" /></a></li>-->
+    </ul>
+  </div>
+</nav>
+<div class="container">
+    <div class="row">
+    <div class="col-md-4 order-md-1 col-sm-12 order-sm-0 pb-4">
+      <!--<img src="home-image.jpg" width="100%"/>-->
+      <!--
+<h2 class="module-header">Search</h2>
+      <p></p>
+      <script async src="https://cse.google.com/cse.js?cx=015121140664034713057:qm87o70wka5"></script>
+		<div class="gcse-search"></div>
+<br />
+-->      <h2 class="module-header">Research</h2>
+      <p></p>
+      <p>
+      <ul>
+      	<li><a href="#astro">Astronomy and Astrophysics Division</a></li>
+      	<li><a href="#amo">Atomic-Molecular-Optical (AMO)</a></li>
+      	<li><a href="#hard">Hard Condensed Matter</a></li>
+      	<li><a href="#soft">Soft Condensed Matter</a></li>
+      	<li><a href="#eep">Experimental Elementary Particle Physics</a></li>
+      	<li><a href="#tep">Theoretical Elementary Particle Physics (TEP)</a></li>
+      	<li><a href="#tepapp">Theory of Elementary Particles, Astroparticle Physics, and Phenomenology (TEPAPP)</a></li>
+      	<li><a href="#nuclear">Nuclear Physics</a></li>
+      	<li><a href="#plasma">Plasma and Advanced Accelerators</a></li>
+      	<li><a href="#teaching">The Science of Teaching and Learning</a></li>
+      </ul>
+      </p><br />
+      <h2 class="module-header">Institutes</h2>
+      <p></p>
+      <p>
+      <ul>
+      	<li><a href="http://bhaumik-institute.physics.ucla.edu/">Mani L. Bhaumik Institute of Theoretical Physics</a></li>
+      	<li><a href="http://www.physics.ucla.edu/psti/">Plasma Science and Technology Institute (PSTI)</a></li>
+      	<li><a href="http://www1.cnsi.ucla.edu/index">California Nanosystems Institute (CNSI)</a></li>
+      	<li><a href="https://idre.ucla.edu/">Institute for Digital Research and Education (IDRE)</a></li>
+      </ul>
+      </p>
+    </div>
+    <div class="col-md-8 order-md-0 col-sm-12 order-sm-1">
+      <h2>Research areas</h2>
+      <br />
+      <h5><a name="astro">Astronomy and Astrophysics Division</a></h5><br />
+      <p><img src="images/kecks.jpg" width="300px" class="image1 float-left" hspace="15px" alt="..."> Groundbreaking research, cutting-edge 
+      technology, award-winning faculty – UCLA’s Division of Astronomy & Astrophysics offers a rewarding environment to pursue higher education 
+      and topical research. All members of the Division carry out active research programs that garner widespread international recognition. 
+      Doctoral students can participate in a variety of research projects.</p>
+      <p>Research activities include the following areas.
+      		<ul>
+      			<li><a href="http://www.astro.ucla.edu/research-area/extrasolar-planet-research-and-planetary-science">Extrasolar Planets and Planetary Science</a></li>
+      			<li><a href="http://www.physics.ucla.edu/astroparticle-physics/">Astroparticle physics</a></li>
+      			<li><a href="https://galacticcenter.astro.ucla.edu/">Galactic Center Group</a></li>
+      		</ul>
+      	</p>
+      	
+      	<div id="accordion">
+
+  		<div class="card" style="width: 45rem;">
+    	<div class="card-header">
+      	<a class="card-link" data-toggle="collapse" href="#collapseOne">
+        Click here to view details of the Astronomy and Astrophysics Division research</a>
+    	</div>
+    	<div id="collapseOne" class="collapse" data-parent="#accordion">
+      	<div class="card-body">
+        	<p>Faculty Research</p>
+      		<ul>
+      			<li><a href="faculty-websites/becklin.html">Eric Becklin</a> focuses on the observational studies of the regions around the Massive Black Hole 
+      			in the center of the Milky Way and other regions of star formation in the Galaxy. He is the Chief Scientific Advisor on SOFIA.</li>
+      			<li><a href="http://astro.ucla.edu/~tdo/">Tuan Do</a> works to understand the formation of the nuclei of galaxies - He's currently studying the composition and star formation history of the Milky Way nuclear star 
+      			cluster and how these stars interact with the supermassive black hole at the Galactic center.</li>
+      			<li><a href="http://www.astro.ucla.edu/~fitz/">Mike Fitzgerald</a> is interested in extrasolar planets and their formation using indirect and direct techniques such as adaptive optics, coronagraphy, and interferometry. 
+      			He also works to develop infrared instrumentation.</li>
+      			<li><a href="http://www.astro.ucla.edu/~sfurlane/index.htm">Steve Furlanetto</a>  studies theoretically the first galaxies in the Universe and their effects on the Universe around them.</li>
+      			<li><a href="http://www.astro.ucla.edu/~ghez/">Andrea Ghez</a> is carrying out a diffraction-limited study of the Galaxy's central stellar cluster. This program has provided strong evidence for a supermassive black hole at the center 
+      			of the Milky Way and is continuing to study the environs of this region.</li>
+      			<li><a href="http://www.astro.ucla.edu/~hansen/">Brad Hansen</a> studies the evolution of white dwarf stars and the formation and evolution of planetary systems.</li>
+      			<li><a href="http://www.astro.ucla.edu/personnel/james-larkin">James Larkin</a> uses infrared spectroscopy and diffraction limited imaging to study nearby galaxies.</li>
+      			<li><a href="http://www.astro.ucla.edu/personnel/matthew-malkan">Matthew Malkan</a>investigates active galactic nuclei, quasars, and the evolution of young galaxies.</li>
+      			<li><a href="https://irlab.astro.ucla.edu/">Ian McLean</a> is director of the Infrared Astronomy Laboratory at UCLA and studies sub-stellar mass objects (brown dwarfs).</li>
+      			<li><a href="http://www.astro.ucla.edu/~morris/">Mark Morris</a> studies the fate of massive stars and star clusters at the Galactic center, and is trying to determine the character and the origin of the magnetic field in the central few hundred 
+      			parsecs of the Galaxy. He also studies the hot, diffuse gas at the Galactic center with the Chandra and XMM X-ray observatories.</li>
+      			<li><a href="http://www.astro.ucla.edu/personnel/smadar-naoz">Smadar Naoz</a> is studying structure formation in the very early Universe. This involves both analytical and numerical simulations 
+      			of the first gas rich and poor objects.</li>
+      			<li><a href="faculty-websites/newman.html">William Newman</a> is a professor in the Departments of Earth, Planetary, and Space Sciences, Physics and Astronomy, and Mathematics. 
+      			His astrophysical research focuses on the the dynamics and statistics of galaxy clusters, magnetic fields in the intercluster medium, 
+      			and accretion processes in AGNs. His broader research relates to nonlinear dynamical problems, such as those encountered in solar system 
+      			dynamics.</li>
+      			<li><a href="http://www.astro.ucla.edu/~rene/">Rene Ong's</a> research focuses on the astrophysics of the high-energy Universe, as revealed by gamma rays and cosmic rays, and on the quest to 
+      			understand the nature of dark matter. </li>
+      			<li><a href="faculty-webpages/petigura.html">Erik Petigura's</a> main research interests are the discovery and characterization of extrasolar planets, using ground- and space-based telescopes.</li>
+      			<li><a href="http://www.astro.ucla.edu/personnel/michael-rich">Michael Rich</a> of the Galaxy Evolution Explorer team focuses on using GALEX to address star formation in the universe.</li>
+      			<li><a href="http://www.astro.ucla.edu/personnel/shoko-sakai">Shoko Sakai</a>  investigates star formation rate and 3D structure of the local universe.</li>
+      			<li><a href="http://www.astro.ucla.edu/personnel/alice-shapley">Alice Shapley</a>  explores optical/infrared imaging and spectroscopic observations of high-redshift galaxies.</li>
+      			<li><a href="http://www.astro.ucla.edu/personnel/jean-turner">Jean Turner</a>  studies star formation in 
+      			starbursts, especially super star cluster formation.</li>
+      			<li><a href="http://www.astro.ucla.edu/~vvv/">Vladimir Vassiliev</a> uses ground-based gamma-ray astronomy with VERITAS and Whipple to study Extragalactic Background Light and high energy gamma ray sources.</li>
+      			<li><a href="http://www.astro.ucla.edu/~wright/intro.html">Edward (Ned) Wright</a> is interested in infrared astronomy and cosmology. He is the PI on the Wide-field Infrared Survey Explorer (WISE).</li>
+      		</ul>
+      		</p>
+      </div>
+    </div>
+  </div>
+  <br />
+      		
+      		<h5><a name="amo">Atomic-Molecular-Optical (AMO) Physics</a></h5><br />
+      		<p><img src="images/amo.jpg" width="300px" class="image1 float-left" hspace="15px" alt="..."> The UCLA AMO group 
+      		develops methods to bring new forms of quantum matter under control and uses existing systems to 
+      		demonstrate new technologies and measurements. Goals include understanding quantum magnetism using 
+      		quantum information protocols in trapped ions, and developing new methods for producing ultracold molecules and molecular ions.</p>
+      		<p>Research activities include the following areas.
+      		<ul>
+      			<li><a href="https://campbellgroup.physics.ucla.edu/">Campbell Group</a></li>
+      			<li><a href="http://hamiltonlab.physics.ucla.edu/">Hamilton Group</a></li>
+      			<li><a href="http://hudsongroup.physics.ucla.edu/">Hudson Group</a></li>
+      			<li><a href="http://www.cqse.ucla.edu/">Center for Quantum Science and Engineering</a></li>
+      		</ul>
+      		</p>
+      		
+      	<div id="accordion">
+  		<div class="card" style="width: 45rem;">
+    	<div class="card-header">
+      	<a class="card-link" data-toggle="collapse" href="#collapseTwo">
+        Click here to view details of AMO research</a>
+    	</div>
+    	<div id="collapseTwo" class="collapse" data-parent="#accordion">
+      	<div class="card-body">
+        	<p></p>
+      		<ul>
+      			<li><a href="http://campbellgroup.physics.ucla.edu/people.html">Wes Campbell</a> uses ultra-cold atoms and molecules to learn about the physical processes that permeate our world, focusing 
+      			specifically on the physics of quantum mechanical systems that involve many-body interactions.</li>
+      			<li><a href="http://hamiltonlab.physics.ucla.edu/">Paul Hamilton</a> explores a new direction for the field using atom interferometry to probe the properties of dark matter and dark 
+      			energy using laser-cooled atoms.</li>
+      			<li><a href="http://hudsongroup.physics.ucla.edu/content/team">Eric Hudson</a> focuses on understanding and harnessing the power of quantum interactions to to enable new tests of fundamental 
+      			physics and new technology.</li>
+      		</ul>	 
+      		</p>
+      </div>
+    </div>
+  </div>
+  <br />
+      	
+      	<h5><a name="hard">Hard Condensed Matter</a></h5><br />
+      	<p><img src="images/hard_condensed.jpg" width="300px" class="image1 float-left" hspace="15px" alt="..."> This Physics & Astronomy faculty group is active in the 
+      	discovery of novel electronic materials, correlated electron 
+      	systems, unconventional superconductivity, quantum magnetism, heavy-fermion physics, quantum critical phenomena, semiconductor physics, spintronics, 
+      	quantum statistical mechanics and field theory, topological states of matter, and Majorana fermions. </p>
+      	<p>Research activities include the following areas.
+      	
+      	</p>
+      	
+      	<div id="accordion" id="accordionExample">
+  		<div class="card" style="width: 45rem;">
+    	<div class="card-header">
+      	<a class="card-link" data-toggle="collapse" href="#collapseThree">
+        Click here to view details of the Hard Condensed Matter research</a>
+    	</div>
+    	<div id="collapseThree" class="collapse" data-parent="#accordion">
+      	<div class="card-body">
+        	<p></p>
+      		<ul>
+      			<li><a href="faculty-websites/brown.html">Stuart Brown</a> investigates the roles of dimensionality, electronic correlations, and disorder in the properties of electronic materials. Most of 
+      			the systems we study are quasi-one dimensional or quasi-two dimensional crystals, and in some cases powders.</li>
+      			<li><a href="faculty-websites/chakravarty.html">Sudip Chakravarty's</a> research interest involves quantum theory of collective behavior of electronic systems. He is interested in theories of 
+      			high temperature superconductivity, dissipative quantum systems, quantum phase transition and criticality, localization transition in interacting 
+      			systems, and the concept of von Neumann entropy in quantum phase transitions.</li>
+      			<li><a href="faculty-websites/gutierrez.html">Christopher Gutiérrez</a> investigates the quantum properties of low-dimensional materials using atomically-resolved scanning probe and momentum-resolved photoemission 
+      			experiments.</li>
+      			<li><a href="faculty-websites/holczer.html">Karoly Holczer</a> studies experimental condensed matter physics, organic conductors and superconductors, and electron paramagnetic resonance.</li>
+      			<li><a href="http://www.physics.ucla.edu/~jiangh/">HongWen Jiang</a> focuses on experiments on the interactions between electrons and magnetic fields in various quantum Hall systems and electron 
+      			localization phenomena.</li>
+      			<li><a href="faculty-websites/kogar.html">Anshul Kogar</a> studies highly nonlinear effects with ultrafast probes of materials. </li>
+      			<li><a href="http://nilab.physics.ucla.edu/">Ni Ni</a> focuses on the characterization of physical properties and structures of materials through thermodynamic, transport, X-ray and neutron 
+      			measurements, with an emphasis on the design, synthesis, and crystal growth of new materials.</li>
+      			<li><a href="http://regangroup.physics.ucla.edu/">B. Chris Regan's</a> long term goals include a better understanding of the overlap between thermodynamics and quantum mechanics, and the construction of 
+      			a model system for the investigation of clean energy harvesting. Areas of expertise include carbon nanotubes, graphene, nanofabrication and in situ 
+      			transmission electron microscopy. </li>
+      			<li><a href="http://cmt-roy.physics.ucla.edu/">Rahul Roy's</a> work is in the field of condensed matter theory, which is devoted to the study of systems with many particles where quantum effects 
+      			are important. A particular theme of his research is the study of topological phases and other topological aspects of condensed matter. </li>
+            <li><a href=" " >Qianhui Shi</a> studies quantum phases of matter built from 2D van der Waals materials.  Main research approaches include the designing and fabrication of novel device structures, quantum transport and capacitance measurements at low temperatures and high magnetic fields. </li>
+      			<li><a href="https://sites.google.com/site/tserkovnyak/">Yaroslav Tserovnyak</a> studies quantum transport and nonequilibrium dynamics in 
+      			low-dimensional electron systems, with a focus on spin and topology.</li>
+      		</ul>	 
+      		</p>
+          <p> Emeritus: <br>
+            <ul>
+              <li><a href="https://www.pa.ucla.edu/faculty-websites/gruner.html">George Grüner</a> Electron states of matter, applied nanotechnology</li>
+              <li><a href="http://gaw.bol.ucla.edu/">Gary A. Williams</a> Acoustics and Low-Temperature Physics</li>
+            </ul>
+          </p>
+      </div>
+    </div>
+  </div>
+  </div>
+  <br />	
+  
+  		<h5><a name="soft">Soft Condensed Matter</a></h5><br />
+      	<p><img src="images/soft-condensed.jpg" width="300px" class="image1 float-left" hspace="15px" alt="...">Research includes acoustic 
+      	and low temperature physics studies such as theoretical investigations into the superfluid phase transition of liquid helium and search for the phenomenon of 
+      	sonoluminescence in cryogenic liquids, such as alcohols, liquid nitrogen and liquid oxygen. The group has an active research program in microrheology, 
+      	nanoemulsions, light and neutron scattering, and microfluidics.</p>
+      	<p><p>Research activities include the following areas.
+      		<ul>
+      			<li><a href="http://cbp.physics.ucla.edu/">Center for Biological Physics</a></li>
+      			<li><a href="Molecular Biophysics and Nanoscience">Molecular Biophysics & Nanoscience</a></li>
+      			<li><a href="http://acoustics-research.physics.ucla.edu/">Putterman Lab</a></li>
+      			<li><a href="http://www.physics.ucla.edu/research/imaging/">UCLA Coherent Imaging Group</a></li>
+      			<!--<li><a href="http://gaw.bol.ucla.edu/">Gary Williams Group</a></li>
+      			<li><a href="http://www.physics.ucla.edu/research/imaging/">Coherent Imaging Group</a></li>
+      			<li><a href="http://acoustics-research.physics.ucla.edu/">Putterman Lab</a></li>
+      			<li><a href="http://www.chem.ucla.edu/dept/Faculty/Mason/">Thomas Mason Group</a></li>-->
+      		</ul>
+      	</p>
+      	
+      	<div id="accordion">
+  		<div class="card" style="width: 45rem;">
+    	<div class="card-header">
+      	<a class="card-link" data-toggle="collapse" href="#collapseFour">
+        Click here to view details of the Soft Condensed Matter research</a>
+    	</div>
+    	<div id="collapseFour" class="collapse" data-parent="#accordion">
+      	<div class="card-body">
+        	<p></p>
+      		<ul>
+      			<li><a href="http://home.physics.ucla.edu/~arisaka/home/">Katsushi Arisaka's</a> prime interest is to understand the origin of the Universe, life and consciousness altogether by yet-to-be-discovered physics laws. 
+      			In particular he is interested in how the Universe evolved at its earliest stage.</li>
+      			<li><a href="http://bozoviclab.physics.ucla.edu/">Dolores Bozovic</a> focuses on problems at the interface between physics and sensory neuroscience.</li>
+      			<li><a href="faculty-websites/bruinsma.html">Robijn Bruinsma's</a> current work concerns the application of theoretical physics and numerical modeling to molecular biology.</li>
+      			<li><a href="http://cbp.physics.ucla.edu/">Alexander Levine</a> studies a variety of problems in the field of soft condensed matter and biophysics.</li>
+      			<li><a href="http://www.physics.ucla.edu/~mayank/index.html">Mayank Mehta</a> studies fundamental questions in neurophysics.</li> 			
+      			<li><a href="https://www.physics.ucla.edu/research/imaging/index.html">Jianwei (John) Miao’s</a> research interests lie in the interplay of physics, materials science, nanoscience, and biology. He has developed 
+      			groundbreaking physical methods for high-resolution 3D imaging of nanoscale materials and biological specimens.</li>
+      			<li><a href="http://acoustics-research.physics.ucla.edu/">Seth Putterman</a> investigates the non-linear physics of off-equilibrium motion, including sonoluminescence from molten salts, cavitation within 
+      			gel-like materials, theory and experiment aimed at defining the intermediate model of tribo-x-ray emission, enhanced neutron emission from dense plasma 
+      			focusing, and ion-acoustic modes of long-lived dense plasmas.</li>
+      			<li><a href="faculty-websites/rudnick.html">Joseph Rudnick</a> researches a variety of problems in condensed matter physics, with primary interests in the general field of statistical mechanics.</li>
+      			<li><a href="http://shenshen-wang-group.physics.ucla.edu/">Shenshen Wang</a> focuses on biophysical systems where collective responses emerge from a large and structured collection of interacting components. Two 
+      			systems of main focus are the adaptive immune system and active matter, a condensed matter system comprised of numerous self-driven subunits.</li>
+      			<li><a href="http://zocchi.physics.ucla.edu/index.html">Giovanni Zocchi</a> focuses on the physics of macromolecules such as proteins and DNA.</li>
+      		</ul>	 
+      		</p>
+      </div>
+    </div>
+  </div>
+  </div>
+  <br />
+      		
+      	<h5><a name="eep">Experimental Elementary Particle Physics</a></h5><br />
+      	<p><img src="images/cyclotron-vintage.jpg" width="300px" class="image1 float-left" hspace="15px" alt="...">EEP is involved in experimental and theoretical research in the areas of dark matter, high-energy astrophysics (using 
+      	gamma rays, cosmic rays and neutrinos), cosmology, and physics at the Large Hadron Collider. </p>
+      	<br /><br /><br />
+      	<p>Research activities include the following areas.</p>
+      		<ul>
+      			<li><a href="http://www.physics.ucla.edu/astroparticle-physics/">Astroparticle Physics</a></li>
+      		</ul>
+      	</p>
+      	
+      	<div id="accordion">
+  		<div class="card" style="width: 45rem;">
+    	<div class="card-header">
+      	<a class="card-link" data-toggle="collapse" href="#collapseFive">
+        Click here to view details of the Experimental Elementary Particle Physics research</a>
+    	</div>
+    	<div id="collapseFive" class="collapse" data-parent="#accordion">
+      	<div class="card-body">
+        	<p></p>
+      		<ul>
+      			
+      			
+      			<li><a href="faculty-websites/bachtis.html">Michalis Bachtis</a> is focused in the energy frontier of particle physics where, along with his other UCLA colleagues, he participates in the 
+      			Compact Muon Solenoid (CMS) experiment at CERN's Large Hadron Collider.</li>
+      			<li><a href="faculty-websites/cousins.html">Robert Cousins</a> devotes essentially all of his research time to the CMS Experiment at CERN in Geneva, 
+      			along with other colleagues in the UCLA CMS Group.</li>  
+      			<li><a href="faculty-websites/hauser.html">Jay Hauser</a> researches elementary particle physics at the CMS experiment at CERN.
+      			<li><a href="http://www.astro.ucla.edu/~rene/">Rene Ong's</a> research focuses on the astrophysics of the high-energy Universe, as revealed by gamma rays and cosmic rays, and on the quest to 
+      			understand the nature of dark matter. </li>
+      			<li><a href="http://www.physics.ucla.edu/~saltzberg/index.html">David Saltzberg's</a> research is conducted at the Large Hadron Collider at CERN. He has built detectors and electronics for muon detection for the Compact Muon Solenoid (CMS) detector.  He is analyzing the data, looking for new physics in events with two Higgs bosons.</li>
+      			<li>Alvine Kamaha is a researcher and educator in Theoretical and Experimental physics. She is passionate about Astroparticle 
+      			Physics (Neutrino Physics and Dark Matter searches) and Science, Technology, Engineering, and Mathematics (STEM) 
+      			education and outreach geared towards the younger generation and visible minorities in STEM.</li>
+      			
+      		</ul>	 
+      		</p>
+      </div>
+    </div>
+  </div>
+  </div>
+  <br />
+  
+  		<h5><a name="tep">Theoretical Elementary Particles</a></h5><br />
+      	<p><img src="images/tep-image.jpg" width="300px" class="image1 float-left" hspace="15px" alt="...">The goal of TEP is to attain 
+      	a fundamental description of the laws of physics, the constituents of matter and their interactions. Research 
+      	spans the areas of perturbative gauge theories, lattice gauge 
+      	theories, non-perturbative gauge theories, quantum gravity and string theory. With funding from DOE and NSF the group supports 
+      	several postdocs and students each year. </p>
+      	<p><p>Research activities include the following areas.
+      		<ul>
+      			<li><a href="http://tep.physics.ucla.edu/">Theoretical Elementary Particle Physics Group</a></li>
+      		</ul>
+      	</p>
+      	
+      	<div id="accordion">
+  		<div class="card" style="width: 45rem;">
+    	<div class="card-header">
+      	<a class="card-link" data-toggle="collapse" href="#collapseSix">
+        Click here to view details of the Theoretical Elementary Particle Physics research</a>
+    	</div>
+    	<div id="collapseSix" class="collapse" data-parent="#accordion">
+      	<div class="card-body">
+        	<p></p>
+      		<ul>
+      			<li><a href="faculty-websites/abers.html">Ernest Abers</a> studies gauge theories, supersymmetry, weak interaction phenomenology.</li>
+      			<li><a href="http://bhaumik-institute.physics.ucla.edu/about-the-director">Zvi Bern's</a> primary interest is in developing new methods for calculating and understanding scattering amplitudes. He 
+      			is especially interested in applications to LHC physics and to maximally supersymmetric gauge and gravity theories.</li>
+      			<li><a href="faculty-websites/dhoker.html">Eric D'Hoker</a> focuses on quantum field theory and string theory, with applications to particle physics, and occasionally 
+      			to condensed matter physics and mathematics.</li>
+      			<li><a href="faculty-websites/dumitrescu.html">Thomas Dumitrescu's</a> research spans many aspects of quantum field theory, including applications to particle and condensed 
+      			matter physics, as well as supersymmetry, string theory, and mathematical physics. He is particularly interested in developing 
+      			new theoretical tools for analyzing strongly-coupled quantum field theories, which are beyond the reach of conventional 
+      			perturbation theory.</li>
+      			<li><a href="faculty-websites/ferrara.html">Sergio Ferrara's</a> main research interests are in modern theories of gravitation and unification of fundamental 
+      			interactions through the principle of symmetries.</li>
+      			<li><a href="faculty-websites/finkelstein.html">Robert Finkelstein</a> has been applying quantum groups to investigate weak deformations of quantum mechanics and quantum 
+      			field theory.</li>
+      			<li><a href="http://fronsdal.physics.ucla.edu/">Christian Fronsdal's</a> research involves investigations in general relativity, hydrodynamics, and thermodynamics.</li>
+      			<li><a href="http://www.physics.ucla.edu/~gutperle/">Michael Gutperle's</a> research is focused on theoretical particle physics, quantum gravity and string theory.</li>
+      			<li><a href="faculty-websites/kraus.html">Per Kraus</a> works on problems involving quantum field theory, string theory, classical and quantum gravity. These frequently 
+      			involve black holes and the AdS/CFT correspondence.</li>
+      			<li><a href="faculty-websites/tomboulis.html">Terry Tomboulis'</a> current interests are focused on nonperturbative aspects of field theory such as the infrared behavior of 
+      			QCD and the phenomenon of quark confinement.</li>
+      		</ul>	 
+      		</p>
+      </div>
+    </div>
+  </div>
+  </div>
+  <br /> 
+  
+  <h5><a name="tepapp">Theory of Elementary Particles, Astroparticle Physics, and Phenomenology</a></h5><br />
+      	<p><img src="images/tepapp.jpg" width="300px" class="image1 float-left" hspace="15px" alt="...">The goal of theoretical 
+      	particle physics is to attain a fundamental description of the laws of physics, the constituents of matter and their 
+      	interactions. Physicists believe that the Standard Model (SM) of elementary particles must be part of a more fundamental 
+      	theory of nature beyond the Standard Model. The search for new physics is the major thrust of current research in particle 
+      	physics.</p>
+      	<p><p>Research activities include the following areas.
+      		<ul>
+      			<li><a href="http://tepapp.physics.ucla.edu/">Theory of Elementary Particles, Astroparticle Physics, and Phenomenology Group</a></li>
+      		</ul>
+      	</p>
+      	
+      	<div id="accordion">
+  		<div class="card" style="width: 45rem;">
+    	<div class="card-header">
+      	<a class="card-link" data-toggle="collapse" href="#collapseSeven">
+        Click here to view details of TEPAPP research</a>
+    	</div>
+    	<div id="collapseSeven" class="collapse" data-parent="#accordion">
+      	<div class="card-body">
+        	<p></p>
+      		<ul>
+      			<li><a href="faculty-websites/gelmini.html">Graciela Gelmini</a> has been working on astro-particle physics, especially in the problem of dark matter, 
+      			where she has studied different dark matter particle candidates. She is also interested in different aspects of the physics 
+      			of neutrinos. </li>
+      			<li><a href="http://www.physics.ucla.edu/~kusenko/">Alexander Kusenko</a> works on a broad range of topics in elementary particle physics, astrophysics, and cosmology.</li>
+      			<li><a href="faculty-websites/peccei.html">Roberto Peccei</a> has been mainly working on B and K physics, in particular the physics of heavy quark decays, 
+      			B meson mixing, and CP violation. He has been also interested in various aspects of electroweak interactions and 
+      			dynamical mass generation.</li>
+      			<li><a href="faculty-websites/tomboulis.html">Terry Tomboulis'</a> current interests are focused on nonperturbative aspects of field theory such as the infrared behavior of 
+      			QCD and the phenomenon of quark confinement.</li>
+      		</ul>	 
+      		</p>
+      </div>
+    </div>
+  </div>
+  </div>
+  <br /> 
+  
+  <h5><a name="nuclear">Nuclear Physics</a></h5><br />
+      	<p><img src="images/nuclear.jpg" width="300px" class="image1 float-left" hspace="15px" alt="...">The nuclear physics research is 
+      	focused on understanding the matter composed of quarks and gluons as described by Quantum Chromodynamics (QCD), which makes up 
+      	99% of the visible mass of the universe; as well as the fundamental nature of the neutrinos. Current research includes both 
+      	experimental nuclear physics and theoretical nuclear physics.</p>
+      	<p><p>Research activities include the following areas.
+      		<ul>
+      			<li><a href="http://nuclear.physics.ucla.edu/">Nuclear Physics Group</a></li>
+      		</ul>
+      	</p>
+      	
+      	<div id="accordion">
+  		<div class="card" style="width: 45rem;">
+    	<div class="card-header">
+      	<a class="card-link" data-toggle="collapse" href="#collapseEight">
+        Click here to view details of Nuclear Physics research</a>
+    	</div>
+    	<div id="collapseEight" class="collapse" data-parent="#accordion">
+      	<div class="card-body">
+        	<p></p>
+      		<ul>
+      			<li><a href="faculty-websites/huang.html">Huan Huang</a> study the properties of the QCD matter at extremely high energy density and temperature and investigate the 
+      			QCD spin structure functions of the proton.</li>
+      			<li><a href="https://kang-research-group.physics.ucla.edu/">Zhongbo Kang's</a> interests are primarily in Quantum Chromodynamics (QCD) and strong 
+      			interaction, and their applications in high energy nuclear and particle physics, with main research efforts in QCD structure of the 
+      			nucleon, QCD collider physics, and heavy ion physics.</li>
+      			<li><a href="faculty-websites/wong.html">Chun Wa Wong's</a> interests include nuclear forces and nuclear properties, quark and Skyrmion models of hadrons, and
+      			cross sections for Pomeron exchange and dibaryon production.</li>
+      		</ul>	 
+      		</p>
+      </div>
+    </div>
+  </div>
+  </div>
+  <br />
+  
+  <h5><a name="plasma">Plasma and Advanced Accelerators</a></h5><br />
+      	<p><img src="images/plasma.jpg" width="300px" class="image1 float-left" hspace="15px" alt="...">Beam physics is a vibrant, 
+      	cross-disciplinary enterprise, which intersects heavily with high-energy density science, plasma physics, ultra-fast lasers, 
+      	nonlinear dynamics and various high-field/high-power technologies. Areas of study include basic plasma physics, fusion research, 
+      	space plasma physics, laser-plasma interactions, and advanced accelerators.</p>
+      	<p><p>Research activities include the following areas.
+      		<ul>
+      			<li><a href="http://plasma.physics.ucla.edu/">Basic Plasma Science Facility</a></li>
+      			<li><a href="http://pbpl.physics.ucla.edu/">Particle Beam Physics Lab</a></li>
+      			<li><a href="http://plasma-diagnostics-group.physics.ucla.edu/">Plasma Diagnostics Group</a></li>
+            <li><a href="https://picksc.physics.ucla.edu/index.html">UCLA Plasma Simulation Group</a></li>
+      		</ul>
+      	</p>
+      	
+      	<div id="accordion">
+  		<div class="card" style="width: 45rem;">
+    	<div class="card-header">
+      	<a class="card-link" data-toggle="collapse" href="#collapseNine">
+        Click here to view details of Plasma and Advanced Accelerators research</a>
+    	</div>
+    	<div id="collapseNine" class="collapse" data-parent="#accordion">
+      	<div class="card-body">
+        	<p></p>
+      		<ul>
+      			<li><a href="http://www.physics.ucla.edu/~tcarter/">Troy Carter's</a> research involves experiments in laboratory plasmas and seeks to understand phenomena relevant to 
+      			magnetic confinement fusion energy and to astrophysical plasmas.</li>
+      			<li><a href="http://plasma-diagnostics-group.physics.ucla.edu/content/overview">Neal A. Crocker</a> is involved in cutting edge fusion research at multiple fusion 
+      			research facilities both in the US and around the world.</li>
+      			<li><a href="http://plasma.physics.ucla.edu/">Walter Gekelman</a> studies microscopic phenomena on the fast electron time scales (e.g., electron plasma waves, 
+      			cyclotron radiation) to the slow time scales characteristic of plasma transport driven by drift‐wave turbulence 
+      			and long wavelength magnetic fluctuations.</li>
+      			<li><a href="faculty-websites/morales.html">George Morales</a> pursues research in plasma physics, nonlinear waves, heating of thermonuclear fusion plasmas, 
+      			ionosphere modification, laboratory simulation of space phenomena, and non-diffusive transport.</li>
+      			<li><a href="faculty-websites/musumeci.html">Pietro Musumeci</a> researches laser technology to provide high quality, ultra-short particle beams from compact accelerators.</li>
+      			<li><a href="faculty-websites/mori.html">Warren Mori</a> develops and uses state-of-the-art simulation tools to study laser and beam interactions in high 
+      			energy density plasmas.</li>
+      			<li><a href="http://hedp.physics.ucla.edu/">Christoph Niemann</a> studies high energy density plasmas.</li>
+      			<li><a href="http://pbpl.physics.ucla.edu/">James Rosenzweig's</a> studies includes the creation of ultra-fast, high-brightness electron beams; the application 
+      			of such beams to advanced accelerators using lasers and/or plasmas; the creation of new types of light sources, 
+      			such as free-electron lasers and inverse-Compton scattering sources based on high brightness electron beams.</li>
+            <li><a href="https://sites.google.com/view/derekschaeffer">Derek Schaeffer</a> researches experiments and numerical simulations of strongly-driven magnetized plasma interactions relevant to astrophysical systems, inertial fusion energy, and high-energy-density plasmas, with emphasis on novel diagnostic techniques.</li>
+      		</ul>	 
+      		</p>
+      </div>
+    </div>
+  </div>
+  </div>
+  <br />
+  
+  <h5><a name="teaching">The Science of Teaching and Learning</a></h5><br />
+      	<p><img src="images/teaching.jpg" width="300px" class="image1 float-left" hspace="15px" alt="...">The science of teaching and learning 
+      	is a multidisciplinary field that attempts to illuminate the mechanisms underlying human learning in an effort to optimize education.  
+      	Our research at UCLA focuses on how course design decisions impact student application and retention of physics and mathematics skills.</p>
+      	<br />	
+      	<p><p>Research activities include the following areas.
+      		<ul>
+      			<li><a href="http://www.joshphysics.com/">The Science of Teaching and Learning</a></li>
+      		</ul>
+      	</p>
+      	
+      	<div id="accordion">
+  		<div class="card" style="width: 45rem;">
+    	<div class="card-header">
+      	<a class="card-link" data-toggle="collapse" href="#collapseTen">
+        Click here to view details of the Science of Teaching research</a>
+    	</div>
+    	<div id="collapseTen" class="collapse" data-parent="#accordion">
+      	<div class="card-body">
+        	<p></p>
+      		<ul>
+      			
+      			
+      			<li><a href="http://www.joshphysics.com/">Josh Samani's</a> doctoral research was in high-energy physics and centered on 
+      			aspects of holography -- the AdS/CFT correspondence in particular.</li>
+
+      			
+      		</ul>	 
+      		</p>
+      </div>
+    </div>
+  </div>
+  </div>
+  <br />
+  
+  
+      </div>
+    </div>
+  </div>
+  </div>
+  <br />
+      	
+      	
+      <br />
+      </p>
+      <hr>
+    </div>
+  </div>
+</div>
+
+<div class="w-100 d-none d-sm-block d-md-none"><!-- wrap every 1 on sm--></div>
+<div class="w-100 d-none d-md-block d-lg-none"><!-- wrap every 2 on md--></div>
+  </div>
+</div>
+<footer class="site-footer">
+<footer class="footer text-light">
+<div class="container">
+<div class="row pt-3 pb-3">
+<div class="col-4">
+<!--<img src="white-pa-logo-new-crop.png" height="45px" align="left" />-->
+<h5>UCLA Physics & Astronomy Department</h5>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> UCLA Physics & Astronomy<br />
+475 Portola Plaza, Los Angeles, CA 90095-1547<br />
+310-825-3440</p>
+<p>
+<ul>
+	<li><a href="https://www.pa.ucla.edu/contact.html">Contact Physics & Astronomy</a></li>
+</ul>
+</p>	
+</div>
+<div class="col-4">
+<!--<img src="https://atmos.ucla.edu/sites/default/files/Uxd_Wht_ATMOS.svg" />-->
+<h5>ABOUT UCLA</h5>
+<p>
+<ul>
+      	<li><a href="http://www.ucla.edu/">UCLA Home</a></li>
+      	<li><a href="https://www.physicalsciences.ucla.edu/">Division of Physical Sciences</a></li>
+      	<li><a href="https://covid-19.ucla.edu/">UCLA COVID-19 Resources</a></li>
+      	<li><a href="https://admission.ucla.edu/visit/maps-and-parking">Maps, directions, and parking</a></li>
+      </ul>
+</p>
+
+</div>
+<div class="col-4">
+<!--<img src="https://atmos.ucla.edu/sites/default/files/Uxd_Wht_ATMOS.svg" />-->
+<h5>RESOURCES</h5>
+<p>
+<ul>
+      	<li><a href="https://bruinlearn.ucla.edu/courses/288">BruinLearn</a></li>
+      	<li><a href="https://www.pa.ucla.edu/instructional-support.html">Instructional Support</a></li>
+      	<li><a href="http://www.pa.ucla.edu/diversity.html">Diversity</a></li>
+        <li><a href="http://www.pa.ucla.edu/wellness.html">Wellness</a></li>
+        <li><a href="/covid.html">COVID</a></li>
+        <li><a href="https://computing.pa.ucla.edu/">Computing and IT Support</a></li>
+        <!--<li><a href="http://iff.pa.ucla.edu/">Machine Shop and Instrument Fabrication Facility</a></li>  -->
+        <li><a href="https://machine-shop.pa.ucla.edu">Machine Shop and Instrument Fabrication Facility</a></li>
+        <li><a href="https://www.pa.ucla.edu/research-store.html">Research Store</a></li> 
+      	<li><a href="http://www.pa.ucla.edu/contact.html">Physics & Astronomy Administration</a></li>
+      	<li><a href="http://demoweb.physics.ucla.edu/demo-manual">Demoweb: Lecture demonstration </a></li>
+      	<li><a href="http://demoweb.physics.ucla.edu/">Demoweb: Lab manuals</a></li>
+      </ul>
+</p>
+</div></div>
+</div>
+</footer>
+</body>
+</html>

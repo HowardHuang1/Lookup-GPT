@@ -1,0 +1,287 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<title>The Crump Institute for Molecular Imaging | OPEN_CMS</title>
+
+
+      <!-- Favicons -->
+      <link rel="apple-touch-icon" sizes="57x57" href="/crump/favicons/apple-icon-57x57.png">
+      <link rel="apple-touch-icon" sizes="60x60" href="/crump/favicons/apple-icon-60x60.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="/crump/favicons/apple-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="76x76" href="/crump/favicons/apple-icon-76x76.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="/crump/favicons/apple-icon-114x114.png">
+      <link rel="apple-touch-icon" sizes="120x120" href="/crump/favicons/apple-icon-120x120.png">
+      <link rel="apple-touch-icon" sizes="144x144" href="/crump/favicons/apple-icon-144x144.png">
+      <link rel="apple-touch-icon" sizes="152x152" href="/crump/favicons/apple-icon-152x152.png">
+      <link rel="apple-touch-icon" sizes="180x180" href="/crump/favicons/apple-icon-180x180.png">
+      <link rel="icon" type="image/png" sizes="192x192"  href="/crump/favicons/android-icon-192x192.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="/crump/favicons/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="96x96" href="/crump/favicons/favicon-96x96.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="/crump/favicons/favicon-16x16.png">
+      <link rel="manifest" href="/crump/favicons/manifest.json">
+      <meta name="msapplication-TileColor" content="#ffffff">
+      <meta name="msapplication-TileImage" content="/crump/favicons/ms-icon-144x144.png">
+      <meta name="theme-color" content="#ffffff">
+      <!-- End Favicons --> 
+
+    <meta http-equiv="content-style-type" content="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="generator" content="OpenACS version 5.10.1b2">
+    <link rel="stylesheet" href="/resources/xowiki/xowiki-bootstrap3.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/acs-subsite/site-master.css" type="text/css" media="all">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/openacs-bootstrap3-theme/css/main.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/openacs-bootstrap3-theme/css/color/blue.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/acs-templating/forms.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/acs-templating/lists.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/crump/resources/styles-crump.css?v=52" type="text/css" media="all">
+   <script type="text/javascript" src="/resources/openacs-bootstrap3-theme/js/jquery-1.11.3.min.js" nonce="FD5A1C3E4286D948A48FCC57AC34F81A992BCD9E"></script>
+   <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js" nonce="FD5A1C3E4286D948A48FCC57AC34F81A992BCD9E"></script>
+   <script type="text/javascript" src="//www.googletagmanager.com/gtag/js?id=UA-75729505-1" nonce="FD5A1C3E4286D948A48FCC57AC34F81A992BCD9E"></script>
+   <script type="text/javascript" nonce="FD5A1C3E4286D948A48FCC57AC34F81A992BCD9E">window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-75729505-1');</script>
+
+</head>
+<body>
+  
+
+
+<!--  Header  -->
+<div class="container-fluid hdr">
+   <div class="container">
+         <div class="col-sm-3"></div>
+         <div class="col-sm-6 hdr-crump" align="center">
+         <!--  Subsite Logos  -->
+         <img src="/crump/files/view/images/2015crump_logo.png" class="img-responsive" />
+         </div>
+         <div class="col-sm-3"></div>
+   </div>
+</div>
+<!--  Nav, Content  -->
+<div class="container">
+   <div class="row">
+      <div class="col-sm-2" style="margin:0;padding:0;">
+          
+              <!--  Crump Main Navigation  -->
+              <nav class="navbar navbar-default" role="navigation">
+                  <!-- Brand and toggle get grouped for better mobile display -->
+                  <div class="navbar-header">
+                      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".crump">
+                          <span class="sr-only">Toggle navigation</span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                      </button>
+                  </div>
+                  <!-- Collect the nav links, forms, and other content for toggling -->
+                  <div class="collapse navbar-collapse crump">
+                      <ul class="nav navbar-nav">
+                          <li role="presentation"><strong>About</strong></li>
+                          <li role="presentation"><a href="/crump/"><span class="glyphicon glyphicon-home"></span> Homepage</a></li>
+                          <li role="presentation"><a href="/crump/pages/director">From Our Director</a></li>
+                          <li role="presentation"><a href="/crump/pages/history">History</a></li>
+                          <li role="presentation"><a href="/crump/pages/vision">Vision</a></li>
+                          <li role="presentation"><a href="/crump/pages/home">Our Home</a></li>
+                          <li role="presentation"><a href="/crump/pages/rap">Research Program Areas</a></li>
+                          <li role="presentation"><a href="/crump/pages/techcenters">Technology Centers</a></li>
+                          <li role="presentation"><strong>Research</strong></li>
+                          <li role="presentation"><a href="/crump/pages/faculty">Faculty</a></li>
+                          <li role="presentation"><a href="/crump/pages/laboratories">Laboratories</a></li>
+                          <li role="presentation"><a href="/crump/pages/training">Training &amp; Education</a></li>
+                          <li role="presentation"><a href="/crump/pages/university">University-Industry Technology Transfer</a></li>
+                          <li role="presentation"><a href="/crump/pages/collaborations">Collaborations</a></li>
+                          <li role="presentation"><strong>Information</strong></li>
+                          <li role="presentation"><a href="/crump/announcements/">Announcements</a></li>
+                          <li><a href="/crump/pages/opportunities">Opportunities</a></li>
+                          <li role="presentation"><a href="/crump/pages/contact">Contact Us</a></li>
+                      </ul>
+                  </div><!-- /.navbar-collapse -->
+              </nav>
+
+          
+      </div>
+      <div class="col-sm-10">
+
+         <!-- Generated by ::xowiki::ADP_Generator on Wed Nov 16 18:41:51 UTC 2022 -->
+
+<!-- The following DIV is needed for overlib to function! -->
+          <div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
+          <div class='xowiki-content'>
+
+      
+
+      <style>
+        #wikicmds{height:55px;position:relative;font-size:1em !important;margin:10px auto;right:auto;text-align:center;top: 20px !important;}
+        a.text-white:link, a.text-white:visited{color:#fff;background-color: #337ab7;}
+        a.text-white:active, a.text-white:hover, a.text-white:focus{color:#fff;background-color: #16577f;}
+      </style>
+      <div id='wikicmds' class="container">
+         
+      </div>
+
+ 
+ <h1>Collaborations
+</h1>
+<div class="col-md-6">
+  <h3>UCLA Collaborations
+  </h3>
+  <p style="lead">Crump scientists have created a unique laboratory for interdisciplinary investigations across mathematical, engineering, physical, biological, and medical sciences. We draw in the people who do the best science, who share our vision, no matter where they are. Strong partnerships with the California NanoSystems Institute (CNSI), the Jonsson Comprehensive Cancer Center (JCCC), the Department of Molecular and Medical Pharmacology (DMMP), and the Broad Stem Cell Research Center (BSCRC), provide links to pass our innovations into the hands of faculty and students who will implement our discoveries to improve the lives of patients and people everywhere.
+  </p>
+  <div><a alt="CNSI" href="http://www1.cnsi.ucla.edu/index" target="_blank"><img alt="CNSI" class="pull-left" src="/crump/files/view/images/cnsilogo.jpg" style="margin: 5px 10px 5px 0" /> </a>
+    <h4 class="media-heading">Crump Institute and the California NanoSystems Institute (CNSI)
+    </h4>
+    <p>In January 2009, the Crump Institute moved into the <a alt="CNSI" href="http://www1.cnsi.ucla.edu/index" target="_blank">CNSI</a> building. The Crump Institute and CNSI share a common place to work together in achieving a mission of integrated science and technology from across the campus. Both the Crump Institute and CNSI bring together a mix of engineering, mathematical, physical, biological and medical sciences. The CNSI occupies about 150,000 ft2 of the building with a systems mission that reaches from materials, electronic, energy and molecular sciences to biological and medical sciences, with a large array of high technology cores and university&mdash;industry programs. CNSI has a state-mandated commitment to technology transfer for commercialization.
+    </p>
+  </div>
+  <div><a alt="JCCC" href="http://www.cancer.ucla.edu/" target="_blank"><img alt="JCCC" class="pull-left" src="/crump/files/view/images/logo_jccc.jpg" style="margin: 5px 10px 5px 0" /> </a>
+    <h4 class="media-heading">Crump Institute and the Jonsson Comprehensive Cancer Center (JCCC)
+    </h4>
+    <p>The Crump Institute continues to enjoy a close collegial association with the <a alt="JCCC" href="http://www.cancer.ucla.edu/" target="_blank">JCCC</a>. The JCCC supports research through the Cancer Center&#39;s Cancer Molecular Imaging Program area, whose co-Directors are Crump members Anna Wu (preclinical) and Johannes Czernin (clinical). In addition, the JCCC supports a Small Animal Imaging Shared Resource that is incorporated into the Crump Institute&#39;s Preclinical Imaging Technology Center, directed by Jason Lee and in Clinical Molecular Imaging in the Ahmanson Biological Imaging Division of the Department of Molecular and Medical Pharmacology directed by Johannes Czernin.
+    </p>
+    <p>The Cancer Molecular Imaging program brings together 17 faculty members from JCCC, of which nine are members of the Crump Institute. Interactions and collaborations are fostered in several areas by the integration of the JCCC members into the program areas of the Crump Institute. Research themes include: the development of imaging instrumentation and analytical tools; development of novel molecular imaging approaches including new probes and tracers; non-immunogenic reporter gene imaging systems; and preclinical imaging models including transgenic mouse models of cancer. Important new initiatives have been established on imaging immune responses and responses to immunotherapy.
+    </p>
+    <p>The JCCC in providing significant support to the Small Animal Imaging Shared Resource, in turn provides state-of-the-art preclinical imaging instrumentation and extensive training to Cancer Center Members. The Crump Institute and the JCCC Cancer Molecular Imaging Program co-sponsor a seminar series, with monthly lectures presented in the CNSI auditorium.
+    </p>
+  </div>
+  <div><a alt="DMMP" href="http://www.pharmacology.ucla.edu/" target="_blank"><img alt="DMMP" class="pull-left" src="/crump/files/view/images/dmmp.png" style="margin: 5px 10px 5px 0" /> </a>
+    <h4 class="media-heading">Crump Institute and the Department of Molecular and Medical Pharmacology (DMMP)
+    </h4>
+    <p>The <a alt="DMMP" href="http://www.pharmacology.ucla.edu/" target="_blank">Department of Molecular and Medical Pharmacology</a> offers an opportunity for gifted students, basic and clinical scientists to fulfill a vision together in exploring the molecular and biological mechanisms that regulate cellular and organ functions, in identifying and understanding the molecular errors of disease using in vitro and in vivo molecular diagnostics, and in developing the pharmacological means to correct these errors. Remarkable scientific discoveries and revolutionary technological innovations are occurring as biological, physical, engineering and clinical sciences come together in our Department to explore both the mechanisms by which cells are programmed from the genome to construct protein based cell circuits and the functions they perform, as well as the inter-cellular networks that form organ systems and the whole organism. This systems biology view of biological organization and function also contains the framework for the processes by which cells are re-programmed to gain and lose functions in the developmental processes of disease. This combination of new perspectives, new technologies and new scientific discoveries is having a tremendous impact on the way we think about and perform science today, and will have an even greater impact on biology and medicine in the future. Molecular and Medical Pharmacology is the home department for the Crump Institute for Molecular Imaging, and the Ahmanson Biological Imaging Division that contains our Nuclear Medicine and PET/CT clinical service. This combination of resources provides a novel environment to bring together faculty and students with diversity in their professional backgrounds and interests, yet with commonality in their ambitions and goals. Our programs value the transfer of knowledge and technology to the public and benefit through university-industry partnerships, while exposing students to both cultures.
+    </p>
+  </div>
+  <div><a alt="BSCRC" href="https://www.stemcell.ucla.edu/" target="_blank"><img alt="BSCRC" class="pull-left" src="/crump/files/view/images/bscrc_logo.jpg" style="width:260px;height:auto;margin: 5px 10px 5px 0" /> </a>
+    <h4 class="media-heading">Crump Institute and the Broad Stem Cell Research Center (BSCRC)
+    </h4>
+    <p>The <a alt="BSCRC" href="https://www.stemcell.ucla.edu/" target="_blank">BSCRC</a>&#39;s mission is to explore the scientific and medical potential that is emerging from research on adult and embryonic stem cells across campus departments. Research on stem cells holds tremendous promise. One objective is to facilitate basic scientific inquiries of adult and human embryonic stem cells towards future clinical applications. However, there are significant challenges in the research to overcome before the promise of stem cells can be fulfilled. Two areas where Crump faculty apply their talents are scalability and improvement of our molecular understanding of the triggers that control differentiation choice. Crump Institute cell biologists, bioengineers, chemists, materials scientists, and physicians are joined in an effort to develop novel technologies to support stem cell research.
+    </p>
+  </div>
+</div>
+<div class="col-md-6">
+  <h3>Community Partners
+  </h3>
+  <div><a alt="NSBCC" href="http://nano.cancer.gov/action/programs/caltech/" target="_blank"><img alt="NSBCC" class="pull-left" src="/crump/files/view/images/nsbcc.jpg" style="margin: 5px 10px 5px 0" /> </a>
+    <h4 class="media-heading">Crump Institute and the Caltech NanoSystems Biology Cancer Center
+    </h4>
+    <p>This program brings together scientists and students in biological, physical, engineering and medical sciences as another aspect of our effort to integrate systems biology, nsbccnanotechnology, integrated microfluidics, and molecular imaging. It is the end result of a novel research and educational program formed between UCLA, <a alt="Caltech" href="http://nano.cancer.gov/action/programs/caltech/" target="_blank">Caltech</a> and the Institute for Systems Biology (ISB) in Seattle known as the Alliance for NanoSystems Biology which provides the opportunity for research and educational activities between these three institutions.
+    </p>
+  </div>
+  <div><a alt="ISB" href="https://www.systemsbiology.org/" target="_blank"><img alt="ISB" class="pull-left" src="/crump/files/view/images/logo_isb-1.png" style="width:170px;height:auto;margin: 5px 10px 5px 0" /> </a>
+    <h4 class="media-heading">Crump Institute and the Institute for Systems Biology (ISB)
+    </h4>
+    <p>We have established a strategic partnership with <a alt="ISB" href="https://www.systemsbiology.org/" target="_blank">ISB</a>, a visionary and integrating force in biology, under the leadership of world-renowned biologist, Dr. Leroy Hood. Our systemsbio academic collaboration focuses on fundamental problems in the systems biology of disease, and technologies to accelerate and expand our knowledge of developmental processes of disease along with developing new in vitro and in vivo molecular diagnostics and therapeutics.
+    </p>
+  </div>
+  <div class="media">
+    <div class="media-left">
+      <p align="bottom"><a alt="Stanford CCNE-TD" href="http://med.stanford.edu/ccne/ccne-td/overview.html" target="_blank"><img alt="Stanford CCNE-TD" class="pull-left" src="/crump/files/view/images/ccnetd.full.high-1.png" style="width:170px;height:auto;margin: 5px 10px 5px 0" /> </a>
+      </p>
+      <h4 class="media-heading">Crump Institute and the Stanford Center for Cancer Nanotechnology Excellence for Translational Diagnostics (CCNE-TD)
+      </h4>
+      <p>This center, forming the third cycle <a href="http://med.stanford.edu/ccne/ccne-td.html" target="_blank">CCNE Program at Stanford</a>, is a consortium with expertise and infrastructure to support the growing field of cancer nanomedicine. <strong>Its two scientific thematic focus areas are</strong>: i) predicting and monitoring cancer therapy response in lung cancer and ii) merging of nano-based in vitro and in vivo diagnostic strategies as well as nano-based imaging for earlier cancer detection and prognostication for prostate cancer. CCNE-TD investigators will utilize nanotechnology to measure changes in cancer patterns via 1) imaging though cancer-triggered-self-assembling as well as dis-assembling nanoparticles and 2) in the serum using magneto-nano sensors. We believe that measuring molecular level changes is critical to the problem of earlier cancer detection and monitoring response to therapies with both the ex vivo diagnostic nanosensor technologies and the in vivo imaging technologies.&nbsp;
+      </p>
+    </div>
+  </div>
+  <div><a alt="City of Hope" href="http://www.cityofhope.org/" target="_blank"><img alt="City of Hope" class="pull-left" src="/crump/files/view/images/coh.jpg" style="margin: 5px 10px 5px 0" /> </a>
+    <h4 class="media-heading">Crump Institute and the City of Hope
+    </h4>
+    <p>The <a alt="City of Hope" href="http://www.cityofhope.org/" target="_blank">City of Hope</a> National Medical Center and the Beckman Research Institute, in Duarte, CA, provide an interdisciplinary and translational research setting. In partnership with cohinvestigators at City of Hope, Crump faculty members are collaborating on clinical studies of a novel engineered antibody for imaging prostate cancer in patients.
+    </p>
+  </div>
+</div>
+
+<DIV class='content-chunk-footer'></DIV>
+
+<div class='item-footer'></div>
+
+</div> <!-- class='xowiki-content' -->
+
+
+      </div>
+   </div>
+<!--  Footer  -->
+  <div class="footer">
+   <div class="row" style="margin:0;padding:0;">
+      <div style="display:none;">
+         <span class="footer-sections">About</span>
+         <ul>
+         <li><a href="/crump/">Homepage</a></li>
+         <li><a href="/crump/pages/directors">From Our Director</a></li>
+         <li><a href="/crump/pages/history">History</a></li>
+         <li><a href="/crump/pages/vision">Vision</a></li>
+         <li><a href="/crump/pages/home">Our Home</a></li>
+         <li><a href="/crump/pages/rap">Research Program Areas</a></li>
+         <li><a href="/crump/pages/techcenters">Technology Centers</a></li>
+         </ul>
+         <span class="footer-sections">Research</span>
+         <ul>
+         <li><a href="https://fdb5.ctrl.ucla.edu/crump/institution/personnel-list/">Faculty</a></li>
+         <li><a href="/crump/pages/laboratories">Laboratories</a></li>
+         <li><a href="/crump/pages/training">Training &amp; Education</a></li>
+         <li><a href="/crump/pages/university">University-Industry Technology Transfer</a></li>
+         <li><a href="/crump/pages/collaborations">Collaborations</a></li>
+         </ul>
+         <span class="footer-sections">Information</span>
+         <ul>
+         <li><a href="/crump/pages/highlights">Highlights</a></li>
+         <li><a href="/crump/pages/opportunities">Opportunities</a></li>
+         <li><a href="/crump/pages/contact">Contact Us</a></li>
+         </ul>
+      </div>
+
+      <div class="col-xs-12">
+         <span class="footer-sections">Contact Information:</span>
+            <address><small>Crump Institute for Molecular Imaging &nbsp;<span style="color:#cccccc;">|</span>&nbsp;
+            University of California, Los Angeles &nbsp;<span style="color:#cccccc;">|</span>&nbsp;
+            570 Westwood Plaza &nbsp;<span style="color:#cccccc;">|</span>&nbsp;
+            Los Angeles, CA 90095-1770</small>
+             <br />
+            <div style="display:none;"><span class="glyphicon glyphicon-earphone"></span> <abbr title="Telephone">Tel:</abbr> 310-825-4903 &nbsp;
+            <span class="glyphicon glyphicon-print"></span> <abbr title="Facsimile">Fax:</abbr> 310-206-8975 <br /></div>
+         </address>
+      </div>
+   </div>
+  </div>
+
+      <div class="row">
+          <div class="col-xs-12">
+              <ul class="center-block compact">
+                  <li>
+                      Not logged in |
+                  </li>
+                  
+              </ul>
+          </div>
+      </div>
+
+   </div>
+</div>
+
+  
+    <script type="text/javascript" nonce="FD5A1C3E4286D948A48FCC57AC34F81A992BCD9E">
+          function get_popular_tags(popular_tags_link, prefix) {
+            var http = new XMLHttpRequest();
+            http.open('GET', popular_tags_link, true);
+            http.onreadystatechange = function() {
+              if (http.readyState == 4) {
+                if (http.status != 200) {
+                  alert('Something wrong in HTTP request, status code = ' + http.status);
+                } else {
+                  var e = document.getElementById(prefix + '-popular_tags');
+                  e.innerHTML = http.responseText;
+                  e.style.display = 'block';
+                }
+              }
+            };
+            http.send(null);
+          }
+        </script>
+    <script type="text/javascript" src="/resources/acs-subsite/core.js" nonce="FD5A1C3E4286D948A48FCC57AC34F81A992BCD9E"></script>
+
+
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=28&cb=406568918" async nonce="FD5A1C3E4286D948A48FCC57AC34F81A992BCD9E"></script></body>
+</html>

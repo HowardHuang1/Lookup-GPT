@@ -1,0 +1,311 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>UCLA Astronomy Division</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+
+    <link rel="stylesheet" href="fonts/ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="fonts/fontawesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="fonts/flaticons/font/flaticon.css">
+    <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
+
+    <!-- Theme Style -->
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    
+    <header role="banner">
+      <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <div class="container">
+          <a class="navbar-brand" href="index.php">UCLA Division of <br /> Astronomy & Astrophysics</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarsExample05">
+            <ul class="navbar-nav ml-auto pl-lg-5 pl-0">
+              <li class="nav-item">
+                <a class="nav-link active" href="index.php">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="research-areas.html">Research</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="academics.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Academics</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="graduate-studies.html">Graduate</a>
+                  <a class="dropdown-item" href="undergraduate-program.html">Undergraduate</a>
+                  <a class="dropdown-item" href="about-our-faculty.html">About our faculty</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="outreach.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Outreach</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="astronomy-live.html">Astronomy Live!</a>
+                  <a class="dropdown-item" href="planetarium.html">UCLA Planetarium</a>
+                  <a class="dropdown-item" href="https://planets.ucla.edu/">iPlex</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="events.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Events</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <!--a class="dropdown-item" href="http://pritha.astro.ucla.edu/~abhimat/astrocoffee/">Astro Coffee</a>-->
+                  <a class="dropdown-item" href="astrophysics-colloquium.html">Astrophysics Colloquium</a>
+                  <a class="dropdown-item" href="tuesday-lunch-talks.html">Tuesday Lunch Talks</a>
+                  <a class="dropdown-item" href="meetings.html">Meetings</a>
+                  <a class="dropdown-item" href="diversity-resources.html">Diversity Events</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="people.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">People</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="faculty.html">Faculty</a>
+                  <a class="dropdown-item" href="researchers.html">Researchers</a>
+                  <a class="dropdown-item" href="lecturers.html">Lecturers</a>
+                  <a class="dropdown-item" href="postdocs.html">Postdocs</a>
+                  <a class="dropdown-item" href="grad-students.html">Graduate Students</a>
+                  <a class="dropdown-item" href="staff.html">Staff</a>
+                  <a class="dropdown-item" href="facilities.html">Facilities</a>
+                  <a class="dropdown-item" href="graduate-program-alumni.html">Graduate Program Alumni</a>
+                  <a class="dropdown-item" href="postdoc-alumni.html">Postdoc Alumni</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="events.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="contact-alice-shapley.html">Contact the Division Chair</a>
+                  <a class="dropdown-item" href="https://www.pa.ucla.edu/graduate-admissions.html">Graduate Student Admissions</a>
+                  <a class="dropdown-item" href="https://www.pa.ucla.edu/undergraduate-program.html">Undergraduate Program</a>
+                  <a class="dropdown-item" href="http://computing.pa.ucla.edu/">Computing and IT Support</a>
+                </div>
+              </li>
+            </ul>
+
+            <!--<ul class="navbar-nav ml-auto">
+              <li class="nav-item cta-btn">
+                <a class="nav-link" href="contact.html">Contact Us</a>
+              </li>
+            </ul>-->
+            
+          </div>
+        </div>
+      </nav>
+    </header>
+    <!-- END header -->    
+    <section class="home-slider-loop-false  inner-page owl-carousel">
+      <div class="slider-item" style="background-image: url('img/whitedwarf-slide-3.jpg');">
+        
+        <div class="container">
+          <div class="row slider-text align-items-center justify-content-center">
+            <div class="col-md-8 text-center col-sm-12 element-animate">
+              <h1>Tuesday Lunch Talk</h1>
+              <!--<p>May 1, 2019 <span class="mx-3">&bullet;</span> by <a href="#" class="text-white">John Doe</a></p>-->
+              
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+    
+    <div class="section container">
+        <div class="row">
+          <!--<div class="col-lg-4">
+            <p><img src="img/galaxies.jpg" alt="" class="img-fluid"></p>
+            <p class="mb-5"><img src="img/black-hole.jpg" alt="" class="img-fluid"></p>
+          </div>-->
+          
+          <div class="col-lg-12 pl-2 pl-lg-5">
+            <h2 class="mb-5">2023 Schedule</h2>
+            03/07: Sean Linden<br>
+          30/28: Graham Smith<br>
+          04/04: Keir Rogers<br>
+          04/11: Devon Powell<br>
+          05/02: Josh Samani - running DiversiTea<br>
+          05/09: Sihao Cheng<br>
+          05/23: Virginia L Trimble<br>
+          06/06: Chris Boxe and Kayla Smith<br>
+            
+          <hr>
+          <p><b>Archives: Fall 2022 Schedule</b></p>
+          10/4: Yongda Zhu<br>
+          10/11: Kendall Sullivan<br>
+          10/18: Cicero Lu<br>
+          10/25: Casey Lam<br>
+          11/1: Sofia Rojas<br>
+          11/8: Matthew Gent<br>
+          11/15: Hareesh Bhaskar<br>
+          11/22: Surajit Kalita<br>
+          11/29: Keerthi Vasan<br>
+          12/6:
+          <hr>
+          <p><b>Archives: Fall 2020 Schedule</b></p>
+          <p>Astrophysics Tuesday Lunch Talks will be held virtually via ZOOM for Fall 2020.</p>
+            <p>Coordinators: Anna Ciurlo, Matt Hosek, Guido Roberts-Borsani</p>
+            <p><b>October 13 at 1:00 PM Pacific time<br />
+            Vince Estrada-Carpenter, Texas A&M<br />
+            Title: Stellar Populations and Formation Histories of Massive Galaxies Derived from Deep Hubble Space Telescope Grism Data</b></p>
+            <p>Abstract: Understanding the correlations between mass, morphology, stellar populations, and formation history in galaxies is 
+            difficult, primarily due to the uncertainties in galaxy star-formation histories. Star-formation histories are better constrained 
+            for higher redshift galaxies, observed closer to their formation and quenching epochs. These properties in high redshift galaxies 
+            can be difficult to do from ground-based telescopes, as they are subject to higher backgrounds and a high density of telluric 
+            (night-sky) emission lines. The HST/WFC3 grism grants us access to (low-resolution) rest frame optical spectrum for galaxies 
+            at ~ 1 < z < 2. The age and metallicity features present at these wavelengths, along with the sample sizes provided by grism 
+            surveys, allow us to better constrain stellar populations and star-formation histories. In my talk, I will discuss research using 
+            a forward modeling technique to fit deep HST grism data from the CLEAR (CANDELS Lyα Emission at Reionization) survey. Work which 
+            includes studying the mass - stellar metallicity relationship, where we find that massive quiescent galaxies up to a redshift 
+            of ~ 1.8 have ~ solar stellar metallicities. As well as a study on the relationship between morphology and formation redshift 
+            (when the galaxy formed ~ 50% of their mass) using “non-parametric” star-formation histories, where we find that quiescent 
+            galaxies with the highest stellar-mass surface density, log(Σ1) > 10.25, show a minimum formation redshift.</p>
+            <p><b>October 6 at 1:00 PM Pacific time<br />
+            Greg Gilbert, The University of Chicago<br />
+            Title: The Architectures and Dynamics of Kepler’s Multiplanet Systems</b></p>
+            <p>Abstract: Studying the present day architectures and dynamics of high-multiplicity (N ≥ 3) exoplanetary systems provides a 
+            unique avenue for probing the astrophysics of planet formation and for constraining exoplanet demographics. Here, I present a 
+            new framework for characterizing the arrangements of masses, periods, and mutual inclinations within such systems. I demonstrate 
+            that Kepler’s high multiplicity systems can be explained if most systems belong to a single intrinsic population, with a subset 
+            of systems hosting additional, undetected planets. I further demonstrate that planets within a system tend to be evenly spaced 
+            in log-period and roughly the same size, and that these trends are astrophysical in nature and not an artifact of observational 
+            biases. Conclusions regarding planetary inclinations and eccentricities are less clear and require improved transit lightcurve 
+            fits to allow for robust inferences. However, accurate transit modeling is confounded by both instrumental and asteroseismic 
+            noise, as well as by unresolved transit timing variations (TTVs) and transit duration variations (TDVs) which arise from 
+            gravitational interactions between neighboring planets. To remedy this problem, I am currently reprocessing all (~3300) 
+            Kepler lightcurves for stars known to host planet candidates. I employ all available short cadence data, using a technique 
+            that simultaneously models noise with a Gaussian Process (GP) regression and accounts for both TTVs and TDVs with an optimally 
+            flexible parametric model. These timing measurements can be inverted using dynamical models to produce a large statistical 
+            sample of planetary masses, filling out the mass-radius diagram. This project will yield the highest-fidelity measurements 
+            of TTVs and TDVs produced to date, as well as dramatically improved constraints on planetary inclinations and eccentricities. 
+            In the near future, I will extend these methods to every planetary candidate observed by Kepler, K2, and TESS, with an expected 
+            yield of nearly 100 previously undetected TTVs/TDVs.</p>
+            <p><b>September 29 at 1:00 PM Pacific time<br />
+            Luke Bouma, Princeton<br />
+          Title: Two Young Transiting Exoplanets: One Was, One Was Not</b></p>
+          <p>Abstract: Over the first 100 million years of their lives, planetary systems undergo major changes. Rocky planetesimals collide. 
+          Atmospheres are accreted and lost. Dynamical interactions shape and tilt planetary orbits. After summarizing ongoing observational 
+          efforts aimed at discovering young exoplanets, I will motivate and discuss two specific questions. First: what is the youngest hot 
+          Jupiter that exists?  I will present PTFO 8-8695b, a long-standing 10 Myr old candidate hot Jupiter that is probably a rare class 
+          of variable star.  Combined with other recent work, the story of PTFO 8-8695b suggests that approximately zero hot Jupiters 
+          younger than 100 Myr have been securely identified.  The second question is: what can observations teach us about how close-in 
+          Neptunian-mass planets form and evolve?  This topic will be explored through the discovery and validation of a 40 Myr old 
+          Saturn-sized planet, TOI 837b. The planet's host star is bright enough to enable measurements of the stellar obliquity, the 
+          planet's mass, and potentially the planet's atmospheric mass loss.  These avenues of characterization, broadly applied to the 
+          young planets being discovered with TESS and K2, will likely improve our understanding of the processes that produce the observed 
+          exoplanet population.</p>
+          <hr>
+        	<p><b>Archives: Winter 2020 Schedule</b></p>
+        	<p>2/4: Xuheng Ding, UCLA <br />
+        	2/11: Jason Wang, Caltech <br />
+        	2/18: Kristen Larson, Caltech/IPAC <br />
+        	2/25: Ylva Goetberg, Carnegie <br />
+        	3/3: Evan Bauer, UCSB</p>
+
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+
+    
+    
+
+    
+            
+              
+          </div>
+          <!-- END slider -->
+          </div>
+        </div>
+      
+    </section> <!-- .section -->
+
+
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md-3 mb-5">
+            <h3>Announcements</h3>
+            <ul class="list-unstyled footer-link">
+              	<li><a href="https://www.pa.ucla.edu/open-positions.html">Open academic positions</a></li>
+              	<li><a href="https://www.pa.ucla.edu/annual-report.html">Annual reports and newsletters</a></li>
+              	<li><a href="http://newsroom.ucla.edu/">UCLA Newsroom</a></li>
+              	<li><a href="http://www.sexualviolence.ucla.edu/">UCLA policies on sexual harassment & violence</a></li>
+              	<li><a href="https://diversity.ucla.edu/">Diversity @ UCLA</li>
+            </ul>
+
+          </div>
+          <div class="col-md-3 mb-5">
+            <div class="mb-5">
+              <h3>Academic Resources</h3>
+              <ul class="list-unstyled footer-link">
+              	<li><a href="https://registrar.ucla.edu/calendars/annual-academic-calendar">Academic calendar</a></li>
+              	<li><a href="https://sa.ucla.edu/ro/public/soc">Schedule of classes</a></li>
+              	<li><a href="https://my.ucla.edu/">MyUCLA</a></li>
+              	<li><a href="http://bruinlearn.ucla.edu/">BruinLearn</a></li>
+              	<li><a href="https://www.lmstransformation.ucla.edu/">LMS Transformation</a></li>
+              	<li><a href="https://ucla.service-now.com/support?id=home">UCLA IT Services</a></li>
+            </ul>
+            </div>
+          </div>
+          <div class="col-md-3 mb-5">
+            <h3>General Resources</h3>
+            <ul class="list-unstyled footer-link">
+              <li><a href="observing-facilities.html">Observing facilities</a></li>
+              <li><a href="http://irlab.astro.ucla.edu/">Infrared Laboratory</a></li>
+              <li><a href="https://www.pa.ucla.edu/financial-services.html">Financial Services</a></li>
+              <li><a href="http://iff.pa.ucla.edu/">Machine Shop</a></li>
+              <li><a href="https://www.pa.ucla.edu/research-store.html">Research Store</a></li>
+              <li><a href="https://webmail.astro.ucla.edu/">Astronomy Zimbra Email</a></li>
+              <li><a href="http://computing.pa.ucla.edu/">Computing & IT Support</li>
+            </ul>
+        </div>
+        <div class="col-md-3 mb-5">
+            <h3>Visiting UCLA</h3>
+            <ul class="list-unstyled footer-link">
+              <li><a href="#">UCLA interactive map</a></li>
+              <li><a href="#">Directions and parking</a></li>
+              <li><a href="#">Planetarium directions</a></li>
+              <li><a href="#">UCLA campus shuttle</a></li>
+              <li><a href="#">Local accommodations</a></li>
+              <li><a href="#">Giving to the Astro Division</a></li>
+            </ul>
+          </div>
+        <div class="row">
+          <div class="col-12 text-md-center text-left">
+            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+        Copyright &copy;<script>document.write(new Date().getFullYear());</script> UCLA Division of Astronomy & Astrophysics, 475 Portola Plaza, Los Angeles, CA 90095-1547
+310-825-3440 | A <a href="https://colorlib.com" target="_blank" >Colorlib</a> template.
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- END footer -->
+    <!-- loader -->
+    <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#cf1d16"/></svg></div>
+
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/magnific-popup-options.js"></script>
+    
+
+    <script src="js/main.js"></script>
+  </body>
+</html>

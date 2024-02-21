@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Welcome to the Office of the Dean of Students | UCLA Dean of Students</title>
+<link rel="stylesheet" href="/themes/custom/ucla_sa/fonts/proximanova.css?v=20240217141013">
+<link rel="stylesheet" href="/themes/custom/ucla_sa/css/ucla_sa.css??v=20240217141013">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-90090752-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', 'UA-90090752-1');
+</script>
+<style type="text/css">
+/* List items with headers, instead with links as main subject Start */
+/* Custom embed: Honor Societies /node/45 */
+.header-list .list-item {
+  grid-template-columns: auto 1fr;
+}
+/* List items with headers, instead with links as main subject End */
+/* Map icon Start */
+/* Custom embed: Location: Map /node/48 */
+.ucla-map {
+    display: grid;
+}
+.ucla-map img {
+    z-index: 0;
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+.ucla-map:after {
+    z-index: 100;
+    grid-column: 1/2;
+    grid-row: 1/2;
+    content: ' ';
+    background-image: url(/sites/default/files/2021-02/icon-location-magenta.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-position: center calc(50% - 0.8rem);
+}
+/* Map icon End */
+</style>
+</head>
+<body
+    data-ucla-ref="load/"
+    data-ucla-path="/"
+    data-ucla-origin="https://www.deanofstudents.ucla.edu"
+    class="no-js"
+>
+<script>document.body.classList.remove('no-js'); document.body.classList.add('js');</script>
+<header class="header">
+    <div class="skip-to-main">
+    <a href="#main">Skip to Main Content</a>
+    </div>
+            <div class="nav-topbar desktop-only">
+    <nav aria-label="Secondary Top" class="nav-secondary container">
+    <ul>
+  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
+  <li><a href="/contact-us">Contact Us</a></li>
+  <li class="topbar-yellow-button"><strong><a href="/incident-report">REPORT AN INCIDENT OF BIAS</a></strong></li>
+  <li class="topbar-yellow-button"><strong><a href="/studentconductcode">STUDENT CONDUCT CODE</a></strong></li>
+</ul>
+    </nav>
+    </div>
+    <div class="headerbar container">
+          <a href="/" class="site-name"><img src="/sites/default/files/UCLA_Logo_DSO.fw_.png" height="70" width="780" alt="UCLA Office of the Dean of Students"></a>
+          <div class="header-right">
+      <button class="mobile-only" aria-haspopup="true" aria-controls="menus" aria-expanded="false" aria-label="Main Menus"></button>
+      <form action="https://www.ucla.edu/search" method="GET" class="site-search desktop-only">
+      <label for="header-search-headerbar">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-headerbar"><button type="submit">Search</button>
+      </form>
+      </div>
+    </div>
+    <div id="menus">
+    <form action="https://www.ucla.edu/search" method="GET" class="site-search mobile-only">
+      <label for="header-search-mobile-only">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-mobile-only"><button type="submit">Search</button>
+    </form>
+    <nav aria-label="Main" class="nav-main container">
+    <ul>
+  <li><a href="">Students</a>
+    <ul>
+      <li><a href="/academic-integrity">Academic Integrity</a></li>
+      <li><a href="/student-conduct">Student Conduct</a></li>
+      <li><a href="/honor-societies">Honor Societies</a></li>
+      <li><a href="/deans-certification">Dean&#x27;s Certification</a></li>
+      <li><a href="/alcohol-policies">Alcohol Policies</a></li>
+      <li><a href="/workshops">Workshops</a></li>
+      <li><a href="/official-notices">Official Notices</a></li>
+      <li><a href="/helpful-links">Helpful Links</a></li>
+    </ul>
+</li>
+  <li><a href="/parents">Parents</a></li>
+  <li><a href="/faculty">Faculty</a></li>
+  <li><a href="/staff">Staff</a></li>
+</ul>
+    </nav>
+    <nav aria-label="Secondary Menu" class="nav-secondary container mobile-only">
+    <ul>
+  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
+  <li><a href="/contact-us">Contact Us</a></li>
+  <li class="topbar-yellow-button"><strong><a href="/incident-report">REPORT AN INCIDENT OF BIAS</a></strong></li>
+  <li class="topbar-yellow-button"><strong><a href="/studentconductcode">STUDENT CONDUCT CODE</a></strong></li>
+</ul>
+    </nav>
+    </div>
+</header>
+<main id="main">
+  <div class="container">
+        <div class="page">
+<div class="page-header">
+  <div id="block-system-messages">
+<div data-drupal-messages-fallback class="hidden"></div>
+</div>
+<div id="block-headerimageblock">
+  
+    
+      
+  <img loading="eager" src="/sites/default/files/styles/header_image/public/portals/16/images/ucla-images/deanofstudentscover-noover.jpg?itok=f9epj86Y" width="1170" height="480" alt="UCLA looking towards downtown LA" />
+
+
+
+
+  </div>
+<div id="block-ucla-sa-page-title">
+  
+    
+      
+  <h1> Welcome to the Office of the Dean of Students</h1>
+
+
+  </div>
+
+
+</div>
+<div class="page-content">
+  <div id="block-mainpagecontent">
+  
+    
+      <div data-ucla-node-id="1">
+
+
+
+
+
+<div class="body-content body--section">
+
+<section class="callout"> <h2>Thank you for contacting the Office of the Dean of Students and the Office of Student Conduct.</h2> <p>For questions related to the Office of Student Conduct, call (310) 825-3871 or email <a href="mailto:dean@saonet.ucla.edu">dean@saonet.ucla.edu</a> for assistance.</p> <p>If you have other questions or concerns, please contact the Office of the Dean of Students at (310) 825-3894 or email <a href="mailto:dean@saonet.ucla.edu">dean@saonet.ucla.edu</a></p> <p>If we cannot answer the phone, please leave a voicemail and we will return your call as soon as possible.</p> <p>Find the most up-to-date information about <a href="https://covid-19.ucla.edu/">UCLA’s response to COVID-19</a>.</p></section> <p>If you have comments for us to consider, please share your thoughts with us at: Email: <a href="mailto:dean@saonet.ucla.edu">dean@saonet.ucla.edu</a> or Phone: (310) 825 - 3894</p> <h3>UCLA is committed to web accessibility for everyone.</h3> <p><strong>If you are experiencing a web accessibility issue, please contact the ADA/504 Office for further assistance</strong> by emailing <a href="mailto:ada@saonet.ucla.edu">ada@saonet.ucla.edu</a> or calling (310) 825-3935.</p> <p><strong>If you are a student and would like to file a disability-based discrimination grievance</strong>, please see <a href="http://www.adminpolicies.ucla.edu/app/Default.aspx?&amp;id=230-2">UCLA Procedure 230.2: Student Grievances Regarding Violations of Anti-Discrimination Laws or University Policies on Discrimination Based on Disability</a>.</p>
+
+</div>
+
+  <div class="cards-theme-resources paragraph--type--cards paragraph--section cards" data-section-title="Bring it to our Attention">
+          <h2>
+Bring it to our Attention
+</h2>
+      
+      <div class="cards-container">
+      
+  <a href="https://www.sexualviolence.ucla.edu/"  class="card">
+          <span class="card-title">
+Have you been...
+</span>
+      <span class="card-summary">
+<p class="summary">Sexually Assaulted</p>
+</span>
+      </a>
+
+  <a href="/adminpolicies"  class="card">
+          <span class="card-title">
+We Need To Know
+</span>
+      <span class="card-summary">
+<p class="summary">If you&#039;ve been Discriminated Against</p>
+</span>
+      </a>
+
+  <a href="/media/96"  class="card">
+          <span class="card-title">
+UCLA Rights
+</span>
+      <span class="card-summary">
+<p class="summary">1st Amendment Rights</p>
+</span>
+      </a>
+
+
+      </div>
+      </div>
+
+  <div class="body-content paragraph--section" data-section-title="Accessibility and Location">
+          <h2>
+Accessibility and Location
+</h2>
+      
+<section class="columns columns-2 columns-2-5050">
+<section class="column column-1">
+<h3>UCLA is committed to web accessibility for everyone.</h3>
+
+<p><strong>If you are experiencing a web accessibility issue, please contact the ADA/504 Office for further assistance</strong> by emailing <a href="mailto:ada@saonet.ucla.edu">ada@saonet.ucla.edu</a> or calling (310) 206-8049.</p>
+
+<p><strong>If you are a student and would like to file a disability-based discrimination grievance</strong>, please see <a href="http://www.adminpolicies.ucla.edu/app/Default.aspx?&amp;id=230-2">UCLA Procedure 230.2: Student Grievances Regarding Violations of Anti-Discrimination Laws or University Policies on Discrimination Based on Disability</a>.</p>
+</section>
+
+<section class="column column-2">
+<div data-custom-embed-id="48" data-custom-embed-title="Location: Map">
+
+<a class="ucla-map" href="https://www.google.com/maps/dir//Murphy+Hall,+410+Charles+E+Young+Dr+E,+Los+Angeles,+CA+90024/@34.071609,-118.438708,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x80c2bc62bd93442f:0x2ec1cadcf50409dd!2m2!1d-118.4387084!2d34.0716091?hl=en-US">
+  <img loading="eager" src="/sites/default/files/styles/header_image/public/2021-02/murphy_0.png?itok=TEmczeYo" width="750" height="376" alt="Map of Murphy">
+
+
+
+
+</a>
+
+</div>
+
+
+</section>
+</section>
+
+      </div>
+
+
+
+
+
+
+</div>
+  </div>
+
+
+</div>
+</div>
+
+
+      </div>
+</main>
+<footer>
+<div class="container">
+<nav class="nav-footer" aria-label="Footer">
+  <ul>\n  <li><a href="https://www.ucla.edu/accessibility" class="icon-ada">Accessibility</a></li>\n  <li><a href="https://www.ucla.edu/">UCLA</a></li>\n  <li><a href="https://www.studentaffairs.ucla.edu/">Student Affairs</a></li>\n  <li><a href="https://www.transportation.ucla.edu/campus-parking">Maps, Directions, Parking</a></li>\n  <li><a href="https://registrar.ucla.edu/calendars">Academic Calendar</a></li>\n  <li><a href="https://www.universityofcalifornia.edu/">University of California</a></li>\n  <li><a href="https://www.ucla.edu/terms-of-use">Terms of Use</a></li>\n</ul>
+
+</nav>
+</div>
+</footer>
+<script src="/themes/custom/ucla_sa/js/ucla_sa.js?v=a20240217141013" async></script>
+<script type="text/javascript">
+(function() {
+  if(document.querySelector('[data-ucla]')) {
+    var embed = document.createElement('script'); embed.type = 'text/javascript'; embed.async = true;
+    embed.src = '/themes/custom/ucla_sa/js/ucla_embed.js?v=20240217141013';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(embed, s);
+  }
+})();
+</script>
+</body>
+</html>

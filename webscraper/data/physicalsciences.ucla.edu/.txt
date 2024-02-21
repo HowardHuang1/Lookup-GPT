@@ -1,0 +1,919 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>UCLA Division of Physical Sciences &ndash; Welcome</title>
+
+<!-- The SEO Framework by Sybre Waaijer -->
+<meta name="robots" content="max-snippet:-1,max-image-preview:standard,max-video-preview:-1" />
+<link rel="canonical" href="https://physicalsciences.ucla.edu/" />
+<meta name="description" content="Our research at UCLA serves as the basis for discovery and innovation, stimulating our state, national, and global economy in the process." />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="UCLA Division of Physical Sciences" />
+<meta property="og:title" content="UCLA&#8217;s Division of Physical Sciences" />
+<meta property="og:description" content="Our research at UCLA serves as the basis for discovery and innovation, stimulating our state, national, and global economy in the process." />
+<meta property="og:url" content="https://physicalsciences.ucla.edu/" />
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://physicalsciences.ucla.edu/#/schema/WebSite","url":"https://physicalsciences.ucla.edu/","name":"UCLA Division of Physical Sciences","description":"UCLA&#039;s Division of Physical Sciences is one of the top research groups in the world.","inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://physicalsciences.ucla.edu/search/{search_term_string}/"},"query-input":"required name=search_term_string"},"publisher":{"@id":"https://physicalsciences.ucla.edu/#/schema/Organization"}},{"@type":"WebPage","@id":"https://physicalsciences.ucla.edu/","url":"https://physicalsciences.ucla.edu/","name":"UCLA Division of Physical Sciences &ndash; Welcome","description":"Our research at UCLA serves as the basis for discovery and innovation, stimulating our state, national, and global economy in the process.","inLanguage":"en-US","isPartOf":{"@id":"https://physicalsciences.ucla.edu/#/schema/WebSite"},"breadcrumb":{"@type":"BreadcrumbList","@id":"https://physicalsciences.ucla.edu/#/schema/BreadcrumbList","itemListElement":{"@type":"ListItem","position":1,"name":"UCLA Division of Physical Sciences"}},"potentialAction":{"@type":"ReadAction","target":"https://physicalsciences.ucla.edu/"},"about":{"@id":"https://physicalsciences.ucla.edu/#/schema/Organization"}},{"@type":"Organization","@id":"https://physicalsciences.ucla.edu/#/schema/Organization","name":"UCLA Division of Physical Sciences","url":"https://physicalsciences.ucla.edu/"}]}</script>
+<!-- / The SEO Framework by Sybre Waaijer | 1.10ms meta | 0.12ms boot -->
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//cdn.designsystem.brand.ucla.edu' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://physicalsciences.ucla.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='ucla-wordpress-plugin-tile-style-inline-css' type='text/css'>
+div.ucla-tile:active,div.ucla-tile:hover{background-color:#00598c}
+
+</style>
+<style id='ucla-wordpress-plugin-ribbon-style-inline-css' type='text/css'>
+.ucla-ribbon--brand .ucla-ribbon__text:not(.has-text-color){color:#fff}.is-layout-constrained>.ucla-ribbon--highlight:where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:25ch}.is-layout-constrained>.ucla-ribbon--brand:where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:15ch}
+
+</style>
+<style id='ucla-wordpress-plugin-card-style-inline-css' type='text/css'>
+.wp-block-ucla-wordpress-plugin-card .wp-block-heading>a{text-decoration:none}
+
+</style>
+<style id='ucla-wordpress-plugin-card-story-style-inline-css' type='text/css'>
+.ucla-card.ucla-card__story>.ucla-card__body>.ucla-card__date{margin-block-end:0}.ucla-card.ucla-card__story>.ucla-card__body>.ucla-card__title{color:#00598c;font-size:1.5rem;font-weight:700}.ucla-card.ucla-card__story>.ucla-card__body>.ucla-card__title>a{color:#00598c;text-decoration:none}.ucla-card.ucla-card__story>.ucla-card__body>.ucla-card__title>a:visited{background-color:transparent;color:#00598c}.ucla-card.ucla-card__story>.ucla-card__body>.ucla-card__title>a:hover{background-color:transparent;color:#0079bf}.ucla-card.ucla-card__story>.ucla-card__body>.ucla-card__title>a:active{background-color:transparent;color:#003b5c}.ucla-card.ucla-card__story>.ucla-card__body>.ucla-card__author{margin-block-start:0}@media(min-width:960px){.ucla-card.ucla-card__story-featured.ucla-card__story-left{flex-direction:row}.ucla-card.ucla-card__story-featured.ucla-card__story-left .ucla-card__story-featured-body{margin:0 0 0 -6.875rem}}.ucla-card.ucla-card__story-featured .story-card-image-link{display:inherit}.ucla-card.ucla-card__story-featured .ucla-card__story-featured-image{height:auto;max-width:100%}.ucla-card.ucla-card__story-featured>.ucla-card__story-featured-body{min-width:55%}.ucla-card.ucla-card__story-featured>.ucla-card__story-featured-body>.ucla-card__title{color:#00598c;font-size:1.75rem;font-weight:700;margin-bottom:1rem}.ucla-card.ucla-card__story-featured>.ucla-card__story-featured-body>.ucla-card__title>a{color:#00598c;text-decoration:none}.ucla-card.ucla-card__story-featured>.ucla-card__story-featured-body>.ucla-card__title>a:visited{background-color:transparent;color:#00598c}.ucla-card.ucla-card__story-featured>.ucla-card__story-featured-body>.ucla-card__title>a:hover{background-color:transparent;color:#0079bf}.ucla-card.ucla-card__story-featured>.ucla-card__story-featured-body>.ucla-card__title>a:active{background-color:transparent;color:#003b5c}.ucla-card.ucla-card__story-featured>.ucla-card__story-featured-body .ucla-card__author,.ucla-card.ucla-card__story-featured>.ucla-card__story-featured-body>.ucla-card__date{color:#666;font-size:.875rem;font-weight:700;margin:0;white-space:nowrap}@media(min-width:960px){.ucla-story__box-banner>.ucla-card.ucla-card__story-featured.ucla-card__story-left{flex-direction:row}.ucla-story__box-banner>.ucla-card.ucla-card__story-featured.ucla-card__story-left .story-card-image-link{left:unset;margin-left:unset;margin-right:-50%;right:30%}.ucla-story__box-banner>.ucla-card.ucla-card__story-featured.ucla-card__story-left .ucla-card__story-featured-body{margin:0 0 0 10rem}.ucla-story__box-banner>.ucla-card.ucla-card__story-featured .story-card-image-link{left:30%;margin-left:-50%;position:relative;width:100%}.ucla-story__box-banner>.ucla-card.ucla-card__story-featured .ucla-card__story-featured-body{margin:0 10rem 0 0;width:calc(30% - 48px)}}.ucla-story__box-banner>.ucla-card.ucla-card__story-featured .ucla-card__story-featured-body>.ucla-card__title{font-size:1.75rem}.ucla-card.ucla-card__story-secondary{flex-direction:row}.ucla-card.ucla-card__story-secondary.ucla-card__story-left{flex-direction:row-reverse}.ucla-card.ucla-card__story-secondary .story-card-image-link,.ucla-card.ucla-card__story-secondary .ucla-card__body{flex-basis:0;flex-grow:1}.ucla-card.ucla-card__story-secondary .ucla-card__body>.ucla-card__title{color:#00598c}.ucla-card.ucla-card__story-secondary .ucla-card__body>.ucla-card__title>a{color:#00598c;text-decoration:none}.ucla-card.ucla-card__story-secondary .ucla-card__body>.ucla-card__title>a:visited{background-color:transparent;color:#00598c}.ucla-card.ucla-card__story-secondary .ucla-card__body>.ucla-card__title>a:hover{background-color:transparent;color:#0079bf}.ucla-card.ucla-card__story-secondary .ucla-card__body>.ucla-card__title>a:active{background-color:transparent;color:#003b5c}.ucla-card.ucla-card__story-secondary .ucla-card__body>.ucla-card__author{margin-block-start:0}.wp-block-ucla-wordpress-plugin-card-story-secondary+.wp-block-ucla-wordpress-plugin-card-story-secondary>.ucla-card__story-secondary{border-top:0}
+
+</style>
+<style id='ucla-wordpress-plugin-card-people-style-inline-css' type='text/css'>
+.wp-block-ucla-wordpress-plugin-card-people .ucla-card__body>p.ucla-card__description{margin-bottom:1rem}
+
+</style>
+<style id='ucla-wordpress-plugin-card-event-style-inline-css' type='text/css'>
+.wp-block-ucla-wordpress-plugin-card-event{line-height:1}
+
+</style>
+<link rel='stylesheet' id='ucla-button-style-css' href='https://physicalsciences.ucla.edu/wp-content/plugins/ucla-wordpress-plugin/blocks/build/button/style-index.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css' href='https://physicalsciences.ucla.edu/wp-includes/css/dist/components/style.min.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css' href='https://physicalsciences.ucla.edu/wp-includes/css/dist/block-editor/style.min.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-reusable-blocks-css' href='https://physicalsciences.ucla.edu/wp-includes/css/dist/reusable-blocks/style.min.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-patterns-css' href='https://physicalsciences.ucla.edu/wp-includes/css/dist/patterns/style.min.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-css' href='https://physicalsciences.ucla.edu/wp-includes/css/dist/editor/style.min.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ucla-table-style-css' href='https://physicalsciences.ucla.edu/wp-content/plugins/ucla-wordpress-plugin/blocks/build/table/style-index.css?ver=6.4.3' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #FFFFFF;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--ucla-blue: #2774AE;--wp--preset--color--ucla-gold: #FFD100;--wp--preset--color--darkest-blue: #003B5C;--wp--preset--color--darker-blue: #005587;--wp--preset--color--lighter-blue: #8BB8EE;--wp--preset--color--lightest-blue: #DAEBFE;--wp--preset--color--darkest-gold: #FFB81C;--wp--preset--color--darker-gold: #FFC72C;--wp--preset--color--gray-80: #333333;--wp--preset--color--gray-60: #666666;--wp--preset--color--gray-40: #999999;--wp--preset--color--gray-20: #CCCCCC;--wp--preset--color--gray-15: #D9D9D9;--wp--preset--color--gray-10: #E5E5E5;--wp--preset--color--gray-08: #EBEBEB;--wp--preset--color--gray-05: #F2F2F2;--wp--preset--color--gray-03: #F7F7F7;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: clamp(1.125rem, 0.8382rem + 2.9412vw, 1.25rem);--wp--preset--font-size--medium: clamp(1.25rem, 0.8382rem + 2.9412vw, 1.5rem);--wp--preset--font-size--large: clamp(1.75rem, 0.8382rem + 2.9412vw, 2.25rem);--wp--preset--font-size--x-large: clamp(2.25rem, 0.8382rem + 2.9412vw, 3rem);--wp--preset--font-size--x-small: 0.875rem;--wp--preset--font-size--base: 1rem;--wp--preset--font-family--helvetica: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;--wp--preset--spacing--20: 0.125rem;--wp--preset--spacing--30: 0.25rem;--wp--preset--spacing--40: 0.5rem;--wp--preset--spacing--50: 0.75rem;--wp--preset--spacing--60: 1rem;--wp--preset--spacing--70: 1.5rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--spacing--10: 0;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 776px;--wp--style--global--wide-size: 1176px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 1rem; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child:first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child:last-child { margin-block-end: 0; }body { --wp--style--block-gap: 1rem; }:where(body .is-layout-flow)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-flow)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-flow)  > *{margin-block-start: 1rem;margin-block-end: 0;}:where(body .is-layout-constrained)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-constrained)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-constrained)  > *{margin-block-start: 1rem;margin-block-end: 0;}:where(body .is-layout-flex) {gap: 1rem;}:where(body .is-layout-grid) {gap: 1rem;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{font-family: var(--wp--preset--font-family--helvetica);padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: none;}h1{font-size: var(--wp--preset--font-size--x-large);}h2{font-size: var(--wp--preset--font-size--large);}h3{font-size: var(--wp--preset--font-size--medium);}h4{font-size: var(--wp--preset--font-size--small);}h5{font-size: var(--wp--preset--font-size--base);}h6{font-size: var(--wp--preset--font-size--x-small);}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-ucla-blue-color{color: var(--wp--preset--color--ucla-blue) !important;}.has-ucla-gold-color{color: var(--wp--preset--color--ucla-gold) !important;}.has-darkest-blue-color{color: var(--wp--preset--color--darkest-blue) !important;}.has-darker-blue-color{color: var(--wp--preset--color--darker-blue) !important;}.has-lighter-blue-color{color: var(--wp--preset--color--lighter-blue) !important;}.has-lightest-blue-color{color: var(--wp--preset--color--lightest-blue) !important;}.has-darkest-gold-color{color: var(--wp--preset--color--darkest-gold) !important;}.has-darker-gold-color{color: var(--wp--preset--color--darker-gold) !important;}.has-gray-80-color{color: var(--wp--preset--color--gray-80) !important;}.has-gray-60-color{color: var(--wp--preset--color--gray-60) !important;}.has-gray-40-color{color: var(--wp--preset--color--gray-40) !important;}.has-gray-20-color{color: var(--wp--preset--color--gray-20) !important;}.has-gray-15-color{color: var(--wp--preset--color--gray-15) !important;}.has-gray-10-color{color: var(--wp--preset--color--gray-10) !important;}.has-gray-08-color{color: var(--wp--preset--color--gray-08) !important;}.has-gray-05-color{color: var(--wp--preset--color--gray-05) !important;}.has-gray-03-color{color: var(--wp--preset--color--gray-03) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-ucla-blue-background-color{background-color: var(--wp--preset--color--ucla-blue) !important;}.has-ucla-gold-background-color{background-color: var(--wp--preset--color--ucla-gold) !important;}.has-darkest-blue-background-color{background-color: var(--wp--preset--color--darkest-blue) !important;}.has-darker-blue-background-color{background-color: var(--wp--preset--color--darker-blue) !important;}.has-lighter-blue-background-color{background-color: var(--wp--preset--color--lighter-blue) !important;}.has-lightest-blue-background-color{background-color: var(--wp--preset--color--lightest-blue) !important;}.has-darkest-gold-background-color{background-color: var(--wp--preset--color--darkest-gold) !important;}.has-darker-gold-background-color{background-color: var(--wp--preset--color--darker-gold) !important;}.has-gray-80-background-color{background-color: var(--wp--preset--color--gray-80) !important;}.has-gray-60-background-color{background-color: var(--wp--preset--color--gray-60) !important;}.has-gray-40-background-color{background-color: var(--wp--preset--color--gray-40) !important;}.has-gray-20-background-color{background-color: var(--wp--preset--color--gray-20) !important;}.has-gray-15-background-color{background-color: var(--wp--preset--color--gray-15) !important;}.has-gray-10-background-color{background-color: var(--wp--preset--color--gray-10) !important;}.has-gray-08-background-color{background-color: var(--wp--preset--color--gray-08) !important;}.has-gray-05-background-color{background-color: var(--wp--preset--color--gray-05) !important;}.has-gray-03-background-color{background-color: var(--wp--preset--color--gray-03) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-ucla-blue-border-color{border-color: var(--wp--preset--color--ucla-blue) !important;}.has-ucla-gold-border-color{border-color: var(--wp--preset--color--ucla-gold) !important;}.has-darkest-blue-border-color{border-color: var(--wp--preset--color--darkest-blue) !important;}.has-darker-blue-border-color{border-color: var(--wp--preset--color--darker-blue) !important;}.has-lighter-blue-border-color{border-color: var(--wp--preset--color--lighter-blue) !important;}.has-lightest-blue-border-color{border-color: var(--wp--preset--color--lightest-blue) !important;}.has-darkest-gold-border-color{border-color: var(--wp--preset--color--darkest-gold) !important;}.has-darker-gold-border-color{border-color: var(--wp--preset--color--darker-gold) !important;}.has-gray-80-border-color{border-color: var(--wp--preset--color--gray-80) !important;}.has-gray-60-border-color{border-color: var(--wp--preset--color--gray-60) !important;}.has-gray-40-border-color{border-color: var(--wp--preset--color--gray-40) !important;}.has-gray-20-border-color{border-color: var(--wp--preset--color--gray-20) !important;}.has-gray-15-border-color{border-color: var(--wp--preset--color--gray-15) !important;}.has-gray-10-border-color{border-color: var(--wp--preset--color--gray-10) !important;}.has-gray-08-border-color{border-color: var(--wp--preset--color--gray-08) !important;}.has-gray-05-border-color{border-color: var(--wp--preset--color--gray-05) !important;}.has-gray-03-border-color{border-color: var(--wp--preset--color--gray-03) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-x-small-font-size{font-size: var(--wp--preset--font-size--x-small) !important;}.has-base-font-size{font-size: var(--wp--preset--font-size--base) !important;}.has-helvetica-font-family{font-family: var(--wp--preset--font-family--helvetica) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+.wp-block-button .wp-block-button__link{background-color: var(--wp--preset--color--ucla-blue);border-radius: 4px;border-color: transparent;border-width: 2px;border-style: solid;color: var(--wp--preset--color--white);font-weight: 700;padding-top: 0.625rem;padding-right: 0.875rem;padding-bottom: 0.625rem;padding-left: 0.875rem;}.is-style-outline.is-style-outline.wp-block-button .wp-block-button__link{border-color: #00598c;border-style: solid;color: #00598c;padding-top: 0.625rem;padding-right: 0.875rem;padding-bottom: 0.625rem;padding-left: 0.875rem;}
+.wp-block-separator{background-color: var(--wp--preset--color--gray-20);color: var(--wp--preset--color--gray-20);}
+ol,ul{padding-left: 1.5rem;}
+.wp-block-quote{border-left-color: #2774AE;border-left-width: var(--wp--preset--spacing--40);padding-left: 0px;}
+.wp-block-quote cite{font-size: var(--wp--preset--font-size--base);}
+.wp-block-code{background-color: rgba(83, 83, 99, 0.075);font-family: Courier, monospace;}
+</style>
+<link rel='stylesheet' id='ctct_form_styles-css' href='https://physicalsciences.ucla.edu/wp-content/plugins/constant-contact-forms/assets/css/style.css?ver=2.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ucla-wordpress-style-css' href='https://cdn.designsystem.brand.ucla.edu/build/v2.0.0/css/ucla-lib.min.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ucla-wordpress-template-style-css' href='https://physicalsciences.ucla.edu/wp-content/themes/ucla-wordpress/assets/css/page-templates.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ucla-wordpress-child-css' href='https://physicalsciences.ucla.edu/wp-content/themes/ucla-wordpress-child/css/ucla-ps.min.css' type='text/css' media='screen' />
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-CT1FB93WCV" id="google_gtagjs-js" async></script>
+<script type="text/javascript" id="google_gtagjs-js-after">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["physicalsciences.ucla.edu"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "G-CT1FB93WCV");
+/* ]]> */
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://physicalsciences.ucla.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://physicalsciences.ucla.edu/wp-json/wp/v2/pages/907" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://physicalsciences.ucla.edu/xmlrpc.php?rsd" />
+<meta name="generator" content="Site Kit by Google 1.119.0" />  <link rel="stylesheet" type="text/css" media="all" href="https://physicalsciences.ucla.edu/wp-content/themes/ucla-wordpress-child/style.css" />
+      <link rel="icon" type="image/png" sizes="32x32" href="https://physicalsciences.ucla.edu/wp-content/themes/ucla-wordpress/assets/images/favicon-32x32.png" />
+    <link rel="apple-touch-icon" href="https://physicalsciences.ucla.edu/wp-content/themes/ucla-wordpress/assets/images/apple-touch-icon.png" />
+    <link rel="manifest" href="https://physicalsciences.ucla.edu/wp-content/themes/ucla-wordpress/assets/manifest-ucla.json">
+    </head>
+
+<body class="home page-template page-template-page-front-page page-template-page-front-page-php page page-id-907 ctct-ucla-wordpress">
+  <a class="skip-nav__link" href="#main">Skip to Main Content</a>
+    <header class="ucla-header ucla-header--school">
+  <div class="ucla-header__container" id="header-wrap">
+  <a aria-label="UCLA Division of Physical Sciences homepage" class="ucla-header--school__logo-link" href="/">
+      
+      <svg class="ucla-ps-logo" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 300 44" >
+  <path fill="#2774ae" d="M0 0h92v45H0z"/>
+  <path fill="#fff" fill-rule="nonzero" d="M14.71 27.12a19.118 19.118 0 0 1 0-2.22l1-12h3.85l-1 12.1c-.23 2.62.78 4.48 3.34 4.48 2.56 0 4-1.9 4.24-4.22l1.03-12.37H31l-1 12.22c-.42 4.71-3.48 8.23-8.43 8.23-3.85 0-6.34-2.55-6.81-6.22m17.14-4.06c.51-5.76 4.32-10.53 10.89-10.53a8.872 8.872 0 0 1 5.06 1.49l-.44 4.76a5.645 5.645 0 0 0-5-2.37c-4.1 0-6.34 2.9-6.66 6.57-.32 3.67 1.49 6.48 5.46 6.48a7.294 7.294 0 0 0 5.49-2.47l-.4 4.9a11.003 11.003 0 0 1-5.37 1.5c-6.51 0-9.49-4.93-9-10.32m19-10.18h3.84l-1.41 16.3h7.51c0 .2-.35 3.77-.35 3.77H49.18l1.75-20.07Zm20 7.49c.119-.272.216-.553.29-.84h.06c.023.287.074.572.15.85.21.91 1.7 6 1.7 6h-4.85s2.6-5.85 2.65-6m1-8.39h-.27L61.14 32.89h4.08l1.48-3.18h7.4l.9 3.18h4.1L71.93 12Z"/>
+  <path fill-rule="nonzero" d="M102.808 4.814H99v9.968h3.808c3.248 0 4.998-1.946 4.998-4.984 0-3.038-1.75-4.984-4.998-4.984Zm-.028 8.344h-1.89v-6.72h1.89c1.932 0 3.066 1.148 3.066 3.36 0 2.212-1.134 3.36-3.066 3.36Zm6.16-6.538h1.736V4.968h-1.736V6.62Zm-.014 8.162h1.764V7.558h-1.764v7.224Zm8.008-7.224-.7 1.932c-.378 1.204-.77 2.478-1.134 3.696a282.718 282.718 0 0 0-1.134-3.682l-.7-1.946h-1.89l2.674 7.224h2.03l2.688-7.224h-1.834Zm2.534-.938h1.736V4.968h-1.736V6.62Zm-.014 8.162h1.764V7.558h-1.764v7.224Zm6.034.196c2.016 0 3.206-.812 3.206-2.268 0-1.246-.77-1.89-2.506-2.198l-.91-.14c-.784-.14-1.204-.35-1.204-.882 0-.518.406-.84 1.26-.84.91 0 1.484.266 1.526 1.19h1.666c-.056-1.484-.966-2.45-3.192-2.45-1.932 0-2.996.826-2.996 2.184 0 1.232.812 1.918 2.366 2.184l.826.14c1.092.182 1.414.434 1.414.952 0 .546-.406.868-1.428.868-1.05 0-1.512-.322-1.61-1.232h-1.722c.112 1.75 1.246 2.492 3.304 2.492Zm4.158-8.358h1.736V4.968h-1.736V6.62Zm-.014 8.162h1.764V7.558h-1.764v7.224Zm6.552.168c2.198 0 3.668-1.484 3.668-3.78s-1.47-3.78-3.668-3.78c-2.198 0-3.682 1.484-3.682 3.78s1.484 3.78 3.682 3.78Zm0-1.456c-1.148 0-1.876-.798-1.876-2.324 0-1.526.728-2.324 1.876-2.324 1.134 0 1.876.798 1.876 2.324 0 1.526-.742 2.324-1.876 2.324Zm8.736-6.104c-1.022 0-1.792.518-2.254 1.204V7.558h-1.708v7.224h1.764v-4.046c0-1.288.84-1.82 1.61-1.82.896 0 1.358.448 1.358 1.372v4.494h1.764V9.994c0-1.722-1.022-2.604-2.534-2.604Zm10.346 7.56c2.198 0 3.668-1.484 3.668-3.78s-1.47-3.78-3.668-3.78c-2.198 0-3.682 1.484-3.682 3.78s1.484 3.78 3.682 3.78Zm0-1.456c-1.148 0-1.876-.798-1.876-2.324 0-1.526.728-2.324 1.876-2.324 1.134 0 1.876.798 1.876 2.324 0 1.526-.742 2.324-1.876 2.324Zm7.742-7.322h.616V4.814a9.454 9.454 0 0 0-.91-.042c-1.736 0-2.366.966-2.366 2.24v.546h-1.12v1.344h1.12v5.88h1.75v-5.88h1.484V7.558h-1.484V7.04c0-.56.28-.868.91-.868Zm-56.232 13.581H99v17.088h4.056v-5.568h3.72c4.032 0 6.312-2.304 6.312-5.76s-2.28-5.76-6.312-5.76Zm-.264 8.088h-3.456v-4.656h3.456c1.56 0 2.52.816 2.52 2.328 0 1.536-.96 2.328-2.52 2.328Zm15.672-3.672c-1.728 0-2.976.816-3.792 1.92v-6.336h-3.744v17.088h3.744v-6.912c0-1.824 1.2-2.568 2.352-2.568 1.392 0 1.992.744 1.992 2.112v7.368h3.744v-8.112c0-3.072-1.848-4.56-4.296-4.56Zm14.112.288-.552 1.776c-.696 2.4-1.392 4.92-2.064 7.776-.672-2.832-1.392-5.376-2.112-7.8l-.552-1.752h-4.032l3.552 10.056c.288.816.576 1.704.576 2.4 0 .936-.48 1.728-1.872 1.728h-1.2v2.88c.384.024.744.048 1.464.048 3.672 0 5.088-1.128 6.168-4.248l4.488-12.864h-3.864Zm9.936 12.744c3.72 0 5.904-1.44 5.904-4.008 0-2.208-1.416-3.384-4.344-3.84l-1.848-.264c-1.2-.192-1.8-.504-1.8-1.248 0-.72.552-1.176 1.896-1.176 1.344 0 2.232.408 2.28 1.752h3.48c-.12-2.424-1.584-4.248-5.76-4.248-3.624 0-5.568 1.44-5.568 3.912 0 2.208 1.56 3.384 4.176 3.792l1.608.264c1.68.264 2.136.624 2.136 1.368 0 .744-.576 1.2-2.088 1.2-1.56 0-2.232-.456-2.376-1.8h-3.648c.216 3.072 2.16 4.296 5.952 4.296Zm7.368-14.16h3.576v-3.168H153.6v3.168Zm-.096 13.8h3.744V24.457h-3.744v12.384Zm11.784.288c3.432 0 5.856-1.968 6.12-5.16h-3.72c-.168 1.464-1.152 2.088-2.4 2.088-1.56 0-2.568-1.032-2.568-3.408s.984-3.432 2.568-3.432c1.2 0 2.112.576 2.328 1.896h3.72c-.336-3.048-2.64-4.944-6.048-4.944-3.888 0-6.36 2.544-6.36 6.48 0 3.936 2.496 6.48 6.36 6.48Zm19.632-.288c-.336-.48-.504-1.368-.504-2.28v-6.576c0-2.352-1.632-3.816-5.52-3.816-3.984 0-5.736 1.56-5.928 4.296h3.72c.12-1.272.72-1.632 2.184-1.632 1.488 0 1.896.504 1.896 1.248 0 .792-.552 1.104-1.608 1.224l-1.944.168c-3.576.312-4.848 1.728-4.848 3.864 0 2.472 1.92 3.792 4.512 3.792 1.824 0 3.168-.624 3.96-1.68.024.552.144 1.08.312 1.392h3.768Zm-6.912-2.232c-1.176 0-1.824-.552-1.824-1.416 0-.864.528-1.344 1.8-1.488l1.536-.168c.576-.072.984-.192 1.248-.48v.912c0 1.944-1.32 2.64-2.76 2.64Zm8.376-14.856h3.744v17.088h-3.744zm18.384 17.472c4.368 0 7.248-1.8 7.248-5.4 0-2.904-1.8-4.464-5.904-5.208l-1.44-.264c-2.112-.408-2.904-.888-2.904-2.088 0-1.08.84-1.728 2.616-1.728 2.28 0 3.12.816 3.216 2.4h3.84c-.144-3.504-2.472-5.568-7.128-5.568-4.464 0-6.672 2.16-6.672 5.064 0 3.096 2.112 4.728 5.712 5.352l1.392.264c2.352.432 3.072.888 3.072 2.04 0 1.272-.984 1.968-2.904 1.968-2.112 0-3.648-.504-3.696-2.832h-3.936c.024 3.696 2.616 6 7.488 6Zm15.048-.096c3.432 0 5.856-1.968 6.12-5.16h-3.72c-.168 1.464-1.152 2.088-2.4 2.088-1.56 0-2.568-1.032-2.568-3.408s.984-3.432 2.568-3.432c1.2 0 2.112.576 2.328 1.896h3.72c-.336-3.048-2.64-4.944-6.048-4.944-3.888 0-6.36 2.544-6.36 6.48 0 3.936 2.496 6.48 6.36 6.48Zm7.632-14.088h3.576v-3.168h-3.576v3.168Zm-.096 13.8h3.744V24.457h-3.744v12.384Zm18.192-5.832c0-4.176-2.52-6.84-6.384-6.84-3.864 0-6.384 2.568-6.384 6.48 0 3.936 2.592 6.48 6.432 6.48 2.976 0 5.376-1.536 6.048-4.152h-3.552c-.432.888-1.248 1.392-2.496 1.392-1.464 0-2.568-.84-2.832-2.616h9.168v-.744Zm-6.432-4.08c1.512 0 2.496.912 2.76 2.448H236.4c.288-1.728 1.344-2.448 2.712-2.448Zm15.72-2.76c-1.8 0-3.072.888-3.888 2.04v-1.752h-3.648v12.384h3.744v-6.912c0-1.824 1.2-2.568 2.352-2.568 1.392 0 1.992.744 1.992 2.112v7.368h3.744v-8.112c0-3.072-1.848-4.56-4.296-4.56Zm12.312 12.96c3.432 0 5.856-1.968 6.12-5.16h-3.72c-.168 1.464-1.152 2.088-2.4 2.088-1.56 0-2.568-1.032-2.568-3.408s.984-3.432 2.568-3.432c1.2 0 2.112.576 2.328 1.896h3.72c-.336-3.048-2.64-4.944-6.048-4.944-3.888 0-6.36 2.544-6.36 6.48 0 3.936 2.496 6.48 6.36 6.48Zm19.896-6.12c0-4.176-2.52-6.84-6.384-6.84-3.864 0-6.384 2.568-6.384 6.48 0 3.936 2.592 6.48 6.432 6.48 2.976 0 5.376-1.536 6.048-4.152H283.2c-.432.888-1.248 1.392-2.496 1.392-1.464 0-2.568-.84-2.832-2.616h9.168v-.744Zm-6.432-4.08c1.512 0 2.496.912 2.76 2.448h-5.472c.288-1.728 1.344-2.448 2.712-2.448Zm13.44 10.272c3.72 0 5.904-1.44 5.904-4.008 0-2.208-1.416-3.384-4.344-3.84l-1.848-.264c-1.2-.192-1.8-.504-1.8-1.248 0-.72.552-1.176 1.896-1.176 1.344 0 2.232.408 2.28 1.752h3.48c-.12-2.424-1.584-4.248-5.76-4.248-3.624 0-5.568 1.44-5.568 3.912 0 2.208 1.56 3.384 4.176 3.792l1.608.264c1.68.264 2.136.624 2.136 1.368 0 .744-.576 1.2-2.088 1.2-1.56 0-2.232-.456-2.376-1.8h-3.648c.216 3.072 2.16 4.296 5.952 4.296Z"/>
+</svg>
+      </a>
+    
+        <button id="primary-ham" class="hamburger" type="button" aria-controls="nav-main" aria-expanded="false" alt="navigation and search">
+      <span class="hamburger__box">
+        <span class="hamburger__inner"></span>
+      </span>
+    </button>
+    <nav aria-labelledby="primary-ham" id="nav-main" class="ucla-main-nav" aria-label="Main Menu">
+              <ul class="ucla-main-nav__list" role="menubar" data-menubar-item-expanded="true">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page ucla-main-nav__item menu-item-8724"><a title="						" href="https://physicalsciences.ucla.edu/about/" class="ucla-main-nav__link">ABOUT</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children ucla-main-nav__item--has-children ucla-main-nav__item menu-item-8725"><a title="						" href="https://physicalsciences.ucla.edu/academic-units/" class="ucla-main-nav__link">ACADEMICS</a><button class="ucla-main-nav__toggle" aria-expanded="false" aria-label="toggle"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="12 17.2 24 14.8"><title>Arrow Down</title><path class="down-arrow--blue" d="m14.8 17.2 9.2 9.2 9.2-9.2L36 20 24 32 12 20l2.8-2.8z"></path></svg></button>
+<ul class="ucla-main-nav__sublist"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page ucla-main-nav__item menu-item-9410"><a href="https://physicalsciences.ucla.edu/summer/" class="ucla-main-nav__link">SUMMER SESSIONS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page ucla-main-nav__item menu-item-8745"><a title="						" href="https://physicalsciences.ucla.edu/awards-and-fellowships/" class="ucla-main-nav__link">AWARDS AND FELLOWSHIPS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page ucla-main-nav__item menu-item-8749"><a title="						" href="https://physicalsciences.ucla.edu/student-organizations/" class="ucla-main-nav__link">STUDENT ORGANIZATIONS</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children ucla-main-nav__item--has-children ucla-main-nav__item menu-item-8730"><a title="						" href="https://physicalsciences.ucla.edu/news/" class="ucla-main-nav__link">NEWS</a><button class="ucla-main-nav__toggle" aria-expanded="false" aria-label="toggle"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="12 17.2 24 14.8"><title>Arrow Down</title><path class="down-arrow--blue" d="m14.8 17.2 9.2 9.2 9.2-9.2L36 20 24 32 12 20l2.8-2.8z"></path></svg></button>
+<ul class="ucla-main-nav__sublist"></li>
+	<li class="menu-item menu-item-type-post_type_archive menu-item-object-event ucla-main-nav__item menu-item-11403"><a href="https://physicalsciences.ucla.edu/events/" class="ucla-main-nav__link">EVENTS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page ucla-main-nav__item menu-item-8736"><a title="						" href="https://physicalsciences.ucla.edu/videos/" class="ucla-main-nav__link">VIDEOS</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children ucla-main-nav__item--has-children ucla-main-nav__item menu-item-5248"><a title="						" href="https://physicalsciences.ucla.edu/deans-office/" class="ucla-main-nav__link">PEOPLE</a><button class="ucla-main-nav__toggle" aria-expanded="false" aria-label="toggle"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="12 17.2 24 14.8"><title>Arrow Down</title><path class="down-arrow--blue" d="m14.8 17.2 9.2 9.2 9.2-9.2L36 20 24 32 12 20l2.8-2.8z"></path></svg></button>
+<ul class="ucla-main-nav__sublist"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page ucla-main-nav__item menu-item-8734"><a title="						" href="https://physicalsciences.ucla.edu/department-chairs/" class="ucla-main-nav__link">DEPARTMENT CHAIRS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page ucla-main-nav__item menu-item-8733"><a title="						" href="https://physicalsciences.ucla.edu/staff/" class="ucla-main-nav__link">DEVELOPMENT STAFF</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page ucla-main-nav__item menu-item-8732"><a title="						" href="https://physicalsciences.ucla.edu/board-of-advisors/" class="ucla-main-nav__link">BOARD OF ADVISORS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page ucla-main-nav__item menu-item-8731"><a title="						" href="https://physicalsciences.ucla.edu/contact/" class="ucla-main-nav__link">CONTACT US</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children ucla-main-nav__item--has-children ucla-main-nav__item menu-item-8729"><a title="						" href="https://physicalsciences.ucla.edu/giving/" class="ucla-main-nav__link">GIVING</a><button class="ucla-main-nav__toggle" aria-expanded="false" aria-label="toggle"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="12 17.2 24 14.8"><title>Arrow Down</title><path class="down-arrow--blue" d="m14.8 17.2 9.2 9.2 9.2-9.2L36 20 24 32 12 20l2.8-2.8z"></path></svg></button>
+<ul class="ucla-main-nav__sublist"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page ucla-main-nav__item menu-item-12212"><a href="https://physicalsciences.ucla.edu/giving/corporate-giving/" class="ucla-main-nav__link">Corporate Partnerships</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page ucla-main-nav__item menu-item-8750"><a title="						" href="https://physicalsciences.ucla.edu/diversity/" class="ucla-main-nav__link">DIVERSITY</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page ucla-main-nav__item menu-item-8726"><a title="						" href="https://physicalsciences.ucla.edu/engagement/" class="ucla-main-nav__link">ENGAGEMENT</a></li>
+        </ul>
+        
+            <div class="ucla-main-nav__search-desktop" id="primary-nav-search">
+        <button id="search-button" aria-expanded="false" class="ucla-main-nav__search-desktop-button">
+          <svg role="img" aria-label="Search Icon" class="ucla-main-nav__search-icon" width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <title>Search Icon</title>
+            <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+              <g transform="translate(-15.000000, -15.000000)">
+                <g id="Nav-Item">
+                  <g transform="translate(12.000000, 12.000000)">
+                    <polygon class="Path-polygon" points="0 0 24 0 24 24 0 24"></polygon>
+                    <path d="M15.5,14 L14.71,14 L14.43,13.73 C15.41,12.59 16,11.11 16,9.5 C16,5.91 13.09,3 9.5,3 C5.91,3 3,5.91 3,9.5 C3,13.09 5.91,16 9.5,16 C11.11,16 12.59,15.41 13.73,14.43 L14,14.71 L14,15.5 L19,20.49 L20.49,19 L15.5,14 Z M9.5,14 C7.01,14 5,11.99 5,9.5 C5,7.01 7.01,5 9.5,5 C11.99,5 14,7.01 14,9.5 C14,11.99 11.99,14 9.5,14 Z" fill="#00598C" fill-rule="evenodd"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </svg>
+          <svg class="ucla-main-nav__search-close" xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" xml:space="preserve" viewBox="10 10 28 28">
+            <title>Close</title>
+            <path d="M38 12.8 35.2 10 24 21.2 12.8 10 10 12.8 21.2 24 10 35.2l2.8 2.8L24 26.8 35.2 38l2.8-2.8L26.8 24 38 12.8z" fill="#ffffff" fill-rule="evenodd"></path>
+          </svg>
+        </button>
+        <div class="ucla-main-nav__search-block-form" id="block-search" role="search">
+          <form role="search" method="get" class="ucla-main-nav__search-form" action="https://physicalsciences.ucla.edu/" id="menu-search-desktop">
+  <label>
+    <span class="ucla-main-nav__screen-reader-text visuallyhidden">Search for:</span>
+    <input type="search" class="ucla-main-nav__search-field" placeholder="Search …" value="" name="s">
+  </label>
+  <input type="submit" class="ucla-main-nav__search-submit" value="Search">
+</form>        </div>
+      </div>
+    </nav>
+  </div>
+</header><main id="main" role="main">
+<h1 class="visuallyhidden">Home</h1>
+<div class="acf-blocks-container">
+        <div class="c-featured-stories"> 
+      <div class="h-feed" data-layout="--c-gateway">
+            <article class="h-entry" id="post-12097">
+      
+        <figure>
+        <a class="link u-url" href='https://physicalsciences.ucla.edu/biologys-lost-children/' rel="bookmark">
+            <img src="https://physicalsciences.ucla.edu/wp-content/uploads/2024/01/Biologys-Lost-Children-800x401.png" class="u-photo c-post-img wp-post-image" alt="Electron microscope view of a virus" decoding="async" fetchpriority="high" srcset="https://physicalsciences.ucla.edu/wp-content/uploads/2024/01/Biologys-Lost-Children-800x401.png 800w, https://physicalsciences.ucla.edu/wp-content/uploads/2024/01/Biologys-Lost-Children-1350x677.png 1350w, https://physicalsciences.ucla.edu/wp-content/uploads/2024/01/Biologys-Lost-Children-768x385.png 768w, https://physicalsciences.ucla.edu/wp-content/uploads/2024/01/Biologys-Lost-Children-1536x770.png 1536w, https://physicalsciences.ucla.edu/wp-content/uploads/2024/01/Biologys-Lost-Children.png 1624w" sizes="(max-width: 800px) 100vw, 800px" />           </a>
+        </figure>
+        <div>
+          <h2 class="p-name h3"><a class="link u-url" href='https://physicalsciences.ucla.edu/biologys-lost-children/' rel="bookmark">Biology&#8217;s Lost Children</a></h2>
+          <p class="p-summary">What are viruses, really? And where did they come from? UCLA's Chemistry and Biochemistry department is pushing the boundaries of virology, and helping to answer that question once and for all.</p>
+          <time class="dt-published"
+            datetime="2024-1-25">January 25, 2024</time>
+        </div>
+      </a>
+      </article>
+
+            <article class="h-entry" id="post-12312">
+      
+        <figure>
+        <a class="link u-url" href='https://newsroom.ucla.edu/releases/magnetic-ripple-interaction-step-toward-ultrafast-computers?preview=5002' rel="bookmark">
+            <img src="https://physicalsciences.ucla.edu/wp-content/uploads/2024/02/IMG_0354-800x533.jpeg" class="u-photo c-post-img wp-post-image" alt="An artists rendition of the crystal structure of the yttrium alloy" decoding="async" srcset="https://physicalsciences.ucla.edu/wp-content/uploads/2024/02/IMG_0354-800x533.jpeg 800w, https://physicalsciences.ucla.edu/wp-content/uploads/2024/02/IMG_0354-300x200.jpeg 300w, https://physicalsciences.ucla.edu/wp-content/uploads/2024/02/IMG_0354-768x511.jpeg 768w, https://physicalsciences.ucla.edu/wp-content/uploads/2024/02/IMG_0354.jpeg 1170w" sizes="(max-width: 800px) 100vw, 800px" />           </a>
+        </figure>
+        <div>
+          <h2 class="p-name h3"><a class="link u-url" href='https://newsroom.ucla.edu/releases/magnetic-ripple-interaction-step-toward-ultrafast-computers?preview=5002' rel="bookmark">A major step toward ultrafast magnetism-based computers</a></h2>
+          <p class="p-summary">The achievement could be a step toward computer memory using ultrafast phenomena that happen on the order of billionths of a second.</p>
+          <time class="dt-published"
+            datetime="2024-2-16">February 16, 2024</time>
+        </div>
+      </a>
+      </article>
+
+            <article class="h-entry" id="post-12252">
+      
+        <figure>
+        <a class="link u-url" href='https://www.nasonline.org/programs/awards/2024-awards/Young.html' rel="bookmark">
+            <img src="https://physicalsciences.ucla.edu/wp-content/uploads/2024/01/IMG_0342-666x533.jpeg" class="u-photo c-post-img wp-post-image" alt="A picture of profess Edward Young of UCLA’s Earth, Planetary and Space Sciences department." decoding="async" srcset="https://physicalsciences.ucla.edu/wp-content/uploads/2024/01/IMG_0342-666x533.jpeg 666w, https://physicalsciences.ucla.edu/wp-content/uploads/2024/01/IMG_0342-768x614.jpeg 768w, https://physicalsciences.ucla.edu/wp-content/uploads/2024/01/IMG_0342.jpeg 1080w" sizes="(max-width: 666px) 100vw, 666px" />           </a>
+        </figure>
+        <div>
+          <h2 class="p-name h3"><a class="link u-url" href='https://www.nasonline.org/programs/awards/2024-awards/Young.html' rel="bookmark">Edward Young Wins 2024 J. Lawrence Smith Medal</a></h2>
+          <p class="p-summary">Young has deepened our understanding of the history of the solar system and its place in the galaxy through his extensive contributions to both experimental and theoretical meteoritics and solar system research.</p>
+          <time class="dt-published"
+            datetime="2024-1-23">January 23, 2024</time>
+        </div>
+      </a>
+      </article>
+
+            </div>
+      </div>
+    
+      
+  
+
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+    
+
+
+
+  
+  
+
+
+ 
+
+
+
+  
+
+  
+
+
+
+  
+  
+
+  
+
+
+
+  
+
+
+
+
+    
+  
+
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+    
+
+
+
+  
+  
+
+
+ 
+
+
+
+  
+
+  
+
+
+
+  
+  
+
+    <div class="c-oembed-block">
+
+        <h2 class="c-title-name">Watch Governor Newsom and U.C. System and Business Leaders' Major Science and Technology Announcement</h2>
+            <p>Governor Newsom joined University of California President Michael Drake, UCLA Chancellor Gene Block, representatives of Google, elected officials, and academic, business, and health care leaders to make a significant announcement advancing California’s role as the world’s leader in science and technology.</p>
+        
+    
+    				
+				<div class="c-oembed-list">
+											<figure>
+							            						  <iframe title="Governor Newsom, U.C. System, and Business Leaders Make Major Science and Technology Announcement" src="https://www.youtube.com/embed/BKl5Nz3CqM0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                          
+					</figure>
+									</div>
+
+					
+  </div>
+  
+
+
+
+  
+
+
+
+
+    
+  
+
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+    <div class="c-events">
+            <div class="h-feed">
+        <article class="h-entry" id="post-11305">
+
+      <figure>
+        
+                    <img src="https://physicalsciences.ucla.edu/wp-content/uploads/2023/08/selfie-800x450.jpg" class="c-event-img wp-post-image" alt="Selfie of students at welcome event" decoding="async" loading="lazy" srcset="https://physicalsciences.ucla.edu/wp-content/uploads/2023/08/selfie-800x450.jpg 800w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/08/selfie-1350x759.jpg 1350w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/08/selfie-1536x864.jpg 1536w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/08/selfie-498x280.jpg 498w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/08/selfie.jpg 1832w" sizes="(max-width: 800px) 100vw, 800px" />
+      </figure>
+      <h2 class="p-name h3"><a href="https://physicalsciences.ucla.edu/event/2023-physical-science-new-student-welcome/"
+          rel="bookmark">2023 Physical Science New Student Welcome</a></h2>
+
+            <p class="p-summary">
+        How to Thrive in the Sciences at UCLA and Beyond</p>
+      
+      <div class="e-content">
+                <time class="event-date-start"
+          datetime="2023-09-29">September 29, 2023</time>
+                
+         
+				  <time class="event-time-start" datetime="13:00">1:00 pm</time>
+			        - <time class="event-time-end"
+          datetime="17:00">5:00 pm</time>
+              			  <p class="event-venue">De Neve Auditorium &amp; Adjacent Courtyard</p>
+			      </div>
+    </article>
+        <article class="h-entry" id="post-11664">
+
+      <figure>
+        
+                    <img src="https://physicalsciences.ucla.edu/wp-content/uploads/2023/09/Earth-e1695827822578-800x460.jpg" class="c-event-img wp-post-image" alt="An artists image of the earth from space." decoding="async" loading="lazy" srcset="https://physicalsciences.ucla.edu/wp-content/uploads/2023/09/Earth-e1695827822578-800x460.jpg 800w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/09/Earth-e1695827822578-487x280.jpg 487w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/09/Earth-e1695827822578-768x442.jpg 768w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/09/Earth-e1695827822578.jpg 1148w" sizes="(max-width: 800px) 100vw, 800px" />
+      </figure>
+      <h2 class="p-name h3"><a href="https://physicalsciences.ucla.edu/event/atmospheric-and-oceanic-sciences-new-student-orientation/"
+          rel="bookmark">Atmospheric and Oceanic Sciences New Student Orientation</a></h2>
+
+            <p class="p-summary">
+        Come find out why students love the AOS department!</p>
+      
+      <div class="e-content">
+                <time class="event-date-start"
+          datetime="2023-10-05">October 5, 2023</time>
+                
+         
+				  <time class="event-time-start" datetime="16:30">4:30 pm</time>
+			        - <time class="event-time-end"
+          datetime="18:00">6:00 pm</time>
+                    </div>
+    </article>
+        </div>
+  </div>
+  
+  
+
+
+    
+
+
+
+  
+  
+
+
+ 
+
+
+
+  
+
+  
+
+
+
+  
+  
+
+  
+
+
+
+  
+
+
+
+
+    
+  
+
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+<div class="c-section">  
+          </div>
+
+
+
+  
+  
+  
+
+
+    
+
+
+
+  
+  
+
+
+ 
+
+
+
+  
+
+  
+
+
+
+  
+  
+
+  
+
+
+
+  
+
+
+
+
+        <div class="c-featured-stories"> 
+      <div class="h-feed" data-layout="--c-newsroom">
+            <article class="h-entry" id="post-11728">
+      
+        <figure>
+        <a class="link u-url" href='https://newsroom.ucla.edu/releases/ucla-geographer-park-williams-receives-macarthur-fellowship?preview=86e0' rel="bookmark">
+            <img src="https://physicalsciences.ucla.edu/wp-content/uploads/2023/10/Park-Williams-800x533.jpg" class="u-photo c-post-img wp-post-image" alt="Park Williams" decoding="async" loading="lazy" srcset="https://physicalsciences.ucla.edu/wp-content/uploads/2023/10/Park-Williams-800x533.jpg 800w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/10/Park-Williams-300x200.jpg 300w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/10/Park-Williams-768x512.jpg 768w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/10/Park-Williams.jpg 1152w" sizes="(max-width: 800px) 100vw, 800px" />           </a>
+        </figure>
+        <div>
+          <h2 class="p-name h3"><a class="link u-url" href='https://newsroom.ucla.edu/releases/ucla-geographer-park-williams-receives-macarthur-fellowship?preview=86e0' rel="bookmark">Professor Park Williams Awarded MacArthur Fellowship</a></h2>
+          <p class="p-summary"></p>
+          <time class="dt-published"
+            datetime="2023-10-4">October 4, 2023</time>
+        </div>
+      </a>
+      </article>
+
+            <article class="h-entry" id="post-11195">
+      
+        <figure>
+        <a class="link u-url" href='https://physicalsciences.ucla.edu/david-leibrandt-wins-moore-foundation-award-to-push-the-boundaries-of-particle-physics/' rel="bookmark">
+            <img src="https://physicalsciences.ucla.edu/wp-content/uploads/2023/08/Award12252-PI_Lastname-headshot-800x533.jpeg" class="u-photo c-post-img wp-post-image" alt="David Leibrandt" decoding="async" loading="lazy" srcset="https://physicalsciences.ucla.edu/wp-content/uploads/2023/08/Award12252-PI_Lastname-headshot-800x533.jpeg 800w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/08/Award12252-PI_Lastname-headshot-1350x900.jpeg 1350w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/08/Award12252-PI_Lastname-headshot-300x200.jpeg 300w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/08/Award12252-PI_Lastname-headshot-1536x1025.jpeg 1536w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/08/Award12252-PI_Lastname-headshot-420x280.jpeg 420w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/08/Award12252-PI_Lastname-headshot.jpeg 1941w" sizes="(max-width: 800px) 100vw, 800px" />           </a>
+        </figure>
+        <div>
+          <h2 class="p-name h3"><a class="link u-url" href='https://physicalsciences.ucla.edu/david-leibrandt-wins-moore-foundation-award-to-push-the-boundaries-of-particle-physics/' rel="bookmark">David Leibrandt Wins Moore Foundation Award to Push the Boundaries of Particle Physics</a></h2>
+          <p class="p-summary">The work supports UCLA’s ongoing leadership in Quantum Science and Technology</p>
+          <time class="dt-published"
+            datetime="2023-8-22">August 22, 2023</time>
+        </div>
+      </a>
+      </article>
+
+            <article class="h-entry" id="post-10774">
+      
+        <figure>
+        <a class="link u-url" href='https://physicalsciences.ucla.edu/the-next-trillion-dollar-industry/' rel="bookmark">
+            <img src="https://physicalsciences.ucla.edu/wp-content/uploads/2023/05/21DD71FD-2094-4D05-BF49-57922B64F502-674x533.jpeg" class="u-photo c-post-img wp-post-image" alt=" " decoding="async" loading="lazy" srcset="https://physicalsciences.ucla.edu/wp-content/uploads/2023/05/21DD71FD-2094-4D05-BF49-57922B64F502-674x533.jpeg 674w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/05/21DD71FD-2094-4D05-BF49-57922B64F502-1138x900.jpeg 1138w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/05/21DD71FD-2094-4D05-BF49-57922B64F502-1536x1215.jpeg 1536w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/05/21DD71FD-2094-4D05-BF49-57922B64F502-2048x1619.jpeg 2048w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/05/21DD71FD-2094-4D05-BF49-57922B64F502-354x280.jpeg 354w" sizes="(max-width: 674px) 100vw, 674px" />           </a>
+        </figure>
+        <div>
+          <h2 class="p-name h3"><a class="link u-url" href='https://physicalsciences.ucla.edu/the-next-trillion-dollar-industry/' rel="bookmark">The Next Trillion Dollar Industry</a></h2>
+          <p class="p-summary">As space exploration, science, and technology advances at an ever-faster rate, an entirely new economy, the space economy, has sprung up. In fact, by 2040 the space economy is projected to be the next trillion dollar industry. With that realization in mind, the UCLA Anderson Forecast, UCLA SPACE Institute, and the UCLA Division of Physical [&hellip;]</p>
+          <time class="dt-published"
+            datetime="2023-5-18">May 18, 2023</time>
+        </div>
+      </a>
+      </article>
+
+            <article class="h-entry" id="post-10068">
+      
+        <figure>
+        <a class="link u-url" href='https://physicalsciences.ucla.edu/three-generations-of-bruins/' rel="bookmark">
+            <img src="https://physicalsciences.ucla.edu/wp-content/uploads/2023/04/megan-li-3x2-1-800x533.jpg" class="u-photo c-post-img wp-post-image" alt="Photo of Megan Grace Li with family" decoding="async" loading="lazy" srcset="https://physicalsciences.ucla.edu/wp-content/uploads/2023/04/megan-li-3x2-1-800x533.jpg 800w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/04/megan-li-3x2-1-300x200.jpg 300w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/04/megan-li-3x2-1-420x280.jpg 420w, https://physicalsciences.ucla.edu/wp-content/uploads/2023/04/megan-li-3x2-1.jpg 1200w" sizes="(max-width: 800px) 100vw, 800px" />           </a>
+        </figure>
+        <div>
+          <h2 class="p-name h3"><a class="link u-url" href='https://physicalsciences.ucla.edu/three-generations-of-bruins/' rel="bookmark">Growing My Own Roots</a></h2>
+          <p class="p-summary">How this 3rd-generation Bruin Found a New Home at UCLA</p>
+          <time class="dt-published"
+            datetime="2023-4-27">April 27, 2023</time>
+        </div>
+      </a>
+      </article>
+
+            </div>
+      </div>
+    
+      
+  
+
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+    
+
+
+
+  
+  
+
+
+ 
+
+
+
+  
+
+  
+
+
+
+  
+  
+
+  
+
+
+
+  
+
+
+
+
+    
+  
+
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+    
+
+
+
+  
+  
+
+
+ 
+
+
+
+  
+
+  
+
+
+
+  
+  
+
+    <div class="c-oembed-block">
+
+            
+    
+    				
+				<div class="c-oembed-list">
+											<figure>
+							            						  <iframe title="The Climate Science degree at UCLA" src="https://www.youtube.com/embed/dOVxBt7u1co?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                          
+					</figure>
+											<figure>
+							            						  <iframe title="The Data Theory major at UCLA – the first of its kind in the world." src="https://www.youtube.com/embed/AvW-YjKaaaE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                          
+					</figure>
+									</div>
+
+					
+  </div>
+  
+
+
+
+  
+
+
+
+
+    
+  
+
+
+
+  <section class="c-section-block"><h2>We are the explorers, the pioneers, the doers. We ask, what if?      Come join the curious.</h2><div class="c-section-desc"><p>We invite you to explore the physical sciences at UCLA and discover for yourself what makes our departments some of the highest-ranked in the world.</p>
+<div data-form-id="11184" id="ctct-form-wrapper-0" class="ctct-form-wrapper"><span class="ctct-form-description" ><h3>Join our mailing list</h3>
+</span><form class="ctct-form ctct-form-11184 no-recaptcha" id="ctct-form-1086379344" data-doajax="off" style="" action="" method="post"><p class="ctct-form-field ctct-form-field-email ctct-form-field-required"><span class="ctct-label-top"><label for="email___e74d7bbb769720d54a02c0dd58f1f20b_0_352048894">Email: <abbr title="required">*</abbr></label></span><input required type="email" name="email___e74d7bbb769720d54a02c0dd58f1f20b"  value=""  placeholder="" class="ctct-email ctct-label-top email___e74d7bbb769720d54a02c0dd58f1f20b" id="email___e74d7bbb769720d54a02c0dd58f1f20b_0_352048894"  /></p><div class='ctct-list-selector' style='display:none;'><div class="ctct-form-field ctct-form-field-checkbox ctct-form-field-required"><fieldset><legend class="ctct-label-top">Select list(s) to subscribe to</legend><input type="checkbox" name="lists___d8714d935d68ec2a22794dd39be37d14[]" id="lists___d8714d935d68ec2a22794dd39be37d14_0_0" value="b235fe0a-1604-11ee-b22e-fa163ef3b06c" class="ctct-checkbox ctct-label-right" checked /><span class="ctct-label-right"><label for="lists___d8714d935d68ec2a22794dd39be37d14_0_0">Division of Physical Sciences</label></span></fieldset></div></div><div class="ctct-optin-hide" style="display:none;"><p class="ctct-form-field ctct-form-field-checkbox"><span class="ctct-input-container"><input type="checkbox" checked name="ctct-opt-in" class="ctct-checkbox ctct-opt-in" value="1" id="ctct-opt-in_0" /><label for="ctct-opt-in_0"> Example: Yes, I would like to receive emails from Physical Sciences. (You can unsubscribe anytime)</label></span></p></div><!--.ctct-optin-hide --><p class="ctct-form-field ctct-form-field-submit"><input  type="submit" name="ctct-submitted"  value="Subscribe"   class="ctct-submit ctct-label-top ctct-submitted" id="ctct-submitted_0_2597263540"  /></p><div class="ctct_usage"style="border: 0 none; clip: rect( 0, 0, 0, 0 ); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px;"><label for="ctct_usage_field">Constant Contact Use. Please leave this field blank.</label><input type="text" value="" id="ctct_usage_field" name="ctct_usage_field" class="ctct_usage_field" tabindex="-1" /></div><input type="hidden" name="ctct-id" value="11184" /><input type="hidden" name="ctct-verify" value="Aq8L1w56o8gcEGcvTJVKevLEm" /><input type="hidden" name="ctct-instance" value="0" /><input type="hidden" name="ctct_time" value="1708448975" /></form><div class="ctct-disclosure"><hr><small>By submitting this form, you are consenting to receive marketing emails from: Physical Sciences. You can revoke your consent to receive emails at any time by using the SafeUnsubscribe&reg; link, found at the bottom of every email. <a href="https://www.constantcontact.com/legal/service-provider" target="_blank" rel="noopener noreferrer">Emails are serviced by Constant Contact</a></small></div><script type="text/javascript">var ajaxurl = "https://physicalsciences.ucla.edu/wp-admin/admin-ajax.php";</script></div>
+</div></section>
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+    
+
+
+
+  
+  
+
+
+ 
+
+
+
+  
+
+  
+
+
+
+  
+  
+
+  
+
+
+
+  
+
+
+
+
+    
+  
+
+
+
+  <section class="c-section-block"><p class="h4 c-section-block-heading">Giving to UCLA Physical Sciences</p><div class="c-section-desc"><p>We are the engine for real-world advances in the physical sciences that positively affect our lives in so many ways. Our research at UCLA serves as the basis for discovery and innovation, stimulating our state, national, and global economy in the process. Our world-class reputation for excellence in teaching and research is bolstered by collaboration all across campus among researchers in the life sciences, medicine, and engineering.</p>
+<p>Your gift, regardless of its size, will have an impact, so we hope you will consider investing in the faculty, students, and research of the UCLA Physical Sciences.</p>
+</div><ul class="ucla-ps-c-list">    <li><a class="ucla-btn ucla-btn--primary" href="https://physicalsciences.ucla.edu/giving/">Make an impact</a></li>
+  </ul></section>
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+    
+
+
+
+  
+  
+
+
+ 
+
+
+
+  
+
+  
+
+
+
+  
+  
+
+  
+
+
+
+  
+
+
+
+
+  </div>
+  <section class="entry-content home post-907 page type-page status-publish hentry" id="post-907">
+  	
+
+
+  <h1 class="visuallyhidden">Home</h1>  </section><!-- .post --></main> 
+<footer>
+  <div class="ucla-dept-footer">
+    <div class="ucla-dept-footer__container">
+      <img class="ucla-dept-footer__logo" src="https://www.ucla.edu/img/logo-ucla.svg" alt="UCLA Logo" />
+      <div class="ucla-dept-footer__body">
+        <div class="ucla-dept-footer__info">
+                            </div>
+        <!-- Start Dept Footer Navigation -->
+                <!-- End Dept Footer Navigation -->
+      </div>
+    </div>
+  </div>
+</footer><div class="ucla-global-footer">
+  <div class="ucla-global-footer__container">
+    <p class="ucla-global-footer__copyright">&copy; 2024 Regents of the
+      <a class="copy__link-a dark" href="http://www.universityofcalifornia.edu/">University of California</a>
+    </p>
+
+    <ul class="ucla-global-footer__list">
+      <li class="ucla-global-footer__list-item"><a class="ucla-global-footer__link" href="https://www.bso.ucla.edu/">Emergency</a></li>
+      <li class="ucla-global-footer__list-item"><a class="ucla-global-footer__link" href="/accessibility">Accessibility</a></li>
+      <li class="ucla-global-footer__list-item"><a class="ucla-global-footer__link" href="https://ucla-gme-advocate.symplicity.com/public_report/index.php/pid855869">Report Misconduct</a></li>
+      <li class="ucla-global-footer__list-item"><a class="ucla-global-footer__link" href="/terms-of-use/">Privacy &amp; Terms of Use</a></li>
+    </ul>
+
+    <ul class="ucla-social">
+              <li class="ucla-social__item">
+          <a href="https://www.facebook.com/UCLA/" class="ucla-social__link">
+            <span class="visuallyhidden">Facebook</span>
+            <svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M20 10.0611C20 4.50451 15.5229 0 10 0C4.47715 0 0 4.50451 0 10.0611C0 15.0828 3.65684 19.2452 8.4375 20V12.9694H5.89844V10.0611H8.4375V7.84452C8.4375 5.32296 9.93047 3.93012 12.2146 3.93012C13.3088 3.93012 14.4531 4.12663 14.4531 4.12663V6.60261H13.1922C11.95 6.60261 11.5625 7.37822 11.5625 8.17387V10.0611H14.3359L13.8926 12.9694H11.5625V20C16.3432 19.2452 20 15.083 20 10.0611Z" /></svg>          </a>
+        </li>
+              <li class="ucla-social__item">
+          <a href="https://twitter.com/ucla" class="ucla-social__link">
+            <span class="visuallyhidden">Twitter</span>
+            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path
+    d="M13.7124 10.6218L20.4133 3H18.8254L13.0071 9.61788L8.35992 3H3L10.0274 13.0074L3 21H4.58799L10.7324 14.0113L15.6401 21H21L13.7121 10.6218H13.7124ZM11.5375 13.0956L10.8255 12.0991L5.16017 4.16971H7.59922L12.1712 10.5689L12.8832 11.5655L18.8262 19.8835H16.3871L11.5375 13.096V13.0956Z"/></svg>          </a>
+        </li>
+              <li class="ucla-social__item">
+          <a href="https://www.instagram.com/ucla/" class="ucla-social__link">
+            <span class="visuallyhidden">Instagram</span>
+            <svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.85848 0.0699389C4.79447 0.120139 4.06786 0.289939 3.43265 0.53954C2.77524 0.795741 2.21804 1.13954 1.66363 1.69594C1.10923 2.25235 0.767824 2.80995 0.513421 3.46835C0.267218 4.10495 0.100416 4.83215 0.0534157 5.89676C0.00641507 6.96136 -0.0039851 7.30356 0.00121448 10.0192C0.00641405 12.7348 0.0184141 13.0752 0.0700145 14.142C0.120815 15.2058 0.290016 15.9322 0.539619 16.5676C0.796221 17.225 1.13962 17.782 1.69623 18.3366C2.25284 18.8912 2.81004 19.2318 3.47005 19.4866C4.10605 19.7324 4.83346 19.9 5.89787 19.9466C6.96228 19.9932 7.30489 20.004 10.0197 19.9988C12.7345 19.9936 13.0763 19.9816 14.143 19.931C15.2096 19.8804 15.9322 19.71 16.5678 19.4616C17.2252 19.2044 17.7826 18.8616 18.3368 18.3048C18.891 17.748 19.2322 17.19 19.4864 16.5312C19.7328 15.8952 19.9002 15.1678 19.9464 14.1042C19.993 13.0368 20.004 12.696 19.9988 9.98078C19.9936 7.26557 19.9814 6.92517 19.9308 5.85876C19.8802 4.79236 19.7108 4.06816 19.4614 3.43235C19.2044 2.77495 18.8614 2.21835 18.305 1.66335C17.7486 1.10834 17.1902 0.767343 16.5316 0.513742C15.8952 0.267541 15.1682 0.0997406 14.1038 0.0537403C13.0393 0.00773992 12.6967 -0.00406018 9.98092 0.00113936C7.26509 0.0063389 6.92509 0.0179389 5.85848 0.0699389ZM5.97527 18.1476C5.00026 18.1052 4.47086 17.9432 4.11805 17.8076C3.65085 17.6276 3.31805 17.41 2.96644 17.0618C2.61484 16.7136 2.39884 16.3796 2.21644 15.9134C2.07943 15.5606 1.91443 15.0318 1.86883 14.0568C1.81923 13.003 1.80883 12.6866 1.80303 10.0168C1.79723 7.34696 1.80743 7.03096 1.85363 5.97676C1.89523 5.00256 2.05824 4.47255 2.19364 4.11995C2.37364 3.65215 2.59044 3.31995 2.93945 2.96855C3.28845 2.61715 3.62145 2.40075 4.08806 2.21835C4.44046 2.08075 4.96927 1.91715 5.94388 1.87075C6.99849 1.82075 7.31449 1.81075 9.98392 1.80495C12.6533 1.79915 12.9701 1.80915 14.0252 1.85555C14.9994 1.89795 15.5296 2.05935 15.8818 2.19555C16.3492 2.37555 16.6818 2.59175 17.0332 2.94135C17.3846 3.29095 17.6012 3.62275 17.7836 4.09036C17.9214 4.44176 18.085 4.97036 18.131 5.94556C18.1812 7.00017 18.1926 7.31637 18.1974 9.98558C18.2022 12.6548 18.1928 12.9718 18.1466 14.0256C18.104 15.0006 17.9424 15.5302 17.8066 15.8834C17.6266 16.3504 17.4096 16.6834 17.0604 17.0346C16.7112 17.3858 16.3786 17.6022 15.9118 17.7846C15.5598 17.922 15.0304 18.086 14.0566 18.1324C13.0019 18.182 12.6859 18.1924 10.0155 18.1982C7.34509 18.204 7.03008 18.1932 5.97547 18.1476M14.1276 4.65536C14.128 4.89271 14.1987 5.12462 14.3309 5.32175C14.4631 5.51887 14.6508 5.67237 14.8703 5.76282C15.0897 5.85326 15.3311 5.8766 15.5638 5.82988C15.7965 5.78316 16.0101 5.66847 16.1777 5.50033C16.3452 5.33219 16.4591 5.11814 16.505 4.88526C16.5508 4.65238 16.5266 4.41112 16.4354 4.19201C16.3441 3.9729 16.1899 3.78577 15.9923 3.65428C15.7947 3.5228 15.5625 3.45288 15.3252 3.45335C15.007 3.45399 14.7021 3.58097 14.4775 3.80638C14.2529 4.03179 14.127 4.33716 14.1276 4.65536ZM4.86546 10.01C4.87106 12.846 7.17429 15.1398 10.0097 15.1344C12.8451 15.129 15.1406 12.826 15.1352 9.98998C15.1298 7.15397 12.8259 4.85956 9.99012 4.86516C7.15429 4.87076 4.86006 7.17436 4.86546 10.01ZM6.66668 10.0064C6.66538 9.34709 6.85961 8.70222 7.2248 8.15332C7.59 7.60442 8.10976 7.17614 8.71837 6.92264C9.32697 6.66914 9.99708 6.6018 10.644 6.72914C11.2908 6.85648 11.8854 7.17278 12.3525 7.63804C12.8196 8.1033 13.1383 8.69663 13.2682 9.34299C13.3981 9.98935 13.3334 10.6597 13.0823 11.2693C12.8312 11.8789 12.405 12.4004 11.8576 12.7677C11.3101 13.1351 10.666 13.3319 10.0067 13.3332C9.56895 13.3341 9.13529 13.2488 8.7305 13.0821C8.32571 12.9154 7.95773 12.6706 7.64757 12.3616C7.33741 12.0527 7.09114 11.6857 6.92284 11.2816C6.75454 10.8775 6.6675 10.4441 6.66668 10.0064Z" /></svg>          </a>
+        </li>
+              <li class="ucla-social__item">
+          <a href="https://www.linkedin.com/company/ucla" class="ucla-social__link">
+            <span class="visuallyhidden">LinkedIn</span>
+            <svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M18.5236 3.23877e-06L1.47639 2.5814e-07C0.661111 1.15592e-07 -1.15592e-07 0.661111 -2.5814e-07 1.47639L-3.23877e-06 18.5236C-3.38132e-06 19.3389 0.661108 20 1.47639 20L18.5236 20C19.3389 20 20 19.3389 20 18.5236L20 1.47639C20 0.661115 19.3389 3.38132e-06 18.5236 3.23877e-06ZM5.96111 17.0389L2.95416 17.0389L2.95417 7.48611L5.96111 7.48611L5.96111 17.0389ZM4.45833 6.16389C3.50139 6.16389 2.725 5.43472 2.725 4.4375C2.725 3.44028 3.50139 2.71111 4.45833 2.71111C5.41528 2.71111 6.19167 3.44028 6.19167 4.4375C6.19167 5.43472 5.41528 6.16389 4.45833 6.16389ZM17.0458 17.0458L14.0389 17.0458L14.0389 11.8292C14.0389 10.2903 13.3847 9.81528 12.5403 9.81528C11.6486 9.81528 10.7736 10.4861 10.7736 11.8681L10.7736 17.0472L7.76666 17.0472L7.76667 7.49306L10.6583 7.49306L10.6583 8.81667L10.6972 8.81667C10.9875 8.22917 12.0042 7.225 13.5556 7.225C15.2333 7.225 17.0458 8.22084 17.0458 11.1375L17.0458 17.0458Z" fill="white" /></svg>          </a>
+        </li>
+              <li class="ucla-social__item">
+          <a href="https://www.youtube.com/user/UCLA" class="ucla-social__link">
+            <span class="visuallyhidden">YouTube</span>
+            <svg viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M17.8136 0.447582C18.6739 0.694356 19.3523 1.42016 19.5818 2.34194C20 4.01371 20 7.5 20 7.5C20 7.5 20 10.9875 19.5818 12.6581C19.3523 13.5798 18.6739 14.3056 17.8136 14.5524C16.2545 15 10 15 10 15C10 15 3.74659 15 2.18636 14.5524C1.32614 14.3056 0.647726 13.5798 0.418181 12.6581C0 10.9863 0 7.5 0 7.5C0 7.5 0 4.01371 0.418183 2.34193C0.647729 1.42016 1.32614 0.694353 2.18637 0.447579C3.74546 0 10 0 10 0C10 0 16.2545 0 17.8136 0.447582ZM13.1818 7.5L7.95454 10.6657L7.95455 4.33427L13.1818 7.5Z" /></svg>          </a>
+        </li>
+              <li class="ucla-social__item">
+          <a href="https://www.tiktok.com/@ucla" class="ucla-social__link">
+            <span class="visuallyhidden">TikTok</span>
+            <svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.4609 3.80844C13.4108 3.14097 12.6528 2.07347 12.4165 0.828944C12.3654 0.559927 12.3374 0.283295 12.3374 2.15713e-06L8.98579 1.57113e-06L8.98026 13.0911C8.92395 14.5571 7.68611 15.7337 6.16835 15.7337C5.69672 15.7337 5.25242 15.6189 4.86151 15.4181C3.96479 14.9581 3.35124 14.0419 3.35124 12.9877C3.35124 11.4735 4.61512 10.2417 6.16835 10.2417C6.45836 10.2417 6.73633 10.2883 6.99965 10.3686L6.99965 7.0338C6.72722 6.99763 6.45055 6.97511 6.16835 6.97511C2.76731 6.97542 -1.69121e-06 9.67258 -2.27084e-06 12.9877C-2.6265e-06 15.0218 1.04287 16.8218 2.63353 17.9103C3.63539 18.5958 4.85435 19 6.16868 19C9.57004 19 12.3374 16.3028 12.3374 12.9877L12.3374 6.34951C13.6517 7.26919 15.2622 7.81103 17 7.81103L17 4.54443C16.0639 4.54443 15.1919 4.27319 14.4609 3.80844Z" fill="white" /></svg>          </a>
+        </li>
+          </ul>
+  </div>
+</div><script type="text/javascript" src="https://physicalsciences.ucla.edu/wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-recaptcha-v2.min.js?ver=2.4.3" id="recaptcha-v2-js"></script>
+<script async="async" defer type="text/javascript" src="//www.google.com/recaptcha/api.js?onload=renderReCaptcha&amp;render=explicit&amp;ver=2.4.3" id="recaptcha-lib-v2-js"></script>
+<script type="text/javascript" src="https://physicalsciences.ucla.edu/wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-frontend.min.js?ver=2.4.3" id="ctct_frontend_forms-js"></script>
+<script type="text/javascript" src="https://cdn.designsystem.brand.ucla.edu/build/v2.0.0/js/ucla-lib-scripts.min.js?ver=2.0.0" id="ucla_wordpress_scripts-js"></script>
+
+</body>
+
+</html>

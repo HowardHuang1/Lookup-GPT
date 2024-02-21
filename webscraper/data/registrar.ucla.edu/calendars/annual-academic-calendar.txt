@@ -1,0 +1,316 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Annual Academic Calendar | UCLA Registrar’s Office</title>
+<link rel="stylesheet" href="/themes/custom/ucla_sa/fonts/proximanova.css?v=20240220143018">
+<link rel="stylesheet" href="/themes/custom/ucla_sa/css/ucla_sa.css??v=20240220143018">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-74929151-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', 'UA-74929151-1');
+</script>
+<style type="text/css">
+[data-ucla-path="/embed/course-descriptions"] {
+  background-color: #FFF;
+  background-image: none;
+}
+[data-ucla-path="/embed/course-descriptions"] > header,
+[data-ucla-path="/embed/course-descriptions"] > footer,
+[data-ucla-path="/embed/course-descriptions"] .course-descriptions-search,
+[data-ucla-path="/embed/course-descriptions"] #block-ucla-sa-local-tasks {
+  display: none;
+}
+
+/* Used for newer custom sidebars */
+.gray-callout {
+  margin: 1rem 0;
+  padding: 1rem;
+  background-color: #ebebeb;
+  color: #000;
+}
+.gray-callout h2 {
+  margin-top: 0;
+  font-size: 1.2rem;
+  line-height: 1.4rem;
+}
+
+
+/* temporary until the app launches, then remove this line */
+[data-ucla-path^="/student-records/diplomas/"] nav.secondary-breadcrumbs li:nth-child(5n+4),
+[data-ucla-path="/templates/digital-diploma-validation"] nav.secondary-breadcrumbs li:nth-child(5n+4) {
+  display: none;
+}
+</style>
+</head>
+<body
+    data-ucla-ref="registrar/calendars/annual-academic-calendar"
+    data-ucla-path="/calendars/annual-academic-calendar"
+    data-ucla-origin="https://registrar.ucla.edu"
+    class="no-js"
+>
+<script>document.body.classList.remove('no-js'); document.body.classList.add('js');</script>
+<header class="header">
+    <div class="skip-to-main">
+    <a href="#main">Skip to Main Content</a>
+    </div>
+            <div class="nav-topbar desktop-only">
+    <nav aria-label="Secondary Top" class="nav-secondary container">
+    <ul>
+  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
+  <li><a href="/forms">Forms</a></li>
+  <li><a href="/archives">Archives</a></li>
+</ul>
+    </nav>
+    </div>
+    <div class="headerbar container">
+          <a href="/" class="site-name"><img src="/sites/default/files/UCLA_Logo_Registrars.fw_.png" height="70" width="780" alt="UCLA Registrar&#039;s Office"></a>
+          <div class="header-right">
+      <button class="mobile-only" aria-haspopup="true" aria-controls="menus" aria-expanded="false" aria-label="Main Menus"></button>
+      <form action="https://www.ucla.edu/search" method="GET" class="site-search desktop-only">
+      <label for="header-search-headerbar">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-headerbar"><button type="submit">Search</button>
+      </form>
+      </div>
+    </div>
+    <div id="menus">
+    <form action="https://www.ucla.edu/search" method="GET" class="site-search mobile-only">
+      <label for="header-search-mobile-only">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-mobile-only"><button type="submit">Search</button>
+    </form>
+    <nav aria-label="Main" class="nav-main container">
+    <ul>
+  <li><a href="/registration-classes">Registration &amp; Classes</a>
+    <ul>
+      <li><a href="/registration-classes" aria-label="Overview of Registration and Classes">Overview</a></li>
+      <li><a href="/registration-classes/registration-and-payment">Registration and Payment</a></li>
+      <li><a href="https://sa.ucla.edu/ro/public/soc">Schedule of Classes</a></li>
+      <li><a href="/registration-classes/enrollment-policies">Enrollment Policies</a></li>
+      <li><a href="/registration-classes/enrollment-appointments">Enrollment Appointments and Passes</a></li>
+      <li><a href="/registration-classes/study-list">Study List</a></li>
+      <li><a href="/registration-classes/examinations">Examinations</a></li>
+      <li><a href="/registration-classes/absences-and-readmission">Absences and Readmission</a></li>
+      <li><a href="/registration-classes/graduation">Graduation</a></li>
+    </ul>
+</li>
+  <li><a href="/fees-residence">Fees &amp; Residence</a>
+    <ul>
+      <li><a href="/fees-residence" aria-label="Overview of Fees and Residence">Overview</a></li>
+      <li><a href="/fees-residence/residence-requirements">Residence Requirements</a></li>
+      <li><a href="https://sa.ucla.edu/RO/Fees/Public/public-fees">Annual and Term Student Fees</a></li>
+      <li><a href="/fees-residence/graduate-student-in-absentia-fees">Graduate Student in Absentia Fees</a></li>
+      <li><a href="/fees-residence/health-sciences-summer-fees-medicine-dentistry">Health Sciences Summer Fees (Medicine, Dentistry)</a></li>
+      <li><a href="/fees-residence/self-supporting-degrees">Self-Supporting Degree Fees</a></li>
+      <li><a href="/fees-residence/course-and-study-list-fees">Course and Study List Fees</a></li>
+      <li><a href="/fees-residence/document-and-service-fees">Document and Service Fees</a></li>
+      <li><a href="/fees-residence/transcript-related-fees">Transcript-Related Fees</a></li>
+      <li><a href="/fees-residence/degree-and-diploma-fees">Degree and Diploma Fees</a></li>
+      <li><a href="/fees-residence/fee-descriptions">Fee Descriptions</a></li>
+    </ul>
+</li>
+  <li><a href="/academics">Academics</a>
+    <ul>
+      <li><a href="/academics" aria-label="Overview of Academics">Overview</a></li>
+      <li><a href="http://catalog.registrar.ucla.edu/">General Catalog</a></li>
+      <li><a href="/academics/course-descriptions">Course Descriptions</a></li>
+      <li><a href="/academics/diversity-requirement">Diversity Requirement</a></li>
+      <li><a href="/academics/foreign-language-requirement">Foreign Language Requirement</a></li>
+      <li><a href="/academics/ge-requirement">GE Requirement</a></li>
+      <li><a href="/academics/writing-ii-requirement">Writing II Requirement</a></li>
+     <li><a href="/academics/foreign-literature-in-english-translation">Foreign Literature in English Translation</a></li>
+      <li><a href="/academics/departments-programs-and-freestanding-minors">Departments, Programs, and Freestanding Minors</a></li>
+      <li><a href="/academics/academic-counseling">Academic Counseling</a></li>
+    </ul>
+</li>
+  <li><a href="/student-records">Student Records</a>
+    <ul>
+      <li><a href="/student-records" aria-label="Overview of Student Records">Overview</a></li>
+      <li><a href="/student-records/personal-information">Personal Information</a></li>
+      <li><a href="/student-records/academic-transcript">Academic Transcript</a></li>
+      <li><a href="/student-records/proof-of-enrollment">Proof of Enrollment</a></li>
+      <li><a href="/student-records/transfer-credit-processing">Transfer Credit Processing</a></li>
+      <li><a href="/student-records/grades-and-academic-revisions">Grades and Academic Revisions</a></li>
+      <li><a href="/student-records/student-rights-privacy">Student Rights and Privacy</a></li>
+      <li><a href="/student-records/closure-of-student-record">Closure of Student Record</a></li>
+      <li><a href="/student-records/diplomas">Diplomas</a></li>
+      <li><a href="/student-records/notary-services">Notary Services</a></li>
+      <li><a href="/student-records/veteran-services">Veteran Services</a></li>
+      <li><a href="/student-records/professional-school-and-extension-transcripts">Professional School and Extension Transcripts</a></li>
+    </ul>
+</li>
+  <li><a href="/calendars">Calendars</a>
+    <ul>
+      <li><a href="/calendars" aria-label="Overview of Calendars">Overview</a></li>
+      <li><a href="/calendars/annual-academic-calendar">Annual Academic Calendar</a></li>
+      <li><a href="/term-calendar">Term Calendar</a></li>
+      <li><a href="/calendars/professional-school-calendars">Professional School Calendars</a></li>
+      <li><a href="/calendars/summer-session-calendar">Summer Session Calendar</a></li>
+    </ul>
+</li>
+  <li><a href="/faculty-staff">Faculty &amp; Staff</a>
+    <ul>
+      <li><a href="/faculty-staff" aria-label="Overview of Faculty and Staff">Overview</a></li>
+      <li><a href="/faculty-staff/classrooms-and-scheduling">Classrooms and Scheduling</a></li>
+      <li><a href="/faculty-staff/courses-and-programs">Courses and Programs</a></li>
+      <li><a href="/faculty-staff/accessing-student-data">Accessing Student Data</a></li>
+      <li><a href="/faculty-staff/grade-submission-deadlines">Grade Submission Deadlines</a></li>
+      <li><a href="/faculty-staff/ferpa">FERPA</a></li>
+    </ul>
+</li>
+</ul>
+    </nav>
+    <nav aria-label="Secondary Menu" class="nav-secondary container mobile-only">
+    <ul>
+  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
+  <li><a href="/forms">Forms</a></li>
+  <li><a href="/archives">Archives</a></li>
+</ul>
+    </nav>
+    </div>
+</header>
+<main id="main">
+  <div class="container">
+        <div class="page page-has-menu">
+<div class="page-header">
+  <div id="block-system-messages">
+<div data-drupal-messages-fallback class="hidden"></div>
+</div>
+<div id="block-breadcrumbs">
+  
+    
+        <nav aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol>
+          <li>
+                            <a href="https://registrar.ucla.edu/">Home</a>
+                        </li>
+          <li>
+                            <a href="https://registrar.ucla.edu/calendars">Calendars</a>
+                        </li>
+          <li>
+                            <a href="https://registrar.ucla.edu/calendars/annual-academic-calendar">Annual Academic Calendar</a>
+                        </li>
+        </ol>
+  </nav>
+
+  </div>
+<div id="block-ucla-sa-page-title">
+  
+    
+      
+  <h1>Annual Academic Calendar</h1>
+
+
+  </div>
+
+
+</div>
+<div class="page-content">
+  <div id="block-mainpagecontent">
+  
+    
+      <div data-ucla-node-id="167">
+
+
+
+
+
+<div class="body-content body--section">
+
+<p class="lead">Summary, year-at-a-glance calendars include term and instruction start and end dates, and school holidays. Calendars for past academic years are available in the <strong><a href="https://registrar.ucla.edu/archives/calendar-archive">calendar archive</a></strong>.</p> <div data-custom-embed-id="662" data-custom-embed-title="Automatically Generated In Page Buttons to Headings">
+
+<div class="in-page-buttons ucla-buttongroup"></div>
+
+</div>
+
+ <h2>2023-24</h2> <p><a href="/file/d4509748-a408-4d4a-84b7-6d2fd40e5190">Download Academic Calendar 23-24 PDF</a></p> <div data-custom-embed-id="434" data-custom-embed-title="Annual Academic Calendar 2023-2024 Table">
+
+<table class="col-1-50wide"> <tbody> <tr> <th colspan="2" scope="colgroup">Fall Quarter 2023</th></tr> <tr> <td>Quarter begins</td> <td>Monday, September 25</td></tr> <tr> <td>Instruction begins</td> <td>Thursday, September 28</td></tr> <tr> <td>Study List deadline (becomes official)</td> <td>Friday, October 13</td></tr> <tr> <td>Veterans Day holiday</td> <td>Friday, November 10</td></tr> <tr> <td>Thanksgiving holiday</td> <td>Thursday-Friday, November 23-24</td></tr> <tr> <td>Instruction ends</td> <td>Friday, December 8</td></tr> <tr> <td>Common final exams</td> <td>Saturday-Sunday, December 9-10</td></tr> <tr> <td>Final examinations</td> <td>Monday-Friday, December 11-15</td></tr> <tr> <td>Quarter ends</td> <td>Friday, December 15</td></tr> <tr> <td>Christmas holiday</td> <td>Monday-Tuesday, December 25-26</td></tr> <tr> <td>Winter campus closure</td> <td>Wednesday-Friday, December 27-29</td></tr> <tr> <td>New Year’s holiday</td> <td>Monday-Tuesday, January 1-2, 2024</td></tr> <tr> <th colspan="2" scope="colgroup">Winter Quarter 2024</th></tr> <tr> <td>Quarter begins</td> <td>Wednesday, January 3</td></tr> <tr> <td>Instruction begins</td> <td>Monday, January 8</td></tr> <tr> <td>Martin Luther King, Jr. holiday</td> <td>Monday, January 15</td></tr> <tr> <td>Study List deadline (becomes official)</td> <td>Friday, January 19</td></tr> <tr> <td>Presidents’ Day holiday</td> <td>Monday, February 19</td></tr> <tr> <td>Instruction ends</td> <td>Friday, March 15</td></tr> <tr> <td>Common final exams</td> <td>Saturday-Sunday, March 16-17</td></tr> <tr> <td>Final examinations</td> <td>Monday-Friday, March 18-22</td></tr> <tr> <td>Quarter ends</td> <td>Friday, March 22</td></tr> <tr> <th colspan="2" scope="colgroup">Spring Quarter 2024</th></tr> <tr> <td>Quarter begins</td> <td>Wednesday, March 27</td></tr> <tr> <td>César Chávez holiday</td> <td>Friday, March 29</td></tr> <tr> <td>Instruction begins</td> <td>Monday, April 1</td></tr> <tr> <td>Study List deadline (becomes official)</td> <td>Friday, April 12</td></tr> <tr> <td>Memorial Day holiday</td> <td>Monday, May 27</td></tr> <tr> <td>Instruction ends</td> <td>Friday, June 7</td></tr> <tr> <td>Common final exams</td> <td>Saturday-Sunday, June 8-9</td></tr> <tr> <td>Final examinations</td> <td>Monday-Friday, June 10-14</td></tr> <tr> <td>Quarter ends</td> <td>Friday, June 14</td></tr> <tr> <td><strong>Commencement Ceremonies 2024</strong></td> <td><a href="https://commencement.ucla.edu">Commencement website</a></td></tr> <tr> <th colspan="2" scope="colgroup">Summer 2024</th></tr> <tr> <td>Juneteenth holiday</td> <td>Wednesday, June 19</td></tr> <tr> <td>Summer session begins</td> <td>Monday, June 24</td></tr> <tr> <td>Independence Day holiday</td> <td>Thursday, July 4</td></tr> <tr> <td>Labor Day holiday</td> <td>Monday, September 2</td></tr> <tr> <td>Summer session ends</td> <td>Friday, September 13</td></tr></tbody></table>
+
+</div>
+
+ <h2>2024-25</h2> <p><a href="/file/38218878-7cb2-4b11-94b1-5e7efdc926e5">Download Academic Calendar 24-25 PDF</a></p> <div data-custom-embed-id="435" data-custom-embed-title="Annual Academic Calendar 2024-2025 Table">
+
+<table class="col-1-50wide"> <tbody> <tr> <th colspan="2" scope="colgroup">Fall Quarter 2024</th></tr> <tr> <td>Quarter begins</td> <td>Monday, September 23</td></tr> <tr> <td>Instruction begins</td> <td>Thursday, September 26</td></tr> <tr> <td>Study List deadline (becomes official)</td> <td>Friday, October 11</td></tr> <tr> <td>Veterans Day holiday</td> <td>Monday, November 11</td></tr> <tr> <td>Thanksgiving holiday</td> <td>Thursday-Friday, November 28-29</td></tr> <tr> <td>Instruction ends</td> <td>Friday, December 6</td></tr> <tr> <td>Common final exams</td> <td>Saturday-Sunday, December 7-8</td></tr> <tr> <td>Final examinations</td> <td>Monday-Friday, December 9-13</td></tr> <tr> <td>Quarter ends</td> <td>Friday, December 13</td></tr> <tr> <td>Christmas holiday</td> <td>Tuesday-Wednesday, December 24-25</td></tr> <tr> <td>New Year’s Eve/Day holiday</td> <td>Tuesday-Wednesday, December 31-January 1, 2025</td></tr> <tr> <td>Winter campus closure</td> <td>TBD</td></tr> <tr> <th colspan="2" scope="colgroup">Winter Quarter 2025</th></tr> <tr> <td>Quarter begins</td> <td>Thursday, January 2</td></tr> <tr> <td>Instruction begins</td> <td>Monday, January 6</td></tr> <tr> <td>Study List deadline (becomes official)</td> <td>Friday, January 17</td></tr> <tr> <td>Martin Luther King, Jr. holiday</td> <td>Monday, January 20</td></tr> <tr> <td>Presidents’ Day holiday</td> <td>Monday, February 17</td></tr> <tr> <td>Instruction ends</td> <td>Friday, March 14</td></tr> <tr> <td>Common final exams</td> <td>Saturday-Sunday, March 15-16</td></tr> <tr> <td>Final examinations</td> <td>Monday-Friday, March 17-21</td></tr> <tr> <td>Quarter ends</td> <td>Friday, March 21</td></tr> <tr> <th colspan="2" scope="colgroup">Spring Quarter 2025</th></tr> <tr> <td>Quarter begins</td> <td>Wednesday, March 26</td></tr> <tr> <td>César Chávez holiday</td> <td>Friday, March 28</td></tr> <tr> <td>Instruction begins</td> <td>Monday, March 31</td></tr> <tr> <td>Study List deadline (becomes official)</td> <td>Friday, April 11</td></tr> <tr> <td>Memorial Day holiday</td> <td>Monday, May 26</td></tr> <tr> <td>Instruction ends</td> <td>Friday, June 6</td></tr> <tr> <td>Common final exams</td> <td>Saturday-Sunday, June 7-8</td></tr> <tr> <td>Final examinations</td> <td>Monday-Friday, June 9-13</td></tr> <tr> <td>Quarter ends</td> <td>Friday, June 13</td></tr> <tr> <td><strong>Commencement Ceremonies 2025</strong></td> <td><a href="https://commencement.ucla.edu">Commencement website</a></td></tr> <tr> <th colspan="2" scope="colgroup">Summer 2025</th></tr> <tr> <td>Juneteenth holiday</td> <td>Thursday, June 19</td></tr> <tr> <td>Summer session begins</td> <td>Monday, June 23</td></tr> <tr> <td>Independence Day holiday</td> <td>Friday, July 4</td></tr> <tr> <td>Labor Day holiday</td> <td>Monday, September 1</td></tr> <tr> <td>Summer session ends</td> <td>Friday, September 12</td></tr></tbody></table>
+
+</div>
+
+ <h2>2025-26</h2> <p><a href="/file/2055188a-8044-4626-844f-70fe5ab3950f">Download Academic Calendar 25-26 PDF</a></p> <div data-custom-embed-id="436" data-custom-embed-title="Annual Academic Calendar 2025-2026 Table">
+
+<table class="col-1-50wide"> <tbody> <tr> <th colspan="2" scope="colgroup">Fall Quarter 2025</th></tr> <tr> <td>Quarter begins</td> <td>Monday, September 22</td></tr> <tr> <td>Instruction begins</td> <td>Thursday, September 25</td></tr> <tr> <td>Study List deadline (becomes official)</td> <td>Friday, October 10</td></tr> <tr> <td>Veterans Day holiday</td> <td>Tuesday, November 11</td></tr> <tr> <td>Thanksgiving holiday</td> <td>Thursday-Friday, November 27-28</td></tr> <tr> <td>Instruction ends</td> <td>Friday, December 5</td></tr> <tr> <td>Common final exams</td> <td>Saturday-Sunday, December 6-7</td></tr> <tr> <td>Final examinations</td> <td>Monday-Friday, December 8-12</td></tr> <tr> <td>Quarter ends</td> <td>Friday, December 12</td></tr> <tr> <td>Christmas holiday</td> <td>Wednesday-Thursday, December 24-25</td></tr> <tr> <td>New Year’s Eve/Day holiday</td> <td>Wednesday-Thursday, December 31-January 1, 2026</td></tr> <tr> <td>Winter campus closure</td> <td>TBD</td></tr> <tr> <th colspan="2" scope="colgroup">Winter Quarter 2026</th></tr> <tr> <td>Quarter begins</td> <td>Friday, January 2</td></tr> <tr> <td>Instruction begins</td> <td>Monday, January 5</td></tr> <tr> <td>Study List deadline (becomes official)</td> <td>Friday, January 16</td></tr> <tr> <td>Martin Luther King, Jr. holiday</td> <td>Monday, January 19</td></tr> <tr> <td>Presidents’ Day holiday</td> <td>Monday, February 16</td></tr> <tr> <td>Instruction ends</td> <td>Friday, March 13</td></tr> <tr> <td>Common final exams</td> <td>Saturday-Sunday, March 14-15</td></tr> <tr> <td>Final examinations</td> <td>Monday-Friday, March 16-20</td></tr> <tr> <td>Quarter ends</td> <td>Friday, March 20</td></tr> <tr> <th colspan="2" scope="colgroup">Spring Quarter 2026</th></tr> <tr> <td>Quarter begins</td> <td>Wednesday, March 25</td></tr> <tr> <td>César Chávez holiday</td> <td>Friday, March 27</td></tr> <tr> <td>Instruction begins</td> <td>Monday, March 30</td></tr> <tr> <td>Study List deadline (becomes official)</td> <td>Friday, April 10</td></tr> <tr> <td>Memorial Day holiday</td> <td>Monday, May 25</td></tr> <tr> <td>Instruction ends</td> <td>Friday, June 5</td></tr> <tr> <td>Common final exams</td> <td>Saturday-Sunday, June 6-7</td></tr> <tr> <td>Final examinations</td> <td>Monday-Friday, June 8-12</td></tr> <tr> <td>Quarter ends</td> <td>Friday, June 12</td></tr> <tr> <td><strong>Commencement Ceremonies 2026</strong></td> <td><a href="https://commencement.ucla.edu">Commencement website</a></td></tr> <tr> <th colspan="2" scope="colgroup">Summer 2026</th></tr> <tr> <td>Juneteenth holiday</td> <td>Friday, June 19</td></tr> <tr> <td>Summer session begins</td> <td>Monday, June 22</td></tr> <tr> <td>Independence Day holiday</td> <td>Friday, July 3</td></tr> <tr> <td>Labor Day holiday</td> <td>Monday, September 7</td></tr> <tr> <td>Summer session ends</td> <td>Friday, September 11</td></tr></tbody></table>
+
+</div>
+
+ <h2>2026-27</h2> <p><a href="/file/5c5310d0-232b-4621-82ef-a3dc71b9715b">Download Academic Calendar 26-27 PDF</a></p> <div data-custom-embed-id="437" data-custom-embed-title="Annual Academic Calendar 2026-2027 Table">
+
+<table class="col-1-50wide"> <tbody> <tr> <th colspan="2" scope="colgroup">Fall Quarter 2026</th></tr> <tr> <td>Quarter begins</td> <td>Monday, September 21</td></tr> <tr> <td>Instruction begins</td> <td>Thursday, September 24</td></tr> <tr> <td>Study List deadline (becomes official)</td> <td>Friday, October 9</td></tr> <tr> <td>Veterans Day holiday</td> <td>Wednesday, November 11</td></tr> <tr> <td>Thanksgiving holiday</td> <td>Thursday-Friday, November 26-27</td></tr> <tr> <td>Instruction ends</td> <td>Friday, December 4</td></tr> <tr> <td>Common final exams</td> <td>Saturday-Sunday, December 5-6</td></tr> <tr> <td>Final examinations</td> <td>Monday-Friday, December 7-11</td></tr> <tr> <td>Quarter ends</td> <td>Friday, December 11</td></tr> <tr> <td>Christmas holiday</td> <td>Thursday-Friday, December 24-25</td></tr> <tr> <td>New Year’s Eve/Day holiday</td> <td>Thursday-Friday, December 31-January 1, 2027</td></tr> <tr> <td>Winter campus closure</td> <td>TBD</td></tr> <tr> <th colspan="2" scope="colgroup">Winter Quarter 2027</th></tr> <tr> <td>Quarter begins</td> <td>Monday, January 4</td></tr> <tr> <td>Instruction begins</td> <td>Monday, January 4</td></tr> <tr> <td>Study List deadline (becomes official)</td> <td>Friday, January 15</td></tr> <tr> <td>Martin Luther King, Jr. holiday</td> <td>Monday, January 18</td></tr> <tr> <td>Presidents’ Day holiday</td> <td>Monday, February 15</td></tr> <tr> <td>Instruction ends</td> <td>Friday, March 12</td></tr> <tr> <td>Common final exams</td> <td>Saturday-Sunday, March 13-14</td></tr> <tr> <td>Final examinations</td> <td>Monday-Friday, March 15-19</td></tr> <tr> <td>Quarter ends</td> <td>Friday, March 19</td></tr> <tr> <th colspan="2" scope="colgroup">Spring Quarter 2027</th></tr> <tr> <td>Quarter begins</td> <td>Wednesday, March 24</td></tr> <tr> <td>César Chávez holiday</td> <td>Friday, March 26</td></tr> <tr> <td>Instruction begins</td> <td>Monday, March 29</td></tr> <tr> <td>Study List deadline (becomes official)</td> <td>Friday, April 9</td></tr> <tr> <td>Memorial Day holiday</td> <td>Monday, May 31</td></tr> <tr> <td>Instruction ends</td> <td>Friday, June 4</td></tr> <tr> <td>Common final exams</td> <td>Saturday-Sunday, June 5-6</td></tr> <tr> <td>Final examinations</td> <td>Monday-Friday, June 7-11</td></tr> <tr> <td>Quarter ends</td> <td>Friday, June 11</td></tr> <tr> <td><strong>Commencement Ceremonies 2027</strong></td> <td><a href="https://commencement.ucla.edu">Commencement website</a></td></tr> <tr> <th colspan="2" scope="colgroup">Summer 2027</th></tr> <tr> <td>Juneteenth holiday</td> <td>Friday, June 18</td></tr> <tr> <td>Summer session begins</td> <td>Monday, June 21</td></tr> <tr> <td>Independence Day holiday</td> <td>Monday, July 5</td></tr> <tr> <td>Labor Day holiday</td> <td>Monday, September 6</td></tr> <tr> <td>Summer session ends</td> <td>Friday, September 10</td></tr></tbody></table>
+
+</div>
+
+ <h2>2027-28</h2> <p><a href="/file/8544809d-5bee-4404-89fc-5b0eaaf4c62f">Download Academic Calendar 27-28 PDF</a></p> <div data-custom-embed-id="676" data-custom-embed-title="Annual Academic Calendar 2027-28 Table">
+
+<table class="col-1-50wide"> <tbody> <tr> <th colspan="2" scope="colgroup">Fall Quarter 2027</th></tr> <tr> <td>Quarter begins</td> <td>Monday, September 20</td></tr> <tr> <td>Instruction begins</td> <td>Thursday, September 23</td></tr> <tr> <td>Study List deadline (becomes official)</td> <td>Friday, October 8</td></tr> <tr> <td>Veterans Day holiday</td> <td>Thursday, November 11</td></tr> <tr> <td>Thanksgiving holiday</td> <td>Thursday-Friday, November 25-26</td></tr> <tr> <td>Instruction ends</td> <td>Friday, December 3</td></tr> <tr> <td>Common final exams</td> <td>Saturday-Sunday, December 4-5</td></tr> <tr> <td>Final examinations</td> <td>Monday-Friday, December 6-10</td></tr> <tr> <td>Quarter ends</td> <td>Friday, December 10</td></tr> <tr> <td>Christmas holiday</td> <td>Friday/Monday, December 24, 27</td></tr> <tr> <td>New Year’s holiday</td> <td>Friday/Monday, December 31, January 3, 2028</td></tr> <tr> <td>Winter campus closure</td> <td>TBD</td></tr> <tr> <th colspan="2" scope="colgroup">Winter Quarter 2028</th></tr> <tr> <td>Quarter begins</td> <td>Tuesday, January 4</td></tr> <tr> <td>Instruction begins</td> <td>Tuesday, January 4</td></tr> <tr> <td>Study List deadline (becomes official)</td> <td>Friday, January 14</td></tr> <tr> <td>Martin Luther King, Jr. holiday</td> <td>Monday, January 17</td></tr> <tr> <td>Presidents’ Day holiday</td> <td>Monday, February 21</td></tr> <tr> <td>Instruction ends</td> <td>Friday, March 10</td></tr> <tr> <td>Common final exams</td> <td>Saturday-Sunday, March 11-12</td></tr> <tr> <td>Final examinations</td> <td>Monday-Friday, March 13-17</td></tr> <tr> <td>Quarter ends</td> <td>Friday, March 17</td></tr> <tr> <th colspan="2" scope="colgroup">Spring Quarter 2028</th></tr> <tr> <td>Quarter begins</td> <td>Wednesday, March 22</td></tr> <tr> <td>Instruction begins</td> <td>Monday, March 27</td></tr> <tr> <td>César Chávez holiday</td> <td>Friday, March 31</td></tr> <tr> <td>Study List deadline (becomes official)</td> <td>Friday, April 7</td></tr> <tr> <td>Memorial Day holiday</td> <td>Monday, May 29</td></tr> <tr> <td>Instruction ends</td> <td>Friday, June 2</td></tr> <tr> <td>Common final exams</td> <td>Saturday-Sunday, June 3-4</td></tr> <tr> <td>Final examinations</td> <td>Monday-Friday, June 5-9</td></tr> <tr> <td>Quarter ends</td> <td>Friday, June 9</td></tr> <tr> <td><strong>Commencement Ceremonies 2028</strong></td> <td><a href="https://commencement.ucla.edu">Commencement website</a></td></tr> <tr> <th colspan="2" scope="colgroup">Summer 2028</th></tr> <tr> <td>Juneteenth holiday</td> <td>Monday, June 19</td></tr> <tr> <td>Summer session begins</td> <td>Monday, June 19</td></tr> <tr> <td>Independence Day holiday</td> <td>Tuesday, July 4</td></tr> <tr> <td>Labor Day holiday</td> <td>Monday, September 4</td></tr> <tr> <td>Summer session ends</td> <td>Friday, September 8</td></tr></tbody></table>
+
+</div>
+
+ <h2>2028-29</h2> <p><a href="/file/3fbcd5ef-09b3-44d1-82fe-b566d431d68f">Download Academic Calendar 28-29 PDF</a></p> <div data-custom-embed-id="677" data-custom-embed-title="Annual Academic Calendar 2028-29 Table">
+
+<table class="col-1-50wide"> <tbody> <tr> <th colspan="2" scope="colgroup">Fall Quarter 2028</th></tr> <tr> <td>Quarter begins</td> <td>Wednesday, September 27</td></tr> <tr> <td>Instruction begins</td> <td>Monday, October 2</td></tr> <tr> <td>Study List deadline (becomes official)</td> <td>Friday, October 13</td></tr> <tr> <td>Veterans Day holiday</td> <td>Friday, November 10</td></tr> <tr> <td>Thanksgiving holiday</td> <td>Thursday-Friday, November 23-24</td></tr> <tr> <td>Instruction ends</td> <td>Friday, December 8</td></tr> <tr> <td>Common final exams</td> <td>Saturday-Sunday, December 9-10</td></tr> <tr> <td>Final examinations</td> <td>Monday-Friday, December 11-15</td></tr> <tr> <td>Quarter ends</td> <td>Friday, December 15</td></tr> <tr> <td>Christmas holiday</td> <td>Monday-Tuesday, December 25-26</td></tr> <tr> <td>New Year’s holiday</td> <td>Monday-Tuesday, January 1-2, 2029</td></tr> <tr> <td>Winter campus closure</td> <td>TBD</td></tr> <tr> <th colspan="2" scope="colgroup">Winter Quarter 2029</th></tr> <tr> <td>Quarter begins</td> <td>Wednesday, January 3</td></tr> <tr> <td>Instruction begins</td> <td>Thursday, January 4</td></tr> <tr> <td>Study List deadline (becomes official)</td> <td>Friday, January 19</td></tr> <tr> <td>Martin Luther King, Jr. holiday</td> <td>Monday, January 15</td></tr> <tr> <td>Presidents’ Day holiday</td> <td>Monday, February 19</td></tr> <tr> <td>Instruction ends</td> <td>Friday, March 16</td></tr> <tr> <td>Common final exams</td> <td>Saturday-Sunday, March 17-18</td></tr> <tr> <td>Final examinations</td> <td>Monday-Friday, March 19-23</td></tr> <tr> <td>Quarter ends</td> <td>Friday, March 23</td></tr> <tr> <th colspan="2" scope="colgroup">Spring Quarter 2029</th></tr> <tr> <td>Quarter begins</td> <td>Wednesday, March 28</td></tr> <tr> <td>César Chávez holiday</td> <td>Friday, March 30</td></tr> <tr> <td>Instruction begins</td> <td>Monday, April 2</td></tr> <tr> <td>Study List deadline (becomes official)</td> <td>Friday, April13</td></tr> <tr> <td>Memorial Day holiday</td> <td>Monday, May 28</td></tr> <tr> <td>Instruction ends</td> <td>Friday, June 8</td></tr> <tr> <td>Common final exams</td> <td>Saturday-Sunday, June 9-10</td></tr> <tr> <td>Final examinations</td> <td>Monday-Friday, June 11-15</td></tr> <tr> <td>Quarter ends</td> <td>Friday, June 15</td></tr> <tr> <td><strong>Commencement Ceremonies 2028</strong></td> <td><a href="https://commencement.ucla.edu">Commencement website</a></td></tr> <tr> <th colspan="2" scope="colgroup">Summer 2029</th></tr> <tr> <td>Summer session begins</td> <td>Monday, June 18</td></tr> <tr> <td>Juneteenth holiday</td> <td>Tuesday, June 19</td></tr> <tr> <td>Independence Day holiday</td> <td>Wednesday, July 4</td></tr> <tr> <td>Labor Day holiday</td> <td>Monday, September 3</td></tr> <tr> <td>Summer session ends</td> <td>Friday, September 7</td></tr></tbody></table>
+
+</div>
+
+
+
+</div>
+
+
+
+
+</div>
+  </div>
+
+
+</div>
+<div class="page-menu">
+  <nav aria-labelledby="section-menu-title" class="section-menu secondary-breadcrumbs">
+<h2 id="section-menu-title" class="section-menu-title"><a href="/calendars" data-drupal-link-system-path="node/166">Calendars</a></h2>
+<ul>
+<li class="section-menu-item section-menu-item-active"><a href="/calendars/annual-academic-calendar" data-drupal-link-system-path="node/167" class="is-active">Annual Academic Calendar</a></li>
+<li class="section-menu-item"><a href="/term-calendar" data-drupal-link-system-path="node/208">Term Calendar</a></li>
+<li class="section-menu-item"><a href="/calendars/professional-school-calendars" data-drupal-link-system-path="node/169">Professional School Calendars</a></li>
+<li class="section-menu-item"><a href="/calendars/summer-session-calendar" data-drupal-link-system-path="node/170">Summer Session Calendar</a></li>
+</ul>
+</nav>
+
+
+
+</div>
+</div>
+
+
+      </div>
+</main>
+<footer>
+<div class="container">
+<nav class="nav-footer" aria-label="Footer">
+  <ul>\n  <li><a href="/about-the-registrars-office">About</a></li>\n  <li><a href="/contacts-hours">Contacts/Hours</a></li>\n  <li><a href="https://my.ucla.edu/">MyUCLA</a></li>\n  <li><a href="https://www.studentaffairs.ucla.edu/">Student Affairs</a></li>\n  <li><a href="https://www.ucla.edu/">UCLA.edu</a></li>\n  <li><a href="/voter-information">Register to Vote</a></li>\n</ul>
+
+</nav>
+</div>
+</footer>
+<script src="/themes/custom/ucla_sa/js/ucla_sa.js?v=a20240220143018" async></script>
+<script type="text/javascript">
+(function() {
+  if(document.querySelector('[data-ucla]')) {
+    var embed = document.createElement('script'); embed.type = 'text/javascript'; embed.async = true;
+    embed.src = '/themes/custom/ucla_sa/js/ucla_embed.js?v=20240220143018';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(embed, s);
+  }
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,275 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<title>The Crump Institute for Molecular Imaging | OPEN_CMS</title>
+
+
+      <!-- Favicons -->
+      <link rel="apple-touch-icon" sizes="57x57" href="/crump/favicons/apple-icon-57x57.png">
+      <link rel="apple-touch-icon" sizes="60x60" href="/crump/favicons/apple-icon-60x60.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="/crump/favicons/apple-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="76x76" href="/crump/favicons/apple-icon-76x76.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="/crump/favicons/apple-icon-114x114.png">
+      <link rel="apple-touch-icon" sizes="120x120" href="/crump/favicons/apple-icon-120x120.png">
+      <link rel="apple-touch-icon" sizes="144x144" href="/crump/favicons/apple-icon-144x144.png">
+      <link rel="apple-touch-icon" sizes="152x152" href="/crump/favicons/apple-icon-152x152.png">
+      <link rel="apple-touch-icon" sizes="180x180" href="/crump/favicons/apple-icon-180x180.png">
+      <link rel="icon" type="image/png" sizes="192x192"  href="/crump/favicons/android-icon-192x192.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="/crump/favicons/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="96x96" href="/crump/favicons/favicon-96x96.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="/crump/favicons/favicon-16x16.png">
+      <link rel="manifest" href="/crump/favicons/manifest.json">
+      <meta name="msapplication-TileColor" content="#ffffff">
+      <meta name="msapplication-TileImage" content="/crump/favicons/ms-icon-144x144.png">
+      <meta name="theme-color" content="#ffffff">
+      <!-- End Favicons --> 
+
+    <meta http-equiv="content-style-type" content="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="generator" content="OpenACS version 5.10.1b2">
+    <link rel="stylesheet" href="/resources/xowiki/xowiki-bootstrap3.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/acs-subsite/site-master.css" type="text/css" media="all">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/openacs-bootstrap3-theme/css/main.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/openacs-bootstrap3-theme/css/color/blue.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/acs-templating/forms.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/acs-templating/lists.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/crump/resources/styles-crump.css?v=52" type="text/css" media="all">
+   <script type="text/javascript" src="/resources/openacs-bootstrap3-theme/js/jquery-1.11.3.min.js" nonce="76003EC8B6915E5068B70C7369449F4830546863"></script>
+   <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js" nonce="76003EC8B6915E5068B70C7369449F4830546863"></script>
+   <script type="text/javascript" src="//www.googletagmanager.com/gtag/js?id=UA-75729505-1" nonce="76003EC8B6915E5068B70C7369449F4830546863"></script>
+   <script type="text/javascript" nonce="76003EC8B6915E5068B70C7369449F4830546863">window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-75729505-1');</script>
+
+</head>
+<body>
+  
+
+
+<!--  Header  -->
+<div class="container-fluid hdr">
+   <div class="container">
+         <div class="col-sm-3"></div>
+         <div class="col-sm-6 hdr-crump" align="center">
+         <!--  Subsite Logos  -->
+         <img src="/crump/files/view/images/2015crump_logo.png" class="img-responsive" />
+         </div>
+         <div class="col-sm-3"></div>
+   </div>
+</div>
+<!--  Nav, Content  -->
+<div class="container">
+   <div class="row">
+      <div class="col-sm-2" style="margin:0;padding:0;">
+          
+              <!--  Crump Main Navigation  -->
+              <nav class="navbar navbar-default" role="navigation">
+                  <!-- Brand and toggle get grouped for better mobile display -->
+                  <div class="navbar-header">
+                      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".crump">
+                          <span class="sr-only">Toggle navigation</span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                      </button>
+                  </div>
+                  <!-- Collect the nav links, forms, and other content for toggling -->
+                  <div class="collapse navbar-collapse crump">
+                      <ul class="nav navbar-nav">
+                          <li role="presentation"><strong>About</strong></li>
+                          <li role="presentation"><a href="/crump/"><span class="glyphicon glyphicon-home"></span> Homepage</a></li>
+                          <li role="presentation"><a href="/crump/pages/director">From Our Director</a></li>
+                          <li role="presentation"><a href="/crump/pages/history">History</a></li>
+                          <li role="presentation"><a href="/crump/pages/vision">Vision</a></li>
+                          <li role="presentation"><a href="/crump/pages/home">Our Home</a></li>
+                          <li role="presentation"><a href="/crump/pages/rap">Research Program Areas</a></li>
+                          <li role="presentation"><a href="/crump/pages/techcenters">Technology Centers</a></li>
+                          <li role="presentation"><strong>Research</strong></li>
+                          <li role="presentation"><a href="/crump/pages/faculty">Faculty</a></li>
+                          <li role="presentation"><a href="/crump/pages/laboratories">Laboratories</a></li>
+                          <li role="presentation"><a href="/crump/pages/training">Training &amp; Education</a></li>
+                          <li role="presentation"><a href="/crump/pages/university">University-Industry Technology Transfer</a></li>
+                          <li role="presentation"><a href="/crump/pages/collaborations">Collaborations</a></li>
+                          <li role="presentation"><strong>Information</strong></li>
+                          <li role="presentation"><a href="/crump/announcements/">Announcements</a></li>
+                          <li><a href="/crump/pages/opportunities">Opportunities</a></li>
+                          <li role="presentation"><a href="/crump/pages/contact">Contact Us</a></li>
+                      </ul>
+                  </div><!-- /.navbar-collapse -->
+              </nav>
+
+          
+      </div>
+      <div class="col-sm-10">
+
+         <!-- Generated by ::xowiki::ADP_Generator on Wed Nov 16 18:41:51 UTC 2022 -->
+
+<!-- The following DIV is needed for overlib to function! -->
+          <div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
+          <div class='xowiki-content'>
+
+      
+
+      <style>
+        #wikicmds{height:55px;position:relative;font-size:1em !important;margin:10px auto;right:auto;text-align:center;top: 20px !important;}
+        a.text-white:link, a.text-white:visited{color:#fff;background-color: #337ab7;}
+        a.text-white:active, a.text-white:hover, a.text-white:focus{color:#fff;background-color: #16577f;}
+      </style>
+      <div id='wikicmds' class="container">
+         
+      </div>
+
+ 
+ <p>&nbsp;</p>
+
+<div class="carousel slide" data-ride="carousel" id="crumpcarousel"><!-- Indicators -->
+<ol class="carousel-indicators">
+	<li class="active" data-slide-to="0" data-target="#crumpcarousel">&nbsp;</li>
+	<li data-slide-to="1" data-target="#crumpcarousel">&nbsp;</li>
+	<li data-slide-to="2" data-target="#crumpcarousel">&nbsp;</li>
+	<li data-slide-to="3" data-target="#crumpcarousel">&nbsp;</li>
+</ol>
+<!-- Wrapper for slides -->
+
+<div class="carousel-inner" role="listbox">
+<div class="item active"><img alt="Integrated Science." src="/crump/files/view/images/carousel_s1.png" /></div>
+
+<div class="item"><img alt="Integrated Technology." src="/crump/files/view/images/carousel_s2.png" /></div>
+
+<div class="item"><img alt="This is the Crump Institute" src="/crump/files/view/images/carousel_s3.png" /></div>
+
+<div class="item"><img alt="for Molecular Imaging." src="/crump/files/view/images/carousel_s4.png" /></div>
+</div>
+<!-- Controls --><a class="left carousel-control" data-slide="prev" href="#crumpcarousel" role="button"><span class="sr-only">Previous</span> </a> <a class="right carousel-control" data-slide="next" href="#crumpcarousel" role="button"> <span class="sr-only">Next</span> </a></div>
+
+<div class="row">
+<div class="col-sm-7">
+<h4>Integrated Science.</h4>
+
+<h4>Integrated Technology.</h4>
+
+<h3>This is the Crump Institute.</h3>
+
+<p><big>The Crump Institute for Molecular Imaging brings together faculty, students, and staff with a variety of backgrounds - physics, mathematics, engineering, biology, chemistry, and medicine - to pursue innovative technologies and science to accelerate our understanding of biology and medicine. Innovative technology programs, linked by systems biology, microfluidics, nanotechnology, and molecular imaging, provide the tools to conduct integrated science in a unique, interdisciplinary setting. </big></p>
+
+<p>With an initial focus on cancer and immunity, our goal is to develop new technologies to observe, measure, and understand biology in cells, tissues, and living organisms. Through molecular imaging - taking pictures of the living chemistry of cells and tissues of the body, we can watch biology in action in living organisms. The Crump Institute&#39;s ultimate objective is to provide medicine with new science and technologies to judge the state of health, and identify the early transitions to disease for the development and use of new therapies as part of the new era in molecular medicine.</p>
+
+<p><a href="vision">Read more about &quot;Our Vision.&quot;</a></p>
+</div>
+
+<div class="col-sm-5">
+<h3 style="text-align: center;">Announcements</h3>
+<table width='100%' class='table'><tr><td width='0%'></td><td><a href="/crump/announcements/item?item_id=119582">UCLA researchers’ efforts to combat melanoma gets $13M boost from NIH</a></td></tr><tr>
+            <td width='20%'><img style='max-height:100px;' class='img-responsive' src='/crump/files/download/image_60305_60307.jpg?version_id=83588' style='padding: 5px'></td>
+            <td><a href="/crump/announcements/item?item_id=60305">Dr. Thomas Graeber's team discovers 4 subtypes of melanoma pointing to new treatment approaches</a></td>
+            </tr><tr>
+            <td width='20%'><img style='max-height:100px;' class='img-responsive' src='/crump/files/download/image_20267_20269.jpg?version_id=83590' style='padding: 5px'></td>
+            <td><a href="/crump/announcements/item?item_id=20267">Thomas Graeber is honored for research into why cancer cells respond to therapies</a></td>
+            </tr><tr>
+            <td width='20%'><img style='max-height:100px;' class='img-responsive' src='/crump/files/download/image_20270_20272.jpg?version_id=83592' style='padding: 5px'></td>
+            <td><a href="/crump/announcements/item?item_id=20270">Register Today - Preclinical Imaging Symposium, CNSI at UCLA, Friday, June 10, 2016, "Imaging Biology and Therapeutics"</a></td>
+            </tr><tr>
+            <td width='20%'><img style='max-height:100px;' class='img-responsive' src='/crump/files/download/image_20273_20275.jpg?version_id=83594' style='padding: 5px'></td>
+            <td><a href="/crump/announcements/item?item_id=20273">Murphy and van Dam labs complete the first fully-automated synthesis of 18F-FDHT on the ELIXYS radiosynthesizer</a></td>
+            </tr></table>
+</div>
+</div>
+
+<p>&nbsp;</p>
+
+<DIV class='content-chunk-footer'></DIV>
+
+<div class='item-footer'></div>
+
+</div> <!-- class='xowiki-content' -->
+
+
+      </div>
+   </div>
+<!--  Footer  -->
+  <div class="footer">
+   <div class="row" style="margin:0;padding:0;">
+      <div style="display:none;">
+         <span class="footer-sections">About</span>
+         <ul>
+         <li><a href="/crump/">Homepage</a></li>
+         <li><a href="/crump/pages/directors">From Our Director</a></li>
+         <li><a href="/crump/pages/history">History</a></li>
+         <li><a href="/crump/pages/vision">Vision</a></li>
+         <li><a href="/crump/pages/home">Our Home</a></li>
+         <li><a href="/crump/pages/rap">Research Program Areas</a></li>
+         <li><a href="/crump/pages/techcenters">Technology Centers</a></li>
+         </ul>
+         <span class="footer-sections">Research</span>
+         <ul>
+         <li><a href="https://fdb5.ctrl.ucla.edu/crump/institution/personnel-list/">Faculty</a></li>
+         <li><a href="/crump/pages/laboratories">Laboratories</a></li>
+         <li><a href="/crump/pages/training">Training &amp; Education</a></li>
+         <li><a href="/crump/pages/university">University-Industry Technology Transfer</a></li>
+         <li><a href="/crump/pages/collaborations">Collaborations</a></li>
+         </ul>
+         <span class="footer-sections">Information</span>
+         <ul>
+         <li><a href="/crump/pages/highlights">Highlights</a></li>
+         <li><a href="/crump/pages/opportunities">Opportunities</a></li>
+         <li><a href="/crump/pages/contact">Contact Us</a></li>
+         </ul>
+      </div>
+
+      <div class="col-xs-12">
+         <span class="footer-sections">Contact Information:</span>
+            <address><small>Crump Institute for Molecular Imaging &nbsp;<span style="color:#cccccc;">|</span>&nbsp;
+            University of California, Los Angeles &nbsp;<span style="color:#cccccc;">|</span>&nbsp;
+            570 Westwood Plaza &nbsp;<span style="color:#cccccc;">|</span>&nbsp;
+            Los Angeles, CA 90095-1770</small>
+             <br />
+            <div style="display:none;"><span class="glyphicon glyphicon-earphone"></span> <abbr title="Telephone">Tel:</abbr> 310-825-4903 &nbsp;
+            <span class="glyphicon glyphicon-print"></span> <abbr title="Facsimile">Fax:</abbr> 310-206-8975 <br /></div>
+         </address>
+      </div>
+   </div>
+  </div>
+
+      <div class="row">
+          <div class="col-xs-12">
+              <ul class="center-block compact">
+                  <li>
+                      Not logged in |
+                  </li>
+                  
+              </ul>
+          </div>
+      </div>
+
+   </div>
+</div>
+
+  
+    <script type="text/javascript" nonce="76003EC8B6915E5068B70C7369449F4830546863">
+          function get_popular_tags(popular_tags_link, prefix) {
+            var http = new XMLHttpRequest();
+            http.open('GET', popular_tags_link, true);
+            http.onreadystatechange = function() {
+              if (http.readyState == 4) {
+                if (http.status != 200) {
+                  alert('Something wrong in HTTP request, status code = ' + http.status);
+                } else {
+                  var e = document.getElementById(prefix + '-popular_tags');
+                  e.innerHTML = http.responseText;
+                  e.style.display = 'block';
+                }
+              }
+            };
+            http.send(null);
+          }
+        </script>
+    <script type="text/javascript" src="/resources/acs-subsite/core.js" nonce="76003EC8B6915E5068B70C7369449F4830546863"></script>
+
+
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=829442962" async nonce="76003EC8B6915E5068B70C7369449F4830546863"></script></body>
+</html>

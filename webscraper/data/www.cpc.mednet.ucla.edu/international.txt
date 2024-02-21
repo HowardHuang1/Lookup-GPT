@@ -1,0 +1,391 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Discover excellence in EMS education at UCLA&#039;s Center for Prehospital Care. With a legacy of innovation since 1988, our EMT and Paramedic programs boast high pass rates, incorporating the latest medical practices. Engage in hands-on experiences like the Simulation Boot Camps. Explore specialized courses including ACLS, AMLS, BLS, PALS, and PHTLS. Join our international EMS" />
+<meta name="abstract" content="Explore world-class EMS education at UCLA&#039;s Center for Prehospital Care, a global leader in prehospital emergency medicine. From top-performing EMT and Paramedic programs to specialized courses like ACLS, AMLS, PALS, and PHTLS, our curriculum integrates advanced medical practices and evidence-based learning. Engage in immersive experiences like the EMT Program Simulation Boot Camp and Paramedic Instructor Boot Camp. Join our international EMS programs, where innovative research and model curricula shape the future of EMS worldwide. Elevate your emergency care skills with UCLA&#039;s renowned faculty and flexible, customized courses." />
+<meta name="keywords" content="UCLA Center for Prehospital Care, EMS Education, EMT Program, Paramedic Program, Emergency Medical Responder, ACLS, AMLS, BLS, ECG &amp; Pharmacology, PALS, PHTLS, Custom EMS Courses, International EMS Programs, Trauma Response Training, Healthcare Education, EMS Instructor Course, Simulation Boot Camp, Los Angeles." />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.cpc.mednet.ucla.edu/international" />
+<link rel="shortlink" href="https://www.cpc.mednet.ucla.edu/node/433" />
+<meta property="og:site_name" content="UCLA CPC" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.cpc.mednet.ucla.edu/international" />
+<meta property="og:title" content="CPC International Programs" />
+<meta property="og:description" content="Background EMT Program Director Michael Kaduce with AMLS students in Singapore. The Center plays a key role in creating the future of EMS – conducting and promoting original and innovative research, developing model curricula for prehospital care students and practitioners, mentoring and educating current and future care providers in the most advanced practices, helping to design EMS systems, and ensuring the quality of EMS in Southern California, the nation, and the world." />
+<meta property="og:updated_time" content="2023-11-13T15:24:03-08:00" />
+<meta property="article:published_time" content="2020-01-21T13:30:29-08:00" />
+<meta property="article:modified_time" content="2023-11-13T15:24:03-08:00" />
+  <title>CPC International Programs | UCLA CPC</title>
+  <style>
+@import url("https://www.cpc.mednet.ucla.edu/modules/system/system.base.css?s8lm5r");
+</style>
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/modules/field/theme/field.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/filebrowser/css/filebrowser_style.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/views/css/views.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ckeditor/css/ckeditor.css?s8lm5r");
+</style>
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ctools/css/ctools.css?s8lm5r");
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.css?s8lm5r" media="all" />
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/css/style.css?s8lm5r");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_YndZxdyT8-8LUpZC5MssOCg5j7KN4UJGOzCX7A0hGKI.js"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.js?s8lm5r"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_sGFJ0aln9SHwpHdKSzoE8Cdcd6RIMEIfIGrifGaUeBw.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cpc_bootstrap","theme_token":"MK3py_PNWi4ISunBYiHDplY1cxFnHrbEackXq2jlZHY","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"https:\/\/code.jquery.com\/jquery-3.7.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/contrib\/popup\/popup.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/cpc_bootstrap\/cpc_js.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/filebrowser\/css\/filebrowser_style.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/popup\/popup.css":1,"sites\/all\/themes\/cpc_bootstrap\/css\/style.css":1}},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":250,"delay":0},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+      </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-433 node-type-cpc-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+
+<style>
+.navbar-default {
+    background-color: #000000;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ffb300;
+  background-color: transparent;
+}
+.login-header, .login-header a
+	{ color: white; }
+.login-header a:hover, .login-header a:active, .login-header a:visited
+	{ color: #ffffff; }
+.msg-button, .msg-button a
+	{ color: white; }
+.msg-button a:hover, .msg-button a:active, .msg-button a:visited
+	{ color: #ffffff; }
+.hp_quicklinks {
+	color: #00a5e5;
+	}
+.hp_quicklinks a, .hp_quicklinks a:hover, .hp_quicklinks a:active, .hp_quicklinks a:visited {
+	color: #ffb300;
+}
+.row div.featureslot {
+	padding:2em;
+}
+.node-cpc-page div.content {
+  overflow: visible;
+}
+@media (max-width: 768px) {
+  .row div.featureslot {
+	padding-top:1em;
+	padding-bottom:1em;
+  }
+}
+</style>
+<header id="navbar" role="banner">
+	<div class="container containerlogin">
+		<div class="row" style="margin-top:0px; margin-bottom:0px; background-color: #666666;">
+			<div class="login-header pull-right" style="display: inline; background-color: #00a5e5; padding:10px;">
+				<!-- AJAX Replaces here	-->
+				[ Login / Register ] <span class="glyphicon glyphicon-shopping-cart"></span> 0  items in cart
+			</div>
+			<div class="pull-left hp_quicklinks" style="display: inline; padding:10px;"><p>
+	&nbsp; &nbsp;</p>
+</div>
+		</div>
+	</div>
+  <div class="containernavbar container navbar-default">
+    <div class="navbar-header">
+      				<a class="logo navbar-btn pull-left" href="/" title="Home">
+					<img src="https://www.cpc.mednet.ucla.edu/sites/default/files/images/cpc_logo-323x32.png" alt="Home" id="logo" class="img-responsive" />
+				</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first expanded dropdown"><a href="/cpc/course-listings" title="Our Courses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Courses <span class="caret"></span></a><ul class="dropdown-menu"><li class="first collapsed"><a href="/emt-courses">EMT</a></li>
+<li class="collapsed"><a href="/paramedic-courses">Paramedic</a></li>
+<li class="leaf"><a href="/content/licensed-phlebotomist-course">Licensed Phlebotomist</a></li>
+<li class="expanded"><a href="/aha-courses">BLS, ACLS &amp; PALS</a></li>
+<li class="expanded"><a href="/cpr-first-aid-courses">CPR &amp; First Aid</a></li>
+<li class="last collapsed"><a href="/trauma-courses">Trauma &amp; NAEMT Courses</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/students" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Students <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/services/payment-methods">Payment Methods</a></li>
+<li class="leaf"><a href="/services/payment-plan">Payment Plan</a></li>
+<li class="leaf"><a href="/services/refunds-transfers">Refunds &amp; Transfers</a></li>
+<li class="leaf"><a href="/services/transcripts">Transcripts</a></li>
+<li class="leaf"><a href="/services/financial-aid">Scholarships</a></li>
+<li class="leaf"><a href="/veterans">Veteran&#039;s Assistance Benefits</a></li>
+<li class="leaf"><a href="/services/students-with-disabilities">Educational Accommodations</a></li>
+<li class="last leaf"><a href="/services/college-credit">College Credit &amp; CEUs</a></li>
+</ul></li>
+<li class="expanded active-trail dropdown"><a href="/services" title="Services for agencies, hospitals, and businesses" class="active-trail dropdown-toggle" data-target="#" data-toggle="dropdown">Services <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/fdqi" title="node/572">Fire Department Quality Improvement</a></li>
+<li class="last leaf active-trail active"><a href="/international" class="active-trail active">International</a></li>
+</ul></li>
+<li class="last expanded dropdown"><a href="/content/about-us" data-target="#" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/about/contact">Contact Us</a></li>
+<li class="leaf"><a href="/giving">Giving</a></li>
+<li class="leaf"><a href="/content/ucla-center-prehospital-care-strategic-plan">Strategic Plan</a></li>
+<li class="leaf"><a href="/about/leadership">Leadership</a></li>
+<li class="leaf"><a href="/diversity-resources">Equity, Diversity &amp; Inclusion</a></li>
+<li class="leaf"><a href="/about/history">Our History</a></li>
+<li class="leaf"><a href="/about/employment">Jobs at the Center</a></li>
+<li class="last leaf"><a href="https://www.uclahealth.org/privacy-practices" title="">Privacy Practices</a></li>
+</ul></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+	
+<!--
+	<div class="container">
+		<ol class="breadcrumb"><li class="first"><a href="/services" title="Services for agencies, hospitals, and businesses" class="active-trail">Services</a></li>
+<li class="active last">CPC International Programs</li>
+</ol>	</div>
+-->
+	</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    <div class="col-sm-12">
+            <a id="main-content"></a>
+            <!--
+			        <h1 class="page-header">CPC International Programs</h1>
+      			-->
+			<!--------------------->
+							<h1 class="page-header">CPC International Programs</h1>
+					<!--–– SECTION HIDDEN UNIVERSAL INFO AREA ––-->
+				<!--------------------->
+
+	                                      		</div>
+		
+    		
+    <div class="col-sm-12">
+        <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-433" class="node node-cpc-page clearfix" about="/international" typeof="sioc:Item foaf:Document">
+
+	<!--
+  	-->
+      <span property="dc:title" content="CPC International Programs" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  <div class="content">
+    
+		<!--
+					<h1 class="page-header">CPC International Programs</h1>
+				-->
+		
+		<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+          <h3>
+	Background</h3>
+<div style="width: 400px; float: right; margin:0 0 5px 10px;">
+	<img alt="" src="/sites/default/files/attached_files/amls_singapore.jpg" style="width: 400px; float: right;" /><br />
+	<em>EMT Program Director Michael Kaduce with AMLS students in Singapore.</em></div>
+<p>
+	The Center plays a key role in creating the future of EMS – conducting and promoting original and innovative research, developing model curricula for prehospital care students and practitioners, mentoring and educating current and future care providers in the most advanced practices, helping to design EMS systems, and ensuring the quality of EMS in Southern California, the nation, and the world.&nbsp; The Center serves aspiring and experienced EMS providers, agencies, local governments and healthcare professionals in a variety of settings and locations. Upon request, UCLA is available to deliver education programs and provide consulting services worldwide.The Center for Prehospital Care, housed in the UCLA Department of Emergency Medicine, is a world leader and Center of Excellence in the fields of prehospital care and emergency medical services (EMS).&nbsp; Established in 1988, CPC represents best practices in developing and delivering education to physicians, residents, medical students, nurses, paramedics, and emergency medical technicians, as well as in designing and ensuring the quality of the emergency medical systems in which they practice.</p>
+<h3>
+	EMT Program</h3>
+<p>
+	The UCLA Emergency Medical Technician (EMT) program is one of the top performing programs in the nation and boasts a 97% first-time National Registry (NREMT) examination pass rate for students and offers traditional classroom and online hybrid EMT courses. An EMT is a front-line, entry-level healthcare provider who is often the first to provide medical assistance to citizens suffering a medical emergency or traumatic injury and is a critical step for individuals keeping Paramedic training. Many doctors, nurses, and other healthcare providers began their career as EMTs. UCLA faculty have led the design of the most current and innovative flipped classroom model of instruction that accompanies the latest 11e EMT textbook from the American Academy of Orthopedic Surgeons (AAOS), as well as led the adaptation and contextualization of this text in Spanish for Latin America. &nbsp;</p>
+<h4 style="margin-bottom:0;">
+	EMT Program Simulation Boot Camp</h4>
+<p>
+	As a capstone component of the international EMT programs, UCLA offers a week-long immersive simulation experience.&nbsp; In collaboration with local instructors, UCLA faculty coordinate, coach and assist in the set-up and delivery of realistic EMS scenarios.&nbsp; To put the finishing touch on their EMT course, students respond, assess, treat and transfer simulated patients.</p>
+<h3>
+	EMS Instructor Course</h3>
+<p>
+	The EMS Instructor Course is an intensive course that includes theory of EMS instruction, formative psychomotor skills instruction, simulation facilitation, and hands on teaching demonstrations. In this course, instructor candidates receive comprehensive and highly interactive education to prepare them to teach an EMS course.&nbsp; This course is taught by UCLA EMS faculty with extensive experience teaching, and developing the latest EMS curricula.&nbsp;</p>
+<h3>
+	Emergency Medical Responder (EMR)</h3>
+<p>
+	Learn skills necessary to help sustain life, reduce pain, and minimize the consequences of injury or sudden illness. EMRs provide initial emergency care first on the scene including immediate lifesaving care to critical patients, can perform basic interventions with minimal equipment, and provide assistance to higher-level providers at the scene of emergencies and during transport. Skills at this level include taking vitals, bleed control, CPR, administering O2, use of AEDs, and basic medications. EMR students who successfully complete the course will receive an AHA BLS for Healthcare Providers card valid for two years and a course completion certificate.</p>
+<h3>
+	Paramedic Program</h3>
+<p>
+	The UCLA Paramedic Education Program has the distinction of being one of the first accredited paramedic programs in the United States, one of the few accredited programs in the USA offering online/hybrid paramedic courses, and one of the top performing programs in the nation. Program curriculum is developed with the most advanced medical practices and evidence based learning practices. Program curriculum includes anatomy and physiology, PHTLS, pharmacology, trauma, cardiology, and special patients. &nbsp;As part of the David Geffen School of Medicine at UCLA, the UCLA Paramedic Education Program is accredited by the Commission on Accreditation of Allied Health Education Programs upon the recommendation of the Committee on Accreditation of Educational Programs.</p>
+<h4 style="margin-bottom:0;">
+	Paramedic Instructor Boot Camp</h4>
+<p>
+	The Paramedic Instructor Boot Camp is an intensive course that includes didactic, skills, and rotations. In this course, instructors are sent to teach clinical skills and develop instructor experience. Boot Camp is taught by EMS professionals and provides hands-on training and a robust curriculum designed for any instructor who wants to gain experience or to build on foundations.</p>
+<h3>
+	Custom Programs</h3>
+<p>
+	Our program faculty have the ability to deliver and design nearly any custom course in prehospital emergency medicine and EMS including half day, full day or multiple day programs.&nbsp; Additionally, program faculty are able to deliver a wide array of course by both the American Heart Association and the National Association of EMTs (NAEMT).&nbsp;&nbsp;</p>
+<h3>
+	Advanced Cardiac Life Support (ACLS)</h3>
+<p>
+	Learn everything you need to know to lead and run a full cardiac arrest, including pathophysiology, pharmacology, and treatments. A must-have course for paramedics, nurses, respiratory therapists and physicians. Available in a traditional classroom or online hybrid formats. Qualifying students must have a current BLS (CPR) certification and a current certification as a paramedic, nurse or RT or be a current EMT who has completed ACLS Prep. Following successful completion, students will receive an America Heart Association completion certificate valid for two (2) years.</p>
+<h3>
+	Advanced Medical Life Support (AMLS)</h3>
+<p>
+	AMLS is the gold standard of education for emergency medical assessment and treatment. Endorsed by the National Association of EMS Physicians, accredited by CAPCE and recognized by NREMT, AMLS emphasizes the use of the AMLS Assessment Pathway, a systematic tool for assessing and managing common medical conditions with urgent accuracy. Students learn to recognize and manage common medical crises through realistic case-based scenarios that challenge students to apply their knowledge to highly critical patients. Topics include respiratory disorders, cardiovascular disorders, shock, altered mental status, neurological disorders, endocrine/metabolic disorders, environmental emergencies, infectious disease, abdominal disorders, toxicological emergencies, and exposure to hazardous materials. Appropriate for EMTs, paramedics, nurses, nurse practitioners, physician assistants, nurse anesthetists and physicians. Students receive a certificate of completion, recognizing them as AMLS providers for four (4) years</p>
+<h3>
+	BLS for Healthcare Provider</h3>
+<p>
+	This course covers infant, child and adult CPR for healthcare professionals and includes hands-on CPR and Automatic External Defibrillator (AED) practice. Following successful completion, students will receive an America Heart Association completion certificate valid for two (2) years.</p>
+<h3>
+	ECG &amp; Pharmacology</h3>
+<p>
+	Learn about cardiac related drugs and how to read an ECG. Recommended refresher for nurses, EMTs, paramedics, respiratory therapists, and physicians who wish to pursue an ACLS or PALS certification. Following successful completion, students will receive an America Heart Association (AHA) completion certificate valid for two (2) years.</p>
+<h3>
+	Pediatric Advanced Life Support (PALS)</h3>
+<p>
+	Learn critical assessment and treatment skills for children experiencing cardiac emergencies, shock, and respiratory failure including proficiency around intubations and obtaining vascular access in pediatric patients in a traditional classroom or online hybrid format. Following successful completion, students will receive an America Heart Association (AHA) completion certificate valid for two (2) years.</p>
+<h3>
+	Prehospital Trauma Life Support (PHTLS)</h3>
+<p>
+	PHTLS is globally acclaimed as the leading continuing education program for prehospital emergency trauma care. PHTLS is developed by NAEMT in cooperation with the American College of Surgeons' Committee on Trauma, accredited by Commission on Accreditation for Prehospital Continuing Education (CAPCE), and recognized by NREMT. PHTLS teaches the skills needed to improve the quality of trauma care and decrease mortality and promotes critical thinking as the foundation for providing quality care. Topics include physiology of life and death, scene assessment, patient assessment, airway, breathing, ventilation and oxygenation, circulation, hemorrhage and shock, patients with disabilities, and patient simulations. PHTLS is appropriate for EMTs, paramedics, nurses, physician assistants, physicians, and other prehospital providers. Following successful completion, students will receive a PHTLS provider certification valid for four (4) years.</p>
+<h3>
+	Curriculum and EMS Education Development Partnerships</h3>
+<p>
+	The center for prehospital care prides itself in partnering with our colleagues throughout the world to improve EMS training outcomes.&nbsp; The goal of these flexible short-term partnerships are meant to &nbsp;inspire and empower our colleagues.&nbsp; The vision of the program is to create evidence-based state-of-the-art projects that can become self-sustaining in their home country.&nbsp;</p>
+    		
+  </div>
+
+    		
+</div>
+  </div>
+</div>
+  </div>
+    </div>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+	
+	<div class="col-sm-3">
+      <div class="region region-footer-left">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="footer-menu footer-menu-left">
+<li>
+		<span style="color:#00a5e5;">Resources</span></li>
+<li>
+		<a href="https://www.cpc.mednet.ucla.edu/pcrf/">PCRF</a></li>
+<li>
+		<a href="/about/contact">Contact</a></li>
+<li>
+		<a href="https://vipcpc1.ad.medctr.ucla.edu/portal">Portal</a></li>
+<li>
+		<a href="https://www.cpc.mednet.ucla.edu/SRRS/Staff/StaffMain.aspx">SRRS Staff Page</a></li>
+<li>
+		<a href="/associates">Associate Resources</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-6">
+      <div class="region region-footer-middle">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="footer-menu footer-menu-center-left">
+<li>
+		<a href="/courses">Courses</a></li>
+<li>
+		<a href="/emt">EMT</a></li>
+<li>
+		<a href="/paramedic">Paramedic</a></li>
+<li>
+		<a href="/lifesupport">CPR, ACLS, PALS</a></li>
+<li>
+		<a href="/course/phlebotomy">Phlebotomy</a></li>
+<li>
+		<a href="/course/phtls">Trauma</a></li>
+</ul>
+<ul class="footer-menu footer-menu-center-center">
+<li>
+		<a href="/students">Students</a></li>
+<li>
+		<a href="/services/payment-methods">Payment Methods</a></li>
+<li>
+		<a href="/services/financial-aid">Financial Aid</a></li>
+<li>
+		<a href="/services/books">Books</a></li>
+<li>
+		<a href="/services/transcripts">Transcripts</a></li>
+</ul>
+<ul class="footer-menu footer-menu-center-right">
+<li>
+		<a href="/about">About Us</a></li>
+<li>
+		<a href="/about/contact">Contact</a></li>
+<li>
+		<a href="/giving">Giving</a></li>
+<li>
+		<a href="/about/leadership">Leadership</a></li>
+<li>
+		<a href="/diversity-resources">Equity, Diversity<br />
+		&amp; Inclusion</a></li>
+<li>
+		<a href="/about/history">Our History</a></li>
+<li>
+		<a href="/about/employment">Jobs at CPC</a></li>
+<li>
+		<a href="https://www.uclahealth.org/privacy-notice">Privacy Practices</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-3">
+      <div class="region region-footer-right">
+    <div id="block-block-4" class="block block-block">
+
+    
+  <div class="content">
+    <div style="width:185px; xmargin:20px auto;">
+	<a href="http://www.facebook.com/uclacpc"><img class="img-responsive" src="/sites/all/themes/cpc_bootstrap/theme_images/facebookIcon-240.png" style="display: inline-block; margin: 5px; max-width:120px;" /></a><!--<img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-FB.png" style="display: inline-block; margin: 5px;" /> <img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-LI.png" style="display: inline-block; margin: 5px;" /><img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-YT.png" style="display: inline-block; margin: 5px;" /> --> <a href="https://www.instagram.com/uclacpc/" target="_blank"><img src="/sites/default/files/icons/instagram_glyph_color.png" style="display: inline-block; max-height: 40px; max-width: 40px; " /></a></div>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-12 footer-bottom">
+		<div style="text-align: center; border-top: 1px solid #777;display:none;">
+		<a href="">Privacy</a> | <a href="">Terms</a>
+		</div>
+	</div>
+</footer>
+  	  <script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=21&cb=852778402" async></script></body>
+</html>

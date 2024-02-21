@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<title>Public Incident Report | UCLA Dean of Students - DOSDB2</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="apple-mobile-web-app-title" content="Advocate">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover">
+	<link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144x144-precomposed.png">
+	<script> var RESPONSIVE_THEME = true, TAB_SESSION_LINK = "/pid238405";</script>
+	<script type="text/javascript" src="/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="/js/jquery/current/jquery.min.js?t=1588632646"></script>
+<script type="text/javascript" src="/js/jslib/utils/AriaHelper.js?t=1706235854"></script>
+<script type="text/javascript" src="/js/jslib/utils/eventHelper.js?t=1706235854"></script>
+<script type="text/javascript" src="/widget_assets/selectlist/selectlist.js?t=1702514378"></script>
+<script type="text/javascript" src="/components/valkyrie/js/jquery.scrolltabs.js?t=1697725739"></script>
+<script type="text/javascript" src="/components/valkyrie/js/utils.js?t=1697725739"></script>
+<script type="text/javascript" src="/components/valkyrie/js/valkyrie-nav.js?t=1697725739"></script>
+<script type="text/javascript" src="/components/flickity/dist/flickity.pkgd.js?t=1522351194"></script>
+<script type="text/javascript" src="/js/jams_lib.js?t=1694634092"></script>
+<script type="text/javascript" src="/js/dhtml_utils.js?t=1658274698"></script>
+<script type="text/javascript" src="/jscache/6/64a7c42d0bf0215743e5f492aa2b1ed2.js"></script>
+<link rel="stylesheet" type="text/css" href="https://ucla-advocate.symplicity.com/widget_assets/selectlist/selectlist.css?t=1702514378&css=selectlist" media="all">
+<link rel="stylesheet" type="text/css" href="https://ucla-advocate.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+<link rel="stylesheet" type="text/css" href="https://ucla-advocate.symplicity.com/css/cache/2/234d837be24163b8eeacfe0738af9ec4.css?t=1697725990&css=_core" media="all">
+<link rel="stylesheet" type="text/css" href="https://ucla-advocate.symplicity.com/css/cache/4/4cd2a4933c9dcc492afe93b0b6beeb7e.css?t=1674063346&css=public" media="all">
+</head>
+<body class="yui-skin-sam  responsive-section public-page page-student page-advocate" ng-app="publicAdvApp">
+	<div class="frame-wrapper">
+		<div id="frame">
+			<header class="page-top" role="banner">
+				<div class="page-top-wrapper">
+					<div id="page-brand">
+						<span class="sr-only">UCLA Dean of Students - DOSDB2</span>
+																					<a href="https://ucla.edu" class="nav-brand">
+								<span class="sr-only">Visit https://ucla.edu</span>
+																							<img src="/files//ac9/ac953f90979f3c5a15bc237c177af829_170_170.png" alt="" style="display: inline-block; vertical-align: middle;">
+																							</a>
+																		</div>
+										<div class="public-actions">
+								<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Accessibility Menu" label-closed="Open Accessibility Menu"  label-opened="Close Accessibility Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><a href="?simplify_interface=1" title="You are in Default Mode. Some browsers may have difficulty accessing enhanced content. Click this link to switch to Accessibility Mode." class="accessibility_mode acc_mode-off forcefg" onclick="return confirm('Accessibility Mode is only recommended for users of assistive technologies. Functionality and content is equivalent in Accessibility Mode, but some interface elements will be formatted differently for optimal compatibility. Are you sure you want to switch to Accessibility Mode?');">Accessibility Mode: Off<span style="position:absolute;left:-9000px;"> use this link to improve screen reader compatibility.</span></a></div>														</div>		
+	</div>
+</div>
+					</div>
+									</div>
+			</header>
+			<main>
+				<div class="page-title-wrapper">
+											<h1 class="page-title">Public Incident Report</h1>
+									</div>
+				<div class="page-main">
+	<div class="module">
+		<div class="content-container">
+			<a name="content"></a>
+												<div class="module_instructions"  id="ui_module_instructions">
+						Thank you for contacting us. Please provide us with as much detail about the incident as possible.<br />
+ <br />
+If you have any questions or concerns before submitting a public report, please contact the Office of the Dean of Students at (310) 825-3894. If you are reporting student misconduct, please contact the Office of Student Conduct at (310) 825-3871. Our offices are open 9:00am-5:00pm, Monday-Friday. Reports received after 5:00pm, on the weekend, or days the University is closed may have a delay in response time. If you have an immediate health or safety issue, please contact your local Law Enforcement or 911.
+					</div>
+										<div class="content-container-inner">
+				
+												<div class="form form-editmode">
+<form name="incident_form" id="incident_form" enctype="multipart/form-data" method="post">
+<div class="form_content">
+<input type="hidden" name="_____dummy" value="dnf_">
+<input type="hidden" name="so_form_prefix" value="dnf_">
+<input type="hidden" name="dnf_opt_action" value="insert">
+<input type="hidden" name="dnf_opt_template" value="kg10YznI86McgUe/FHU30IhJjCJfmerfKrBZQZStOjw=">
+<input type="hidden" name="dnf_opt_template_dir" value="KSZbCg+ABjTZAbok8nenmPA9lRfNwwLby0c9Aq5vAxsz7tPU2aXhU9ZeFHYrdeyfpO4UvU79tFCz+ef6UINK6UglLRo0kFbh">
+<input type="hidden" name="dnf_opt_subform_template" value="wt2FtWIHgv4LXVJTqVsAwmF719zd85B9">
+<input type="hidden" name="dnf_opt_finalize" value="0">
+<input type="hidden" name="dnf_opt_mode" value="update">
+<input type="hidden" name="dnf_opt_target" value="">
+<input type="hidden" name="so_form_checksum" value="RJKvGXfA4azKrAY7s3ZoztCZUxSoj3em61Xl9iq1eJSMDNCKppkVMt0tfuId9+0YzX0tZ/r8pN8=">
+<input type="hidden" name="so_form_timestamp" value="b4ikU/DKYP1kNWqMyWb0v4yEnQF6kS013b9heiFMPgA+fYH5PPEEjA7Knxg8ZOst">
+<input type="hidden" name="so_form_options" value="jQWwfPwuFCLDAEd148uogaPvuFBjQu+el8nvQsUKVL7HV0ssVL1CIvgBdW+Mrj1j2a/qRRCImJI=">
+<input type="hidden" name="dnf_opt_validate" value="1">
+<input type="hidden" name="dnf_class_values[incident][dnf_class_name]" value="incident">
+<input type="hidden" id="dnf_class_values_incident__status_" minlength="0" no_submit="" name="dnf_class_values[incident][status]" value="PUB">
+<input type="hidden" id="dnf_class_values_incident__workflow_status_" minlength="0" no_submit="" name="dnf_class_values[incident][workflow_status]" value="0">
+<input type="hidden" id="dnf_class_values_incident__incident_id_" minlength="0" no_submit="" name="dnf_class_values[incident][incident_id]" value="4e98713db203145188861dfe2e2d8ebd">
+<input type="hidden" id="dnf_class_values_incident__from_external_" minlength="0" no_submit="" name="dnf_class_values[incident][from_external]" value="1">
+<div class="req-msg"><span class="req-indicator" style="color:#e31414">*</span> indicates a required field</div>
+<div class="xlate-form-w">
+</div>
+<div>
+<div id="incident_form_fieldgroup__default_section" class="fieldgroup fg-first fg-last">
+<div class="fg-title">
+<h2>
+Reporter Type									</h2>
+</div>
+<div id="so_formfield_dnf_class_values_incident__reporter_type_" class="field  first field-first last field-last"aria-labelledby="dnf_class_values_incident__reporter_type__field-label"aria-describedby="dnf_class_values_incident__reporter_type__field-blurb">
+<div class="field-label" id="dnf_class_values_incident__reporter_type__field-label">
+<label  for="dnf_class_values_incident__reporter_type_" >I am reporting<span class="sr-only">Required</span></label> <span class="req-indicator" aria-hidden="true"><span class="req-indicator" style="color:#e31414">*</span></span>
+</div>
+<div class="field-blurb" id="dnf_class_values_incident__reporter_type__field-blurb">
+Please indicate the type of incident you are reporting. For details on the types of incidents, refer to Dean of Students website. 			</div>
+<div class="field-widget field-widget-picklist" id="dnf_class_values_incident__reporter_type__widget">
+<select size="1" onchange="sympFormSubmit(this.form, this);" aria-describedby="dnf_class_values_incident__reporter_type__field-blurb" js_required_field="I am reporting" id="dnf_class_values_incident__reporter_type_" name="dnf_class_values[incident][reporter_type]" aria-labelledby="dnf_class_values_incident__reporter_type__field-label" class="js-selectlist-select"><option value=""></option><option value="1002">Academic Misconduct</option>
+<option value="1001">Hate Crime</option>
+<option value="1000">Hazing</option>
+<option value="999">Incident of Bias</option>
+<option value="1004">Non-Academic Misconduct</option>
+<option value="1006">Student Group Conduct</option>
+<option value="1005">Other</option>
+<option value="1007">Student Debt Related Hold Grievance</option>
+<option value="1010">Student Disability Grievance</option>
+<option value="1009">Student Discrimination (Not Disability) Grievance</option>
+<option value="1008">Student Privacy Grievance</option>
+</select>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="buttonbar buttonbar-bottom">
+<input value="submit" type="submit" name="dnf_opt_submit" onclick="this.form.dnf_opt_finalize.value='1'" class="input-submit btn  btn_go">		</div>
+</form>
+</div>
+							</div>
+		</div>
+	</div>
+</div>
+			</main>
+					</div>
+	</div>
+	<div class="invisible">
+				<iframe name="__hiddenframe1" src="/utils/blank.htm" width="1" height="1" frameborder="0" tabindex="-1" title="Hidden frame used for system functionality."></iframe>
+				<iframe name="__hiddenframe2" src="/utils/blank.htm" width="1" height="1" frameborder="0" tabindex="-1" title="Hidden frame used for system functionality."></iframe>
+				<iframe name="__hiddenframe3" src="/utils/blank.htm" width="1" height="1" frameborder="0" tabindex="-1" title="Hidden frame used for system functionality."></iframe>
+				<iframe name="__hiddenframe4" src="/utils/blank.htm" width="1" height="1" frameborder="0" tabindex="-1" title="Hidden frame used for system functionality."></iframe>
+				<iframe name="__hiddenframe5" src="/utils/blank.htm" width="1" height="1" frameborder="0" tabindex="-1" title="Hidden frame used for system functionality."></iframe>
+			</div>
+	<script type="text/javascript" src="/components/valkyrie/js/actions-toggle.js?t=1697725739"></script>
+<script type="text/javascript" src="/jscache/b/ba1471b3c6a3aa6bc495ddf00639cdfa.js"></script>
+<script type="text/javascript">
+initJsSelectLists();</script>
+</body>
+</html>

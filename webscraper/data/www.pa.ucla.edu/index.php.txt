@@ -1,0 +1,370 @@
+
+<!DOCTYPE html>
+<title>UCLA Physics & Astronomy</title>
+<head> 
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="update.css">
+<link rel="SHORTCUT ICON" href="favicon.ico" />
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</head>
+<body>
+<ol class="breadcrumb bg-primary text-light">
+  <li class="breadcrumb-item"><img src="logo_UCLA_white.svg" class="ucla-logo" /></li>
+  <li class="breadcrumb-item">College</li>
+  <li class="breadcrumb-item">Physical Sciences</li>
+</ol>
+
+<nav class="navbar navbar-expand-lg navbar-light mt-0 mt-lg-0 mr-4 border-bottom mb-4">
+  <a class="navbar-brand" href="https://www.pa.ucla.edu/index.php"><img src="https://www.pa.ucla.edu/pa-logo-new.png" height="110px"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarText">
+    <!-- To change the menu alignment from left to right, use ml-auto -->
+    <ul class="navbar-nav mr-auto text-primary">
+      <li class="nav-item"><a class="nav-link text-primary" href="https://www.pa.ucla.edu/index.php">Home</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          About
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            
+          <a class="dropdown-item" href="../videos/admitvideo.html" >Admit Video</a>
+          <a class="dropdown-item" href="https://youtu.be/chk8MNJJ950">APS video tour of Physics & Astronomy</a>
+          <a class="dropdown-item" href="/visiting.html">Visiting the Department</a>
+          <a class="dropdown-item" href="/annual-report.html">Annual Reports</a>
+          <a class="dropdown-item" href="/diversity.html">Diversity</a>
+          <a class="dropdown-item" href="/open-positions.html">Employment</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Education
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/undergraduate-program.html">Undergraduate</a>
+          <a class="dropdown-item" href="/graduate-admissions.html">Graduate admissions</a>
+          <a class="dropdown-item" href="/current-graduate-students.html">Current graduate students</a>
+          <a class="dropdown-item" href="https://bruinlearn.ucla.edu/courses/288">BruinLearn, UCLA's new LMS</a>
+          <a class="dropdown-item" href="/phd-physics-bridge-program.html">Physics PhD Bridge Program</a>
+          <a class="dropdown-item" href="/undergraduate-research-experience.html">REU program</a>
+          <a class="dropdown-item" href="https://qst.ucla.edu/">Quantum master program</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link text-primary" <a href="/research.html">Research</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" <a href="http://www.astro.ucla.edu/">Astro&nbsp;Division</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          People
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/faculty.html">Faculty</a>
+          <a class="dropdown-item" href="/faculty-affiliated.html">Affiliated Faculty</a>
+          <a class="dropdown-item" href="/researchers.html">Researchers, Project Scientists, Adjuncts</a>
+          <a class="dropdown-item" href="/lecturers.html">Lecturers</a>
+          <a class="dropdown-item" href="/postdocs.html">Postdoctoral Scholars</a>
+          <a class="dropdown-item" href="/grad-students.html">Graduate Students</a>
+          <a class="dropdown-item" href="/staff.html">Staff</a>
+          <a class="dropdown-item" href="/memorials.html">Memorials</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/events.php">Events</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/clubs.html">Clubs</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/giving.html">Giving</a></li>
+      <!--<li class="nav-item"><a class="nav-link text-primary" href="/contact.html">Contact</a></li>-->
+      <!--<li class="nav-item"><a class="nav-link"><img src="images/search-icon-2.svg" /></a></li>-->
+      <!--<li class="nav-item"><a class="nav-link"><img src="https://atmos.ucla.edu/Icon/search-icon-2.svg" /></a></li>-->
+    </ul>
+  </div>
+</nav>
+<div class="container">
+    <div class="row">
+    <div class="col-md-6 order-md-1 col-sm-12 order-sm-0 pb-4 text-center">
+      <div id="paHome-slider" class="carousel slide-fade"  data-ride="carousel"> 
+          <div class="carousel-inner">
+    				 <div class="carousel-item active">
+				      						<img class="d-block w-100" src="images/carousel/Bridge-Program-Lunch.jpg" style="width:82%; height: 82%; alt= ">  
+				      			</div>
+				      			<div class="carousel-item">
+				      						<img class="d-block w-100" src="images/carousel/Ablemman-teaching-Awards.jpg" style="width:82%; height: 82%; alt= ">
+				      			</div>
+				      			<div class="carousel-item">
+				      						<img class="d-block w-100" src="images/carousel/BaPSF_Group_C1.jpg" style="width:82%; height: 82%; alt= ">
+				      			</div>
+						
+      		</div> 	
+      		<div><a href="https://www.pa.ucla.edu/reiner-stenzel-memorial.html"><img src="images/stenzel-memoial.png" width="200px" class="image1 float-left" hspace="15px" alt="..."></a><h5 class="standout">Emeritus Prof. Reiner L. Stenzel</h5>
+						<h5>In Memoriam</h5><br>The department mourns the loss of beloved friend and colleague, Reiner L. Stenzel. <a href="https://www.pa.ucla.edu/reiner-stenzel-memorial.html">See more.</a>
+						</div>
+      		<!--
+  				<div class="carousel-inner">
+    				 <div class="carousel-item active">
+      						<img class="d-block w-100" src="images/carousel/graduation-2023-0.png" style="width:82%; height: 82%; alt= ">   
+      						<div class="carousel-caption d-none d-sm-block">        	
+          						<h4 class="mx-auto text-white" style="background-color: rgba(40, 38, 57,0.2); margin:0em auto;width:max-content;">First slide label </h4>
+        					</div>
+    					</div>
+    					<div class="carousel-item">
+      						<img class="d-block w-100" src="images/carousel/graduation-2023-1.png" style="width:82%; height: 82%; alt= ">
+      						<div class="carousel-caption d-none d-sm-block">        	
+          						<h4 class="mx-auto text-white" style="background-color: rgba(40, 38, 57,0.2); margin:0em auto;width:max-content;">Second slide label</h4>
+        					</div>
+    					</div>
+    					<div class="carousel-item">
+      						<img class="d-block w-100" src="images/carousel/graduation-2023-2.png" style="width:82%; height: 82%; alt= ">
+      						<div class="carousel-caption d-none d-sm-block">        	
+          						<h4 class="mx-auto text-white" style="background-color: rgba(40, 38, 57,0.2); margin:0em auto;width:max-content;">Third slide label</h4>
+        					</div>
+    					</div>
+    					<div class="carousel-item">
+      						<img class="d-block w-100" src="images/carousel/graduation-2023-3.png" style="width:82%; height: 82%; alt= ">
+      						<div class="carousel-caption d-none d-sm-block">        	
+          						<h4 class="mx-auto text-white">Fourth slide label</h4>
+        					</div>
+    					</div>
+    					<div class="carousel-item">
+      						<img class="d-block w-100" src="images/carousel/graduation-2023-4.png" style="width:82%; height: 82%; alt= ">
+      						<div class="carousel-caption d-none d-sm-block">        	
+          						<h4 class="mx-auto text-white" style="background-color: rgba(40, 38, 57,0.3); margin:0em auto;width:max-content;">Fifth slide label </h4>
+        					</div>
+    					</div>
+    					<div class="carousel-item">
+						        <img class="d-block w-100" src="images/carousel/xlzd-1.png" style="width:82%; height: 82%; alt= ">
+      						<div class="carousel-caption d-none d-sm-block">        	
+          						<h4 class="mx-auto text-white" style="background-color: rgba(40, 38, 57,0.2); margin:0em auto;width:max-content;">Sixth slide label</h4>
+        					</div>
+						  </div>
+						  <div class="carousel-item">
+						        <img class="d-block w-100" src="images/carousel/xlzd-2.png" style="width:82%; height: 82%; alt= ">
+      						<div class="carousel-caption d-none d-sm-block">        	
+          						<h4 class="mx-auto text-white" style="background-color: rgba(40, 38, 57,0.2); margin:0em auto;width:max-content;">Seventh slide label</h4>
+        					</div>
+						  </div>
+						  <div class="carousel-item">
+						        <img class="d-block w-100" src="images/carousel/gallery_sample.jpg" style="width:82%; height: 82%; alt= ">
+      						<div class="carousel-caption">        	
+          						<h4 class="mx-auto text-white" style="background-color: rgba(40, 38, 57, 0.3); margin:0em auto;width:max-content;">Eighth slide label</h4>
+        					</div>
+						  </div>
+
+  				</div>
+  			-->
+			</div>
+    </div>
+    <div class="col-md-6 order-md-0 col-sm-12 order-sm-1">
+      <p class="branding-ribbon">FROM THE LARGEST TO THE SMALLEST:</p>
+      <br/><p class="branding-ribbon">THE UNIVERSE AND EVERYTHING IN IT</p>
+      <div class="img_sm"></div>
+      <p class="standout">The areas embraced by UCLA physics research span the range from the well-established disciplines of "big science," e.g. studying the Higgs Boson at the LHC, and frontier 
+      plasma science underpinning fusion energy to newly emerging fields such as the physics of neuroscience and quantum science.</p> 
+      <p class="standout">In astronomy, UCLA faculty are pioneers in the areas of extra-solar system planets, galactic astronomy, and cosmology. This effort is uniquely enabled by the world-renowned 
+      capabilities in design and construction of infrared instrumentation by our Infrared Laboratory. <br /><br /><a href="research.html">Learn more</a></p>
+      <hr>
+      <p class="annual-reflection"><a  href="https://www.pa.ucla.edu/annual-reports/Reflections-2020-21.pdf">Browse our latest Annual Report: Reflections</a></p> 
+      <p><a href="https://www.youtube.com/watch?v=DYDktfbW-aU"><h4>Watch Prof. Alice Shapley's Faculty Research Lecture </h4></a></p>
+
+    </div>
+  </div>
+</div>
+<div><hr></div>
+
+
+
+
+
+
+<div class="container">
+  <h2 class="module-header">Latest News</h2>
+  <div class="card-deck">
+    <div class="card col-sm-8 col-md-6 col-xl-3 mb-4">
+      <div class="">
+        <a href="https://newsroom.ucla.edu/releases/a-jupiter-sized-planet-was-hiding-a-350-000-mile-long-tail, and https://www.nytimes.com/2024/01/12/science/wasp-69b-tail-planet.html"><img class="card-img" src="images/news/tail-trails-hot-Jupiter.png" /></a>
+        <div class="card-body">
+<p>Dakotah Tyler, Professor Erik Petigura report comet-like tail trails hot Jupiter exoplanet WASP-69b<br><a href="https://newsroom.ucla.edu/releases/a-jupiter-sized-planet-was-hiding-a-350-000-mile-long-tail">See more...</a><br><a href="https://www.nytimes.com/2024/01/12/science/wasp-69b-tail-planet.html">See more...</a><br></p>
+        </div>
+      </div>
+    </div>
+  <div class="w-100 d-none d-sm-block d-md-none"></div>
+    <div class="card col-sm-8 col-md-6 col-xl-3 mb-4">
+      <div class="">
+        <a href="https://physicalsciences.ucla.edu/hrl-laboratories-and-ucla-researcher-awarded-grant-to-advance-quantum-computing/"><img class="card-img" src="images/news/HRL-Laboratories.png" /></a>
+        <div class="card-body">
+          <p>HRL Laboratories and Professor Jason Petta Awarded Grant to Advance Quantum Computing<br><a href="https://physicalsciences.ucla.edu/hrl-laboratories-and-ucla-researcher-awarded-grant-to-advance-quantum-computing/">See more...</a></p>
+        </div>
+      </div>
+    </div>
+  <div class="w-100 d-none d-sm-block d-md-none"></div>
+    <div class="card col-sm-8 col-md-6 col-xl-3 mb-4">
+      <div class="">
+        <a href="https://newsroom.ucla.edu/releases/dark-matter-reveal-bright-galaxies-beginning-of-time#:~:text=If%20models%20of%20cold%20dark,drawing%20board%20with%20dark%20matter"><img class="card-img" src="images/news/bright_galaxies.png" /></a>
+        <div class="card-body">
+          <p>Are there bright galaxies in the early universe?<br><a href="https://newsroom.ucla.edu/releases/dark-matter-reveal-bright-galaxies-beginning-of-time#:~:text=If%20models%20of%20cold%20dark,drawing%20board%20with%20dark%20matter">See more...</a></p>
+        </div>
+      </div>
+    </div>
+  <div class="w-100 d-none d-sm-block d-md-none"></div>
+    <div class="card col-sm-8 col-md-6 col-xl-3 mb-4">
+      <div class="">
+        <a href="https://aas.org/press/aas-names-21-new-fellows-2024"><img class="card-img" src="images/news/malkan_naoz.png" /></a>
+        <div class="card-body">
+          <p>Prof Malkan and Prof Naoz have been elected fellows of the American Astronomical society<br><a href="https://aas.org/press/aas-names-21-new-fellows-2024">See more...</a></p>
+        </div>
+      </div>
+    </div>
+  <div class="w-100 d-none d-sm-block d-md-none"></div>
+  </div>
+</div>
+	
+	<div class="container">
+    	<div class="row">
+    	<div class="col-md-6 order-md-1 col-sm-12 order-sm-0 pb-4">
+		<p><a href="news-archive.php">Read our news archive</a></p>
+		</div>
+	</div
+	</div>
+	</div>
+	
+	
+
+<div class="container">
+  <h2 class="module-header"><a href="https://www.pa.ucla.edu/events.php">Events</a></h2>
+  <div class="card-deck">
+    <div class="card col-sm-8 col-md-6 col-xl-3 mb-4">
+      <a href="events/alice_shapley.pdf"><img class="card-img" src="images/events/alice_shapley.png" /></a>
+      <div class="card-img-overlay card-event">
+        <div class="event-date">
+          <div class="event-date-dow">THU</div>
+          <div class="event-date-month">FEB</div>
+          <div class="event-date-dom">22</div>
+        </div>
+      </div>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item">
+          <img src="../images/time-icon.png" /> 4:00PM to 5:00PM
+        </li>
+        <li class="list-group-item">
+          <img src="../images/location-icon.png" /> PAB 1-434
+        </li>
+      </ul>
+      <div class="card-body list-group-item">
+        <h5 class="card-title">Alice Shapley</h5>
+        UCLA<br><br>        <p>          <a href="events/alice_shapley.pdf">The JWST Revolution in Galaxy Formation: It's the Spectra, Stupid!</a><br>        Physics and Astronomy Colloquium</p>
+      </div>
+    </div>
+  <div class="w-100 d-none d-sm-block d-md-none"></div>
+    <div class="card col-sm-8 col-md-6 col-xl-3 mb-4">
+      <a href="events/Bradley_Siwick.pdf"><img class="card-img" src="images/events/Bradley_Siwick.png" /></a>
+      <div class="card-img-overlay card-event">
+        <div class="event-date">
+          <div class="event-date-dow">THU</div>
+          <div class="event-date-month">FEB</div>
+          <div class="event-date-dom">29</div>
+        </div>
+      </div>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item">
+          <img src="../images/time-icon.png" /> 4:00PM to 5:00PM
+        </li>
+        <li class="list-group-item">
+          <img src="../images/location-icon.png" /> PAB 1-434
+        </li>
+      </ul>
+      <div class="card-body list-group-item">
+        <h5 class="card-title">Bradley Siwick</h5>
+        McGill University<br><br>        <p>          <a href="events/Bradley_Siwick.pdf">Shining New Light on Material Properties: Structure and Dynamics with Ultrafast Electron Microscopes</a><br>        Physics and Astronomy Colloquium</p>
+      </div>
+    </div>
+  <div class="w-100 d-none d-sm-block d-md-none"></div>
+    <div class="card col-sm-8 col-md-6 col-xl-3 mb-4">
+      <a href="events/plasma/Jack_Hare.pdf"><img class="card-img" src="images/plasma/Jack_Hare.png" /></a>
+      <div class="card-img-overlay card-event">
+        <div class="event-date">
+          <div class="event-date-dow">FRI</div>
+          <div class="event-date-month">MAR</div>
+          <div class="event-date-dom">01</div>
+        </div>
+      </div>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item">
+          <img src="../images/time-icon.png" /> 12:30PM to 1:30PM
+        </li>
+        <li class="list-group-item">
+          <img src="../images/location-icon.png" /> PAB 4-330  and on Zoom
+        </li>
+      </ul>
+      <div class="card-body list-group-item">
+        <h5 class="card-title">Jack Hare</h5>
+        MIT<br><br>        <p>          <a href="events/plasma/Jack_Hare.pdf">Pulsed-Power-Driven Plasma Physics at MIT</a><br>        Plasma Seminar</p>
+      </div>
+    </div>
+  <div class="w-100 d-none d-sm-block d-md-none"></div>
+  </div>
+</div>
+
+<div class="container">
+    	<div class="row">
+    	<div class="col-md-6 order-md-1 col-sm-12 order-sm-0 pb-4">
+    	<p><a href="events.php">Click this link to view all currently-scheduled events</a></p> 			
+		</div>
+	</div
+	</div>
+	</div>
+<!--<footer class="footer bg-primary text-light">-->
+	<script>
+        // Handle Bootstrap carousel slide event
+        $('.carousel').carousel({
+            interval: 6000
+        });
+    </script>
+<footer class="site-footer">
+<footer class="footer text-light">
+<div class="container">
+<div class="row pt-3 pb-3">
+<div class="col-4">
+<!--<img src="white-pa-logo-new-crop.png" height="45px" align="left" />-->
+<h5>UCLA Physics & Astronomy Department</h5>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> UCLA Physics & Astronomy<br />
+475 Portola Plaza, Los Angeles, CA 90095-1547<br />
+310-825-3440</p>
+<p>
+<ul>
+	<li><a href="https://www.pa.ucla.edu/contact.html">Contact Physics & Astronomy</a></li>
+</ul>
+</p>	
+</div>
+<div class="col-4">
+<!--<img src="https://atmos.ucla.edu/sites/default/files/Uxd_Wht_ATMOS.svg" />-->
+<h5>ABOUT UCLA</h5>
+<p>
+<ul>
+      	<li><a href="http://www.ucla.edu/">UCLA Home</a></li>
+      	<li><a href="https://www.physicalsciences.ucla.edu/">Division of Physical Sciences</a></li>
+      	<li><a href="https://covid-19.ucla.edu/">UCLA COVID-19 Resources</a></li>
+      	<li><a href="https://admission.ucla.edu/visit/maps-and-parking">Maps, directions, and parking</a></li>
+      </ul>
+</p>
+
+</div>
+<div class="col-4">
+<!--<img src="https://atmos.ucla.edu/sites/default/files/Uxd_Wht_ATMOS.svg" />-->
+<h5>RESOURCES</h5>
+<p>
+<ul>
+      	<li><a href="https://bruinlearn.ucla.edu/courses/288">BruinLearn</a></li>
+      	<li><a href="https://www.pa.ucla.edu/instructional-support.html">Instructional Support</a></li>
+      	<li><a href="http://www.pa.ucla.edu/diversity.html">Diversity</a></li>
+        <li><a href="http://www.pa.ucla.edu/wellness.html">Wellness</a></li>
+        <li><a href="/covid.html">COVID</a></li>
+        <li><a href="https://computing.pa.ucla.edu/">Computing and IT Support</a></li>
+        <!--<li><a href="http://iff.pa.ucla.edu/">Machine Shop and Instrument Fabrication Facility</a></li>  -->
+        <li><a href="https://machine-shop.pa.ucla.edu">Machine Shop and Instrument Fabrication Facility</a></li>
+        <li><a href="https://www.pa.ucla.edu/research-store.html">Research Store</a></li> 
+      	<li><a href="http://www.pa.ucla.edu/contact.html">Physics & Astronomy Administration</a></li>
+      	<li><a href="http://demoweb.physics.ucla.edu/demo-manual">Demoweb: Lecture demonstration </a></li>
+      	<li><a href="http://demoweb.physics.ucla.edu/">Demoweb: Lab manuals</a></li>
+      </ul>
+</p>
+</div>

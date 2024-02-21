@@ -1,0 +1,720 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Careers in Student Health | UCLA Student Health</title>
+<link rel="stylesheet" href="/themes/custom/ucla_sa/fonts/proximanova.css?v=20240220144912">
+<link rel="stylesheet" href="/themes/custom/ucla_sa/css/ucla_sa.css??v=20240220144912">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120085288-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', 'UA-120085288-1');
+</script>
+<style type="text/css">
+.full-bleed-text{
+     padding:6%;
+}
+@media only screen and (min-width:990px){
+     .full-bleed-bg{
+         background: url(/media/487);
+         height:640px;
+         background-repeat: no-repeat;
+         background-size: 100%;
+         padding: 2rem;
+         margin-right: -24px;
+         margin-left: -24px;
+    }
+    .full-bleed-bg img{
+         display:none;
+    }
+    .full-bleed-text h2{
+         font-size: 3rem;
+         line-height: 3.375rem;
+         padding-bottom:2%;
+    }
+    .full-bleed-text p, .full-bleed-text ul{
+         font-size:16pt;
+         line-height: 1.4;
+    }
+}
+@media only screen and (max-width:1024px){
+     .full-bleed-text{
+         padding: 4% 
+    }
+}
+
+
+
+.button-with-bg{
+  text-align: center;
+  background-image: linear-gradient(#003B5C, #2774AE);
+  margin: 0 -24px -4px -24px;
+  padding: 2rem;
+}
+
+.button-with-bg h2 {
+ color:#fff;
+ font-weight:normal;
+}
+
+.bg-button a {
+ background-color: var(--ucla-gold);
+ border-color: var(--ucla-gold);
+ color: #000000;
+}
+
+.bg-button a:hover, .bg-button a:focus {
+ background-color: var(--yellow);
+ border-color: var(--yellow);
+color: #000000;
+}
+
+.ashe-floor-1 {
+  width: 109px;
+  height: 280px;
+  background-image: url('/file/d631dcd5-329a-4cc3-aa13-95a622d717ed');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ashe-floor-2 {
+  width: 187px;
+  height: 280px;
+  background-image: url('/file/6bf4b8aa-1230-499b-89a5-174dfb6f55f8');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ashe-floor-3 {
+  width: 136px;
+  height: 280px;
+  background-image: url('/file/b3e196ae-bd4f-4cc3-895b-6a0c9db975d0');
+ background-repeat: no-repeat;
+  background-size: cover;
+}
+.ashe-floor-4 {
+  width: 163px;
+  height: 280px;
+  background-image: url('/file/5d544f8b-240f-4524-b511-91bc6344ac9b');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.ashe-floor-descriptions {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 1rem;
+}
+.ashe-floor-descriptions p {
+  display: inline-block; 
+   vertical-align: top;
+}
+.ashe-room-radiology {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/d4e70fd1-2fab-48e6-9ff8-744627eaca9b');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-womens {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/5ad53dc9-c564-46dc-9edd-22c3aaeb737b');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-acupuncture {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/793e100d-14a8-4aab-b56e-585721bfd304');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-scheduling {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/40ed8066-6720-452c-890b-3283e5b417ce');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-2-clinic {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/0f600fff-520f-42bf-b32e-22abb9c4c9e2');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-dental {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/1abd9f51-be51-4fb5-9d40-b2cd429a6e83');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-nursing {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/afdea2af-83c4-4add-b611-c3aa88eac7af');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-immune {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/6d25268e-2d10-4517-98c2-fe2f6b38b606');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-physical-therapy {
+  width: 57px;
+  height: 57px;
+  background-image: url('file/3985052e-3b2d-45d7-b961-8c37c9734d85');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-records {
+  width: 57px;
+  height: 57px;
+  background-image: url('file/0510707f-0eef-4615-882e-4dbefd38861f');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-insurance {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/c0eaeffc-1b38-43d8-8735-8a807eb4dd69');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+@media (max-width:768px) {
+  .ashe-floor-descriptions {
+      margin-top: 2rem;
+  }
+}
+img {
+display: block;
+}
+.tables-col-4 th, .tables-col-4 td {
+    width: 25%;
+}
+.tables-col-5 th, .tables-col-5 td {
+    width: 20%;
+}
+</style>
+<script type="text/javascript">
+"use strict";
+async function covidFAQ() {
+    var node = document.querySelector('[data-ucla=covid-faq]');
+    if(typeof(node) == undefined || node == null) {
+        return;
+    }
+    var before = `${node.innerHTML}`;
+    node.innerText = 'Loading FAQs...';
+    var r = await fetch('https://www.uclahealth.org/ucla-campus-faq-feed.cfm?smajax=true');
+    var data = await r.json();
+    node.innerHTML = '';
+    var toc = document.createElement('div');
+    toc.classList.add('table-of-contents');
+    node.parentNode.insertBefore(toc, node);
+    console.log(node.parentNode.parentNode);
+    var activeCategory = '';
+    for(var i=0; i<data.length; i++) {
+        var item = data[i];
+        if(activeCategory != item.category) {
+            var h2 = document.createElement('h2');
+            h2.innerHTML = item.category;
+            activeCategory = `${item.category}`;
+            node.appendChild(h2);
+        }
+        var h3 = document.createElement('h3');
+        h3.innerHTML = item.question;
+
+        var div = document.createElement('div');
+        div.innerHTML = item.answer;
+
+        for(var ul of div.querySelectorAll('ul')) {
+            ul.classList.add('bullet');
+        }
+        for(var a of div.querySelectorAll('a')) {
+            if(!a.getAttribute('href').match(/http/)) {
+                a.setAttribute('href', `https:///www.uclahealth.org/${a.getAttribute('href')}`);
+            }
+        }
+
+        node.appendChild(h3);
+        node.appendChild(div);
+    }
+
+var tocs = document.querySelectorAll('.table-of-contents');
+for(var i=0; i < tocs.length; i++) {
+    generateTableOfContents(tocs[i]);
+}
+
+ 
+
+
+function generateTableOfContents(toc) {
+    var parent = document.querySelector('.page-content');
+    toc.innerHTML = '';
+    var currentLevel = 2;
+    var ulForLevel = {
+        2: document.createElement('ul'),
+        3: null
+    }
+    toc.appendChild(ulForLevel[2]);
+    console.log(ulForLevel);
+    var tocFound = false;
+    var items = parent.querySelectorAll('h2, h3');
+    console.log(items);
+    for(var i=0; i < items.length; i++) {
+        var item = items[i];
+        console.log(item);
+        var key = item.textContent.replace(/ /g, '_').replace(/[^a-zA-Z0-9_]/g, '').toLowerCase();
+        item.id = key;
+        var li = document.createElement('li');        
+        var a = document.createElement('a');
+        a.href = '#' + key;
+        a.innerText = item.innerText;
+        li.appendChild(a);
+        var level = parseInt(item.nodeName.replace('H', ''));
+        if(currentLevel > level) {
+            ulForLevel[currentLevel] = null;
+        } else if(level == NaN) {
+        	level = 2;
+        }
+        if(ulForLevel[level] != null) {
+            ulForLevel[level].appendChild(li);           
+        } else {
+            ulForLevel[level] = document.createElement('ul');
+            console.log( ulForLevel[level - 1], item, level);
+            ulForLevel[level - 1].querySelector(':scope > li:last-child').appendChild(ulForLevel[level]);
+            ulForLevel[level].appendChild(li);
+        }
+        currentLevel = level;
+    }
+}
+
+}
+
+if (document.readyState === "complete" || document.readyState === "interactive") {
+    // Document is already ready to go.
+    setTimeout(covidFAQ, 1);
+} else {
+    document.addEventListener('DOMContentLoaded', function (event) {
+        covidFAQ();
+    });
+}
+</script>
+</head>
+<body
+    data-ucla-ref="load/careers"
+    data-ucla-path="/careers"
+    data-ucla-origin="https://www.studenthealth.ucla.edu"
+    class="no-js"
+>
+<script>document.body.classList.remove('no-js'); document.body.classList.add('js');</script>
+<header class="header">
+    <div class="skip-to-main">
+    <a href="#main">Skip to Main Content</a>
+    </div>
+            <div class="nav-topbar desktop-only">
+    <nav aria-label="Secondary Top" class="nav-secondary container">
+    <ul>
+  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
+  <li><a href="https://www.immunizationrequirement.ucla.edu/">Immunization Requirements</a></li>
+  <li><a href="/afterhours">AfterHours</a></li>
+  <li><a href="/careers">Careers</a></li>
+  <li class="topbar-yellow-button"><strong><a href="/portal">PATIENT PORTAL</a></strong></li>
+</ul>
+    </nav>
+    </div>
+    <div class="headerbar container">
+          <a href="/" class="site-name"><img src="/sites/default/files/UCLA_Logo_AsheCenter.fw_.png" height="70" width="780" alt="UCLA Arthur Ashe Student Health &amp; Wellness Center"></a>
+          <div class="header-right">
+      <button class="mobile-only" aria-haspopup="true" aria-controls="menus" aria-expanded="false" aria-label="Main Menus"></button>
+      <form action="https://www.ucla.edu/search" method="GET" class="site-search desktop-only">
+      <label for="header-search-headerbar">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-headerbar"><button type="submit">Search</button>
+      </form>
+      </div>
+    </div>
+    <div id="menus">
+    <form action="https://www.ucla.edu/search" method="GET" class="site-search mobile-only">
+      <label for="header-search-mobile-only">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-mobile-only"><button type="submit">Search</button>
+    </form>
+    <nav aria-label="Main" class="nav-main container">
+    <ul>
+  <li><a href="/services">Services</a></li>
+  <li><a href="/insurance">Insurance</a></li>
+  <li><a href="/fees">Fees</a></li>
+  <li><a href="/about">About</a></li>
+  <li><a href="/contact">Contact</a></li>
+</ul>
+    </nav>
+    <nav aria-label="Secondary Menu" class="nav-secondary container mobile-only">
+    <ul>
+  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
+  <li><a href="https://www.immunizationrequirement.ucla.edu/">Immunization Requirements</a></li>
+  <li><a href="/afterhours">AfterHours</a></li>
+  <li><a href="/careers">Careers</a></li>
+  <li class="topbar-yellow-button"><strong><a href="/portal">PATIENT PORTAL</a></strong></li>
+</ul>
+    </nav>
+    </div>
+</header>
+<main id="main">
+  <div class="container">
+        <div class="page">
+<div class="page-header">
+  <div id="block-system-messages">
+<div data-drupal-messages-fallback class="hidden"></div>
+</div>
+<div id="block-headerimageblock">
+  
+    
+      
+  <img loading="eager" src="/sites/default/files/styles/header_image/public/2023-11/Careers-at-Ashe-23.jpg?itok=RNGNKaLV" width="1170" height="450" alt="Portraits of two medical staff, male and female, in medical scrubs" />
+
+
+
+
+  </div>
+<div id="block-breadcrumbs">
+  
+    
+      
+  </div>
+<div id="block-ucla-sa-page-title">
+  
+    
+      
+  <h1>Careers in Student Health</h1>
+
+
+  </div>
+
+
+</div>
+<div class="page-content">
+  <div id="block-mainpagecontent">
+  
+    
+      <div data-ucla-node-id="160">
+
+
+<div class="table-of-contents-container">
+<div class="table-of-contents">
+<div class="table-of-contents-links">
+</div>
+</div>
+<div class="table-of-contents-content">
+
+
+
+<div class="body-content body--section">
+
+<p></p> <section class="columns columns-2 columns-2-7030"> <section class="column column-1"> <h2>About The Ashe Center</h2> <p>The Arthur Ashe Student Health and Wellness Center (The Ashe Center) is devoted to providing quality, accessible, state-of-the-art healthcare and education to support the unique development of UCLA students.</p> <p>Our comprehensive services include Primary Care, Gynecology Services, Immunizations, Travel Medicine, Physical Therapy, Specialty Clinics, Radiology &amp; Laboratory, and Acupuncture – all under one roof! Students can schedule appointments online, in person, or by phone and can communicate with their primary care providers via secure electronic messaging. After hours, students can call our 24/7 Nurseline for advice and information or log in to LiveHealth Online for a telemedicine visit on their mobile device.</p> <p>The Ashe Center is also pleased to offer additional services in the Ackerman Student Union, a full-service optometry center, U See LA Optometry, on Ackerman B-Level and the Bruin Health Pharmacy (Ackerman A-Level).</p> <p>We are committed to helping students “shine, inside and out.” From eating well and staying active to managing stress, The Ashe Center focuses on student wellbeing by providing ongoing wellness workshops, participating in health-related outreach events on campus. It’s no wonder that UCLA's student health center and its suite of services consistently rank as best in the nation. Most recently, the wellness fintech brand Ness recently awarded UCLA and The Ashe Center as the <a href="https://www.nesswell.com/healthiest-college">healthiest college in the state of California</a>.</p> <h3>Our Mission</h3> <blockquote> <p>The mission of The Ashe Center is to support UCLA students in the successful attainment of their educational goals through the personalized delivery of accessible, high-quality health and wellness services, rendered with kindness and competence, by diligent, dedicated professionals.</p></blockquote>  <a href="https://www.linkedin.com/company/ucla-ashe-student-health-center">
+  <img loading="eager" src="/sites/default/files/styles/header_image/public/2023-11/linkedin_icon23_1.png?itok=TQcJLy9i" width="237" height="54" alt="An icon to direct users to connect with us on LinkedIn website	">
+
+
+
+
+</a></section> <section class="column column-2"> 
+  <img loading="eager" src="/sites/default/files/styles/header_image/public/2023-05/PREFERRED%20LOGO.png?itok=2dQtQajf" width="330" height="239" alt="Ashe Center Logo 2014">
+
+
+
+
+</section></section>
+
+</div>
+
+  <div class="cards-theme-resources paragraph--type--cards paragraph--section cards" data-section-title="Available Positions">
+          <h2>
+Available Positions
+</h2>
+      
+<p class="summary">The following positions are currently accepting applications. To learn more about each position, click on each card to access the Careers listing at ucla.edu.</p>
+
+      <div class="cards-container">
+      
+  <a href="http://hr.mycareer.ucla.edu/applicants/Central?quickFind=89016"  class="card">
+          <span class="card-title">
+LVN Supervisor
+</span>
+      <span class="card-summary">
+<p class="summary">Requisition Number: 40180	<br />
+Job Title: LVN SUPV 1<br />
+Application Deadline: 02-29-2024</p>
+</span>
+      </a>
+
+  <a href="http://hr.mycareer.ucla.edu/applicants/Central?quickFind=89020"  class="card">
+          <span class="card-title">
+Senior Vocational Nurse
+</span>
+      <span class="card-summary">
+<p class="summary">Requisition Number: 40183	<br />
+Job Title: VOCATIONAL NURSE, SENIOR<br />
+Application Deadline: 02-29-2024</p>
+</span>
+      </a>
+
+  <a href="http://hr.mycareer.ucla.edu/applicants/Central?quickFind=88797"  class="card">
+          <span class="card-title">
+LVN Supervisor
+</span>
+      <span class="card-summary">
+<p class="summary">Requisition Number: 40023	<br />
+Job Title: LVN SUPV 1<br />
+Application Deadline: 02-29-2024</p>
+</span>
+      </a>
+
+  <a href="http://hr.mycareer.ucla.edu/applicants/Central?quickFind=89299"  class="card">
+          <span class="card-title">
+Per Diem Vocational Nurse
+</span>
+      <span class="card-summary">
+<p class="summary">Requisition Number: 40392<br />
+Job Title: VOCATIONAL NURSE, PER DIEM<br />
+Application Deadline: 02-29-2024</p>
+</span>
+      </a>
+
+  <a href="http://hr.mycareer.ucla.edu/applicants/Central?quickFind=88449"  class="card">
+          <span class="card-title">
+Senior Licensed Vocational Nurse
+</span>
+      <span class="card-summary">
+<p class="summary">Requisition Number: 39755	<br />
+Job Title: 	VOCATIONAL NURSE, SENIOR<br />
+Application Deadline: 02-29-2024</p>
+</span>
+      </a>
+
+  <a href="http://hr.mycareer.ucla.edu/applicants/Central?quickFind=88513"  class="card">
+          <span class="card-title">
+Per Diem Nurse
+</span>
+      <span class="card-summary">
+<p class="summary">Requisition Number: 39799	<br />
+Job Title: 	PER DIEM CLINICAL NURSE, IMMUNIZATION AND AMBULATORY CARE<br />
+Application Deadline: 02-29-2024</p>
+</span>
+      </a>
+
+
+      </div>
+      </div>
+
+  <div class="people paragraph--section" data-section-title="Why Work at The Ashe Center?">
+          <h2>
+Why Work at The Ashe Center?
+</h2>
+      
+<p class="summary">&quot;The Ashe Center is a model of best practices among student health centers across the nation. We believe in relationship-centered care that is holistic and healing to help students achieve academic success and lifelong wellness. Our team is innovative, collaborative, diverse and passionate.  We make a big impact and have fun while doing it. Join our efforts to build a resilient community at UCLA, so each of us can rise up to be stronger, healthier, happier, better.&quot;</p>
+
+      <div class="people-container">
+      
+  <div class="person">
+          <div class="person-background-node"></div>
+      <h3 class="person-title"><a href="https://www.studentaffairs.ucla.edu/about/leadership-student-health-services">
+Dr. Chaitali Mukherjee
+</a></h3>
+      <div class="person-summary">
+<p class="summary">Executive Director, UCLA Arthur Ashe Student Health &amp; Wellness Center</p>
+</div>
+      <div class="person-image">
+  <img loading="eager" src="/sites/default/files/styles/resize_1_1/public/2021-08/Chaitali_Mukherjee_Headshot_18L5501_Web.jpg?itok=7T4bRUaX" width="800" height="800" alt="Portrait of Chaitali Mukherjee, MD" />
+
+
+
+</div>
+
+      </div>
+
+
+      </div>
+      </div>
+
+  <div class="body-content paragraph--section" data-section-title="Working at UCLA">
+          <h2>
+Working at UCLA
+</h2>
+      
+<section class="columns columns-2 columns-2-7030">
+<section class="column column-1">
+<h3>Limitless Opportunities</h3>
+
+<p>UCLA is one of the five biggest employers in Los Angeles. Out of 42,000 full- and part-time jobs here, you will find a place for your talent to flourish. You’ll have the flexibility to switch roles, departments or even take on new challenges at other campuses within the UC system.</p>
+
+<h3>Work With a Purpose</h3>
+
+<p>Don’t come to UCLA for a job. Come to build a career and join a family that is working together to propel the nation’s No. 1 public university into its second century.</p>
+
+<h3>Our Values</h3>
+
+<p>We commit ourselves to upholding the highest ethical standards. Respect, accountability, integrity, service and excellence make up our <a href="https://truebruin.ucla.edu/">True Bruin Values</a>.</p>
+
+<h3>Diversity</h3>
+
+<p>We welcome people of all backgrounds to join our community and contribute in a discrimination- and harassment-free workplace. Whether you’re just starting your career or looking to shift gears later on in your professional journey, you are encouraged to join us.</p>
+
+<h3>We Invest in You</h3>
+
+<p>We invite UCLA employees to take advantage of the wide array of development programs on offer. Build your skills — from workshops and career programs to management development and online training. Continue learning on campus or at <a href="https://www.uclaextension.edu/">UCLA Extension</a> at reduced-fee rates.</p>
+
+<h3>Balance</h3>
+
+<p>UCLA dedicates a number of services and resources to helping you maintain a healthy <a href="https://www.chr.ucla.edu/general-hr/more-work-life-resources">work-life balance</a>.</p>
+
+<p class="button"><a href="https://ucla.app.box.com/s/ww0kwc1vbi9qxmgsfwtai6nl9aguoie7">Working at UCLA: Purpose, Possibilities, Perks</a></p>
+</section>
+
+<section class="column column-2">
+<h2>Benefits</h2>
+
+<p>As an employer, UCLA offers an incredible benefits package: comprehensive medical coverage, generous retirement options, paid holidays and vacation, and other programs that promote both your professional growth and personal well-being.</p>
+
+<ul>
+	<li>Enroll in one of our medical plans. You’ll get coverage for medical care and prescriptions. Preventive care is 100 percent covered in-network.</li>
+	<li>Dental and vision coverage and life insurance are all part of the standard benefits package.</li>
+	<li><a href="https://ece.ucla.edu/">Child care resources</a> and the local school <a href="https://tie-ins.gseis.ucla.edu/">TIE-INS program</a> support UCLA employees with families.</li>
+	<li>UCLA is expanding its existing lactation rooms to provide <a href="https://www.chr.ucla.edu/benefits/support-nursing-mothers-at-work">nursing mothers</a> the resources they need.</li>
+	<li>UCLA Recreation offers the <a href="https://recreation.ucla.edu/events/fitwell">FITWELL Program</a>, which includes free classes, to promote healthy lifestyles for faculty and staff. You can access 16 fitness centers and recreational facilities.</li>
+</ul>
+
+<p class="button"><a href="https://ucnet.universityofcalifornia.edu/compensation-and-benefits/index.html">Explore Benefits</a></p>
+</section>
+</section>
+
+<p>&nbsp;</p>
+
+      </div>
+
+  <div class="people paragraph--section" data-section-title="Contact Human Resources">
+          <h2>
+Contact Human Resources
+</h2>
+      
+<p class="summary"> If you have any additional questions about our job openings, please do not hesitate to reach out to our HR team.</p>
+
+      <div class="people-container">
+      
+  <div class="person">
+          <div class="person-background-node"></div>
+      <h3 class="person-title"><a href="mailto:malves-morgan@ashe.ucla.edu">
+Mack Alves-Morgan
+</a></h3>
+      <div class="person-summary">
+<p class="summary">Manager of Human Resources<br />
+<br />
+T: (310) 206-3746</p>
+</div>
+      <div class="person-image">
+  <img loading="eager" src="/sites/default/files/styles/resize_1_1/public/2023-11/alves_morgan%2C%20mack.jpg?itok=eMRqebnQ" width="800" height="800" alt="Portrait of Mack Alves Morgan" />
+
+
+
+</div>
+
+      </div>
+
+  <div class="person">
+          <div class="person-background-node"></div>
+      <h3 class="person-title"><a href="mailto:mbaustista@ashe.ucla.edu">
+Maria Bautista
+</a></h3>
+      <div class="person-summary">
+<p class="summary">Human Resources Specialist<br />
+<br />
+T: (310) 206-6646</p>
+</div>
+      <div class="person-image">
+  <img loading="eager" src="/sites/default/files/styles/resize_1_1/public/2023-11/Anon%20User%20Icon%2023_0.png?itok=q9RFi6Kw" width="800" height="800" alt="Anonymous icon for privacy of employees" />
+
+
+
+</div>
+
+      </div>
+
+
+      </div>
+      </div>
+
+
+
+
+</div>
+</div>
+
+
+</div>
+  </div>
+
+
+</div>
+</div>
+
+
+        <div class="page-footer-container page-footer-2-column" role="contentinfo">
+<div class="page-footer-box">
+<h2 class="h3">Contact Ashe Center</h2>
+<p>
+    <a href="https://goo.gl/maps/xLvHX7pY6TzVduS37">221 Westwood Plaza<br>
+    Los Angeles, CA 90095</a><br>
+    <a href="tel:+13108254073">310-825-4073</a><br>
+    Fax: (310) 206-8012<br>
+    <a href="/contact">Contact</a>
+</p>
+</div>
+<div class="page-footer-box">
+<h2 class="h3">Stay in the know</h2>
+<div class="social-links-container">
+  <a href="https://www.facebook.com/uclastudenthealth/"><span class="social-link-label">Facebook @uclastudenthealth</span></a>
+  <a href="https://www.instagram.com/uclaashecenter"><span class="social-link-label">Instagram @uclaashecenter</span></a>
+  <a href="https://www.linkedin.com/company/ucla-ashe-student-health-center/"><span class="social-link-label">LinkedIn @ucla-ashe-student-health-center</span></a>
+</div>
+<p>
+  <a href="/services/sydney-health-mobile-app">Sydney Health Mobile App</a>
+</p>
+</div>
+</div>
+      </div>
+</main>
+<footer>
+<div class="container">
+<nav class="nav-footer" aria-label="Footer">
+  <ul>\n  <li><a href="https://www.ucla.edu/accessibility" class="icon-ada">Accessibility</a></li>\n  <li><a href="https://www.ucla.edu/">UCLA</a></li>\n  <li><a href="https://www.studentaffairs.ucla.edu/">Student Affairs</a></li>\n  <li><a href="https://www.transportation.ucla.edu/campus-parking">Maps, Directions, Parking</a></li>\n  <li><a href="https://registrar.ucla.edu/calendars">Academic Calendar</a></li>\n  <li><a href="https://www.universityofcalifornia.edu/">University of California</a></li>\n  <li><a href="https://www.ucla.edu/terms-of-use">Terms of Use</a></li>\n</ul>
+
+</nav>
+</div>
+</footer>
+<script src="/themes/custom/ucla_sa/js/ucla_sa.js?v=a20240220144912" async></script>
+<script type="text/javascript">
+(function() {
+  if(document.querySelector('[data-ucla]')) {
+    var embed = document.createElement('script'); embed.type = 'text/javascript'; embed.async = true;
+    embed.src = '/themes/custom/ucla_sa/js/ucla_embed.js?v=20240220144912';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(embed, s);
+  }
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+<title>UCLA Physics & Astronomy</title>
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="update.css">
+<link rel="SHORTCUT ICON" href="favicon.ico" />
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</head>
+<body>
+<ol class="breadcrumb bg-primary text-light">
+  <li class="breadcrumb-item"><img src="logo_UCLA_white.svg" class="ucla-logo" /></li>
+  <li class="breadcrumb-item">College</li>
+  <li class="breadcrumb-item">Physical Sciences</li>
+</ol>
+
+<nav class="navbar navbar-expand-lg navbar-light mt-0 mt-lg-0 mr-4 border-bottom mb-4">
+  <a class="navbar-brand" href="https://www.pa.ucla.edu/index.php"><img src="https://www.pa.ucla.edu/pa-logo-new.png" height="110px"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarText">
+    <!-- To change the menu alignment from left to right, use ml-auto -->
+    <ul class="navbar-nav mr-auto text-primary">
+      <li class="nav-item"><a class="nav-link text-primary" href="https://www.pa.ucla.edu/index.php">Home</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          About
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            
+          <a class="dropdown-item" href="../videos/admitvideo.html" >Admit Video</a>
+          <a class="dropdown-item" href="https://youtu.be/chk8MNJJ950">APS video tour of Physics & Astronomy</a>
+          <a class="dropdown-item" href="/visiting.html">Visiting the Department</a>
+          <a class="dropdown-item" href="/annual-report.html">Annual Reports</a>
+          <a class="dropdown-item" href="/diversity.html">Diversity</a>
+          <a class="dropdown-item" href="/open-positions.html">Employment</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Education
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/undergraduate-program.html">Undergraduate</a>
+          <a class="dropdown-item" href="/graduate-admissions.html">Graduate admissions</a>
+          <a class="dropdown-item" href="/current-graduate-students.html">Current graduate students</a>
+          <a class="dropdown-item" href="https://bruinlearn.ucla.edu/courses/288">BruinLearn, UCLA's new LMS</a>
+          <a class="dropdown-item" href="/phd-physics-bridge-program.html">Physics PhD Bridge Program</a>
+          <a class="dropdown-item" href="/undergraduate-research-experience.html">REU program</a>
+          <a class="dropdown-item" href="https://qst.ucla.edu/">Quantum master program</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link text-primary" <a href="/research.html">Research</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" <a href="http://www.astro.ucla.edu/">Astro&nbsp;Division</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          People
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/faculty.html">Faculty</a>
+          <a class="dropdown-item" href="/faculty-affiliated.html">Affiliated Faculty</a>
+          <a class="dropdown-item" href="/researchers.html">Researchers, Project Scientists, Adjuncts</a>
+          <a class="dropdown-item" href="/lecturers.html">Lecturers</a>
+          <a class="dropdown-item" href="/postdocs.html">Postdoctoral Scholars</a>
+          <a class="dropdown-item" href="/grad-students.html">Graduate Students</a>
+          <a class="dropdown-item" href="/staff.html">Staff</a>
+          <a class="dropdown-item" href="/memorials.html">Memorials</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/events.php">Events</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/clubs.html">Clubs</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/giving.html">Giving</a></li>
+      <!--<li class="nav-item"><a class="nav-link text-primary" href="/contact.html">Contact</a></li>-->
+      <!--<li class="nav-item"><a class="nav-link"><img src="images/search-icon-2.svg" /></a></li>-->
+      <!--<li class="nav-item"><a class="nav-link"><img src="https://atmos.ucla.edu/Icon/search-icon-2.svg" /></a></li>-->
+    </ul>
+  </div>
+</nav>
+<div class="container">
+    <div class="row">
+    <div class="col-md-4 order-md-1 col-sm-12 order-sm-0 pb-4">
+      <!--<img src="home-image.jpg" width="100%"/>-->
+      <!--
+<h2 class="module-header">Search</h2>
+      <p></p>
+      <script async src="https://cse.google.com/cse.js?cx=015121140664034713057:qm87o70wka5"></script>
+		<div class="gcse-search"></div>
+<br />
+-->      <h2 class="module-header">Resources</h2>
+      <p></p>
+      <p>
+      <ul>
+      	<li><a href="faculty.html">Faculty</a></li>
+      	<li><a href="faculty-affiliated.html">Affiliated Faculty</a></li>
+      	<li><a href="lecturers.html">Lecturers</a></li>
+      	<li><a href="postdocs.html">Postdoctoral Scholars</a></li>
+      	<li><a href="researchers.html">Researchers, Project Scientists, & Adjuncts</a></li>
+      	<li><a href="grad-students.html">Graduate Students</a></li>
+      	<li><a href="staff.html">Staff</a></li>
+      </ul>
+      </p>    </div>
+    <div class="col-md-8 order-md-0 col-sm-12 order-sm-1">
+      <h2>Researchers, Project Scientists, & Adjuncts</h2>
+      <br />     
+      
+      <table class="table table-borderless" >
+        <thead>
+          <tr>
+            <th scope="col"></th>
+          </tr>
+        </thead>
+        <tbody>
+      <tr>
+      <td><img src="images/researchers/Gerard-Andonian-research.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Gerard Andonian</h5>
+      <p>Researcher, Rosenzweig-PBPL<br />
+      Office: Knudsen 3-173 <br />
+      Phone: 310-206-5584<br />
+      Email: <script language="JavaScript"> 
+    var name = "gerard";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      <a href="http://pbpl.physics.ucla.edu/">Website</a></p>
+           </td>
+          </tr>
+     <tr>
+      <td><img src="images/researchers/Kshitish-Barada-researcher.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Kshitish Kumar Barada</h5>
+      <p>Project Scientist<br />
+      Office: c/o General Atomics, San Diego CA<br />
+      Phone: 858-284-6076<br />
+      Email: <script language="JavaScript"> 
+    var name = "kbarada";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+     <tr>
+      <td><img width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Jean Berchem</h5>
+      <p>Researcher, Space Plasma Simulation Group<br />
+      Office: 3865 Slichter Hall<br />
+      Phone: 310-206-2849<br />
+      Email: <script language="JavaScript"> 
+    var name = "jberchem";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+       <td><img src="images/researchers/Mani-Bhaumik-researcher.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Mani Bhaumik</h5>
+      <p>Project Scientist, Physics & Astronomy - Zvi Bern Group - TEP<br />
+      Email: <script language="JavaScript"> 
+    var name = "bhaumik";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>David Brower</h5>
+      <p>Researcher, PSTI - Brower Group<br />
+      Office: 1040 Veteran Avenue<br />
+      Phone: 512-471-4294<br />
+      Email: <script language="JavaScript"> 
+    var name = "brower";
+    var domain = "ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Neeraj Chaubey</h5>
+      <p>Assistant Project Scientist<br />
+      Science & Tech Research Bldg, 2nd floor<br />
+      Email: <script language="JavaScript"> 
+    var name = "nchaubey";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/Jie-Chen-research.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Jie Chen</h5>
+      <p>Associate Project Scientist<br />
+      Office: c/o General Atomics, San Diego CA 92121<br />
+      Phone: 858-455-3032<br />
+      Email: <script language="JavaScript"> 
+    var name = "chenjie";
+    var domain = "ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/postdocs/Satyajit-postdoc.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px">
+      <h5>Satyajit Chowdhury</h5>
+      <p>Assistant Project Scientist<br />
+      Office: Science & Tech Research Bldg, 2nd Floor<br />
+      Phone: 310-869 9392<br />
+      Email: <script language="JavaScript"> 
+      var name = "schowdhury";
+      var domain = "physics.ucla.edu";
+      document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+      document.write(name + '@' + domain);
+      </script></a>
+      </p>
+     </td>
+     </tr>
+      <tr>
+      <td><img src="images/researchers/Anna-Ciurlo-postdocs.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Anna Ciurlo</h5>
+      <p>Assistant Researcher<br /> 
+       Office: PAB 3-337<br />
+       Phone: 310-267-4044<br />
+       Email: <script language="JavaScript"> 
+       var name = "ciurlo";
+       var domain = "astro.ucla.edu";
+       document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+       document.write(name + '@' + domain);
+       </script></a><br>
+       <a href="http://www.astro.ucla.edu/~ciurlo/">Website</a><br />
+       </p>
+     </td>
+    </tr>
+      <tr>
+      <td><img src="images/researchers/Carmen-Constantin-researcher.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Carmen Constantin</h5>
+      <p>Project Scientist, Niemann - STRB<br />
+      Office: 1040 Veteran Avenue<br />
+      Phone: 310-825-1301<br />
+      Email: <script language="JavaScript"> 
+    var name = "constant";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/neal-crocker-researcher.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Neal Crocker</h5>
+      <p>Researcher, Pebles - STRB<br />
+      Office: 1040 Veteran Ave.<br />
+      Phone: 310-794-5491<br />
+      Email: <script language="JavaScript"> 
+    var name = "ncrocker";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+    <a href="http://plasma-diagnostics-group.physics.ucla.edu/">Website</a></p>
+           </td>
+          </tr>
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/Viktor Decyk-research.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Viktor Decyk</h5>
+      <p>Researcher Emeritus<br />
+      Office: PAB 4-548<br />
+      Phone: 310-206-0371<br />
+      Email: <script language="JavaScript"> 
+    var name = "decyk";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/WEIXING-DING-researcher.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Weixing Ding</h5>
+      <p>Researcher - Recalled, PSTI - Brower Group<br />
+      Office: 1040 Veteran Ave.<br />
+      Phone: 608-265-4106<br />
+      Email: <script language="JavaScript"> 
+    var name = "wding";
+    var domain = "ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src=" " width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Seth Dorfman</h5>
+      <p>Assistant Researcher, Carter - STRB<br />
+      Office: 1000 Veteran, 15-70<br />
+      Phone: 310-206-3820<br />
+      Email: <script language="JavaScript"> 
+    var name = "sethd";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/WarrenEssey-researcher.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Warren Essey</h5>
+      <p>Assistant Project Scientist - Physics & Astronomy<br />
+      Office: PAB 4-915<br />
+      Phone: 310-825-6663<br />
+      Email: <script language="JavaScript"> 
+    var name = "essey";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src=" " width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Erik Everson</h5>
+      <p>Assistant Project Scientist, Carter - STRB<br />
+      Office: PAB A-743B<br />
+      Phone: 310-825-3622<br />
+      Email: <script language="JavaScript"> 
+    var name = "eeverson";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/Atsushi-Fukasawa-researcher.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Atsushi Fukasawa</h5>
+      <p>Associate Project Scientist - Rosenzweig<br />
+      Office: 3-174B Knudsen Hall<br />
+      Phone: 310-825-9982<br />
+      Email: <script language="JavaScript"> 
+    var name = "fuka";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/postdocs/Jia-Han.png" width="200px" height="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Jia Han</h5>
+      <p>Assistant Researcher, Carter - STRB<br />
+      Office: 15-70F, 1000 Veteran Avenue<br />
+      Email: <script language="JavaScript"> 
+      var name = "jhan";
+      var domain = "physics.ucla.edu";
+      document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+      document.write(name + '@' + domain);
+      </script></a>
+      </p>
+     </td>
+    </tr>
+      <tr>
+      <td><img src="images/postdocs/Rongjie-Hong-postdocs.png" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Rongjie Hong</h5>
+      <p>Associate Project Scientist<br />
+      Office: c/o B15-133E, General Atomics, San Diego, CA 92121<br />
+      Email: <script language="JavaScript"> 
+      var name = "rohong";
+      var domain = "g.ucla.edu";
+      document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+      document.write(name + '@' + domain);
+      </script></a>
+      </p>
+     </td>
+    </tr>
+      <tr>
+      <td><img width="200px" height="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Mikhael Ignatenko</h5>
+      <p>Associate Researcher, Large Hadron Collider - EEP<br />
+      Email: <script language="JavaScript"> 
+    var name = "ignatenko";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/postdocs/BethKlein-postdocs.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Beth Klein</h5>
+      <p>Assistant Researcher<br />
+      Email: <script language="JavaScript"> 
+      var name = "kleinb";
+      var domain = "astro.ucla.edu";
+      document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+      document.write(name + '@' + domain);
+      </script></a><br>
+      <a href="http://www.astro.ucla.edu/~kleinb/Welcome.html">Website</a>
+      </p>
+     </td>
+     </tr>
+     <tr>
+      <td><img src="images/researchers/John-Koulakis-research.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>John Koulakis</h5>
+      <p>Assistant Project Scientist - Physics & Astronomy, Putterman Group<br />
+      Office: Knudsen 2-202<br />
+      Phone: 310-825-1842<br />
+      Email: <script language="JavaScript"> 
+    var name = "jkoulakis";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>James Maggs</h5>
+      <p>Researcher emeritus, Gekelman - STRB<br />
+      Office: 1000 Veteran, 15-70<br />
+      Phone: 310-206-3820<br />
+      Email: <script language="JavaScript"> 
+    var name = "maggs";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Gregory Martinez</h5>
+      <p>Associate Project Scientist, Physics & Astronomy<br />
+      Office: PAB 3-548<br />
+      Phone: 310-825-3845<br />
+      Email: <script language="JavaScript"> 
+    var name = "gmartine";
+    var domain = "astro.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Clive Michael</h5>
+      <p>Assistant Researcher, Crocker Group - STRB<br />
+      Email: <script language="JavaScript"> 
+    var name = "clive.michael";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Brian Naranjo</h5>
+      <p>Assistant Project Scientist, Putterman- Condensed Matter - Experimental<br />
+      Office: 3-168 Knudsen Hall <br />
+      Phone: 310-825-1842<br />
+      Email: <script language="JavaScript"> 
+    var name = "naranjo";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+    <a href="http://rodan.physics.ucla.edu/">Website</a></p>
+           </td>
+          </tr>
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/Tony-Peebles-research.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Tony Peebles</h5>
+      <p>Researcher Emeritus, Plasma - PSTI<br />
+      Office: STRB - Plasma Diagnostic Group <br>
+      Email: <script language="JavaScript"> 
+    var name = "peebles";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+    <a href="http://plasma-diagnostics-group.physics.ucla.edu/">Website</a>
+      </p>
+           </td>
+          </tr>
+       <tr>
+      <td><img width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Minh Pham</h5>
+      <p>Project Scientist - Miao<br />
+      Office: 3-140 Knudsen Hall<br>
+      Email: <script language="JavaScript"> 
+    var name = "minhrose";
+    var domain = "ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Patrick Pribyl</h5>
+      <p>Project Scientist, STRB<br />
+      Office: 1040 Veteran 15-70<br />
+      Phone: 310-206-1772<br />
+      Email: <script language="JavaScript"> 
+            var name = "pribyl";
+            var domain = "ucla.edu";
+            document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+            document.write(name + '@' + domain);
+            </script></a><br />
+      </p>
+           </td>
+          </tr>   
+      <tr>
+     <!--
+      <tr>
+      <td><img src="images/researchers/Sandra-Raimundo-researcher.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Sandra Raimundo</h5>
+      <p>RMarie Skłodowska-Curie fellow and Visiting Assistant Researcher<br />
+      Email: <script language="JavaScript"> 
+    var name = "sandra.raimund";
+    var domain = "nbi.ku.dk";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+    <a href="https://sandra-raimundo.com">Website</a></p>
+           </td>
+          </tr>
+    -->
+      <tr>
+
+      <td><img width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Terry Rhodes</h5>
+      <p>Researcher, STRB - Peebles Group<br />
+      Office: 1040 Veteran Ave.<br />
+      Phone: 858-455-2437<br />
+      Email: <script language="JavaScript"> 
+    var name = "rhodes";
+    var domain = "fusion.gat.com";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+    <a href="http://plasma-diagnostics-group.physics.ucla.edu/">Website</a></p>
+           </td>
+          </tr>
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/michael-rich-researcher.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Michael Rich | He/Him</h5>
+      <!--<p>Research Astronomer VI/Adjunct Professor<br />-->
+      <p>Research Astronomer/Adjunct Professor, Emeritus<br />
+      Office: PAB 3-925<br />
+      Phone: 310-794-5337<br />
+      Email: <script language="JavaScript"> 
+    var name = "rmr";
+    var domain = "astro.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+    <a href="https://astro.ucla.edu/michael-rich.html">Website</a></p>
+           </td>
+          </tr>
+      <tr>
+      <td><img width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Yusuke Sakai</h5>
+      <p>Assistant Project Scientist, Physics & Astronomy - Rosenzweig Group<br />
+      Office: Knudsen 3-151<br />
+      Email: <script language="JavaScript"> 
+    var name = "yusuke";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/Shoko-Sakai-researcher.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >  
+      <h5>Shoko Sakai</h5>
+      <p>Associate Research Astronomer<br />
+      Office: PAB 3-349<br />
+      Phone: 310-825-6209<br />
+      Email: <script language="JavaScript"> 
+    var name = "shoko";
+    var domain = "astro.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/Lothar-Schmitz-research.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Lothar Schmitz</h5>
+      <p>Researcher, Peebles - STRB<br />
+      Office: 1040 Veteran Ave.<br />
+      Phone: 310-794-5491<br />
+      Email: <script language="JavaScript"> 
+    var name = "lschmitz";
+    var domain = "ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/David-Schriver-researcher.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>David Schriver</h5>
+      <p>Adjunct Professor<br />
+      Office: 3871 Slichter Hall<br />
+      Phone: 310-825-6843<br />
+      Email: <script language="JavaScript"> 
+    var name = "dave";
+    var domain = "igpp.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+      </tr>
+      <tr>
+      <td><img width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Tham Tran</h5>
+      <p>Assistant Researcher, Physics & Astronomy<br />
+      Email: <script language="JavaScript"> 
+    var name = "tham2mai";
+    var domain = "sbcglobal.net";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/Shreekrishna-Tripathi-researcher.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Shreekrishna Tripathi</h5>
+      <p>Researcher, STRB<br />
+      Office: 1000 Veteran Ave, Suite 15-70<br />
+      Phone: 310-267-5521<br />
+      Email: <script language="JavaScript"> 
+    var name = "tripathi";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+    <a href="https://plasma.physics.ucla.edu/"> Website </a>
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Frank Tsung</h5>
+      <p>Researcher, Mori- Plasma/Accelerator Physics<br />
+      Office: PAB 4-349<br />
+      Phone: 310-825-4816<br />
+      Email: <script language="JavaScript"> 
+    var name = "tsung";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+       <tr>
+      <td><img src="" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Nathan Tung</h5>
+      <p>Assistant Adjunct Professor<br />
+      Office: PAB 1-707J<br />
+      Email: <script language="JavaScript"> 
+    var name = "ntung";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+           </td>
+          </tr>
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/michael-turner.png" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Michael S. Turner</h5>
+      <p>Visiting Professor<br />
+      Office: PAB 3-429<br />
+      Email: <script language="JavaScript"> 
+    var name = "mturner";
+    var domain = "kicp.uchicago.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+     <a href="https://www.pa.ucla.edu/faculty-websites/turner.html">Website</a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/Slava-Turyshe-research.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Slava Turyshev</h5>
+      <p>Adjunct Professor, Astronomy & Astrophysics<br />
+      Office: PAB 4-536<br />
+      Email: <script language="JavaScript"> 
+    var name = "turyshev";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      <a href="https://science.jpl.nasa.gov/people/Turyshev/">Website</a></p>
+           </td>
+          </tr>
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/Manuel-Urrutia-researcher.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Manuel Urrutia</h5>
+      <p>Researcher Emeritus, Stenzel - Plasma/Accelerator Physics<br />
+      Office: Knudsen 1-107<br />
+      Phone: 310-825-7898<br />
+      Email: <script language="JavaScript"> 
+    var name = "urrutia";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+    <a href="http://www.physics.ucla.edu/plasma-exp/index.html"> Website </a>
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/stephen-vincena-researcher.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Stephen Vincena</h5>
+      <p>Researcher, Carter- STRB<br />
+      Office: 1000 Veteran, Room 15-70<br />
+      Phone: 310-267-5522<br />
+      Email: <script language="JavaScript"> 
+    var name = "vincena";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+    <a href="http://plasma.physics.ucla.edu/">Website</a></p>
+           </td>
+          </tr>
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/Justin_Bridge.jpeg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Justin Vines</h5>
+      <p>Assistant Project Scientist, Bern - TEP<br />
+      Office: PAB 4-536<br />
+      Phone: 310-825-3471<br />
+      Email: <script language="JavaScript"> 
+    var name = "vines";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/GangWang-researcher.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Gang Wang</h5>
+      <p>Associate Researcher, Huang - Nuclear<br />
+      Office: Knudsen 5-123A<br />
+      Phone: 310-825-6035<br />
+      Email: <script language="JavaScript"> 
+    var name = "gwang";
+    var domain = "physics.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Guiding Wang</h5>
+      <p>Project Scientist, STRB Peebles<br />
+      Office: 1040 Veteran Ave.<br />
+      Phone: 858-455-3147<br />
+      Email: <script language="JavaScript"> 
+    var name = "wangg";
+    var domain = "fusion.gat.com";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/Lei-Zeng-researcher.png" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Lei Zeng</h5>
+      <p>Project Scientist, STRB Peebles<br />
+      Office: 1040 Veteran Ave.<br />
+      Phone: 858-455-4194<br />
+      Email: <script language="JavaScript"> 
+    var name = "zeng";
+    var domain = "fusion.gat.com";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      <tr>
+      <td><img src="images/researchers/JeffZ-weerink-researcher.jpg" width="200px" height="200px" class="image1 float-left" hspace="15px" >
+      <h5>Jeffrey Zweerink</h5>
+      <p>Associate Project Scientist, Ong - Astronomy<br />
+      Office: Knudsen 4-144<br />
+      Email: <script language="JavaScript"> 
+    var name = "zweerink";
+    var domain = "astro.ucla.edu";
+    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
+    document.write(name + '@' + domain);
+    </script></a><br />
+      </p>
+           </td>
+          </tr>
+      
+   </tbody>
+   </table>
+  </div>
+  </div>
+</div>
+    </div>
+  </div>
+</div>
+
+<div class="w-100 d-none d-sm-block d-md-none"><!-- wrap every 1 on sm--></div>
+<div class="w-100 d-none d-md-block d-lg-none"><!-- wrap every 2 on md--></div>
+  </div>
+</div>
+<footer class="site-footer">
+<footer class="footer text-light">
+<div class="container">
+<div class="row pt-3 pb-3">
+<div class="col-4">
+<!--<img src="white-pa-logo-new-crop.png" height="45px" align="left" />-->
+<h5>UCLA Physics & Astronomy Department</h5>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> UCLA Physics & Astronomy<br />
+475 Portola Plaza, Los Angeles, CA 90095-1547<br />
+310-825-3440</p>
+<p>
+<ul>
+	<li><a href="https://www.pa.ucla.edu/contact.html">Contact Physics & Astronomy</a></li>
+</ul>
+</p>	
+</div>
+<div class="col-4">
+<!--<img src="https://atmos.ucla.edu/sites/default/files/Uxd_Wht_ATMOS.svg" />-->
+<h5>ABOUT UCLA</h5>
+<p>
+<ul>
+      	<li><a href="http://www.ucla.edu/">UCLA Home</a></li>
+      	<li><a href="https://www.physicalsciences.ucla.edu/">Division of Physical Sciences</a></li>
+      	<li><a href="https://covid-19.ucla.edu/">UCLA COVID-19 Resources</a></li>
+      	<li><a href="https://admission.ucla.edu/visit/maps-and-parking">Maps, directions, and parking</a></li>
+      </ul>
+</p>
+
+</div>
+<div class="col-4">
+<!--<img src="https://atmos.ucla.edu/sites/default/files/Uxd_Wht_ATMOS.svg" />-->
+<h5>RESOURCES</h5>
+<p>
+<ul>
+      	<li><a href="https://bruinlearn.ucla.edu/courses/288">BruinLearn</a></li>
+      	<li><a href="https://www.pa.ucla.edu/instructional-support.html">Instructional Support</a></li>
+      	<li><a href="http://www.pa.ucla.edu/diversity.html">Diversity</a></li>
+        <li><a href="http://www.pa.ucla.edu/wellness.html">Wellness</a></li>
+        <li><a href="/covid.html">COVID</a></li>
+        <li><a href="https://computing.pa.ucla.edu/">Computing and IT Support</a></li>
+        <!--<li><a href="http://iff.pa.ucla.edu/">Machine Shop and Instrument Fabrication Facility</a></li>  -->
+        <li><a href="https://machine-shop.pa.ucla.edu">Machine Shop and Instrument Fabrication Facility</a></li>
+        <li><a href="https://www.pa.ucla.edu/research-store.html">Research Store</a></li> 
+      	<li><a href="http://www.pa.ucla.edu/contact.html">Physics & Astronomy Administration</a></li>
+      	<li><a href="http://demoweb.physics.ucla.edu/demo-manual">Demoweb: Lecture demonstration </a></li>
+      	<li><a href="http://demoweb.physics.ucla.edu/">Demoweb: Lab manuals</a></li>
+      </ul>
+</p>
+</div></div>
+</div>
+</footer>
+</body>
+</html>

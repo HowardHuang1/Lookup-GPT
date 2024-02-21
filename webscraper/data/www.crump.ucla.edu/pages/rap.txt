@@ -1,0 +1,414 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<title>The Crump Institute for Molecular Imaging | OPEN_CMS</title>
+
+
+      <!-- Favicons -->
+      <link rel="apple-touch-icon" sizes="57x57" href="/crump/favicons/apple-icon-57x57.png">
+      <link rel="apple-touch-icon" sizes="60x60" href="/crump/favicons/apple-icon-60x60.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="/crump/favicons/apple-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="76x76" href="/crump/favicons/apple-icon-76x76.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="/crump/favicons/apple-icon-114x114.png">
+      <link rel="apple-touch-icon" sizes="120x120" href="/crump/favicons/apple-icon-120x120.png">
+      <link rel="apple-touch-icon" sizes="144x144" href="/crump/favicons/apple-icon-144x144.png">
+      <link rel="apple-touch-icon" sizes="152x152" href="/crump/favicons/apple-icon-152x152.png">
+      <link rel="apple-touch-icon" sizes="180x180" href="/crump/favicons/apple-icon-180x180.png">
+      <link rel="icon" type="image/png" sizes="192x192"  href="/crump/favicons/android-icon-192x192.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="/crump/favicons/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="96x96" href="/crump/favicons/favicon-96x96.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="/crump/favicons/favicon-16x16.png">
+      <link rel="manifest" href="/crump/favicons/manifest.json">
+      <meta name="msapplication-TileColor" content="#ffffff">
+      <meta name="msapplication-TileImage" content="/crump/favicons/ms-icon-144x144.png">
+      <meta name="theme-color" content="#ffffff">
+      <!-- End Favicons --> 
+
+    <meta http-equiv="content-style-type" content="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="generator" content="OpenACS version 5.10.1b2">
+    <link rel="stylesheet" href="/resources/xowiki/xowiki-bootstrap3.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/acs-subsite/site-master.css" type="text/css" media="all">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/openacs-bootstrap3-theme/css/main.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/openacs-bootstrap3-theme/css/color/blue.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/acs-templating/forms.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/acs-templating/lists.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/crump/resources/styles-crump.css?v=52" type="text/css" media="all">
+   <script type="text/javascript" src="/resources/openacs-bootstrap3-theme/js/jquery-1.11.3.min.js" nonce="ECAB7D1CD2DF0E54480B42936F212A0A6A44B073"></script>
+   <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js" nonce="ECAB7D1CD2DF0E54480B42936F212A0A6A44B073"></script>
+   <script type="text/javascript" src="//www.googletagmanager.com/gtag/js?id=UA-75729505-1" nonce="ECAB7D1CD2DF0E54480B42936F212A0A6A44B073"></script>
+   <script type="text/javascript" nonce="ECAB7D1CD2DF0E54480B42936F212A0A6A44B073">window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-75729505-1');</script>
+
+</head>
+<body>
+  
+
+
+<!--  Header  -->
+<div class="container-fluid hdr">
+   <div class="container">
+         <div class="col-sm-3"></div>
+         <div class="col-sm-6 hdr-crump" align="center">
+         <!--  Subsite Logos  -->
+         <img src="/crump/files/view/images/2015crump_logo.png" class="img-responsive" />
+         </div>
+         <div class="col-sm-3"></div>
+   </div>
+</div>
+<!--  Nav, Content  -->
+<div class="container">
+   <div class="row">
+      <div class="col-sm-2" style="margin:0;padding:0;">
+          
+              <!--  Crump Main Navigation  -->
+              <nav class="navbar navbar-default" role="navigation">
+                  <!-- Brand and toggle get grouped for better mobile display -->
+                  <div class="navbar-header">
+                      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".crump">
+                          <span class="sr-only">Toggle navigation</span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                      </button>
+                  </div>
+                  <!-- Collect the nav links, forms, and other content for toggling -->
+                  <div class="collapse navbar-collapse crump">
+                      <ul class="nav navbar-nav">
+                          <li role="presentation"><strong>About</strong></li>
+                          <li role="presentation"><a href="/crump/"><span class="glyphicon glyphicon-home"></span> Homepage</a></li>
+                          <li role="presentation"><a href="/crump/pages/director">From Our Director</a></li>
+                          <li role="presentation"><a href="/crump/pages/history">History</a></li>
+                          <li role="presentation"><a href="/crump/pages/vision">Vision</a></li>
+                          <li role="presentation"><a href="/crump/pages/home">Our Home</a></li>
+                          <li role="presentation"><a href="/crump/pages/rap">Research Program Areas</a></li>
+                          <li role="presentation"><a href="/crump/pages/techcenters">Technology Centers</a></li>
+                          <li role="presentation"><strong>Research</strong></li>
+                          <li role="presentation"><a href="/crump/pages/faculty">Faculty</a></li>
+                          <li role="presentation"><a href="/crump/pages/laboratories">Laboratories</a></li>
+                          <li role="presentation"><a href="/crump/pages/training">Training &amp; Education</a></li>
+                          <li role="presentation"><a href="/crump/pages/university">University-Industry Technology Transfer</a></li>
+                          <li role="presentation"><a href="/crump/pages/collaborations">Collaborations</a></li>
+                          <li role="presentation"><strong>Information</strong></li>
+                          <li role="presentation"><a href="/crump/announcements/">Announcements</a></li>
+                          <li><a href="/crump/pages/opportunities">Opportunities</a></li>
+                          <li role="presentation"><a href="/crump/pages/contact">Contact Us</a></li>
+                      </ul>
+                  </div><!-- /.navbar-collapse -->
+              </nav>
+
+          
+      </div>
+      <div class="col-sm-10">
+
+         <!-- Generated by ::xowiki::ADP_Generator on Wed Nov 16 18:41:51 UTC 2022 -->
+
+<!-- The following DIV is needed for overlib to function! -->
+          <div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
+          <div class='xowiki-content'>
+
+      
+
+      <style>
+        #wikicmds{height:55px;position:relative;font-size:1em !important;margin:10px auto;right:auto;text-align:center;top: 20px !important;}
+        a.text-white:link, a.text-white:visited{color:#fff;background-color: #337ab7;}
+        a.text-white:active, a.text-white:hover, a.text-white:focus{color:#fff;background-color: #16577f;}
+      </style>
+      <div id='wikicmds' class="container">
+         
+      </div>
+
+ 
+ <h1>Research Program Areas
+</h1>
+<p><img alt="Research Program Areas" border="0" class="center-block" src="/crump/files/view/images/rap.png" usemap="#RapMap" />
+</p>
+<hr />
+<div class="col-sm-6"><a name="chemsyn"></a>
+  <h3>Chemical Synthesis Platform Technologies
+  </h3>
+  <p>Positron emission tomography (PET) is a highly sensitive whole-body imaging technique based on the detection of radiation from the decay of a radioactive probe (&quot;tracer&quot;) administered to the patient. Unlike other types of imaging which primarily image the structure of the body, PET can sensitively measure the rate of particular biochemical processes including metabolic activity, cell signaling, DNA replication, cell proliferation, gene expression, etc., depending on the particular tracer administered. In the clinic, PET is used to diagnose, locate, and stage cancer, monitor the effectiveness of chemotherapy, and perform diagnostic bone scans. It can also be used to diagnose heart and mental health disorders, track the progression of drugs or toxins through the body, and monitor infectious disease processes. PET is also used extensively in disease research and drug development.
+  </p>
+  <p>Despite the usefulness and potential of PET, research is hindered by the inability to acquire most tracers at reasonable cost. With current technologies, cost of production soars due to the need for specialized radiation safety infrastructure (e.g., hot cells), automated synthesis equipment, analytical testing equipment, and personnel trained in radiochemistry. A couple of tracers are available at an affordable price from commercial radiopharmacies, who divide the production costs over many customers, but thousands of other tracers remain largely unavailable.
+  </p>
+  <p>The Chemical Synthesis Platform Technology program is focused on eliminating this roadblock, by developing systems to simplify, miniaturize and lower the cost of production of diverse PET tracers. Ultimately we aim to develop a standalone, user-friendly benchtop system that can synthesize a variety of radiotracers on demand. Systems in development span the entire process of PET tracer production including dispensing of the radioisotope, synthesis, purification and formulation of the tracer, and analytical testing of the final batch. Most of these systems incorporate microfluidic components to take advantage of the many scientific and practical benefits of working at small scales. We are also interested in developing tools that enable radiochemists to more easily and rapidly discover new tracers and optimize their synthesis.
+  </p>
+  Recent and current projects include: (i) a radioisotope and probe dispenser, (ii) a new &ldquo;unit operations&rdquo; based paradigm for developing automated synthesis programs, (iii) a 3-reactor high-pressure compatible synthesizer (ELIXYS) for synthesis of complex and diverse tracers, (iv) a chip-based microfluidic synthesizer, (v) a microfluidic system for optimizing reaction conditions for immunoPET, (vi) a microfluidic PET probe concentrator, and (vii) a Cerenkov imaging system to monitor processes within microfluidic chips.
+  <p>&nbsp;
+  </p>
+  <p>Principal Investigators: <a alt="Michael van Dam" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=303016" target="_blank">Michael van Dam</a>
+  </p>
+  <p>Investigators: <a href="http://faculty.pharmacology.ucla.edu/institution/personnel?personnel_id=2031945" target="_blank">Saman Sadeghi</a>, <a alt="Jennifer Murphy" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=363318" target="_blank">Jennifer Murphy</a>, <a alt="Arion Chatziioannou" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=45413" target="_blank">Arion Chatziioannou</a>, <a alt="Anna Wu" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=45665" target="_blank">Anna Wu</a>
+  </p>
+</div>
+<div class="col-sm-6">
+  <p><img alt="CSPT" class="img-responsive image-padding" src="/crump/files/view/images/cspt1.jpg" />
+    <br />
+    <a href="/crump/files/view/images/cspt1.jpg" title="View Full Size Image">View Full Size Image</a>&nbsp;
+  </p>
+  <p><small>Figure 1: Envisioned concept of benchtop production of PET tracers to eliminate bottlenecks and high costs of current production methods. The benchtop synthesizer could potentially be placed in any biology research lab or clinical imaging center. The user would install a microfluidic kit designed for the desired tracer. The computer would automatically dispense the desired amount of radioisotope, deliver it to the radiosynthesizer, and synthesize the tracer on chip. From a single supply of radioisotope, the user could make sequential batches of several different tracers on demand, depending on the needs of the clinic or research lab.</small>
+  </p>
+  <p><img alt="CSPT" class="img-responsive image-padding" src="/crump/files/view/images/cspt2.jpg" />
+    <br />
+    <a href="/crump/files/view/images/cspt2.jpg" title="View Full Size Image">View Full Size Image</a>&nbsp;
+  </p>
+  <p><small>Figure 2: ELIXYS radiosynthesizer for automated synthesis of diverse PET tracers. This synthesizer was developed at UCLA and then commercialized by Sofie Biosciences, Inc. The schematic at the right shows the main elements of the synthesizer: three reaction vessels, up to three disposable reagent cassettes, a reagent-handling robot, and an interface to an HPLC purification system. Due to the unique design principle, this system can support fully-sealed reactions at much higher pressures and temperatures than other systems. Furthermore, the use of robotics rather than valves eliminates the need for reconfiguration/replumbing of the system, thus enabling the synthesis of diverse tracers on a single system. In addition to the system itself, our group developed a novel &ldquo;unit operation&rdquo; approach for programming new synthesis protocols. This approach greatly reduces the complexity of programs and reduces programming time.</small>
+  </p>
+</div>
+<div class="col-sm-6">
+  <p><img alt="CSPT" class="img-responsive image-padding" src="/crump/files/view/images/cspt3.jpg" />
+    <br />
+    <a href="/crump/files/view/images/cspt3.jpg" title="View Full Size Image">View Full Size Image</a>&nbsp;
+  </p>
+  <p><small>Figure 3: Digital microfluidic radiosynthesizer. Using electrowetting-on-dielectric (EWOD) technology, droplets of reagents can be manipulated electronically to carry out the basic operations (droplet loading, moving, merging, mixing, heating) needed for microscale chemical synthesis. This figure depicts the synthesis of the most commonly used PET tracer, [18F]FDG. In addition to small physical size, which dramatically reduces the amount of radiation shielding needed, there are fundamental advantages of radiochemistry in tiny volumes.</small>
+  </p>
+</div>
+<hr />
+<div class="col-sm-12"><a name="sysbio"></a>
+  <h3>Systems Biology
+  </h3>
+  <p><img alt="Systems Biology" class="img-responsive pull-right image-padding" src="/crump/files/view/images/systems.jpg" style="padding:20px;float:right;" />
+  </p>
+  <div style="text-align: right;"><a href="/crump/files/view/images/systems.jpg" title="View Full Size Image">View Full Size Image</a>&nbsp;
+  </div>
+  <p>&nbsp;
+  </p>
+  <p>Systems biology is fundamental to the Crump Institute&#39;s goals to develop new <em>in vitro</em> and <em>in vivo</em> (imaging) molecular diagnostic technologies. By studying cells and organisms from a systemwide perspective, we learn what are the most informative events to detect and image to assess the healthy or diseased state of the patient&#39;s tissue. The Systems Biology program employs an integrated experimental and theoretical approach to study cancer and immune diseases, and to understand the interactions of microorganisms with the human host. Microbes form an intricate symbiotic system with the host. By studying the genomes and the transcriptomes of the microbes living inside humans, we aim to understand how microorganisms interact with and influence the human immune system and play a role in human health and disease. Model systems, such as normal and cancer cells in culture, and small animal models of disease, provide controlled environments where the genetic composition and surrounding conditions can be defined and analyzed in a systematic fashion. Equally important is the ability to obtain serum and tissue from patients, that directly reflect the biology of human disease. From these biological samples, large-scale systemwide measurements can be made, of gene and protein expression that produce cell communication systems and metabolic activity to carry out normal functions of our organ systems and altered ones of disease. Finally, theoretical and computational approaches are used to untangle the complex network of interactions and feedback loops within cells and tissues. Our fundamental goal is to decipher the integrated circuits within and between cells - the networks that form the computational logic, or &ldquo;thinking&rdquo; of the cell that determines how it will react under normal conditions, or mis-react in disease.
+  </p>
+  <p>The Systems Biology program works collaboratively with physicians and biologists studying diseases like cancer and immune disorders to help define what molecular events need to be detected or imaged based on the biology of the affected cells and tissues, and with the technology programs of the Crump to develop new methods to make experimental and diagnostic measurements.
+  </p>
+  <p>Principal Investigators: <a alt="Thomas Graeber" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=79660" target="_blank">Thomas Graeber</a>, <a alt="Raphael Levine" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=264627" target="_blank">Raphael Levine</a>, and <a alt="Huiying Li" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=349641" target="_blank">Huiying Li</a>
+  </p>
+  <p>Investigators: <a alt="Arion Chatziioannou" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=45413" target="_blank">Arion Chatziioannou</a>, <a alt="Henry Huang" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=45577" target="_blank">Henry Huang</a>, <a alt="Caius Radu" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=148639" target="_blank">Caius Radu</a>, <a alt="Hsian-Rong Tseng" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=45737" target="_blank">Hsian-Rong Tseng</a>
+  </p>
+</div>
+<hr />
+<div class="col-sm-12"><a name="invitro"></a>
+  <h3><em><strong>In Vitro</strong> </em>Molecular Diagnostics (IVMD)
+  </h3>
+  <p><em><img alt="In vitro Molecular Diagnostics (IVMD)" class="img-responsive pull-left image-padding" src="/crump/files/view/images/ivmd.png" /></em><a href="/crump/files/view/images/ivmd.png" title="View Full Size Image">View Full Size Image</a><em>&nbsp; </em>
+  </p>
+  <p>Circulating tumor cells (CTCs) are cancer cells that break away from either a primary tumor or metastatic site, and circulate in the peripheral blood as the cellular origin of metastasis. With their role as &ldquo;tumor liquid biopsy&rdquo;, CTCs provide convenient access to all disease sites, including that of the primary tumor and the site of fatal metastases. It is conceivable that detecting and analyzing CTCs will provide insightful information in assessing the disease status without the flaws and limitations encountered in performing conventional tumor biopsies. However, identifying CTCs in patient blood samples is technically challenging due to the extremely low abundance of CTCs among a large number of hematologic cells. To address this unmet need, there have been significant research endeavors devoted to developing CTC detection, isolation, and characterization technologies.
+  </p>
+  <p>Inspired by the nanoscale interactions observed in the tissue microenvironment, our research team at UCLA pioneered a unique concept of &ldquo;NanoVelcro&rdquo; cell-affinity substrates, in which CTC capture agent-coated nanostructured substrates were utilized to immobilize CTCs with high efficiency. The working mechanism of NanoVelcro cell-affinity substrates mimics that of Velcro<sup>TM</sup> &ndash; when the two fabric strips of a Velcro fastener are pressed together, tangling between the hairy surfaces on two strips leads to strong binding. Through continuous evolution, 3 generations (gens) of NanoVelcro CTC Chips have been established to achieve different clinical utilities. The 1st-gen NanoVelcro Chip, composed of a silicon nanowire substrate (SiNS) and an overlaid microfluidic chaotic mixer, was created for CTC enumeration. Side-by-side analytical validation studies using clinical blood samples suggested that the sensitivity of 1st-gen NanoVelcro Chip outperforms that of FDA-approved CellSearch<sup>TM</sup>. In conjunction with the use of laser microdissection (LMD) technique, 2nd-gen NanoVelcro Chips (i.e., NanoVelcro-LMD), based on polymer nanosubstrates, were developed for single-CTC isolation. The individually isolated CTCs can be subjected to single-CTC genotyping (e.g., Sanger sequencing and next-generation sequencing, NGS) to verify CTC&rsquo;s role as tumor liquid biopsy. By grafting thermoresponsive polymer brushes onto SiNS, 3rd-gen NanoVelcro Chips (i.e., Thermoresponsive NanoVelcro) have demonstrated the capture and release of CTCs at 37 and 4&deg;C, respectively. The temperature-dependent conformational changes of polymer brushes can effectively alter the accessibility of the capture agent on SiNS, allowing for rapid CTC purification with desired viability and molecular integrity. We envision that NanoVelcro CTC Assays will lead the way for powerful and cost-efficient diagnostic platforms for researchers to better understand underlying disease mechanisms and for physicians to monitor real-time disease progression.
+  </p>
+  <p>Principal Investigators: <a alt="Hsian-Rong Tseng" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=45737" target="_blank">Hsian-Rong Tseng</a>
+  </p>
+  <p>Investigators: <a href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=79660" target="_blank">Tom Graeber</a>, <a href="http://bio.csmc.edu/view/15023/Leland-Chung.aspx?_ga=2.153019632.830219449.1525893764-782750419.1525893764" target="_blank">Leland Chung</a>, <a href="http://bio.csmc.edu/view/7125/Edwin-Posadas.aspx" target="_blank">Edwin Posadas</a>, <a href="http://people.healthsciences.ucla.edu/institution/personnel?personnel_id=131892" target="_blank">Jim Tomlinson</a>, <a href="http://faculty.pharmacology.ucla.edu/institution/personnel?personnel_id=9635" target="_blank">Antoni Ribas</a>, and <a href="http://faculty.pharmacology.ucla.edu/institution/personnel?personnel_id=232427" target="_blank">Roger Lo </a>
+  </p>
+</div>
+<hr style="font-style: italic;" />
+<p>&nbsp;
+</p>
+<div class="col-sm-6"><a name="molimag"></a>
+  <h3>Molecular Imaging Using ImmunoPET
+  </h3>
+  <p>As part of the Crump Institute&#39;s broad goal of providing platform imaging strategies for detection of any molecular biomarker of choice, we are developing engineered antibodies as a means for imaging cell surface proteins in vivo. Approximately 20% of a cell&#39;s proteins are expressed on its surface, making them accessible to antibody-based molecular imaging probes. These cell surface biomarkers include important classes of proteins such as growth factor receptors, adhesion molecules, enzymes and proteases, tissue-specific markers, differentiation and activation markers &mdash; making the cell surface highly rich in informative targets that can reveal the biological state of the cell, both in normal states and in their transitions to disease.
+  </p>
+  <p>Antibodies of high specificity for a selected protein target can be readily isolated by methods such as phage display. The ImmunoPET group then genetically engineers these antibodies for optimal function as imaging agents - rapid, high-level targeting to specific protein and low non-specific background in surrounding tissue. The ImmunoPET team relies on collaborations with the Systems Biology and Molecular Diagnostics programs to identify informative cell-surface proteins as biomarkers in disease, particularly in cancer and immune disorders. Implementation of these strategies requires close collaboration with the Chemical Synthesis and Preclinical Imaging programs to rapidly radiolabel and evaluate these novel tracers in animal models of disease.
+  </p>
+  <p>Principal Investigator: <a alt="Anna Wu" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=45665" target="_blank">Anna Wu</a>
+  </p>
+  <p>Investigators: <a alt="Arion Chatziioannou" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=45413" target="_blank">Arion Chatziioannou</a>, <a alt="Johannes Czernin" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=9195" target="_blank">Johannes Czernin</a>, <a alt="Caius Radu" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=148639" target="_blank">Caius Radu</a>, <a alt="Jennifer Murphy" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=363318" target="_blank">Jennifer Murphy</a>, <a alt="Michael van Dam" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=303016" target="_blank">Michael van Dam</a>
+  </p>
+</div>
+<p>&nbsp;
+</p>
+<div class="col-sm-6">
+  <p><img alt="MIUI" class="img-responsive image-padding" src="/crump/files/view/images/miui1.jpg" />
+    <br />
+    <a href="/crump/files/view/images/miui1.jpg" title="View Full Size Image">View Full Size Image</a>&nbsp;
+  </p>
+  <p><small>Figure 1: Engineered antibody fragments for in vivo PET imaging of cell surface markers. The top panel shows a native, intact antibody with the variable regions that form the binding site shown in green, and the constant domains in blue. Engineered fragments depicted include single-chain variable fragments (scFv), the diabody (a dimer of scFv fragments), and minibody (fusion of scFv and C<sub>H</sub>3 domain). The lower panel shows coronal slices of co-registered microPET/microCT images with arrows indicating the tumor, all acquired at 20 h following intravenous administration of a radiolabeled engineered antibody fragment in athymic mice carrying different subcutaneous human tumor xenografts. A. Imaging of an LS174T colon cancer tumor using a carcinoembryonic antigen (CEA)-specific diabody labeled with the positron emitter <sup>124</sup>I. B. Imaging of a B-cell lymphoma using CD20-specific minibody labeled with <sup>124</sup>I. C. Detection of an LAPC-9 prostate cancer xenograft using a minibody that recognizes prostate stem cell antigen (PSCA), labeled with <sup>124</sup>I.</small>
+  </p>
+  <p><em><img alt="MIUI" class="img-responsive image-padding" src="/crump/files/view/images/miui2.jpg" /></em>
+    <br />
+    <a href="/crump/files/view/images/miui2.jpg" title="View Full Size Image">View Full Size Image</a>&nbsp;
+  </p>
+  <p><small>Figure 2: Immuno-PET imaging of <sup>64</sup>Cu-NOTA-2.43 Mb 4 h p.i. is shown. Immuno-PET/CT images were acquired 4 h after i.v. injection in B/6 mice. The white arrows (2-mm transverse MIPs) are used to highlight uptake in various lymph nodes (Right) and the spleen seen in the whole-body 20-mm coronal MIPs (Left). A.LN, axillary lymph nodes; B, bone; C.LN, cervical lymph nodes; I.LN, inguinal lymph nodes; Li, liver; MIPs, maximum intensity projections; P.LN, popliteal lymph nodes; Sp, Spleen. Proc Natl Acad Sci USA. 2014 Jan 21; 111(3): 1108&ndash;1113.</small>
+  </p>
+</div>
+<hr style="font-style: italic;" />
+<div class="col-sm-8"><a name="preimag"></a>
+  <h3>Preclinical Imaging Systems
+  </h3>
+  <p>Preclinical imaging at the Crump Institute spans domains from in vitro diagnostics and imaging cell cultures, through in vivo imaging of mouse models of disease, using microPET, microCT, and optical imaging modalities. Overall, the focus of the Preclinical Imaging Systems program is to develop innovative technologies that enable the visualization and measurement of biological processes to facilitate research on the molecular mechanisms of cells in health and disease. To further these goals, highly sensitive silicon-based solid state imaging sensors (Position Sensitive Avalanche Photodiode Detectors, or PSAPDs), are being developed that can detect radiolabeled probes at amounts as low as a few picocuries. These devices are integrated with microfluidic chips in collaborations with the in vitro Molecular Diagnostics and Chemical Synthesis Platform program areas to produce novel imaging devices for in vitro assays in arrays of cell cultures in chips. For in vivo imaging, multimodality instrumentation is being designed and optimized for combining PET with anatomical imaging (such as CT) and optical imaging of mouse models of disease. These state-of-the-art technologies are made available to Crump investigators in coordination with the Preclinical Imaging Technology Center.
+  </p>
+  <p>Principal Investigators: <a alt="Arion Chatziioannou" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=45413" target="_blank">Arion Chatziioannou</a> and <a alt="Jason Lee" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=4234950" target="_blank">Jason Lee</a>
+  </p>
+  <p>Investigators: <a alt="Thomas Graeber" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=79660" target="_blank">Thomas Graeber</a>, <a alt="Michael van Dam" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=303016" target="_blank">Michael van Dam</a>, <a alt="Henry Huang" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=45577" target="_blank">Henry Huang</a>
+  </p>
+</div>
+<div class="col-sm-4">
+  <p><em><img alt="Preclinical Imaging Systems" class="img-responsive image-padding" src="/crump/files/view/images/pis.jpg" /></em>
+    <br />
+    <a href="/crump/files/view/images/pis.jpg" title="View Full Size Image">View Full Size Image</a>&nbsp;
+  </p>
+  <p><small>(a) Cross-section of a microfluidic chip coupled with a Si based Position Sensitive Avalanche Photodiode Detector (PSAPD) camera; (b) Linearity and dynamic range of PSAPD camera to the minimum detection of activity (MDA); (c) Cell cultures incubated with [F-18] 2-fluorodeoxyglucose (FDG) for 30 minutes. The cell culture wells in the integrated microfluidic chip have progressively decreasing numbers of cells in individual wells. The two wells in the lowest row only have one cell (arrows); (d) Quantitative analysis indicates that the average FDG activity retained in each cell is the same for all wells.</small>
+  </p>
+</div>
+<hr style="font-style: italic;" />
+<div class="col-sm-12"><em><a name="moldiag"></a></em>
+  <h3>Molecular Diagnostics in Cancer and Immune Disorders
+  </h3>
+  <p style="font-style: italic;"><img alt="MDCID" class="img-responsive pull-right image-padding" src="/crump/files/view/images/mdcid.jpg" />
+  </p>
+  <div style="text-align: right;"><a href="/crump/files/view/images/mdcid.jpg" title="View Full Size Image">View Full Size Image</a>&nbsp;
+  </div>
+  <p>&nbsp;
+  </p>
+  <p>Cancer and immunology are intertwined at many levels. For example, cancer cells as well as immune cells (B and T lymphocytes, macrophages, and other cells that coordinately participate in immune responses), both undergo similar programs of activation, altered gene expression, enhanced proliferation and migration. Elucidating the molecular signatures associated with the transition from a normal tissue to a cancer lesion and with the activation of the immune system to fight pathogens and tumors could lead to the identification of novel biomarkers that can precisely distinguish health and disease states at molecular and cellular levels. Furthermore, while it is widely accepted that abnormal immune function is a hallmark of many diseases, including cancer, autoimmune disorders, cardiovascular diseases, diabetes, and neurological disorders, there is an increasing recognition of the immune system as an internal sensory organ capable of real-time monitoring of cells and tissues throughout the body. Deviations from normal physiology due to infection, activation of oncogenes and other types of cellular injuries can be detected by the immune system leading to programmed cellular and humoral responses. In turn, these responses result in dynamic changes in the composition of essential compartments of the immune system, including the T cell repertoire.
+  </p>
+  <p>The Molecular Diagnostics program has developed new technologies for high-throughput analysis of the T cell repertoire in animal models and in humans. The increased sensitivity and multiplexing capability of this approach will significantly enhance our ability to monitor immune responses using novel in vitro diagnostic platforms. Furthermore, a novel PET probe discovery platform based on differential screening to select molecular probes that target proteins specific to a biological process or disease has already led to development of a series of imaging probes for monitoring immune activation and can be used to predict responses of cancer to common chemotherapy drugs. These tracers have been extensively evaluated in preclinical models and have been brought into the clinic for studies in patients in less than 18 months.
+  </p>
+  <p>Principal Investigators: <a alt="Anna Wu" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=45665" target="_blank">Anna Wu</a>, <a alt="Caius Radu" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=148639" target="_blank">Caius Radu</a>, <a alt="Johannes Czernin" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=9195" target="_blank">Johannes Czernin</a>, <a alt="Nagichettiar Satyamurthy" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=45563" target="_blank">Nagichettiar Satyamurthy</a>, and <a alt="James Heath" href="http://faculty.pharmacology.ucla.edu/institution/personnel?personnel_id=45340" target="_blank">James Heath</a>
+  </p>
+  <p>Investigators: <a alt="Thomas Graeber" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=79660" target="_blank">Thomas Graeber</a>, <a href="http://faculty.pharmacology.ucla.edu/institution/personnel?personnel_id=9635" target="_blank">Antoni Ribas</a>, <a href="https://www.nki.nl/people/schumacher-ton/" target="_blank">Ton Schumacher</a> (Netherlands Cancer Institute, NKI), <a alt="Hsian-Rong Tseng" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=45737" target="_blank">Hsian-Rong Tseng</a>, <a alt="Owen Witte" href="http://faculty.pharmacology.ucla.edu/institution/personnel?personnel_id=45695" target="_blank">Owen Witte</a>
+  </p>
+</div>
+<hr />
+<div class="col-sm-6"><a name="tracpharm"></a>
+  <h3>Tracer and Pharmacokinetic Modeling
+  </h3>
+  <p>The ultimate goal of the Crump Institute for Molecular Imaging is to develop technologies and methods for measurement of biological functions in living subjects. These efforts enable the quantitation of precise molecular events in cells with spatial information regarding their location within specific tissues and organ systems and temporal information (changes over time) to determine the rates of biological processes and biochemical reactions. In order to facilitate interpretation of results, image reconstruction, archiving, and user-friendly display are essential.
+  </p>
+  <p>Our goals, however, extend beyond providing visualization of experimental data to converting images into assays of biological processes through the quantitative measurement capability of PET. The experimental setting in this program area ranges from the development of assays under the controlled in vitro conditions of kinetic measurement with radiolabeled probes in arrays of cell cultures on an integrated microfluidic chip to a living subject. The Tracer and Pharmacokinetic Modeling program centralizes the analysis and interpretation of kinetic in vitro measurements on a chip and in vivo measurements with microPET, by performing partial volume correction to overcome the finite spatial resolution of the PET images, developing kinetic models for new tracers, and simplifying and automating procedures to render them accessible and transparent to investigators with varied, non-mathematical backgrounds. Where needed, new technologies and methods are developed and introduced, such as a PVC method without the availability of anatomical information. As a result, accurate measurements can be made of the biochemistry, metabolism, and signaling in cells and tissues, within a living subject. Importantly, these measurements can be made over time, such as during the course of development of disease, or before and after a targeted treatment is administered, in order to more precisely measure the biology of disease and to assess the effectiveness of various therapeutic interventions.
+  </p>
+  <p>Principal Investigator: <a alt="Henry Huang" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=45577" target="_blank">Henry Huang</a>
+  </p>
+  <p>Investigators: <a alt="Arion Chatziioannou" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=45413" target="_blank">Arion Chatziioannou</a>, <a alt="Johannes Czernin" href="http://faculty.crump.ucla.edu/institution/personnel?personnel_id=9195" target="_blank">Johannes Czernin</a>, <a href="http://kpwong.bol.ucla.edu" target="_blank">KP Wong </a>
+  </p>
+</div>
+<div class="col-sm-6">
+  <p><em><img alt="Tracer" class="img-responsive image-padding" src="/crump/files/view/images/tpm1.jpg" /></em>
+    <br />
+    <a href="/crump/files/view/images/tpm1.jpg" title="View Full Size Image">View Full Size Image</a>&nbsp;
+  </p>
+  <p><small>Figure 1: Sketch of the multiple steps contained in a software system being developed to automate the analysis of mouse microPET image data post image acquisition. The system when completed is expected to replace the current manual image analysis procedures that are time-consuming, tedious, and labor-intensive. Furthermore, the extracted kinetic and biological information will be archived and linked to a meta database system that contains a fast search engine to allow investigators to perform data search and mining conveniently. The kinetic analysis employs a previously developed software package, Kinetic Imaging System (KIS), developed by our group.</small>
+  </p>
+  <p><em><img alt="Tracer" class="img-responsive image-padding" src="/crump/files/view/images/tpm2.jpg" /></em>
+    <br />
+    <a href="/crump/files/view/images/tpm2.jpg" title="View Full Size Image">View Full Size Image</a>&nbsp;
+  </p>
+  <p><small>Figure 2: Simulation results of a new PVC method that does not require knowledge of anatomical information of the object. The method is expected to be useful for improving the quantification of tumor uptake of tracers in PET images. In a simulation study (with the true distribution shown in upper left panel), the performance of the new method in processing a simulated measured image (upper right panel) gave a sharp tumor delineation and with only a moderate noise enhancement (shown in lower left panel), compared to that from a general de-convolution method (result shown in lower right). </small>
+  </p>
+</div>
+<div class="col-sm-12">
+  <p><img alt="Tracer" class="img-responsive pull-left image-padding" src="/crump/files/view/images/tpm3.jpg" />
+    <br />
+    <a href="/crump/files/view/images/tpm3.jpg" title="View Full Size Image">View Full Size Image</a>&nbsp;
+  </p>
+  <p><small>Figure 3: A tumor study in a mouse using the sequential images with microPET of the F-18 labeled probes FLT for imaging DNA replication and cell proliferation that was IV injected first and then 60 minutes later FDG was IV injected to image glycolysis. Along with continuous imaging, blood samples were obtained by a microfluidic blood sampler: (A) images - tumor shown with arrows; (B) blood curves; (C) tumor tissue curves; and (D) kinetic data for FLT and FDG in the tumor after separation of the individual kinetic curves from the composite curves in B and C. These data were then used to calculate the rate constants for transport (k1 and k2) and phosphorylation (k3) and dephosphorylation (k4).</small>
+  </p>
+</div>
+<!--  Image Map for top Image -->
+<p>
+  <br />
+  <map id="RapMap" name="RapMap" style="font-style: italic;">
+    <area alt="In Vitro Molecular Diagnostics" coords="25,72,119,133" href="#invitro" shape="rect" /> 
+    <area alt="Systems Biology" coords="16,197,89,241" href="#sysbio" shape="rect" /> 
+    <area alt="Chemical Synthesis Platform Technologies" coords="47,306,149,383" href="#chemsyn" shape="rect" /> 
+    <area alt="Molecular Imaging Using ImmunoPET" coords="391,11,540,51" href="#molimag" shape="rect" /> 
+    <area alt="Preclinical Imaging Systems" coords="472,90,571,153" href="#preimag" shape="rect" /> 
+    <area alt="Molecular Diagnostics in Cancer and Immune Disorders" coords="491,209,606,306" href="#moldiag" shape="rect" /> 
+    <area alt="Tracer and Pharmacokinetic Modeling" coords="425,339,563,403" href="#tracpharm" shape="rect" />
+  </map>
+</p>
+
+<DIV class='content-chunk-footer'></DIV>
+
+<div class='item-footer'></div>
+
+</div> <!-- class='xowiki-content' -->
+
+
+      </div>
+   </div>
+<!--  Footer  -->
+  <div class="footer">
+   <div class="row" style="margin:0;padding:0;">
+      <div style="display:none;">
+         <span class="footer-sections">About</span>
+         <ul>
+         <li><a href="/crump/">Homepage</a></li>
+         <li><a href="/crump/pages/directors">From Our Director</a></li>
+         <li><a href="/crump/pages/history">History</a></li>
+         <li><a href="/crump/pages/vision">Vision</a></li>
+         <li><a href="/crump/pages/home">Our Home</a></li>
+         <li><a href="/crump/pages/rap">Research Program Areas</a></li>
+         <li><a href="/crump/pages/techcenters">Technology Centers</a></li>
+         </ul>
+         <span class="footer-sections">Research</span>
+         <ul>
+         <li><a href="https://fdb5.ctrl.ucla.edu/crump/institution/personnel-list/">Faculty</a></li>
+         <li><a href="/crump/pages/laboratories">Laboratories</a></li>
+         <li><a href="/crump/pages/training">Training &amp; Education</a></li>
+         <li><a href="/crump/pages/university">University-Industry Technology Transfer</a></li>
+         <li><a href="/crump/pages/collaborations">Collaborations</a></li>
+         </ul>
+         <span class="footer-sections">Information</span>
+         <ul>
+         <li><a href="/crump/pages/highlights">Highlights</a></li>
+         <li><a href="/crump/pages/opportunities">Opportunities</a></li>
+         <li><a href="/crump/pages/contact">Contact Us</a></li>
+         </ul>
+      </div>
+
+      <div class="col-xs-12">
+         <span class="footer-sections">Contact Information:</span>
+            <address><small>Crump Institute for Molecular Imaging &nbsp;<span style="color:#cccccc;">|</span>&nbsp;
+            University of California, Los Angeles &nbsp;<span style="color:#cccccc;">|</span>&nbsp;
+            570 Westwood Plaza &nbsp;<span style="color:#cccccc;">|</span>&nbsp;
+            Los Angeles, CA 90095-1770</small>
+             <br />
+            <div style="display:none;"><span class="glyphicon glyphicon-earphone"></span> <abbr title="Telephone">Tel:</abbr> 310-825-4903 &nbsp;
+            <span class="glyphicon glyphicon-print"></span> <abbr title="Facsimile">Fax:</abbr> 310-206-8975 <br /></div>
+         </address>
+      </div>
+   </div>
+  </div>
+
+      <div class="row">
+          <div class="col-xs-12">
+              <ul class="center-block compact">
+                  <li>
+                      Not logged in |
+                  </li>
+                  
+              </ul>
+          </div>
+      </div>
+
+   </div>
+</div>
+
+  
+    <script type="text/javascript" nonce="ECAB7D1CD2DF0E54480B42936F212A0A6A44B073">
+          function get_popular_tags(popular_tags_link, prefix) {
+            var http = new XMLHttpRequest();
+            http.open('GET', popular_tags_link, true);
+            http.onreadystatechange = function() {
+              if (http.readyState == 4) {
+                if (http.status != 200) {
+                  alert('Something wrong in HTTP request, status code = ' + http.status);
+                } else {
+                  var e = document.getElementById(prefix + '-popular_tags');
+                  e.innerHTML = http.responseText;
+                  e.style.display = 'block';
+                }
+              }
+            };
+            http.send(null);
+          }
+        </script>
+    <script type="text/javascript" src="/resources/acs-subsite/core.js" nonce="ECAB7D1CD2DF0E54480B42936F212A0A6A44B073"></script>
+
+
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=16&cb=632173943" async nonce="ECAB7D1CD2DF0E54480B42936F212A0A6A44B073"></script></body>
+</html>

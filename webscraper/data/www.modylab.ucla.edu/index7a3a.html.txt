@@ -1,0 +1,240 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	
+<!-- Mirrored from www.modylab.ucla.edu/index.php?option=com_joomap&Itemid=75 , Wed, 25 Sep 2013 15:09:34 GMT -->
+<head>
+	<title>UCLA Istvan Mody Lab</title>
+<meta name="description" content="Synaptic Signaling in Health and Disease Our research focuses on 1) the physiology, pharmacology, and pathology of synaptic transmission in the mammalian brain, and 2) the regulation of intracellular calcium homeostasis. The two themes ultimately converge in our quest for understanding how long-term alterations in the excitability of nerve cells and circuits are responsible for offsetting the frail balance between excitation and inhibition. Tipping this balance, either acutely of chronically, results in the nervous system showing signs of abnormal activity leading to specific brain disorders. We study synaptic transmission and the activation of extrasynaptic receptors in the healthy and the diseased brain. We presently carry out research in animal models of epilepsy, Huntington's disease, stress, alcoholism, PMS/PMDD, postpartum depression, while also recording from human brain tissue surgically removed for the treatment of epilepsies. By studying the fundamental mechanisms responsible for the altered synapses and circuits our studies will lead to novel therapies for a number of devastating neurological and psychiatric disorders. The experimental approaches we use include patch-clamp recordings (whole-cell, single channel and perforated patch) in brain slices, in acutely isolated animal and human neurons, or in cultured neurons/slices; chronic recordings in vivo to monitor long-term changes in the excitability of circuits; infrared and fluorescent video microscopy and simultaneous recordings in live brain tissue; various neuroanatomical and immunohistochemical techniques; measurement of intraneuronal calcium and the binding kinetics of calcium to various calcium-binding proteins; molecular biological approaches aimed at reducing or altering specific brain proteins as in genetic knockouts/knockins and various methods aimed at altering cellular protein levels." />
+<meta name="keywords" content="UCLA, Mody Lab, Istvan Mody, Guido Faas, Journal Club, Neurology Research, Neuroscience, Brain Research, CBRI, Jamie Maguire, Maksim Gill, Ed Mann, Ben Huang" />
+<meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2007 Open Source Matters. All rights reserved." />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" media="all" href="comtmp/components/com_joomap/css/joomap.html" />
+	
+	
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<link href="comtmp/templates/rt_hivemind/css/template_css.css" rel="stylesheet" type="text/css" />
+<link href="comtmp/templates/rt_hivemind/css/rokslidestrip.css" rel="stylesheet" type="text/css" />
+<link href="comtmp/templates/rt_hivemind/css/light.css" rel="stylesheet" type="text/css" />
+<link href="comtmp/templates/rt_hivemind/css/menustyle3-light.css" rel="stylesheet" type="text/css" />
+<link href="comtmp/templates/rt_hivemind/rokzoom/rokzoom.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+	div.wrapper { margin: 0 auto; width: 962px;padding:0;}
+	/* clear fixes for pure css layout */
+	</style>	
+<script type="text/javascript" src="comtmp/templates/rt_hivemind/js/mootools-release-1.11.js"></script>
+<script type="text/javascript" src="comtmp/templates/rt_hivemind/js/rokslidestrip.js"></script>
+<script type="text/javascript" src="comtmp/templates/rt_hivemind/rokzoom/rokzoom-2.js"></script>
+<script type="text/javascript" src="comtmp/templates/rt_hivemind/js/rokfonts.js"></script>   
+<script type="text/javascript">
+	window.addEvent('load', function() {
+		var modules = ['module','module-menu','module-color1','module-color2','module-color3','module-color4','module-style1','module-style1-color1','module-style1-color2','module-style1-color3','module-style1-color4','module-style2','module-style2-color1','module-style2-color2','module-style2-color3','module-style2-color4'];
+		var header = "h3";
+			    RokBuildSpans(modules, header);
+        	});
+</script>
+	
+<!--[if IE]>
+<script type="text/javascript">
+
+var sfHover = function(search, replaced) {
+	if (!replaced) replaced = 'sfHover';
+
+	var els = $$('.' + search).getElements('li');
+	if (!els.length) return false;
+
+		els.each(function(el) {
+			el.addEvents({
+				'mouseenter': function() {
+					this.addClass(replaced);
+				},
+				'mouseleave': function() {
+					this.removeClass(replaced);
+				}
+			});
+		});
+	}
+
+window.addEvent('domready', function() {
+	sfHover('menutop');
+});
+</script>
+
+<![endif]-->
+	
+<script type="text/javascript">
+	window.addEvent('load', function() {
+		RokZoom.init({
+			imageDir: 'templates/rt_hivemind/rokzoom/images/',
+			resizeFX: {
+				duration: 700,
+				transition: Fx.Transitions.Cubic.easeOut,
+				wait: true
+			},
+			opacityFX: {
+				duration: 500,
+				wait: false	
+			}
+		});
+	});
+</script>
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1791317-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	</head>
+	<body id="ff-optima" class="f-smaller light">
+		<!-- begin wrapper -->
+		<div class="wrapper">
+			<!-- begin top section -->
+			<div id="top">
+				
+												<div id="accessibility">
+					<div id="buttons">
+						<a href="indexf5d3.html?option=com_joomap&amp;Itemid=75&amp;fontstyle=f-larger" title="Increase size" class="large"><span class="button">&nbsp;</span></a>
+						<a href="index828b.html?option=com_joomap&amp;Itemid=75&amp;fontstyle=f-default" title="Default size" class="default"><span class="button">&nbsp;</span></a>
+						<a href="index4230.html?option=com_joomap&amp;Itemid=75&amp;fontstyle=f-smaller" title="Decrease size" class="small"><span class="button">&nbsp;</span></a>
+					</div>
+				</div>
+					
+			</div>
+			<!-- end top section -->
+			<!-- begin mainbody -->
+			<div id="mainbody-top">
+				<div id="mainbody-top2">
+					<div id="mainbody-top3">
+					</div>
+				</div>
+			</div>
+			<div id="mainbody">
+				<!-- begin header -->
+				<div id="header">
+					
+					<div id="horiz-menu" class="splitmenu menustyle3">
+						<div id="horiz-menu2">
+															<ul class="menutop"  id="horiznav"><li class="">
+<span class="top"><a href="index6bf3.html?option=com_content&amp;task=view&amp;id=37&amp;Itemid=74">Home</a></span></li><li class="">
+<span class="top"><a href="indexcafb.html?option=com_docman&amp;Itemid=27">Publications</a></span></li><li class="">
+<span class="top"><a href="index2f77.html?option=com_content&amp;task=view&amp;id=24&amp;Itemid=69">Lab Members</a></span></li><li class="">
+<span class="top"><a href="index0c1b.html?option=com_content&amp;task=view&amp;id=30&amp;Itemid=70">Research</a></span></li><li class="">
+<span class="top"><a href="indexa915.html?option=com_content&amp;task=view&amp;id=38&amp;Itemid=103">Journal Club</a></span></li><li class="">
+<span class="top"><a href="index1d6b.html?option=com_content&amp;task=view&amp;id=36&amp;Itemid=73">About Us</a></span></li>
+</ul>								
+						</div>
+					</div>
+				</div>
+				<!-- end header -->
+									<div id="pathway">
+						<span class="pathway"><a href="index-2.html" class="pathway">Home</a> <img src="comtmp/templates/rt_hivemind/images/arrow.png" border="0" alt="arrow" />   Site Map </span>					</div>
+								<div id="mainbody-padding">
+					
+					<!-- begin maincolumn -->
+					<div id="maincol">
+					    <div id="maincol-container">
+	    					    						    						<div id="body-padding">
+    						    <div class="sitemap"><h2 class="componentheading">Site Map</h2><div class="contentpaneopen"><h2 class="menutitle">Main Menu</h2><ul class="level_0"><li><a href="index6bf3.html?option=com_content&amp;task=view&amp;id=37&amp;Itemid=74" title="Home">Home</a></li>
+<li><a href="indexcafb.html?option=com_docman&amp;Itemid=27" title="Publications">Publications</a></li>
+<li><a href="index2f77.html?option=com_content&amp;task=view&amp;id=24&amp;Itemid=69" title="Lab Members">Lab Members</a></li>
+<li><a href="index0c1b.html?option=com_content&amp;task=view&amp;id=30&amp;Itemid=70" title="Research">Research</a></li>
+<li><a href="indexa915.html?option=com_content&amp;task=view&amp;id=38&amp;Itemid=103" title="Journal Club">Journal Club</a></li>
+<li><a href="index1d6b.html?option=com_content&amp;task=view&amp;id=36&amp;Itemid=73" title="About Us">About Us</a></li>
+</ul>
+<h2 class="menutitle">About Us</h2><ul class="level_0"><li><a href="indexb002.html?option=com_content&amp;task=view&amp;id=36&amp;Itemid=71" title="Contact Us">Contact Us</a></li>
+<li><a href="index96e2.html?option=com_login&amp;Itemid=65" title="Lab Member Login">Lab Member Login</a></li>
+<li><a href="index9064.html?option=com_expose&amp;Itemid=66" title="Photo Galleries">Photo Galleries</a></li>
+</ul>
+<h2 class="menutitle"></h2><ul class="level_0"><li><a href="indexc170.html?option=com_content&amp;task=view&amp;id=18&amp;Itemid=46" title="Ben S. Huang">Ben S. Huang</a></li>
+<li><a href="indexb13d.html?option=com_content&amp;task=view&amp;id=19&amp;Itemid=47" title="Tim Indersmitten">Tim Indersmitten</a></li>
+<li><a href="indexad3d.html?option=com_content&amp;task=view&amp;id=20&amp;Itemid=48" title="Ryan Jones">Ryan Jones</a></li>
+<li><a href="index03ec.html?option=com_content&amp;task=view&amp;id=21&amp;Itemid=49" title="Isabella Ferando">Isabella Ferando</a></li>
+<li><a href="index9016.html?option=com_content&amp;task=view&amp;id=22&amp;Itemid=50" title="Scott Arno">Scott Arno</a></li>
+</ul>
+<h2 class="menutitle"></h2><ul class="level_0"><li><a href="index3490.html?option=com_content&amp;task=view&amp;id=24&amp;Itemid=57" title="Principal Investigator">Principal Investigator</a></li>
+<li><a href="index27f4.html?option=com_content&amp;task=view&amp;id=12&amp;Itemid=77" title="Assistant Researchers">Assistant Researchers</a></li>
+<li><a href="indexa90c.html?option=com_content&amp;task=view&amp;id=17&amp;Itemid=80" title="Postdocs">Postdocs</a></li>
+<li><a href="index51c9.html?option=com_content&amp;task=view&amp;id=18&amp;Itemid=42" title="Graduate Students">Graduate Students</a></li>
+<li><a href="indexf108.html?option=com_content&amp;task=view&amp;id=26&amp;Itemid=55" title="Research Assistants">Research Assistants</a></li>
+<li><a href="index0a53.html?option=com_content&amp;task=view&amp;id=23&amp;Itemid=43" title="Undergraduate Students">Undergraduate Students</a></li>
+<li><a href="index142e.html?option=com_content&amp;task=view&amp;id=27&amp;Itemid=54" title="Previous Members">Previous Members</a></li>
+<li><a href="indexaa2a.html?option=com_content&amp;task=view&amp;id=24&amp;Itemid=98" title="Istvan Mody">Istvan Mody</a></li>
+<li><a href="index962c.html?option=com_content&amp;task=view&amp;id=39&amp;Itemid=104" title="Main Lazaro">Main Lazaro</a></li>
+</ul>
+<h2 class="menutitle"></h2><ul class="level_0"><li><a href="index28f4.html?option=com_content&amp;task=view&amp;id=17&amp;Itemid=33" title="Ed Mann">Ed Mann</a></li>
+<li><a href="index3652.html?option=com_content&amp;task=view&amp;id=14&amp;Itemid=30" title="Vijayalakshmi Santhakumar">Vijayalakshmi Santhakumar</a></li>
+<li><a href="index9a5c.html?option=com_content&amp;task=view&amp;id=15&amp;Itemid=31" title="Irina Sokolova">Irina Sokolova</a></li>
+<li><a href="index6696.html?option=com_content&amp;task=view&amp;id=16&amp;Itemid=32" title="Weizheng Wei">Weizheng Wei</a></li>
+</ul>
+<h2 class="menutitle"></h2><ul class="level_0"><li><a href="indexb54e.html?option=com_content&amp;task=view&amp;id=27&amp;Itemid=52" title="Jay Spampanato">Jay Spampanato</a></li>
+<li><a href="indexde47.html?option=com_content&amp;task=view&amp;id=28&amp;Itemid=53" title="Joseph C. Glykys">Joseph C. Glykys</a></li>
+<li><a href="index0843.html?option=com_content&amp;task=view&amp;id=29&amp;Itemid=56" title="Endre Marton">Endre Marton</a></li>
+<li><a href="index0da5.html?option=com_content&amp;task=view&amp;id=15&amp;Itemid=100" title="Irina Sokolova">Irina Sokolova</a></li>
+<li><a href="index375d.html?option=com_content&amp;task=view&amp;id=14&amp;Itemid=106" title="Vijayalakshmi Santhakumar">Vijayalakshmi Santhakumar</a></li>
+<li><a href="index4f4b.html?option=com_content&amp;task=view&amp;id=19&amp;Itemid=107" title="Tim Indersmitten">Tim Indersmitten</a></li>
+<li><a href="indexca3c.html?option=com_content&amp;task=view&amp;id=17&amp;Itemid=120" title="Ed Mann">Ed Mann</a></li>
+</ul>
+<h2 class="menutitle"></h2><ul class="level_0"><li><a href="index1545.html?option=com_content&amp;task=view&amp;id=24&amp;Itemid=40" title="Istvan Mody">Istvan Mody</a></li>
+</ul>
+<h2 class="menutitle">Research Areas</h2><ul class="level_0"><li><a href="index9cb6.html?option=com_content&amp;task=view&amp;id=30&amp;Itemid=58" title="Epilepsy">Epilepsy</a></li>
+<li><a href="indexfbe3.html?option=com_content&amp;task=view&amp;id=31&amp;Itemid=59" title="GABA Receptors">GABA Receptors</a></li>
+<li><a href="indexad3e.html?option=com_content&amp;task=view&amp;id=32&amp;Itemid=60" title="Neurological Disorders">Neurological Disorders</a></li>
+<li><a href="indexb1a9.html?option=com_content&amp;task=view&amp;id=33&amp;Itemid=61" title="Ca(2+) Binding Proteins">Ca(2+) Binding Proteins</a></li>
+<li><a href="index2dcc.html?option=com_content&amp;task=view&amp;id=34&amp;Itemid=62" title="Neurophysiology">Neurophysiology</a></li>
+<li><a href="index191c.html?option=com_content&amp;task=view&amp;id=35&amp;Itemid=63" title="Inhibition">Inhibition</a></li>
+</ul>
+<h2 class="menutitle"></h2><ul class="level_0"><li><a href="indexc7c9.html?option=com_content&amp;task=view&amp;id=26&amp;Itemid=51" title="Mahsan Rafizadeh">Mahsan Rafizadeh</a></li>
+</ul>
+<h2 class="menutitle"></h2><ul class="level_0"><li><a href="index2a5e.html?option=com_content&amp;task=view&amp;id=23&amp;Itemid=39" title="Maksim Gill">Maksim Gill</a></li>
+</ul>
+</div></div>
+    						</div>
+    						    					</div>
+					</div>
+					<!-- end maincolumn -->
+					<!-- begin sidecolumn -->
+											<div id="sidecol">
+							<div id="sidecol-padding">
+																							</div>
+						</div>
+										<!-- end sidecolumn -->
+					<div class="clr"></div>
+				</div>
+			</div>
+			<!-- end mainbody -->
+			<!-- begin bottom section -->
+						<div id="mainbody-bottom">
+				<div id="mainbody-bottom2">
+					<div id="mainbody-bottom3">
+					</div>
+				</div>
+			</div>
+			<!-- end bottom section -->
+							<div align="center">
+				<div id="footer">
+					
+			<div class="moduletable">
+			<p align="center">
+<a target="_self" href="indexb002.html?option=com_content&amp;task=view&amp;id=36&amp;Itemid=71"><span style="font-size: 8pt">Contact Us</span></a><span style="font-size: 8pt"><span>&nbsp; |&nbsp; <a target="_self" href="index7a3a.html?option=com_joomap&amp;Itemid=75">Site Map</a></span> <br />
+<span style="color: #999999">Copyright &copy; 2005-2008 - All Rights Reserved - UCLA Istvan Mody Lab</span></span> 
+</p>
+		</div>
+						</div>
+				</div>
+					</div>
+		<!-- end wrapper -->
+	<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=12&cb=2060420560" async></script></body>
+
+<!-- Mirrored from www.modylab.ucla.edu/index.php?option=com_joomap&Itemid=75 , Wed, 25 Sep 2013 15:09:51 GMT -->
+</html><!-- 1380121721 -->

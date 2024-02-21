@@ -1,0 +1,208 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	
+<!-- Mirrored from www.modylab.ucla.edu/index.php?fontstyle=f-larger , Wed, 25 Sep 2013 15:08:45 GMT -->
+<head>
+	<title>UCLA Istvan Mody Lab - University of California, Los Angeles</title>
+<meta name="title" content="University of California, Los Angeles" />
+<meta name="author" content="Administrator" />
+<meta name="description" content="Synaptic Signaling in Health and Disease Our research focuses on 1) the physiology, pharmacology, and pathology of synaptic transmission in the mammalian brain, and 2) the regulation of intracellular calcium homeostasis. The two themes ultimately converge in our quest for understanding how long-term alterations in the excitability of nerve cells and circuits are responsible for offsetting the frail balance between excitation and inhibition. Tipping this balance, either acutely of chronically, results in the nervous system showing signs of abnormal activity leading to specific brain disorders. We study synaptic transmission and the activation of extrasynaptic receptors in the healthy and the diseased brain. We presently carry out research in animal models of epilepsy, Huntington's disease, stress, alcoholism, PMS/PMDD, postpartum depression, while also recording from human brain tissue surgically removed for the treatment of epilepsies. By studying the fundamental mechanisms responsible for the altered synapses and circuits our studies will lead to novel therapies for a number of devastating neurological and psychiatric disorders. The experimental approaches we use include patch-clamp recordings (whole-cell, single channel and perforated patch) in brain slices, in acutely isolated animal and human neurons, or in cultured neurons/slices; chronic recordings in vivo to monitor long-term changes in the excitability of circuits; infrared and fluorescent video microscopy and simultaneous recordings in live brain tissue; various neuroanatomical and immunohistochemical techniques; measurement of intraneuronal calcium and the binding kinetics of calcium to various calcium-binding proteins; molecular biological approaches aimed at reducing or altering specific brain proteins as in genetic knockouts/knockins and various methods aimed at altering cellular protein levels., Welcome to The Istvan Mody Lab" />
+<meta name="keywords" content="UCLA, Mody Lab, Istvan Mody, Guido Faas, Journal Club, Neurology Research, Neuroscience, Brain Research, CBRI, Jamie Maguire, Maksim Gill, Ed Mann, Ben Huang, Mody, Istvan, Neurology, Research, UCLA, Neuroscience" />
+<meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2007 Open Source Matters. All rights reserved." />
+<meta name="robots" content="index, follow" />
+	
+	
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<link href="comtmp/templates/rt_hivemind/css/template_css.css" rel="stylesheet" type="text/css" />
+<link href="comtmp/templates/rt_hivemind/css/rokslidestrip.css" rel="stylesheet" type="text/css" />
+<link href="comtmp/templates/rt_hivemind/css/light.css" rel="stylesheet" type="text/css" />
+<link href="comtmp/templates/rt_hivemind/css/menustyle3-light.css" rel="stylesheet" type="text/css" />
+<link href="comtmp/templates/rt_hivemind/rokzoom/rokzoom.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+	div.wrapper { margin: 0 auto; width: 962px;padding:0;}
+	/* clear fixes for pure css layout */
+	</style>	
+<script type="text/javascript" src="comtmp/templates/rt_hivemind/js/mootools-release-1.11.js"></script>
+<script type="text/javascript" src="comtmp/templates/rt_hivemind/js/rokslidestrip.js"></script>
+<script type="text/javascript" src="comtmp/templates/rt_hivemind/rokzoom/rokzoom-2.js"></script>
+<script type="text/javascript" src="comtmp/templates/rt_hivemind/js/rokfonts.js"></script>   
+<script type="text/javascript">
+	window.addEvent('load', function() {
+		var modules = ['module','module-menu','module-color1','module-color2','module-color3','module-color4','module-style1','module-style1-color1','module-style1-color2','module-style1-color3','module-style1-color4','module-style2','module-style2-color1','module-style2-color2','module-style2-color3','module-style2-color4'];
+		var header = "h3";
+			    RokBuildSpans(modules, header);
+        	});
+</script>
+	
+<!--[if IE]>
+<script type="text/javascript">
+
+var sfHover = function(search, replaced) {
+	if (!replaced) replaced = 'sfHover';
+
+	var els = $$('.' + search).getElements('li');
+	if (!els.length) return false;
+
+		els.each(function(el) {
+			el.addEvents({
+				'mouseenter': function() {
+					this.addClass(replaced);
+				},
+				'mouseleave': function() {
+					this.removeClass(replaced);
+				}
+			});
+		});
+	}
+
+window.addEvent('domready', function() {
+	sfHover('menutop');
+});
+</script>
+
+<![endif]-->
+	
+<script type="text/javascript">
+	window.addEvent('load', function() {
+		RokZoom.init({
+			imageDir: 'templates/rt_hivemind/rokzoom/images/',
+			resizeFX: {
+				duration: 700,
+				transition: Fx.Transitions.Cubic.easeOut,
+				wait: true
+			},
+			opacityFX: {
+				duration: 500,
+				wait: false	
+			}
+		});
+	});
+</script>
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1791317-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	</head>
+	<body id="ff-optima" class="f-larger light">
+		<!-- begin wrapper -->
+		<div class="wrapper">
+			<!-- begin top section -->
+			<div id="top">
+				
+												<div id="accessibility">
+					<div id="buttons">
+						<a href="index412d.html?fontstyle=f-larger" title="Increase size" class="large"><span class="button">&nbsp;</span></a>
+						<a href="indexc5d0.html?fontstyle=f-default" title="Default size" class="default"><span class="button">&nbsp;</span></a>
+						<a href="index34be.html?fontstyle=f-smaller" title="Decrease size" class="small"><span class="button">&nbsp;</span></a>
+					</div>
+				</div>
+					
+			</div>
+			<!-- end top section -->
+			<!-- begin mainbody -->
+			<div id="mainbody-top">
+				<div id="mainbody-top2">
+					<div id="mainbody-top3">
+					</div>
+				</div>
+			</div>
+			<div id="mainbody">
+				<!-- begin header -->
+				<div id="header">
+					
+					<div id="horiz-menu" class="splitmenu menustyle3">
+						<div id="horiz-menu2">
+															<ul class="menutop"  id="horiznav"><li class="active">
+<span class="top"><a href="index6bf3.html?option=com_content&amp;task=view&amp;id=37&amp;Itemid=74">Home</a></span></li><li class="">
+<span class="top"><a href="indexcafb.html?option=com_docman&amp;Itemid=27">Publications</a></span></li><li class="">
+<span class="top"><a href="index2f77.html?option=com_content&amp;task=view&amp;id=24&amp;Itemid=69">Lab Members</a></span></li><li class="">
+<span class="top"><a href="index0c1b.html?option=com_content&amp;task=view&amp;id=30&amp;Itemid=70">Research</a></span></li><li class="">
+<span class="top"><a href="indexa915.html?option=com_content&amp;task=view&amp;id=38&amp;Itemid=103">Journal Club</a></span></li><li class="">
+<span class="top"><a href="index1d6b.html?option=com_content&amp;task=view&amp;id=36&amp;Itemid=73">About Us</a></span></li>
+</ul>								
+						</div>
+					</div>
+				</div>
+				<!-- end header -->
+									<div id="pathway">
+						<span class="pathway">Home </span>					</div>
+								<div id="mainbody-padding">
+					
+					<!-- begin maincolumn -->
+					<div id="maincol">
+					    <div id="maincol-container">
+	    					    						    						<div id="body-padding">
+    						    
+				<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					University of California, Los Angeles									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+				<tr>
+			<td valign="top" colspan="2">
+				<div style="text-align: center">
+<img src="https://www.modylab.ucla.edu/images/stories/mainbrain.gif" width="736" alt="mainbrain.gif" height="539" style="width: 736px; height: 539px; margin: 5px" title="mainbrain.gif" /> 
+</div>
+
+
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		    						</div>
+    						    					</div>
+					</div>
+					<!-- end maincolumn -->
+					<!-- begin sidecolumn -->
+											<div id="sidecol">
+							<div id="sidecol-padding">
+																							</div>
+						</div>
+										<!-- end sidecolumn -->
+					<div class="clr"></div>
+				</div>
+			</div>
+			<!-- end mainbody -->
+			<!-- begin bottom section -->
+						<div id="mainbody-bottom">
+				<div id="mainbody-bottom2">
+					<div id="mainbody-bottom3">
+					</div>
+				</div>
+			</div>
+			<!-- end bottom section -->
+							<div align="center">
+				<div id="footer">
+							<div class="moduletable">
+			<p align="center">
+<a target="_self" href="indexb002.html?option=com_content&amp;task=view&amp;id=36&amp;Itemid=71"><span style="font-size: 8pt">Contact Us</span></a><span style="font-size: 8pt"><span>&nbsp; |&nbsp; <a target="_self" href="index7a3a.html?option=com_joomap&amp;Itemid=75">Site Map</a></span> <br />
+<span style="color: #999999">Copyright &copy; 2005-2008 - All Rights Reserved - UCLA Istvan Mody Lab</span></span> 
+</p>
+		</div>
+						</div>
+				</div>
+					</div>
+		<!-- end wrapper -->
+	<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=818897338" async></script></body>
+
+<!-- Mirrored from www.modylab.ucla.edu/index.php?fontstyle=f-larger , Wed, 25 Sep 2013 15:08:45 GMT -->
+</html><!-- 1380121715 -->

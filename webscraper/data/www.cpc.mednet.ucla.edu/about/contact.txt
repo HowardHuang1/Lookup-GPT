@@ -1,0 +1,546 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Reach out to UCLA&#039;s Center for Prehospital Care through our various training locations. From the administrative hub at Glendon Westwood to the Paramedic School at Pacific Concourse, EMT Courses in Westwood Village, and Phlebotomy Programs at the Rehab Location, we provide excellence in medical education. Contact us for inquiries or visit our Health Sciences Building for" />
+<meta name="abstract" content="Connect with excellence at UCLA&#039;s Center for Prehospital Care. Explore our diverse training locations, including the Paramedic School, EMT Courses in Westwood Village, and Phlebotomy Program at the Rehab Location. With strategic access to healthcare education at UCLA, our Training Centers, like the Community Training Center, offer premier courses. Contact us at the administrative office or explore our Health Sciences Building for top-tier medical education. Experience the epitome of prehospital training with UCLA." />
+<meta name="keywords" content="UCLA Center for Prehospital Care, Contact Us, Paramedic School, EMT Courses, Phlebotomy Program, Community Training Center, UCLA Emergency Medical Technician Program, Training Locations, Medical Education, Prehospital Training, UCLA Health Sciences, Los Angeles Healthcare, CPR Courses, EMT School" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.cpc.mednet.ucla.edu/about/contact" />
+<link rel="shortlink" href="https://www.cpc.mednet.ucla.edu/node/18" />
+<meta property="og:site_name" content="UCLA CPC" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.cpc.mednet.ucla.edu/about/contact" />
+<meta property="og:title" content="Contact Us" />
+<meta property="og:description" content="Locations Open Google Map Glendon Westwood Location (Administrative Office): UCLA Center for Prehospital Care 1100 Glendon Ave., Suite 1200 Los Angeles, CA 90024 Phone: (310) 267-5959, Monday-Friday 9am - 5pm Fax: (310) 672-0221 Email: cpc@mednet.ucla.edu Open Google Map Pacific Concourse Location (Paramedic School): Open Tuesday &amp; Thursday, 8am - 4pm UCLA Paramedic Education Program 5220 Pacific Concourse Dr., Suite 135 Los Angeles, CA 90045 Phone: (310) 680-1100 Monday-Friday, 9am - 5pm Fax: (310) 297-2020 Email: paramedic@mednet.ucla.edu Open Google Map Westwood Village Cente" />
+<meta property="og:updated_time" content="2024-02-20T09:15:07-08:00" />
+<meta property="article:published_time" content="2014-09-18T12:25:27-07:00" />
+<meta property="article:modified_time" content="2024-02-20T09:15:07-08:00" />
+  <title>Contact Us | UCLA CPC</title>
+  <style>
+@import url("https://www.cpc.mednet.ucla.edu/modules/system/system.base.css?s8lm5r");
+</style>
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/modules/field/theme/field.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/filebrowser/css/filebrowser_style.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/views/css/views.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ckeditor/css/ckeditor.css?s8lm5r");
+</style>
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ctools/css/ctools.css?s8lm5r");
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.css?s8lm5r" media="all" />
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/css/style.css?s8lm5r");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_YndZxdyT8-8LUpZC5MssOCg5j7KN4UJGOzCX7A0hGKI.js"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.js?s8lm5r"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_sGFJ0aln9SHwpHdKSzoE8Cdcd6RIMEIfIGrifGaUeBw.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cpc_bootstrap","theme_token":"PQBn6MEfMIdka-VE79gRa2WgXEYZZabfQDxwM4DTqXw","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"https:\/\/code.jquery.com\/jquery-3.7.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/contrib\/popup\/popup.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/cpc_bootstrap\/cpc_js.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/filebrowser\/css\/filebrowser_style.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/popup\/popup.css":1,"sites\/all\/themes\/cpc_bootstrap\/css\/style.css":1}},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":250,"delay":0},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+      </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-18 node-type-cpc-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+
+<style>
+.navbar-default {
+    background-color: #000000;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ffb300;
+  background-color: transparent;
+}
+.login-header, .login-header a
+	{ color: white; }
+.login-header a:hover, .login-header a:active, .login-header a:visited
+	{ color: #ffffff; }
+.msg-button, .msg-button a
+	{ color: white; }
+.msg-button a:hover, .msg-button a:active, .msg-button a:visited
+	{ color: #ffffff; }
+.hp_quicklinks {
+	color: #00a5e5;
+	}
+.hp_quicklinks a, .hp_quicklinks a:hover, .hp_quicklinks a:active, .hp_quicklinks a:visited {
+	color: #ffb300;
+}
+.row div.featureslot {
+	padding:2em;
+}
+.node-cpc-page div.content {
+  overflow: visible;
+}
+@media (max-width: 768px) {
+  .row div.featureslot {
+	padding-top:1em;
+	padding-bottom:1em;
+  }
+}
+</style>
+<header id="navbar" role="banner">
+	<div class="container containerlogin">
+		<div class="row" style="margin-top:0px; margin-bottom:0px; background-color: #666666;">
+			<div class="login-header pull-right" style="display: inline; background-color: #00a5e5; padding:10px;">
+				<!-- AJAX Replaces here	-->
+				[ Login / Register ] <span class="glyphicon glyphicon-shopping-cart"></span> 0  items in cart
+			</div>
+			<div class="pull-left hp_quicklinks" style="display: inline; padding:10px;"><p>
+	&nbsp; &nbsp;</p>
+</div>
+		</div>
+	</div>
+  <div class="containernavbar container navbar-default">
+    <div class="navbar-header">
+      				<a class="logo navbar-btn pull-left" href="/" title="Home">
+					<img src="https://www.cpc.mednet.ucla.edu/sites/default/files/images/cpc_logo-323x32.png" alt="Home" id="logo" class="img-responsive" />
+				</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first expanded dropdown"><a href="/cpc/course-listings" title="Our Courses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Courses <span class="caret"></span></a><ul class="dropdown-menu"><li class="first collapsed"><a href="/emt-courses">EMT</a></li>
+<li class="collapsed"><a href="/paramedic-courses">Paramedic</a></li>
+<li class="leaf"><a href="/content/licensed-phlebotomist-course">Licensed Phlebotomist</a></li>
+<li class="expanded"><a href="/aha-courses">BLS, ACLS &amp; PALS</a></li>
+<li class="expanded"><a href="/cpr-first-aid-courses">CPR &amp; First Aid</a></li>
+<li class="last collapsed"><a href="/trauma-courses">Trauma &amp; NAEMT Courses</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/students" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Students <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/services/payment-methods">Payment Methods</a></li>
+<li class="leaf"><a href="/services/payment-plan">Payment Plan</a></li>
+<li class="leaf"><a href="/services/refunds-transfers">Refunds &amp; Transfers</a></li>
+<li class="leaf"><a href="/services/transcripts">Transcripts</a></li>
+<li class="leaf"><a href="/services/financial-aid">Scholarships</a></li>
+<li class="leaf"><a href="/veterans">Veteran&#039;s Assistance Benefits</a></li>
+<li class="leaf"><a href="/services/students-with-disabilities">Educational Accommodations</a></li>
+<li class="last leaf"><a href="/services/college-credit">College Credit &amp; CEUs</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/services" title="Services for agencies, hospitals, and businesses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/fdqi" title="node/572">Fire Department Quality Improvement</a></li>
+<li class="last leaf"><a href="/international">International</a></li>
+</ul></li>
+<li class="last expanded active-trail dropdown"><a href="/content/about-us" class="active-trail dropdown-toggle" data-target="#" data-toggle="dropdown">About Us <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf active-trail active"><a href="/about/contact" class="active-trail active">Contact Us</a></li>
+<li class="leaf"><a href="/giving">Giving</a></li>
+<li class="leaf"><a href="/content/ucla-center-prehospital-care-strategic-plan">Strategic Plan</a></li>
+<li class="leaf"><a href="/about/leadership">Leadership</a></li>
+<li class="leaf"><a href="/diversity-resources">Equity, Diversity &amp; Inclusion</a></li>
+<li class="leaf"><a href="/about/history">Our History</a></li>
+<li class="leaf"><a href="/about/employment">Jobs at the Center</a></li>
+<li class="last leaf"><a href="https://www.uclahealth.org/privacy-practices" title="">Privacy Practices</a></li>
+</ul></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+	
+<!--
+	<div class="container">
+		<ol class="breadcrumb"><li class="first"><a href="/content/about-us" class="active-trail">About Us</a></li>
+<li class="active last">Contact Us</li>
+</ol>	</div>
+-->
+	</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    <div class="col-sm-9 xcol-sm-push-3 col-md-float-right">
+            <a id="main-content"></a>
+            <!--
+			        <h1 class="page-header">Contact Us</h1>
+      			-->
+			<!--------------------->
+							<h1 class="page-header">Contact Us</h1>
+					<!--–– SECTION HIDDEN UNIVERSAL INFO AREA ––-->
+				<!--------------------->
+
+	                                      		</div>
+		
+          <div class="col-sm-3 xcol-sm-pull-9 col-md-float-left" role="complementary">
+          <div class="region region-sidebar-first">
+    <div id="block-menu-block-7" class="block block-menu-block">
+
+    <h2 class="block-title">About Us</h2>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-7 menu-name-main-menu parent-mlid-888 menu-level-1">
+  <ul class="menu nav"><li class="first leaf active-trail active menu-mlid-1476 active"><a href="/about/contact" class="active-trail active">Contact Us</a></li>
+<li class="leaf menu-mlid-3372"><a href="/giving">Giving</a></li>
+<li class="leaf menu-mlid-4770"><a href="/content/ucla-center-prehospital-care-strategic-plan">Strategic Plan</a></li>
+<li class="leaf menu-mlid-2282"><a href="/about/leadership">Leadership</a></li>
+<li class="leaf menu-mlid-3377"><a href="/diversity-resources">Equity, Diversity &amp; Inclusion</a></li>
+<li class="leaf menu-mlid-1406"><a href="/about/history">Our History</a></li>
+<li class="leaf menu-mlid-1618"><a href="/about/employment">Jobs at the Center</a></li>
+<li class="last leaf menu-mlid-4767"><a href="https://www.uclahealth.org/privacy-practices" title="">Privacy Practices</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+      </div>  <!-- /#sidebar-first -->
+    		
+    <div class="col-sm-9 xcol-sm-push-3 col-md-float-right">
+        <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-18" class="node node-cpc-page clearfix" about="/about/contact" typeof="sioc:Item foaf:Document">
+
+	<!--
+  	-->
+      <span property="dc:title" content="Contact Us" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  <div class="content">
+    
+		<!--
+					<h1 class="page-header">Contact Us</h1>
+				-->
+		
+		<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+          <h2 class="c3">
+	Locations</h2>
+<!-- <div style="background-color: #f99;padding:10px; margin-bottom:10px;"><h3 style="margin-top:0;">
+		<strong>Schedule note:</strong></h3>
+<p style="margin-bottom:0;">
+		<strong>Our offices and phone lines will be closed on Monday February&nbsp;19 for President's Day.</strong></p>
+<p> -->
+</div>
+<div style="float: right;">
+	</p>
+<iframe allowfullscreen="" height="240" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.3477490564374!2d-118.443832!3d34.0605988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bc81bcfa8e95%3A0xba3041fb7430ac1d!2s1100%20Glendon%20Ave%20%231200%2C%20Los%20Angeles%2C%20CA%2090024!5e0!3m2!1sen!2sus!4v1678470259957!5m2!1sen!2sus" style="border:0;" width="220"></iframe><p>
+	<small><a href="https://www.google.com/maps/place/1100+Glendon+Ave+%231200,+Los+Angeles,+CA+90024/@34.0605988,-118.443832,17z/data=!3m1!4b1!4m6!3m5!1s0x80c2bc81bcfa8e95:0xba3041fb7430ac1d!8m2!3d34.0605988!4d-118.443832!16s%2Fg%2F11lkj76smg" style="color:#0000FF;text-align:left" target="_blank">Open Google Map</a></small></div>
+<p class="c2">
+	<strong><span class="c14 c7"><a href="https://www.cpc.mednet.ucla.edu/sites/default/files/attached_files/1100_glendon_1200_map.pdf">Glendon Westwood Location</a> (Administrative Office):</span></strong></p>
+<p class="c2">
+	<span class="c4">UCLA Center for Prehospital Care</span></p>
+<p class="c2">
+	1100 Glendon Ave., Suite 1200&nbsp;</p>
+<p class="c2 c5">
+	Los Angeles, CA 90024</p>
+<p class="c2" style="margin-bottom: 0px;">
+	<span class="c4">Phone: (310) 267-5959, Monday-Friday 9am - 5pm</p>
+<!--	<span style="color:#FF0000;"><p><strong>Holiday phone hours:</strong></span></span></p>
+<p class="c2 rteindent1">
+	<span style="color:#FF0000;">• &nbsp; Thursday, December 22: Phones open 9am - 1pm<br />
+	• &nbsp; Friday, December 23: Closed<br />
+	• &nbsp; Monday, December 26: Closed<br />
+	• &nbsp; Tuesday-Thursday December 27-28: Phones open 9am - 5pm<br />
+	• &nbsp; Friday, December 29: Closed<br />
+	• &nbsp; Monday, January 2: Closed</span></p>
+<p>--> </span></p>
+<p class="c2">
+	<span class="c4">Fax: (310) 672-0221</span></p>
+<p class="c2">
+	<span class="c7">Email: </span><span class="c10"><a class="c16" href="mailto:cpc@mednet.ucla.edu">cpc@mednet.ucla.edu</a></span></p>
+<p class="c2 c5">
+	&nbsp;</p>
+<hr style="border: none 0;border-top: 1px solid #ccc;height: 1px;clear: both;" />
+<div style="float: right;">
+	</p>
+<iframe frameborder="0" height="240" marginheight="0" marginwidth="0" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3310.536340100692!2d-118.37321600000001!3d33.92733100000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2b6bc30073631%3A0xa7b3d42862e31748!2s5220+Pacific+Concourse+Dr%2C+Los+Angeles%2C+CA+90045!5e0!3m2!1sen!2sus!4v1441991641158" width="220"></iframe><p>
+	<small><a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3310.536340100692!2d-118.37321600000001!3d33.92733100000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2b6bc30073631%3A0xa7b3d42862e31748!2s5220+Pacific+Concourse+Dr%2C+Los+Angeles%2C+CA+90045!5e0!3m2!1sen!2sus!4v1441991641158" style="color:#0000FF;text-align:left" target="_blank">Open Google Map</a></small></div>
+<p class="c2">
+	<strong><span class="c1"><a class="c16" href="/sites/default/files/attached_files/Map_UCLA-PM_150914-PacificConcourse.pdf" target="_blank">Pacific Concourse Location</a></span><span class="c7 c14">&nbsp;(Paramedic School):</span></strong></p>
+<p class="c2">
+	Open Tuesday &amp; Thursday, 8am - 4pm</p>
+<p class="c2">
+	<span class="c4">UCLA Paramedic Education Program</span></p>
+<p class="c2">
+	<span class="c7">5220 Pacific Concourse Dr., Suite 135</span></p>
+<p class="c2">
+	<span class="c4">Los Angeles, CA 90045</span></p>
+<p class="c2 c5">
+	&nbsp;</p>
+<p class="c2">
+	<span class="c4">Phone: (310) 680-1100 Monday-Friday, 9am - 5pm</span></p>
+<p class="c2">
+	<span class="c4">Fax: (310) 297-2020</span></p>
+<p class="c2">
+	<span class="c7">Email: </span><span class="c10"><a class="c16" href="mailto:paramedic@mednet.ucla.edu">paramedic@mednet.ucla.edu</a></span></p>
+<p class="c2">
+	&nbsp;</p>
+<hr />
+<div style="float: right;">
+	</p>
+<iframe frameborder="0" height="240" marginheight="0" marginwidth="0" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.3522504864313!2d-118.44923348487391!3d34.06048338060374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bc824ab5699d%3A0xf5de2b03457d738f!2s1083%20Gayley%20Ave%20Floor%203%2C%20Los%20Angeles%2C%20CA%2090024!5e0!3m2!1sen!2sus!4v1622139662238!5m2!1sen!2sus" width="220"></iframe><p>
+	<small><a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.3522504864313!2d-118.44923348487391!3d34.06048338060374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bc824ab5699d%3A0xf5de2b03457d738f!2s1083%20Gayley%20Ave%20Floor%203%2C%20Los%20Angeles%2C%20CA%2090024!5e0!3m2!1sen!2sus!4v1622139662238!5m2!1sen!2sus" style="color:#0000FF;text-align:left" target="_blank">Open Google Map</a></small></div>
+<p class="c2 c5">
+	&nbsp;</p>
+<p class="c9 c5">
+	&nbsp;</p>
+<p class="c9">
+	<strong><a href="/sites/default/files/attached_files/Map_CPC%20Westwood%20Village%20Center_0.pdf" target="_blank"><span class="c8">Westwood Village Center Location</span></a><span class="c14 c17">&nbsp;(EMT Courses):</span></strong></p>
+<p class="c9">
+	<span class="c0">UCLA Emergency Medical Technician Program</span></p>
+<p class="c9">
+	<span class="c0">1083 Gayley Ave. Floor 3</span></p>
+<p class="c9">
+	<span class="c0">Los Angeles, CA 90024</span></p>
+<p class="c9 c5">
+	&nbsp;</p>
+<p class="c9 c5">
+	&nbsp;</p>
+<p class="c9 c5">
+	&nbsp;</p>
+<p class="c9 c5">
+	&nbsp;</p>
+<hr />
+<div style="float: right;">
+	</p>
+<iframe frameborder="0" height="240" marginheight="0" marginwidth="0" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.2588997164403!2d-118.44718538487383!3d34.06287688060312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bc8159fbdb3d%3A0x8642a0bdc401a79!2s936%20Westwood%20Blvd%2C%20Los%20Angeles%2C%20CA%2090024!5e0!3m2!1sen!2sus!4v1622141062278!5m2!1sen!2sus" width="220"></iframe><p>
+	<small><a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.2588997164403!2d-118.44718538487383!3d34.06287688060312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bc8159fbdb3d%3A0x8642a0bdc401a79!2s936%20Westwood%20Blvd%2C%20Los%20Angeles%2C%20CA%2090024!5e0!3m2!1sen!2sus!4v1622141062278!5m2!1sen!2sus" style="color:#0000FF;text-align:left" target="_blank">Open Google Map</a></small></div>
+<p class="c2 c5">
+	&nbsp;</p>
+<p class="c9 c5">
+	&nbsp;</p>
+<p class="c9">
+	<strong><a href="https://www.cpc.mednet.ucla.edu/sites/default/files/attached_files/Map_Train_Station_1.pdf" target="_blank"><span class="c8">Train Station</span></a><span class="c15">&nbsp;(CTC and </span><span class="c15">CPI</span><span class="c14 c17">&nbsp;Courses):</span></strong></p>
+<p class="c9">
+	<span class="c0">UCLA Community Training Center</span></p>
+<p class="c9">
+	<span class="c0">936 Westwood Blvd</span></p>
+<p class="c9">
+	<span class="c0">Los Angeles, CA 90024</span></p>
+<p class="c9 c5">
+	&nbsp;</p>
+<p class="c9 c5">
+	&nbsp;</p>
+<p class="c9 c5">
+	&nbsp;</p>
+<p class="c9 c5">
+	&nbsp;</p>
+<hr />
+<div style="float: right;">
+	</p>
+<iframe frameborder="0" height="240" marginheight="0" marginwidth="0" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.2233422462095!2d-118.45040453880694!3d34.0602910407112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bdcb35d4182b%3A0xd3f2b1297d96a2df!2s1000%20Veteran%20Ave%2C%20Los%20Angeles%2C%20CA%2090024!5e0!3m2!1sen!2sus!4v1687976773246!5m2!1sen!2sus&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;" width="220"></iframe><p>
+	<small><a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.340912975565!2d-118.45141568487391!3d34.06077408060358!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bc83102f5b89%3A0x7009ab99ad2771bb!2sRehabilitation%20Center%2C%201000%20Veteran%20Ave%20Rm%202243%2C%20Los%20Angeles%2C%20CA%2090024!5e0!3m2!1sen!2sus!4v1622141375754!5m2!1sen!2sus" style="color:#0000FF;text-align:left" target="_blank">Open Google Map</a></small></div>
+<p class="c2 c5">
+	&nbsp;</p>
+<p class="c9 c5">
+	&nbsp;</p>
+<p class="c9">
+	<strong><a href="https://www.cpc.mednet.ucla.edu/sites/default/files/attached_files/Rehab%20Map.pdf"><span class="c8">Rehab Location</span></a><span class="c14 c17">&nbsp;(Phlebotomy, CTC, and CPI Courses):</span></strong></p>
+<p class="c9">
+	<span class="c0">UCLA Phlebotomy Program/Community Training Center</span></p>
+<p class="c9">
+	<span class="c0">1000 Veteran Ave. 2nd Floor, Rm 2243</span></p>
+<p class="c9">
+	<span class="c0">Los Angeles, CA 90024</span></p>
+<p class="c2 c5">
+	&nbsp;</p>
+<p class="c2">
+	<span class="c7">Email: </span><span class="c10"><a class="c16" href="mailto:phlebotomy@mednet.ucla.edu">phlebotomy@mednet.ucla.edu</a></span></p>
+<p class="c2 c5">
+	&nbsp;</p>
+<p class="c2 c5">
+	&nbsp;</p>
+<hr />
+<div style="float: right;">
+	</p>
+<iframe frameborder="0" height="240" marginheight="0" marginwidth="0" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.1095491344895!2d-118.44477939999999!3d34.066705899999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bc8664d3574b%3A0x7beb4c89ea5b5052!2sLearning%20Resource%20Center%2C%20700%20Westwood%20Plaza%2C%20Los%20Angeles%2C%20CA%2090024!5e0!3m2!1sen!2sus!4v1702659376953!5m2!1sen!2sus&quot; width=&quot;400&quot; height=&quot;300&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;" width="220"></iframe><p>
+	<small><a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.349898749689!2d-118.45009718487381!3d34.060543680603615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bc83a9d25ab7%3A0xdd302aedff57a745!2sUCLA%20Obstetrics%20and%20Gynecology%20Clinic!5e0!3m2!1sen!2sus!4v1622141495073!5m2!1sen!2sus" style="color:#0000FF;text-align:left" target="_blank">Open Google Map</a></small></div>
+<p class="c2 c5">
+	&nbsp;</p>
+<p class="c9 c5">
+	&nbsp;</p>
+<p class="c9">
+	<a href="https://www.cpc.mednet.ucla.edu/sites/default/files/attached_files/Driving%20Directions%20to%20Rosenfeld%20Hall%20%281%29.pdf"><strong><span class="c14 c17">UCLA Rosenfeld Hall&nbsp;</span></strong></a>&nbsp;<strong>(CTC Courses):</strong></p>
+<p class="c9">
+	700 Westwood Plaza</p>
+<p class="c9">
+	Room 1218 or A214</p>
+<p class="c9">
+	<span class="c0">Los Angeles, CA 90095</span></p>
+<p class="c9 c5">
+	&nbsp;</p>
+<p class="c9 c5">
+	&nbsp;</p>
+<p class="c9 c5">
+	&nbsp;</p>
+<p class="c9 c5">
+	&nbsp;</p>
+<hr />
+<div style="float: right;">
+	</p>
+<iframe frameborder="0" height="240" marginheight="0" marginwidth="0" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.2038874761347!2d-118.44493112373436!3d34.06428731709331!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bc871f0f49a5%3A0xf6d858726f868227!2s10833%20Le%20Conte%20Ave%2C%20Los%20Angeles%2C%20CA%2090095!5e0!3m2!1sen!2sus!4v1679091397325!5m2!1sen!2sus&quot; width=&quot;400&quot; height=&quot;300&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;" width="220"></iframe><p>
+	<small><a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.2588997164403!2d-118.44718538487383!3d34.06287688060312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bc8159fbdb3d%3A0x8642a0bdc401a79!2s936%20Westwood%20Blvd%2C%20Los%20Angeles%2C%20CA%2090024!5e0!3m2!1sen!2sus!4v1622141062278!5m2!1sen!2sus" style="color:#0000FF;text-align:left" target="_blank">Open Google Map</a></small></div>
+<p class="c2 c5">
+	&nbsp;</p>
+<p class="c9 c5">
+	&nbsp;</p>
+<p class="c9">
+	<strong><span class="c15"><a href="https://www.cpc.mednet.ucla.edu/sites/default/files/attached_files/CHS%2073-105%20Map%20for%20Phlebotomy%20Students%5B8%5D.pdf">Health Sciences Building</a> (Phlebotomy Lecture Classroom</span><span class="c14 c17">):</span></strong></p>
+<p class="c9">
+	<span class="c0">UCLA Center for Health Sciences Room 73-105</span></p>
+<p class="c9">
+	10833 LeConte Avenue</p>
+<p class="c9">
+	<span class="c0">Los Angeles, CA 90095</span></p>
+<p class="c9 c5">
+	&nbsp;</p>
+<p class="c9 c5">
+	&nbsp;</p>
+<p class="c9 c5">
+	&nbsp;</p>
+<p class="c9 c5">
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+    		
+  </div>
+
+    		
+</div>
+  </div>
+</div>
+  </div>
+    </div>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+	
+	<div class="col-sm-3">
+      <div class="region region-footer-left">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="footer-menu footer-menu-left">
+<li>
+		<span style="color:#00a5e5;">Resources</span></li>
+<li>
+		<a href="https://www.cpc.mednet.ucla.edu/pcrf/">PCRF</a></li>
+<li>
+		<a href="/about/contact">Contact</a></li>
+<li>
+		<a href="https://vipcpc1.ad.medctr.ucla.edu/portal">Portal</a></li>
+<li>
+		<a href="https://www.cpc.mednet.ucla.edu/SRRS/Staff/StaffMain.aspx">SRRS Staff Page</a></li>
+<li>
+		<a href="/associates">Associate Resources</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-6">
+      <div class="region region-footer-middle">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="footer-menu footer-menu-center-left">
+<li>
+		<a href="/courses">Courses</a></li>
+<li>
+		<a href="/emt">EMT</a></li>
+<li>
+		<a href="/paramedic">Paramedic</a></li>
+<li>
+		<a href="/lifesupport">CPR, ACLS, PALS</a></li>
+<li>
+		<a href="/course/phlebotomy">Phlebotomy</a></li>
+<li>
+		<a href="/course/phtls">Trauma</a></li>
+</ul>
+<ul class="footer-menu footer-menu-center-center">
+<li>
+		<a href="/students">Students</a></li>
+<li>
+		<a href="/services/payment-methods">Payment Methods</a></li>
+<li>
+		<a href="/services/financial-aid">Financial Aid</a></li>
+<li>
+		<a href="/services/books">Books</a></li>
+<li>
+		<a href="/services/transcripts">Transcripts</a></li>
+</ul>
+<ul class="footer-menu footer-menu-center-right">
+<li>
+		<a href="/about">About Us</a></li>
+<li>
+		<a href="/about/contact">Contact</a></li>
+<li>
+		<a href="/giving">Giving</a></li>
+<li>
+		<a href="/about/leadership">Leadership</a></li>
+<li>
+		<a href="/diversity-resources">Equity, Diversity<br />
+		&amp; Inclusion</a></li>
+<li>
+		<a href="/about/history">Our History</a></li>
+<li>
+		<a href="/about/employment">Jobs at CPC</a></li>
+<li>
+		<a href="https://www.uclahealth.org/privacy-notice">Privacy Practices</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-3">
+      <div class="region region-footer-right">
+    <div id="block-block-4" class="block block-block">
+
+    
+  <div class="content">
+    <div style="width:185px; xmargin:20px auto;">
+	<a href="http://www.facebook.com/uclacpc"><img class="img-responsive" src="/sites/all/themes/cpc_bootstrap/theme_images/facebookIcon-240.png" style="display: inline-block; margin: 5px; max-width:120px;" /></a><!--<img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-FB.png" style="display: inline-block; margin: 5px;" /> <img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-LI.png" style="display: inline-block; margin: 5px;" /><img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-YT.png" style="display: inline-block; margin: 5px;" /> --> <a href="https://www.instagram.com/uclacpc/" target="_blank"><img src="/sites/default/files/icons/instagram_glyph_color.png" style="display: inline-block; max-height: 40px; max-width: 40px; " /></a></div>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-12 footer-bottom">
+		<div style="text-align: center; border-top: 1px solid #777;display:none;">
+		<a href="">Privacy</a> | <a href="">Terms</a>
+		</div>
+	</div>
+</footer>
+  	  <script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=23&cb=837968210" async></script></body>
+</html>

@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="en" class="responsive">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="favicon.ico">
+    <title>Login</title>
+    <link href="Resources/yui/build/yui-combined.css" rel="stylesheet"><!-- YUICSS -->
+    <link href='Local/bootstrap-merge.min.css' rel='stylesheet'> <!-- THEME -->
+    <link href="/Resources/stylesheets/plugins/toastr/toastr.min.css" rel="stylesheet">
+    <link href="/Resources/stylesheets/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <link href="/bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="/Resources/stylesheets/plugins/bootstrap-datepicker3.min.css" rel="stylesheet">
+    <link href="/Resources/lib/datetimepicker/datetimepicker.css" rel="stylesheet">
+    <link href="/Resources/stylesheets/plugins/select2/select2.min.css" rel="stylesheet">
+    <link href="/Resources/stylesheets/responsive.css" rel="stylesheet">
+    <link href="/Resources/stylesheets/upload.css" rel="stylesheet">
+    <style>
+/*********************** Theme **********************************************/
+:root {
+    --pnc-banner-color:  #003262; /* #FDB515;  #003262; */
+    --pnc-banner-text-color: #FFFFFF; /*#FFFFFF; #3B7EA1;*/
+    --pnc-button-color:   #2774AE; /*#C4820E;  #3B7EA1; #C4820E;*/
+    --pnc-button-hover-color: #005587; /* #FDB515;  #003262; #FDB515;*/
+}
+/*logo background color*/
+.navbar-brand > img{
+  background-color: var(--pnc-banner-color);
+}
+/*Side Nav font*/
+.nav > li > a{
+  font-size: 16px;
+  font-family:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/*text-decoration-line: underline;
+Berkeley Blue  #003262
+Founders Rock  #3B7EA1
+California Gold  #FDB515
+Medalist  #C4820E
+Fonts
+font-family:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+*/
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav>li>a {
+    color: var(--pnc-banner-text-color);
+}
+a {
+    color: var(--pnc-button-color); 
+}
+a:hover, a:focus {
+    color: var(--pnc-button-hover-color);
+}
+.btn-primary {
+    background-color: var(--pnc-button-color) !important;
+    background-image: none;
+    border-color: var(--pnc-button-hover-color) !important;
+}
+.btn-primary:hover, .btn-primary:active {
+    background-color: var(--pnc-button-hover-color) !important;
+    background-image: none;
+}
+.navbar-default {
+    background-color: var(--pnc-banner-color);
+    border-color: var( --pnc-button-hover-color);
+    background-image: none;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus,
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus,
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+    background-color: var(--pnc-button-color);
+}
+
+.navbar .navbar-brand>img { padding: 0; }
+/**************************************** End Theme ************************************/
+/* Hide Quick Links */
+#ql-buttons{
+display: none;
+}
+html{
+ font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+}
+#imzHeader-alert{
+  font-weight: normal;
+  font-size: 16px;
+}
+.branchPageHeader{
+padding-top: 200px;
+font-weight: 700;
+text-decoration: underline;
+}
+/*********** unknown *************************/
+#home-test-link{
+margin-top: 1.625px;
+margin-right: -90px;
+float: left;
+padding-left: 50px;
+}
+#encounterNoteBullet > ul > li {
+line-height: 5em;
+}
+/*****************************************************/
+.hidden{
+display: none;
+}
+/************************ Home Page Links **************************************/
+.home-page-text{
+    font-size: 16px;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.home-page-links{
+    background-color: #888888;
+    font-size: 16px;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: white;
+}
+.home-page-links > a{
+  color: white;
+  font-style: underline;
+} 
+.home-page-links > u:hover{
+  color: #FDB515;
+}
+/***Large Font Alert Banners****/
+#warning-alert{
+   font-size: 105%;
+   font-family:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#danger-alert {
+   font-size: 125%;
+   font-family:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/****************************************Fa bgc *************************/
+
+/****Icons**************************************************/
+.icon {
+     padding-left: 2px !important;
+     padding-right: 2px !important;
+     width: auto;
+}
+.icon-name{
+     font-weight: bold;
+}
+.icon-desc{
+     white-space: normal;
+}
+.icon-buttons{
+  border-radius: 15px;
+  background: #3A7A9C;
+  width: 175px;
+  height: 200px;
+     padding-left: 0px !important;
+     padding-right: 0px !important;
+display: block;
+}
+.icon-font{
+  text-align: center;
+  font-size: 16px;
+  padding: 10px;
+  display: inline-block;
+    max-width: 200px;
+    vertical-align: top;
+}
+/************ End Icons ******************************************************/
+
+
+/**********************************Plain Alerts********************************************/
+/* UHS_Comment Updated for new Style*/
+.alert-warning hr {
+  border-top-color: #DAB168;
+}
+/* UHS_Comment Updated for new Style*/
+.alert-warning .alert-link {
+  color: #5f3f07;
+  font-weight: normal;
+  text-decoration: underline;
+}
+  .alert-plain, .modal-body .alert-info {
+  color: black;
+  background-color: white;
+    border-color: rgba(0, 0, 0, .25);
+    padding: 10px 10px 10px 50px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, .5);
+    background-repeat: no-repeat;
+    background-size: 20px;
+    font-family:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    border-width: 1px 1px 1px 1px;
+    padding-left: 5%;
+    background-position: 1% 50%;
+}
+.alert-plain-danger{
+background-image:url("../../../../local/fonts/exclamation_red.svg");
+}
+.alert-plain-warning{
+background-image: url("../../../../local/fonts/flag_EE1F60.svg");
+}
+.alert-plain-info{
+  background-image: url("../../../../local/fonts/info_00B0DA.svg");
+}
+ .modal-body .alert-info{
+  background-image: none;
+}
+.alert-plain hr {
+  border-top-color: black;
+}
+.alert-plain .alert-link {
+  color: black;
+}
+.alert-x{
+ position: relative;
+  margin-top: -10px;
+}
+.alert-plain-dismissable .close,
+.alert-plain-dismissible .close, .modal-body .alert-info {
+  position: relative;
+  top: -2px;
+  right: -7px;
+  color: inherit;
+}
+/***********************************************************************************/
+
+/***********************************************************************************/
+/* External Links Popup */
+a.infol:hover span, a.infol:focus span, a.infol:active span {
+    display:block;
+    position:absolute;
+    left:0em;
+    width:12em;
+    border:1px solid #C6C6C6;
+    background-color: #ECECEC;
+    color:#000;
+    text-align: center;
+    height: auto;
+    font-weight: normal;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+a.infol:hover, a.infol:focus, a.infol:active {
+  background-color: transparent;
+}
+/* End External Links */
+
+/**********************************************************Tool Tips***********************************************************/
+.tooltips {
+width: fit-content;
+}
+
+/* Tooltip text */
+.tooltips > .tooltiptext {
+ visibility: hidden;
+  width: 120px;
+  background-color: #FDB515;
+  color: #000;
+  text-align: left;
+  padding: 5px 10px;
+  margin: -3px 2px 0px 7px;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltips:hover .tooltiptext {
+  visibility: visible;
+}
+ .tooltips .tooltiptext:after {
+         content: "";
+         position: absolute;
+         top: 0%;
+         left: 50%;
+         margin-left: -73px;
+         border-width: 7px;
+         border-style: solid;
+         border-color: transparent #FDB515  transparent transparent;
+           margin-top: 6px;
+      }
+/* end tooltips */
+
+/******** Alert @media **********************/
+@media only screen and (min-width: 200px){
+  .alert-success {
+    padding-left: 20%;
+    background-position: 5% 50%;
+  }
+  .alert-info {
+    padding-left: 20%;
+    background-position: 5% 50%;
+  }
+  .alert-warning {
+    padding-left: 20%;
+    background-position: 5% 50%;
+  }
+  .alert-danger {
+    padding-left: 20%;
+    background-position: 5% 50%;
+  }
+  .alert-plain{
+    padding-left: 20%;
+    background-position: 5% 50%;
+  }
+}
+@media only screen and (min-width: 375px){
+  .alert-success {
+    padding-left: 9.5%;
+    background-position: 2.5% 50%;
+  }
+  .alert-info {
+    padding-left: 9.5%;
+    background-position: 2.5% 50%;
+  }
+  .alert-warning {
+    padding-left: 9.5%;
+    background-position: 2.5% 50%;
+  }
+  .alert-danger {
+    padding-left: 9.5%;
+    background-position: 2.5% 50%;
+  }
+  .alert-plain{
+    padding-left: 13%;
+    background-position: 4.5% 50%;
+  }
+}
+@media only screen and (min-width: 576px){
+  .alert-success {
+    padding-left: 7.5%;
+    background-position: 2% 50%;
+  }
+  .alert-info {
+    padding-left: 7.5%;
+    background-position: 2% 50%;
+  }
+  .alert-warning {
+    padding-left: 7.5%;
+    background-position: 2% 50%;
+  }
+  .alert-danger {
+    padding-left: 7.5%;
+    background-position: 2% 50%;
+  }
+  .alert-plain{
+    padding-left: 10%;
+    background-position: 3% 50%;
+  }
+}
+@media only screen and (min-width: 768px){
+  .alert-success {
+    padding-left: 7%;
+    background-position: 2% 50%;
+  }
+  .alert-info {
+    padding-left: 7%;
+    background-position: 2% 50%;
+  }
+  .alert-warning {
+    padding-left: 7%;
+    background-position: 2% 50%;
+  }
+  .alert-danger {
+    padding-left: 7%;
+    background-position: 2% 50%;
+  }
+  .alert-plain{
+    padding-left: 9.5%;
+    background-position: 3% 50%;
+  }
+}
+@media only screen and (min-width: 992px){
+  .alert-success {
+    padding-left: 4.5%;
+    background-position: 1% 50%;
+  }
+  .alert-info {
+    padding-left: 4.5%;
+    background-position: 1% 50%;
+  }
+  .alert-warning {
+    padding-left: 4.5%;
+    background-position: 1% 50%;
+  }
+  .alert-danger {
+    padding-left: 4.5%;
+    background-position: 1% 50%;
+  }
+  .alert-plain{
+    padding-left: 6.5%;
+    background-position: 2% 50%;
+  }
+}
+@media only screen and (min-width: 1200px){
+  .alert-success {
+   padding-left: 4%;
+    background-position: 1% 50%;
+  }
+  .alert-info {
+   padding-left: 4%;
+    background-position: 1% 50%;
+  }
+  .alert-warning {
+    padding-left: 4%;
+    background-position: 1% 50%;
+  }
+  .alert-danger { 
+   padding-left: 4%;
+    background-position: 1% 50%;
+  }
+  .alert-plain{
+   padding-left: 6%;
+    background-position: 1.75% 50%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style><script>window.lang = {"OpensNewWindow":"Opens a new window","FormNotSubmitted":"The form was NOT submitted","CancelAppt":"Cancel Appointment","EnterAgency":"Enter your Agency Code","OnlineRegistration":"Online Registration"}</script><script>window.config = {"basePath":"/","locale":"en","responsiveMode":true,"dateFormat":"M/d/yyyy","imageUploadLicensed":true,"navAlerts":true,"activityEnabled":true,"activitySelector":"a, button, .btn, .fa, td, li","uploadRejected":"Your upload is too large. Please choose another file less than 4 MB in size.","covidLab":false,"timeZone":"Pacific Standard Time","utcOffset":-480.0};</script><style type='text/css'>nav, .container-fluid, footer { display: none; }</style><link property='stylesheet' rel='stylesheet' type='text/css' href='Resources/stylesheets/dualAuth.css'><link property='stylesheet' rel='stylesheet' type='text/css' href='Resources/stylesheets/logout.css'><!-- STYLES -->
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="Resources/yui/build/yui-combined.js"></script><script src="Resources/js/emf.js"></script><!-- YUIJS -->
+</head>
+
+<body class='login_dualauthentication'>
+    <a id='ocommbypass' href='javascript:skipToContent();'>Skip to main content</a>
+
+    <div id="idletimeout">
+        You will be logged off in <span><!-- countdown place holder --></span>&nbsp;seconds due to inactivity.
+        <p><a id="idletimeout-resume" href="#">Click here to continue using this web page</a>.</p>
+    </div>
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button id="side-toggle" type="button" class="navbar-toggle toggle-left hidden-md hidden-lg" data-toggle="sidebar" data-target=".sidebar-left" aria-label="Left Sidebar Navigation Links">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle user</span>
+                    <i class="fa fa-user"></i>
+                </button>
+                <a class="navbar-brand" href="home.aspx"><img src='Local/banner_ashe_caps.jpg' alt='Patient Portal' style='display: inline;'/><!-- BRAND --></a>
+            </div>
+            <div id="navbar" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-right" role="menu">
+                    <li class="dropdown" role="none">
+                        <a role="menuitem" href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> <!-- USER --> <b class="caret"></b></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <!-- PATIENTS -->
+                            <li role="none">
+                                <a role="menuitem" href="logout.aspx"><i class="fa fa-fw fa-sign-out"></i> Log Out<!-- LOGOUT --></a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div id="sidebar" class="col-xs-7 col-sm-3 col-md-3 sidebar sidebar-left sidebar-md-show">
+                <!-- NAV -->
+            </div>
+            <div id="mainbody" role="main" class="col-md-9 col-md-offset-3">
+                <div class="validation-summary" style="display: none;">
+                    <div class="header">The form was NOT submmitted!</div>
+                    <div class="message"></div>
+                </div>
+
+                <form name="mainForm" method="post" action="./login_dualauthentication.aspx" id="mainForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="ETfHMZg3CKOW5Hr1edXJHjm5tF6h59Y2qVmyA+Xi50jqEce7MebbsAr3kd73z4CLWm4DRt1LbIWHiqmr4G+EPLPjMI7vwCJX0WkgPEURji/kwKECd7tmeIMRgFUGpqxLZc1EOhLp6LxPt9jTKQT6pXOHHrNGPH7JxbI8IhEGCX0=" /><h1>Specify whether you are a Student or a Non-Student.</h1><div id='container' style='padding: 40px; 15px 40px; 15px; text-align: center;'><input type="submit" name="cmdStudentDualAuthentication" value="Student" id="cmdStudentDualAuthentication" class="btn btn-primary btn-lg" aria-label="Student" /></div><input type="submit" name="ctl04" value="Command" class="pncCommand" /><input type="hidden" name="0nfi2kv9sjs0" id="0nfi2kv9sjs0" value="ijn903ic9388" /><input name="__RequestVerificationToken" type="hidden" value="mi7AodBQAtKbA2EqTo2gtQ4dfcS585lC146tlH082uFf0FcTiJ50upkDsnIDI2JOkDOZ20sWop3zcw2UGJF_qJ0RO-t-BOdB5LopbXrlnzs1" /><!-- BODY -->
+            </div>
+        </div>
+    </div>
+
+    <div id="progressHUD" style="display: none;">
+        <div id='spinner'></div>
+        <div id='progressMessage'>Please wait...</div>
+    </div>
+
+    <div id="overlay"></div>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div id="footer" class="col-md-9 col-md-offset-3">
+                    <p style="float: left;" class="text-muted"></form><p style='float: left;'' class='text-muted'>Powered by Point and Click Solutions © 2024 </p><div class='text-muted' style='float: right; font-size: 0.85em;'>Language:&nbsp;<a href='/Student/Locale'>English</a></div><!-- FOOTER --></p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/wwwroot/lib/jquery/jquery.min.js"></script>
+    <script src="/Resources/js/activity.js"></script>
+    <script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="/Resources/js/plugins/bootbox.min.js"></script>
+    <script src="/Resources/js/ie10-viewport-bug-workaround.js"></script>
+    <script src="/Resources/js/plugins/jquery.idletimer.js"></script>
+    <script src="/Resources/js/plugins/jquery.idletimeout.js"></script>
+    <script src="/Resources/js/plugins/toastr/toastr.min.js"></script>
+    <script src="/Resources/js/validation/jquery.validate.min.js"></script>
+    <script src="/Resources/js/plugins/moment/moment-with-locales.js"></script>
+    <script src="/Resources/js/plugins/moment/moment-timezone.js"></script>
+    <script src="/Resources/js/plugins/bootstrap-datepicker.min.js"></script>
+    <script src="/Resources/lib/datetimepicker/datetimepicker.js"></script>
+    <script src="/Resources/js/plugins/select2/select2.full.min.js"></script>
+    <script src="/Resources/js/plugins/select2/select2.fix.js"></script>
+    <script src="/Resources/js/spin.min.js"></script>
+    <script src="/Resources/js/plugins.js"></script>
+    <script src="/Resources/js/main.js"></script>
+    <script src="/Resources/js/openCommunicator.js"></script>
+    <script src="/Resources/js/responsive.js"></script>
+    <script src="/Resources/js/fileUpload.js"></script>
+    <script src="/wwwroot/js/builtIn.js"></script>
+    <script src="/Resources/lib/jquery.mask/jquery.mask.min.js"></script>
+    <script src="/wwwroot/lib/html5-qrcode/html5-qrcode.min.js"></script>
+    <script src="/wwwroot/js/barcodeScanner.js"></script>
+    <script>var externalLinkTextBoxes = document.querySelectorAll("a.externalLink span");
+for (var i = 0; i < externalLinkTextBoxes .length; i++) {
+externalLinkTextBoxes[i].textContent = "Links to external site";
+}
+</script><script>var pncIdlePeriodSec=600;</script><script>$(function() { $('body').append('<p style="padding: 10px;">Please wait...</p>'); $('.btn-lg:first').click(); });</script><!-- SCRIPTS -->
+</body>
+</html>

@@ -1,0 +1,380 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Join the legacy of excellence at UCLA&#039;s Center for Prehospital Care. For over three decades, we&#039;ve championed education, research, and community engagement. Discover why we&#039;re the preferred choice for EMS education, fostering innovation and world-class learning. Explore our mission to inspire healing humankind through groundbreaking education and our commitment to values that" />
+<meta name="abstract" content="At UCLA&#039;s Center for Prehospital Care, our legacy of over 30 years in education, research, and community engagement speaks for itself. We are the preferred destination for those dedicated to impacting medicine through education and research. Our mission revolves around inspiring healing humankind through innovation and world-class education. We uphold a set of values that drive us towards excellence and inclusivity. Our priorities and initiatives focus on making UCLA the destination of choice for advancing medicine. Join us and be part of our vision to deliver world-class education and become the first choice for institutional clients, trainees, and the general public. We&#039;re dedicated to ensuring a diverse workforce and increasing funding support to advance access, education, and clinical medicine." />
+<meta name="keywords" content="UCLA Center for Prehospital Care, EMS Education, Medical Education, Research in Healthcare, Community Engagement, Strategic Initiatives, Values in Education, World-Class Learning, Clinical Practice, Excellence in Healthcare, Diversity in Medicine, Funding for Medical Education, Career Advancement, Prehospital Care Programs, Healthcare Trainin, Los Angeles." />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.cpc.mednet.ucla.edu/content/about-us" />
+<link rel="shortlink" href="https://www.cpc.mednet.ucla.edu/node/32" />
+<meta property="og:site_name" content="UCLA CPC" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.cpc.mednet.ucla.edu/content/about-us" />
+<meta property="og:title" content="About Us" />
+<meta property="og:description" content="We are the UCLA Center for Prehospital Care, the leading emergency and prehospital academic center on the West Coast. We are committed to improving the practice of EMS and have consolidated prehospital education, research, and system development into one major academic center. Every day we go to work, we teach people to save lives. As educators, researchers, and providers, we are proud of the contributions our center makes to the world of emergency medicine. Since our founding, our work has grown to encompass education, research, and institutional quality improvement." />
+<meta property="og:updated_time" content="2023-11-13T14:34:46-08:00" />
+<meta property="article:published_time" content="2014-09-22T10:14:14-07:00" />
+<meta property="article:modified_time" content="2023-11-13T14:34:46-08:00" />
+  <title>About Us | UCLA CPC</title>
+  <style>
+@import url("https://www.cpc.mednet.ucla.edu/modules/system/system.base.css?s8lm5r");
+</style>
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/modules/field/theme/field.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/filebrowser/css/filebrowser_style.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/views/css/views.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ckeditor/css/ckeditor.css?s8lm5r");
+</style>
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ctools/css/ctools.css?s8lm5r");
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.css?s8lm5r" media="all" />
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/css/style.css?s8lm5r");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_YndZxdyT8-8LUpZC5MssOCg5j7KN4UJGOzCX7A0hGKI.js"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.js?s8lm5r"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_sGFJ0aln9SHwpHdKSzoE8Cdcd6RIMEIfIGrifGaUeBw.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cpc_bootstrap","theme_token":"8nr-5fz__8rTlPUCEUXkw9bC7bcnUrJa65po2vLodkY","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"https:\/\/code.jquery.com\/jquery-3.7.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/contrib\/popup\/popup.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/cpc_bootstrap\/cpc_js.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/filebrowser\/css\/filebrowser_style.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/popup\/popup.css":1,"sites\/all\/themes\/cpc_bootstrap\/css\/style.css":1}},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":250,"delay":0},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+      </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-32 node-type-cpc-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+
+<style>
+.navbar-default {
+    background-color: #000000;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ffb300;
+  background-color: transparent;
+}
+.login-header, .login-header a
+	{ color: white; }
+.login-header a:hover, .login-header a:active, .login-header a:visited
+	{ color: #ffffff; }
+.msg-button, .msg-button a
+	{ color: white; }
+.msg-button a:hover, .msg-button a:active, .msg-button a:visited
+	{ color: #ffffff; }
+.hp_quicklinks {
+	color: #00a5e5;
+	}
+.hp_quicklinks a, .hp_quicklinks a:hover, .hp_quicklinks a:active, .hp_quicklinks a:visited {
+	color: #ffb300;
+}
+.row div.featureslot {
+	padding:2em;
+}
+.node-cpc-page div.content {
+  overflow: visible;
+}
+@media (max-width: 768px) {
+  .row div.featureslot {
+	padding-top:1em;
+	padding-bottom:1em;
+  }
+}
+</style>
+<header id="navbar" role="banner">
+	<div class="container containerlogin">
+		<div class="row" style="margin-top:0px; margin-bottom:0px; background-color: #666666;">
+			<div class="login-header pull-right" style="display: inline; background-color: #00a5e5; padding:10px;">
+				<!-- AJAX Replaces here	-->
+				[ Login / Register ] <span class="glyphicon glyphicon-shopping-cart"></span> 0  items in cart
+			</div>
+			<div class="pull-left hp_quicklinks" style="display: inline; padding:10px;"><p>
+	&nbsp; &nbsp;</p>
+</div>
+		</div>
+	</div>
+  <div class="containernavbar container navbar-default">
+    <div class="navbar-header">
+      				<a class="logo navbar-btn pull-left" href="/" title="Home">
+					<img src="https://www.cpc.mednet.ucla.edu/sites/default/files/images/cpc_logo-323x32.png" alt="Home" id="logo" class="img-responsive" />
+				</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first expanded dropdown"><a href="/cpc/course-listings" title="Our Courses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Courses <span class="caret"></span></a><ul class="dropdown-menu"><li class="first collapsed"><a href="/emt-courses">EMT</a></li>
+<li class="collapsed"><a href="/paramedic-courses">Paramedic</a></li>
+<li class="leaf"><a href="/content/licensed-phlebotomist-course">Licensed Phlebotomist</a></li>
+<li class="expanded"><a href="/aha-courses">BLS, ACLS &amp; PALS</a></li>
+<li class="expanded"><a href="/cpr-first-aid-courses">CPR &amp; First Aid</a></li>
+<li class="last collapsed"><a href="/trauma-courses">Trauma &amp; NAEMT Courses</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/students" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Students <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/services/payment-methods">Payment Methods</a></li>
+<li class="leaf"><a href="/services/payment-plan">Payment Plan</a></li>
+<li class="leaf"><a href="/services/refunds-transfers">Refunds &amp; Transfers</a></li>
+<li class="leaf"><a href="/services/transcripts">Transcripts</a></li>
+<li class="leaf"><a href="/services/financial-aid">Scholarships</a></li>
+<li class="leaf"><a href="/veterans">Veteran&#039;s Assistance Benefits</a></li>
+<li class="leaf"><a href="/services/students-with-disabilities">Educational Accommodations</a></li>
+<li class="last leaf"><a href="/services/college-credit">College Credit &amp; CEUs</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/services" title="Services for agencies, hospitals, and businesses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/fdqi" title="node/572">Fire Department Quality Improvement</a></li>
+<li class="last leaf"><a href="/international">International</a></li>
+</ul></li>
+<li class="last expanded active-trail dropdown active"><a href="/content/about-us" class="active-trail dropdown-toggle active" data-target="#" data-toggle="dropdown">About Us <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/about/contact">Contact Us</a></li>
+<li class="leaf"><a href="/giving">Giving</a></li>
+<li class="leaf"><a href="/content/ucla-center-prehospital-care-strategic-plan">Strategic Plan</a></li>
+<li class="leaf"><a href="/about/leadership">Leadership</a></li>
+<li class="leaf"><a href="/diversity-resources">Equity, Diversity &amp; Inclusion</a></li>
+<li class="leaf"><a href="/about/history">Our History</a></li>
+<li class="leaf"><a href="/about/employment">Jobs at the Center</a></li>
+<li class="last leaf"><a href="https://www.uclahealth.org/privacy-practices" title="">Privacy Practices</a></li>
+</ul></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+	
+<!--
+	<div class="container">
+			</div>
+-->
+	</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    <div class="col-sm-9 xcol-sm-push-3 col-md-float-right">
+            <a id="main-content"></a>
+            <!--
+			        <h1 class="page-header">About Us</h1>
+      			-->
+			<!--------------------->
+							<div class="page-header-image">
+					<img class="img-responsive header-image" src="https://www.cpc.mednet.ucla.edu/sites/default/files/page_images/About_Us_01_0.jpg">
+					<h1 class="page-header onimage">About Us</h1>
+				</div>
+					<!--–– SECTION HIDDEN UNIVERSAL INFO AREA ––-->
+				<!--------------------->
+
+	                                      		</div>
+		
+          <div class="col-sm-3 xcol-sm-pull-9 col-md-float-left" role="complementary">
+          <div class="region region-sidebar-first">
+    <div id="block-menu-block-7" class="block block-menu-block">
+
+    <h2 class="block-title">About Us</h2>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-7 menu-name-main-menu parent-mlid-888 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-1476"><a href="/about/contact">Contact Us</a></li>
+<li class="leaf menu-mlid-3372"><a href="/giving">Giving</a></li>
+<li class="leaf menu-mlid-4770"><a href="/content/ucla-center-prehospital-care-strategic-plan">Strategic Plan</a></li>
+<li class="leaf menu-mlid-2282"><a href="/about/leadership">Leadership</a></li>
+<li class="leaf menu-mlid-3377"><a href="/diversity-resources">Equity, Diversity &amp; Inclusion</a></li>
+<li class="leaf menu-mlid-1406"><a href="/about/history">Our History</a></li>
+<li class="leaf menu-mlid-1618"><a href="/about/employment">Jobs at the Center</a></li>
+<li class="last leaf menu-mlid-4767"><a href="https://www.uclahealth.org/privacy-practices" title="">Privacy Practices</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+      </div>  <!-- /#sidebar-first -->
+    		
+    <div class="col-sm-9 xcol-sm-push-3 col-md-float-right">
+        <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-32" class="node node-cpc-page clearfix" about="/content/about-us" typeof="sioc:Item foaf:Document">
+
+	<!--
+  	-->
+      <span property="dc:title" content="About Us" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  <div class="content">
+    
+		<!--
+					<div class="page-header-image">
+				<img class="img-responsive header-image" src="https://www.cpc.mednet.ucla.edu/sites/default/files/page_images/About_Us_01_0.jpg">
+				<h1 class="page-header onimage">About Us</h1>
+			</div>
+				-->
+		
+		<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+          <p>
+	<span style="caret-color: rgb(102, 102, 102); font-family: Roboto-Regular, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">We are the UCLA Center for Prehospital Care, the leading emergency and prehospital academic center on the West Coast. We are committed to improving the practice of EMS and have consolidated prehospital education, research, and system development into one major academic center.&nbsp; Every day we go to work, we teach people to save lives.&nbsp;</span></p>
+<p>
+	As educators, researchers, and providers, we are proud of the contributions our center makes to the&nbsp;world of emergency medicine. Since our founding, our work has grown to encompass education, research, and institutional quality improvement. We serve aspiring and experienced EMS providers, agencies, and healthcare professionals in a variety of allied fields.</p>
+<p>
+	As part of the David Geffen School of Medicine at UCLA, we are the only emergency and prehospital academic center on the West Coast, with a national and international reputation for the quality of our faculty, graduates, and our research work.</p>
+<p>
+	We welcome visitors interested in our educational programs, quality improvement initiatives, and research. If you are an EMT considering Paramedic school, consider <a href="/course/paramedic/test-drive">attending one of our Paramedic lecture sessions</a> as a guest at no cost, or <a href="/about/contact">contact us</a> for information about our other work.​</p>
+<p>
+	The UCLA Paramedic Education Program&nbsp;is accredited by the Commission on Accreditation of Allied Health Education Programs (<a href="http://www.caahep.org" target="_blank">www.caahep.org</a>) upon the recommendation of the Committee on Accreditation of Educational Programs for the Emergency Medical Services Professions (CoAEMSP).</p>
+<p class="rteindent1">
+	Commission on Accreditation of Allied Health Education Programs<br />
+	25400 US Highway 19 North<br />
+	Suite 158<br />
+	Clearwater, FL 33763<br />
+	727-210-2350<br />
+	<a href="http://www.caahep.org" target="_blank">www.caahep.org</a></p>
+<p class="rteindent1">
+	To contact CoAEMSP:<br />
+	8301 Lakeview Parkway<br />
+	Suite 111-312<br />
+	Rowlett, TX 75088<br />
+	214-703-8445<br />
+	FAX 214-703-8992<br />
+	<a href="http://coaemsp.org" target="_blank">coaemsp.org</a></p>
+<p>
+	&nbsp;</p>
+    		
+  </div>
+
+    		
+</div>
+  </div>
+</div>
+  </div>
+    </div>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+	
+	<div class="col-sm-3">
+      <div class="region region-footer-left">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="footer-menu footer-menu-left">
+<li>
+		<span style="color:#00a5e5;">Resources</span></li>
+<li>
+		<a href="https://www.cpc.mednet.ucla.edu/pcrf/">PCRF</a></li>
+<li>
+		<a href="/about/contact">Contact</a></li>
+<li>
+		<a href="https://vipcpc1.ad.medctr.ucla.edu/portal">Portal</a></li>
+<li>
+		<a href="https://www.cpc.mednet.ucla.edu/SRRS/Staff/StaffMain.aspx">SRRS Staff Page</a></li>
+<li>
+		<a href="/associates">Associate Resources</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-6">
+      <div class="region region-footer-middle">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="footer-menu footer-menu-center-left">
+<li>
+		<a href="/courses">Courses</a></li>
+<li>
+		<a href="/emt">EMT</a></li>
+<li>
+		<a href="/paramedic">Paramedic</a></li>
+<li>
+		<a href="/lifesupport">CPR, ACLS, PALS</a></li>
+<li>
+		<a href="/course/phlebotomy">Phlebotomy</a></li>
+<li>
+		<a href="/course/phtls">Trauma</a></li>
+</ul>
+<ul class="footer-menu footer-menu-center-center">
+<li>
+		<a href="/students">Students</a></li>
+<li>
+		<a href="/services/payment-methods">Payment Methods</a></li>
+<li>
+		<a href="/services/financial-aid">Financial Aid</a></li>
+<li>
+		<a href="/services/books">Books</a></li>
+<li>
+		<a href="/services/transcripts">Transcripts</a></li>
+</ul>
+<ul class="footer-menu footer-menu-center-right">
+<li>
+		<a href="/about">About Us</a></li>
+<li>
+		<a href="/about/contact">Contact</a></li>
+<li>
+		<a href="/giving">Giving</a></li>
+<li>
+		<a href="/about/leadership">Leadership</a></li>
+<li>
+		<a href="/diversity-resources">Equity, Diversity<br />
+		&amp; Inclusion</a></li>
+<li>
+		<a href="/about/history">Our History</a></li>
+<li>
+		<a href="/about/employment">Jobs at CPC</a></li>
+<li>
+		<a href="https://www.uclahealth.org/privacy-notice">Privacy Practices</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-3">
+      <div class="region region-footer-right">
+    <div id="block-block-4" class="block block-block">
+
+    
+  <div class="content">
+    <div style="width:185px; xmargin:20px auto;">
+	<a href="http://www.facebook.com/uclacpc"><img class="img-responsive" src="/sites/all/themes/cpc_bootstrap/theme_images/facebookIcon-240.png" style="display: inline-block; margin: 5px; max-width:120px;" /></a><!--<img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-FB.png" style="display: inline-block; margin: 5px;" /> <img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-LI.png" style="display: inline-block; margin: 5px;" /><img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-YT.png" style="display: inline-block; margin: 5px;" /> --> <a href="https://www.instagram.com/uclacpc/" target="_blank"><img src="/sites/default/files/icons/instagram_glyph_color.png" style="display: inline-block; max-height: 40px; max-width: 40px; " /></a></div>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-12 footer-bottom">
+		<div style="text-align: center; border-top: 1px solid #777;display:none;">
+		<a href="">Privacy</a> | <a href="">Terms</a>
+		</div>
+	</div>
+</footer>
+  	  <script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=22&cb=1669687133" async></script></body>
+</html>

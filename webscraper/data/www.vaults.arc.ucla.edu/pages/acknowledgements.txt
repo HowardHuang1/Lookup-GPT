@@ -1,0 +1,154 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<title>Welcome to the Vault Website: Maintained by the Rome Laboratory at UCLA: OPEN_CMS</title>
+
+
+      <!-- Favicons -->
+      <link rel="apple-touch-icon" sizes="57x57" href="/vaults/favicons/apple-icon-57x57.png">
+      <link rel="apple-touch-icon" sizes="60x60" href="/vaults/favicons/apple-icon-60x60.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="/vaults/favicons/apple-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="76x76" href="/vaults/favicons/apple-icon-76x76.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="/vaults/favicons/apple-icon-114x114.png">
+      <link rel="apple-touch-icon" sizes="120x120" href="/vaults/favicons/apple-icon-120x120.png">
+      <link rel="apple-touch-icon" sizes="144x144" href="/vaults/favicons/apple-icon-144x144.png">
+      <link rel="apple-touch-icon" sizes="152x152" href="/vaults/favicons/apple-icon-152x152.png">
+      <link rel="apple-touch-icon" sizes="180x180" href="/vaults/favicons/apple-icon-180x180.png">
+      <link rel="icon" type="image/png" sizes="192x192"  href="/vaults/favicons/android-icon-192x192.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="/vaults/favicons/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="96x96" href="/vaults/favicons/favicon-96x96.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="/vaults/favicons/favicon-16x16.png">
+      <link rel="manifest" href="/vaults/favicons/manifest.json">
+      <meta name="msapplication-TileColor" content="#ffffff">
+      <meta name="msapplication-TileImage" content="/vaults/favicons/ms-icon-144x144.png">
+      <meta name="theme-color" content="#ffffff">
+      <!-- End Favicons -->
+
+    <meta http-equiv="content-style-type" content="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="generator" content="OpenACS version 5.10.1b2">
+    <link rel="stylesheet" href="/resources/xowiki/xowiki-bootstrap3.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/acs-subsite/site-master.css" type="text/css" media="all">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/openacs-bootstrap3-theme/css/main.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/openacs-bootstrap3-theme/css/color/blue.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/acs-templating/forms.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/acs-templating/lists.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/vaults/resources/css/styles-vaults.css" type="text/css" media="all">
+   <script type="text/javascript" src="/resources/openacs-bootstrap3-theme/js/jquery-1.11.3.min.js" nonce="51B9B32F4945BE3E426F51946EADBBE042934158"></script>
+   <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js" nonce="51B9B32F4945BE3E426F51946EADBBE042934158"></script>
+   <script type="text/javascript" src="//www.googletagmanager.com/gtag/js?id=G-4YP47RY7YX" nonce="51B9B32F4945BE3E426F51946EADBBE042934158"></script>
+   <script type="text/javascript" nonce="51B9B32F4945BE3E426F51946EADBBE042934158">window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-4YP47RY7YX');</script>
+
+</head>
+<body>
+  
+
+
+<div class="nav-bg">
+       <div class="container-fluid">
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bugher-navbar-collapse" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/vaults/">VAULTS: Novel Nanoparticles</a>
+        </div>
+        <div class="collapse navbar-collapse" id="bugher-navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="/vaults/pages/kids">Info for Kids</a></li>
+            <li><a href="/vaults/pages/bigkids">Info for Big Kids</a></li>
+            <li><a href="/vaults/pages/scientists">Info for Kid Scientists</a></li>
+            <li><a href="/vaults/pages/links">Links</a></li>
+            <li><a href="/vaults/pages/publications">Publications</a></li>
+            <li><a href="/vaults/pages/res-ucla">Rome Lab</a></li>
+            <li><a href="/vaults/pages/res-worldwide">Researchers Worldwide</a></li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
+    </div>
+</div>
+
+         
+    
+<div class="container">
+        <!-- Generated by ::xowiki::ADP_Generator on Wed Nov 16 18:41:51 UTC 2022 -->
+
+<!-- The following DIV is needed for overlib to function! -->
+          <div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
+          <div class='xowiki-content'>
+
+      
+
+      <style>
+        #wikicmds{height:55px;position:relative;font-size:1em !important;margin:10px auto;right:auto;text-align:center;top: 20px !important;}
+        a.text-white:link, a.text-white:visited{color:#fff;background-color: #337ab7;}
+        a.text-white:active, a.text-white:hover, a.text-white:focus{color:#fff;background-color: #16577f;}
+      </style>
+      <div id='wikicmds' class="container">
+         
+      </div>
+
+ 
+ <br>
+
+<p>Vault research at UCLA has been possible because of the generous support of a number of organizations and foundations. By far the largest contributor has been the National Institutes of Health (NIH). Specifically the Institute of General Medical Sciences which funded a vault function RO1 grant to LHR from 1986 (with the exception of a couple rocky competitive renewals) until 2002. A new RO1 on vault engineering was funded by NIH in 2005. For the past four years, vault function research at UCLA has been possible because of the generous support from The G. Harold and Leila Y. Mathers Charitable Foundation. Vault engineering research was initiated by a NIRT Grant from the National Science Foundation that began in 2002 and will conclude in the fall of 2006. A small (but timely) grant from the Oxnard foundation has also been very helpful.
+
+</p><p>
+
+In addition, vault research over the past 15 years has been greatly stimulated by past grants from the Margaret E. Early Foundation, the UCLA Jonsson Comprehensive Cancer Center, the UC BioStar program (in partnership with Amgen), the Eli Lilly Corporation, and the National Cancer Institute.</p> 
+
+<br>
+<DIV class='content-chunk-footer'></DIV>
+
+<div class='item-footer'></div>
+
+</div> <!-- class='xowiki-content' -->
+
+</div>
+
+    <!-- START FOOTER -->
+    <div class="container-fluid">
+      <div class="mainfooter text-center">
+       <a href="/vaults/pages/about-us">About this Site/Contact Us</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+       <a href="/vaults/pages/acknowledgements">Acknowledgements</a> &nbsp;&nbsp;&nbsp;
+      </div>
+    </div>
+    <!-- END FOOTER -->
+
+
+  
+    <script type="text/javascript" nonce="51B9B32F4945BE3E426F51946EADBBE042934158">
+          function get_popular_tags(popular_tags_link, prefix) {
+            var http = new XMLHttpRequest();
+            http.open('GET', popular_tags_link, true);
+            http.onreadystatechange = function() {
+              if (http.readyState == 4) {
+                if (http.status != 200) {
+                  alert('Something wrong in HTTP request, status code = ' + http.status);
+                } else {
+                  var e = document.getElementById(prefix + '-popular_tags');
+                  e.innerHTML = http.responseText;
+                  e.style.display = 'block';
+                }
+              }
+            };
+            http.send(null);
+          }
+        </script>
+    <script type="text/javascript" src="/resources/acs-subsite/core.js" nonce="51B9B32F4945BE3E426F51946EADBBE042934158"></script>
+
+
+</body>
+</html>

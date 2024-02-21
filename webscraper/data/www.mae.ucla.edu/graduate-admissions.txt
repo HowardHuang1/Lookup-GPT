@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://www.mae.ucla.edu/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<title>Graduate Admissions | MAE</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><style id="et-builder-googlefonts-cached-inline">/* Original: https://fonts.googleapis.com/css?family=Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic&#038;subset=latin,latin-ext&#038;display=swap *//* User Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCc.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-v.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-v.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPHA.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwWw.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPHA.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPHA.ttf) format('truetype');}/* User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCQ.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-s.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-s.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPHw.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwWA.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPHw.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPHw.woff) format('woff');}/* User Agent: Mozilla/5.0 (Windows NT 6.3; rv:39.0) Gecko/20100101 Firefox/39.0 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCI.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-q.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-q.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPGQ.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwXg.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPGQ.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPGQ.woff2) format('woff2');}</style>		<style type="text/css">
+					.heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+											.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+					.heateor_sss_horizontal_sharing .heateorSssTCBackground{
+				color:#666;
+			}
+					.heateor_sss_horizontal_sharing span.heateor_sss_svg:hover,.heateor_sss_standard_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		.heateor_sss_vertical_sharing span.heateor_sss_svg,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_vertical_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+						.heateor_sss_vertical_sharing span.heateor_sss_svg:hover,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+						div.heateor_sss_horizontal_sharing svg{width:50%;margin:auto;}div.heateor_sss_horizontal_sharing .heateor_sss_square_count{float:left;width:50%;line-height:25px;}
+				@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}div.heateor_sss_mobile_footer{display:none;}@media screen and (max-width:783px){div.heateor_sss_bottom_sharing .heateorSssTCBackground{background-color:white}div.heateor_sss_bottom_sharing{width:100%!important;left:0!important;}div.heateor_sss_bottom_sharing a{width:33.333333333333% !important;}div.heateor_sss_bottom_sharing .heateor_sss_svg{width: 100% !important;}div.heateor_sss_bottom_sharing div.heateorSssTotalShareCount{font-size:1em!important;line-height:28px!important}div.heateor_sss_bottom_sharing div.heateorSssTotalShareText{font-size:.7em!important;line-height:0px!important}div.heateor_sss_mobile_footer{display:block;height:40px;}.heateor_sss_bottom_sharing{padding:0!important;display:block!important;width:auto!important;bottom:-2px!important;top: auto!important;}.heateor_sss_bottom_sharing .heateor_sss_square_count{line-height:inherit;}.heateor_sss_bottom_sharing .heateorSssSharingArrow{display:none;}.heateor_sss_bottom_sharing .heateorSssTCBackground{margin-right:1.1em!important}}.heateor_sss_sharing_container {
+ padding: 15px 0px;
+ max-width: 1000px;
+ margin: auto;
+}		</style>
+		<meta name='robots' content='max-image-preview:large' />
+<script type="text/javascript">
+			let jqueryParams=[],jQuery=function(r){return jqueryParams=[...jqueryParams,r],jQuery},$=function(r){return jqueryParams=[...jqueryParams,r],$};window.jQuery=jQuery,window.$=jQuery;let customHeadScripts=!1;jQuery.fn=jQuery.prototype={},$.fn=jQuery.prototype={},jQuery.noConflict=function(r){if(window.jQuery)return jQuery=window.jQuery,$=window.jQuery,customHeadScripts=!0,jQuery.noConflict},jQuery.ready=function(r){jqueryParams=[...jqueryParams,r]},$.ready=function(r){jqueryParams=[...jqueryParams,r]},jQuery.load=function(r){jqueryParams=[...jqueryParams,r]},$.load=function(r){jqueryParams=[...jqueryParams,r]},jQuery.fn.ready=function(r){jqueryParams=[...jqueryParams,r]},$.fn.ready=function(r){jqueryParams=[...jqueryParams,r]};</script><link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel="alternate" type="application/rss+xml" title="MAE &raquo; Feed" href="https://www.mae.ucla.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="MAE &raquo; Comments Feed" href="https://www.mae.ucla.edu/comments/feed/" />
+<meta content="Divi Child for HSSEAS v.4.23.1" name="generator"/><link rel='stylesheet' id='admin-custom-styles-css' href='https://www.mae.ucla.edu/wp-content/plugins/jsoncontentimporterpro3/block/css/jcipro-admin-styles.css?ver=1.0.0' media='all' />
+<style id='admin-custom-styles-inline-css'>
+.menu li.et-hover>ul,.nav li.et-hover>ul{visibility:visible!important;opacity:1!important}.da11y-submenu-show{visibility:visible!important}
+.keyboard-outline{outline-style:solid!important;outline-width:2px!important;-webkit-transition:none!important;transition:none!important}a[role=tab].keyboard-outline,button:active.keyboard-outline,button:focus.keyboard-outline,input:active.keyboard-outline,input:focus.keyboard-outline{outline-offset:-5px}.et-search-form input:focus.keyboard-outline{padding-left:15px;padding-right:15px}.et_pb_tab{-webkit-animation:none!important;animation:none!important}.et_pb_scroll_top.et-visible:focus{outline-width:2px;outline-style:solid;outline-color:Highlight}@media (-webkit-min-device-pixel-ratio:0){.et_pb_scroll_top.et-visible:focus{outline-color:-webkit-focus-ring-color;outline-style:auto}}
+.et_pb_contact_form_label,.et_pb_search .screen-reader-text,.et_pb_social_media_follow_network_name,.widget_search .screen-reader-text{display:block!important}.da11y-screen-reader-text,.et_pb_contact_form_label,.et_pb_search .screen-reader-text,.et_pb_social_media_follow_network_name,.widget_search .screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden;text-shadow:none;text-transform:none;letter-spacing:normal;line-height:normal;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1em;font-weight:600;-webkit-font-smoothing:subpixel-antialiased}.da11y-screen-reader-text:focus{background:#f1f1f1;color:#00547a;-webkit-box-shadow:0 0 2px 2px rgba(0,0,0,.6);box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;display:block;height:auto;left:5px;padding:15px 23px 14px;text-decoration:none;top:7px;width:auto;z-index:1000000}
+</style>
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='events-manager-css' href='https://www.mae.ucla.edu/wp-content/plugins/events-manager/includes/css/events-manager.min.css?ver=6.4.6.4' media='all' />
+<style id='events-manager-inline-css'>
+body .em { --font-family : inherit; --font-weight : inherit; --font-size : 1em; --line-height : inherit; }
+</style>
+<link rel='stylesheet' id='heateor_sss_frontend_css-css' href='https://www.mae.ucla.edu/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=3.3.56' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.4.2' media='all' />
+<link rel='stylesheet' id='divi-style-parent-css' href='https://www.mae.ucla.edu/wp-content/themes/Divi/style-static.min.css?ver=4.23.1' media='all' />
+<link rel='stylesheet' id='divi-style-css' href='https://www.mae.ucla.edu/wp-content/themes/Divi-child/style.css?ver=4.23.1' media='all' />
+<link rel='stylesheet' id='child-style-css' href='https://www.mae.ucla.edu/wp-content/themes/Divi-child/style.css?ver=4.23.1' media='all' />
+<link rel='stylesheet' id='mobile_style-css' href='https://www.mae.ucla.edu/wp-content/themes/Divi-child/per_site_styles/mobile_style.css?ver=4.23.1' media='all' />
+<link rel='stylesheet' id='mae-style-css' href='https://www.mae.ucla.edu/wp-content/themes/Divi-child/per_site_styles/mae_style.css?ver=6.4.2' media='all' />
+<script src="https://www.mae.ucla.edu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://www.mae.ucla.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script id="jquery-js-after">
+jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){var n=String(r);n.replace("$","jQuery");var a=new Function("return "+n)();$(document).ready(a)}});
+</script>
+<script src="https://www.mae.ucla.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script src="https://www.mae.ucla.edu/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2" id="jquery-ui-mouse-js"></script>
+<script src="https://www.mae.ucla.edu/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2" id="jquery-ui-sortable-js"></script>
+<script src="https://www.mae.ucla.edu/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2" id="jquery-ui-datepicker-js"></script>
+<script id="jquery-ui-datepicker-js-after">
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script src="https://www.mae.ucla.edu/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.2" id="jquery-ui-resizable-js"></script>
+<script src="https://www.mae.ucla.edu/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2" id="jquery-ui-draggable-js"></script>
+<script src="https://www.mae.ucla.edu/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2" id="jquery-ui-controlgroup-js"></script>
+<script src="https://www.mae.ucla.edu/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2" id="jquery-ui-checkboxradio-js"></script>
+<script src="https://www.mae.ucla.edu/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2" id="jquery-ui-button-js"></script>
+<script src="https://www.mae.ucla.edu/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.2" id="jquery-ui-dialog-js"></script>
+<script id="events-manager-js-extra">
+var EM = {"ajaxurl":"https:\/\/www.mae.ucla.edu\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/www.mae.ucla.edu\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"yy-mm-dd","ui_css":"https:\/\/www.mae.ucla.edu\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui\/build.min.css","show24hours":"0","is_ssl":"1","autocomplete_limit":"10","calendar":{"breakpoints":{"small":560,"medium":908,"large":false}},"phone":"","datepicker":{"format":"M j, Y"},"search":{"breakpoints":{"small":650,"medium":850,"full":false}},"url":"https:\/\/www.mae.ucla.edu\/wp-content\/plugins\/events-manager","google_maps_api":"AIzaSyAl5uWwjVCvhaekVy9CBXsaak-sDrqU4KQ","txt_search":"Search events","txt_searching":"Searching...","txt_loading":"Loading...","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash."};
+</script>
+<script src="https://www.mae.ucla.edu/wp-content/plugins/events-manager/includes/js/events-manager.min.js?ver=6.4.6.4" id="events-manager-js"></script>
+<script src="https://www.mae.ucla.edu/wp-content/themes/Divi-child/js/seas.js?ver=4.23.1" id="seas-js"></script>
+<script src="https://www.mae.ucla.edu/wp-content/themes/Divi-child/js/header_for_mobile.js?ver=4.23.1" id="script-js"></script>
+<script src="https://www.mae.ucla.edu/wp-content/themes/Divi-child/js/jquery.autocomplete.min.js?ver=6.4.2" id="autocomplete-js"></script>
+<script src="https://www.mae.ucla.edu/wp-content/themes/Divi-child/js/autocomplete.js?ver=6.4.2" id="autocomplete-js-js"></script>
+<link rel="https://api.w.org/" href="https://www.mae.ucla.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://www.mae.ucla.edu/wp-json/wp/v2/pages/25422" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mae.ucla.edu/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.2" />
+<link rel="canonical" href="https://www.mae.ucla.edu/graduate-admissions/" />
+<link rel='shortlink' href='https://www.mae.ucla.edu/?p=25422' />
+<link rel="alternate" type="application/json+oembed" href="https://www.mae.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mae.ucla.edu%2Fgraduate-admissions%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.mae.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mae.ucla.edu%2Fgraduate-admissions%2F&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /><script type="text/javascript">
+	jQuery(document).ready(function(){
+		jQuery('img[usemap]').rwdImageMaps();
+	});
+</script>
+<style type="text/css">
+	img[usemap] { max-width: 100%; height: auto; }
+</style>
+<style id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<meta name="google-site-verification" content="WNTqZ1-CEdvZ-4cit5QXCHwvwUGPcbu0vUtgKHUKwqw">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ED2FB35BWG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ED2FB35BWG', {cookie_flags: 'SameSite=None;Secure'});
+</script>
+
+<script>
+  jQuery(document).ready(function($) {
+	$(".et-pb-icon").attr('aria-hidden', 'true');
+	$(".et_pb_main_blurb_image").attr('aria-hidden', 'true');
+  });
+(function($) {
+    $(document).ready(function() {
+        $(window).resize(function() {
+            $('.et_blog_grid_equal_height').each(function() {
+                equalise_articles($(this));
+            });
+        });
+
+        $('.et_blog_grid_equal_height').each(function() {
+            var blog = $(this);
+
+            equalise_articles($(this));
+
+            var observer = new MutationObserver(function(mutations) {
+                equalise_articles(blog);
+            });
+            
+            var config = {
+                subtree: true,
+                childList: true 
+            };
+
+            observer.observe(blog[0], config);
+        });
+
+        function equalise_articles(blog) {
+            var articles = blog.find('article');
+            var heights = [];
+            
+            articles.each(function() {
+                var height = 0;
+                height += ($(this).find('.et_pb_image_container, .et_main_video_container').length != 0) ? $(this).find('.et_pb_image_container, .et_main_video_container').outerHeight(true) : 0;
+                height += $(this).find('.entry-title').outerHeight(true);
+                height += ($(this).find('.post-meta').length != 0) ? $(this).find('.post-meta').outerHeight(true) : 0; 
+                height += ($(this).find('.post-content').length != 0) ? $(this).find('.post-content').outerHeight(true) : 0;    
+
+                heights.push(height);
+            });
+
+            var max_height = Math.max.apply(Math,heights); 
+
+            articles.each(function() {
+                $(this).height(max_height);
+            });
+        }
+
+        $(document).ajaxComplete(function() {
+            $('.et_blog_grid_equal_height').imagesLoaded().then(function() {
+                $('.et_blog_grid_equal_height').each(function(){
+                    equalise_articles($(this));
+                });
+            });
+        });
+
+        $.fn.imagesLoaded = function() {
+            var $imgs = this.find('img[src!=""]');
+            var dfds = [];
+
+            if (!$imgs.length) {
+                return $.Deferred().resolve().promise();
+            }            
+
+            $imgs.each(function(){
+                var dfd = $.Deferred();
+                dfds.push(dfd);
+                var img = new Image();
+
+                img.onload = function() {
+                    dfd.resolve();
+                };
+
+                img.onerror = function() {
+                    dfd.resolve(); 
+                };
+
+                img.src = this.src;
+            });
+
+            return $.when.apply($, dfds);
+        }
+    });
+})(jQuery);
+</script><style id="et-critical-inline-css">body{color:#2b2b2b}h1,h2,h3,h4,h5,h6{color:#2b2b2b}body{line-height:1.6em}#et_search_icon:hover,.mobile_menu_bar:before,.mobile_menu_bar:after,.et_toggle_slide_menu:after,.et-social-icon a:hover,.et_pb_sum,.et_pb_pricing li a,.et_pb_pricing_table_button,.et_overlay:before,.entry-summary p.price ins,.et_pb_member_social_links a:hover,.et_pb_widget li a:hover,.et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active,.et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active,.et_pb_gallery .et_pb_gallery_pagination ul li a.active,.wp-pagenavi span.current,.wp-pagenavi a:hover,.nav-single a,.tagged_as a,.posted_in a{color:#ffe800}.et_pb_contact_submit,.et_password_protected_form .et_submit_button,.et_pb_bg_layout_light .et_pb_newsletter_button,.comment-reply-link,.form-submit .et_pb_button,.et_pb_bg_layout_light .et_pb_promo_button,.et_pb_bg_layout_light .et_pb_more_button,.et_pb_contact p input[type="checkbox"]:checked+label i:before,.et_pb_bg_layout_light.et_pb_module.et_pb_button{color:#ffe800}.footer-widget h4{color:#ffe800}.et-search-form,.nav li ul,.et_mobile_menu,.footer-widget li:before,.et_pb_pricing li:before,blockquote{border-color:#ffe800}.et_pb_counter_amount,.et_pb_featured_table .et_pb_pricing_heading,.et_quote_content,.et_link_content,.et_audio_content,.et_pb_post_slider.et_pb_bg_layout_dark,.et_slide_in_menu_container,.et_pb_contact p input[type="radio"]:checked+label i:before{background-color:#ffe800}.container,.et_pb_row,.et_pb_slider .et_pb_container,.et_pb_fullwidth_section .et_pb_title_container,.et_pb_fullwidth_section .et_pb_title_featured_container,.et_pb_fullwidth_header:not(.et_pb_fullscreen) .et_pb_fullwidth_header_container{max-width:1000px}.et_boxed_layout #page-container,.et_boxed_layout.et_non_fixed_nav.et_transparent_nav #page-container #top-header,.et_boxed_layout.et_non_fixed_nav.et_transparent_nav #page-container #main-header,.et_fixed_nav.et_boxed_layout #page-container #top-header,.et_fixed_nav.et_boxed_layout #page-container #main-header,.et_boxed_layout #page-container .container,.et_boxed_layout #page-container .et_pb_row{max-width:1000px}a{color:#0d4481}#main-header,#main-header .nav li ul,.et-search-form,#main-header .et_mobile_menu{background-color:#003b5c}#main-header .nav li ul{background-color:#205296}.et_secondary_nav_enabled #page-container #top-header{background-color:#ffe800!important}#et-secondary-nav li ul{background-color:#ffe800}.et_header_style_centered .mobile_nav .select_page,.et_header_style_split .mobile_nav .select_page,.et_nav_text_color_light #top-menu>li>a,.et_nav_text_color_dark #top-menu>li>a,#top-menu a,.et_mobile_menu li a,.et_nav_text_color_light .et_mobile_menu li a,.et_nav_text_color_dark .et_mobile_menu li a,#et_search_icon:before,.et_search_form_container input,span.et_close_search_field:after,#et-top-navigation .et-cart-info{color:#ffffff}.et_search_form_container input::-moz-placeholder{color:#ffffff}.et_search_form_container input::-webkit-input-placeholder{color:#ffffff}.et_search_form_container input:-ms-input-placeholder{color:#ffffff}#top-menu li a{font-size:13px}body.et_vertical_nav .container.et_search_form_container .et-search-form input{font-size:13px!important}#top-menu li.current-menu-ancestor>a,#top-menu li.current-menu-item>a,#top-menu li.current_page_item>a{color:#ffffff}#main-footer{background-color:rgba(13,68,129,0)}#main-footer .footer-widget h4,#main-footer .widget_block h1,#main-footer .widget_block h2,#main-footer .widget_block h3,#main-footer .widget_block h4,#main-footer .widget_block h5,#main-footer .widget_block h6{color:#ffe800}.footer-widget li:before{border-color:#ffe800}.bottom-nav,.bottom-nav a,.bottom-nav li.current-menu-item a{color:}#et-footer-nav .bottom-nav li.current-menu-item a{color:}#footer-bottom{background-color:rgba(0,0,0,0)}#footer-info,#footer-info a{color:#ffffff}#footer-info{font-size:13px}#footer-bottom .et-social-icon a{font-size:20px}#footer-bottom .et-social-icon a{color:#ffffff}@media only screen and (min-width:981px){.et_pb_section{padding:0% 0}.et_pb_fullwidth_section{padding:0}.et_header_style_left #et-top-navigation,.et_header_style_split #et-top-navigation{padding:30px 0 0 0}.et_header_style_left #et-top-navigation nav>ul>li>a,.et_header_style_split #et-top-navigation nav>ul>li>a{padding-bottom:30px}.et_header_style_split .centered-inline-logo-wrap{width:60px;margin:-60px 0}.et_header_style_split .centered-inline-logo-wrap #logo{max-height:60px}.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap #logo{height:60px}.et_header_style_centered #top-menu>li>a{padding-bottom:11px}.et_header_style_slide #et-top-navigation,.et_header_style_fullscreen #et-top-navigation{padding:21px 0 21px 0!important}.et_header_style_centered #main-header .logo_container{height:60px}#logo{max-height:60%}.et_pb_svg_logo #logo{height:60%}.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container,.et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header .logo_container{height:10.8px}.et_header_style_left .et-fixed-header #et-top-navigation,.et_header_style_split .et-fixed-header #et-top-navigation{padding:30px 0 0 0}.et_header_style_left .et-fixed-header #et-top-navigation nav>ul>li>a,.et_header_style_split .et-fixed-header #et-top-navigation nav>ul>li>a{padding-bottom:30px}.et_header_style_centered header#main-header.et-fixed-header .logo_container{height:60px}.et_header_style_split #main-header.et-fixed-header .centered-inline-logo-wrap{width:60px;margin:-60px 0}.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{max-height:60px}.et_pb_svg_logo.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{height:60px}.et_header_style_slide .et-fixed-header #et-top-navigation,.et_header_style_fullscreen .et-fixed-header #et-top-navigation{padding:21px 0 21px 0!important}.et_fixed_nav #page-container .et-fixed-header#top-header{background-color:#1e4b87!important}.et_fixed_nav #page-container .et-fixed-header#top-header #et-secondary-nav li ul{background-color:#1e4b87}.et-fixed-header #top-menu a,.et-fixed-header #et_search_icon:before,.et-fixed-header #et_top_search .et-search-form input,.et-fixed-header .et_search_form_container input,.et-fixed-header .et_close_search_field:after,.et-fixed-header #et-top-navigation .et-cart-info{color:#ffffff!important}.et-fixed-header .et_search_form_container input::-moz-placeholder{color:#ffffff!important}.et-fixed-header .et_search_form_container input::-webkit-input-placeholder{color:#ffffff!important}.et-fixed-header .et_search_form_container input:-ms-input-placeholder{color:#ffffff!important}.et-fixed-header #top-menu li.current-menu-ancestor>a,.et-fixed-header #top-menu li.current-menu-item>a,.et-fixed-header #top-menu li.current_page_item>a{color:#ffffff!important}}@media only screen and (min-width:1250px){.et_pb_row{padding:25px 0}.et_pb_section{padding:0px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:75px}.et_pb_fullwidth_section{padding:0}}h1,h1.et_pb_contact_main_title,.et_pb_title_container h1{font-size:25px}h2,.product .related h2,.et_pb_column_1_2 .et_quote_content blockquote p{font-size:21px}h3{font-size:18px}h4,.et_pb_circle_counter h3,.et_pb_number_counter h3,.et_pb_column_1_3 .et_pb_post h2,.et_pb_column_1_4 .et_pb_post h2,.et_pb_blog_grid h2,.et_pb_column_1_3 .et_quote_content blockquote p,.et_pb_column_3_8 .et_quote_content blockquote p,.et_pb_column_1_4 .et_quote_content blockquote p,.et_pb_blog_grid .et_quote_content blockquote p,.et_pb_column_1_3 .et_link_content h2,.et_pb_column_3_8 .et_link_content h2,.et_pb_column_1_4 .et_link_content h2,.et_pb_blog_grid .et_link_content h2,.et_pb_column_1_3 .et_audio_content h2,.et_pb_column_3_8 .et_audio_content h2,.et_pb_column_1_4 .et_audio_content h2,.et_pb_blog_grid .et_audio_content h2,.et_pb_column_3_8 .et_pb_audio_module_content h2,.et_pb_column_1_3 .et_pb_audio_module_content h2,.et_pb_gallery_grid .et_pb_gallery_item h3,.et_pb_portfolio_grid .et_pb_portfolio_item h2,.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2{font-size:15px}h5{font-size:13px}h6{font-size:11px}.et_pb_slide_description .et_pb_slide_title{font-size:38px}.et_pb_gallery_grid .et_pb_gallery_item h3,.et_pb_portfolio_grid .et_pb_portfolio_item h2,.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2,.et_pb_column_1_4 .et_pb_audio_module_content h2{font-size:13px}	h1,h2,h3,h4,h5,h6{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif}body,input,textarea,select{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif}.et_pb_fullwidth_section .et_pb_slide_description{padding-top:32%;padding-bottom:32%}span.mobile_menu_bar:before{color:white!important}.seasnav>li>ul{border-top:2px solid rgb(50,132,191)}#top-menu>li>ul:before{border-bottom:20px solid rgb(50,132,191)}#main-content a{text-decoration:underline}a.icon,a.et_pb_button,.et_pb_button_module_wrapper a{text-decoration:none!important}</style>
+<link rel="preload" as="style" id="et-core-unified-deferred-25422-cached-inline-styles" href="https://www.mae.ucla.edu/wp-content/uploads/mae/et-cache/25422/et-core-unified-deferred-25422.min.css?ver=1707346942" onload="this.onload=null;this.rel='stylesheet';" /></head>
+<body class="page-template-default page page-id-25422 custom-background et_pb_button_helper_class et_fullwidth_nav et_fixed_nav et_show_nav et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns4 et_cover_background et_pb_gutter et_pb_gutters2 et_pb_pagebuilder_layout et_smooth_scroll et_no_sidebar et_divi_theme et-db">
+	<div id="page-container">
+
+	
+	
+			<header id="main-header" data-height-onload="60">
+			<div class="container clearfix et_menu_container">
+											<h1>
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://www.mae.ucla.edu/">
+						<img src="https://www.mae.ucla.edu/wp-content/uploads/mae/UCLA_Samueli_MAE_rev-1.png" alt="MAE" id="logo" data-height-percentage="60" />
+					</a>
+				</div>
+								</h1>
+										<div id="et-top-navigation" data-height="60" data-fixed-height="60">
+											<nav id="top-menu-nav" aria-label="main navigation">
+						<ul id="top-menu" class="nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34010"><a target="_blank" rel="noopener" href="http://samueli.ucla.edu">SAMUELI</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25349"><a href="#">ABOUT</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25372"><a href="https://www.mae.ucla.edu/about/">Samueli Mechanical and Aerospace Engineering 101</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25371"><a href="https://www.mae.ucla.edu/department-mission-and-goals/">Department Mission and Goals</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28942"><a target="_blank" rel="noopener" href="https://scheduleit.seas.ucla.edu/">SCHEDULE IT conference room booking</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28669"><a href="https://www.mae.ucla.edu/faculty-and-post-doctoral-positions/">FACULTY AND POST-DOCTORAL POSITIONS</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29020"><a href="https://www.pathwaystoscience.org/">Paid Summer Research Programs | NSF, NASA, NIH, etc. &#8212; 600+ programs</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34058"><a href="https://www.mae.ucla.edu/forms/">FORMS</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25350"><a href="https://giving.ucla.edu/campaign/Donate.aspx?SiteNum=8&#038;Fund=60992O&#038;Code=M-XXXX">Support Our Mission (Giving)</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35380"><a target="_blank" rel="noopener" href="https://samueli.ucla.edu/equity-diversity-and-inclusion/">Equity, Diversity and Inclusion</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37291"><a href="https://samueli.ucla.edu/ucla-samueli-covid-19-information/">UCLA Samueli COVID-19 Information</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25370"><a href="https://www.mae.ucla.edu/contact/">Contact Us</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25374"><a href="#">NEWS &#038; EVENTS</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36743"><a href="https://www.mae.ucla.edu/wp-content/uploads/mae/UCLA-MAE-Fall-2022-Newsletter.pdf">MAE Fall 2022 Newsletter</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34182"><a href="https://www.mae.ucla.edu/maexmse-career-fair/">MAExMSE Career Fair</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28150"><a href="https://www.mae.ucla.edu/newsroom/">Newsroom</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25398"><a href="https://www.mae.ucla.edu/announcements/">Department Announcements</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28939"><a href="https://www.mae.ucla.edu/events/">Upcoming Events</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25373"><a href="https://www.mae.ucla.edu/annual-reports/">Annual Reports Archives 2005-2017</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-25410"><a href="#">ACADEMICS</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25429"><a href="https://www.admission.ucla.edu/prospect/applying.htm">Admission Schedule</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25411"><a href="#">Undergraduate</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25413"><a href="https://www.seasoasa.ucla.edu/undergraduate-admissions/">Undergraduate Admissions</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25427"><a href="https://www.mae.ucla.edu/abet-undergraduate-objectives-and-outcomes/">ABET — Undergraduate Objectives and Outcomes</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-25412"><a href="#">Graduate</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28197"><a href="https://www.mae.ucla.edu/academic-forms/">Academic Forms</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-25422 current_page_item menu-item-25426"><a href="https://www.mae.ucla.edu/graduate-admissions/" aria-current="page">Graduate Admissions</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25419"><a href="https://www.mae.ucla.edu/graduate-programs-and-preliminary-exams/">Graduate Programs and Preliminary Exams</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36656"><a href="https://www.mae.ucla.edu/ms-graduation-checklist/">MS Graduation Checklist</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36657"><a href="https://www.mae.ucla.edu/phd-graduation-checklist/">PhD Graduation Checklist</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36747"><a href="https://www.mae.ucla.edu/resources-for-students/">Resources for Students</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34390"><a href="https://www.seasoasa.ucla.edu/hsseas-announcements/">Course Catalogue</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25428"><a href="http://www.registrar.ucla.edu/Registration-Classes/Overview">Course Schedule</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28217"><a href="https://www.mae.ucla.edu/outstanding-degree-awards/">Outstanding Degree Awards</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35048"><a href="https://www.mae.ucla.edu/apl-sa-branch-college-recruitment-opportunities/">APL/SA Branch College Recruitment Opportunities</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37888"><a href="http://www.mae.ucla.edu/undergraduate-scholarship-opportunities/">Undergraduate Scholarship Opportunities</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25430"><a href="#">RESEARCH</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28105"><a href="https://www.mae.ucla.edu/faculty-research/">Faculty Research</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25447"><a href="https://www.mae.ucla.edu/research-areas/">Research Areas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25446"><a href="https://www.mae.ucla.edu/research-centers/">Research Centers</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34956"><a href="https://www.mae.ucla.edu/laboratories/">Research Labs</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37960"><a href="https://www.mae.ucla.edu/student-opportunities/">MAE STUDENT OPPORTUNITIES</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25466"><a href="#">PEOPLE</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25467"><a href="https://samueli.ucla.edu/search-faculty/#mae">Faculty</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29010"><a href="https://www.mae.ucla.edu/professional-society-fellows/">Professional Society Fellows</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25464"><a href="https://www.mae.ucla.edu/staff/">Staff</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-35001"><a href="#">Alumni</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35003"><a href="https://www.mae.ucla.edu/alumni/">Alumni Advisory Board</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28137"><a href="https://www.mae.ucla.edu/mae-alumni-in-academia/">Alumni in Academia</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28277"><a href="https://www.mae.ucla.edu/mae-alumni-who-are-members-of-nae/">Alumni NAE Members</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35014"><a href="https://www.mae.ucla.edu/comments-from-alumni-on-their-student-group-experiences/">Comments from alumni on their Student Group Experiences</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35010"><a href="https://www.mae.ucla.edu/companies-hiring-mae-alumni/">Companies hiring MAE alumni</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28533"><a href="https://www.mae.ucla.edu/prospective-undergraduate-students/">Prospective Undergraduate Students</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25461"><a href="https://www.mae.ucla.edu/industry/">Industry</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28855"><a href="https://www.mae.ucla.edu/student-groups/">Student Groups</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34294"><a target="_blank" rel="noopener" href="https://docs.google.com/forms/d/e/1FAIpQLSep5nYxcbSMsI88GcvWrwJj7HRtBRdQhJm01t1l_w7Rn23BnQ/viewform">PROPOSAL PI Questionnaire</a></li>
+</ul>
+</li>
+</ul>						</nav>
+					
+										<button id="seas-search-icon" tabindex="0" aria-label="Open Search Box"></button>
+
+					
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+
+<div id="inline-search" class="inline-search toggled">
+<div class="inline-search-wrap" style="display:none">
+					<form role="search" method="get" class="search-form" action="/search">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search this site... " value="" name="q" title="Search for:">
+	</label>
+	<div id="search-buttons">
+	<input type="submit" class="search-submit" value="Search">
+	<button id="search-close" aria-label="Close Search Box">X</button>
+	</div>
+</form>				</div>
+</div>
+		</header> <!-- #main-header -->
+			<div id="et-main-area" role="main">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-25422" class="post-25422 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters2">
+		<div class="et_pb_section et_pb_section_0 et_pb_fullwidth_section et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_fullwidth_image et_pb_fullwidth_image_0">
+				
+				
+				
+				
+				<img fetchpriority="high" decoding="async" width="2000" height="420" src="https://www.mae.ucla.edu/wp-content/uploads/mae/hero-academics.jpg" alt="" title="" srcset="https://www.mae.ucla.edu/wp-content/uploads/mae/hero-academics.jpg 2000w, https://www.mae.ucla.edu/wp-content/uploads/mae/hero-academics-150x32.jpg 150w, https://www.mae.ucla.edu/wp-content/uploads/mae/hero-academics-300x63.jpg 300w, https://www.mae.ucla.edu/wp-content/uploads/mae/hero-academics-1024x215.jpg 1024w, https://www.mae.ucla.edu/wp-content/uploads/mae/hero-academics-1080x227.jpg 1080w" sizes="(max-width: 2000px) 100vw, 2000px" class="wp-image-25416" />
+			
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_1 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_0">
+				
+				
+				
+				
+				<div class="et_pb_code_inner"><script>
+main_active_menu = 'ACADEMICS';
+content_type = 'page';
+</script>
+</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_2 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_1 seastab-row et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Graduate Admissions</p></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p><span style="font-size: 14px">Thank you for your interest in the Mechanical and Aerospace Engineering Department Graduate Programs. Please review our admissions requirements before contacting us, for many questions can be answered by reading the instructions, reading the</span><a style="font-size: 14px" href="https://grad.ucla.edu/admissions/faqs/"> UCLA Graduate Education Admissions FAQs</a><span style="font-size: 14px">, as well as the MAE department&#8217;s Frequently Asked Questions (FAQ) at the bottom of this page.</span></p>
+<p>Due to the high volume of inquiries, applicants will not receive a personalized response. In recent years, we have found that 97% of the responses to these inquiries can be found on our FAQ admission webpage or the <a href="https://grad.ucla.edu/admissions/faqs/">UCLA Graduate Education Admissions FAQs</a>. Most questions can be answered by simply reviewing or searching a topic, such as GRE, TOEFL, official transcripts, personal statement,  and document status on the above webpages.</p>
+<p>Unfortunately, we will not answer hypothetical questions. In the rare instance when a question is not answered on one of the above webpages or in the general response below, a personalized response may be provided. As noted in the above webpages, applicants are asked <u>not </u>to make inquiries about the receipt of documents. Doing so will delay our efforts to process application material.</p>
+<p><span style="font-size: 14px">The</span><strong style="font-size: 14px"> Mechanical and Aerospace Engineering Department </strong><span style="font-size: 14px">has been in existence as a separate entity since 1984. It has a faculty of 34 full-time professors, all of whom serve as Graduate Advisers to our 335 graduate students. All our </span><a style="font-size: 14px" href="https://samueli.ucla.edu/search-faculty/#mae" target="_blank" rel="noopener noreferrer">faculty</a><span style="font-size: 14px"> are engaged in research projects, usually externally funded, that produce leading contributions to engineering and science.</span></p>
+<p><span style="font-size: 14px">Please note that admission to the department is quite competitive. Recently admitted applicants have had a mean grade point average of 3.67/4.00, while their Graduate Record Examination (GRE) scores on the Verbal, Quantitative, and Analytical sections have averaged 79%, 92%, 84% respectively. (Note that the GRE is not required for 2023.)</span></p>
+<p><span style="font-size: 14px">The UCLA </span><a style="font-size: 14px" href="http://www.gdnet.ucla.edu/gasaa/admissions/applicat.htm"><strong><em>Application for Graduate Admission</em></strong></a><span style="font-size: 14px"> should be used to apply. The online application includes complete instructions and further information.</span></p>
+<p><span style="font-size: 14px">University regulations do not permit an applicant to apply to more than one major. Please decide which of our programs is most appropriate for you prior to submitting an application. Applicants with existing MS or PhD degrees in Mechanical Engineering or Aerospace Engineering or closely related areas will not be admitted for a duplicate degree at the same level.</span></p>
+<p>Those admitted to the Ph.D. program without a master’s degree are required to complete the UCLA M.S. in Mechanical and Aerospace Engineering while proceeding toward the Ph.D.</p>
+<p>Students who already hold a M.S. or Ph.D in Mechanical and Aerospace Engineering or in a closely related field will not be admitted for a duplicate degree at the same level.  Furthermore, after entering the program, no change in degree objective will be approved that would result in the granting of a duplicate degree at a level for which a student has an existing degree in Mechanical and Aerospace Engineering or closely related field**.</p>
+<p><em>**Fields considered closely related are: other disciplines of engineering, computer science, physics, and mathematics. </em></p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p style="text-align: center"><strong>CONTACT</strong></p>
+<div dir="ltr">
+<div dir="ltr">
+<p>Students <em>and </em>Prospective students, please contact Abel Lebon at (310) 825-7780 (<a href="mailto:abel@seas.ucla.edu">abel@seas.ucla.edu</a>).</p>
+<p>Please allow 5-10 business days to receive a response.</p>
+<p><span style="font-size: 14px">Finally, <strong>please refrain from contacting the department to verify if materials have been received.</strong> The Student Affairs Office will email you if your application is incomplete or if any documents are missing. However, ensure that all required materials have been submitted or uploaded before submission of your application. The applicant assumes responsibility to document that all required materials have been submitted (for example, through receipts and screenshots).</span></p>
+</div>
+</div>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p style="text-align: center"><strong>DEADLINES</strong></p>
+<p>&nbsp;</p>
+<p>The Mechanical and Aerospace Engineering Department will consider applications for Fall Quarter admission only. Due to the number of applications received this deadline is strictly observed.</p>
+<p><strong>Submission Period:</strong><br />September 15 &#8211; December 1</p>
+<p>Note that applications submitted before this time period will be directed to the previous application cycle, and therefore, will not be considered nor reviewed.</p>
+<p><strong>Annual Deadline:</strong><br />December 1, 23:59 (PST)</p>
+<p><b>(</b><em>Note that Slate servers are on Eastern time</em><em>,</em> so applications submitted at 23:59 Pacific Time will appear as having been submitted at 2:59 Eastern time the next day. However, applications showing submitted at 2:59 the day after the deadline are on time!) <u></u></p>
+<p><strong>Check Application Status:</strong><br />The uploading of documents on the UCLA <a href="http://www.gdnet.ucla.edu/gasaa/admissions/applicat.htm">Application for Graduate Admission </a>signifies the receipt of application materials.</p>
+<p><strong>Check Decision Status:</strong><br />All applicants are guaranteed an admission decision on their <em>completed</em> application no later than the national deadline to inform applicants on admission status, which is April 1. Applicants can check the decision result of their application through the online decision release service. The deadline to respond to offers as published by the Council of Graduate Schools in the United States is April 15 of each year.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p style="text-align: center"><strong>APPLICATION FEE</strong></p>
+<p>The nonrefundable application fee is $135.00 for U.S. Citizens and Permanent Residents and $155.00 for all other applicants. UCLA accepts Visa, MasterCard, and Discover.</p>
+<p>For questions about fee waivers, review carefully the guidelines established by UCLA. Refrain from contacting the department to request fee waivers. You must follow the instructions outlined on the <a href="https://grad.ucla.edu/admissions/faqs/">UCLA Graduate Education</a>. This includes uploading all required documents by the deadline. Failure to upload required documents, uploading illegible documents, uploading documents without redacting social security numbers, or otherwise not following instructions will cause your fee waiver to be rejected.</p>
+<p>Note that although individual departments verify whether an applicant meets the <span class="il">fee</span> <span class="il">waiver</span> requirements, departments can <em>only <span class="il">waive</span> fees if applicants meet the criteria established by UCLA</em>. Please see <a href="https://grad.ucla.edu/admissions/faqs/"><span class="il">Fee</span> Waivers: Need-based on Frequently Asked Questions (FAQs)</a></p>
+<ul>
+<li>Cash, checks, or money orders <strong>cannot</strong> be accepted at UCLA.</li>
+<li>The application fee must be paid before an application can be considered.</li>
+<li>The application fee is devoted to the UCLA administrative cost of processing all applications received, and is <strong>not</strong> <strong>refundable</strong> under any circumstances, regardless of the outcome, the date of filing, time of review, or if, for whatever the reason, the application is withdrawn.</li>
+</ul>
+<p>Shortly after receiving your application, Diversity, Inclusion and Admissions sends an acknowledgment via email. Applicants should expect to receive an email acknowledgment within 72 hours of <strong>submitting</strong> the online application.</p>
+<p>If you do not receive an email acknowledgment within a reasonable amount of time (five to seven days), please review your online application to be sure the submission process was completed. Please also be sure to check your &#8220;junk&#8221; email box, in case UCLA&#8217;s email was diverted there by your spam filter. If you still have not received the acknowledgment email, please contact <a href="mailto:onlineapphelp@grad.ucla.edu">onlineapphelp@grad.ucla.edu</a> in case there is a minor problem with your application data.</p>
+<p>When a decision is made, applicants receive an email, directing them to the Graduate Division&#8217;s application site and the option Decision Status. Applicants sign in using the email address used to create their application account (<em>not</em> the User Name) and their application password to read the official decision letter.</p>
+<p>If admitted, the conditions of admission and information and instructions concerning registration (via a link to the Statement of Intent to Register and a Statement of Legal Residence) will be included as part of the offer of admission letter, which can be printed out from the Graduate Division site. (International applicants: please read <a href="https://grad.ucla.edu/gasaa/admissions/VISAPROC.HTM">Visa Procedures/Financial Verification</a>.)</p>
+<p>Only official notification from the Dean of the Graduate Division constitutes approval of admission.</p>
+<hr />
+<p>&nbsp;</p>
+<p style="text-align: center"><strong>APPLICATION MATERIAL REQUIRED</strong></p>
+<p>&nbsp;</p>
+<p><strong>Mailing Address for Official Application Documents</strong></p>
+<blockquote>
+<p>Student Services Office<br />University of California, Los Angeles<br />Mechanical and Aerospace Engineering Department<br />420 Westwood Plaza, 48-121 Engineering IV Bldg.<br />Los Angeles, CA 90095-1597</p>
+<p>&nbsp;</p>
+</blockquote>
+<ul>
+<li>1 Transcript &#8211; upload online (see <strong>TRANSCRIPTS</strong> for details)</li>
+<li>3 Letters of Recommendation &#8211; online</li>
+<li>Statement of Purpose &#8211; online</li>
+<li>Personal Statement &#8211; online (required only if applying for the Cota-Robles or GOFP)</li>
+<li>TOEFL or IELTS test scores (international students) &#8211; electronically from ETS</li>
+</ul>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p style="text-align: center"><strong>TRANSCRIPTS</strong></p>
+<p>&nbsp;</p>
+<p style="text-align: left">Please carefully review the requirements for <em>Official</em> and <em>Unofficial</em> transcripts here:  <a href="https://grad.ucla.edu/admissions/materials-to-be-uploaded-or-sent-to-the-departmentprogramschool/">https://grad.ucla.edu/admissions/materials-to-be-uploaded-or-sent-to-the-departmentprogramschool/</a>.</p>
+<p style="text-align: left">We define an<em> unofficial transcript</em> as either an official electronic transcript or an official paper transcript that you (the applicant) have scanned, uploaded or emailed to us.</p>
+<p style="text-align: left">Although we no longer require submission of official transcripts at the time of your application, transcripts <em>must</em> contain certain information, as specified below and here: https://grad.ucla.edu/admissions/materials-to-be-uploaded-or-sent-to-the-departmentprogramschool/.  <strong><em>Improper transcripts can delay the admissions process by several months, and the application will be considered low priority.</em> </strong></p>
+<p>Every applicant is required to upload an unofficial transcript on the <a href="http://www.gdnet.ucla.edu/gasaa/admissions/applicat.htm">online Graduate Admissions </a>website.  Please review acceptable transcripts here: <a href="https://grad.ucla.edu/admissions/materials-to-be-uploaded-or-sent-to-the-departmentprogramschool/">https://grad.ucla.edu/admissions/materials-to-be-uploaded-or-sent-to-the-departmentprogramschool/</a>.)</p>
+<p>Note that the transcript must be a document created by the institution and must show the following:</p>
+<p>1. name of the applicant</p>
+<p>2. the dates of enrollment</p>
+<p>3. the subjects or courses taken</p>
+<p>4. the units of credit or time allotted to each subject</p>
+<p>5. the name of the institution</p>
+<p>6. a complete description of the institution&#8217;s grading scale or other standard of evaluation</p>
+<p><strong>Tip:</strong> Because of the numerous applicants who upload unacceptable transcripts, we recommend that you request an <em>official</em> transcript from your institution to upload to your application. This should avoid issues in processing your application for admission.  We define an unofficial transcript as either an official electronic transcript or an official paper transcript that you (the applicant) have scanned, uploaded or emailed to us. All documents uploaded by the applicant (i.e., transcripts, GRE, or TOEFL/IELTS scores) are considered <strong><em>unofficial</em></strong>.</p>
+<p>&nbsp;</p>
+<p>All applicants who have been recommended for admission and who have accepted our offer are required to submit an official transcript from their institution.</p>
+<p>All official transcripts must bear the actual seal and/or signature of the Registrar. Photocopies and screen shots are not considered official transcripts. <strong>Do not send the original of an academic record which cannot be replaced</strong>; obtain a properly certified copy instead. All transcripts and credentials are evaluated by the UCLA Graduate Admissions Office in terms of UCLA equivalency.</p>
+<p><em>International students: Please read the <a href="https://grad.ucla.edu/admissions/required-academic-records/">Graduate Division’s Required Academic Records</a> information prior to submitting your transcripts. You may need to submit supplemental documents such as degree certificates and/or diplomas, or transcripts in the original language of instruction. Failure to submit the <a href="https://grad.ucla.edu/admissions/required-academic-records/">Required Academic Records</a> will delay the processing of your application.</em></p>
+<p>Entering students are expected to have completed the B.S. degree requirements with at least a 3.0/4.0 cumulative grade-point average of undergraduate study.</p>
+<p>If you are a university/college senior, then do not wait for senior-year grades before submitting your application and transcript.</p>
+<p>If you have completed your B.S. degree when you are ready to submit your application, then you must include your final transcript.</p>
+<p>Students entering the Ph.D. program are expected to have completed the requirements for the master&#8217;s degree with at least a 3.25/4.0 grade-point average. Normally the M.S. degree is required for admission to the Ph.D. program. Exceptional students, however, can be admitted to the Ph.D. program without having an M.S. degree but would be required to complete the M.S. degree along the way.</p>
+<p>When filling out your application, fill out your grades in the scale that your institution uses. Do not attempt to translate your grades yourself, as we have a specialist in the department who will translate them. Meeting the above minimum requirements does not guarantee admission.</p>
+<p>Applicants with existing MS or PhD degrees in Mechanical Engineering or Aerospace Engineering or closely related areas will not be admitted for a duplicate degree at the same level.</p>
+<p>UCLA undergraduates please note:  Although you are required to upload your UCLA transcript online, you do not have to submit an official copy of UCLA transcripts to our office.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p style="text-align: center"><strong>INTERNATIONAL REQUIREMENTS</strong></p>
+<p>&nbsp;</p>
+<p>All academic records must show the following:</p>
+<p>1. dates of enrollment</p>
+<p>2. the subjects or courses taken</p>
+<p>3. the units of credit or time allotted to each subject</p>
+<p>4. if rank is determined, rank in the total class or group</p>
+<p>5. a complete description of the institution&#8217;s grading scale or other standard of evaluation. Maximum and minimum marks and the steps between them must be indicated.</p>
+<p>Unless academic records and diplomas are <em>routinely</em> issued in English by the institution, submit the records <em>in the original language of instruction</em> with an authorized, complete, and exact English translation. <strong>Please review detailed information <a href="https://grad.ucla.edu/admissions/international-applicants/">here.</a></strong></p>
+<p>We require degree certificate and diploma for applicants who have received their undergraduate degree at the time of their submitted applications. Evidence of conferral of all degrees, diplomas, or professional titles must be submitted to the major department. This evidence may be in the form of officially certified copies of the actual diploma, or entries on official records or official statements from granting institutions. In all cases, the statement must include the exact, original title of the degree and the date of its formal conferral (month and year).</p>
+<p>Certificates of completion of required courses, or of degree examinations, cannot be accepted as evidence that the degree was granted. Degree diplomas showing month and year of award should be issued <strong><em>prior</em></strong> to the beginning of the term applied for.</p>
+<p>Students applying from countries where &#8220;Excellent, Very Good, Good, Pass&#8221; marks are given on examinations must present an academic record with at least a &#8220;Very Good&#8221; general rating.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p style="text-align: center"><strong>LETTERS OF RECOMMENDATION</strong></p>
+<p>&nbsp;</p>
+<p>Three letters of recommendation are required. When submitting your online application, you will be required to list one e-mail address for each recommender. Once these addresses have been submitted, each recommender will be notified electronically by UCLA, and they will then submit their letters of recommendation using a secure interface.</p>
+<p><strong>For the M.S. program</strong>:<br />We recommend that you provide letters of recommendation from professors who have taught you in your junior and senior years.</p>
+<p><strong>For the Ph.D. program</strong>:<br />We urge that all your letters be from academic references as recent as possible; if you have an M.S., letters from professors who have served on your M.S. committee are particularly helpful. If you cannot obtain academic references, the letters should be from people who can comment on your recent professional attainments and your qualifications for graduate study.</p>
+<p><strong>How the online recommendation process works:</strong></p>
+<ul>
+<li>Insert the name and contact information of each recommendation provider.</li>
+<li>Recommendation Type: Graduate Division Recommendation.</li>
+<li>Once the recommendation provider information is saved, an email will be sent to the online  recommendation provider with an access code and instructions on how to proceed.</li>
+<li>When the recommender submits the letter of recommendation it is posted on the online graduate admission application and will become a part of your application.</li>
+<li>Applicants are able to remind faculty to submit their letters by having the system resend the email to those recommending the applicant. Applicants are urged to check it frequently.</li>
+</ul>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p style="text-align: center"><strong>STATEMENT OF PURPOSE</strong></p>
+<p>&nbsp;</p>
+<p>The online application includes a section in which you must upload your “Statement of Purpose&#8221;. You will be required to describe exactly what you wish to study. This statement should be precise and brief. Your statement is a means of helping us match your academic and research interests with those of our faculty (this is very important if you are applying for financial support). It should not be a personal life history; it should contain only such personal details that will aid the Admissions Committee in evaluating your application. Describe exactly what you wish to study at UCLA. &#8220;Mechanical Engineering&#8221;, for example is not specific enough. State what branch of Mechanical or Aerospace Engineering interests you, i,e., structural and solid mechanics, systems and control, heat and mass transfer, etc. For more information regarding specific fields of study in Mechanical or Aerospace Engineering, see Graduate Research Areas.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p style="text-align: center"><strong>GRADUATE RECORD EXAM (GRE)</strong></p>
+<p>&nbsp;</p>
+<p>General Graduate Record Exam test is <em>optional</em> for admission to both the M.S. and Ph.D. programs.</p>
+<p>Students who wish to apply for admission to our graduate program for the 2023-2024 academic year are not required to take the <span class="il">GRE</span> or submit a <span class="il">GRE</span> score report as part of their application package. However, students may voluntarily submit <span class="il">GRE</span> test scores, and they will be reviewed as part of the holistic application consideration. The applications with <span class="il">GRE</span> scores will not be given greater weight than those that do not include scores.</p>
+<p>To avoid errors, use the correct institution and major (i.e., Mechanical or Aerospace) codes. Ensure that your name on your application matches <em>exactly</em> with the name entered on your exam, including hyphens and spaces. Errors in transmitting exam grades to UCLA most often occur because of differences in spelling, as well as the failure to use the correct codes.</p>
+<p>&nbsp;</p>
+<p><strong>Institution Code = 4837 </strong><br /><strong>Mechanical Code = 1502 </strong><br /><strong>Aerospace Code = 1601</strong></p>
+<p>&nbsp;</p>
+<p>For complete information about the GRE, including policies, procedures, test dates, and fees, see the <a href="http://www.gre.org/" target="_parent" rel="noopener noreferrer">GRE </a><a href="http://www.gre.org/" target="_parent" rel="noopener noreferrer">website</a>.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p style="text-align: center"><strong>TOEFL EXAMINATION</strong></p>
+<p>&nbsp;</p>
+<p>Students whose native language is not English are required to take and pass the <a href="http://www.toefl.org/">TOEFL Examination</a>.</p>
+<p>A TOEFL score of at least 560 on the paper and pencil test or at least 87 on the internet-based test is the minimum required for applicants to graduate programs at UCLA. For the internet-based TOEFL (TOEFL iBT), the following are recommended minimum passing scores for each section: Writing: 25, Speaking: 24, Reading: 21, Listening: 17, but the required minimum total passing score: 87.  An IELTS overall band score of at least 7.0 is the minimum required.</p>
+<p>To avoid errors, please ensure that your name on your application matches <em>exactly</em> with the name that you enter on your exam, including hyphens and spaces.</p>
+<p>&nbsp;</p>
+<p><strong>Institution Code = 4837 </strong><br /><strong>Department Code = 68 </strong></p>
+<p>&nbsp;</p>
+<p>Please note that TOEFL scores are considered valid for only two (2) years of the start of the intended application term, and that if several scores are submitted, only the most recent is considered.</p>
+<p>Admitted applicants are required, upon arrival at UCLA, to take the UCLA <a href="http://www.wp.ucla.edu/index.php?option=com_content&amp;view=article&amp;id=114&amp;Itemid=101">English as a Second Language </a><a href="http://www.wp.ucla.edu/index.php?option=com_content&amp;view=article&amp;id=114&amp;Itemid=101">Placement Examination (ESLPE), </a>an English diagnostic test, before being permitted to register. Depending on the results of the ESLPE, you may be required to complete English as a Second Language courses beginning in your first term at UCLA. If English courses are required, you should anticipate spending a longer period of time at the University. Admission is canceled for those who do not pass the ESLPE.  Please note that you must sit for the ESLPE <strong>regardless</strong> of your score obtained on the TOEFL, IELTS or any other English proficiency test.</p>
+<p>Applicants who hold a bachelor’s or higher degree from a university located in the United States or in another country in which English is both the primary spoken language of daily life (e.g., Australia, Barbados, Canada, Ireland, Jamaica, New Zealand, United Kingdom) <em>and</em> the medium of instruction, or who have completed at least two years of full-time study at such an institution, are exempted from both the <em>TOEFL/IELTS</em> requirement and the <a href="http://www.gdnet.ucla.edu/gasaa/admissions/ENGREQ.HTM#ESLPE">English as a Second Language Placement Examination (ESLPE)</a>. Please be sure to include such information in your application.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p style="text-align: center"><strong>FINANCIAL SUPPORT</strong></p>
+<p>&nbsp;</p>
+<p><strong>Research Assistantship</strong><br />Graduate student research positions are awarded directly by individual faculty. This is the most common form of financial assistance. Faculty members obtain contracts from various government agencies and industry to carry out research in applied topics. A portion of these funds are meant to pay trained graduate students a salary to assist in research which will normally result in a thesis for the student and scientific progress in the topic. Research Assistantships are individually negotiated between each student and his/her thesis advisor.</p>
+<p>&nbsp;</p>
+<p><strong>Fellowships</strong><br />Exceptional Fall applicants, and in some cases continuing students, are offered fellowships which include a stipend and tuition expense. These awards are typically for one year, and the total monetary compensation is approximately equivalent to a Teaching Assistantship or Research Assistantship.</p>
+<p>&nbsp;</p>
+<p><strong>Teaching Assistantship</strong><br />Teaching Assistantships are reserved primarily for Mechanical and Aerospace Engineering graduate students. Preference is usually given to doctorate students. Applicants from abroad who wish to apply for TA positions should take the Test of Spoken English (TSE) at the TOEFL Center in their home country or the equivalent TOP exam given at UCLA.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p style="text-align: center"><strong>REQUIREMENTS FOR INTERNATIONAL APPLICANTS</strong></p>
+<p>&nbsp;</p>
+<p>Information about obtaining the I-20 Certificate of Eligibility will be made available to admitted applicants by the <a href="http://www.internationalcenter.ucla.edu/">Dashew Center for International Students and Scholars</a>. Admitted applicants requiring a DS2019 for a J1 visa should contact the program to which they have been admitted to submit the request.</p>
+<p>&nbsp;</p>
+<p>U.S. immigration law requires that international applicants, if admitted, show documented evidence that sufficient funds to cover all tuition, fees, transportation, and living expenses are available for the first year of their studies at UCLA. This must be proved before a Certificate of Eligibility (<em>I-20</em> or <em>DS2019</em>) for a visa can be issued.</p>
+<p>&nbsp;</p>
+<p>The I-20 form is issued to admitted applicants who apply, and are qualified, for an F-1 (student) visa, after they submit a Statement of Intent to Register accepting admission at UCLA.</p>
+<p>&nbsp;</p>
+<p>The DS2019 form is issued to admitted applicants who apply, and are qualified for, a J-1 visa, after they submit a Statement of Intent to Register accepting admission at UCLA. J-1 (exchange visitor) status is appropriate for students whose programs of study are substantially funded by the U.S. government, their home government, an international or nonprofit organization, or UCLA.</p>
+<p>&nbsp;</p>
+<p>Since the University cannot assume financial responsibility for its students, U.S. government regulations require that we be satisfied that entering students have sufficient funds to meet all expenses while at UCLA. Be aware that all fees and expenses are subject to change; <em>it is best to plan to have additional funding well beyond the minimum.</em></p>
+<p>&nbsp;</p>
+<p>Unless you have been officially notified in writing of an award from the department or the Graduate Division, you should not expect any financial support from UCLA. Teaching assistantships, graduate student research appointments, fellowships and stipends, as well as tuition fellowships, are not guaranteed for the full academic year or for subsequent years of study, unless stated in writing.</p>
+<p>&nbsp;</p>
+<p>A student on a student visa cannot accept off-campus employment at any time during the first year in the U.S. Spouses of F-1 visa holders (F-2) are not allowed to work under any circumstances.</p>
+<p>&nbsp;</p>
+<p>Students transferring from another U.S. college or university must request a transfer to UCLA from their current school, and must also complete Immigration and Naturalization Service requirements before the end of the second week of their first term at UCLA. To comply, students must report to the <a href="http://www.gdnet.ucla.edu/gasaa/admissions/OISS.HTM">Dashew Center for International Students and Scholars</a> and bring a letter from the former school indicating that the student maintained visa status and is eligible to transfer to UCLA.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p style="text-align: center"><strong>HELPFUL LINKS</strong></p>
+<p>&nbsp;</p>
+<p>Student Services<br />Personnel &amp; Payroll<br /><a href="https://www.mae.ucla.edu/graduate-programs/" target="_blank" rel="noopener noreferrer">Syllabus</a><br /><a href="http://www.seasoasa.ucla.edu/admissions/hsseas-announcements" target="_blank" rel="noopener noreferrer">HSSEAS Announcement</a><br /><a href="https://my.engineering.ucla.edu/" target="_blank" rel="noopener noreferrer">MyEngineering</a><br /><a href="http://www.seasnet.ucla.edu/" target="_blank" rel="noopener noreferrer">SEASnet Computing</a><br /><a href="http://www.seas.ucla.edu/acctapp/index.html" target="_blank" rel="noopener noreferrer">SEASnet LAB Account</a><br /><a href="http://www.studenthealth.ucla.edu/" target="_blank" rel="noopener noreferrer">Student Health &amp; Wellness Center</a><br /><a href="http://www.recreation.ucla.edu/" target="_blank" rel="noopener noreferrer">Recreation</a><br /><a href="http://www.career.ucla.edu/" target="_blank" rel="noopener noreferrer">Career Center</a><br />Campus Maps<br />Campus Libraries<br /><a href="http://www.housing.ucla.edu/" target="_blank" rel="noopener noreferrer">Housing</a><br />Parking<br /><a href="https://main.transportation.ucla.edu/" target="_blank" rel="noopener noreferrer">Transportation</a><br /><a href="http://www.registrar.ucla.edu/Fees-Residence/Residence-Requirements">California Residency</a><br /><a href="http://www.internationalcenter.ucla.edu/" target="_blank" rel="noopener noreferrer">International students</a><br /><a href="http://www.gdnet.ucla.edu/" target="_blank" rel="noopener noreferrer">Graduate Division</a><br /><a href="https://grad.ucla.edu/orientation.html" target="_blank" rel="noopener noreferrer">Orientation Handbook</a><br /><a href="https://grad.ucla.edu/gasaa/library/spfgs.pdf" target="_blank" rel="noopener noreferrer">Standards &amp; Procedures</a><br /><a href="https://sa.ucla.edu/ro/Public/SOC">Schedule of Classes</a><br /><a href="http://www.registrar.ucla.edu/Calendars/Overview">Calendar</a><br /><a href="http://www.registrar.ucla.edu/Fees-Residence/Overview">Student Fees</a><br /><a href="http://my.ucla.edu/" target="_blank" rel="noopener noreferrer">My UCLA</a><br /><a href="http://www.bruincard.ucla.edu/" target="_blank" rel="noopener noreferrer">Bruin Card</a><br /><a href="http://www.bol.ucla.edu/" target="_blank" rel="noopener noreferrer">Bruin On-Line</a></p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>[Updated 2/15/2023]</p>
+<h1>Graduate Admissions Frequently Asked Questions</h1>
+<p>&nbsp;</p>
+<p>Here you will find answers to <em>Frequently Asked Questions (FAQs)</em> about Admissions into the Mechanical and Aerospace Engineering Graduate Programs.</p>
+<p>In addition, please review our instructions for submitting your application <em>before</em> contacting us for more information: https://www.mae.ucla.edu/graduate-admissions/<br />&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;</p>
+<p>&nbsp;</p>
+<p>APPLICATION/ADMISSION REQUIREMENTS AND DATA<br />Q1. <strong>Does the department provide “pre-application” reviews?</strong><br />A1. Unfortunately, we do not pre-review your application. Prospective applicants should review this page, frequently asked questions, and the department’s annual report to determine their admission competitiveness, and academic and research fit with the university. We conduct a comprehensive and thorough review of applications and consider many factors when issuing an admission decision.</p>
+<p>&nbsp;</p>
+<p>Q2. <strong>Do I need to have everything ready before I begin my application?</strong><br />A2. No. In fact, we encourage applicants to start their application early to familiarize themselves with the process. The applicant is able to begin, save, and update their application before submitting. However, it is important to submit the completed application with all necessary documents and information by the December 1 deadline.</p>
+<p>&nbsp;</p>
+<p>Q3. <strong>What are the application requirements?<br /></strong>A3. An applicant for admission must hold a bachelor’s degree from an accredited college or university, and must have the necessary academic preparation to complete graduate level courses in MAE. The university requires at least a scholastic average of B (3.0 on a 4.0 scale) or its equivalent if the letter grade system is not used. International students must submit a TOEFL with a total score of at least 87 (computer-based) or 560 (paper-based), or an IELTS with a score of at least 7.0.</p>
+<p>See the section <strong>APPLICATION MATERIAL REQUIRED </strong>for additional MAE department document requirements.</p>
+<p>&nbsp;</p>
+<p>Q4. <strong>Do you accept applications for admission for study beginning winter or spring quarter?</strong><br />A4. No. The MAE department accepts applications for fall quarter only. Applications should be submitted only between mid-September and the deadline of December 1.</p>
+<p>&nbsp;</p>
+<p>Q5. <strong>My academic background is not in mechanical and aerospace engineering. Am I eligible to apply to your graduate program?</strong><br />A5. The vast majority of applicants have a background in MAE. Other majors represented include electrical engineering, bioengineering, and physics. An applicant without a MAE background may still be a very competitive applicant. Having professional experience as well as having taken courses that are equivalent to prerequisites for upper division undergraduate coursework, and the upper division courses themselves, would be most helpful. Applicants may illustrate their professional experience by succinctly describing their skills and projects in the statement of purpose, and submitting letters of recommendation that relate their achievements and skills to their potential for success in their degree and career objectives.</p>
+<p>&nbsp;</p>
+<p>Q6. <strong>Will my application be reviewed if any application material is submitted after December 1?</strong><br />A6. In fairness to applicants and to assure the efficacy of the selection process, we cannot guarantee that your file will be reviewed if application material is submitted after the December 1 deadline. The number of qualified applicants far exceeds the number of available seats.</p>
+<p>&nbsp;</p>
+<p>Q7. <strong>Are “conditional admission” offers made to applicants?</strong><br />A7. No. All application material must be submitted before admission consideration is given.</p>
+<p>&nbsp;</p>
+<p>Q8. <strong>Is a transitional or pre-master’s program offered?</strong><br />A8. No. Due to the overwhelming number of qualified applicants, a transitional or pre-master’s program is not offered.</p>
+<p>&nbsp;</p>
+<p>Q9. <strong>May I apply to the M.S. program if I already have earned or will soon earn a master’s degree? </strong><br />A9. Unfortunately, you will not be considered for admission into the M.S. program if you already have a master’s degree in MAE or similar disciplines. As with many MAE departments, the number of qualified applicants far exceeds the number of available seats. You are welcome to apply to the Ph.D. program.</p>
+<p>&nbsp;</p>
+<p>Q10. <strong>I have questions about admission that is not found on here or the UCLA graduate website. May I meet with a graduate counselor?</strong><br />A10. Unfortunately, we are unable to meet individually with applicants or prospective students.</p>
+<p>&nbsp;</p>
+<p>Q11. <strong>I am a current M.S./Ph.D. student. Can I transfer to your institution?</strong><br />A 11. We do not have a separate transfer admission process at the graduate level. All applicants submit the same graduate application. M.S. applicants should also refer to the M.S. transfer coursework policy by reviewing the <a href="https://grad.ucla.edu/academics/graduate-study/standards-and-procedures-for-graduate-study/">Standards and Procedures for Graduate Study</a> at UCLA.</p>
+<p>&nbsp;</p>
+<p>Q12. <strong>I have already taken some graduate level coursework. Will I be able to transfer the coursework if admitted to the M.S. program?</strong><br />M.S. applicants should refer to the M.S. transfer coursework policy by reviewing the<a href="https://grad.ucla.edu/academics/graduate-study/standards-and-procedures-for-graduate-study/"> Standards and Procedures for Graduate Study at UCLA</a>. Through petition, courses completed in graduate status on other UC campuses may apply to master’s programs at UCLA, provided they were not used toward a previous degree. Such courses may fulfill up to one-half of the total course requirement, one-half of the graduate course requirement, and one-third of the academic residence requirement. A maximum of two courses completed with a minimum grade of ‘B’ in graduate status at institutions other than UC may apply to UCLA master’s programs. Two courses would be the equivalent of eight quarter units or five semester units. They may not fulfill the minimum five-graduate-course requirement or the academic residence requirement. The approval of the Graduate Division and the student’s major department is required on a petition for transfer of credit.</p>
+<p>Courses taken for any other degree previously awarded at UCLA or another institution, and courses taken before the award of the bachelor’s degree may not be applied toward a graduate degree at UCLA.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>APPLICATION/ADMISSION/DOCUMENT STATUS<br />Q1. <strong>Have you received my transcripts (or GRE, TOEFL, IELTS)?</strong><br />A1. Unfortunately, we are unable to verify receipt of your transcripts, GRE, or TOEFL/IELTS. We will contact you if any document or application material is missing or needed. Please refrain from emailing or calling to inquire about receipt of documents as it will delay our efforts to process applications. Our office is able to match test reports and transcripts for nearly all applicants. An applicant is denied admission consideration due to an incomplete file only if he or she does not respond to our request to submit missing material. You may find helpful the UCLA Admissions Frequently Asked Questions (FAQs) for Test Scores: https://grad.ucla.edu/admissions/faqs/</p>
+<p>&nbsp;</p>
+<p>Q2. <strong>How do I update my application?</strong><br />A2. We are unable to update your application.  However, if you are interested in research, then you are welcome to contact faculty directly with updates on new publications, awards, etc.</p>
+<p>&nbsp;</p>
+<p>Q3. <strong>Will my application be reviewed if any application material is submitted after December 1?</strong><br />A3. In fairness to applicants and to assure the efficacy of the selection process, we cannot guarantee that your file will be reviewed if application material is submitted after the December 1 deadline. Please make every effort to submit material by the deadline. As with many mechanical and aerospace departments, the number of qualified applicants far exceeds the number of available seats.</p>
+<p>&nbsp;</p>
+<p>Q4. <strong>When will I be informed of my admission status?</strong><br />A4. For those who have submitted their completed application by the deadline (including proper transcripts, test scores, etc.), UCLA will email your admission status by March 31<strong>. </strong><em>Please anticipate two or more additional months for incomplete applications</em><em>. </em><strong><br /></strong></p>
+<p>&nbsp;</p>
+<p>Q5. <strong>If I am admitted, may I defer my admission to a future term?</strong><br />A5. No. The department does not offer admission deferrals. The number of qualified applicants far exceeds the number of available seats.</p>
+<p>&nbsp;</p>
+<p>Q6. <strong>If I am not admitted, may I re-apply the following year?</strong><br />A6. Yes. Re-applicants often have strengthened their candidacy. You would need to submit a new online application and new supplemental material. Your test scores will be available as long as they have not become outdated.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>CALENDAR/TIMELINE<br />Q1. <strong>When is the deadline to submit application material?</strong><br />A1. The deadline to submit application material is December 1. In fairness to applicants and to assure the efficacy of the selection process, we cannot guarantee that your file will be reviewed if application material is submitted after the December 1 deadline. Please make every effort to submit material by the deadline. The number of qualified applicants far exceeds the number of available seats.</p>
+<p>&nbsp;</p>
+<p>Q2. <strong>When will my application be reviewed?<br /></strong>A2. The faculty begins reviewing applications after the admission deadline, primarily during December and January.</p>
+<p>&nbsp;</p>
+<p>Q3. <strong>When will I be informed of my admission status?<br /></strong>A3. UCLA Graduate Division will email you notification of your admission status by late March or sooner. When a decision is made, applicants receive an email, directing them to Graduate Division’s application site and the option ‘Decision Status.’ Applicants sign in using the email address used to create their application account (not the User Name) and their application password.</p>
+<p>If admitted, the conditions of admission and information and instructions concerning registration (via a link to the Statement of Intent to Register and a Statement of Legal Residence) will be included as part of the admission letter, which can be printed out from the Graduate Division site. Admission letters are only available electronically and are not mailed to applicants.</p>
+<p>Q4: <strong>Will I receive a separate email from the department with the SIR deadline?</strong><br />A4: We may send a courtesy email notifying applicants if we recommend admission, but this is not guaranteed. Only an official notification from the dean of the UCLA Graduate Division constitutes an approval of admission.</p>
+<p>&nbsp;</p>
+<p>Q5: <strong>When is the deadline to respond to an offer of admission?</strong><br />A5: The deadline to accept or decline our offer is April 15. This is completed by submitting your Statement of Intent to Register (SIR).</p>
+<p>&nbsp;</p>
+<p><em>Q6: </em><strong>Is it acceptable to contact faculty directly to explore possible funding?</strong><em><br />A6: </em>Yes<em>, y</em>ou are welcome to take the initiative and contact faculty who may be a good research match. Please understand that faculty may receive hundreds of emails, and may not respond to your inquiry. Refrain from mass emailing or spamming faculty or staff.</p>
+<p>You are also welcome to contact faculty in other engineering departments who may be a good research match.</p>
+<p>&nbsp;</p>
+<p>Q7. <strong>When is the university closed for the holidays?<br /></strong>A7. Please visit the university’s academic and administrative calendar.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>CONFIDENTIAL FINANCIAL STATEMENT (CFS): INTERNATIONAL M.S. APPLICANTS ONLY<br />Q1. <strong>When is the deadline to submit the CFS?</strong><br />A1. To qualify for a visa to study in the U.S., international applicants must demonstrate personal or agency financial support of at least $50,000 for the first year. Prospective applicants should apply for admission ONLY if they can provide such documentation, which will be requested if admission is offered, in early March. Information on the cost of attendance is available on the <a href="http://www.gdnet.ucla.edu/gasaa/admissions/expenses.htm">UCLA Graduate Division Cost of Attendance webpage</a>. Specific charges for tuition and fees and non-resident supplemental tuition are listed on the Registrar’s fee page. Information about university-wide fellowships and grants, and external fellowships may be found at the <a href="http://www.gdnet.ucla.edu/asis/stusup/index.html">UCLA Graduate Division funding webpage</a>.</p>
+<p>&nbsp;</p>
+<p>Q2. <strong>How much funding must I provide to qualify for a visa to study in the United States?</strong><br />A2. The total amount of money needed for living and educational expenses for the 2016-2017 academic year for most programs at UCLA, including MAE, is about US $51,000. This includes 1) US about $32,000 for tuition and fees for three quarters, and 2) US about $19,000 for basic living costs (food, rent, laundry, local transportation, books and supplies, etc.). It is estimated that the cost for the 2016-2017 academic year will be at least $52,000.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>COST OF ATTENDANCE<br />Q1. <strong>What is the cost of attendance at UCLA?</strong><br />A1. A sample budget for most programs, including mechanical and aerospace, is available on the Graduate Division <a href="http://www.gdnet.ucla.edu/gasaa/admissions/expenses.htm">fees and living expenses webpage</a>. Specific charges for tuition and fees and non-resident supplemental tuition are listed on the Registrar’s fee page.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>DEGREE OBJECTIVE AND REQUIREMENTS<br />Q1. <strong>May I apply to both M.S. and Ph.D. degree programs?</strong><br />A1. You may apply to either the Ph.D. program or the M.S. program but not both. Admission to the Ph.D. program is more selective than for the M.S. program. However, the admissions committee will consider Ph.D. applicants for admission into the M.S. program. While a Ph.D. degree prepares students not only for careers in research and academia, Ph.D. applicants typically demonstrate significant achievement in and/or potential for advancing knowledge through independent research and teaching.</p>
+<p>&nbsp;</p>
+<p>While a M.S. degree prepares students not only for careers in industry, M.S. applicants typically demonstrate interest in developing and applying technical skills and translational knowledge.</p>
+<p>&nbsp;</p>
+<p>Q2. <strong>May I apply to the M.S. program if I already have earned or will soon earn a master’s degree?</strong><br />A2. You will not be considered for admission into the M.S. program if you already have a master’s degree in MAE or similar disciplines. As with many MAE departments, the number of qualified applicants far exceeds the number of available seats.</p>
+<p>&nbsp;</p>
+<p>Q3. <strong>Am I required to have a master’s degree to apply to the Ph.D. program?</strong><br />A3. No.</p>
+<p>&nbsp;</p>
+<p>Q4. <strong>If I am a Ph.D. applicant, may I earn an M.S. degree while completing my Ph.D. at UCLA?</strong><br />A4. Yes, but only if you have not previously earned an M.S. degree in mechanical and aerospace or related field. You may petition for an M.S. degree as you fulfill the M.S. degree requirements. The Ph.D. Written Qualifying Exam may be substituted for the M.S. comprehensive exam or thesis. Degree requirements are listed at the mechanical and aerospace departmental website.</p>
+<p>&nbsp;</p>
+<p>Q5. <strong>Does MAE offer a distance learning program?</strong><br />A5. The MAE M.S. and Ph.D. degree programs do not incorporate distance learning courses. However, the UCLA Henry Samueli School of Engineering and Applied Science do offer an online M.S. in Engineering.</p>
+<p>&nbsp;</p>
+<p>Q6. <strong>Does MAE offer a part-time program?</strong><br />A6. No. Our graduate program is designed for full-time students. Students must be registered and enrolled each quarter for a minimum of 12 units. Unless granted a formal leave of absence, students are expected to register every term, including the term in which their degree or certificate is to be awarded. The filing fee may be used in lieu of registration if all formal requirements for the degree, except for filing the thesis or taking the comprehensive examination, are met prior to the first day of instruction of the term.</p>
+<p>&nbsp;</p>
+<p>Q7. <strong>What is the time to degree?</strong><br />A7. The number of terms to complete a degree program varies from student to student. Terminal M.S. students typically earn their degree in three quarters, or one academic year (F, W, Sp). Including students who continue with their Ph.D., the M.S. degree is earned in 4 quarters (F, W, Sp, F). The average length of time for Ph.D. students to complete their degree is 5 years.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>FUNDING<br />Q1. <strong>Do I need to submit an application for departmental funding?</strong><br />A1. You do not need to submit a separate application to be considered for departmental funding. Awards will be given based on Ph.D. applicants’ academic merit and potential. Ph.D. applicants are informed of their financial support separately from their admission offers. However, we only send funding letters to those who have been offered department funding.</p>
+<p>Q2. <strong>How do I know if I have been selected for departmental funding?</strong><br />A1. We only notify those who have not been selected for a fellowship. Faculty will generally initiate contact with applicants they are interested</p>
+<p>Unfortunately, M.S. applicants are not eligible for departmental financial support. To qualify for a visa to study in the U.S., international M.S. applicants must demonstrate personal or agency financial support of at least $51,000 for the first year. Prospective M.S. applicants should apply for admission ONLY if they can provide such documentation, which will be requested if admission is offered, in early March. Information on the cost of attendance is available on the <a href="http://www.gdnet.ucla.edu/gasaa/admissions/expenses.htm">UCLA Graduate Division Cost of Attendance webpage</a>.</p>
+<p>Information about university-wide fellowships and grants, and external fellowships may be found at the <a href="http://www.gdnet.ucla.edu/asis/stusup/index.html">UCLA Graduate Division funding webpage</a>.</p>
+<p>&nbsp;</p>
+<p>Q3. <strong>How do I apply for a teaching assistantship (TA) position?</strong><br />A3. The department accepts applications from <strong>current</strong> students in April for TA positions to be assigned the following academic school year, and for incoming students during summer. Ph.D. students fill nearly all TA positions. Assignments are contingent on your eligibility which includes passing MAE495: Teaching Assistant Training Seminar, and for non-native speakers of English, passing the university’s Test of Oral Proficiency (TOP). All M.S. admittees may explore TA opportunities in other academic departments (i.e EE, Math, STAT).</p>
+<p>&nbsp;</p>
+<p>Q4. <strong>How do I apply for a graduate student researcher (GSR) position?</strong><br />A4. Faculty will generally initiate contact with Ph.D. admittees to discuss funding possibilities. For M.S. admittees, a<strong> </strong>limited number of MAE GSR positions are available, based on research experience and potential. They are typically secured after enrollment. (Applicants are welcome to contact a professor directly if they believe they are a good fit for the professor’s research.) All admittees may explore GSR opportunities in other academic departments (i.e EE, Math, STAT) and campus departments.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>HOUSING<br />Q1. <strong>Is there university housing and, if so, when can I apply?</strong><br />A1. Space in university housing is limited. If you are interested, please submit an online housing application immediately after admission to the university. The application requires a $30 non-refundable fee. Information is available at the <a href="http://www.housing.ucla.edu/">university housing website</a>.</p>
+<p>&nbsp;</p>
+<p>Q2. <strong>Are there any special housing arrangements for mechanical and aerospace students?</strong><br />A2. The MAE department has been allocated a limited number of spaces to hold for funded, incoming Ph.D. students in Weyburn Terrace/Hilgard Apartments. Estimated monthly payments for the 2017-2018 academic year range from $1,300 to $1,400, including utilities.</p>
+<p>&nbsp;</p>
+<p>Q3. <strong>How do students locate housing around UCLA and Los Angeles?</strong><br />A3. A good place to start is the UCLA Community Housing Office (CHO) which provides an online rental database and maintains additional resources to assist those searching for housing in the Los Angeles area. Please visit the <a href="http://www.cho.ucla.edu/">community housing website</a>.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>LETTERS OF RECOMMENDATION<br />Q1. <strong>May I submit more than 3 letters of recommendation?<br /></strong>A1. Most applicants submit only 3 letters, which is the department’s preference. The Graduate Division online application does allow the names of 4 recommenders to be submitted, and the department will review all letters received.</p>
+<p>&nbsp;</p>
+<p>Q2. <strong>Can I change my recommenders or send them reminders?</strong><br />A2. Yes. The Graduate Division online application allows you to change recommenders and send reminders as needed through the recommendation provider list.</p>
+<p>&nbsp;</p>
+<p>Q3. <strong>Can recommendations be sent directly to the department?</strong><br />A3. No, letters must be submitted through the Graduate Division online application process. Please inform your recommenders to check their spam mail to ensure their recommendation link has not been filtered to junk, and to follow the instructions on <a href="https://grad.ucla.edu/admissions/faqs/">Frequently Asked Questions (FAQs) about Admissions into UCLA Graduate Programs.</a></p>
+<p>&nbsp;</p>
+<p>Q4. <strong>May I ask my work supervisors to submit letters of recommendation? I graduated several years ago and am having difficulty contacting my former professors.</strong><br />A4. We prefer to receive letters from faculty members who are familiar with your academic history, however, we understand that applicants who have graduated several years ago, and/or applicants who have work experience may have recommenders outside of academia. Regardless of who writes the letter, the content should relate your achievements and skills to your potential for success in your degree and career objectives.</p>
+<p>&nbsp;</p>
+<p>Q5. <strong>Will my application be considered if my recommenders submit letters after December 1?</strong><br />A5. Letters and transcripts are due by December 1. Typically, late letters and late transcripts received through December 15 will be reviewed, but their review cannot be guaranteed.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>MAJOR (FIELD OF STUDY)<br />Q1. <strong>Am I required to choose a major or field of study within MAE on the Graduate Division online application?</strong><br />A1. Applicants must select a field of study and preferred faculty advisor when submitting the online application. Initial faculty advisors are assigned to new M.S. students during the summer before enrollment. M.S. students may choose a broad selection of courses or any combination of courses from the following fields:</p>
+<p>&nbsp;</p>
+<p>Design, Robotics, and Manufacturing<br />Fluid Mechanics<br />MEMS/Nanotechnology<br />Structural and Solid Mechanics<br />Systems and Control<br />Thermal Science and Engineering (formerly Heat and Mass Transfer)</p>
+<p>&nbsp;</p>
+<p>Ph.D. students choose their major and minor as part of the Proposal of Fields. For more information, Ph.D. applicants may see the Proposal of Fields form and guidelines on the MAE Graduate Program webpage. Information about the fields of study and course descriptions are available in the <a href="http://www.mae.ucla.edu/graduate-programs-and-preliminary-exams/">MAE Graduate Programs and Preliminary Exams</a></p>
+<p>&nbsp;</p>
+<p>Q2. <strong>May applicants apply to more than one academic program (e.g. MAE and EE)?<br /></strong>A2. No. Applicants may apply to only one academic program, and within that program, only one degree objective.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>PERSONAL HISTORY STATEMENT<br /><strong>Q1. In addition to the statement of purpose, is a personal history statement or writing sample required?</strong><br />A1. If you are applying for the Cota-Robles or Graduate Opportunity Fellowship, then yes, a personal statement is required. If you are not applying for either of these fellowships, then the statement of purpose is considered to be the personal history statement and writing sample. You may upload a blank document as your personal history statement.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>STATEMENT OF PURPOSE<br />Q1. <strong>Are there format or length requirements?</strong><br />A1. There are no word count or font requirements. Typically, applicants upload a PDF of 1 to 1 1/2 pages in length.</p>
+<p>&nbsp;</p>
+<p><strong>Q2. In addition to the statement of purpose, is a writing sample required?</strong><br />A2. The statement of purpose is considered to be the writing sample. No additional writing sample is requested <em>unless</em> you are applying for either a <a href="https://grad.ucla.edu/funding/financial-aid/funding-for-entering-students/eugene-cota-robles-gofp-application-instructions/">Cota-Robles Fellowship or a GOFP</a> . You may upload a blank document as your personal history statement.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>TOEFL/IELTS (INTERNATIONAL APPLICANTS ONLY)<br />Q1. <strong>What is UCLA’s TOEFL institution code? What is the TOEFL department code?</strong><br />A1. UCLA’s TOEFL institution code is 4837. The TOEFL department code is 68.</p>
+<p>&nbsp;</p>
+<p>Q2. <strong>Can my TOEFL/IELTS requirement be waived? I attended an institution at which all instruction was done in English.</strong><br />A2. If you hold a bachelor’s or higher degree from a university located in the United States or in another country in which English is both the official spoken language (e.g. Australia, Barbados, Canada, Ireland, Jamaica, New Zealand, UK) <em>and</em> the medium of instruction, or who have completed at least two years of full-time study at such an institution by the time you will have enrolled at UCLA, you are exempted from both the TOEFL/IELTS requirement and the ESLPE. Your eligibility for an exemption will be verified by the information you provide in the academic history section of your online application and the official transcripts that you mail to the MAE department.</p>
+<p>&nbsp;</p>
+<p>Q3. <strong>Will my application still be considered for admission if I scored below the minimum on one of the sections of the TOEFL?</strong><br />A3. Yes. The MAE department will allow a score below the minimum on one section of the exam if your total TOEFL score is at least 87.</p>
+<p>&nbsp;</p>
+<p>For the internet-based <em>TOEFL (TOEFL iBT)</em>, the following are the <em>recommended</em> minimum scores for each section:</p>
+<p>&nbsp;</p>
+<ul>
+<li>Writing:  25</li>
+<li>Speaking:  24</li>
+<li>Reading:  21</li>
+<li>Listening:  17</li>
+</ul>
+<p>&nbsp;</p>
+<p>Q4. <strong>For multiple TOEFLs, which scores do you use?<br /></strong>A4. We use only the most recent TOEFL scores.</p>
+<p>&nbsp;</p>
+<p>Q5. <strong>I will not receive official TOEFL/IELTS scores until after the application deadline. Will I still be considered for admission?<br /></strong>A5. Yes. As long as you complete the exam on or before the December 1 deadline, we will accept the scores. If you plan to take or have already taken an additional exam, please make sure that ETS has already sent your first exam report to UCLA before December 1.</p>
+<p>&nbsp;</p>
+<p>Q6. <strong>When do TOEFL/IELTS results expire?</strong><br />A6. You must have taken the TOEFL within 2 years of the date the online admission application is submitted. For example, if you took the exam on October 30, 2020, you would need to complete the UCLA Graduate Division online application no later than October 30, 2022.</p>
+<p>&nbsp;</p>
+<p>Q7. <strong>Will you receive my TOEFL report if I did not provide or provided the incorrect department code?</strong><br />A7. To avoid delays up to several weeks in matching your report to your application, it is important to use the correct institution code, 4837, and the correct department code, 68. We recommend that you upload student reports to the Graduate Division application and email a copy of your student report to the mechanical and aerospace department if your application does not show that your scores have been received by the deadline.</p>
+<p>&nbsp;</p>
+<p>Q8. <strong>May I request that ETS send my score report to UCLA before I submit the online application?</strong><br />A8. Yes. We will be able to match your score report to your online application.</p>
+<p>&nbsp;</p>
+<p>Q9. <strong>Where may I find additional information concerning English requirements?</strong><br />A9. Information on the IELTS, Test of Oral Proficiency, and ESLPE is available at the <a href="http://www.gdnet.ucla.edu/gasaa/admissions/ENGREQ.HTM">Graduate Division website</a>.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>TRANSCRIPTS (Not required from UCLA students and alumni)<br />Q1. <strong>How many transcripts are required and where do I send them?</strong><br />A1. All applicants are required to submit ONE (1) transcript from each <strong>post-secondary</strong> institution attended. Unofficial transcripts should be uploaded to the Graduate Admissions Website by the December 1 deadline. In-progress transcripts may be submitted if the applicant has not yet earned the degree.</p>
+<p>&nbsp;</p>
+<p>Q2. <strong>I uploaded my unofficial transcript online. Do I have to send an official transcript as well?</strong><br />A2. First and foremost, please check to make sure that the unofficial transcript uploaded as a part of your online application follows our definition of an unofficial transcript. Audits and other documents will not be accepted. Unofficial transcripts will have the applicant&#8217;s coursework, credits earned, and grades received.</p>
+<p>&nbsp;</p>
+<p>UCLA no longer requires that applicants submit their official transcripts at the time of the submission of their application. If you have both been recommended for admission and  accepted our offer, then you are required to send an official transcript to our office. The mailing address can be found below. We recommend that admitted applicants do this as soon as possible.</p>
+<p>&nbsp;</p>
+<p>All applicants who have accepted our offer and are attending, or have graduated from a U.S. institution that transmits transcripts electronically, may request to have official transcripts emailed to: maeapp@seas.ucla.edu. Due to the high volume of applications, <strong><em>please ensure that the service allows at least a month to download the transcript.</em></strong></p>
+<p>&nbsp;</p>
+<p>Mailing Address:</p>
+<p>&nbsp;</p>
+<p>Graduate Student Affairs Office<br />University of California, Los Angeles<br />Mechanical and Aerospace Engineering Department<br />420 Westwood Plaza, 48-121 Engineering IV Bldg.<br />Los Angeles, CA 90095-1596<br />maeapp@seas.ucla.edu</p>
+<p>&nbsp;</p>
+<p>Q3. <strong>I have requested that transcripts be sent to you, but I am concerned that you will not receive them by the deadline of December 1. If they arrive late, will I still be considered for admission?<br /></strong>A3. Typically, late letters and late transcripts received through December 15 will be reviewed, but it cannot be guaranteed. You may upload unofficial transcripts to the Graduate Division online application. This may expedite the department’s initial review of your application.</p>
+<p>&nbsp;</p>
+<p><strong>Transcripts (International Applicants Only Q3-5)</strong></p>
+<p>&nbsp;</p>
+<p>Q4. <strong>How do you evaluate transcripts issued in a language other than English?<br /></strong>A4. International credentials issued in a language other than English must be accompanied by an English translation. Please submit ONE (1) set of official transcripts in both English and the native language. International applicants should refer to the <a href="http://www.gdnet.ucla.edu/gasaa/admissions/INTLREQT.HTM">Graduate Division webpage </a>for information about submission of academic records.</p>
+<p>&nbsp;</p>
+<p>Q5. <strong>My university does not assign grades on a 4.0 grade scale. Should I calculate my GPA?<br /></strong>A5. No. Staff in the MAE graduate student affairs office review and convert, as necessary, the marks or grades of all applicants. The Graduate Division online application asks applicants to submit their grade point average on the scale used by their institutions.</p>
+<p>&nbsp;</p>
+<p>Q6. <strong>My official transcripts do not contain all the requested information such as the month and year of award. Do I need to submit a diploma?<br /></strong>A6. A complete academic history must include attested or certified copies of official documents that provide the following: 1) individual subjects or classes with marks or grades; 2) class placement or overall grade; 3) degree certificate that includes degree received and degree conferral date; 4) institutional marks/grading scale; and 5) the original language of instruction and English translation.</p>
+<p>&nbsp;</p>
+<p>Most applicants are in the process of completing a degree. If offered admission, the final transcript indicating the date of the degree conferral may be submitted during the summer. Applicants from China, India, Iran, as well as most other countries (exceptions include Great Britain, Hong Kong, Korea, Taiwan) who have graduated must submit official copies of their degree certificates along with their final official transcripts. Both the original language of instruction and English translation must be submitted.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>VISA (INTERNATIONAL APPLICANTS ONLY)<br />Q1. <strong>How much funding must I provide to qualify for a visa to study in the United States?</strong><br />A1. The total amount of money needed for living and educational expenses for the 2017-2018 academic year for most programs at UCLA, including mechanical and aerospace, is about US $52,000. This includes 1) US about $31,100 for tuition and fees for three quarters, and 2) US about $19,500 for basic living costs (food, rent, laundry, local transportation, books and supplies, etc.). It is estimated that the cost for the 2017-2018 academic year will be at least $52,500. To qualify for a visa to study in the U.S., international applicants must demonstrate personal or agency financial support of at least $52,500 for the first year. Prospective students should apply for admission ONLY if they can provide such documentation, which will be requested if admission is offered, in early March. Information on the cost of attendance is available on the <a href="http://www.gdnet.ucla.edu/gasaa/admissions/expenses.htm">UCLA Graduate Division Cost of Attendance webpage</a>.</p>
+<p>&nbsp;</p>
+<p>Information about university-wide fellowships and grants, and external fellowships may be found at the <a href="http://www.gdnet.ucla.edu/asis/stusup/index.html">UCLA Graduate Division funding webpage</a>.</p>
+<p>&nbsp;</p>
+<p>Q2. <strong>When may I apply for a visa?</strong><br />A2. The UCLA Dashew Center for International Students and Scholars prepares visa documents (Form I-20 for F-1 student visa) from May to September for admitted applicants who have returned the Statement of Intent to Register, Statement of Legal Residence, and CFS that includes the appropriate financial documentation. Please see information on visa procedures on the <a href="http://www.gdnet.ucla.edu/gasaa/admissions/VISAPROC.HTM">Graduate Division website</a>.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>WRITING SAMPLE<br />Q1. <strong>Is a writing sample required?</strong><br />A1. The statement of purpose is considered to be the writing sample. No additional writing sample is requested. You may upload a blank document or your SOP as your personal history statement.</p>
+<p>&nbsp;</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</div>
+						</div>
+
+				
+				</article>
+
+			
+
+</div>
+
+
+	<span class="et_pb_scroll_top et-pb-icon"></span>
+
+
+			<footer id="main-footer">
+				
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<div id="footer-logo">
+					<a href="https://samueli.ucla.edu/engineerchange/" target="_blank"><img src="/wp-content/uploads/samueli/engineer-change-tagline.png" alt="Engineer Change." width="200px"></a><br>
+				</div>
+				<ul class="et-social-icons" aria-label="socialmedia-menu">
+
+	<li class="et-social-icon et-social-twitter">
+		<a href="https://twitter.com/UCLAMechAeroEng" class="icon" aria-label="X" rel="noopener" target="_blank">
+			<span>X</span>
+		</a>
+	</li>
+
+</ul>
+					</div>	<!-- .container -->
+					<div class="container clearfix">
+					<div id="footer-copyright">
+						&copy; <span style="font-style: italic;">Copyright 2024 UCLA Samueli School Of Engineering</span>
+					</div>	<!-- .container -->
+					<div id="footer-menu-wrapper">
+						<ul class="footer-menu">
+						<li><a aria-label="Contact Us" href="/contact">Contact Us</a></li>
+						<li><a target="_blank" aria-label="Accessibility" rel="noopener" href="http://www.ucla.edu/accessibility">Accessibility</a></li>
+						<li><a target="_blank" aria-label="Terms of Use" rel="noopener" href="https://samueli.ucla.edu/terms-of-use">Terms of Use</a></li>
+						<li><a target="_blank" aria-label="Safety First" rel="noopener" href="https://samueli.ucla.edu/safety-first">Safety First</a></li>
+						<li><a target="_blank" aria-label="UCLA" rel="noopener" href="http://www.ucla.edu">UCLA</a></li>
+						</ul>
+					</div>	<!-- #footer-menu-wrapper -->
+<!-- cookie consent -->
+<!-- cookie consent -->
+			</div>
+			</div>
+
+
+
+
+			</div>
+
+
+			</div>
+					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.mae.ucla.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2' media='none' onload="media='all'" />
+<script src="https://www.mae.ucla.edu/wp-content/plugins/responsive-image-maps/jquery.rwdImageMaps.min.js?ver=1.5" id="jQuery.rwd_image_maps-js"></script>
+<script id="divi-custom-script-js-extra">
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.mae.ucla.edu\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.mae.ucla.edu\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.mae.ucla.edu\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"110a308d7a","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"fe59ea305a","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"25422","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https:\/\/www.mae.ucla.edu\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#ffe800","waypoints_options":[]};
+var et_pb_box_shadow_elements = [];
+</script>
+<script src="https://www.mae.ucla.edu/wp-content/themes/Divi/js/scripts.min.js?ver=4.23.1" id="divi-custom-script-js"></script>
+<script src="https://www.mae.ucla.edu/wp-content/themes/Divi/js/smoothscroll.js?ver=4.23.1" id="smoothscroll-js"></script>
+<script src="https://www.mae.ucla.edu/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.6" id="page-links-to-js"></script>
+<script id="heateor_sss_sharing_js-js-before">
+function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'https://www.mae.ucla.edu/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://www.mae.ucla.edu/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://www.mae.ucla.edu/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 1, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 1;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssReduceHorizontalSvgWidth = true;var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")}
+</script>
+<script src="https://www.mae.ucla.edu/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=3.3.56" id="heateor_sss_sharing_js-js"></script>
+<script src="https://www.mae.ucla.edu/wp-content/themes/Divi/core/admin/js/common.js?ver=4.23.1" id="et-core-common-js"></script>
+<script id="divi-accessibility-da11y-js-extra">
+var _da11y = {"version":"2.0.1","active_outline_color":"#2ea3f2"};
+</script>
+<script src="https://www.mae.ucla.edu/wp-content/plugins/divi-accessibility-master/public/js/da11y.js?ver=2.0.1" id="divi-accessibility-da11y-js"></script>
+<script id="divi-accessibility-da11y-js-after">
+jQuery(document).ready(function(e){var n,a;function s(){const n=e(".et_search_form_container");n.hasClass("et_pb_is_animating")||(e(".et_menu_container").removeClass("et_pb_menu_visible et_pb_no_animation").addClass("et_pb_menu_hidden"),n.removeClass("et_pb_search_form_hidden et_pb_no_animation").addClass("et_pb_search_visible et_pb_is_animating"),setTimeout(function(){e(".et_menu_container").addClass("et_pb_no_animation"),n.addClass("et_pb_no_animation").removeClass("et_pb_is_animating")},1e3),n.find("input").focus(),function(){const n=e(".et_search_form_container"),a=e("body");if(n.hasClass("et_pb_search_visible")){const s=e("#main-header").innerHeight(),i=e("#top-menu").width(),t=e("#top-menu li a").css("font-size");n.css({height:s+"px"}),n.find("input").css("font-size",t),a.hasClass("et_header_style_left")?n.find("form").css("max-width",i+60):n.css("max-width",i+60)}}())}e(".menu-item-has-children").find("a")&&(e(".menu-item-has-children").find("a").addClass("da11y-submenu"),e(".menu-item-has-children").find("a").not(".sub-menu a").attr("aria-expanded","false")),e(".da11y-submenu").on("focus",function(){e(this).not(".sub-menu a").attr("aria-expanded","true"),e(this).siblings(".sub-menu").addClass("da11y-submenu-show"),e(this).trigger("mouseenter")}),e("body").on("keydown",".menu-item-has-children a",function(e){n=e.which,a=e.shiftKey}),e(".menu-item-has-children a").on("focusout",function(){9==n&&(a||e(this).parent().not(".menu-item-has-children").is(":last-child")&&e(this).parents(".menu-item-has-children").children(".da11y-submenu").attr("aria-expanded","false").trigger("mouseleave").siblings(".sub-menu").removeClass("da11y-submenu-show"))}),e(this).keyup(function(){e(".et-search-field").focus(function(){s()}).blur(function(){e(".et_search_form_container").hasClass("et_pb_is_animating")||(e(".et_menu_container").removeClass("et_pb_menu_hidden et_pb_no_animation").addClass("et_pb_menu_visible"),e(".et_search_form_container").removeClass("et_pb_search_visible et_pb_no_animation").addClass("et_pb_search_form_hidden et_pb_is_animating"),setTimeout(function(){e(".et_menu_container").addClass("et_pb_no_animation"),e(".et_search_form_container").addClass("et_pb_no_animation").removeClass("et_pb_is_animating")},1e3))})})});
+
+jQuery(document).ready((function(t){!function(e){const n='<a href="'+e+'" class="skip-link da11y-screen-reader-text">Skip to content</a>';t(e).attr("tabindex",-1),t("body").prepend(n)}("#main-content"),t('a[href^="#"]').click((function(){t("#"+t(this).attr("href").slice(1)).focus()}))}));
+jQuery(document).ready((function(e){let n=new Date,o=new Date;e(this).on("focusin",(function(t){e(".keyboard-outline").removeClass("keyboard-outline"),o<n&&e(t.target).addClass("keyboard-outline")})),e(this).on("mousedown",(function(){o=new Date})),e(this).on("keydown",(function(){n=new Date}))}));
+jQuery(document).ready((function(t){t(".et_pb_toggle").each((function(){t(this).attr("tabindex",0)})),t(".et_pb_toggle").on("keydown",(function(t){32===t.which&&t.preventDefault()})),t(document).on("keyup",(function(e){13!==e.which&&32!==e.which||t(".et_pb_toggle:focus .et_pb_toggle_title").trigger("click")}))}));
+jQuery(document).ready((function(e){e(".et-search-field").each((function(t){e(this).attr("id","et_pb_search_module_input_"+t),e("#et_pb_search_module_input_"+t).before('<label class="da11y-screen-reader-text" for="et_pb_search_module_input_'+t+'">Search for...</label>'),e("#et_pb_search_module_input_"+t).after('<button type="submit" class="da11y-screen-reader-text">Search</button>')})),e(".et_pb_s").each((function(t){e(this).attr("id","et_pb_s_module_input_"+t),e("#et_pb_s_module_input_"+t).before('<label class="da11y-screen-reader-text" for="et_pb_s_module_input_'+t+'">Search for...</label>')})),e(".et_pb_contact_form").each((function(){e(this).find(".et_pb_contact_captcha_question").parent().wrap("<label></label>")})),e(".et-social-facebook a.icon span").text("Facebook"),e(".et-social-twitter a.icon span").text("Twitter"),e(".et-social-google-plus a.icon span").text("Google Plus"),e(".et-social-pinterest a.icon span").text("Pinterest"),e(".et-social-linkedin a.icon span").text("LinkedIn"),e(".et-social-tumblr a.icon span").text("Tumblr"),e(".et-social-instagram a.icon span").text("Instagram"),e(".et-social-skype a.icon span").text("Skype"),e(".et-social-flikr a.icon span").text("Flickr"),e(".et-social-myspace a.icon span").text("Myspace"),e(".et-social-dribbble a.icon span").text("Dribble"),e(".et-social-youtube a.icon span").text("YouTube"),e(".et-social-vimeo a.icon span").text("Vimeo"),e(".et-social-rss a.icon span").text("RSS")}));
+jQuery(document).ready((function(t){t(".et_pb_tabs_controls").each((function(){t(this).attr("role","tabList")})),t(".et_pb_tabs_controls li").each((function(){t(this).attr("role","presentation")})),t(".et_pb_tabs_controls a").each((function(){t(this).attr("role","tab")})),t(".et_pb_tab").each((function(){t(this).attr("role","tabpanel")})),t(".et_pb_tabs_controls li:not(.et_pb_tab_active) a").each((function(){t(this).attr({"aria-selected":"false","aria-expanded":"false",tabindex:-1})})),t(".et_pb_tabs_controls li.et_pb_tab_active a").each((function(){t(this).attr({"aria-selected":"true","aria-expanded":"true",tabindex:0})})),t(".et_pb_tabs_controls a").each((function(a){t(this).attr({id:"et_pb_tab_control_"+a,"aria-controls":"et_pb_tab_panel_"+a})})),t(".et_pb_tab").each((function(a){t(this).attr({id:"et_pb_tab_panel_"+a,"aria-labelledby":"et_pb_tab_control_"+a})})),t(".et_pb_tab.et_pb_active_content").each((function(){t(this).attr("aria-hidden","false")})),t(".et_pb_tab:not(.et_pb_active_content)").each((function(){t(this).attr("aria-hidden","true")})),t(".et_pb_tabs").each((function(a){t(this).attr("data-da11y-id","et_pb_tab_module_"+a)})),t(".et_pb_tabs_controls a").on("click",(function(){const a=t(this).attr("id"),e=t(this).closest(".et_pb_tabs").attr("data-da11y-id");t('[data-da11y-id="'+e+'"] .et_pb_tabs_controls a').attr({"aria-selected":"false","aria-expanded":"false",tabindex:-1}),t(this).attr({"aria-selected":"true","aria-expanded":"true",tabindex:0}),t("#"+e+" .et_pb_tab").attr("aria-hidden","true"),t('[aria-labelledby="'+a+'"]').attr("aria-hidden","false")})),t(".et_pb_tabs_controls a").keyup((function(a){const e=t(this).closest(".et_pb_tabs").attr("data-da11y-id"),i=t('[data-da11y-id="'+e+'"]');if(39===a.which){const t=i.find("li.et_pb_tab_active").next();t.length>0?t.find("a").trigger("click"):i.find("li:first a").trigger("click")}else if(37===a.which){const t=i.find("li.et_pb_tab_active").prev();t.length>0?t.find("a").trigger("click"):i.find("li:last a").trigger("click")}t(".et_pb_tabs_controls a").removeClass("keyboard-outline"),i.find("li.et_pb_tab_active a").addClass("keyboard-outline")})),t(".et_pb_search").each((function(a){t(this).attr("data-da11y-id","et_pb_search_module_"+a)})),t('[data-required_mark="required"]').each((function(){t(this).attr("aria-required","true")})),t(".et_pb_contactform_validate_field").attr("type","hidden"),t(".et-pb-contact-message").attr("role","alert"),t("#main-content").attr("role","main"),t(".et_pb_fullwidth_header").each((function(a){t(this).attr("aria-label","Wide Header"+a)})),t("#comment-wrap").attr("aria-label","Comments")}));
+jQuery(document).ready((function(e){e("#et_top_search, .et_close_search_field, .et_pb_main_blurb_image").attr("aria-hidden","true")}));
+jQuery(document).ready((function(e){e(".mobile_menu_bar_toggle").attr({role:"button","aria-expanded":"false","aria-label":"Menu",tabindex:0}),e(".mobile_menu_bar_toggle").on("click",(function(){e(this).hasClass("a11y-mobile-menu-open")?e(this).removeClass("a11y-mobile-menu-open").attr("aria-expanded","false"):e(this).addClass("a11y-mobile-menu-open").attr("aria-expanded","true")})),e(".mobile_menu_bar_toggle").keyup((function(n){13===n.keyCode&&e(".mobile_menu_bar_toggle").click()})),e(document).keyup((function(n){27===n.keyCode&&e("#et_mobile_nav_menu .mobile_nav").hasClass("opened")&&e(".mobile_menu_bar_toggle").click()})),e(this).on("focusin",(function(){e("#et_mobile_nav_menu .mobile_nav").hasClass("opened")&&(e("#et_mobile_nav_menu .et_mobile_menu :focus").length||e("#et_mobile_nav_menu .mobile_menu_bar_toggle").click())}))}));
+</script>
+<script src="https://www.mae.ucla.edu/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.23.1" id="fitvids-js"></script>
+</body>
+</html>

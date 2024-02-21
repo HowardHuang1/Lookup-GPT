@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/core/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Archive Press Releases | Jifresse</title>
+    <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/ajax-progress.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/align.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/autocomplete-loading.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/fieldgroup.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/container-inline.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/clearfix.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/details.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/hidden.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/item-list.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/js.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/nowrap.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/position-container.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/progress.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/reset-appearance.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/resize.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/sticky-header.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tabledrag.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tablesort.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tree-child.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/views/views.module.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/core/assets/vendor/normalize-css/normalize.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/core/normalize-fixes.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/action-links.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/breadcrumb.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/button.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/collapse-processed.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/container-inline.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/details.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/exposed-filters.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/field.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/form.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/icons.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/inline-form.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/item-list.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/link.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/links.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/menu.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/more-link.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/pager.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/tabledrag.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/tableselect.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/tablesort.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/tabs.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/textarea.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/ui-dialog.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/messages.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700|Open+Sans+Condensed:700" />
+<link rel="stylesheet" media="all" href="/themes/jifresse/includes/bootstrap/css/bootstrap.css?rh1ryw" />
+<link rel="stylesheet" media="all" href="/themes/jifresse/css/screen.css?rh1ryw" />
+
+    
+  </head>
+  <body class="path-press-releases">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page">
+
+  <header id="header" class="header">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+            <div class="region region-header">
+    <div id="block-jifresse-branding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="/" title="Jifresse" rel="home" class="site-logo">
+      <img src="/themes/jifresse/logo.svg" alt="Home" />
+    </a>
+          <h1 class="site-slogan">Joint Institute for Regional Earth System Science &amp; Engineering</h1>
+  </div>
+
+  </div>
+
+        </div>
+        <div class="col-md-6">
+            <div class="region region-search">
+    <div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-jifresse-search" role="search">
+  
+    
+      <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." placeholder="Search" data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value=" " class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+  </div>
+
+  </div>
+
+        </div>  
+      </div>    
+    </div>
+  </header>
+  <section id="main-menu-desktop">
+	  <div class="container">
+	        <div class="region region-mainmenu">
+    <nav role="navigation" aria-labelledby="block-jifresse-main-menu-menu" id="block-jifresse-main-menu" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-jifresse-main-menu-menu">Main navigation</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/about" data-drupal-link-system-path="node/12">About</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/contact-information" data-drupal-link-system-path="node/14">Contact</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/people" data-drupal-link-system-path="node/33">People</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/people/director" data-drupal-link-system-path="people/director">Director</a>
+              </li>
+                <li class="menu-item">
+        <a href="/people/associate-directors" data-drupal-link-system-path="people/associate-directors">Associate Directors</a>
+              </li>
+                <li class="menu-item">
+        <a href="/people/collaboration-board" data-drupal-link-system-path="people/collaboration-board">Collaboration Board</a>
+              </li>
+                <li class="menu-item">
+        <a href="/people/steering-committee" data-drupal-link-system-path="people/steering-committee">Steering Committee</a>
+              </li>
+                <li class="menu-item">
+        <a href="/people/jsip-committee" data-drupal-link-system-path="people/jsip-committee">JSIP Committee</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Directory</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/ucla-faculty-researchers" data-drupal-link-system-path="node/47">UCLA Faculty &amp; Researchers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/jpl-affiliates" data-drupal-link-system-path="node/7">JPL Affiliates</a>
+              </li>
+                <li class="menu-item">
+        <a href="/postdocs-students" data-drupal-link-system-path="node/48">PostDocs &amp; Students</a>
+              </li>
+                <li class="menu-item">
+        <a href="/staff" data-drupal-link-system-path="node/49">Staff</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/research" data-drupal-link-system-path="node/2">Research</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/current-research" data-drupal-link-system-path="current-research">Current Research</a>
+              </li>
+                <li class="menu-item">
+        <a href="/funded-extramural" data-drupal-link-system-path="node/50">Funded Extramural</a>
+              </li>
+                <li class="menu-item">
+        <a href="/funded-jpl-supported" data-drupal-link-system-path="node/51">Funded JPL-Supported</a>
+              </li>
+                <li class="menu-item">
+        <a href="/publications" data-drupal-link-system-path="node/52">Publications</a>
+              </li>
+                <li class="menu-item">
+        <a href="/presentations" data-drupal-link-system-path="node/53">Presentations</a>
+              </li>
+                <li class="menu-item">
+        <a href="/opportunities" data-drupal-link-system-path="node/151">Job Opportunities</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/events" data-drupal-link-system-path="events">Events</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/events/2023" data-drupal-link-system-path="events/2023">2023 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2022" data-drupal-link-system-path="events/2022">2022 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2021" data-drupal-link-system-path="events/2021">2021 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2020" data-drupal-link-system-path="events/2020">2020 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2019" data-drupal-link-system-path="events/2019">2019 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2018" data-drupal-link-system-path="events/2018">2018 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2017" data-drupal-link-system-path="events/2017">2017 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2016" data-drupal-link-system-path="events/2016">2016 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2015" data-drupal-link-system-path="events/2015">2015 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2014" data-drupal-link-system-path="events/2014">2014 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2013" data-drupal-link-system-path="events/2013">2013 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2012" data-drupal-link-system-path="events/2012">2012 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2011" data-drupal-link-system-path="events/2011">2011 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2010" data-drupal-link-system-path="events/2010">2010 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2009" data-drupal-link-system-path="events/2009">2009 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2008" data-drupal-link-system-path="events/2008">2008 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2007" data-drupal-link-system-path="events/2007">2007 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2006" data-drupal-link-system-path="events/2006">2006 Events</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded menu-item--active-trail">
+        <a href="/press-releases" data-drupal-link-system-path="press-releases">Press</a>
+                                <ul class="menu">
+                    <li class="menu-item menu-item--active-trail">
+        <a href="/press-releases/2023" data-drupal-link-system-path="press-releases/2023" class="is-active">2023 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2022" data-drupal-link-system-path="press-releases/2022">2022 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2021" data-drupal-link-system-path="press-releases/2021">2021 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2020" data-drupal-link-system-path="press-releases/2020">2020 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2019" data-drupal-link-system-path="press-releases/2019">2019 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2018" data-drupal-link-system-path="press-releases/2018">2018 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2017" data-drupal-link-system-path="press-releases/2017">2017 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2016" data-drupal-link-system-path="press-releases/2016">2016 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2015" data-drupal-link-system-path="press-releases/2015">2015 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2014" data-drupal-link-system-path="press-releases/2014">2014 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2013" data-drupal-link-system-path="press-releases/2013">2013 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2012" data-drupal-link-system-path="press-releases/2012">2012 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2011" data-drupal-link-system-path="press-releases/2011">2011 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2010" data-drupal-link-system-path="press-releases/2010">2010 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2009" data-drupal-link-system-path="press-releases/2009">2009 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2008" data-drupal-link-system-path="press-releases/2008">2008 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2007" data-drupal-link-system-path="press-releases/2007">2007 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2006" data-drupal-link-system-path="press-releases/2006">2006 Press Releases</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/resources" data-drupal-link-system-path="node/5">For Employees</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+	  </div>
+	</section>	
+  <section id="main-menu-mobile">
+    <div class="container">
+          <div class="region region-mainmenu">
+    <nav role="navigation" aria-labelledby="block-jifresse-main-menu-menu" id="block-jifresse-main-menu" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-jifresse-main-menu-menu">Main navigation</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/about" data-drupal-link-system-path="node/12">About</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/contact-information" data-drupal-link-system-path="node/14">Contact</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/people" data-drupal-link-system-path="node/33">People</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/people/director" data-drupal-link-system-path="people/director">Director</a>
+              </li>
+                <li class="menu-item">
+        <a href="/people/associate-directors" data-drupal-link-system-path="people/associate-directors">Associate Directors</a>
+              </li>
+                <li class="menu-item">
+        <a href="/people/collaboration-board" data-drupal-link-system-path="people/collaboration-board">Collaboration Board</a>
+              </li>
+                <li class="menu-item">
+        <a href="/people/steering-committee" data-drupal-link-system-path="people/steering-committee">Steering Committee</a>
+              </li>
+                <li class="menu-item">
+        <a href="/people/jsip-committee" data-drupal-link-system-path="people/jsip-committee">JSIP Committee</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Directory</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/ucla-faculty-researchers" data-drupal-link-system-path="node/47">UCLA Faculty &amp; Researchers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/jpl-affiliates" data-drupal-link-system-path="node/7">JPL Affiliates</a>
+              </li>
+                <li class="menu-item">
+        <a href="/postdocs-students" data-drupal-link-system-path="node/48">PostDocs &amp; Students</a>
+              </li>
+                <li class="menu-item">
+        <a href="/staff" data-drupal-link-system-path="node/49">Staff</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/research" data-drupal-link-system-path="node/2">Research</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/current-research" data-drupal-link-system-path="current-research">Current Research</a>
+              </li>
+                <li class="menu-item">
+        <a href="/funded-extramural" data-drupal-link-system-path="node/50">Funded Extramural</a>
+              </li>
+                <li class="menu-item">
+        <a href="/funded-jpl-supported" data-drupal-link-system-path="node/51">Funded JPL-Supported</a>
+              </li>
+                <li class="menu-item">
+        <a href="/publications" data-drupal-link-system-path="node/52">Publications</a>
+              </li>
+                <li class="menu-item">
+        <a href="/presentations" data-drupal-link-system-path="node/53">Presentations</a>
+              </li>
+                <li class="menu-item">
+        <a href="/opportunities" data-drupal-link-system-path="node/151">Job Opportunities</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/events" data-drupal-link-system-path="events">Events</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/events/2023" data-drupal-link-system-path="events/2023">2023 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2022" data-drupal-link-system-path="events/2022">2022 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2021" data-drupal-link-system-path="events/2021">2021 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2020" data-drupal-link-system-path="events/2020">2020 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2019" data-drupal-link-system-path="events/2019">2019 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2018" data-drupal-link-system-path="events/2018">2018 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2017" data-drupal-link-system-path="events/2017">2017 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2016" data-drupal-link-system-path="events/2016">2016 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2015" data-drupal-link-system-path="events/2015">2015 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2014" data-drupal-link-system-path="events/2014">2014 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2013" data-drupal-link-system-path="events/2013">2013 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2012" data-drupal-link-system-path="events/2012">2012 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2011" data-drupal-link-system-path="events/2011">2011 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2010" data-drupal-link-system-path="events/2010">2010 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2009" data-drupal-link-system-path="events/2009">2009 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2008" data-drupal-link-system-path="events/2008">2008 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2007" data-drupal-link-system-path="events/2007">2007 Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/2006" data-drupal-link-system-path="events/2006">2006 Events</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded menu-item--active-trail">
+        <a href="/press-releases" data-drupal-link-system-path="press-releases">Press</a>
+                                <ul class="menu">
+                    <li class="menu-item menu-item--active-trail">
+        <a href="/press-releases/2023" data-drupal-link-system-path="press-releases/2023" class="is-active">2023 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2022" data-drupal-link-system-path="press-releases/2022">2022 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2021" data-drupal-link-system-path="press-releases/2021">2021 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2020" data-drupal-link-system-path="press-releases/2020">2020 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2019" data-drupal-link-system-path="press-releases/2019">2019 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2018" data-drupal-link-system-path="press-releases/2018">2018 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2017" data-drupal-link-system-path="press-releases/2017">2017 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2016" data-drupal-link-system-path="press-releases/2016">2016 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2015" data-drupal-link-system-path="press-releases/2015">2015 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2014" data-drupal-link-system-path="press-releases/2014">2014 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2013" data-drupal-link-system-path="press-releases/2013">2013 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2012" data-drupal-link-system-path="press-releases/2012">2012 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2011" data-drupal-link-system-path="press-releases/2011">2011 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2010" data-drupal-link-system-path="press-releases/2010">2010 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2009" data-drupal-link-system-path="press-releases/2009">2009 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2008" data-drupal-link-system-path="press-releases/2008">2008 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2007" data-drupal-link-system-path="press-releases/2007">2007 Press Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/press-releases/2006" data-drupal-link-system-path="press-releases/2006">2006 Press Releases</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/resources" data-drupal-link-system-path="node/5">For Employees</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+    </div>
+  </section>   
+
+  
+       <section id="main-content">
+      <div class="container">
+  	    <div class="row">
+  	        <div id="content">
+  	              <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-pagetitle" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="page-title">Archive Press Releases </h1>
+
+
+  </div>
+<div id="block-jifresse-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="views-element-container"><div class="view view-press-releases- view-id-press_releases_ view-display-id-page_2 js-view-dom-id-1a0ace0f7dba1e524e77c1ae06df20d459c4d85de05e6ea15c4bb76cb74ac729">
+  
+    
+      
+      <div class="view-content">
+          <div class="row views-row"><div class="views-field views-field-field-date"><div class="field-content col-md-1 col-sm-2 col-xs-2">
+<span class="short-month">
+Feb</span>
+
+<span class="short-day">
+17</span>
+
+<span class="short-year">
+2023</span>
+</div></div><div class="views-field views-field-title"><span class="field-content col-md-11 col-sm-10 col-xs-10"><a href="/press-release/2022-jsip-intern-student-alex-chang-received-agu-outstanding-student-presentation" hreflang="en">2022 JSIP intern student Alex Chang received AGU Outstanding Student Presentation Award (OSPA) </a></span></div></div>
+    <div class="row views-row"><div class="views-field views-field-field-date"><div class="field-content col-md-1 col-sm-2 col-xs-2">
+<span class="short-month">
+Mar</span>
+
+<span class="short-day">
+09</span>
+
+<span class="short-year">
+2023</span>
+</div></div><div class="views-field views-field-title"><span class="field-content col-md-11 col-sm-10 col-xs-10"><a href="/press-release/jifresse-researcher-bin-guan-featured-agu-press-release" hreflang="en">JIFRESSE Researcher Bin Guan featured in AGU press release </a></span></div></div>
+    <div class="row views-row"><div class="views-field views-field-field-date"><div class="field-content col-md-1 col-sm-2 col-xs-2">
+<span class="short-month">
+Apr</span>
+
+<span class="short-day">
+09</span>
+
+<span class="short-year">
+2023</span>
+</div></div><div class="views-field views-field-title"><span class="field-content col-md-11 col-sm-10 col-xs-10"><a href="/press-release/study-jifresse-assistant-researcher-yun-lin-featured-science-news" hreflang="en">A study by JIFRESSE Assistant Researcher Yun Lin featured in Science News </a></span></div></div>
+    <div class="row views-row"><div class="views-field views-field-field-date"><div class="field-content col-md-1 col-sm-2 col-xs-2">
+<span class="short-month">
+Aug</span>
+
+<span class="short-day">
+21</span>
+
+<span class="short-year">
+2023</span>
+</div></div><div class="views-field views-field-title"><span class="field-content col-md-11 col-sm-10 col-xs-10"><a href="/press-release/uclas-press-release-about-research-published-pnas-led-jifresse-researcher-ben-santer" hreflang="en">UCLA&#039;s press release about research published in PNAS  led by JIFRESSE Researcher Ben Santer </a></span></div></div>
+    <div class="row views-row"><div class="views-field views-field-field-date"><div class="field-content col-md-1 col-sm-2 col-xs-2">
+<span class="short-month">
+Aug</span>
+
+<span class="short-day">
+30</span>
+
+<span class="short-year">
+2023</span>
+</div></div><div class="views-field views-field-title"><span class="field-content col-md-11 col-sm-10 col-xs-10"><a href="/press-release/dr-jonathan-jiang-elected-fellow-ams" hreflang="en">Dr. Jonathan Jiang elected as a Fellow of AMS</a></span></div></div>
+    <div class="row views-row"><div class="views-field views-field-field-date"><div class="field-content col-md-1 col-sm-2 col-xs-2">
+<span class="short-month">
+Aug</span>
+
+<span class="short-day">
+30</span>
+
+<span class="short-year">
+2023</span>
+</div></div><div class="views-field views-field-title"><span class="field-content col-md-11 col-sm-10 col-xs-10"><a href="/press-release/ben-santer-jifresse-received-highest-award-ams" hreflang="en">Ben Santer at JIFRESSE received the highest award from AMS</a></span></div></div>
+    <div class="row views-row"><div class="views-field views-field-field-date"><div class="field-content col-md-1 col-sm-2 col-xs-2">
+<span class="short-month">
+Sep</span>
+
+<span class="short-day">
+12</span>
+
+<span class="short-year">
+2023</span>
+</div></div><div class="views-field views-field-title"><span class="field-content col-md-11 col-sm-10 col-xs-10"><a href="/press-release/discrepancies-climate-model-predictions-future-warming-attributed-mid-latitude-low" hreflang="en">Discrepancies in Climate Model Predictions of Future Warming Attributed to Mid-Latitude Low Cloud Representations: A Study in Nature Communications Led by JIFRESSE Scientists</a></span></div></div>
+
+    </div>
+  
+      
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+  	        </div>
+  	    </div>
+      </div>
+  	</section>    
+  
+  <footer id="footer">
+    <div class="container">
+      <div class="row footer-contact">
+        <ul>         
+          <li>
+            4242 Young Hall 
+          </li>
+          <li>
+            Tel: 310.794.9832
+          </li>
+          <li>
+            Fax: 310.794.9796
+          </li>
+        </ul>
+      </div>
+      <div class="row footer-menu">
+          <div class="region region-footer">
+    <nav role="navigation" aria-labelledby="block-jifresse-footer-menu" id="block-jifresse-footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-jifresse-footer-menu">Footer menu</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="http://ucla.edu">University of California</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://accessweb.ucla.edu/"> Disability Resources</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.directory.ucla.edu/">Directory</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.ucla.edu/map">Map</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://happenings.ucla.edu/">Calendar</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+      </div>
+      <div class="row footer-terms">
+        <a href="http://www.ucla.edu/terms-of-use" target="_blank"> &copy; 2016 UC Regents | Terms of Use </a>
+      </div>
+    </div>
+  </footer>
+</div>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"press-releases\/2023","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"164cdc5ee9b8253395caf2d0754ad90c426b661bf98d3820d1d70c6fc2b9b646"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.6.0"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=9.3.12"></script>
+<script src="/core/misc/drupal.js?v=9.3.12"></script>
+<script src="/core/misc/drupal.init.js?v=9.3.12"></script>
+<script src="/themes/jifresse/includes/mega-menu/js/jquery-accessibleMegaMenu.js?v=9.3.12"></script>
+<script src="/themes/jifresse/includes/mega-menu/js/main.js?v=9.3.12"></script>
+
+  </body>
+</html>

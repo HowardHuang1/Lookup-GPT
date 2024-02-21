@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://www.cs.ucla.edu/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<title>Faculty Awards | CS</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><style id="et-builder-googlefonts-cached-inline">/* Original: https://fonts.googleapis.com/css?family=Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic&#038;subset=latin,latin-ext&#038;display=swap *//* User Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCc.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-v.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-v.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPHA.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwWw.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPHA.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPHA.ttf) format('truetype');}/* User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCQ.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-s.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-s.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPHw.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwWA.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPHw.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPHw.woff) format('woff');}/* User Agent: Mozilla/5.0 (Windows NT 6.3; rv:39.0) Gecko/20100101 Firefox/39.0 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCI.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-q.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-q.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPGQ.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwXg.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPGQ.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPGQ.woff2) format('woff2');}</style>		<style type="text/css">
+					.heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+											.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+					.heateor_sss_horizontal_sharing .heateorSssTCBackground{
+				color:#666;
+			}
+					.heateor_sss_horizontal_sharing span.heateor_sss_svg:hover,.heateor_sss_standard_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		.heateor_sss_vertical_sharing span.heateor_sss_svg,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_vertical_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+						.heateor_sss_vertical_sharing span.heateor_sss_svg:hover,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}div.heateor_sss_mobile_footer{display:none;}@media screen and (max-width:783px){div.heateor_sss_bottom_sharing .heateorSssTCBackground{background-color:white}div.heateor_sss_bottom_sharing{width:100%!important;left:0!important;}div.heateor_sss_bottom_sharing a{width:25% !important;}div.heateor_sss_bottom_sharing .heateor_sss_svg{width: 100% !important;}div.heateor_sss_bottom_sharing div.heateorSssTotalShareCount{font-size:1em!important;line-height:28px!important}div.heateor_sss_bottom_sharing div.heateorSssTotalShareText{font-size:.7em!important;line-height:0px!important}div.heateor_sss_mobile_footer{display:block;height:40px;}.heateor_sss_bottom_sharing{padding:0!important;display:block!important;width:auto!important;bottom:-2px!important;top: auto!important;}.heateor_sss_bottom_sharing .heateor_sss_square_count{line-height:inherit;}.heateor_sss_bottom_sharing .heateorSssSharingArrow{display:none;}.heateor_sss_bottom_sharing .heateorSssTCBackground{margin-right:1.1em!important}}.heateor_sss_sharing_container {
+ padding: 15px 0px;
+ max-width: 1000px;
+ margin: auto;
+}		</style>
+		<meta name='robots' content='max-image-preview:large' />
+<script type="text/javascript">
+			let jqueryParams=[],jQuery=function(r){return jqueryParams=[...jqueryParams,r],jQuery},$=function(r){return jqueryParams=[...jqueryParams,r],$};window.jQuery=jQuery,window.$=jQuery;let customHeadScripts=!1;jQuery.fn=jQuery.prototype={},$.fn=jQuery.prototype={},jQuery.noConflict=function(r){if(window.jQuery)return jQuery=window.jQuery,$=window.jQuery,customHeadScripts=!0,jQuery.noConflict},jQuery.ready=function(r){jqueryParams=[...jqueryParams,r]},$.ready=function(r){jqueryParams=[...jqueryParams,r]},jQuery.load=function(r){jqueryParams=[...jqueryParams,r]},$.load=function(r){jqueryParams=[...jqueryParams,r]},jQuery.fn.ready=function(r){jqueryParams=[...jqueryParams,r]},$.fn.ready=function(r){jqueryParams=[...jqueryParams,r]};</script><link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel="alternate" type="application/rss+xml" title="CS &raquo; Feed" href="https://www.cs.ucla.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CS &raquo; Comments Feed" href="https://www.cs.ucla.edu/comments/feed/" />
+<meta content="Divi Child for HSSEAS v.4.23.1" name="generator"/><link rel='stylesheet' id='admin-custom-styles-css' href='https://www.cs.ucla.edu/wp-content/plugins/jsoncontentimporterpro3/block/css/jcipro-admin-styles.css?ver=1.0.0' media='all' />
+<style id='admin-custom-styles-inline-css'>
+.menu li.et-hover>ul,.nav li.et-hover>ul{visibility:visible!important;opacity:1!important}.da11y-submenu-show{visibility:visible!important}
+.keyboard-outline{outline-style:solid!important;outline-width:2px!important;-webkit-transition:none!important;transition:none!important}a[role=tab].keyboard-outline,button:active.keyboard-outline,button:focus.keyboard-outline,input:active.keyboard-outline,input:focus.keyboard-outline{outline-offset:-5px}.et-search-form input:focus.keyboard-outline{padding-left:15px;padding-right:15px}.et_pb_tab{-webkit-animation:none!important;animation:none!important}.et_pb_scroll_top.et-visible:focus{outline-width:2px;outline-style:solid;outline-color:Highlight}@media (-webkit-min-device-pixel-ratio:0){.et_pb_scroll_top.et-visible:focus{outline-color:-webkit-focus-ring-color;outline-style:auto}}
+.et_pb_contact_form_label,.et_pb_search .screen-reader-text,.et_pb_social_media_follow_network_name,.widget_search .screen-reader-text{display:block!important}.da11y-screen-reader-text,.et_pb_contact_form_label,.et_pb_search .screen-reader-text,.et_pb_social_media_follow_network_name,.widget_search .screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden;text-shadow:none;text-transform:none;letter-spacing:normal;line-height:normal;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1em;font-weight:600;-webkit-font-smoothing:subpixel-antialiased}.da11y-screen-reader-text:focus{background:#f1f1f1;color:#00547a;-webkit-box-shadow:0 0 2px 2px rgba(0,0,0,.6);box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;display:block;height:auto;left:5px;padding:15px 23px 14px;text-decoration:none;top:7px;width:auto;z-index:1000000}
+</style>
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='events-manager-css' href='https://www.cs.ucla.edu/wp-content/plugins/events-manager/includes/css/events-manager.min.css?ver=6.4.6.4' media='all' />
+<style id='events-manager-inline-css'>
+body .em { --font-family : inherit; --font-weight : inherit; --font-size : 1em; --line-height : inherit; }
+</style>
+<link rel='stylesheet' id='divi_module_timeline-styles-css' href='https://www.cs.ucla.edu/wp-content/plugins/divi_module_timeline/styles/style.min.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='heateor_sss_frontend_css-css' href='https://www.cs.ucla.edu/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=3.3.56' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.4.2' media='all' />
+<link rel='stylesheet' id='sb_dtm_custom_css-css' href='https://www.cs.ucla.edu/wp-content/plugins/divi_module_timeline/styles/style.css?ver=6.4.2' media='all' />
+<link rel='stylesheet' id='divi-style-parent-css' href='https://www.cs.ucla.edu/wp-content/themes/Divi/style-static.min.css?ver=4.23.1' media='all' />
+<link rel='stylesheet' id='divi-style-css' href='https://www.cs.ucla.edu/wp-content/themes/Divi-child/style.css?ver=4.23.1' media='all' />
+<link rel='stylesheet' id='child-style-css' href='https://www.cs.ucla.edu/wp-content/themes/Divi-child/style.css?ver=4.23.1' media='all' />
+<link rel='stylesheet' id='mobile_style-css' href='https://www.cs.ucla.edu/wp-content/themes/Divi-child/per_site_styles/mobile_style.css?ver=4.23.1' media='all' />
+<link rel='stylesheet' id='cs-style-css' href='https://www.cs.ucla.edu/wp-content/themes/Divi-child/per_site_styles/cs_style.css?ver=6.4.2' media='all' />
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script id="jquery-js-after">
+jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){var n=String(r);n.replace("$","jQuery");var a=new Function("return "+n)();$(document).ready(a)}});
+</script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2" id="jquery-ui-mouse-js"></script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2" id="jquery-ui-sortable-js"></script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2" id="jquery-ui-datepicker-js"></script>
+<script id="jquery-ui-datepicker-js-after">
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.2" id="jquery-ui-resizable-js"></script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2" id="jquery-ui-draggable-js"></script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2" id="jquery-ui-controlgroup-js"></script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2" id="jquery-ui-checkboxradio-js"></script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2" id="jquery-ui-button-js"></script>
+<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.2" id="jquery-ui-dialog-js"></script>
+<script id="events-manager-js-extra">
+var EM = {"ajaxurl":"https:\/\/www.cs.ucla.edu\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/www.cs.ucla.edu\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"yy-mm-dd","ui_css":"https:\/\/www.cs.ucla.edu\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui\/build.min.css","show24hours":"0","is_ssl":"1","autocomplete_limit":"10","calendar":{"breakpoints":{"small":560,"medium":908,"large":false}},"phone":"","datepicker":{"format":"M j, Y"},"search":{"breakpoints":{"small":650,"medium":850,"full":false}},"url":"https:\/\/www.cs.ucla.edu\/wp-content\/plugins\/events-manager","google_maps_api":"AIzaSyDZJSRZnuKAaEp3ewVQG7150J3502YcqFk","txt_search":"Search events","txt_searching":"Searching...","txt_loading":"Loading...","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash."};
+</script>
+<script src="https://www.cs.ucla.edu/wp-content/plugins/events-manager/includes/js/events-manager.min.js?ver=6.4.6.4" id="events-manager-js"></script>
+<script src="https://www.cs.ucla.edu/wp-content/themes/Divi-child/js/seas.js?ver=4.23.1" id="seas-js"></script>
+<script src="https://www.cs.ucla.edu/wp-content/themes/Divi-child/js/header_for_mobile.js?ver=4.23.1" id="script-js"></script>
+<script src="https://www.cs.ucla.edu/wp-content/themes/Divi-child/js/jquery.autocomplete.min.js?ver=6.4.2" id="autocomplete-js"></script>
+<script src="https://www.cs.ucla.edu/wp-content/themes/Divi-child/js/autocomplete.js?ver=6.4.2" id="autocomplete-js-js"></script>
+<link rel="https://api.w.org/" href="https://www.cs.ucla.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://www.cs.ucla.edu/wp-json/wp/v2/pages/28054" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.cs.ucla.edu/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.2" />
+<link rel="canonical" href="https://www.cs.ucla.edu/faculty-awards/" />
+<link rel='shortlink' href='https://www.cs.ucla.edu/?p=28054' />
+<link rel="alternate" type="application/json+oembed" href="https://www.cs.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cs.ucla.edu%2Ffaculty-awards%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.cs.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cs.ucla.edu%2Ffaculty-awards%2F&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /><script type="text/javascript">
+	jQuery(document).ready(function(){
+		jQuery('img[usemap]').rwdImageMaps();
+	});
+</script>
+<style type="text/css">
+	img[usemap] { max-width: 100%; height: auto; }
+</style>
+<style id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<meta name="google-site-verification" content="WNTqZ1-CEdvZ-4cit5QXCHwvwUGPcbu0vUtgKHUKwqw">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7D2VK3T7FB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7D2VK3T7FB', {cookie_flags: 'SameSite=None;Secure'});
+  jQuery(document).ready(function($) {
+	$(".et-pb-icon").attr('aria-hidden', 'true');
+	$(".et_pb_main_blurb_image").attr('aria-hidden', 'true');
+  });
+</script>
+<style id="et-critical-inline-css">body{color:#2b2b2b}h1,h2,h3,h4,h5,h6{color:#2b2b2b}body{line-height:1.6em}#et_search_icon:hover,.mobile_menu_bar:before,.mobile_menu_bar:after,.et_toggle_slide_menu:after,.et-social-icon a:hover,.et_pb_sum,.et_pb_pricing li a,.et_pb_pricing_table_button,.et_overlay:before,.entry-summary p.price ins,.et_pb_member_social_links a:hover,.et_pb_widget li a:hover,.et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active,.et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active,.et_pb_gallery .et_pb_gallery_pagination ul li a.active,.wp-pagenavi span.current,.wp-pagenavi a:hover,.nav-single a,.tagged_as a,.posted_in a{color:#ffd100}.et_pb_contact_submit,.et_password_protected_form .et_submit_button,.et_pb_bg_layout_light .et_pb_newsletter_button,.comment-reply-link,.form-submit .et_pb_button,.et_pb_bg_layout_light .et_pb_promo_button,.et_pb_bg_layout_light .et_pb_more_button,.et_pb_contact p input[type="checkbox"]:checked+label i:before,.et_pb_bg_layout_light.et_pb_module.et_pb_button{color:#ffd100}.footer-widget h4{color:#ffd100}.et-search-form,.nav li ul,.et_mobile_menu,.footer-widget li:before,.et_pb_pricing li:before,blockquote{border-color:#ffd100}.et_pb_counter_amount,.et_pb_featured_table .et_pb_pricing_heading,.et_quote_content,.et_link_content,.et_audio_content,.et_pb_post_slider.et_pb_bg_layout_dark,.et_slide_in_menu_container,.et_pb_contact p input[type="radio"]:checked+label i:before{background-color:#ffd100}.container,.et_pb_row,.et_pb_slider .et_pb_container,.et_pb_fullwidth_section .et_pb_title_container,.et_pb_fullwidth_section .et_pb_title_featured_container,.et_pb_fullwidth_header:not(.et_pb_fullscreen) .et_pb_fullwidth_header_container{max-width:1000px}.et_boxed_layout #page-container,.et_boxed_layout.et_non_fixed_nav.et_transparent_nav #page-container #top-header,.et_boxed_layout.et_non_fixed_nav.et_transparent_nav #page-container #main-header,.et_fixed_nav.et_boxed_layout #page-container #top-header,.et_fixed_nav.et_boxed_layout #page-container #main-header,.et_boxed_layout #page-container .container,.et_boxed_layout #page-container .et_pb_row{max-width:1000px}a{color:#0d4481}#main-header,#main-header .nav li ul,.et-search-form,#main-header .et_mobile_menu{background-color:#003b5c}#main-header .nav li ul{background-color:#205296}.et_secondary_nav_enabled #page-container #top-header{background-color:#ffd100!important}#et-secondary-nav li ul{background-color:#ffd100}.et_header_style_centered .mobile_nav .select_page,.et_header_style_split .mobile_nav .select_page,.et_nav_text_color_light #top-menu>li>a,.et_nav_text_color_dark #top-menu>li>a,#top-menu a,.et_mobile_menu li a,.et_nav_text_color_light .et_mobile_menu li a,.et_nav_text_color_dark .et_mobile_menu li a,#et_search_icon:before,.et_search_form_container input,span.et_close_search_field:after,#et-top-navigation .et-cart-info{color:#ffffff}.et_search_form_container input::-moz-placeholder{color:#ffffff}.et_search_form_container input::-webkit-input-placeholder{color:#ffffff}.et_search_form_container input:-ms-input-placeholder{color:#ffffff}#top-menu li a{font-size:13px}body.et_vertical_nav .container.et_search_form_container .et-search-form input{font-size:13px!important}#top-menu li.current-menu-ancestor>a,#top-menu li.current-menu-item>a,#top-menu li.current_page_item>a{color:#ffffff}#main-footer{background-color:rgba(13,68,129,0)}#main-footer .footer-widget h4,#main-footer .widget_block h1,#main-footer .widget_block h2,#main-footer .widget_block h3,#main-footer .widget_block h4,#main-footer .widget_block h5,#main-footer .widget_block h6{color:#ffd100}.footer-widget li:before{border-color:#ffd100}.bottom-nav,.bottom-nav a,.bottom-nav li.current-menu-item a{color:}#et-footer-nav .bottom-nav li.current-menu-item a{color:}#footer-bottom{background-color:rgba(0,0,0,0)}#footer-info,#footer-info a{color:#ffffff}#footer-info{font-size:13px}#footer-bottom .et-social-icon a{color:#ffffff}@media only screen and (min-width:981px){.et_pb_section{padding:0% 0}.et_pb_fullwidth_section{padding:0}.et_header_style_left #et-top-navigation,.et_header_style_split #et-top-navigation{padding:30px 0 0 0}.et_header_style_left #et-top-navigation nav>ul>li>a,.et_header_style_split #et-top-navigation nav>ul>li>a{padding-bottom:30px}.et_header_style_split .centered-inline-logo-wrap{width:60px;margin:-60px 0}.et_header_style_split .centered-inline-logo-wrap #logo{max-height:60px}.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap #logo{height:60px}.et_header_style_centered #top-menu>li>a{padding-bottom:11px}.et_header_style_slide #et-top-navigation,.et_header_style_fullscreen #et-top-navigation{padding:21px 0 21px 0!important}.et_header_style_centered #main-header .logo_container{height:60px}#logo{max-height:60%}.et_pb_svg_logo #logo{height:60%}.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container,.et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header .logo_container{height:10.8px}.et_header_style_left .et-fixed-header #et-top-navigation,.et_header_style_split .et-fixed-header #et-top-navigation{padding:30px 0 0 0}.et_header_style_left .et-fixed-header #et-top-navigation nav>ul>li>a,.et_header_style_split .et-fixed-header #et-top-navigation nav>ul>li>a{padding-bottom:30px}.et_header_style_centered header#main-header.et-fixed-header .logo_container{height:60px}.et_header_style_split #main-header.et-fixed-header .centered-inline-logo-wrap{width:60px;margin:-60px 0}.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{max-height:60px}.et_pb_svg_logo.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{height:60px}.et_header_style_slide .et-fixed-header #et-top-navigation,.et_header_style_fullscreen .et-fixed-header #et-top-navigation{padding:21px 0 21px 0!important}.et_fixed_nav #page-container .et-fixed-header#top-header{background-color:#205296!important}.et_fixed_nav #page-container .et-fixed-header#top-header #et-secondary-nav li ul{background-color:#205296}.et-fixed-header #top-menu a,.et-fixed-header #et_search_icon:before,.et-fixed-header #et_top_search .et-search-form input,.et-fixed-header .et_search_form_container input,.et-fixed-header .et_close_search_field:after,.et-fixed-header #et-top-navigation .et-cart-info{color:#ffffff!important}.et-fixed-header .et_search_form_container input::-moz-placeholder{color:#ffffff!important}.et-fixed-header .et_search_form_container input::-webkit-input-placeholder{color:#ffffff!important}.et-fixed-header .et_search_form_container input:-ms-input-placeholder{color:#ffffff!important}.et-fixed-header #top-menu li.current-menu-ancestor>a,.et-fixed-header #top-menu li.current-menu-item>a,.et-fixed-header #top-menu li.current_page_item>a{color:#ffffff!important}}@media only screen and (min-width:1250px){.et_pb_row{padding:25px 0}.et_pb_section{padding:0px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:75px}.et_pb_fullwidth_section{padding:0}}h1,h1.et_pb_contact_main_title,.et_pb_title_container h1{font-size:25px}h2,.product .related h2,.et_pb_column_1_2 .et_quote_content blockquote p{font-size:21px}h3{font-size:18px}h4,.et_pb_circle_counter h3,.et_pb_number_counter h3,.et_pb_column_1_3 .et_pb_post h2,.et_pb_column_1_4 .et_pb_post h2,.et_pb_blog_grid h2,.et_pb_column_1_3 .et_quote_content blockquote p,.et_pb_column_3_8 .et_quote_content blockquote p,.et_pb_column_1_4 .et_quote_content blockquote p,.et_pb_blog_grid .et_quote_content blockquote p,.et_pb_column_1_3 .et_link_content h2,.et_pb_column_3_8 .et_link_content h2,.et_pb_column_1_4 .et_link_content h2,.et_pb_blog_grid .et_link_content h2,.et_pb_column_1_3 .et_audio_content h2,.et_pb_column_3_8 .et_audio_content h2,.et_pb_column_1_4 .et_audio_content h2,.et_pb_blog_grid .et_audio_content h2,.et_pb_column_3_8 .et_pb_audio_module_content h2,.et_pb_column_1_3 .et_pb_audio_module_content h2,.et_pb_gallery_grid .et_pb_gallery_item h3,.et_pb_portfolio_grid .et_pb_portfolio_item h2,.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2{font-size:15px}h5{font-size:13px}h6{font-size:11px}.et_pb_slide_description .et_pb_slide_title{font-size:38px}.et_pb_gallery_grid .et_pb_gallery_item h3,.et_pb_portfolio_grid .et_pb_portfolio_item h2,.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2,.et_pb_column_1_4 .et_pb_audio_module_content h2{font-size:13px}@media only screen and (max-width:980px){#main-header,#main-header .nav li ul,.et-search-form,#main-header .et_mobile_menu{background-color:#3484bf}}	h1,h2,h3,h4,h5,h6{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif}body,input,textarea,select{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif}.et_pb_fullwidth_section .et_pb_slide_description{padding-top:32%;padding-bottom:32%}span.mobile_menu_bar:before{color:white!important}.seasnav>li>ul{border-top:2px solid rgb(50,132,191)}#top-menu>li>ul:before{border-bottom:20px solid rgb(50,132,191)}#main-content a{text-decoration:underline}a.icon,a.et_pb_button,.et_pb_video_play,.et_pb_button_module_wrapper a{text-decoration:none!important}</style>
+<link rel="preload" as="style" id="et-core-unified-deferred-28054-cached-inline-styles" href="https://www.cs.ucla.edu/wp-content/uploads/cs/et-cache/28054/et-core-unified-deferred-28054.min.css?ver=1707948909" onload="this.onload=null;this.rel='stylesheet';" /></head>
+<body class="page-template-default page page-id-28054 custom-background et_pb_button_helper_class et_fixed_nav et_show_nav et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns4 et_cover_background et_pb_gutter et_pb_gutters2 et_pb_pagebuilder_layout et_smooth_scroll et_no_sidebar et_divi_theme et-db">
+	<div id="page-container">
+
+	
+	
+			<header id="main-header" data-height-onload="60">
+			<div class="container clearfix et_menu_container">
+											<h1>
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://www.cs.ucla.edu/">
+						<img src="https://www.cs.ucla.edu/wp-content/uploads/cs/UCLA_Samueli_CS_rev-1.png" alt="CS" id="logo" data-height-percentage="60" />
+					</a>
+				</div>
+								</h1>
+										<div id="et-top-navigation" data-height="60" data-fixed-height="60">
+											<nav id="top-menu-nav" aria-label="main navigation">
+						<ul id="top-menu" class="nav et_disable_top_tier"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34058"><a target="_blank" rel="noopener" href="http://samueli.ucla.edu">SAMUELI</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27733"><a href="#">ABOUT</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27738"><a href="#">Samueli Computer Science 101</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27747"><a href="https://www.cs.ucla.edu/mission-statement/">Mission Statement</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27755"><a href="https://www.cs.ucla.edu/history/">History</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27745"><a target="_blank" rel="noopener" href="https://giving.ucla.edu/campaign/Donate.aspx?SiteNum=8&#038;Fund=60989O&#038;Code=M-XXXX">Support Our Mission (Giving)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27749"><a href="https://www.cs.ucla.edu/annual-reports/">Annual Reports</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27739"><a href="#">Resources</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27829"><a href="https://www.cs.ucla.edu/dept-forms/">Department Forms</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27765"><a href="https://www.cs.ucla.edu/resources-for-students/">Resources for Students</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27834"><a href="https://www.cs.ucla.edu/dcf-faqs/">Computing Facility</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-38076"><a href="#">Equity, Diversity and Inclusion</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35686"><a target="_blank" rel="noopener" href="https://samueli.ucla.edu/equity-diversity-and-inclusion/">Equity, Diversity and Inclusion</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38075"><a href="https://samueli.ucla.edu/breakthroughtech-ai-losangeles/">Break Through Tech AI</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38328"><a href="https://samueli.ucla.edu/ucla-samueli-covid-19-information/">UCLA Samueli COVID-19 Information</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27751"><a href="https://www.cs.ucla.edu/contact/">Contact Us</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27734"><a href="#">NEWS &amp; EVENTS</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28136"><a href="https://www.cs.ucla.edu/newsroom/">Newsroom</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27750"><a href="https://www.cs.ucla.edu/announcements/">Department Announcements</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27740"><a href="#">Events Calendar</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27938"><a href="https://www.cs.ucla.edu/events/">Upcoming Events</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27865"><a href="https://www.cs.ucla.edu/roomreservations/">Room Reservations</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27859"><a target="_blank" rel="noopener" href="https://www.cal.cs.ucla.edu/cgi-bin/webevent.cgi?cmd=calmonth&#038;ncmd=startup&#038;cal=cal2">Seminars</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28362"><a href="https://www.cs.ucla.edu/video-highlights/">Video Highlights</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27735"><a href="#">ACADEMICS</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27741"><a href="#">Undergraduate</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27867"><a target="_blank" rel="noopener" href="http://www.seasoasa.ucla.edu/admissions/undergraduate-admissions">Undergraduate Admissions</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27772"><a href="https://www.cs.ucla.edu/undergraduate-requirements/">Undergraduate Requirements</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27781"><a target="_blank" rel="noopener" href="https://www.admission.ucla.edu/prospect/applying.htm">Admission Schedule</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27742"><a href="#">Graduate</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27752"><a href="https://www.cs.ucla.edu/graduate-admissions/">Graduate Admissions</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38622"><a href="https://www.cs.ucla.edu/graduate-admission-frequently-asked-questions/">Graduate Admissions FAQ</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27753"><a href="https://www.cs.ucla.edu/graduate-requirements/">Graduate Requirements</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28072"><a href="https://www.cs.ucla.edu/graduate-student-handbook/">Graduate Student Handbook</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34535"><a href="https://www.cs.ucla.edu/graduate-office-newsletter/">Graduate Office Notices</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34887"><a href="https://www.cs.ucla.edu/graduate-student-welfare/">Graduate Student Welfare</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27780"><a target="_blank" rel="noopener" href="https://sa.ucla.edu/ro/public/soc">Course Homepages</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27736"><a href="#">RESEARCH</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27760"><a href="https://www.cs.ucla.edu/research-areas/">Research Areas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27761"><a href="https://www.cs.ucla.edu/research-centers/">Research Centers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27762"><a href="https://www.cs.ucla.edu/research-labs/">Research Labs</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28304"><a target="_blank" rel="noopener" href="https://www.seasoasa.ucla.edu/urp/">Undergraduate Research</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28064"><a href="https://www.cs.ucla.edu/graduate-research/">Graduate Research</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28326"><a href="https://www.cs.ucla.edu/technical-reports/">Technical Reports</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27737"><a href="#">PEOPLE</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27743"><a href="#">Faculty</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27939"><a target="_blank" rel="noopener" href="https://samueli.ucla.edu/search-faculty/#cs">Faculty</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34375"><a href="https://samueli.ucla.edu/ucla-engineering-welcomes-five-new-computer-science-faculty-members/?utm_source=sfmc&#038;utm_medium=email&#038;utm_campaign=EN+-+JULY+2023+-+20230717_110240&#038;utm_term=https%3a%2f%2fsamueli.ucla.edu%2fucla-engineering-welcomes-five-new-computer-science-faculty-members%2f&#038;utm_id=1654915&#038;sfmc_id=376259034">New Faculty</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28565"><a href="https://www.cs.ucla.edu/faculty-recruitment-academic-and-staff-positions/">Academic Recruitment &#8211; Faculty, Research, Lecturer, &amp; Postdoctoral</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27937"><a href="https://www.cs.ucla.edu/lecturers/">Lecturers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27768"><a href="https://www.cs.ucla.edu/staff/">Staff</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38605"><a href="https://www.cs.ucla.edu/cs-clubs-and-associations/">Clubs and Associations</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27748"><a href="https://www.cs.ucla.edu/alumni/">Alumni</a></li>
+</ul>
+</li>
+</ul>						</nav>
+					
+										<button id="seas-search-icon" tabindex="0" aria-label="Open Search Box"></button>
+
+					
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+
+<div id="inline-search" class="inline-search toggled">
+<div class="inline-search-wrap" style="display:none">
+					<form role="search" method="get" class="search-form" action="/search">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search this site... " value="" name="q" title="Search for:">
+	</label>
+	<div id="search-buttons">
+	<input type="submit" class="search-submit" value="Search">
+	<button id="search-close" aria-label="Close Search Box">X</button>
+	</div>
+</form>				</div>
+</div>
+		</header> <!-- #main-header -->
+			<div id="et-main-area" role="main">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-28054" class="post-28054 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters2">
+		<div class="et_pb_section et_pb_section_0 et_pb_fullwidth_section et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_fullwidth_image et_pb_fullwidth_image_0">
+				
+				
+				
+				
+				<img fetchpriority="high" decoding="async" width="2000" height="420" src="https://www.cs.ucla.edu/wp-content/uploads/cs/exterior_.jpg" alt="" title="" srcset="https://www.cs.ucla.edu/wp-content/uploads/cs/exterior_.jpg 2000w, https://www.cs.ucla.edu/wp-content/uploads/cs/exterior_-150x32.jpg 150w, https://www.cs.ucla.edu/wp-content/uploads/cs/exterior_-300x63.jpg 300w, https://www.cs.ucla.edu/wp-content/uploads/cs/exterior_-1024x215.jpg 1024w, https://www.cs.ucla.edu/wp-content/uploads/cs/exterior_-1080x227.jpg 1080w" sizes="(max-width: 2000px) 100vw, 2000px" class="wp-image-28225" />
+			
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_1 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_0">
+				
+				
+				
+				
+				<div class="et_pb_code_inner"><script>
+main_active_menu = 'PEOPLE';
+content_type = 'page';
+</script>
+</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_2 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_1 seastab-row et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>
+Faculty Awards</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_3 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_2 et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module dtm_vertical_timeline dtm_vertical_timeline_0">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_module_inner">
+					 <div  class="et_pb_module  dtm_vertical_timeline_0">
+					<section id="cd-timeline" class="cd-container">    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_0">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2023</h2>
+								<p>ACM Fellow —Stefano SoattoIEEE Fellow —Wei Wang<br />
+IEEE Fellow —Leonard Kleinrock<br />
+Google Research Scholar Award —Nanyun (Violet) Peng<br />
+NSF CAREER Award —Omid Abari<br />
+ICSME Most Influential Paper Award —Miryung Kim<br />
+UCLA Samueli Excellence in Teaching Award —Jens Palsberg<br />
+10-Year Retrospective Most Influential Paper Award, DAC—Jason Cong<br />
+IACR Test of Time Award—Amit Sahai<br />
+FOCS Test of Time Award—Amit Sahai<br />
+Okawa Foundation Research Award —Nanyun (Violet) Peng<br />
+ChipEX Global Industry Leader Award—Jason Cong<br />
+SDM / IBM Early Career Data Mining Research Award—Yizhou Sun<br />
+TODAES Best Paper Award—Jason Cong<br />
+Program Committee Chair | FOCS—Amit Sahai<br />
+FOCS Best Paper Award—Raghu Meka<br />
+Intel&#8217;s Rising Star Faculty Award—Bolei Zhou<br />
+Omidyar Network Award—Lixia Zhang<br />
+UCLA Distinguished Teaching Award—Carey Nachenberg<br />
+IEEE Intelligent Systems Top 10 AI Rising Stars—Yizhou Sun<br />
+<span style="font-weight: 400">Canadian Human-Computer Communications Society (CHCCS) Achievement Award— Demetri Terz</span><span style="font-weight: 400">opoulos</span><br />
+Chinese Association for Science &amp; Technology Outstanding Scientist Award—Jason Cong<br />
+American Mathematical Society Fellow—Amit Sahai<br />
+Forbes (Science Category) 30 under 30 list—Aditya Grover—Saadia Gabriel</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_1">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2022</h2>
+								<p>National Academy of Sciences Michael &amp; Sheila Held Prize—Amit Sahai<br />
+Sloan Research Fellow —Quanquan Gu<br />
+American Academy of Arts and Sciences Member —George Varghese<br />
+NSF CAREER Award —Baharan Mirzasoleiman<br />
+Norman E. Friedmann Chair in the Knowledge Sciences—Rafail Ostrovsky<br />
+IEEE Robert N. Noyce Medal—Jason Cong<br />
+IEEE Computer Society Wallace McDowell Award—Rafail Ostrovsky<br />
+ACM SIGSOFT Influential Educator Award —Miryung Kim<br />
+Cisco Faculty Research Award—Rafail Ostrovsky<br />
+Samsung AI Researcher of the Year Award—Aditya Grover<br />
+OSDI Jay Lepreau Best Paper Award—Harry Xu<br />
+BBVA Frontier of Science Award —Judea Pearl<br />
+FPGA Best Paper Award—Jason Cong<br />
+FPGA &amp; Reconfigurable Computing Hall of Fame—Jason Cong<br />
+ICCAD Keynote Lecturer—Jason Cong<br />
+Eurocrypt Best Paper Award—Rafail Ostrovsky<br />
+NAACL Paper Award—Nanyun Peng<br />
+VLDB Test of Time Award—Yizhou Sun<br />
+Free Software Award—Paul Eggert<br />
+Computer History Museum Fellow—Leonard Kleinrock<br />
+6G Pioneer Award—Leonard Kleinrock</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_2">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2021</h2>
+								<p>US National Academy of Engineering (NAE) Member—Majid Sarrafzadeh<br />Google Research Award—Kai-Wei Chang—Cho-Jui Hsieh<br />ACM Fellow—Rafail Ostrovsky<br />AAAS Fellow—Rafail Ostrovsky<br />Sloan Fellowship—Kai-Wei Chang, Ravi Netravali<br />NSF CAREER Award—Cho-Jui Hsieh<br />Simons Investigator Award—Amit Sahai<br />Intel Outstanding Researcher Award—Guy Van den Broeck<br />SIGMICRO Test of Time Award—Glenn Reinman<br />International Society for Computational Biology Fellowship—Eran Halperin<br />FPGA Best Paper Award—Jason Cong<br />Senate Distinguished Teaching Award—Alexander Sherstov<br />ICLR Outstanding Paper Award—Cho-Jui Hsieh<br />SIGPLAN Distinguished Paper Award—Jens Palsberg<br />VNN-COMP | Verification Of Neural Networks Competition Award—Cho-Jui Hsieh<br />JP Morgan Chase Faculty Award—Rafail Ostrovsky—Violet Peng<br />NeurIPS Outstanding Paper Award—Aditya Grover<br />Internet Hall of Fame Member—George Varghese<br />Internet Hall of Fame Member—Lixia Zhang<br />Okawa Foundation Research Award—Cho-Jui Hsieh<br />Inaugural Fellow of the Asia-Pacific Artificial Intelligence Association (AAIA)—Demetri Terzopoulos<br />Founding Member of the Hellenic Institute of Advanced Studies (HIAS)—Demetri Terzopoulos</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_3">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2020</h2>
+								<p>Fellow of National Academy of Inventors—Jason Cong<br />Fellow of National Academy of Inventors—George Varghese<br />IEEE Computer Pioneer Award—Demetri Terzopoulos<br />ACM SIGCOMM Lifetime Achievement For Networking Award—Lixia Zhang<br />ACM Fellow—Wei Wang<br />Alfred P. Sloan Research Fellow—Guy Van den Broeck<br />Carnegie Corporation of New York Great Immigrant Honoree—Judea Pearl<br />UCLA Medal—Len Kleinrock<br />NSF CAREER Award—Ravi Netravali<br />NSF CAREER Award—Sriram Sankararaman<br />NSF CAREER Award—Guy Van den Broeck<br />Amazon Research Award—Yizhou Sun<br />IACR Test of Time Award—Amit Sahai<br />ICSME Most Influential Paper Award—Miryung Kim<br />SIGPLAN Distinguished Paper Award—Guy Van den Broeck—Todd Millstein<br />OOPSLA Best Paper Award—Todd Millstein<br />PLDI Best Paper Award—Todd Millstein<br />SIGCOMM Best Paper Award—Todd Millstein, George Varghese<br />ACM Bioinformatics, Computational Biology, and Health Informatics Best Student Paper<br />Award—Yizhou Sun, Carlo Zaniolo, Wei Wang<br />Google Faculty Award—Rafail Ostrovsky<br />JP Morgan Chase Faculty Award—Rafail Ostrovsky<br />Distinguished Fellow of the International Engineering and Technology Institute (IETI)—Demetri Terzopoulos</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_4">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2019</h2>
+								<p>Semiconductor University Research Award—Jason Cong<br />IJCAI Computers and Thought Award—Guy Van den Broeck<br />US National Academy of Inventors (NAI) member—Len Kleinrock<br />Key to the City of Los Angeles—Len Kleinrock<br />Academia Europaea Member—Rafail Ostrovsky<br />ACM Fellow—Songwu Lu<br />ACM Fellow—Carlo Zaniolo<br />International Society for Computational Biology Fellow—Eleazar Eskin<br />IACR Fellow—Amit Sahai<br />American Statistical Association Fellow—Judea Pearl<br />CESASC Achievement Award—Jason Cong<br />Samsung AI Researcher of the Year Award—Cho-Jui Hsieh<br />Donald O. Pederson Best Paper Award—Jason Cong<br />William J. McCalla ICCAD Best Paper Award—Jason Cong<br />ACM SoCC Best Paper Award—Ravi Netravali<br />FPGA Best Paper Award—Jason Cong<br />Okawa Foundation Research Award—Yizhou Sun<br />JP Morgan Chase Faculty Award—Rafail Ostrovsky<br />Foreign Member of Academia Europea—Rafail Ostrovsky</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_5">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2018</h2>
+								<p>Excellence in the Field of Mathematics Award—Rafail Ostrovsky<br />IEEE INFOCOM Achievement Award—Mario Gerla<br />Jean-Claude Laurie in Dependable Computing Award—Algirdas Avizienis<br />ACM Fellow—Adnan Darwiche<br />ACM Fellow—Mario Gerla<br />ACM Fellow—Amit Sahai<br />NSF Career Award—Tony Nowatzki<br />Honorary Doctorate from Yale University—Judea Pearl<br />ISLPED 2018 Best Paper Award—Jason Cong<br />Vehicle Communication Magazine – Best Paper Award—Mario Gerla<br />Lockheed Martin Excellence in Teaching Award—Adnan Darwiche<br />Okawa Foundation Research Award—Kai-Wei Chang<br />RSA Conference Excellence in the field of mathematics lifetime achievement award—Rafail Ostrovsky<br />CCNY President&#8217;s Leadership Award—Leonard Kleinrock</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_6">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2017</h2>
+								<p>US National Academy of Engineering (NAE) Member—Jason Cong<br />
+US National Academy of Engineering (NAE) Member—George Varghese<br />
+Dijkstra Prize—Eli Gafni<br />
+Alfred P. Sloan Research Fellow—Sriram Sankararaman<br />
+ACM Fellow—Mani Srivastava<br />
+IEEE Fellow—Rafail Ostrovsky<br />
+Sells Award for Distinguished Multivariate Research—Judea Pearl<br />
+American Mathematical Society Member—Judea Pearl<br />
+IEEE Computer Society Technical Achievement Award—Rafail Ostrovsky<br />
+NSF CAREER Award—Quanquan Gu<br />
+ACM SIGNA Induction into the: TCFPGA Hall of Fame—Jason Cong<br />
+10-Year Retrospective Most Influential Paper Award, DAC—Jason Cong<br />
+Best Long Paper Award, EMNLP—Kai-Wei Chang<br />
+MEMSYS 2017 Best Paper Award—Jason Cong<br />
+MEMSYS 2017 Best Paper Award—Glenn Reinman<br />
+ACM SIGGRAPH Conference on Motion in Games Best Paper Award—Demetri Terzopoulos<br />
+Okawa Foundation Research Award—Sriram Sankararaman<br />
+UCLA Hellman Award—Sriram Sankararaman<br />
+Faculty in Residence—Faculty of the Year Award—Miryung Kim</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_7">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2016</h2>
+								<p>NSF CAREER Award—Raghu Mekka<br />
+ACM-Test-of-Time Award—Amit Sahai<br />
+IEEE Fellow—Songwu Lu<br />
+IEEE Computer Society Technical Achievement Award—Jason Cong<br />
+SIGMOBILE Inaugural Test of Time Award—Leonard Kleinrock<br />
+Honorary Doctorate of Science, New Jersey Institute of Technology—Leonard Kleinrock</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_8">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2015</h2>
+								<p>NSF Career Award—Yizhou Sun<br />Okawa Foundation Research Award—Miryung Kim<br />Yahoo! Academic Career Enhancement Award—Quanquan Gu<br />BBVA Foundation Frontiers of Knowledge Award—Leonard Kleinrock<br />UCLA Dickson Emeritus Professorship Award—Leonard Kleinrock<br />(CIPPRS) Canadian Image Processing and Pattern Recognition Society &#8211; Lifetime Achievement Award for Research Excellence—Demetri Terzopoulos</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_9">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2014</h2>
+								<p>NSF CAREER Award—Tyson Condie<br />Honorary Doctorate, Texas A&amp;M University—Judea Pearl<br />Alfred P. Sloan Research Fellowship—Alexander Sherstov<br />Northrop Grumman Excellence in Teaching—Alexander Sherstov<br />Carl Friedrich Gauss Prize—Stanley Osher<br />Fellow of the Royal Society of London—Demetri Terzopoulos<br />National Academy of Sciences Member—Judea Pearl<br />Jet Propulsion Laboratory Fellow—Leon Alkalai<br />SIGMOBILE Outstanding Contributions Award—Leonard Kleinrock<br />UCLA Dickson Emeritus Professorship Award—Leonard Kleinrock</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_10">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2013</h2>
+								<p>Prolific Author Award, DAC—Jason Cong<br />
+Distinguished Alumni Educator Award, UIUC—Milos Ercegovac<br />
+Sloan Research Fellowship—Jason Ernst<br />
+Honorary Doctorate, Concordia University, Canada—Leonard Kleinrock<br />
+Distinguished Alumni Award, NY University Polytechnic—Judea Pearl<br />
+Helmholtz Test-of-Time Awards, IEEE—Demetri Terzopoulos—Song-Chun Zhu—Alan Yuille<br />
+Distinguished Visiting Professor of Computer Science, Technion Israel Inst. of Technology—Judea Pearl<br />
+IACR Fellow—Rafail-Ostrovsky<br />
+IEEE Fellow—Stefano Soatto</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_11">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2012</h2>
+								<p>Jean-Claude Laprie Award in Dependable Computing—Algirdas Avizienis<br />
+IBM Faculty Award—Jason Cong<br />
+Lockheed Martin Excellence in Teaching Award—Paul Eggert<br />
+Honorary Doctorate, Computer Science, DePaul University—Alan Kay<br />
+Pazy Memorial Research Award—Rafail Ostrovsky, Amit Sahai<br />
+NSF CAREER Award—Alexander Sherstov<br />
+Presidential Early Career Award—Jennifer Wortman Vaughan<br />
+ACM SIGPLAN Service Award—Jens Palsberg<br />
+Alexander Graham Bell Medal—Leonard Kleinrock<br />
+Harvey Prize in Science and Technology—Judea Pearl<br />
+IEEE Outstanding Service Award—Wei Wang<br />
+Internet Hall of Fame Award—Leonard Kleinrock<br />
+Best Tutorial Paper Award for 5-year period from 2006-2010—Leonard Kleinrock<br />
+NASA Exceptional Achievement Award—Leon Alkalai<br />
+Turing Award—Judea Pearl</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_12">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2011</h2>
+								<p>Keck Futures Initiative Award, National Academies—Demetri Terzopoulos<br />
+Symantec Term Chair in Computer Science—Jennifer Wortman Vaughan<br />
+NSF CAREER Award—Miryung Kim<br />
+ACM SIGPLAN Award—Todd Millstein and Rupak Majumdar<br />
+ACM | IEEE A. Richard Newton Technical Impact Award in EDA—Jason Cong<br />
+Artificial Intelligence Hall Of Fame Award—Judea Pearl<br />
+IEEE Communications Society Technical Recognition Award—Mario Gerla<br />
+MILCOM Technical Achievement Award—Mario Gerla<br />
+Okawa Foundation Research Award—Demetri Terzopoulos<br />
+ACM Fellow—David Heckerman<br />
+Rumelhart Prize—Judea Pearl<br />
+Cognitive Science Society Fellow—Judea Pearl<br />
+Quantum Information Processing (QIP) 2011 plenary talk—Rafail Ostrovsky<br />
+Ubicomm Best Paper Award—Leonard Kleinrock<br />
+Eta Kappu Nu Eminent Member Award—Leonard Kleinrock</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_13">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2010</h2>
+								<p>Google Focused Research Award—Deborah Estrin<br />Honorary Doctorate, University of Murcia, Spain—Alan Kay<br />Honorary Doctorate of Science, Technion-Israel Institute of Technology—Leonard Kleinrock<br />Sloan Research Fellowship—Rupak Majumdar<br />Technology Innovation Award, Wall Street Journal—Carey Nachenberg<br />Rethinking Encryption Award, Google—Amit Sahai<br />NSF CAREER Award—Jennifer Wortman Vaughan<br />Symposium on Principles of Distributed Computing Honor—Eli Gafni<br />Dan David Prize—Leonard Kleinrock<br />IEEE Circuits &amp; System Award—Jason Cong<br />Hellenic Artificial Intelligence Society Member—Demetri Terzopoulos<br />IEEE Fellow—Song-Chun Zhu</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_14">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2009</h2>
+								<p>Lockheed Martin Excellence in Teaching Award—Milos Ercegovac<br />
+Sloan Research Fellowship—Eleazar Eskin<br />
+Northrop Grumman Prize for Best Publication Record—Mario Gerla<br />
+Honorary Doctorate, Informatics/Computer Science—Kyoto University—Alan Kay<br />
+Guggenheim Fellowship—Demetri Terzopoulos<br />
+NSF Career Award—Zhuowen Tu<br />
+IEEE Internet Award—Lixia Zhang<br />
+NAE Member—Deborah Estrin<br />
+AAAS Fellow—Stanley Osher<br />
+SIAM Member—Stanley Osher</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_15">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2008</h2>
+								<p>Doctorate Honoris Causa, Swiss Federal Institute of Technology—Deborah Estrin<br />
+Honorary Doctorate, Mathematics, Univ. of Waterloo, Canada—Alan Kay<br />
+IBM Faculty Award—Todd Millstein<br />
+Honorary Doctor of Humane Letters, Chapman University—Judea Pearl<br />
+Lockheed Martin Excellence in Teaching Award—David Smallberg<br />
+Aggarwal Prize Award—Song-Chun Zhu<br />
+Benjamin Franklin Medal—Judea Pearl<br />
+National Medal of Science—Leonard Kleinrock<br />
+Okawa Foundation Research Award—Eleazar Eskin<br />
+Okawa Foundation Research Award—Amit Sahai<br />
+IAA Member—Leon Alkalai<br />
+IEEE Fellow—Mani Srivastava<br />
+ACM Fellow—Jason Cong<br />
+IEEE Fellow—Alan Yuille<br />
+ACM Fellow—Alan Kay<br />
+COCOON-2008 Best Paper—Rafail Ostrovsky</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_16">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2007</h2>
+								<p>IBM Faculty Award—Jason Cong<br />
+Honoris Causa Degree in Informatics, University of Pisa—Alan Kay<br />
+Sloan Research Fellowship—Eddie Kohler<br />
+Presidential Early Career Award for Scientists &amp; Engineers—Eddie Kohler<br />
+Honorary Doctor of Science, University of Toronto—Judea Pearl<br />
+IEEE PAMI-TC Computer Vision Distinguished Researcher Award—Demetri Terzopoulos<br />
+International SAT Competition, First Place Gold Medal—Adnan Darwiche<br />
+AAAS Fellow—Deborah Estrin<br />
+Women of Vision Award | Anita Borg Institute—Deborah Estrin<br />
+ACM Fellow—Demetri Terzopoulos<br />
+AAAI Fellow—Adnan Darwiche<br />
+Lockheed-Martin Corporation Research Award—Rafail Ostrovsky<br />
+Honorary Doctorate of Humane Letters, University of Judaism—Leonard Kleinrock</p>
+<p> </p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_17">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2006</h2>
+								<p>New Faculty Fellowship Award—Eddie Kohler<br />NSF CAREER Awards—Eddie Kohler, Rupak Majumdar, Todd Millstein<br />Honorary Doctorate, Georgia Tech—Alan Kay<br />New Faculty Fellowship Award, Micrrosoft Research—Eddie Kohler<br />Northrop Grumman Excellence in Teaching Award—John Cho<br />Inventor Recognition Award, Semiconductor Corp—Jason Cong<br />IBM Faculty Award—Jason Cong<br />Young Innovator Award, MIT Technology Review—Eddie Kohler<br />IBM Faculty Award—Rafail Ostrovsky<br />Xerox Corporation Faculty Awards—Rafail Ostrovsky<br />IBM Faculty Award—Jens Palsberg<br />Purpose Prize, Civic Ventures—Judea Pearl<br />Academy Award—Demetri Terzopoulos<br />ACM-W Athena Lecturer Award—Deborah Estrin<br />ACM SIGMETRICS Achievement Award—Richard Muntz<br />Computer &amp; Communications Prize—Leonard Kleinrock<br />Israeli Software Industry Pioneer Award—Gerald Estrin<br />Okawa Foundation Research Award—John Cho<br />Okawa Foundation Research Award—Milos Ercegovac<br />Fellow of the Royal Society of Canada—Demetri Terzopoulos<br />ACM Fellow—Lixia Zhang<br />ACM Test of Time Award—Leonard Kleinrock</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_18">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2005</h2>
+								<p>Lockheed Martin Excellence in Teaching Award—Richard Korf<br />
+“Professor of the Year” from the Engineering Society of UC—David Smallberg<br />
+Honorary Laurea Doctorate in Ingegneria Telematica, Turin Polytechnic—Leonard Kleinrock<br />
+Teradata Faculty Award—Rafail Ostrovsky<br />
+DARPA special commendation for outstanding achievement—Rajive Bagrodia<br />
+Election to the Internet Architecture Board—Lixia Zhang<br />
+Honorary Laureate Degree, University of Bologna—Leonard Kleinrock<br />
+IBM Faculty Award—John Cho<br />
+Okawa Foundation Research Award—Majid Sarrafzadeh<br />
+Okawa Foundation Research Award—Songwu Lu<br />
+Okawa Foundation Research Award—Jason Cong<br />
+NAS Member—Stanley Osher<br />
+IEEE Fellow—Lixia Zhang<br />
+Xerox Corporation Faculty Award—Rafail Ostrovsky</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_19">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2004</h2>
+								<p>Northrop Grumman Award for Teaching—Glenn Reinman<br />
+Lockheed Martin Award for Teaching—Joe DiStefano<br />
+Draper Prize—Alan Kay<br />
+Kyoto Prize—Alan Kay<br />
+OKAWA Foundation Research Award—Rafail Ostrovsky</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_20">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2003</h2>
+								<p>UCLA Distinguished Teaching Award—Joe DiStefano<br />
+Harvey Eby for Art of Teaching Award—Joe DiStefano<br />
+ACM-AAAI Allen Newell Award—Judea Pearl<br />
+David Marr Prize-Alan Yuille<br />
+David Marr Prize-Song-Chun Zhu<br />
+IEEE Computer Society Technical Achievement Award-Wesley Chu<br />
+AAAS Fellow-Leonard Kleinrock<br />
+Serbian Academy of Sciences and Arts Member-Milos Ercegovac<br />
+Turing Award-Alan Kay<br />
+IEEE Fellow-Milos Ercegovac<br />
+IEEE Fellow-Mario Gerla</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_21">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2002</h2>
+								<p>ACM Fellow—George Varghese<br />Alfred P. Sloan Research Fellow—Amit Sahai<br />Informs Fellow—Leonard Kleinrock<br />Inaugural Member of The European Academy of Sciences—Demetri Terzopoulos</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_22">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							
+							<div class="cd-timeline-content-liner ">
+								<h2>2001</h2>
+								<p>NAE Charles Stark Draper Prize—Leonard Kleinrock<br />Okawa Prize—Leonard Kleinrock<br />IEEE Fellow—Jason Cong<br />IEEE Fellow—Demetri Terzopoulos</p>
+
+							</div>
+							
+						    </div>
+					    </div>    <div id="" class="cd-timeline-block  dtm_vertical_timeline_item_23">
+						    <div class="cd-timeline-img" style=""><span class="et-pb-icon et-pb-icon-circle" style=""></span></div>
+			    
+						    <div class="cd-timeline-content">
+							<span class="cd-date">2000</span>
+							<div class="cd-timeline-content-liner ">
+								<h2>2000</h2>
+								<p><span style="font-weight: 400">ACM Fellow—Leonard Kleinrock</span><br /><span style="font-weight: 400">ACM Fellow—Deborah Estrin</span><br />IEEE Internet Award <strong><span style="font-weight: 400">—Leonard Kleinrock</span></strong><br /><span style="font-weight: 400">Honorary Doctorate, Science, Univ. of Massachusetts—Leonard Kleinrock</span></p>
+
+							</div>
+							
+						    </div>
+					    </div></section>
+				    </div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</div>
+						</div>
+
+				
+				</article>
+
+			
+
+</div>
+
+
+	<span class="et_pb_scroll_top et-pb-icon"></span>
+
+
+			<footer id="main-footer">
+				
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<div id="footer-logo">
+					<a href="https://samueli.ucla.edu/engineerchange/" target="_blank"><img src="/wp-content/uploads/samueli/engineer-change-tagline.png" alt="Engineer Change." width="200px"></a><br>
+				</div>
+				<ul class="et-social-icons" aria-label="socialmedia-menu">
+
+	<li class="et-social-icon et-social-facebook">
+		<a href="https://www.facebook.com/UCLAComputerScience/" class="icon" aria-label="Link to Facebook" rel="noopener" target="_blank">
+			<span>Facebook</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-twitter">
+		<a href="https://twitter.com/UCLAComSci" class="icon" aria-label="X" rel="noopener" target="_blank">
+			<span>X</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-instagram">
+		<a href="https://www.instagram.com/uclacomputerscience/" class="icon" aria-label="Instagram" rel="noopener" target="_blank">
+			<span>Instagram</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-linkedin">
+		<a href="https://www.linkedin.com/company/ucla-computer-science" class="icon" aria-label="Linkedin" rel="noopener" target="_blank">
+			<span>Linkedin</span>
+		</a>
+	</li>
+
+</ul>
+					</div>	<!-- .container -->
+					<div class="container clearfix">
+					<div id="footer-copyright">
+						&copy; <span style="font-style: italic;">Copyright 2024 UCLA Samueli School Of Engineering</span>
+					</div>	<!-- .container -->
+					<div id="footer-menu-wrapper">
+						<ul class="footer-menu">
+						<li><a aria-label="Contact Us" href="/contact">Contact Us</a></li>
+						<li><a target="_blank" aria-label="Accessibility" rel="noopener" href="http://www.ucla.edu/accessibility">Accessibility</a></li>
+						<li><a target="_blank" aria-label="Terms of Use" rel="noopener" href="https://samueli.ucla.edu/terms-of-use">Terms of Use</a></li>
+						<li><a target="_blank" aria-label="Safety First" rel="noopener" href="https://samueli.ucla.edu/safety-first">Safety First</a></li>
+						<li><a target="_blank" aria-label="UCLA" rel="noopener" href="http://www.ucla.edu">UCLA</a></li>
+						</ul>
+					</div>	<!-- #footer-menu-wrapper -->
+<!-- cookie consent -->
+<!-- cookie consent -->
+			</div>
+			</div>
+
+
+
+
+			</div>
+
+
+			</div>
+					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.cs.ucla.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2' media='none' onload="media='all'" />
+<script src="https://www.cs.ucla.edu/wp-content/plugins/responsive-image-maps/jquery.rwdImageMaps.min.js?ver=1.5" id="jQuery.rwd_image_maps-js"></script>
+<script id="divi-custom-script-js-extra">
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.cs.ucla.edu\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.cs.ucla.edu\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.cs.ucla.edu\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"110a308d7a","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"fe59ea305a","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"28054","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https:\/\/www.cs.ucla.edu\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#ffd100","waypoints_options":[]};
+var et_pb_box_shadow_elements = [];
+</script>
+<script src="https://www.cs.ucla.edu/wp-content/themes/Divi/js/scripts.min.js?ver=4.23.1" id="divi-custom-script-js"></script>
+<script src="https://www.cs.ucla.edu/wp-content/themes/Divi/js/smoothscroll.js?ver=4.23.1" id="smoothscroll-js"></script>
+<script src="https://www.cs.ucla.edu/wp-content/plugins/divi_module_timeline/scripts/frontend-bundle.min.js?ver=1.0.0" id="divi_module_timeline-frontend-bundle-js"></script>
+<script src="https://www.cs.ucla.edu/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.6" id="page-links-to-js"></script>
+<script id="heateor_sss_sharing_js-js-before">
+function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'https://www.cs.ucla.edu/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://www.cs.ucla.edu/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://www.cs.ucla.edu/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 1;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")}
+</script>
+<script src="https://www.cs.ucla.edu/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=3.3.56" id="heateor_sss_sharing_js-js"></script>
+<script src="https://www.cs.ucla.edu/wp-content/themes/Divi/core/admin/js/common.js?ver=4.23.1" id="et-core-common-js"></script>
+<script id="divi-accessibility-da11y-js-extra">
+var _da11y = {"version":"2.0.1","active_outline_color":"#2ea3f2"};
+</script>
+<script src="https://www.cs.ucla.edu/wp-content/plugins/divi-accessibility-master/public/js/da11y.js?ver=2.0.1" id="divi-accessibility-da11y-js"></script>
+<script id="divi-accessibility-da11y-js-after">
+jQuery(document).ready(function(e){var n,a;function s(){const n=e(".et_search_form_container");n.hasClass("et_pb_is_animating")||(e(".et_menu_container").removeClass("et_pb_menu_visible et_pb_no_animation").addClass("et_pb_menu_hidden"),n.removeClass("et_pb_search_form_hidden et_pb_no_animation").addClass("et_pb_search_visible et_pb_is_animating"),setTimeout(function(){e(".et_menu_container").addClass("et_pb_no_animation"),n.addClass("et_pb_no_animation").removeClass("et_pb_is_animating")},1e3),n.find("input").focus(),function(){const n=e(".et_search_form_container"),a=e("body");if(n.hasClass("et_pb_search_visible")){const s=e("#main-header").innerHeight(),i=e("#top-menu").width(),t=e("#top-menu li a").css("font-size");n.css({height:s+"px"}),n.find("input").css("font-size",t),a.hasClass("et_header_style_left")?n.find("form").css("max-width",i+60):n.css("max-width",i+60)}}())}e(".menu-item-has-children").find("a")&&(e(".menu-item-has-children").find("a").addClass("da11y-submenu"),e(".menu-item-has-children").find("a").not(".sub-menu a").attr("aria-expanded","false")),e(".da11y-submenu").on("focus",function(){e(this).not(".sub-menu a").attr("aria-expanded","true"),e(this).siblings(".sub-menu").addClass("da11y-submenu-show"),e(this).trigger("mouseenter")}),e("body").on("keydown",".menu-item-has-children a",function(e){n=e.which,a=e.shiftKey}),e(".menu-item-has-children a").on("focusout",function(){9==n&&(a||e(this).parent().not(".menu-item-has-children").is(":last-child")&&e(this).parents(".menu-item-has-children").children(".da11y-submenu").attr("aria-expanded","false").trigger("mouseleave").siblings(".sub-menu").removeClass("da11y-submenu-show"))}),e(this).keyup(function(){e(".et-search-field").focus(function(){s()}).blur(function(){e(".et_search_form_container").hasClass("et_pb_is_animating")||(e(".et_menu_container").removeClass("et_pb_menu_hidden et_pb_no_animation").addClass("et_pb_menu_visible"),e(".et_search_form_container").removeClass("et_pb_search_visible et_pb_no_animation").addClass("et_pb_search_form_hidden et_pb_is_animating"),setTimeout(function(){e(".et_menu_container").addClass("et_pb_no_animation"),e(".et_search_form_container").addClass("et_pb_no_animation").removeClass("et_pb_is_animating")},1e3))})})});
+
+jQuery(document).ready((function(t){!function(e){const n='<a href="'+e+'" class="skip-link da11y-screen-reader-text">Skip to content</a>';t(e).attr("tabindex",-1),t("body").prepend(n)}("#main-content"),t('a[href^="#"]').click((function(){t("#"+t(this).attr("href").slice(1)).focus()}))}));
+jQuery(document).ready((function(e){let n=new Date,o=new Date;e(this).on("focusin",(function(t){e(".keyboard-outline").removeClass("keyboard-outline"),o<n&&e(t.target).addClass("keyboard-outline")})),e(this).on("mousedown",(function(){o=new Date})),e(this).on("keydown",(function(){n=new Date}))}));
+jQuery(document).ready((function(t){t(".et_pb_toggle").each((function(){t(this).attr("tabindex",0)})),t(".et_pb_toggle").on("keydown",(function(t){32===t.which&&t.preventDefault()})),t(document).on("keyup",(function(e){13!==e.which&&32!==e.which||t(".et_pb_toggle:focus .et_pb_toggle_title").trigger("click")}))}));
+jQuery(document).ready((function(e){e(".et-search-field").each((function(t){e(this).attr("id","et_pb_search_module_input_"+t),e("#et_pb_search_module_input_"+t).before('<label class="da11y-screen-reader-text" for="et_pb_search_module_input_'+t+'">Search for...</label>'),e("#et_pb_search_module_input_"+t).after('<button type="submit" class="da11y-screen-reader-text">Search</button>')})),e(".et_pb_s").each((function(t){e(this).attr("id","et_pb_s_module_input_"+t),e("#et_pb_s_module_input_"+t).before('<label class="da11y-screen-reader-text" for="et_pb_s_module_input_'+t+'">Search for...</label>')})),e(".et_pb_contact_form").each((function(){e(this).find(".et_pb_contact_captcha_question").parent().wrap("<label></label>")})),e(".et-social-facebook a.icon span").text("Facebook"),e(".et-social-twitter a.icon span").text("Twitter"),e(".et-social-google-plus a.icon span").text("Google Plus"),e(".et-social-pinterest a.icon span").text("Pinterest"),e(".et-social-linkedin a.icon span").text("LinkedIn"),e(".et-social-tumblr a.icon span").text("Tumblr"),e(".et-social-instagram a.icon span").text("Instagram"),e(".et-social-skype a.icon span").text("Skype"),e(".et-social-flikr a.icon span").text("Flickr"),e(".et-social-myspace a.icon span").text("Myspace"),e(".et-social-dribbble a.icon span").text("Dribble"),e(".et-social-youtube a.icon span").text("YouTube"),e(".et-social-vimeo a.icon span").text("Vimeo"),e(".et-social-rss a.icon span").text("RSS")}));
+jQuery(document).ready((function(t){t(".et_pb_tabs_controls").each((function(){t(this).attr("role","tabList")})),t(".et_pb_tabs_controls li").each((function(){t(this).attr("role","presentation")})),t(".et_pb_tabs_controls a").each((function(){t(this).attr("role","tab")})),t(".et_pb_tab").each((function(){t(this).attr("role","tabpanel")})),t(".et_pb_tabs_controls li:not(.et_pb_tab_active) a").each((function(){t(this).attr({"aria-selected":"false","aria-expanded":"false",tabindex:-1})})),t(".et_pb_tabs_controls li.et_pb_tab_active a").each((function(){t(this).attr({"aria-selected":"true","aria-expanded":"true",tabindex:0})})),t(".et_pb_tabs_controls a").each((function(a){t(this).attr({id:"et_pb_tab_control_"+a,"aria-controls":"et_pb_tab_panel_"+a})})),t(".et_pb_tab").each((function(a){t(this).attr({id:"et_pb_tab_panel_"+a,"aria-labelledby":"et_pb_tab_control_"+a})})),t(".et_pb_tab.et_pb_active_content").each((function(){t(this).attr("aria-hidden","false")})),t(".et_pb_tab:not(.et_pb_active_content)").each((function(){t(this).attr("aria-hidden","true")})),t(".et_pb_tabs").each((function(a){t(this).attr("data-da11y-id","et_pb_tab_module_"+a)})),t(".et_pb_tabs_controls a").on("click",(function(){const a=t(this).attr("id"),e=t(this).closest(".et_pb_tabs").attr("data-da11y-id");t('[data-da11y-id="'+e+'"] .et_pb_tabs_controls a').attr({"aria-selected":"false","aria-expanded":"false",tabindex:-1}),t(this).attr({"aria-selected":"true","aria-expanded":"true",tabindex:0}),t("#"+e+" .et_pb_tab").attr("aria-hidden","true"),t('[aria-labelledby="'+a+'"]').attr("aria-hidden","false")})),t(".et_pb_tabs_controls a").keyup((function(a){const e=t(this).closest(".et_pb_tabs").attr("data-da11y-id"),i=t('[data-da11y-id="'+e+'"]');if(39===a.which){const t=i.find("li.et_pb_tab_active").next();t.length>0?t.find("a").trigger("click"):i.find("li:first a").trigger("click")}else if(37===a.which){const t=i.find("li.et_pb_tab_active").prev();t.length>0?t.find("a").trigger("click"):i.find("li:last a").trigger("click")}t(".et_pb_tabs_controls a").removeClass("keyboard-outline"),i.find("li.et_pb_tab_active a").addClass("keyboard-outline")})),t(".et_pb_search").each((function(a){t(this).attr("data-da11y-id","et_pb_search_module_"+a)})),t('[data-required_mark="required"]').each((function(){t(this).attr("aria-required","true")})),t(".et_pb_contactform_validate_field").attr("type","hidden"),t(".et-pb-contact-message").attr("role","alert"),t("#main-content").attr("role","main"),t(".et_pb_fullwidth_header").each((function(a){t(this).attr("aria-label","Wide Header"+a)})),t("#comment-wrap").attr("aria-label","Comments")}));
+jQuery(document).ready((function(e){e("#et_top_search, .et_close_search_field, .et_pb_main_blurb_image").attr("aria-hidden","true")}));
+jQuery(document).ready((function(e){e(".mobile_menu_bar_toggle").attr({role:"button","aria-expanded":"false","aria-label":"Menu",tabindex:0}),e(".mobile_menu_bar_toggle").on("click",(function(){e(this).hasClass("a11y-mobile-menu-open")?e(this).removeClass("a11y-mobile-menu-open").attr("aria-expanded","false"):e(this).addClass("a11y-mobile-menu-open").attr("aria-expanded","true")})),e(".mobile_menu_bar_toggle").keyup((function(n){13===n.keyCode&&e(".mobile_menu_bar_toggle").click()})),e(document).keyup((function(n){27===n.keyCode&&e("#et_mobile_nav_menu .mobile_nav").hasClass("opened")&&e(".mobile_menu_bar_toggle").click()})),e(this).on("focusin",(function(){e("#et_mobile_nav_menu .mobile_nav").hasClass("opened")&&(e("#et_mobile_nav_menu .et_mobile_menu :focus").length||e("#et_mobile_nav_menu .mobile_menu_bar_toggle").click())}))}));
+</script>
+<script src="https://www.cs.ucla.edu/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.23.1" id="fitvids-js"></script>
+</body>
+</html>

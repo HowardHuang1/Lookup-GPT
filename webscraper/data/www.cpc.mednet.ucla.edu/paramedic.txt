@@ -1,0 +1,602 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Embark on an extraordinary journey with UCLA&#039;s Center for Prehospital Care – home to the Nation&#039;s First Accredited Paramedic Program! Achieve success with our program boasting a 97% first-time pass rate on the NREMT Exam. Discover engaging faculty, a full cadaver lab, and small skills groups in the #1 Public University. Explore our accelerated paramedic program, attend a free" />
+<meta name="abstract" content="Transform your EMS career with UCLA&#039;s Center for Prehospital Care and the Nation&#039;s First Accredited Paramedic Program. Experience a 97% first-time pass rate and 95% graduate employment within 6 months. Engage with program medical directors, benefit from a full cadaver lab, and enjoy online and evening office hours. Explore our accelerated paramedic program, discover advanced placement options, and take advantage of payment plans. Join a legacy of EMS giants – your success is our priority." />
+<meta name="keywords" content="Paramedic Program, Nation&#039;s First Accredited, NREMT Pass Rate, Alumni Success, Paramedic Prep, Entrance Exam, Application Dates, Advanced Placement, Payment Plans, Program Outcomes, CAAHEP Accredited, CoAEMSP Letter of Review, Retention Rate, UCLA Center for Prehospital Care" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.cpc.mednet.ucla.edu/paramedic" />
+<link rel="shortlink" href="https://www.cpc.mednet.ucla.edu/node/514" />
+<meta property="og:site_name" content="UCLA CPC" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.cpc.mednet.ucla.edu/paramedic" />
+<meta property="og:title" content="Paramedic Program" />
+<meta property="og:description" content="Educating EMS Providers for over 50 Years! The Nation’s first Accredited Paramedic program with 97% first time pass rate on the NREMT Exam and 95% of our graduates employed within 6 months of passing their NREMT exam. Learn More.  Roadmap to Becoming an EMT or Paramedic Curious about launching your career in Emergency Medical Services with the nation&#039;s top EMT program? This infographic highlights the path to become an EMT and the path to continue on to be a paramedic." />
+<meta property="og:updated_time" content="2024-02-08T09:51:12-08:00" />
+<meta property="article:published_time" content="2021-03-16T14:47:34-07:00" />
+<meta property="article:modified_time" content="2024-02-08T09:51:12-08:00" />
+  <title>Paramedic Program | UCLA CPC</title>
+  <style>
+@import url("https://www.cpc.mednet.ucla.edu/modules/system/system.base.css?s8lm5r");
+</style>
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/modules/field/theme/field.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/filebrowser/css/filebrowser_style.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/views/css/views.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ckeditor/css/ckeditor.css?s8lm5r");
+</style>
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ctools/css/ctools.css?s8lm5r");
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.css?s8lm5r" media="all" />
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/css/style.css?s8lm5r");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_YndZxdyT8-8LUpZC5MssOCg5j7KN4UJGOzCX7A0hGKI.js"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.js?s8lm5r"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_sGFJ0aln9SHwpHdKSzoE8Cdcd6RIMEIfIGrifGaUeBw.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cpc_bootstrap","theme_token":"OfaVbyyjsuHvaNQfvel6vSlUUJx1w06T6RgYKyi5f0k","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"https:\/\/code.jquery.com\/jquery-3.7.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/contrib\/popup\/popup.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/cpc_bootstrap\/cpc_js.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/filebrowser\/css\/filebrowser_style.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/popup\/popup.css":1,"sites\/all\/themes\/cpc_bootstrap\/css\/style.css":1}},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":250,"delay":0},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+      </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-514 node-type-cpc-mega-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <style>
+	div#field-slideshow-1-pager {display:none;}
+.navbar-default {
+    background-color: #000000;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ffb300;
+  background-color: transparent;
+}
+@media (max-width: 768px) {
+}
+.login-header, .login-header a
+	{ color: white; }
+.login-header a:hover, .login-header a:active, .login-header a:visited
+	{ color: #ffffff; }
+.msg-button, .msg-button a
+	{ color: white; }
+.msg-button a:hover, .msg-button a:active, .msg-button a:visited
+	{ color: #ffffff; }
+.hp_quicklinks {
+	color: #00a5e5;
+	}
+.hp_quicklinks a, .hp_quicklinks a:hover, .hp_quicklinks a:active, .hp_quicklinks a:visited {
+	color: #ffb300;
+}
+.equal {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+}
+.row .hubgrid div img{
+    display: flex;
+    display: -webkit-flex;
+    align-self: flex-end;
+}
+.row div.featureslot {
+	padding:2em;
+}
+p.leadsmall {
+	font-size:16px;
+	color:#c8c8c8;
+}
+button.webform-submit {
+	text-align:center;
+	display: inline-block;
+	float:right;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	min-width:30%;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Roboto-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+.node-type-cpc-mega-page h1.onimage {
+    left: auto;
+    right: 0;
+    padding-right: 10px;
+	color: #00A5E5;
+}
+.node-type-cpc-mega-page h1.onimage .megasubhead {
+	color: #FFFFFF;
+	font-family: "Roboto-Bold","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 28px;
+	font-weight: 400;
+}
+@media (max-width: 768px) {
+  .hubgrid h2, .tagline h2, .tagline h3 {
+    font-size: 4vw !important;
+    line-height: 4vw !important;
+  }
+  .row div.featureslot {
+	padding-top:1em;
+	padding-bottom:1em;
+  }
+  .row div.featureslot.xs-nopad-bottom {
+	padding-bottom:0px;
+  }
+  .row div.featureslot.xs-nopad-top {
+	padding-top:0px;
+  }
+}
+</style>
+<header id="navbar" role="banner">
+	<div class="container containerlogin">
+		<div class="row" style="margin-top:0px; margin-bottom:0px; background-color: #666666;">
+			<div class="login-header pull-right" style="display: inline; background-color: #00a5e5; padding:10px;">
+				<!-- AJAX Replaces here	-->
+				[ Login / Register ] <span class="glyphicon glyphicon-shopping-cart"></span> 0  items in cart
+			</div>
+			<div class="pull-left hp_quicklinks" style="display: inline; padding:10px;"><p>
+	&nbsp; &nbsp;</p>
+</div>
+		</div>
+	</div>
+	<div class="containernavbar container navbar-default">
+    <div class="navbar-header">
+      				<a class="logo navbar-btn pull-left" href="/" title="Home">
+					<img src="https://www.cpc.mednet.ucla.edu/sites/default/files/images/cpc_logo-323x32.png" alt="Home" id="logo" class="img-responsive" />
+				</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first expanded dropdown"><a href="/cpc/course-listings" title="Our Courses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Courses <span class="caret"></span></a><ul class="dropdown-menu"><li class="first collapsed"><a href="/emt-courses">EMT</a></li>
+<li class="collapsed"><a href="/paramedic-courses">Paramedic</a></li>
+<li class="leaf"><a href="/content/licensed-phlebotomist-course">Licensed Phlebotomist</a></li>
+<li class="expanded"><a href="/aha-courses">BLS, ACLS &amp; PALS</a></li>
+<li class="expanded"><a href="/cpr-first-aid-courses">CPR &amp; First Aid</a></li>
+<li class="last collapsed"><a href="/trauma-courses">Trauma &amp; NAEMT Courses</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/students" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Students <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/services/payment-methods">Payment Methods</a></li>
+<li class="leaf"><a href="/services/payment-plan">Payment Plan</a></li>
+<li class="leaf"><a href="/services/refunds-transfers">Refunds &amp; Transfers</a></li>
+<li class="leaf"><a href="/services/transcripts">Transcripts</a></li>
+<li class="leaf"><a href="/services/financial-aid">Scholarships</a></li>
+<li class="leaf"><a href="/veterans">Veteran&#039;s Assistance Benefits</a></li>
+<li class="leaf"><a href="/services/students-with-disabilities">Educational Accommodations</a></li>
+<li class="last leaf"><a href="/services/college-credit">College Credit &amp; CEUs</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/services" title="Services for agencies, hospitals, and businesses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/fdqi" title="node/572">Fire Department Quality Improvement</a></li>
+<li class="last leaf"><a href="/international">International</a></li>
+</ul></li>
+<li class="last expanded dropdown"><a href="/content/about-us" data-target="#" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/about/contact">Contact Us</a></li>
+<li class="leaf"><a href="/giving">Giving</a></li>
+<li class="leaf"><a href="/content/ucla-center-prehospital-care-strategic-plan">Strategic Plan</a></li>
+<li class="leaf"><a href="/about/leadership">Leadership</a></li>
+<li class="leaf"><a href="/diversity-resources">Equity, Diversity &amp; Inclusion</a></li>
+<li class="leaf"><a href="/about/history">Our History</a></li>
+<li class="leaf"><a href="/about/employment">Jobs at the Center</a></li>
+<li class="last leaf"><a href="https://www.uclahealth.org/privacy-practices" title="">Privacy Practices</a></li>
+</ul></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+	
+<!--
+	<div class="container">
+			</div>
+-->
+	</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    <div class="col-sm-12">
+            <a id="main-content"></a>
+      			<!--------------------->
+							<div class="page-header-image">
+					<img class="img-responsive header-image" src="https://www.cpc.mednet.ucla.edu/sites/default/files/page_images/header_emt_mega.jpg">
+					<h1 class="page-header onimage">Paramedic Program<br /><span class="megasubhead"><p>The Nation’s First Accredited <br>Paramedic Program!</p>
+</span></h1>
+				</div>
+					
+		<!--–– SECTION SPECIFIC LINKS ––-->
+		
+				
+		<div class="row" style="margin-top:0px; margin-bottom:0px; background-color: #FFFFFFF;">
+			<div class="msg-button pull-right" style="display: inline; background-color: #00a5e5; padding:10px;">
+				<a aria-controls="collapseUpdate" aria-expanded="false" data-toggle="collapse" href="#collapseUpdate">
+	COVID UPDATE</a></div>
+
+			<div class="pull-left" style="display: inline; padding:10px;">
+				<p>
+	<a href="/paramedic"><strong>Paramedic Program</strong></a> |&nbsp;<a href="/paramedic-application">Dates &amp; Application</a> | <a href="/paramedic/entranceexam">Entrance Exam</a>&nbsp;|&nbsp;<a href="/course/paramedic/eligibility">Eligibility &amp; Prep&nbsp;</a>|&nbsp;<a href="/paramedic-planningforcosts">Costs</a> |&nbsp;<a href="/course/paramedic/test-drive">Test Drive the Program</a>&nbsp;|&nbsp;<a href="/alumni">Alumni</a></p>
+</div>
+		</div>
+		<!--–– SECTION HIDDEN UNIVERSAL INFO AREA ––-->
+				
+		<div class="row hubgrid collapse " id="collapseUpdate" style="margin-bottom:8px; background-color: #ccedfa; ">
+			<div class="col-sm-12 clearfix featureslot">
+				<p>
+	<strong>Mask Requirement:</strong> UCLA recommends well-fitting masks in all facilities. Outdoor masking is optional for all.<br />
+	&nbsp;<br />
+	<strong>COVID-19 Vaccination Requirement:</strong> The University of California requires all students to be fully vaccinated against COVID-19, including a booster dose, to access University facilities and programs. Students who cannot provide proof of COVID-19 vaccination may experience delays in clinical or field placement, extended completion times and the inability to meet course requirements for certification. Limited allowance for medical and religious exemption is reviewed with supporting documentation.<br />
+	&nbsp;<br />
+	Students are asked to only attend class if they are healthy and will complete a UCLA Health Symptom Survey for each day they are on-site.</p>
+			</div>
+		</div>
+		<!--------------------->
+		
+			                                      		</div>
+		
+    		
+    <div class="col-sm-12">
+        <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-514" class="node node-cpc-mega-page clearfix" about="/paramedic" typeof="sioc:Item foaf:Document">
+
+	<!--
+  	-->
+      <span property="dc:title" content="Paramedic Program" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  <div class="content">
+    
+		
+		<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+          <!--–– SECTION Overview ––--><div class="row hubgrid" style="margin-bottom:0px; background-color: #eee;">
+<div class="col-sm-12 clearfix featureslot">
+<h2 style="margin-top:0;">
+			Educating EMS Providers for over 50 Years!</h2>
+<h3>
+			The Nation’s first Accredited Paramedic program with 97% first time pass rate on the NREMT Exam and 95% of our graduates employed within&nbsp;6 months of passing their NREMT exam. <a href="/paramedic-application">Learn More.</a></h3>
+</div>
+</div>
+<!--–– SECTION Infographic Block ––--><div class="row hubgrid equal" style="margin-bottom:20px; margin-top:0px; border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; background-color: #eee; ">
+<div class="col-xs-3 clearfix equal" style="padding:0px;">
+		<a href="/content/emt-paramedic-career-path" target="_blank"><img alt="Search and rescue officer" class="img-responsive" src="/sites/default/files/attached_files/infographic-emt-paramedic-thumbnail_0.jpg" /></a></div>
+<div class="col-xs-9 clearfix featureslot">
+<h2 style="margin-top:0;">
+			Roadmap to Becoming an EMT or Paramedic</h2>
+<p>
+			Curious about launching your career in Emergency Medical Services with the nation's top EMT program? This infographic highlights the path to become an EMT and the path to continue on to be a paramedic.</p>
+<p>
+			<a class="btn btn-primary" href="/content/emt-paramedic-career-path" role="button" target="_blank">VIEW EMT/PARAMEDIC ROADMAP</a></p>
+</div>
+</div>
+<!--–– FEATURE SPOT 1 FREE INFO SESSION ––--><div class="row hubgrid equal" style="margin-bottom:0em; background-color: #000000; padding-bottom:0em;">
+<div class="col-xs-8 clearfix featureslot">
+<h2 style="color:#00A5E5;margin-top:0;">
+			Free Info Session – Tuesday, April 9, 2024 @ 6 pm</h2>
+<p class="leadsmall">
+			Meet your&nbsp;Paramedic Program Faculty BEFORE class begins!&nbsp;Attend our online information to learn more about our Program.</p>
+<p>
+			<a class="btn btn-primary" href="https://www.eventbrite.com/e/ucla-paramedic-student-info-session-april-9-2024-tickets-828792680217" role="button" target="_blank">RSVP TODAY</a></p>
+</div>
+<div class="col-xs-4 clearfix equal" style="padding:0em">
+		<img alt="EMT in training" class="img-responsive" src="/sites/default/files/attached_files/cpc_hub_third_emt_info.jpg" /></div>
+</div>
+<!--–– COURSE FORMATS SPOT 02 ––--><div class="row hubgrid" style="margin-top:8px; background-color: #ffffff; ">
+<div class="col-sm-12 clearfix featureslot">
+<h3 style="margin-top:0;">
+			Accelerated Paramedic Program:</h3>
+<p>
+			This Program features lectures 2-3 days per week and skills labs 1 day per week.</p>
+</div>
+</div>
+<!--–– COURSE FORMATS Schedule ––--><div class="row equal" style="margin-bottom:16px;">
+<div class="col-xs-2" style="display: flex; align-items: center;">
+		<img class="img-responsive center-block" src="/sites/default/files/attached_files/cpc_icon_calendar.png" style="margin-right: 0px; max-width:70%;" /></div>
+<div class="col-xs-4 clearfix" style="padding-left: 0px; display: flex; align-items: center;">
+<div>
+<p>
+				<strong>Duration: </strong>7&nbsp;Months</p>
+</div>
+</div>
+<div class="col-xs-2" style="display: flex; align-items: center;">
+		<img class="img-responsive center-block" src="/sites/default/files/attached_files/cpc_icon_instruct.png" style="margin-right: 0px; max-width:70%;" /></div>
+<div class="col-xs-4 clearfix" style="padding-left: 0px; display: flex; align-items: center;">
+<div>
+<p>
+				<strong>Lectures:</strong> Mon, Tues, Weds 8AM-5PM<br />
+				<strong>Skills Labs:</strong>Thurs or Fri 8AM-5PM</p>
+</div>
+</div>
+</div>
+<div class="row" style="margin-bottom:8px; background-color: #eee; ">
+<div class="col-sm-12 clearfix featureslot">
+<h3>
+			What Makes UCLA the Best?</h3>
+<ul>
+<li>
+				Amazing Program Medical Directors</li>
+<li>
+				Engaged Faculty and Academic Advisors</li>
+<li>
+				Full Cadaver Lab at UCLA Medical Center</li>
+<li>
+				Online and evening office hours</li>
+<li>
+				Small skills groups with a 6:1 student to instructor ratio</li>
+</ul>
+<h3>
+			What’s Included in the Program?</h3>
+<ul>
+<li>
+				3 months lectures and skills</li>
+<li>
+				Clinical Internship start week 10</li>
+<li>
+				Earn ACLS, PALS, PHTLS certifications during the program</li>
+</ul>
+<h3>
+			<strong>Housed in the #1 Public University. Built on the legacy of EMS giants. We match energy with energy to help you succeed.</strong></h3>
+</div>
+</div>
+<!--–– FEATURE SPOT 3 Paramedic Prep ––--><div class="row hubgrid equal" style="margin-bottom:0em; background-color: #000000; padding-bottom:0em;">
+<div class="col-xs-8 clearfix featureslot">
+<h2 style="color:#00A5E5;margin-top:0;">
+			Paramedic Prep</h2>
+<p class="leadsmall">
+			Ready to take the BIG step to Paramedic? We can help you make the decision, and succeed in class!</p>
+<p>
+			<a class="btn btn-primary" href="/course/paramedic-preparation" role="button">LEARN MORE</a></p>
+</div>
+<div class="col-xs-4 clearfix equal" style="padding:0em">
+		<img alt="Paramedic in training" class="img-responsive" src="/sites/default/files/attached_files/cpc_hub_third_emt_prep.jpg" /></div>
+</div>
+<!--–– SECTION 6 ––--><div class="row" style="margin-bottom:0em; background-color: #FFF; padding-bottom:0em;">
+<div class="col-sm-12 clearfix rtecenter" style="padding:1em">
+<h2 style="margin-top:0;">
+			Becoming A Paramedic</h2>
+<p>		Do I have what it takes to qualify as a student? <a href="/course/paramedic/eligibility">See complete requirements</a></div>
+</div>
+<div class="row" style="margin-bottom:0em; background-color: #FFF; padding-bottom:0em;">
+<div class="col-sm-6 clearfix" style="padding:2em">
+<ul class="list-group list-group-flush">
+<li class="list-group-item">
+				<span aria-hidden="true" class="glyphicon glyphicon-ok">&nbsp;</span>Hold California EMT Certification</li>
+<li class="list-group-item">
+				<span aria-hidden="true" class="glyphicon glyphicon-ok">&nbsp;</span>Six months EMT work experience</li>
+<li class="list-group-item">
+				<span aria-hidden="true" class="glyphicon glyphicon-ok">&nbsp;</span>Hold BLS Certification</li>
+</ul>
+</div>
+<div class="col-sm-6 clearfix" style="padding:2em">
+<ul class="list-group list-group-flush">
+<li class="list-group-item">
+				<span aria-hidden="true" class="glyphicon glyphicon-ok">&nbsp;</span>Complete <a href="https://www.cpc.mednet.ucla.edu/course/paramedic-preparation">Paramedic Prep</a></li>
+<li class="list-group-item">
+				<span aria-hidden="true" class="glyphicon glyphicon-ok">&nbsp;</span>Pass all sections of the&nbsp;<a href="https://www.cpc.mednet.ucla.edu/paramedic/entranceexam">Entrance Exam</a></li>
+<li class="list-group-item">
+				<span aria-hidden="true" class="glyphicon glyphicon-ok">&nbsp;</span>Hold valid state drivers license</li>
+</ul>
+</div>
+</div>
+<!--–– FEATURE SPOT ENROLL  ––--><!---- UPCOMING DATES ----><div class="row" style="margin-bottom:8px; background-color: #eee; ">
+<div class="col-sm-12 clearfix featureslot">
+<h2 style="margin-top:0;">
+			Upcoming Course Dates</h2>
+<div class="cost-table" style="width: 100%;">
+<!---- TABLE HEADER ----><div class="cost-table-header">
+<div class="cost-table-item" style="width: 45%;">
+					<b>Course Start Date</b></div>
+<div class="cost-table-item" style="width: 45%;">
+					<b>Application Due Date</b></div>
+</div>
+<!---- DATE ROWS ----><div class="cost-table-entry">
+<div class="cost-table-item" style="width: 45%;">
+					January 2024</div>
+<div class="cost-table-item" style="width: 45%;">
+					Applications due 10/2/2023</div>
+</div>
+<div class="cost-table-entry">
+<div class="cost-table-item" style="width: 45%;">
+					May 2024</div>
+<div class="cost-table-item" style="width: 45%;">
+					Applications due 1/22/2024</div>
+</div>
+<div class="cost-table-entry">
+<div class="cost-table-item" style="width: 45%;">
+					September 2024</div>
+<div class="cost-table-item" style="width: 45%;">
+					Applications due 4/1/2024</div>
+</div>
+</div>
+<div class="clearfix rtecenter" style="padding-top:2em; padding-bottom: 1em">
+			<a class="btn btn-primary btn-lg" href="/paramedic-application" role="button">DATES AND APPLICATION</a></div>
+</div>
+</div>
+<div class="row" style="margin-bottom:8px; background-color: #ffffff;">
+<div class="col-sm-12 clearfix featureslot">
+<p>
+			<strong>Advanced Placement Available—Your previous education counts!</strong></p>
+<p>
+			68W, RN, Respiratory Therapist—if you have a healthcare license we will evaluate your previous education so you may not have to repeat previous education!</p>
+</div>
+</div>
+<!--–– FEATURE SPOT PAYMENT PLANS ––--><div class="row hubgrid equal" style="margin-bottom:8px; background-color: #000000; padding-bottom:0em;">
+<div class="col-xs-8 clearfix featureslot">
+<h2 style="color:#00A5E5;margin-top:0;">
+			Payment Plans</h2>
+<p class="leadsmall">
+			We get it! This is a big investment. We can help you with our tuition payment plan.</p>
+<p>
+			<a class="btn btn-primary" href="/services/payment-plan" role="button">LEARN MORE</a></p>
+</div>
+<div class="col-xs-4 clearfix equal" style="padding:0em">
+<!-- <img alt="Paramedic in training" class="img-responsive" src="/sites/default/files/attached_files/cpc_hub_third_para_plan.jpg" /> --></div>
+</div>
+<!--–– FEATURE SPOT Program Results ––--><div class="row hubgrid" style="margin-bottom:8px; margin-top:8px; background-color: #eee; ">
+<div class="col-sm-4 clearfix featureslot xs-nopad-bottom">
+<h2>
+			Paramedic<br />
+			Program<br />
+			Outcomes</h2>
+</div>
+<div class="col-sm-8 clearfix featureslot xs-nopad-top">
+<p>
+			CAAHEP Accredited Paramedic Programs and CoAEMSP Letter of Review (LoR) Programs track and report outcome measures annually to the Committee on Accreditation for the Emergency Medical Services Professions (CoAEMSP).</p>
+<p>
+			The most current CoAEMSP Annual Report was for the calendar year 2021.</p>
+<p>
+			The most recent success rate for the National Registry of EMT Paramedic/State Cognitive exam was 92.1%.</p>
+<p>
+			The most recent positive placement rate for graduates was 99.3%.</p>
+<p>
+			Positive placement is defined by the CoAEMSP as ‘Employed full or part-time in a related field and/or continuing his/her education and/or serving in the military’. Positive placement is measured at completion of the program.</p>
+<p>
+			The most recent retention rate was 93.4%.</p>
+</div>
+</div>
+<!--–– END ––-->    		
+  </div>
+
+	
+</div>
+
+
+  </div>
+</div>
+  </div>
+    </div>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+	
+	<div class="col-sm-3">
+      <div class="region region-footer-left">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="footer-menu footer-menu-left">
+<li>
+		<span style="color:#00a5e5;">Resources</span></li>
+<li>
+		<a href="https://www.cpc.mednet.ucla.edu/pcrf/">PCRF</a></li>
+<li>
+		<a href="/about/contact">Contact</a></li>
+<li>
+		<a href="https://vipcpc1.ad.medctr.ucla.edu/portal">Portal</a></li>
+<li>
+		<a href="https://www.cpc.mednet.ucla.edu/SRRS/Staff/StaffMain.aspx">SRRS Staff Page</a></li>
+<li>
+		<a href="/associates">Associate Resources</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-6">
+      <div class="region region-footer-middle">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="footer-menu footer-menu-center-left">
+<li>
+		<a href="/courses">Courses</a></li>
+<li>
+		<a href="/emt">EMT</a></li>
+<li>
+		<a href="/paramedic">Paramedic</a></li>
+<li>
+		<a href="/lifesupport">CPR, ACLS, PALS</a></li>
+<li>
+		<a href="/course/phlebotomy">Phlebotomy</a></li>
+<li>
+		<a href="/course/phtls">Trauma</a></li>
+</ul>
+<ul class="footer-menu footer-menu-center-center">
+<li>
+		<a href="/students">Students</a></li>
+<li>
+		<a href="/services/payment-methods">Payment Methods</a></li>
+<li>
+		<a href="/services/financial-aid">Financial Aid</a></li>
+<li>
+		<a href="/services/books">Books</a></li>
+<li>
+		<a href="/services/transcripts">Transcripts</a></li>
+</ul>
+<ul class="footer-menu footer-menu-center-right">
+<li>
+		<a href="/about">About Us</a></li>
+<li>
+		<a href="/about/contact">Contact</a></li>
+<li>
+		<a href="/giving">Giving</a></li>
+<li>
+		<a href="/about/leadership">Leadership</a></li>
+<li>
+		<a href="/diversity-resources">Equity, Diversity<br />
+		&amp; Inclusion</a></li>
+<li>
+		<a href="/about/history">Our History</a></li>
+<li>
+		<a href="/about/employment">Jobs at CPC</a></li>
+<li>
+		<a href="https://www.uclahealth.org/privacy-notice">Privacy Practices</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-3">
+      <div class="region region-footer-right">
+    <div id="block-block-4" class="block block-block">
+
+    
+  <div class="content">
+    <div style="width:185px; xmargin:20px auto;">
+	<a href="http://www.facebook.com/uclacpc"><img class="img-responsive" src="/sites/all/themes/cpc_bootstrap/theme_images/facebookIcon-240.png" style="display: inline-block; margin: 5px; max-width:120px;" /></a><!--<img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-FB.png" style="display: inline-block; margin: 5px;" /> <img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-LI.png" style="display: inline-block; margin: 5px;" /><img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-YT.png" style="display: inline-block; margin: 5px;" /> --> <a href="https://www.instagram.com/uclacpc/" target="_blank"><img src="/sites/default/files/icons/instagram_glyph_color.png" style="display: inline-block; max-height: 40px; max-width: 40px; " /></a></div>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-12 footer-bottom">
+		<div style="text-align: center; border-top: 1px solid #777;display:none;">
+		<a href="">Privacy</a> | <a href="">Terms</a>
+		</div>
+	</div>
+</footer>
+  	  <script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=34&cb=197480011" async></script></body>
+</html>

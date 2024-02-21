@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Ph.D. in Culture and Performance &bull; UCLA World Arts and Cultures/Dance</title>
+  <meta name="description" content="We foreground interdisciplinary research that builds on and contributes to theories of corporeality, performance, visuality, and culture.">
+      <link href="https://www.wacd.ucla.edu/assets/css/styles.min.css" rel="stylesheet">  <link href="https://www.wacd.ucla.edu/assets/css/font-awesome-5.css" rel="stylesheet">  <link href="https://www.wacd.ucla.edu/assets/css/vendor.css" rel="stylesheet">  <link href="https://www.wacd.ucla.edu/assets/css/tailwind.css" rel="stylesheet">    <link href="https://use.typekit.net/ojk6ftk.css" rel="stylesheet">      <style>
+    html, body {
+      overflow-x: hidden;
+      width: 100%;
+      width: 100vw;
+    }
+      </style>
+  <!-- Google Analytics -->
+<!-- Modern Browsers -->
+<script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-1965480-3', 'auto');
+  ga('send', 'pageview');
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<!--Old Browsers-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1965480-3', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+  <meta name="twitter:card" content="summary_large_image" />
+<meta property="og:title" content="Ph.D. in Culture and Performance"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://www.wacd.ucla.edu/programs/graduate/culture-and-performance" />
+<meta property="og:description" content="We foreground interdisciplinary research that builds on and contributes to theories of corporeality, performance, visuality, and culture."/>
+  <meta property="og:image" content="https://www.wacd.ucla.edu/media/pages/programs/graduate/culture-and-performance/1173911392-1596238481/phd.svg"/>
+</head>
+<body class="template-default layout-sidebar  uid-culture-and-performance slug-culture-and-performance">
+  <section id="navbar" class="section-navbar">
+  <nav class="navbar fixed-top navbar-expand-md navbar-light d-flex">
+    <!-- logos -->
+        <a class="navbar-brand flex-fill" style="background-image: url(https://www.wacd.ucla.edu/media/site/2169236257-1596238481/ucla-world-arts-and-cultures-dance-logo.svg); -webkit-print-color-adjust: exact;" href="https://www.wacd.ucla.edu" title="UCLA World Arts and Cultures/Dance">
+      <span class="d-none">UCLA World Arts and Cultures/Dance</span>
+    </a>
+        <br class="d-none">
+    <!-- menu -->
+        <div>
+      <button style="padding:0; margin-right:1rem; margin-left:1rem;" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarDropdownContent" aria-controls="navbarDropdownContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div>
+    <br class="d-none">
+    <div class="collapse navbar-collapse" id="navbarDropdownContent" style="max-width:100vw;">
+      <ul class="navbar-nav ml-auto">
+                        <li class="nav-item dropdown d-md-flex align-items-center">
+          <a style="padding-left:1rem;" class="nav-link dropdown-toggle small letter-space " href="https://www.wacd.ucla.edu/about" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About          </a>
+          <ul class="list-unstyled">
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                      <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/about/mission">
+                  Mission &amp; Educational Vision                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/about/contact">
+                  Contact                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/about/facilities">
+                  Facilities                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/about/equity-diversity-and-inclusion">
+                  Equity, Diversity, and Inclusion                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/about/history">
+                  History                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/about/art-and-global-health-center">
+                  Art &amp; Global Health Center                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/about/dancing-disability-lab">
+                  Dancing Disability Lab                </a>
+              </li>
+                                    </div>
+          </ul>
+        </li>
+                                <li class="nav-item dropdown d-md-flex align-items-center">
+          <a style="padding-left:1rem;" class="nav-link dropdown-toggle small letter-space " href="https://www.wacd.ucla.edu/people" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            People          </a>
+          <ul class="list-unstyled">
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                      <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/people/community">
+                  Our Community                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/people/faculty">
+                  Faculty                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/people/staff">
+                  Staff                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/people/lecturers-visiting-adjunct-professors">
+                  Lecturers, Visitors, Adjuncts &amp; Affiliated                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/people/graduate-students">
+                  Graduate Students                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/people/retired-faculty">
+                  Retired Faculty                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/people/memorial-chair">
+                  Alma Hawkins Visiting Chair                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/people/in-memoriam">
+                  In Memoriam                </a>
+              </li>
+                                    </div>
+          </ul>
+        </li>
+                                <li class="nav-item dropdown d-md-flex align-items-center">
+          <a style="padding-left:1rem;" class="nav-link dropdown-toggle small letter-space active" href="https://www.wacd.ucla.edu/programs" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Programs          </a>
+          <ul class="list-unstyled">
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                      <li class="pl-0 nav-item active">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/programs/overview">
+                  Programs Overview                </a>
+              </li>
+                          <li class="pl-0 nav-item active">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/programs/undergraduate/dance">
+                  B.A. in Dance                </a>
+              </li>
+                          <li class="pl-0 nav-item active">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/programs/undergraduate/wac">
+                  B.A. in World Arts and Cultures                </a>
+              </li>
+                          <li class="pl-0 nav-item active">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/programs/graduate/choreographic-inquiry">
+                  M.F.A. in Choreographic Inquiry                </a>
+              </li>
+                          <li class="pl-0 nav-item active">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space active" href="https://www.wacd.ucla.edu/programs/graduate/culture-and-performance">
+                  Ph.D. in Culture and Performance                </a>
+              </li>
+                          <li class="pl-0 nav-item active">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/programs/apply">
+                  Apply                </a>
+              </li>
+                          <li class="pl-0 nav-item active">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/programs/graduate/visiting-scholars">
+                  Visiting Scholars                </a>
+              </li>
+                          <li class="pl-0 nav-item active">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/programs/wac-abroad">
+                  WAC Abroad                </a>
+              </li>
+                                    </div>
+          </ul>
+        </li>
+                                <li class="nav-item dropdown d-md-flex align-items-center">
+          <a style="padding-left:1rem;" class="nav-link dropdown-toggle small letter-space " href="https://www.wacd.ucla.edu/wacd-covid-19-information" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            COVID-19          </a>
+          <ul class="list-unstyled">
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                      <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/wacd-covid-19-information/updates">
+                  WACD/Campus Updates                </a>
+              </li>
+                                    </div>
+          </ul>
+        </li>
+                                <li class="nav-item dropdown d-md-flex align-items-center">
+          <a style="padding-left:1rem;" class="nav-link dropdown-toggle small letter-space " href="https://www.wacd.ucla.edu/announcements" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Announcements          </a>
+          <ul class="list-unstyled">
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                      <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/announcements/events">
+                  Events Calendar                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/announcements/news">
+                  WACD News                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/announcements/newsletter">
+                  Newsletter                </a>
+              </li>
+                          <li class="pl-0">
+                <a class="pl-4 pl-md-3 dropdown-item small letter-space " href="https://www.wacd.ucla.edu/announcements/archive">
+                  Archive                </a>
+              </li>
+                                    </div>
+          </ul>
+        </li>
+                                <li class="nav-item d-md-flex align-items-center">
+          <a style="padding-left:1rem;" class="nav-link small letter-space" target="_blank" href="https://www.wacd.ucla.edu/give">
+            Give          </a>
+        </li>
+                        <!-- <li class="nav-item dropdown mb-3 mb-md-0">
+          <a style="padding-left:1rem;" class="nav-link small letter-space dropdown-toggle " href="https://www.wacd.ucla.edu/give" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <i class="fa fa-search" title="Search"></i><span class="d-inline-block d-md-none ml-1">  Search</span>
+          </a>
+          <ul class="list-unstyled">
+            <div id="searchDropdown" class="dropdown-menu dropdown-menu-md-right" aria-labelledby="navbarDropdown">
+              <li class="">
+                <form id="search" class="dropdown-item form-inline p-3">
+                  <input class="form-control mr-sm-2" type="search" placeholder="Start typing here..." aria-label="Search">
+                  <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                </form>
+              </li>
+            </div>
+          </ul>
+        </li> -->
+      </ul>
+    </div>
+      </nav>
+</section>
+<section class="section-content">
+  <!-- start hero background -->
+<!-- hero -->
+<div id="hero" class="bg-primary">
+  <div class="container main">
+    <div class="row flex-column text-white">
+      <!-- title -->
+<h1 class="mt-0">
+  Ph.D. in Culture and Performance</h1>
+      <!-- subtitle -->
+<p class="subtitle sr-only">
+  We foreground interdisciplinary research that builds on and contributes to theories of corporeality, performance, visuality, and culture.</p>
+      <!-- breadcrumbs -->
+<nav role="navigation" aria-label="breadcrumb" class="d-none d-md-flex">
+  <ul class="breadcrumb breadcrumb-minimal">
+        <li class="breadcrumb-item d-block">
+      <a class="d-inline-block " href="https://www.wacd.ucla.edu">
+        Home      </a>
+    </li>
+        <li class="breadcrumb-item d-block">
+      <a class="d-inline-block " href="https://www.wacd.ucla.edu/programs">
+        Programs      </a>
+    </li>
+        <li class="breadcrumb-item d-block">
+      <a class="d-inline-block " href="https://www.wacd.ucla.edu/programs/graduate">
+        Graduate Degrees      </a>
+    </li>
+        <li class="breadcrumb-item d-block">
+      <a class="d-inline-block active" href="https://www.wacd.ucla.edu/programs/graduate/culture-and-performance">
+        Ph.D. in Culture and Performance      </a>
+    </li>
+      </ul>
+</nav>
+      <!-- dates -->
+    </div>
+  </div>
+</div>
+<!-- end hero background  -->
+      <div class="container docs-content mb-0 mb-sm-3">
+    <div class="row justify-xs-center">
+      <div class="col-xs-12 bg-white px-0 col-md-8">
+                                                        <main class="culture-and-performance ">
+          <header class="">
+                    </header>
+          <article id="culture-and-performance">
+  <!-- content -->
+    <section class="section-text">
+    <p>While pursuing a Ph.D. in Culture and Performance, the UCLA Department of World Arts and Cultures/Dance offers opportunities to develop specialized knowledge and skills in a diverse range of interdisciplinary fields such as activism, critical theory, curatorial studies, dance studies, film studies, performance studies, and visual studies. Students will designate a major field of study in consultation with their faculty adviser. Examples of methodologies include archival research, choreographic analysis, discourse analysis, ethnography, museum studies, oral history, or phenomenology. Students should also identify an area of geographical, cultural, and/or temporal focus. The student is expected to consult with their academic faculty adviser on a regular basis regarding area(s) of interest to determine associated coursework and research focus, and to plan the instructional schedule appropriately. See the full <a href="https://grad.ucla.edu/programs/school-of-arts-and-architecture/world-arts-and-culturesdance-department/culture-and-performance/#program-requirements/2019-2020" rel="noopener noreferrer" target="_blank">Culture and Performance program details</a> on the Graduate Division's website.</p>
+<p>Students in our program have received prestigious awards including those, among others, from the ACLS-Mellon, American Association of University Women, Fulbright, Ford, and Wenner-Gren foundations, along with winning prizes for their innovative research from professional organizations. At UCLA they have been selected for competitive honors, such as the Collegium of University Teaching Fellows, Distinguished Teaching Assistant Award, Moss Scholars Program, and the Dissertation Year Fellowship. These achievements serve as a testament to the students' research and teaching excellence. They also demonstrate the strong mentoring available in our department.   </p>
+<p>Our interdisciplinary doctoral program has an impressive record of job placements and speaks to the high quality of education we are able to offer our students. Alumni have found success in a range of diverse sectors -- artistic, academic, curatorial -- and made notable impacts in myriad fields. Our accomplished students have been recipients of  postdoctoral fellowships from Northwestern University, the Metropolitan Museum of Art, Williams College, the Smithsonian Institution, and University of California Office of the President, among others.  Graduates of the Culture and Performance PhD are working as faculty at reputable institutions in the United States and internationally, like Duke University, Center for Contemporary Dance in Cologne, Rutgers University, University of Michigan, and University of Texas, and many others. We celebrate their success and and hope that their relationship with our Department will have positive effects on our professional development and the networks available to our students into the well future.  </p>
+<p><a class="dl dl--pdf" href="https://www.wacd.ucla.edu/media/pages/programs/graduate/culture-and-performance/716299413-1695754235/2023-2024-cap-handbook.pdf" data-ext="pdf" target="_blank">Culture &amp; Performance Handbook 2023-2024</a> <small class="dl">(466.92 kB)</small></p>
+<p>Details about individual courses can be found on the <a href="https://www.registrar.ucla.edu/Academics/Course-Descriptions" target="_blank">UCLA Registrar's website</a>.</p>
+<h2 id='m-a-in-culture-and-performance'><a class='color-inherit text-decoration-0' href='#m-a-in-culture-and-performance'>M.A. in Culture and Performance</a></h2>
+<p>The M.A. in Culture and Performance is not a terminal degree and is only available to students admitted to the Ph.D. program who have not already earned a master's degree prior to admission at UCLA.</p>
+<h3 id='for-current-ph-d-students'><a class='color-inherit text-decoration-0' href='#for-current-ph-d-students'>FOR CURRENT Ph.D. STUDENTS:</a></h3>
+<p>Handbook: Please refer to the Handbook for your Admit year for your curriculum.</p>  </section>
+    </article>
+                                                            
+        </main><!--/main-->
+                      </div>
+            <aside class="col-xs-12 col-md-4 px-0">
+              <section class="small letter-space">
+  <ul class="list-unstyled">
+    <li class="letter-space">
+      <a class="h6 text-transform-uppercase small text-dark letter-space"       style="margin-bottom:0; padding:0;"
+      href="https://www.wacd.ucla.edu/programs/graduate">
+        Graduate Degrees      </a>
+    </li>
+                    <a class="h6 text-transform-uppercase small" href="https://www.wacd.ucla.edu/programs/graduate/choreographic-inquiry">
+        <li class="letter-space">
+          M.F.A. in Choreographic Inquiry        </li>
+      </a>
+                              <a class="h6 text-transform-uppercase small active" href="https://www.wacd.ucla.edu/programs/graduate/culture-and-performance">
+        <li class="letter-space active">
+          Ph.D. in Culture and Performance        </li>
+      </a>
+                </ul>
+</section>
+        </aside>
+            <div class="col-xs-12 px-0 col-md-8">
+              </div>
+                  </div>
+          </div><!--/.row-->
+  </div><!--/.container-->
+    <div class="container">
+  <div class="row justify-xs-center mt-0">
+                    <section class="col-xs-12 col-md-8 px-0 mb-0 mb-sm-3">
+      <div class="card apply-card h-100 border-0 apply" style="max-width:760px;">
+      <!-- subtitle -->
+      <h2 class="h5 text-dark margin-bottom-0.5">Apply</h2>
+            <p class="color-muted margin-bottom-0.5">Read about our admissions policies and procedures.</p>
+                  <div class="my-3" role="group" aria-label="Program links">
+                  <a href="https://www.wacd.ucla.edu/programs/apply/graduate/culture-and-performance" class="btn btn-dark mb-3" style="width:100%;">
+            Learn more          </a>
+              </div>
+            </ul>
+      </div>
+    </section><!-- /col -->
+          </div><!-- /.row -->
+</div>
+    <!-- page navigation -->
+<!-- interpost -->
+<section class="interpost position-relative">
+  <div class="container-fluid" style="padding-right:0px; padding-left:0px;">
+    <div class="row gutter-0">
+            <a class="col" href="https://www.wacd.ucla.edu/programs/graduate/choreographic-inquiry">
+        <span class="interpost interpost-prev text-uppercase text-white small letter-space">
+          <i class="fas fa-arrow-left"></i> M.F.A. in Choreographic Inquiry        </span>
+      </a>
+                </div>
+  </div>
+</section>
+</section><!-- /.section-content -->
+<footer class="position-relative">
+<section id="basic-info">
+  <div class="padding-y-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4">
+          <address>
+                        <div itemscope itemtype="http://schema.org/EducationalOrganization">
+              <span itemprop="name">UCLA Department of World Arts and Cultures/Dance</span>
+              <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                <span itemprop="streetAddress">
+                  120 Westwood Plaza                  <br>
+                  Box 951608, 150 Kaufman Hall                </span>
+                <br>
+                                            <span itemprop="addressLocality">
+                  Los Angeles</span>,                                                 <span itemprop="addressRegion">
+                  California</span>
+                                                  <span itemprop="postalCode">
+                  90095-1608</span>
+                              </div>
+                            <br>
+              Telephone:
+              <span itemprop="telephone"><a href="tel:+1 (310) 825-3951">
+                +1 (310) 825-3951</a></span>
+                                          <br>
+              Email:
+              <span itemprop="email">
+                <a href="mailto:wacinfo@arts.ucla.edu">wacinfo@arts.ucla.edu</a>
+              </span>
+                          </div>
+          </address>
+          <br>
+          <ul class="list-unstyled d-flex pb-3" role="navigation">
+                        <a href="https://www.facebook.com/UCLAWACD/" target="_blank" title="Facebook">
+              <li class="mr-3" style="width:1.5rem; height:1.5rem; background-image:url(https://www.wacd.ucla.edu/media/site/1163753841-1596238481/facebook.svg)">
+                <span class="d-none">
+                  Facebook                </span>
+              </li>
+            </a>
+                        <a href="https://www.instagram.com/uclawacd/" target="_blank" title="Instagram">
+              <li class="mr-3" style="width:1.5rem; height:1.5rem; background-image:url(https://www.wacd.ucla.edu/media/site/724668153-1596238481/instagram.svg)">
+                <span class="d-none">
+                  Instagram                </span>
+              </li>
+            </a>
+                        <a href="https://twitter.com/UCLAWACD" target="_blank" title="Twitter">
+              <li class="mr-3" style="width:1.5rem; height:1.5rem; background-image:url(https://www.wacd.ucla.edu/media/site/2530630424-1596238481/twitter.svg)">
+                <span class="d-none">
+                  Twitter                </span>
+              </li>
+            </a>
+                        <a href="https://vimeo.com/user23405304" target="_blank" title="Vimeo">
+              <li class="mr-3" style="width:1.5rem; height:1.5rem; background-image:url(https://www.wacd.ucla.edu/media/site/3217515198-1596238481/vimeo.svg)">
+                <span class="d-none">
+                  Vimeo                </span>
+              </li>
+            </a>
+                      </ul>
+        </div>
+        <div class="col-lg-8">
+          <div class="text">
+            <p class="">
+              The Department of World Arts and Cultures/Dance is a part of the <a href="https://arts.ucla.edu" target="_blank">School of the Arts and Architecture</a> at the <a href="https://ucla.edu" target="_blank" title="UCLA">University of California, Los Angeles</a>.
+            </p>
+            <hr class="my-5">
+            <p>
+              <em>
+                The UCLA Department of World Arts and Cultures/Dance acknowledges the Gabrielino/Tongva peoples as the traditional land caretakers of <a href="assets/sounds/1-tovaangar-world.wav" target="_blank">Tovaangar</a> (Los Angeles basin, So. Channel Islands) and is grateful to have the opportunity to work for the <a href="assets/sounds/2-taraaxatom-indigenous-peoples.wav" target="_blank">taraaxatom</a> (indigenous peoples) in this place. As a land grant institution, we pay our respects to <a href="assets/sounds/3-honuukvetam-ancestors.wav" target="_blank">Honuukvetam</a> (Ancestors), <a href="assets/sounds/4-ahiihirom-wise-people-elders.wav" target="_blank">'Ahiihirom</a> (Elders), and <a href="assets/sounds/5-eyoohiinkem-our-relatives-relations.wav" target="_blank">'eyoohiinkem</a> (our relatives/relations) past, present and emerging.
+              </em>
+            </p>
+          </div>
+        </div>
+      </div><!-- /.col -->
+    </div><!-- /.row -->
+  </div><!-- /.container -->
+</section>
+<section id="footer-nav">
+  <div class="pt-5 pb-4">
+    <div class="container" style="max-width:1140px;">
+      <div class="row">
+        <div class="px-0">
+                    <nav class="small padding-y-3">
+            <ul class="card-columns">
+                            <li class="card border-0">
+                <a class="letter-space d-flex pb-1" href="https://www.wacd.ucla.edu">
+                  Home                </a>
+                              </li>
+                            <li class="card border-0">
+                <a class="letter-space d-flex pb-1" href="https://www.wacd.ucla.edu/fall-2023-chair-s-letter">
+                  Fall 2023 Chair's Letter                </a>
+                              </li>
+                            <li class="card border-0">
+                <a class="letter-space d-flex pb-1" href="https://www.wacd.ucla.edu/wacd-covid-19-information">
+                  COVID-19                </a>
+                                <ul class="list-unstyled pt-1 pl-2">
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/wacd-covid-19-information/updates">
+                      WACD/Campus Updates                    </a>
+                  </li>
+                                  </ul>
+                              </li>
+                            <li class="card border-0">
+                <a class="letter-space d-flex pb-1" href="https://www.wacd.ucla.edu/about">
+                  About                </a>
+                                <ul class="list-unstyled pt-1 pl-2">
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/about/mission">
+                      Mission &amp; Educational Vision                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/about/contact">
+                      Contact                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/about/facilities">
+                      Facilities                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/about/equity-diversity-and-inclusion">
+                      Equity, Diversity, and Inclusion                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/about/history">
+                      History                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/about/art-and-global-health-center">
+                      Art &amp; Global Health Center                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/about/dancing-disability-lab">
+                      Dancing Disability Lab                    </a>
+                  </li>
+                                  </ul>
+                              </li>
+                            <li class="card border-0">
+                <a class="letter-space d-flex pb-1" href="https://www.wacd.ucla.edu/people">
+                  People                </a>
+                                <ul class="list-unstyled pt-1 pl-2">
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/people/community">
+                      Our Community                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/people/faculty">
+                      Faculty                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/people/staff">
+                      Staff                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/people/lecturers-visiting-adjunct-professors">
+                      Lecturers, Visitors, Adjuncts &amp; Affiliated                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/people/graduate-students">
+                      Graduate Students                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/people/retired-faculty">
+                      Retired Faculty                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/people/memorial-chair">
+                      Alma Hawkins Visiting Chair                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/people/in-memoriam">
+                      In Memoriam                    </a>
+                  </li>
+                                  </ul>
+                              </li>
+                            <li class="card border-0">
+                <a class="letter-space d-flex pb-1" href="https://www.wacd.ucla.edu/programs">
+                  Programs                </a>
+                                <ul class="list-unstyled pt-1 pl-2">
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/programs/overview">
+                      Programs Overview                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/programs/undergraduate">
+                      Undergraduate Degrees                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/programs/graduate">
+                      Graduate Degrees                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/programs/apply">
+                      Apply                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/programs/wac-abroad">
+                      WAC Abroad                    </a>
+                  </li>
+                                  </ul>
+                              </li>
+                            <li class="card border-0">
+                <a class="letter-space d-flex pb-1" href="https://www.wacd.ucla.edu/announcements">
+                  Announcements                </a>
+                                <ul class="list-unstyled pt-1 pl-2">
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/announcements/events">
+                      Events Calendar                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/announcements/news">
+                      WACD News                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/announcements/newsletter">
+                      Newsletter                    </a>
+                  </li>
+                                    <li class="py-2">
+                    <a class="letter-space" href="https://www.wacd.ucla.edu/announcements/archive">
+                      Archive                    </a>
+                  </li>
+                                  </ul>
+                              </li>
+                            <li class="card border-0">
+                <a class="letter-space d-flex pb-1" href="https://www.wacd.ucla.edu/give">
+                  Give                </a>
+                              </li>
+                            <li class="card border-0">
+                <a class="letter-space d-flex pb-1" href="https://www.wacd.ucla.edu/pte-numbers">
+                  PTE Numbers for Dance Practice Courses                </a>
+                              </li>
+                          </ul>
+          </nav>
+                  </div><!-- /.col -->
+      </div><!-- /.row -->
+    </div><!-- /.container -->
+  </div>
+</section>
+<div id="footer-base">
+<section id="footer-links" style="margin:auto;max-width:1140px;" class="overflow-hint pt-3 pb-1">
+  <div class="nav-scroller">
+    <nav class="nav nav-underline justify-content-start justify-content-sm-between px-2">
+            <a class="nav-link small letter-space" href="http://www.ucla.edu/terms-of-use" target="_blank">
+        Terms of Use      </a>
+            <a class="nav-link small letter-space" href="http://www.ucla.edu/accessibility" target="_blank">
+        Accessibility      </a>
+            <a class="nav-link small letter-space" href="https://privacy.ucla.edu/" target="_blank">
+        Privacy      </a>
+            <a class="nav-link small letter-space" href="https://ucla-gme-advocate.symplicity.com/public_report" target="_blank">
+        Report Misconduct      </a>
+            <a class="nav-link small letter-space" href="https://arts.ucla.edu" target="_blank">
+        UCLA Arts      </a>
+            <a class="nav-link small letter-space" href="http://ucla.edu" target="_blank">
+        UCLA.edu      </a>
+          </nav>
+  </div>
+</section>
+<section id="copyright" class="overflow-hint" style="margin:auto;max-width:1140px;">
+  <div class="nav-scroller pl-0 pr-3">
+    <div class="nav nav-underline justify-content-start justify-content-sm-between pb-0" style="min-width:385px;">
+            <div class="order-2 flex-shrink text-sm-right">
+        <p class="small text-transform-uppercase letter-space mb-5 pr-5 pr-md-0 pl-5">
+          Made with <a href="https://getkirby.com" rel="noopener noreferrer" target="_blank">Kirby</a>.        </p><!-- / -->
+      </div><!-- /.column -->
+            <div class="order-1 w-100">
+        <p class="small text-transform-uppercase letter-space mb-5 pl-3">
+          © 2024 Regents of the <a href="https://universityofcalifornia.edu" rel="noopener noreferrer" target="_blank">University of California</a>.        </p><!-- / -->
+      </div><!-- /.column -->
+          </div><!-- /.nav nav-underline -->
+  </div><!-- /.nav-scroller -->
+</section>
+</div>
+</footer>
+<script src="https://www.wacd.ucla.edu/assets/js/lazysizes.min.js"></script><script src="https://www.wacd.ucla.edu/assets/js/popper.min.js"></script><script src="https://www.wacd.ucla.edu/assets/js/vendor.js"></script><script src="https://www.wacd.ucla.edu/assets/js/app.js"></script><script src="https://www.wacd.ucla.edu/assets/js/offcanvas.js"></script><script src="https://www.wacd.ucla.edu/assets/js/fotorama.js"></script><script src="https://www.wacd.ucla.edu/assets/js/application.js"></script><script>
+  jQuery(document.links) .filter(function() {
+    return this.hostname != window.location.hostname;})
+    .attr('target', '_blank');
+</script>
+<a class="back-to-top" style="z-index: 9999;" href="#"><i class="fa fa-arrow-up mr-1"></i> Back to top</a>
+</body>
+</html>

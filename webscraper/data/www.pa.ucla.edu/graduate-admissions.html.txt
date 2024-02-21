@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<title>UCLA Physics & Astronomy</title>
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="update.css">
+<link rel="SHORTCUT ICON" href="favicon.ico" />
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</head>
+<body>
+<ol class="breadcrumb bg-primary text-light">
+  <li class="breadcrumb-item"><img src="logo_UCLA_white.svg" class="ucla-logo" /></li>
+  <li class="breadcrumb-item">College</li>
+  <li class="breadcrumb-item">Physical Sciences</li>
+</ol>
+
+<nav class="navbar navbar-expand-lg navbar-light mt-0 mt-lg-0 mr-4 border-bottom mb-4">
+  <a class="navbar-brand" href="https://www.pa.ucla.edu/index.php"><img src="https://www.pa.ucla.edu/pa-logo-new.png" height="110px"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarText">
+    <!-- To change the menu alignment from left to right, use ml-auto -->
+    <ul class="navbar-nav mr-auto text-primary">
+      <li class="nav-item"><a class="nav-link text-primary" href="https://www.pa.ucla.edu/index.php">Home</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          About
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            
+          <a class="dropdown-item" href="../videos/admitvideo.html" >Admit Video</a>
+          <a class="dropdown-item" href="https://youtu.be/chk8MNJJ950">APS video tour of Physics & Astronomy</a>
+          <a class="dropdown-item" href="/visiting.html">Visiting the Department</a>
+          <a class="dropdown-item" href="/annual-report.html">Annual Reports</a>
+          <a class="dropdown-item" href="/diversity.html">Diversity</a>
+          <a class="dropdown-item" href="/open-positions.html">Employment</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Education
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/undergraduate-program.html">Undergraduate</a>
+          <a class="dropdown-item" href="/graduate-admissions.html">Graduate admissions</a>
+          <a class="dropdown-item" href="/current-graduate-students.html">Current graduate students</a>
+          <a class="dropdown-item" href="https://bruinlearn.ucla.edu/courses/288">BruinLearn, UCLA's new LMS</a>
+          <a class="dropdown-item" href="/phd-physics-bridge-program.html">Physics PhD Bridge Program</a>
+          <a class="dropdown-item" href="/undergraduate-research-experience.html">REU program</a>
+          <a class="dropdown-item" href="https://qst.ucla.edu/">Quantum master program</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link text-primary" <a href="/research.html">Research</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" <a href="http://www.astro.ucla.edu/">Astro&nbsp;Division</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          People
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/faculty.html">Faculty</a>
+          <a class="dropdown-item" href="/faculty-affiliated.html">Affiliated Faculty</a>
+          <a class="dropdown-item" href="/researchers.html">Researchers, Project Scientists, Adjuncts</a>
+          <a class="dropdown-item" href="/lecturers.html">Lecturers</a>
+          <a class="dropdown-item" href="/postdocs.html">Postdoctoral Scholars</a>
+          <a class="dropdown-item" href="/grad-students.html">Graduate Students</a>
+          <a class="dropdown-item" href="/staff.html">Staff</a>
+          <a class="dropdown-item" href="/memorials.html">Memorials</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/events.php">Events</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/clubs.html">Clubs</a></li>
+      <li class="nav-item"><a class="nav-link text-primary" href="/giving.html">Giving</a></li>
+      <!--<li class="nav-item"><a class="nav-link text-primary" href="/contact.html">Contact</a></li>-->
+      <!--<li class="nav-item"><a class="nav-link"><img src="images/search-icon-2.svg" /></a></li>-->
+      <!--<li class="nav-item"><a class="nav-link"><img src="https://atmos.ucla.edu/Icon/search-icon-2.svg" /></a></li>-->
+    </ul>
+  </div>
+</nav>
+<div class="container">
+    <div class="row">
+    <div class="col-md-4 order-md-1 col-sm-12 order-sm-0 pb-4">
+      <!--<img src="home-image.jpg" width="100%"/>-->
+      <!--
+<h2 class="module-header">Search</h2>
+      <p></p>
+      <script async src="https://cse.google.com/cse.js?cx=015121140664034713057:qm87o70wka5"></script>
+		<div class="gcse-search"></div>
+<br />
+-->      <h2 class="module-header">Resources</h2>
+      <p></p>
+      <p>
+      <ul>
+      	<!--<li><a href="graduate-faq.html">Frequently asked admissions questions</a></li>-->
+      	<li><a href="https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/">Admission information</a></li>
+      	<li><a href="http://www.gdnet.ucla.edu/gss/library/feesintro.htm">Graduate fees</a></li>
+      	<li><a href="graduate-financial-support.html">Graduate financial support</a></li>
+      	<!--<li><a href="current-ms-physics-degree.html">Physics: Earning the M.S. degree</></li>-->
+      	<!--<li><a href="current-ms-astronomy-degree.html">Astronomy: Earning the M.S. degree</></li>-->
+      	<li><a href="graduate-timeline.pdf">Graduate timeline</a></li>
+      	<li><a href="graduate-council.html">Physics Graduate Council</a></li>
+      	<!--<li><a href="http://www.aps.org/">American Physical Society</a></li>
+      	<li><a href="http://www.aip.org/">American Institute for Physics</a></li>
+      	<li><a href="http://aas.org/">Americal Astronomical Society</a></li>
+      	<li><a href="http://www.nsf.gov/">National Science Foundation</a></li>
+      	<li><a href="http://www.nasa.gov/">NASA</a></li>
+      	<li><a href="https://sa.ucla.edu/ro/Public/SOC">AIP PhysicsToday Jobs</a></li>
+      	<li><a href="http://jobregister.aas.org/">AAS Job Register</a></li>-->
+      </ul>
+      </p>
+    </div>
+    <div class="col-md-8 order-md-0 col-sm-12 order-sm-1">
+      <!--<p class="branding-ribbon">THIS SECONDARY PAGE</p>
+      <br/><p class="branding-ribbon">IS FOR TESTING</p>-->
+      <h2>Graduate admissions</h2>
+      <!--<img src="profs.jpg" class="image1 float-left" hspace="15px" alt="...">-->
+      <div class="container mt-3">
+  <!--<h2>Toggleable Tabs</h2>-->
+  <br>
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs">
+    <li class="nav-item">
+      <a class="nav-link active" data-toggle="tab" href="#home">Applying</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" data-toggle="tab" href="#menu1">Physics: PhD degree</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" data-toggle="tab" href="#menu2">Astronomy: PhD degree</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" data-toggle="tab" href="#menu3">Admissions FAQ</a>
+    </li>
+  </ul>
+
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div id="home" class="container tab-pane active"><br>
+      <!--<h3>HOME</h3>-->
+      <p><p><!--<img src="profs.jpg" class="image1 float-left" hspace="15px" alt="...">-->
+      What are the basic requirements to apply to the department? An applicant for admission must hold a bachelor's degree 
+      from an accredited college or university and must have the necessary academic preparation to participate successfully 
+      in graduate level courses.</p>
+      <p>For students who are interested in a fee waiver please consult the <a href="https://grad.ucla.edu/admissions/faqs/">
+      Division of Graduate Education’s Admissions website</a> for more information.</p>
+      <p>The Department only considers graduate applications for the fall quarter. Applications are evaluated only when all 
+      of the materials listed below are received.</p>
+      <h5>What we require</h5>
+      <ul>
+      	<li><a href="https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/">Online graduate 
+      	admissions application</a>.</li>
+      	<li>A statement of purpose.</li>
+      	<li>A personal statement.</li>
+      	<li>Three letters of recommendation: enter names & information of recommenders in the online application; they will receive an email with link to 
+      	upload their letter. </li>
+      	<li>Transcripts: All applicants may upload unofficial copies of transcripts with the application for review purposes. If you are recommended for 
+      	admission and decide to accept the offer, you must submit final, official copies of your transcript for final approval of your admission by 
+      	The Division of Graduate Education’s Graduate Admissions Office.</li>
+      </ul>
+      <h5>Test scores</h5>
+      <p>GRE Physics and GRE general scores for the Physics PhD:</p>
+      <p>
+		<ul>
+		<li>GRE (updated for 2024 admissions):<br />
+		<li>The selection of the Ph.D. students admitted to the Physics program is based on an individualized review of each 
+		application. Students who wish to apply for admission to our graduate program for the 2024-2025 academic year are 
+		not required to take the GRE or submit a GRE score report as part of their application package. However, students 
+		may voluntarily submit GRE test scores and they will be reviewed as part of the holistic application consideration. 
+		The applications with GRE scores will not be given greater weight than those that do not include scores.</li>
+    	<li>Students who are admitted and intend to enroll may send official reports to UCLA institution code 4837, major 
+    	code 0808.</li>
+		<li>We will accept GRE scores from tests taken within the last 5 years. If the test was taken multiple times, enter 
+		the most recent scores on the online application.</li>
+	 	</ul>
+	 </p>
+	<p>GRE Physics and GRE general scores for the Astronomy & Astrophysics PhD:</p>
+      	<p>
+      	<ul>
+      		<li>GRE (updated for 2024 admissions):<br />
+      		The selection of the Ph.D. students admitted to the Astronomy and Astrophysics program is based on an individualized 
+      		review of each application. Students who wish to apply for admission to our graduate program for the 2024-2025 
+      		academic year are not required to take the GRE or submit a GRE score report as part of their application package. 
+      		However, students may voluntarily submit GRE test scores and they will be reviewed as part of the holistic 
+      		application consideration. The applications with GRE scores will not be given greater weight than those that 
+      		do not include scores.</li>
+      		<li>Students who are admitted and intend to enroll may send official reports to UCLA institution code 4837, 
+      		major code 0801.</li>
+      		<li>We will accept GRE scores from tests taken within the last 5 years. If the test was taken multiple times, 
+      		enter the most recent scores on the online application.</li>
+      		</ul>
+      	<p>TOEFL/IELTS scores (international)</p>
+      	<ul> 	
+      		<li>Request official report from ETS – the Physics department major code: 76 / the Astronomy department code: 61. 
+      		We will accept TOEFL scores from tests taken within the last 2 years. Acceptable scores include: TOEFL: 570 
+      		(paper), 230 (computer), TOEFL IBT: 88, IELTS: 7.0.<br />
+      		Send TOEFL e-scores to the department and IELTS scores to both the Department & Grad Division:
+			UCLA Department of Physics & Astronomy, Graduate Office, 430 Portola Plaza, Box 951547, Los Angeles CA 90095-1547<br />
+			UCLA Graduate Admissions Student & Academic Affairs, 1255 Murphy Hall Box 951428, Los Angeles CA 90095-1428.</li>
+      	</ul>
+      <h5>Fellowship application</h5>
+      <p>We encourage all U.S. citizens and permanent residents to submit the fellowship application.</p>	
+      <h5>For the Astronomy & Astrophysics PhD only</h5>	
+      <p>Graduate students from overseas in the Astronomy and Astrophysics PhD program are primarily funded by research grants 
+      and teaching assistant positions.  Applicants from overseas interested in applying to the Astronomy and Astrophysics PhD 
+      program are urged to contact specific faculty members whose research is of interest to see whether research assistant 
+      positions are available. The average Astronomy and Astrophysics PhD program class size is 6 domestic and 1 international.</p>
+      <h5>Deadlines</h5>
+      <p>Deadline to submit application is December 15. Scores and letters should reach us by the first week in January. 
+      Note: only the required application items will be evaluated. Do not mail or upload any other supplemental 
+      documents or any duplicates of uploaded application items.</p>
+      <p>Questions? <a href="mailto:apply@physics.ucla.edu">Contact us by email</a> or phone 310-206-6994.</p></p>
+    </div>
+    <div id="menu1" class="container tab-pane fade"><br>
+      <h3>Physics: PhD degree</h3>
+      <p><p>For a comprehensive description of the PhD in Physics, consult the <a href="https://grad.ucla.edu/graduate-program-requirements/program-requirements-for-physics-and-astronomy-physics-7/"><b>program 
+      requirements</b></a>.</p>
+      <h5>Course Requirements</h5>
+      <p>Students are required to complete 36 units. Students fulfill the 36-unit requirement by taking the six core courses (24 units), two required 
+      non-core courses (4 units) and two elective courses (8 units). No more than eight units may be chosen from Physics 596 and/or seminar courses. Physics 597 and 598 may 
+      not be applied toward course requirements for the M.S. degree.</p>
+      <p>Students are required to enroll in a minimum of 12 units each quarter and maintain a minimum 3.0 GPA.</p>
+      <h5>Written Comprehensive Examination</h5>
+      <!--<p>The written comprehensive examination consists of two four-hour sections given on consecutive days, and its scope is defined by the graduate physics material in 
+      the six core courses (Physics 210A, 210B, 215A, 220, 221A, and 221B).</p>
+      <p>The written comprehensive examination is offered once a year, in the week before the beginning of classes in Fall Quarter. Students entering the graduate program 
+      in Fall Quarter are expected to take the written comprehensive examination before their fourth quarter of residence.</p>
+      <p>Students are required to pass the written comprehensive examination at the PhD level. This level is determined by the Comprehensive Examination Committee for each 
+      examination session. If students fail to pass the examination at the PhD level, they may take it a second time the next session it is given.</p>-->
+      <p>The written comprehensive exam is described in the <a href="https://grad.ucla.edu/graduate-program-requirements/program-requirements-for-physics-and-astronomy-physics-7/">program 
+      requirements</a>. For more information please contact the department's 
+      graduate affairs office.</p>
+      <p>Once a student has completed the required courses and passed the comprehensive exam at the MS level or above, they may file a 
+      petition to receive an M.S. degree. For a comprehensive description of the Master’s in Physics, 
+      <a href="https://grad.ucla.edu/programs/physical-sciences/physics-and-astronomy-department/physics/">consult the program 
+      requirements</a>.</p>
+      <h5>Doctoral Committee</h5>
+      <p>Doctoral committees are arranged by the student before the oral qualifying examination. Students are encouraged to consult with their advisor for 
+      recommendations on committee members.</p>
+      <p>To nominate a doctoral committee, please consult the <a href="https://grad.ucla.edu/ucla/gasaa/doccommitteestandards.pdf">minimum standards for doctoral committees</a> 
+      and complete the <a href="https://grad.ucla.edu/gasaa/library/docnomin.pdf">nomination of doctoral committee form</a>. The doctoral committee must be approved by Graduate 
+      Division before the oral qualifying examination.</p>
+      <h5>Oral Qualifying Examination</h5>
+      <p>The oral qualifying examination is an oral presentation of the student’s proposed dissertation problem.</p>
+      <p>To schedule the oral qualifying exam, contact your advisor’s administrative assistant to book a room and time for the exam. After you have scheduled the exam, complete 
+      the preparation for oral qualifying exam link (<a href="http://www.pa.ucla.edu/content/preparation-qualifying-or-final-exam">http://www.pa.ucla.edu/content/preparation-qualifying-or-final-exam</a>) 
+      at least two weeks prior to the date of the actual exam.</p>
+      <p>Upon the successful completion of their oral qualifying examination, students are advanced to candidacy. Full-time students are expected to advance to candidacy 
+      by their 9th quarter in residence.</p>
+      <h5>General Guidelines for the Oral Qualifying Exam</h5>
+      <p>The qualifying oral exam is an opportunity to demonstrate to your committee that you have acquired an adequate command of your field and resources to produce original 
+      and significant work. The time frame of the exam may vary between one to two hours depending on the discussion time for the committee. The presentation lasts about 30 
+      minutes (about 15 slides, 2 minutes per slide). Expect interruptions from committee members in order to ask questions/clarify points and remember to leave time for 
+      questions at the end as well.</p>
+      <p>The presentation itself should cover the following key topics:</p>
+      <p>1. An introduction to the science of your topic (i.e., why should someone be interested in what you are about to say?)</p>
+      <p>2. What you've done so far. You will want to discuss background literature and preliminary results, if you have them. It is important to make clear what *you* did 
+      when you are giving the background information.</p>
+      <p>3. Next steps (i.e., what’s your plan for completing the project?). If there are any resources you are counting on (such as the repair or delivery of a big 
+      laser) you should talk about that and if there is a chance you won't get it, what is your Plan B?</p>
+      <p>4. Timeline for completion of project</p>
+      <p>It is highly recommended that the student consult closely with the advisor about the contents of the examination.</p>
+      <p>Other general advice:</p>
+      <p>1. Never have any words, phrases, or plots that you do not understand at least "one sentence deeper". Anything on your slides is fair game for someone to 
+      ask "What is xxx?"   If you don't know at all, that does not look good.</p>
+      <p>2. Have nothing on the slides you do not need. They only distract and waste the time of the person in the audience trying to figure it out. So if for example 
+      you take a slide from a publication and it has four curves on it but you only want to talk about one, white-box over the lines or points you are not going to 
+      talk about.</p>
+      <p>3a. *ALL* text and plots on your slides should be clearly legible. If axes numbers cannot be read, you can white-box them over and rewrite your own large 
+      numbers.  Or use arrows and big numbers for values. If an axis is labeled with a complicated formula but you only need to say something simple such as "emittance", 
+      replace it. If something is not legible and is not necessary, just remove it by cropping or white box. The person in the audience will be annoyed trying to read 
+      fonts that are too small. If they are totally unreadable that is a bit insulting to the audience. (The only exception to this rule is if your point is to show 
+      something is hopelessly complicated)</p>
+      <p>3b. The corollary to rule #3 is that you should only have at most two plots per slide, but keep to one. *Extra* plots can go into backup slides.</p>
+      <p>4. Slide area is valuable. Don't waste it with large repetitive designs etc. from the master. Make sure your plots use all available space even if it means 
+      dragging a corner 10% bigger. Legibility goes as the square of the plot area.</p>
+      <p>5. You need to give a practice talk at least twice. Preferably do it once with a friend and once with your advisor. If you advisor is asking basic questions 
+      about your slides and it becomes clear he or she has not seen them before, that will really annoy the other committee members.</p>
+      <p>Good luck!</p>
+      <h5>Dissertation</strong></h5>
+      <p>Every doctoral degree program requires the completion of an approved dissertation that demonstrates the student's ability to perform original, independent 
+      research and constitutes a distinct contribution to knowledge in the principal field of study.</p>
+      <h5>Final Oral Examination</strong></h5>
+      <p>A final oral examination (i.e. defense) is required for all students in the program. Full-time students are expected to defend and submit their Ph.D. 
+      dissertations by their 18th quarter in residence. To schedule your defense, consult and complete the <a href="prep-for-final.pdf">preparation for final oral exam 
+      form</a>.</p>
+      <h5>Filing Your Dissertation</h5>
+      <p>When you are ready to file your dissertation, please consult with <a href="https://grad.ucla.edu/academics/graduate-study/file-your-thesis-or-dissertation/">Graduate 
+      Division</a> for deadlines, formatting and other regulations.</p></p>
+      <p>Questions? <a href="mailto:apply@physics.ucla.edu">Contact us by email</a> or phone 310-206-6994.</p></p>
+    </div>
+    <div id="menu2" class="container tab-pane fade"><br>
+      <h3>Astronomy: PhD degree</h3>
+      <p><p>For a comprehensive description of the PhD in Astronomy, consult the <a href="https://grad.ucla.edu/programs/physical-sciences/physics-and-astronomy-department/astronomy/">program 
+      requirements</a>.</p>
+      <h5>Course Requirements</h5>
+      <p>Students are required to take seven core courses (Astronomy 270, Astronomy 271, Astronomy 272, Astronomy 273, Astronomy 274, Astronomy 280, 
+      and Astronomy 281) and two elective courses from the following course options: Astronomy 275, Astronomy 276, Astronomy 282, Astronomy 283, 
+      and Astronomy 286. Students are also strongly encouraged to take Astronomy 284 in each of their first two years of the program. Students are 
+      required to enroll in a minimum of 12 units per quarter and maintain a 3.0 GPA.</p>
+      <h5>Comprehensive Examination</h5>
+      <p>The purpose of the comprehensive exam is to train students to perform research at the Ph.D. level and is designed to assess both research ability and general 
+      knowledge of astronomy and physics at the graduate level.</p>
+      <p>The comprehensive examination itself is comprised of a written component and an oral component. The written component is the culmination of the second-year research 
+      project. The oral component is the presentation of the second-year research project. During the oral presentation, students are expected to respond to questions on their 
+      research and to solve basic problems from all core areas of astrophysics. The oral presentation is conducted in the Spring quarter of students’ 2nd year by the 
+      comprehensive examination committee, appointed by the vice chair and consisting of three members.</p>
+      <p><a href="https://www.pa.ucla.edu/astro-comp-exam.pdf">Here is a detailed decription of the Astronomy comprehensive exam</a>.</p>
+      <h5>Doctoral Committee</h5>
+      <p>Doctoral committees are arranged by the student before the oral qualifying examination. Students are encouraged to consult with their advisor for recommendations on 
+      committee members.</p>
+      <p>To nominate a doctoral committee, please consult the <a href="https://grad.ucla.edu/ucla/gasaa/doccommitteestandards.pdf">minimum standards for doctoral 
+      committees</a> and complete the <a href="https://grad.ucla.edu/gasaa/library/docnomin.pdf">nomination of doctoral committee form</a>. The doctoral committee 
+      must be approved by Graduate Division before the oral qualifying examination.</p>
+      <h5>Oral Qualifying Examination</h5>
+      <p>The oral qualifying examination, the main purpose of which is to discuss and evaluate the student’s proposed dissertation problem, consists of a written 
+      component and an oral component. The written component is a written proposal of a proposed dissertation topic. The oral component is the presentation of the 
+      written proposal.</p>
+      <p>To schedule the oral qualifying exam, contact your advisor’s administrative assistant to book a room and time for the exam. After you have scheduled the 
+      exam, complete the <a href="prep-for-final.pdf">preparation for oral qualifying exam form</a> at least two weeks prior to the date of the actual exam.</p>
+      <p>Upon the successful completion of their oral qualifying examination, students are advanced to candidacy. Full-time students are expected to advance to 
+      candidacy within 10 quarters.</p>
+      <h5>Dissertation</strong></h5>
+      <p>Every doctoral degree program requires the completion of an approved dissertation that demonstrates the student's ability to perform original, independent 
+      research and constitutes a distinct contribution to knowledge in the principal field of study.</p>
+      <h5>Final Oral Examination</h5>
+      <p>A final oral examination (i.e. defense) is required for all students in the program. Full-time students are expected to defend and submit their Ph.D. 
+      dissertations by their 18th quarter in residence. To schedule your defense, consult and complete the <a href="prep-for-final.pdf">preparation for final oral exam 
+      form</a>.</p>
+      <h5>Filing Your Dissertation</h5>
+      <p>When you are ready to file your dissertation, please consult with <a href="https://grad.ucla.edu/academics/graduate-study/file-your-thesis-or-dissertation/">Graduate 
+      Division</a> for deadlines, formatting and other regulations.</p></p>
+      <p>Questions? <a href="mailto:apply@physics.ucla.edu">Contact us by email</a> or phone 310-206-6994.</p></p>
+    </div>
+    <div id="menu3" class="container tab-pane fade"><br>
+    <h3>Graduate FAQ (frequently asked questions)</h3>
+      <br />
+      <!--<img src="profs.jpg" class="image1 float-left" hspace="15px" alt="...">-->
+      <h4>What are the basic requirements to apply to the department?</h4>
+      <p>An applicant for admission must hold a bachelor's degree from an accredited college or university and must have the necessary 
+      academic preparation to participate successfully in graduate level courses. </p>
+      <h4>Are there any required courses for admission to the program?</h4> 
+      <p>There are no specific course requirements for admission. However, prospective students interested in applying to the Physics 
+      program should demonstrate a solid background in undergraduate physics. Similarly, prospective students interested in applying to 
+      the Astronomy program should demonstrate a solid background in undergraduate astronomy.</p>
+      <h4>Can I defer my application fee?</h4> 
+      <p>The application fee must be paid before an application can be considered. UCLA accepts Visa, Mastercard and Discover.</p>
+      <h4>What is the admission timeline for Physics and Astronomy?</h4> 
+      <p>The Astronomy division and Physics division have separate admission committees. Both committees begin evaluating applications 
+      mid-January. Offers of admission are typically made in February and March.</p>
+      <h4>What does the department look for when making admission decisions?</h4> 
+      <p>Both divisions look at undergraduate grades (official transcripts), GRE general and subject (physics) scores, letters of 
+      recommendation, and the statement of purpose.</p>
+      <h4>Do I need to choose between the physics and astronomy divisions when I apply?</h4> 
+      <p>Yes. Although we are one department, each division has its own admission committee and its own curriculum.</p>
+      <h4>What is the procedure to transfer to UCLA from another graduate program?</h4>
+      <p>All applicants use the same application form. The department will recognize graduate level courses completed in other institutions 
+      if verified by an official transcript.</p>
+      <h4>What is the department's application deadline?</h4> 
+      <p>We strongly suggest you submit your application form online by December 15 and scores & letters by the first week of January.</p>
+      <h4>What application materials are required by the department?</h4> 
+      <p>We require these materials:<br />
+      <ul>
+      	<li>General and subject physics GRE exam scores are not required for the Physics PhD program for the 2024-2025 academic 
+      	year. General and subject Physics GRE exam scores are recommended but not required for the Astronomy and Astrophysics 
+      	PhD program. General and subject Physics GRE exam scores should be taken by October. 
+      	<li>TOEFL or IELTS exam scores for applicants whose first language is not English. Please see The Division of Graduate Education’s admissions 
+      	website for further details: English Requirements: 
+      	<a href="https://grad.ucla.edu/admissions/english-requirements/">https://grad.ucla.edu/admissions/english-requirements/</a>.</li>
+      	<li>One set of transcripts (an unofficial copy may be uploaded in the application for review purposes). </li>
+      	<li>Statement of purpose</li>
+      	<li>Personal statement</li>
+      	<li>Three letters of recommendation</li>
+      </ul>
+      </p>
+      <h4>Do I need to submit all application materials before my application will be reviewed and evaluated?</h4> 
+      <p>Applications are not submitted to the committee until the application fee is paid and the department has received all application material.</p>
+      <h4>Should I mail copies of forms I have already uploaded on the online application?</h4> 
+      <p>If you have already uploaded a form (for example, the statement of purpose) in the online application, please do not mail in a copy.</p>
+      <h4>Can I upload or mail in my CV or resume and publications?</h4> 
+      <p>CVs, resumes, copies of awards and publications are not required documents and should not be uploaded or mailed to the department.</p>
+      <h4>Who should author my letters of recommendation?</h4> 
+      <p>At least two of your letters of recommendation should be from academic references. If you have a Master of Science, we would like letters 
+      from both your Bachelor and Master of Science institutions.</p>
+      <h4>What is necessary to qualify as a resident of California?</h4> 
+      <p>U.S. citizens or permanent residents can usually become California residents after living in the state for one year. If you are admitted 
+      to the graduate program, you should contact the Registrar's Office, Residence Classifications (1113 Murphy Hall) upon arrival at UCLA for 
+      complete details on establishing California Residency.</p>
+      <h4>How will I know if I have been recommended for admission?</h4> 
+      <p>If you are recommended for admission, the department will inform you of its decision and financial package via email. Typically, 
+      all recommendations for admission are made by April 1. You may also check admission decision status online using your same email address 
+      and password as when you applied.</p>
+      <h4>What type of financial support may I expect if I am recommended for admission?</h4> 
+      <p>Typically graduate students are awarded at least a Teaching Assistantship for up to 12 quarters. International students are eligible for 
+      a Teaching Assistantship after they pass the Test of Oral Proficiency (TOP) administered by UCLA's Office of Instructional Development.</p>
+      <h4>What are your code numbers for test scores?</h4>
+      <p>
+      <ul>
+      	<li>Institution: 4837</li>
+      	<li>GRE Physics: 0808</li>
+      	<li>GRE Astronomy: 0802</li>
+      	<li>TOEFL: 76</li>
+      </ul>
+      </p>
+      <h4>What test dates are acceptable?</h4> 
+      <p>We will accept GRE scores from tests taken within the last 5 years and TOEFL scores within 2 years. If test taken multiple times, enter the 
+      most recent scores on the online application. If not taken yet, enter expected test date.</p>
+      <h4>What test scores are acceptable?</h4>
+      <p>
+      <ul>
+      	<li>TOEFL: 570 (paper), 230 (computer)</li>
+      	<li>TOEFL IBT: 88</li>
+      	<li>IELTS: 7.0</li>
+      </ul>
+      </p>
+      <h4>Are copies of scores acceptable?</h4>
+      <p>Unofficial copies of scores are acceptable for review purposes but official copies from ETS are required for official admission to the university.</p>
+      <h4>Who is exempt from the TOEFL and/or ESLPE requirement?</h4> 
+      <p>Applicants who hold a Bachelor or higher degree from a university located in the United States or in another country in 
+      which English is the spoken language and the medium of instruction, or who have completed at least two years of full-time 
+      study at such an institution, are exempted from both the TOEFL requirement and the ESLPE. Please be sure to include such 
+      information and transcripts in your application.</p>
+      <p>Questions? <a href="mailto:apply@physics.ucla.edu">Contact us by email</a> or phone 310-206-6994.</p>
+  </div>
+  </div>
+</div>
+</div>
+<?div>
+
+<div class="w-100 d-none d-sm-block d-md-none"><!-- wrap every 1 on sm--></div>
+<div class="w-100 d-none d-md-block d-lg-none"><!-- wrap every 2 on md--></div>
+  </div>
+</div>
+<footer class="site-footer">
+<footer class="footer text-light">
+<div class="container">
+<div class="row pt-3 pb-3">
+<div class="col-4">
+<!--<img src="white-pa-logo-new-crop.png" height="45px" align="left" />-->
+<h5>UCLA Physics & Astronomy Department</h5>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> UCLA Physics & Astronomy<br />
+475 Portola Plaza, Los Angeles, CA 90095-1547<br />
+310-825-3440</p>
+<p>
+<ul>
+	<li><a href="https://www.pa.ucla.edu/contact.html">Contact Physics & Astronomy</a></li>
+</ul>
+</p>	
+</div>
+<div class="col-4">
+<!--<img src="https://atmos.ucla.edu/sites/default/files/Uxd_Wht_ATMOS.svg" />-->
+<h5>ABOUT UCLA</h5>
+<p>
+<ul>
+      	<li><a href="http://www.ucla.edu/">UCLA Home</a></li>
+      	<li><a href="https://www.physicalsciences.ucla.edu/">Division of Physical Sciences</a></li>
+      	<li><a href="https://covid-19.ucla.edu/">UCLA COVID-19 Resources</a></li>
+      	<li><a href="https://admission.ucla.edu/visit/maps-and-parking">Maps, directions, and parking</a></li>
+      </ul>
+</p>
+
+</div>
+<div class="col-4">
+<!--<img src="https://atmos.ucla.edu/sites/default/files/Uxd_Wht_ATMOS.svg" />-->
+<h5>RESOURCES</h5>
+<p>
+<ul>
+      	<li><a href="https://bruinlearn.ucla.edu/courses/288">BruinLearn</a></li>
+      	<li><a href="https://www.pa.ucla.edu/instructional-support.html">Instructional Support</a></li>
+      	<li><a href="http://www.pa.ucla.edu/diversity.html">Diversity</a></li>
+        <li><a href="http://www.pa.ucla.edu/wellness.html">Wellness</a></li>
+        <li><a href="/covid.html">COVID</a></li>
+        <li><a href="https://computing.pa.ucla.edu/">Computing and IT Support</a></li>
+        <!--<li><a href="http://iff.pa.ucla.edu/">Machine Shop and Instrument Fabrication Facility</a></li>  -->
+        <li><a href="https://machine-shop.pa.ucla.edu">Machine Shop and Instrument Fabrication Facility</a></li>
+        <li><a href="https://www.pa.ucla.edu/research-store.html">Research Store</a></li> 
+      	<li><a href="http://www.pa.ucla.edu/contact.html">Physics & Astronomy Administration</a></li>
+      	<li><a href="http://demoweb.physics.ucla.edu/demo-manual">Demoweb: Lecture demonstration </a></li>
+      	<li><a href="http://demoweb.physics.ucla.edu/">Demoweb: Lab manuals</a></li>
+      </ul>
+</p>
+</div></div>
+</div>
+</footer>
+</body>
+</html>
