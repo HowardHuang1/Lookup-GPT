@@ -1,783 +1,190 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-
-      	<!-- Google Tag Manager -->
-	  	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-      	})(window,document,'script','dataLayer','GTM-M4CXQ7');</script>
-	  	<!-- End Google Tag Manager -->
-
-        <script src="https://www.youtube.com/iframe_api"></script>
-
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=11">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="format-detection" content="telephone=no">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="google-site-verification" content="QS5gayPg38zC46YsAx4a9c3v4qTBkn-R69g90pQgpB0" />
-
-        <title>Brand Guidelines | Identity | Colors</title>
-        <meta name="description" content="Guidelines, specifications and downloads for UCLA Blue and Gold plus secondary campus colors."/>
-
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-
-		<!-- Main CSS -->
-		<link href="https://www.brand.ucla.edu/css/app.css" rel="stylesheet" type="text/css">
-    </head>
-<body>
-
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4CXQ7"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-
-    <header id="header">
-      <div class="ribbon">
-
-        <div class="logo">
-          <a href="http://ucla.edu" class="gtm-main-nav-logo" target="_blank"><img src="/images/logo-ucla.svg" alt="UCLA logo"></a>
-        </div>
-
-        <div class="log-in">
-				        	<a href="https://www.brand.ucla.edu/login/YToxOntzOjQ6InBhdGgiO3M6MTY6Ii9pZGVudGl0eS9jb2xvcnMiO30=" class="gtm-main-nav">Log In</a>
-	                </div>
-
-      </div>
-    </header>
-    <nav id="main-nav">
-      <div class="nav-toggle">
-
-        <!-- HAMBURGER NAV -->
-        <input type="checkbox" class="gtm-main-nav-hamburger-icon" aria-label="Hamburger Menu" />
-        <div class="hamburger-icon">
-          <span></span>
-          <span></span>
-          <span></span>
-        </div>
-
-        <!-- MENU -->
-        <ul class="nav">
-          <li class="site-name"><a href="https://www.brand.ucla.edu" class="gtm-main-nav">Brand Guidelines</a></li>
-
-          <!-- FUNDAMENTALS -->
-          <li id="fundamentals-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Fundamentals
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">Who we are</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/brand-defined" class="gtm-main-nav">Brand Defined</a></div>
-                  <p>The UCLA brand, core mission, key message, brand pillars and personality</p>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/brand-protection" class="gtm-main-nav">Brand Protection</a></div>
-                  <p>Policies, permissions and approvals to use UCLA logos and marks</p>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/accessibility" class="gtm-main-nav">Accessibility</a></div>
-                  <p>Creating an inclusive experience for everyone</p>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/edi" class="gtm-main-nav">EDI</a></div>
-                  <p>Learn how to reflect UCLA’s vision for equity, diversity and inclusion and avoid EDI messaging pitfalls with our tips and resources.</p>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <!-- IDENTITY -->
-          <li id="identity-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Identity
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">How we look and talk</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/identity/logos-and-marks" class="gtm-main-nav">Logos and Marks</a></div>
-                  <ul>
-                    <li><a href="/identity/logos-and-marks/campus-logo" class="gtm-main-nav">Campus Logo</a></li>
-                    <li><a href="/identity/department-logos" class="gtm-main-nav">Department Logos</a></li>
-                    <li><a href="/identity/logos-and-marks/script-logo" class="gtm-main-nav">Script Logo</a></li>
-                    <li><a href="/identity/logos-and-marks/seals" class="gtm-main-nav">UCLA Seal</a></li>
-                    <li><a href="/identity/logos-and-marks/historical-logos-and-marks" class="gtm-main-nav">Historical Marks</a></li>
-                  </ul>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/identity/names-and-naming" class="gtm-main-nav">Names and Naming</a></div>
-                  <div class="h5"><a href="/identity/colors" class="gtm-main-nav">Colors</a></div>
-                  <div class="h5"><a href="/identity/typography" class="gtm-main-nav">Typography</a></div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/identity/imagery" class="gtm-main-nav">Imagery</a></div>
-                  <ul>
-                    <li><a href="/identity/imagery/photography-and-videography" class="gtm-main-nav">Photography and Videography</a></li>
-                    <li><a href="/identity/imagery/graphic-elements" class="gtm-main-nav">Graphic Elements</a></li>
-                  </ul>
-                  <div class="h5"><a href="/identity/copy-editorial" class="gtm-main-nav">Copy and Editorial</a></div>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <!-- APPLICATION -->
-          <li id="application-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Application
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">How to apply brand guidelines across channels</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/application/print" class="gtm-main-nav">Print</a></div>
-                  
-                  <div class="h5"><a href="/application/web" class="gtm-main-nav">Web</a></div>
-                    <ul>
-                      
-                      <li><a href="/application/web/design-system" class="gtm-main-nav">Design System</a></li>
-                      <li><a href="/application/web/cms-resources" class="gtm-main-nav">CMS Resources</a></li>
-                      <li><a href="/application/web/best-practices" class="gtm-main-nav">Best Practices</a></li>
-                      
-                    </ul>
-                  
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/application/presentations" class="gtm-main-nav">Presentations</a></div>
-                  
-                  <div class="h5"><a href="/application/email" class="gtm-main-nav">Email</a></div>
-                  <ul>
-                    <li><a href="/application/email/templates" class="gtm-main-nav">Templates</a></li>
-                    <li><a href="/application/email/best-practices" class="gtm-main-nav">Best practices</a></li>                    
-                    <li><a href="/application/email/staff-signature" class="gtm-main-nav">Staff signature</a></li>
-                  </ul> 
-                  
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a class="gtm-main-nav" href="/application/social-media">Social Media</a></div>
-                  <div class="h5"><a href="/application/video" class="gtm-main-nav">Video</a></div>
-                  <ul>
-                    <li><a href="/application/video/elements-and-styles" class="gtm-main-nav">Elements and styles</a></li>
-                    <li><a href="/application/video/best-practices" class="gtm-main-nav">Best practices</a></li>
-                  </ul>
-                  
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <!-- INITIATIVES -->
-          <!-- <li id="initiatives-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Initiatives
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">Major initiatives across campus</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/initiatives/centennial-celebration" class="gtm-main-nav">Centennial Celebration</a></div>
-                    <ul>
-                      <li><a href="/initiatives/centennial-celebration/identity-elements" class="gtm-main-nav">Identity Elements</a></li>
-                      <li><a href="/initiatives/centennial-celebration/templates" class="gtm-main-nav">Templates</a></li>
-                    </ul>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/initiatives/centennial-campaign" class="gtm-main-nav">The Centennial Campaign</a></div>
-                </div>
-                
-                  
-                  
-                
-              </div>
-            </div>
-          </li> -->
-
-          <!-- SEARCH -->
-          <li id="search-nav-item" class="nav-item search">
-            <form id="search-form" class="search-bar">
-              <div class="search-bar__container" id="searchbox">
-                <input id="site-search" class="form-control" aria-label="Search the Site" type="text" placeholder="Search">
-                <button type="button" class="gtm-main-nav-search-submit search-bar__submit btn blue" id="main-navigation-submit" aria-label="Search">
-                  <span class="search-bar__submit__text box-link">Search</span>
-                  </span>
-                </button>
-              </div>
-            </form>
-            <button type="button" class="gtm-main-nav-search-open search-open" id="main-navigation-search">
-              <img class="icon search-icon" src="/images/search-icon.svg" alt="Search button"/>
-            </button>
-          </li>
-        </ul>
-      </div>
-    </nav>
-
-
-    <div class="jump-nav single-column-section-titles" id="colors">
-
-	    <section class="title">
-		    <div class="grid-wrapper">
-
-		    	<h1 class="col-1-13">Colors</h1>
-
-		    	<div class="jump-nav-links col-1-13">
-			    	<ul>
-				    	<li><a class="gtm-internal-page-link" href="#usage">Usage</a></li>
-				    	<li><a class="gtm-internal-page-link" href="#the-palette">The Palette</a></li>
-				    	<li><a class="gtm-internal-page-link" href="#accessibility">Accessibility</a></li>
-				    	<li><a class="gtm-internal-page-link" href="#do-not">Do Not</a></li>
-				    	<li><a class="gtm-internal-page-link" href="#downloads">Downloads</a></li>
-			    	</ul>
-		    	</div>
-		    </div>
-	    </section>
-
-	   <section class="element top">
-		    <div class="grid-wrapper">
-		      <div class="col-1-9 page-overview">
-					<p>UCLA’s colors evoke the blue of sea and sky and the gold of the sun and wildflowers, especially the California poppy. There’s a brightness to UCLA Blue and UCLA Gold that’s especially appropriate to Southern California, and different from other University of California campuses.</p>
-			  </div>
-			</div>
-		</section>
-
-	    <section id="usage" class="element margin-spacer">
-		    <div class="grid-wrapper">
-
-			    <h2 class="col-1-13">Usage</h2>
-
-			    <div class="col-1-7">
-			    	<figure>
-						<img class="sample" src="/images/identity/colors/id-colors-usage.jpg" alt="Color Usage">
-					</figure>
-				</div>
-			    <div class="col-7-13">
-			    	<p>Color is more than an aesthetic choice. Official colors are recognized and protected in trademark case law because they communicate identity.</p>
-			    	<p>Colors are also the building blocks of accessibility. After a long exploration, the standardized UCLA color palette was created to achieve good contrast in the interest of legibility across all channels and media.</p>
-			    	<p>Follow the specifications on this page to use the colors as a <strong>required</strong> brand element. Do not use other shades of blue and gold in publications or online.</p>
-			    	<p>When it comes to merchandise, textile and vinyl colors present special challenges. UCLA Athletics and UCLA Trademarks and Licensing establish standards in this area. By using a licensed UCLA vendor, you are assured of following these standards.</p>
-			    </div>
-		    </div>
-	    </section>
-
-	    <section id="the-palette" class="element margin-spacer">
-		    <div class="grid-wrapper">
-
-			    <h2 class="col-1-13">The Palette</h2>
-
-			    <div class="col-1-9">
-			    	<p class="no-bottom-margin">
-					    The primary UCLA Blue and Gold are supplemented by secondary blues and golds and vibrant tertiary colors. This full range of color provides a great deal of flexibility; please stay within these established hues. For the sake of accessibility, restrict use of tertiary colors to graphics rather than text. A blue gradient can be used to enliven fields of color. The palette includes specs for spot color (Pantone coated and uncoated), CMYK (process printing), RGB (video and online), and HEX (computer applications).
-			    	</p>
-		    	</div>
-		    </div>
-
-				<section class="element grid palette-sample primary-colors">
-					<div class="grid-container grid-3">
-						<div class="grid-title">
-							<h3>Primary Brand Colors</h3>
-							<div class="grid-wrapper">
-								<div class="col-1-9 no-left-right-padding">
-									<p class="no-bottom-margin">Over the years the blue color has always been more important than the gold. A field of blue with a gold accent says “UCLA.” A field of gold with a blue accent does not. Lavish use of white in layouts enhances the brilliance of the colors.</p>
-								</div>
-							</div>
-						</div>
-
-						<div class="wrap ucla-blue-wrap">
-					    <span class="swatch ucla-blue"></span>
-					    <p class="h4">UCLA Blue</p>
-							<ul class="swatch-detail">
-								<li>PANTONE 2383C</li>
-								<li>PANTONE 3553U</li>
-								<li>CMYK 83 40 3 6</li>
-								<li>RGB 39 116 174</li>
-								<li>HEX #2774AE</li>
-							</ul>
-				    </div>
-
-				    <div class="wrap ucla-gold-wrap">
-					    <span class="swatch ucla-gold"></span>
-							<p class="h4">UCLA Gold</p>
-							<ul class="swatch-detail">
-								<li>PANTONE 109C</li>
-								<li>PANTONE 114U</li>
-								<li>CMYK 0 9 100 0</li>
-								<li>RGB 255 209 0</li>
-								<li>HEX #FFD100</li>
-							</ul>
-				    </div>
-
-				    <div class="wrap white-wrap">
-					    <span class="swatch white border-thin"></span>
-							<p class="h4">White</p>
-							<ul class="swatch-detail">
-								<li>CMYK 0 0 0 0</li>
-								<li>RGB 255 255 255</li>
-								<li>HEX #FFFFFF</li>
-							</ul>
-				    </div>
-					</div>
-				</section>
-
-				<section class="element grid palette-sample secondary-colors">
-					<div class="grid-container grid-4">
-						<div class="grid-title">
-							<h3>Secondary Brand Colors</h3>
-							<div class="grid-wrapper">
-								<div class="col-1-9 no-left-right-padding">
-									<p class="no-bottom-margin">A secondary palette has been developed to respect and complement the tradition of blue and gold while adding an additional level of brightness or darkness to the palette.</p>
-								</div>
-							</div>
-						</div>
-
-						<div class="grid-subtitle blue-subtitle">
-							<p class="h4">Blue Tones</p>
-						</div>
-
-						<div class="wrap darkest-blue-wrap">
-					    <span class="swatch darkest-blue"></span>
-					    <p class="h5">Darkest Blue</p>
-							<ul class="swatch-detail">
-								<li>PANTONE 302C</li>
-								<li>PANTONE 2955U</li>
-								<li>CMYK 100 48 12 58</li>
-								<li>RGB 0 59 92</li>
-								<li>HEX #003B5C</li>
-							</ul>
-				    </div>
-
-				    <div class="wrap darker-blue-wrap">
-					    <span class="swatch darker-blue"></span>
-							<p class="h5">Darker Blue</p>
-							<ul class="swatch-detail">
-								<li>PANTONE 7692C</li>
-								<li>PANTONE 2186U</li>
-								<li>CMYK 100 45 0 45</li>
-								<li>RGB 0 85 135</li>
-								<li>HEX #005587</li>
-							</ul>
-				    </div>
-
-				    <div class="wrap lighter-blue-wrap">
-					    <span class="swatch lighter-blue"></span>
-							<p class="h5">Lighter Blue</p>
-							<ul class="swatch-detail">
-								<li>PANTONE 278C</li>
-								<li>PANTONE 278U</li>
-								<li>CMYK 45 14 9 9</li>
-								<li>RGB 139 184 232</li>
-								<li>HEX #8BB8E8</li>
-							</ul>
-				    </div>
-
-						<div class="wrap lightest-blue-wrap">
-					    <span class="swatch lightest-blue"></span>
-							<p class="h5">Lightest Blue</p>
-							<ul class="swatch-detail">
-								<li>PANTONE 2707C</li>
-								<li>PANTONE 2707U</li>
-								<li>CMYK 20 6 0 0</li>
-								<li>RGB 218 235 254</li>
-								<li>HEX #DAEBFE</li>
-							</ul>
-				    </div>
-
-						<div class="grid-subtitle gold-subtitle">
-							<p class="h4">Gold Tones</p>
-						</div>
-
-						<div class="wrap darkest-gold-wrap">
-					    <span class="swatch darkest-gold"></span>
-							<p class="h5">Darkest Gold</p>
-							<ul class="swatch-detail">
-								<li>PANTONE 1235C</li>
-								<li>PANTONE 121U</li>
-								<li>CMYK 0 31 98 0</li>
-								<li>RGB 255 184 28</li>
-								<li>HEX #FFB81C</li>
-							</ul>
-				    </div>
-
-						<div class="wrap darker-gold-wrap">
-					    <span class="swatch darker-gold"></span>
-							<p class="h5">Darker Gold</p>
-							<ul class="swatch-detail">
-								<li>PANTONE 123C</li>
-								<li>PANTONE 115U</li>
-								<li>CMYK 0 19 89 0</li>
-								<li>RGB 255 199 44</li>
-								<li>HEX #FFC72C</li>
-							</ul>
-				    </div>
-					</div>
-				</section>
-
-				<section class="element grid palette-sample tertiary-colors">
-					<div class="grid-container grid-4">
-						<div class="grid-title">
-							<h3>Tertiary Brand Colors</h3>
-							<div class="grid-wrapper">
-								<div class="col-1-9 no-left-right-padding">
-									<p>A tertiary palette has been developed for use as an accent to the primary and secondary colors.</p><br/>
-								</div>
-								<div class="col-1-9 no-left-right-padding">
-									<p><strong>Please note</strong> that in order to maintain maximum vibrancy of these colors, they will appear slightly different between screen and print. Due to printing limitations, the CMYK values are slightly duller than ideal. If your budget allows, select one tertiary color from the palette to include in your project and print it as a spot to bring the vibrancy fully to life in print. For the sake of accessibility, restrict use of tertiary colors to graphics only.</p>
-								</div>
-							</div>
-						</div>
-
-						<div class="wrap yellow-wrap">
-							<div class="tertiary-swatch">
-								<div class="swatch cmyk-yellow"><span class=label>CMYK</span></div>
-								<div class="swatch yellow"><span class=label>RGB</span></div>
-							</div>
-					    <p class="h5">Yellow</p>
-							<ul class="swatch-detail">
-								<li>PANTONE 803C</li>
-								<li>PANTONE 803U</li>
-								<li>CMYK 0 3 97 0</li>
-								<li>RGB 255 255 0</li>
-								<li>HEX #FFFF00</li>
-							</ul>
-				    </div>
-
-				    <div class="wrap green-wrap">
-							<div class="tertiary-swatch">
-								<div class="swatch cmyk-green"><span class=label>CMYK</span></div>
-								<div class="swatch green"><span class=label>RGB</span></div>
-							</div>
-							<p class="h5">Green</p>
-							<ul class="swatch-detail">
-								<li>PANTONE 802C</li>
-								<li>PANTONE 802U</li>
-								<li>CMYK 75 0 90 0</li>
-								<li>RGB 0 255 135</li>
-								<li>HEX #00FF87</li>
-							</ul>
-				    </div>
-
-				    <div class="wrap magenta-wrap">
-							<div class="tertiary-swatch">
-								<div class="swatch cmyk-magenta"><span class=label>CMYK</span></div>
-								<div class="swatch magenta"><span class=label>RGB</span></div>
-							</div>
-							<p class="h5">Magenta</p>
-							<ul class="swatch-detail">
-								<li>PANTONE 806C</li>
-								<li>PANTONE 806U</li>
-								<li>CMYK 0 100 0 0</li>
-								<li>RGB 255 0 165</li>
-								<li>HEX #FF00A5</li>
-							</ul>
-				    </div>
-
-						<div class="wrap cyan-wrap">
-							<div class="tertiary-swatch">
-								<div class="swatch cmyk-cyan"><span class=label>CMYK</span></div>
-								<div class="swatch cyan"><span class=label>RGB</span></div>
-							</div>
-							<p class="h5">Cyan</p>
-							<ul class="swatch-detail">
-								<li>PANTONE 801C</li>
-								<li>PANTONE 801U</li>
-								<li>CMYK 65 0 0 0</li>
-								<li>RGB 0 255 255</li>
-								<li>HEX #00FFFF</li>
-							</ul>
-				    </div>
-
-						<div class="wrap purple-wrap">
-							<div class="tertiary-swatch">
-								<div class="swatch cmyk-purple"><span class=label>CMYK</span></div>
-								<div class="swatch purple"><span class=label>RGB</span></div>
-							</div>
-							<p class="h5">Purple</p>
-							<ul class="swatch-detail">
-								<li>PANTONE 814C</li>
-								<li>PANTONE 814U</li>
-								<li>CMYK 70 75 0 0</li>
-								<li>RGB 130 55 255</li>
-								<li>HEX #8237FF</li>
-							</ul>
-				    </div>
-
-						<div class="wrap black-wrap">
-							<div class="tertiary-swatch">
-								<div class="swatch cmyk-black"><span class=label>CMYK</span></div>
-								<div class="swatch black"><span class=label>RGB</span></div>
-							</div>
-							<p class="h5">Black</p>
-							<ul class="swatch-detail">
-								<li>PANTONE Black C</li>
-								<li>PANTONE Black U</li>
-								<li>CMYK 0 0 0 100</li>
-								<li>RGB 0 0 0</li>
-								<li>HEX #000000</li>
-							</ul>
-				    </div>
-					</div>
-				</section>
-
-				<div class="grid-wrapper">
-					<h3 class="col-1-13">Brand Gradient</h3>
-
-					<div class="col-1-9">
-					  <p>
-					    A blue gradient can be used to enliven fields of color. If the gradient is used strictly as a background — for instance, under an overlay box — you can use the complete color range. If you are overprinting the gradient with type, you need to make sure the resulting contrast ratio meets accessibility standards. See the <a class="gtm-internal-page-link" href="#accessibility">color combination chart</a>.
-					  </p>
-					</div>
-				</div>
-
-				<section class="element grid palette-sample brand-gradients">
-				  <div class="grid-container grid-3">
-						<div class="grid-title">
-							<span class="gradient-sample full-gradient"></span>
-						</div>
-
-						<div class="wrap darker-blue-gradient-wrap">
-				      <p class="h4">Darker Blue</p>
-				      <ul class="swatch-detail">
-				        <li>CMYK 100 45 0 45</li>
-				        <li>RGB 0 85 135</li>
-				        <li>HEX #005587</li>
-				      </ul>
-				    </div>
-
-				    <div class="wrap ucla-blue-gradient-wrap">
-				      <p class="h4">UCLA Blue</p>
-				      <ul class="swatch-detail">
-				        <li>CMYK 83 40 3 6</li>
-				        <li>RGB 39 116 174</li>
-				        <li>HEX #2774AE</li>
-				      </ul>
-				    </div>
-
-				    <div class="wrap lighter-blue-gradient-wrap">
-				      <p class="h4">Lighter Blue</p>
-				      <ul class="swatch-detail">
-				        <li>CMYK 45 14 0 0</li>
-				        <li>RGB 139 184 232</li>
-				        <li>HEX #8BB8E8</li>
-				      </ul>
-				    </div>
-				  </div>
-				</section>
-			</section>
-
-			<section id="accessibility" class="element">
-		    <div class="grid-wrapper">
-			    <h2 class="col-1-13">Accessibility (Color Contrast)</h2>
-			    <div class="col-1-9">
-						<p>
-							Color contrast is very important to legibility. To meet current accessibility standards, use only approved color combinations. For websites and other online uses, <a target="_blank" href="https://webaim.org/resources/contrastchecker/">WebAim Color Contrast Checker</a> is a good tool to measure contrast. For printed materials, the standards are not as easy to measure. Be sure to take special care with reverse type and type overlays, especially if your audience tends to be middle-aged or older.
-						</p>
-
-						<p>
-							Web Content Accessibility Guidelines (WCAG) require a contrast ratio of at least 4.5:1 for normal text and 3:1 for large text to achieve Level AA compliance. To achieve Level AAA compliance requires a contrast ratio of at least 7:1 for normal text and 4.5:1 for large text. Large text is defined as 14 point (typically 18.66px) and bold or larger, or 18 point (typically 24px) or larger.
-						</p>
-
-						<p>
-							See <a class="gtm-internal-page-link" href="#downloads">Downloads</a> for reference PDFs of both charts.
-						</p>
-		    	</div>
-
-					<div class="col-wide col-1-13">
-						<figure>
-							<img src="/images/identity/colors/id-colors-chart.jpg" alt="Chart of approved color combinations within the UCLA brand">
-							<figcaption>
-								This chart "grades" various combinations of UCLA brand colors. UCLA's goal is to achieve Level AA or AAA compliance. The red "DNP" tags means a particular combination Does Not Pass &mdash; don't use those combinations.
-							</figcaption>
-						</figure>
-					</div>
-		    </div>
-	    </section>
-
-	    <section id="do-not" class="element grid">
-		    <div class="grid-container grid-3">
-					<div class="grid-title">
-			    	<h2>Do Not</h2>
-					</div>
-
-			    <div class="wrap">
-				    <img class="sample" src="/images/identity/colors/id-colors-dont-1.jpg" alt="Don't use red, spelled out in red type">
-				    <p>Do not routinely use red for type. Appropriate uses of red are limited to error messages and emergency alerts.</p>
-			    </div>
-
-			    <div class="wrap">
-				    <img class="sample" src="/images/identity/colors/id-colors-dont-2.jpg" alt="Don't tint any of the colors, spelled out in pale blue">
-				    <p>Do not use tints of the brand colors &mdash; colors diluted with white.</p>
-			    </div>
-
-			    <div class="wrap">
-				    <img class="sample" src="/images/identity/colors/id-colors-dont-3.jpg" alt="Don't set type in non-ADA-compliant colors, spelled out in gold">
-				    <p>Use color type with care, avoiding non-ADA-compliant colors.</p>
-			    </div>
-
-			    <div class="wrap">
-				    <img class="sample" src="/images/identity/colors/id-colors-dont-4.jpg" alt="Don't compromise legibility, spelled out in gray on gold">
-				    <p>Do not compromise legibility by choosing low-contrast color combinations.</p>
-			    </div>
-
-			    <div class="wrap">
-				    <img class="sample" src="/images/identity/colors/id-colors-dont-5.jpg" alt="Don't use gold type on the darkest blue, spelled out in gold on navy">
-				    <p>Do not use gold type on the darkest blue.</p>
-			    </div>
-
-			    <div class="wrap">
-				    <img class="sample" src="/images/identity/colors/id-colors-dont-6.jpg" alt="Don't make your overall layout too dark, spelled out in white on navy">
-				    <p>Do not make your overall layout too dark. The UCLA palette is bright.</p>
-			    </div>
-
-			    <div class="wrap">
-				    <img class="sample" src="/images/identity/colors/id-colors-dont-7.jpg" alt="Don't use gold type on the darkest blue, spelled out in gold on navy">
-				    <p>Do not create your own swatches.</p>
-			    </div>
-
-			    <div class="wrap">
-				    <img class="sample" src="/images/identity/colors/id-colors-dont-8.jpg" alt="Don't make your overall layout too dark, spelled out in white on navy">
-				    <p>Do not create your own gradients.</p>
-			    </div>
-	    </section>
-
-	    <section id="downloads" class="element download">
-		    <div class="grid-wrapper">
-			    <h2 class="col-1-13">Download</h2>
-
-			    <div class="col-1-9">
-			    		<p>
-                            UCLA Brand Colors (PDF) is a useful reference because it includes the specifications for the full palette and the color contrast accessibility chart. Please do not use it for visual matching — it will only be as accurate as your color printer. We recommend purchasing Pantone color swatches for the most accurate visual matching. You should avoid using the eyedropper tool to pick out colors on the screen. Use accurate colors by entering the values instead. 
-                        </p>
-                        <p>
-                            For color swatches to use with Adobe applications, you can download ASE (Adobe Swatch Exchange) files and GRD files for gradients. If you prefer to build your own gradients, follow the Gradient Specifications PDF.</p>
-                        <h3>
-                            Included in your download:
-                        </h3>
-                        <ul class="unordered-list no-margin">
-                            <li>UCLA Brand Colors (PDF)</li>
-                            <li>UCLA Color Swatches (ASE and GRD)</li>
-                        </ul>
-                </div>
-
-			    <div class="col-wide col-1-13">
-
-					<form class="gtm-download-button-zip">
-
-	
-	
-
-			<a class="btn blue  gtm-download-button-zip lock" href="/download/YToyOntzOjQ6InBhdGgiO3M6MTY6Ii9pZGVudGl0eS9jb2xvcnMiO3M6NDoiZmlsZSI7czo4NDoiaHR0cHM6Ly9icmFuZC51Y2xhLmVkdS51cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9hc3NldHMvaWRlbnRpdHkvdWNsYS1icmFuZC1jb2xvcnMuemlwIjt9" data-button-name="UCLA Brand Colors">Download Brand Colors (ZIP 2 MB)</a>
-	
-</form>
-
-<!-- 
-	<a class="btn blue  gtm-download-button-zip lock" href="/download/YToyOntzOjQ6InBhdGgiO3M6MTY6Ii9pZGVudGl0eS9jb2xvcnMiO3M6NDoiZmlsZSI7czo4NDoiaHR0cHM6Ly9icmFuZC51Y2xhLmVkdS51cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9hc3NldHMvaWRlbnRpdHkvdWNsYS1icmFuZC1jb2xvcnMuemlwIjt9" data-button-name="UCLA Brand Colors">Download Brand Colors (ZIP 2 MB)</a>
- 
--->
-
-
-
-			    </div>
-		    </div>
-	    </section>
-
-    </div>
-
-
-
-<footer id="footer">
-			<div class="wrapper">
-				<img class="logo" src="/images/logo-stratcomm.svg" alt="UCLA Strategic Communications logo">
-				<div class="footer-content">
-					<div class="col-1">
-						<p>
-							10889 Wilshire Blvd. | Ste 1400<br>
-							Los Angeles, CA 90024<br>
-						</p>
-						<p class="contact">
-							<ul>
-								<li><a class="gtm-footer-link-phone" href="tel:3108254321">(310) 825-4321</a></li>
-								<li><a class="gtm-footer-link-mailto" href="mailto:brand@stratcomm.ucla.edu">brand@stratcomm.ucla.edu</a></li>
-							</ul>
-						</p>
-					</div>
-					<div class="col-2">
-						<div class="h5">Learn More</div>
-							<ul>
-								<li><a class="gtm-footer-link-internal gtm-download-file-pdf" href="/assets/ucla-brand-glossary.pdf" target="_blank" data-button-name="Glossary Footer">Glossary (PDF 52KB)</a></li>
-								<li><a class="gtm-footer-link-internal" href="/resources">Resources</a></li>
-							</ul>
-					</div>
-					<div class="col-3">
-						<div class="h5">Related Websites</div>
-							<ul>
-								<li><a class="gtm-footer-link-outbound" href="https://www.marks.ucla.edu" target="_blank">Permission to use UCLA Marks</a></li>
-								<li><a class="gtm-footer-link-outbound" href="http://socialmedia.ucla.edu" target="_blank">Social Media at UCLA</a></li>
-								<li><a class="gtm-footer-link-outbound" href="http://identity.uclahealth.org" target="_blank">UCLA Health Identity</a></li>
-								<li><a class="gtm-footer-link-outbound" href="https://asucla.ucla.edu/licensing/" target="_blank">UCLA Trademarks and Licensing</a></li>
-								<li><a class="gtm-footer-link-outbound" href="https://www.adminvc.ucla.edu/marks/report-a-violation" target="_blank">Report improper use of UCLA Marks</a></li>
-							</ul>
-					</div>
-				</div>
-				<div class="sign-up">
-					<div class="blurb">
-						<div class="h5">Stay Informed</div>
-						Join the brand guidelines email list to hear about resources and updates
-					</div>
-
-					<div id="form-messages">
-						<form id="email-signup" method="post" action="/api/newsletter" pageId="22355370" siteId="549861" parentPageId="22355367" autocomplete="off">
-							<div class="field email-field">
-								<input type="text" name="Email" id="control_EMAIL" label="Email" class="textInput defaultText" placeholder="Your Email Address" aria-label="Your Email Address" required>
-								<input type="hidden" name="formSourceName" value="StandardForm"><!-- DO NOT REMOVE HIDDEN FIELD sp_exp --><input type="hidden" name="sp_exp" value="yes">
-							</div>
-							<div class="field submit-field">
-								<input type="submit" class="btn yellow gtm-footer-email-signup" value="Sign Up" aria-label="Sign Up">
-							</div>
-							<p class="warning">Please enter a valid email.</p>
-						</form>
-					</div>
-					<div id="success" class="hide">
-						<img src="/images/outline-check-circle.svg" alt="">
-						<p>Your email was submitted. Please check your inbox to complete your registration.</p>
-					</div>
-
-				</div>
-				<div class="legal">
-					<div id="regents">&copy;2024 Regents of the <a href="https://www.universityofcalifornia.edu" target="_blank">University of California</a></div>
-					<div class="global-links">
-						<a class="gtm-footer-link-outbound" href="http://www.ucla.edu/terms-of-use" target="_blank">Terms of Use</a>
-						<a class="gtm-footer-link-outbound" href="http://www.ucla.edu/accessibility" target="_blank">Accessibility</a>
-						<!--
-						<a class="gtm-footer-link-outbound" href="#">Emergency</a>
-						-->
-					</div>
-				</div>
-			</div>
-		</footer>
-
-		<script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
-		<script src="/vendors/fancybox-master/dist/jquery.fancybox.min.js"></script>
-
-		
-		<script src="https://www.brand.ucla.edu/js/main.js" ></script>
-
-		<script type="text/javascript">
-			$(document).ready( function() {
-				$('a.fancybox').fancybox();
-			});
-
-						</script>
-		<!-- test -->
-	</body>
-</html>
+Brand Guidelines | Identity | Colors
+Log In
+Colors
+Usage
+The Palette
+Accessibility
+Do Not
+Downloads
+UCLA’s colors evoke the blue of sea and sky and the gold of the sun and wildflowers, especially the California poppy. There’s a brightness to UCLA Blue and UCLA Gold that’s especially appropriate to Southern California, and different from other University of California campuses.
+Usage
+Color is more than an aesthetic choice. Official colors are recognized and protected in trademark case law because they communicate identity.
+Colors are also the building blocks of accessibility. After a long exploration, the standardized UCLA color palette was created to achieve good contrast in the interest of legibility across all channels and media.
+Follow the specifications on this page to use the colors as a
+required
+brand element. Do not use other shades of blue and gold in publications or online.
+When it comes to merchandise, textile and vinyl colors present special challenges. UCLA Athletics and UCLA Trademarks and Licensing establish standards in this area. By using a licensed UCLA vendor, you are assured of following these standards.
+The Palette
+The primary UCLA Blue and Gold are supplemented by secondary blues and golds and vibrant tertiary colors. This full range of color provides a great deal of flexibility; please stay within these established hues. For the sake of accessibility, restrict use of tertiary colors to graphics rather than text. A blue gradient can be used to enliven fields of color. The palette includes specs for spot color (Pantone coated and uncoated), CMYK (process printing), RGB (video and online), and HEX (computer applications).
+Primary Brand Colors
+Over the years the blue color has always been more important than the gold. A field of blue with a gold accent says “UCLA.” A field of gold with a blue accent does not. Lavish use of white in layouts enhances the brilliance of the colors.
+UCLA Blue
+PANTONE 2383C
+PANTONE 3553U
+CMYK 83 40 3 6
+RGB 39 116 174
+HEX #2774AE
+UCLA Gold
+PANTONE 109C
+PANTONE 114U
+CMYK 0 9 100 0
+RGB 255 209 0
+HEX #FFD100
+White
+CMYK 0 0 0 0
+RGB 255 255 255
+HEX #FFFFFF
+Secondary Brand Colors
+A secondary palette has been developed to respect and complement the tradition of blue and gold while adding an additional level of brightness or darkness to the palette.
+Blue Tones
+Darkest Blue
+PANTONE 302C
+PANTONE 2955U
+CMYK 100 48 12 58
+RGB 0 59 92
+HEX #003B5C
+Darker Blue
+PANTONE 7692C
+PANTONE 2186U
+CMYK 100 45 0 45
+RGB 0 85 135
+HEX #005587
+Lighter Blue
+PANTONE 278C
+PANTONE 278U
+CMYK 45 14 9 9
+RGB 139 184 232
+HEX #8BB8E8
+Lightest Blue
+PANTONE 2707C
+PANTONE 2707U
+CMYK 20 6 0 0
+RGB 218 235 254
+HEX #DAEBFE
+Gold Tones
+Darkest Gold
+PANTONE 1235C
+PANTONE 121U
+CMYK 0 31 98 0
+RGB 255 184 28
+HEX #FFB81C
+Darker Gold
+PANTONE 123C
+PANTONE 115U
+CMYK 0 19 89 0
+RGB 255 199 44
+HEX #FFC72C
+Tertiary Brand Colors
+A tertiary palette has been developed for use as an accent to the primary and secondary colors.
+Please note
+that in order to maintain maximum vibrancy of these colors, they will appear slightly different between screen and print. Due to printing limitations, the CMYK values are slightly duller than ideal. If your budget allows, select one tertiary color from the palette to include in your project and print it as a spot to bring the vibrancy fully to life in print. For the sake of accessibility, restrict use of tertiary colors to graphics only.
+CMYK
+RGB
+Yellow
+PANTONE 803C
+PANTONE 803U
+CMYK 0 3 97 0
+RGB 255 255 0
+HEX #FFFF00
+CMYK
+RGB
+Green
+PANTONE 802C
+PANTONE 802U
+CMYK 75 0 90 0
+RGB 0 255 135
+HEX #00FF87
+CMYK
+RGB
+Magenta
+PANTONE 806C
+PANTONE 806U
+CMYK 0 100 0 0
+RGB 255 0 165
+HEX #FF00A5
+CMYK
+RGB
+Cyan
+PANTONE 801C
+PANTONE 801U
+CMYK 65 0 0 0
+RGB 0 255 255
+HEX #00FFFF
+CMYK
+RGB
+Purple
+PANTONE 814C
+PANTONE 814U
+CMYK 70 75 0 0
+RGB 130 55 255
+HEX #8237FF
+CMYK
+RGB
+Black
+PANTONE Black C
+PANTONE Black U
+CMYK 0 0 0 100
+RGB 0 0 0
+HEX #000000
+Brand Gradient
+A blue gradient can be used to enliven fields of color. If the gradient is used strictly as a background — for instance, under an overlay box — you can use the complete color range. If you are overprinting the gradient with type, you need to make sure the resulting contrast ratio meets accessibility standards. See the
+color combination chart
+.
+Darker Blue
+CMYK 100 45 0 45
+RGB 0 85 135
+HEX #005587
+UCLA Blue
+CMYK 83 40 3 6
+RGB 39 116 174
+HEX #2774AE
+Lighter Blue
+CMYK 45 14 0 0
+RGB 139 184 232
+HEX #8BB8E8
+Accessibility (Color Contrast)
+Color contrast is very important to legibility. To meet current accessibility standards, use only approved color combinations. For websites and other online uses,
+WebAim Color Contrast Checker
+is a good tool to measure contrast. For printed materials, the standards are not as easy to measure. Be sure to take special care with reverse type and type overlays, especially if your audience tends to be middle-aged or older.
+Web Content Accessibility Guidelines (WCAG) require a contrast ratio of at least 4.5:1 for normal text and 3:1 for large text to achieve Level AA compliance. To achieve Level AAA compliance requires a contrast ratio of at least 7:1 for normal text and 4.5:1 for large text. Large text is defined as 14 point (typically 18.66px) and bold or larger, or 18 point (typically 24px) or larger.
+See
+Downloads
+for reference PDFs of both charts.
+This chart "grades" various combinations of UCLA brand colors. UCLA's goal is to achieve Level AA or AAA compliance. The red "DNP" tags means a particular combination Does Not Pass — don't use those combinations.
+Do Not
+Do not routinely use red for type. Appropriate uses of red are limited to error messages and emergency alerts.
+Do not use tints of the brand colors — colors diluted with white.
+Use color type with care, avoiding non-ADA-compliant colors.
+Do not compromise legibility by choosing low-contrast color combinations.
+Do not use gold type on the darkest blue.
+Do not make your overall layout too dark. The UCLA palette is bright.
+Do not create your own swatches.
+Do not create your own gradients.
+Download
+UCLA Brand Colors (PDF) is a useful reference because it includes the specifications for the full palette and the color contrast accessibility chart. Please do not use it for visual matching — it will only be as accurate as your color printer. We recommend purchasing Pantone color swatches for the most accurate visual matching. You should avoid using the eyedropper tool to pick out colors on the screen. Use accurate colors by entering the values instead.
+For color swatches to use with Adobe applications, you can download ASE (Adobe Swatch Exchange) files and GRD files for gradients. If you prefer to build your own gradients, follow the Gradient Specifications PDF.
+Included in your download:
+UCLA Brand Colors (PDF)
+UCLA Color Swatches (ASE and GRD)
+Download Brand Colors (ZIP 2 MB)
+10889 Wilshire Blvd. | Ste 1400
+Los Angeles, CA 90024
+(310) 825-4321
+brand@stratcomm.ucla.edu
+Learn More
+Glossary (PDF 52KB)
+Resources
+Related Websites
+Permission to use UCLA Marks
+Social Media at UCLA
+UCLA Health Identity
+UCLA Trademarks and Licensing
+Report improper use of UCLA Marks
+Stay Informed
+Join the brand guidelines email list to hear about resources and updates
+Please enter a valid email.
+Your email was submitted. Please check your inbox to complete your registration.
+©2024 Regents of the
+University of California
+Terms of Use
+Accessibility

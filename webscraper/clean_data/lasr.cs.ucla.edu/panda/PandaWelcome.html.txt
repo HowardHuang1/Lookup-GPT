@@ -1,50 +1,24 @@
-<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
-<html>
-<head>
-  <meta http-equiv="Content-Type"
- content="text/html; charset=iso-8859-1">
-  <meta name="GENERATOR"
- content="Mozilla/4.79 [en] (X11; U; Linux 2.4.18-3smp i686) [Netscape]">
-  <title>PANDA: Welcome</title>
-</head>
-<body style="color: rgb(0, 0, 0); background-color: rgb(153, 153, 255);"
- link="#0000ff" vlink="#800080" alink="#708090">
-&nbsp;
-<table>
-  <tbody>
-    <tr>
-      <td height="10"><br>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="panda_logo.gif" height="130" width="200"
- align="left"></td>
-      <td align="center" width="400"><img src="panda.shadow.trans.gif"></td>
-    </tr>
-  </tbody>
-</table>
-<table>
-  <tbody>
-    <tr>
-      <td><img src="BlueMarbleLine.gif" height="5" width="800"> <br>
-      <spacer type="horizontal" size="10"><i
- style="color: rgb(153, 0, 0);"><font size="+4">Peer
-Agent Negotiation and Deployment of Adapters</font></i></td>
-    </tr>
-  </tbody>
-</table>
-<p><font size="+0">Welcome to the <b><i>Panda</i></b> project. <b><i>Panda</i></b>
+PANDA: Welcome
+Peer
+Agent Negotiation and Deployment of Adapters
+Welcome to the
+Panda
+project.
+Panda
 (Peer Agent Negotiation and Deployment of Adapters) was a multi-year
 DARPA-funded
-research effort&nbsp; (June 98 to July 02) undertaken by the Laboratory
+research effort  (June 98 to July 02) undertaken by the Laboratory
 for
-Advanced Systems Research <a
- href="http://lasr.cs.ucla.edu/LASR_MainPage/LASR_main.index.html">(LASR)</a>
-(formerly the <i style="color: rgb(0, 0, 0);">File Mobility Group</i>)
+Advanced Systems Research
+(LASR)
+(formerly the
+File Mobility Group
+)
 in UCLA's
-<a href="http://www.cs.ucla.edu">Computer Science Department</a>.</font>
-</p>
-<p><font size="+0"><b><i>Panda</i></b> is a middleware support system
+Computer Science Department
+.
+Panda
+is a middleware support system
 for
 active networks that allows both aware and unaware applications to
 benefit
@@ -53,71 +27,75 @@ performs
 planning and negotiation of active network agent deployment, adapts to
 failures and other major changes in network characteristics, and
 handles
-automatic deployment of agent code to active network nodes.</font>
-</p>
-<p><font size="+0"><b><i>Panda</i></b> is built on the base of an
+automatic deployment of agent code to active network nodes.
+Panda
+is built on the base of an
 existing
 adaptive-agent framework developed at UCLA under our DARPA-funded
-<a href="http://www.lasr.cs.ucla.edu/travler98/welcomeframe.html">Travler</a>
+Travler
 contract. An existing active network execution environment called ANTS
 was
 used
-as the platform for the middleware services that <b><i>Panda</i></b>
-provides.</font></p>
-<p><i style="color: rgb(102, 0, 0);"><font size="+1">In December of
+as the platform for the middleware services that
+Panda
+provides.
+In December of
 2000, the value
-of <b>Panda</b> was successfully demonstrated at the Active Networks
+of
+Panda
+was successfully demonstrated at the Active Networks
 PI
-meeting in Atlanta, Georgia</font></i><font size="+0"><span
- style="color: rgb(102, 0, 0);">.</span>&nbsp; A pair of network video
+meeting in Atlanta, Georgia
+.
+A pair of network video
 and audio streams were
 intercepted
 from legacy applications (which were unaware of the the active networks
 environment) and redirected through a series of related active networks
 software packages. We were able to selectively prioritize one pair of
 streams
-based on a determination of who the speaker was.</font>
-<br>
-&nbsp;
-<br>
-</p>
-<p style="color: rgb(153, 0, 0);"><small><small><b><i><font size="+3"><small><small>Project
-Members:</small></small></font></i></b>
-</small></small></p>
-<ul>
-  <li> <font size="+0"><a
- href="http://www.lasr.cs.ucla.edu/reiher.new/index2.html">Dr.
-Peter Reiher </a>(<i style="color: rgb(0, 0, 0);">Principal
-investigator</i><span style="color: rgb(0, 0, 0);">)</span></font>&nbsp;
-  </li>
-  <li> <font size="+0"><a href="http://cs.ucla.edu/%7Erguy">Dr.
-Richard Guy </a> (<span style="font-style: italic;">Staff scientist</span>)<br>
-    </font></li>
-  <li> <font size="+0">Alexey
-Rudenko (<span style="font-style: italic;">Graduated Ph.D.&nbsp; Now
-with Northrup-Grumann</span>)</font></li>
-  <li> <font size="+0">Vincent
+based on a determination of who the speaker was.
+Project
+Members:
+Dr.
+Peter Reiher
+(
+Principal
+investigator
+)
+Dr.
+Richard Guy
+(
+Staff scientist
+)
+Alexey
+Rudenko (
+Graduated Ph.D.  Now
+with Northrup-Grumann
+)
+Vincent
 Ferreria
-(<span style="font-style: italic;">Graduated Master's</span>)<i><font
- color="#a52a2a"><br>
-    </font></i></font></li>
-  <li> <font size="+0"><a href="http://lever.cs.ucla.edu/kfe/research/">Kevin
-Eustice</a>
-(<i style="color: rgb(0, 0, 0);">Ph.D. student</i><span
- style="color: rgb(0, 0, 0);">)</span></font></li>
-  <li> <font size="+0">Byron Wang (<i style="color: rgb(0, 0, 0);">Former
-undergraduate student</i>)</font></li>
-  <li> <font size="+0"><a
- href="http://www.cs.ucla.edu/%7Evrama/index.cgi">V.
-Ramakrishna</a>
-(<i style="color: rgb(0, 0, 0);">Ph.D student</i><span
- style="color: rgb(0, 0, 0);">)</span></font></li>
-</ul>
-<font size="+0"><a
- href="http://www.lasr.cs.ucla.edu/LASR_Current_Members_and_Collaborators.html">LASR
-team members </a>have published several <a
- href="http://www.lasr.cs.ucla.edu/panda/paper_abstracts.html">important
-papers</a> that directly relate to this research.</font>
-<hr><i><font size="+0">DARPA/ITO Contract No. N66001-98-C-8512</font></i>
-</body>
-</html>
+(
+Graduated Master's
+)
+Kevin
+Eustice
+(
+Ph.D. student
+)
+Byron Wang (
+Former
+undergraduate student
+)
+V.
+Ramakrishna
+(
+Ph.D student
+)
+LASR
+team members
+have published several
+important
+papers
+that directly relate to this research.
+DARPA/ITO Contract No. N66001-98-C-8512

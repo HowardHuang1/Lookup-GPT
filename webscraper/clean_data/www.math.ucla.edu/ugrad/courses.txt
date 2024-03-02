@@ -1,2892 +1,677 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/terms/"
-  xmlns:foaf="http://xmlns.com/foaf/0.1/"
-  xmlns:og="http://ogp.me/ns#"
-  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xmlns:sioc="http://rdfs.org/sioc/ns#"
-  xmlns:sioct="http://rdfs.org/sioc/types#"
-  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-<head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortcut icon" href="https://www.math.ucla.edu/sites/all/themes/math/favicon.ico" type="image/vnd.microsoft.icon" />
-<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-  <title>Undergraduate Course Landing | UCLA Department of Mathematics</title>
-  <style>
-@import url("https://www.math.ucla.edu/modules/system/system.base.css?qfurcz");
-</style>
-<style>
-@import url("https://www.math.ucla.edu/sites/all/modules/date/date_api/date.css?qfurcz");
-@import url("https://www.math.ucla.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?qfurcz");
-@import url("https://www.math.ucla.edu/modules/field/theme/field.css?qfurcz");
-@import url("https://www.math.ucla.edu/sites/all/modules/views/css/views.css?qfurcz");
-@import url("https://www.math.ucla.edu/sites/all/modules/ckeditor/css/ckeditor.css?qfurcz");
-</style>
-<style>
-@import url("https://www.math.ucla.edu/sites/all/modules/ctools/css/ctools.css?qfurcz");
-@import url("https://www.math.ucla.edu/sites/all/modules/panels/css/panels.css?qfurcz");
-@import url("https://www.math.ucla.edu/sites/all/modules/taxonomy_access/taxonomy_access.css?qfurcz");
-@import url("https://www.math.ucla.edu/sites/all/modules/panels/plugins/layouts/flexible/flexible.css?qfurcz");
-@import url("https://www.math.ucla.edu/sites/default/files/ctools/css/92ce8f524d2ec25a347941c928f1245f.css?qfurcz");
-@import url("https://www.math.ucla.edu/sites/all/libraries/fontawesome/css/font-awesome.css?qfurcz");
-</style>
-<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" media="all" />
-<style>
-@import url("https://www.math.ucla.edu/sites/all/themes/bootstrap/css/overrides.css?qfurcz");
-@import url("https://www.math.ucla.edu/sites/all/themes/math/css/style.css?qfurcz");
-</style>
-  <!-- HTML5 element support for IE6-8 -->
-  <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-  <!--[if IE]>
-  <style type="text/css">
-  body {
-    margin: 0px !important;
-  }
-  .main-container {
-    padding-bottom: 10px;
-  }
-
-  .news .views-row img {
-    margin-left: 0px;
-    margin-right: 75px;
-    display: inline;
-  }
-
-  #footer {
-    position: relative !important;
-  }
-  </style>
-  <![endif]-->
-  <script src="https://www.math.ucla.edu/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.3"></script>
-<script src="https://www.math.ucla.edu/misc/jquery.once.js?v=1.2"></script>
-<script src="https://www.math.ucla.edu/misc/drupal.js?qfurcz"></script>
-<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js?qfurcz"></script>
-<script src="https://www.math.ucla.edu/sites/all/modules/jcaption/jcaption.js?qfurcz"></script>
-<script src="https://www.math.ucla.edu/sites/all/themes/math/scripts/news.js?qfurcz"></script>
-<script src="https://www.math.ucla.edu/sites/all/themes/math/scripts/schedules.js?qfurcz"></script>
-<script src="https://www.math.ucla.edu/sites/all/themes/math/scripts/ugrad-faq.js?qfurcz"></script>
-<script src="https://www.math.ucla.edu/sites/all/themes/math/scripts/grad-course-landing.js?qfurcz"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"math","theme_token":"zbX4J3zV4DHWSCkZZmuSt2dxlX10UAZwt3tHkvTJWvQ","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/jcaption\/jcaption.js":1,"sites\/all\/themes\/math\/scripts\/news.js":1,"sites\/all\/themes\/math\/scripts\/schedules.js":1,"sites\/all\/themes\/math\/scripts\/ugrad-faq.js":1,"sites\/all\/themes\/math\/scripts\/grad-course-landing.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/taxonomy_access\/taxonomy_access.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"public:\/\/ctools\/css\/92ce8f524d2ec25a347941c928f1245f.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/css\/bootstrap-combined.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/math\/css\/style.css":1}},"jcaption":{"jcaption_selectors":[".node-article .field-item img"],"jcaption_alt_title":"alt","jcaption_requireText":1,"jcaption_copyStyle":0,"jcaption_removeStyle":0,"jcaption_removeClass":1,"jcaption_removeAlign":0,"jcaption_copyAlignmentToClass":0,"jcaption_copyFloatToClass":0,"jcaption_copyClassToClass":0,"jcaption_autoWidth":0,"jcaption_keepLink":0,"jcaption_styleMarkup":"","jcaption_animate":0,"jcaption_showDuration":"200","jcaption_hideDuration":"200"},"urlIsAjaxTrusted":{"\/ugrad\/courses":true}});</script>
-</head>
-<body class="html not-front not-logged-in no-sidebars page-ugrad page-ugrad-courses" >
-  <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-  </div>
-    <div class="header visible-desktop">
-  <div class="container">
-          <a class="logo pull-left" href="/" title="Home">
-      <img src="https://www.math.ucla.edu/sites/default/files/30_logo_0.png" alt="Home" />
-      </a>
-        <div class="header-block pull-right">
-        <div class="region region-inline-header">
-    <section id="block-search-form" class="block block-search clearfix">
-
-      
-  <form class="form-search content-search" action="/ugrad/courses" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
-      <h2 class="element-invisible">Search form</h2>
-    <div class="input-append"><input title="Enter the terms you wish to search for." class="search-query span2 form-text" placeholder="Search" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><button type="submit" class="btn"><i class="icon-search"></i><span class="element-invisible">Search</span></button></div><button class="element-invisible btn btn-primary form-submit" id="edit-submit" name="op" value="Search" type="submit">Search</button>
-<input type="hidden" name="form_build_id" value="form-Ao-eYuNsEaURdIwLvlFtCJjHhV3zvbsm5BvJMoMo24c" />
-<input type="hidden" name="form_id" value="search_block_form" />
-</div>
-</div></form>  
-</section> <!-- /.block -->
-<section id="block-block-24" class="block block-block clearfix">
-
-      
-  <p class="rteright"><a href="https://www.math.ucla.edu/user">UCLA Mathnet Login</a></p>
-  
-</section> <!-- /.block -->
-  </div>
-    </div>
-  </div>
-</div>
-
-<div id="primary-nav" class="navbar container">
-  <div class="navbar-inner">
-    <div class="container">
-      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
-      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </a>
-      
-      <a href="/" title="Home" class="brand visible-tablet visible-phone">UCLA Department of Mathematics</a>
-
-              <div class="nav-collapse collapse">
-          <nav role="navigation">
-                          <ul class="menu nav"><li class="first leaf"><a href="/">Home</a></li>
-<li class="expanded dropdown"><a href="/about" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">About <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="https://ww3.math.ucla.edu/about/welcome-from-the-chair/" title="">Welcome from the Chair</a></li>
-<li class="leaf"><a href="https://ww3.math.ucla.edu/about/" title="">Department Overview</a></li>
-<li class="leaf"><a href="https://ww3.math.ucla.edu/about/diversity-inclusion/" title="">Diversity &amp; Inclusion</a></li>
-<li class="leaf"><a href="https://ww3.math.ucla.edu/ucla-mathematics-computing/" title="">Computing Resources</a></li>
-<li class="last leaf"><a href="https://www.math.ucla.edu/internal" title="">Internal Resources</a></li>
-</ul></li>
-<li class="leaf"><a href="/people" title="">People</a></li>
-<li class="expanded dropdown"><a href="https://ww3.math.ucla.edu/undergraduate-program/" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Student Services <span class="caret"></span></a><ul class="dropdown-menu"><li class="first expanded dropdown-submenu"><a href="https://ww3.math.ucla.edu/undergraduate-program/" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Undergraduate Program</a><ul class="dropdown-menu"><li class="first leaf"><a href="https://ww3.math.ucla.edu/undergraduate-program/" title="">Overview</a></li>
-<li class="collapsed"><a href="https://ww3.math.ucla.edu/majors-minors-specializations/" title="">Majors, Minors &amp; Specializations</a></li>
-<li class="leaf"><a href="https://ww3.math.ucla.edu/courses/" title="">Courses</a></li>
-<li class="leaf"><a href="https://ww3.math.ucla.edu/math-diagnostic-test/" title="">Math Diagnostic Test</a></li>
-<li class="leaf"><a href="https://ww3.math.ucla.edu/petitions/" title="">Petitions</a></li>
-<li class="leaf"><a href="https://ww3.math.ucla.edu/opportunities/" title="">Opportunities &amp; Announcements</a></li>
-<li class="leaf"><a href="https://ww3.math.ucla.edu/summer-2020-courses/" title="">Summer 2020 Courses</a></li>
-<li class="last leaf"><a href="https://ww3.math.ucla.edu/tutoring/" title="">Tutors</a></li>
-</ul></li>
-<li class="expanded dropdown-submenu"><a href="/grad" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Graduate Program</a><ul class="dropdown-menu"><li class="first leaf"><a href="https://ww3.math.ucla.edu/overview-2/" title="">Program Overview</a></li>
-<li class="leaf"><a href="https://ww3.math.ucla.edu/admissions/" title="">Admissions</a></li>
-<li class="leaf"><a href="https://ww3.math.ucla.edu/courses-2/" title="">Courses</a></li>
-<li class="last leaf"><a href="https://ww3.math.ucla.edu/graduate-handbook/" title="">Graduate Handbook</a></li>
-</ul></li>
-<li class="last leaf"><a href="https://ww3.math.ucla.edu/student-groups/" title="">Student Groups</a></li>
-</ul></li>
-<li class="expanded dropdown"><a href="https://secure.math.ucla.edu/seminars/weekly_list.php" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">News & Events <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="https://ww3.math.ucla.edu/news-events/news-2/" title="">News</a></li>
-<li class="leaf"><a href="https://ww3.math.ucla.edu/news-events/dept-magazine/" title="">Department Magazine</a></li>
-<li class="leaf"><a href="https://ww3.math.ucla.edu/news-events/distinguished-lecture-series/" title="">Distinguished Lecture Series</a></li>
-<li class="expanded dropdown-submenu"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Colloquium" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Colloquia</a><ul class="dropdown-menu"><li class="first leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Applied%20Colloquium" title="">Applied Math Colloquium</a></li>
-<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Logic%20Colloquium" title="">Logic Colloquium</a></li>
-<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Colloquium" title="">Thursday Colloquium</a></li>
-<li class="last leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Undergraduate%20Colloquium" title="">Undergraduate Colloquium</a></li>
-</ul></li>
-<li class="expanded dropdown-submenu"><a href="https://secure.math.ucla.edu/seminars/weekly_list.php" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Seminars</a><ul class="dropdown-menu"><li class="first leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Algebra" title="">Algebra Seminar</a></li>
-<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?&amp;type=Algebraic%20Topology" title="">Algebraic Topology Seminar</a></li>
-<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?&amp;type=Analysis%20and%20PDE" title="">Analysis and PDE Seminar</a></li>
-<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?&amp;type=Combinatorics" title="">Combinatorics Seminar</a></li>
-<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?&amp;type=Functional%20Analysis" title="">Functional Analysis Seminar</a></li>
-<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=GSO" title="">GSO Seminar</a></li>
-<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Geometry" title="">Geometry Seminar</a></li>
-<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Joint%20Topology" title="">Joint Topology Seminar</a></li>
-<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=The%20Level%20Set%20Collective" title="">The Level Set Collective</a></li>
-<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Logic" title="">Logic Seminar</a></li>
-<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Number%20Theory" title="">Number Theory Seminar</a></li>
-<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Probability" title="">Probability Seminar</a></li>
-<li class="last leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Topology" title="">Topology Seminar</a></li>
-</ul></li>
-<li class="expanded dropdown-submenu"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Algebraic%20Topology" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Participating Seminars</a><ul class="dropdown-menu"><li class="first leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Algebraic%20Topology" title="">Participating Algebraic Topology Seminar</a></li>
-<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Analysis" title="">Participating Analysis Seminar</a></li>
-<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Funct.%20Analysis" title="">Participating Funct. Analysis Seminar</a></li>
-<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Number%20Theory" title="">Participating Number Theory Seminar</a></li>
-<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20PDE" title="">Participating PDE Seminar</a></li>
-<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Probability" title="">Participating Probability Seminar</a></li>
-<li class="last leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Topology" title="">Participating Topology Seminar</a></li>
-</ul></li>
-<li class="last leaf"><a href="https://secure.math.ucla.edu/seminars/weekly_list.php" title="">Weekly Schedule</a></li>
-</ul></li>
-<li class="leaf"><a href="https://ww3.math.ucla.edu/alumni-donors/" title="">Alumni</a></li>
-<li class="leaf"><a href="https://ww3.math.ucla.edu/giving/" title="">Giving</a></li>
-<li class="last leaf"><a href="https://ww3.math.ucla.edu/contact/" title="">Contact</a></li>
-</ul>                                              </nav>
-        </div>
-          </div>
-  </div>
-</div>
-
-
-<div class="main-container container">
-
-  <header role="banner" id="page-header">
-    
-      </header> <!-- /#header -->
-
-  <div class="row-fluid">
-
-      
-
-    <section class="span12">  
-
-      <ul class="breadcrumb"><li><a href="/">Home</a><span class="divider">/</span></li><li><a href="/ugrad" title="">Undergraduate</a><span class="divider">/</span></li><li><a href="/ugrad/courses" title="" class="active">Undergraduate Course Information</a><span class="divider">/</span></li><li><a href="/ugrad"></a></li></ul>      <a id="main-content"></a>
-                    <h1 class="page-header ">Undergraduate Course Landing</h1>
-                                                        
-<div class="panel-flexible panels-flexible-34 clearfix" >
-<div class="panel-flexible-inside panels-flexible-34-inside">
-<div class="panels-flexible-row panels-flexible-row-34-2 panels-flexible-row-first clearfix ">
-  <div class="inside panels-flexible-row-inside panels-flexible-row-34-2-inside panels-flexible-row-inside-first clearfix">
-<div class="panels-flexible-region panels-flexible-region-34-toggle panels-flexible-region-first panels-flexible-region-last ugrad-course-landing-toggle">
-  <div class="inside panels-flexible-region-inside panels-flexible-region-34-toggle-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
-<div class="panel-pane pane-custom pane-1"  >
-  
-      
-  
-  <div class="pane-content">
-    <div class="centered-pills">
-<ul class="nav nav-pills">
-	<li id="ugrad-sched"><a href="#">Lower Division Tentative Schedule</a></li>
-	<li id="ugrad-sched-up"><a href="#">Upper Division Tentative Schedule</a></li>
-	<li id="ugrad-sched-pic"><a href="#">PIC Tentative Schedule</a></li>       
-</ul>
-</div>  </div>
-
-  
-  </div>
-  </div>
-</div>
-  </div>
-</div>
-<div class="panels-flexible-row panels-flexible-row-34-1 clearfix 1">
-  <div class="inside panels-flexible-row-inside panels-flexible-row-34-1-inside clearfix">
-<div class="panels-flexible-region panels-flexible-region-34-center___top panels-flexible-region-first panels-flexible-region-last ugrad-course-landing-courses">
-  <div class="inside panels-flexible-region-inside panels-flexible-region-34-center___top-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
-  </div>
-</div>
-  </div>
-</div>
-<div class="panels-flexible-row panels-flexible-row-34-main-row clearfix">
-  <div class="inside panels-flexible-row-inside panels-flexible-row-34-main-row-inside clearfix">
-<div class="panels-flexible-region panels-flexible-region-34-center panels-flexible-region-first panels-flexible-region-last ugrad-course-landing-schedule">
-  <div class="inside panels-flexible-region-inside panels-flexible-region-34-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
-<div class="panel-pane pane-views pane-undergraduate-tentative-schedules"  >
-  
-      
-  
-  <div class="pane-content">
-    <div class="view view-undergraduate-tentative-schedules view-id-undergraduate_tentative_schedules view-display-id-block_1 tentschedule view-test view-dom-id-118c9fa37a0f2a1983bf1bf1a5cea042">
-            <div class="view-header">
-      <div class="centered-pills">
-<h3>UCLA DEPARTMENT OF MATHEMATICS SCHEDULE FOR 2023-2024</h3>
-
-</div>
-<div class="row-fluid visible-desktop visible-tablet">
-<div class="span4">
-<p class="text-center">'23 Fall</p>
-</div>
-<div class="span4">
-<p class="text-center">'24 Winter</p>
-</div>
-<div class="span4">
-<p class="text-center">'24 Spring</p>
-</div>
-</div>    </div>
-  
-  
-  
-      <div class="view-content">
-      <div class="view-grouping"><div class="view-grouping-header">Math 1        -- Precalculus
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped views-row-first views-row-last">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , MENG, T.                    </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 3A       -- Calculus for Life Sciences Students
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped views-row-last">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 PM - 12:50 PM MWF    , GREENE, M.P.                </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 3B       -- Calculus for Life Sciences Students
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , GREENE, M.P.                </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 3C       -- Ordinary Differential Equations with Linear Algebra for Life Sciences Students
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 PM - 12:50 PM MWF    , GREENE, M.P.                </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 19       -- Fiat Lux Freshman Seminars
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 4:00 PM - 4:50 PM R      , HILL, M.A.                  </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 31A      -- Differential and Integral Calculus
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 8:50 AM MWF    , WU, J.S.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 9:00 AM - 9:50 AM MWF    , VARVAREZOS, K.K.            </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 4:00 PM - 4:50 PM MWF    , GANNON, T.A.                </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 5:00 PM - 5:50 PM MWF    , GANNON, T.A.                </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 8:50 AM MWF    , WU, J.S.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 12:00 PM - 12:50 PM MWF    , KERANEN, J.P.               </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 31AL     -- Differential and Integral Calculus Laboratory
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 5:00 PM - 5:50 PM T      , KERANEN, J.P.               </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 PM - 12:50 PM MWF    , KERANEN, J.P.               </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 5:00 PM - 5:50 PM T      , WU, J.S.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 1:00 PM - 1:50 PM MWF    , WU, J.S.                    </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 31B      -- Integration and Infinite Series
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , MIN, H.                     </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 3:00 PM - 3:50 PM MWF    , FLYNN, P.                   </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 4:00 PM - 4:50 PM MWF    , LI, L.                      </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , ZHANG, Z.                   </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 10:00 AM - 10:50 AM MWF    , SANCHEZ OCAL, P.            </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 11:00 AM - 11:50 AM MWF    , SANCHEZ OCAL, P.            </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 1:00 PM - 1:50 PM MWF    , DING, C.                    </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 5     : 4:00 PM - 4:50 PM MWF    , LI, L.                      </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , SANCHEZ OCAL, P.            </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 11:00 AM - 11:50 AM MWF    , SANCHEZ OCAL, P.            </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 12:00 AM - 12:00 AM TBA    , THE STAFF                   </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 32A      -- Calculus of Several Variables
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , YANEZ ETCHEBERRY,           </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 11:00 AM - 11:50 AM MWF    , SHIN, B.Y.                  </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 12:00 PM - 12:50 PM MWF    , WONG, R.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 1:00 PM - 1:50 PM MWF    , EBERT, M.                   </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 5     : 10:00 AM - 10:50 AM MWF    , ENAKOUTSA, K.               </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , SHIN, B.Y.                  </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 11:00 AM - 11:50 AM MWF    , WONG, R.                    </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 12:00 PM - 12:50 PM MWF    , EBERT, M.                   </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , HILL, M.A.                  </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 12:00 PM - 12:50 PM MWF    , EBERT, M.                   </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 1:00 PM - 1:50 PM MWF    , ENAKOUTSA, K.               </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 2:00 PM - 2:50 PM MWF    , ENAKOUTSA, K.               </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 32AH     -- Calculus of Several Variables (Honors)
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , WONG, R.                    </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 32B      -- Calculus of Several Variables
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 1:00 PM - 1:50 PM MWF    , YEONG, W.                   </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 2:00 PM - 2:50 PM MWF    , DO, K.                      </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 8:50 AM MWF    , DO, K.                      </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 5:00 PM - 5:50 PM MWF    , YEONG, W.                   </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 4:00 PM - 4:50 PM MWF    , YEONG, W.                   </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , YEONG, W.                   </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 10:00 AM - 10:50 AM MWF    , YEONG, W.                   </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 3:00 PM - 3:50 PM MWF    , WONG, R.                    </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 32BH     -- Calculus of Several Variables (Honors)
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , WONG, R.                    </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 33A      -- Linear Algebra and Applications
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 8:50 AM MWF    , SANCHEZ OCAL, P.            </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 9:00 AM - 9:50 AM MWF    , MUTLU AKATURK, H.           </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 12:00 PM - 12:50 PM MWF    , SANCHEZ OCAL, P.            </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , YANG, T.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 5:00 PM - 5:50 PM MWF    , ARANT, T.J.                 </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , NIENHAUS, J.                </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 11:00 AM - 11:50 AM MWF    , SHIN, B.Y.                  </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 3:00 PM - 3:50 PM MWF    , YANG, T.                    </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 33B      -- Differential Equations
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , PALMER, A.Z.                </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 11:00 AM - 11:50 AM MWF    , WANG, C.                    </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , WANG, C.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 2:00 PM - 2:50 PM MWF    , WANG, C.                    </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , WANG, C.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 10:00 AM - 10:50 AM MWF    , WANG, C.                    </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 3:00 PM - 3:50 PM MWF    , NEGRINI, E.                 </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 42       -- Introduction to Data-Driven Mathematical Modeling: Life, Universe, and Everything
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 8:50 AM MWF    , JOHNSON, C.L.               </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 PM - 12:50 PM MWF    , JOHNSON, C.L.               </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 61       -- Introduction to Discrete Structures
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , KANNAN, S.                  </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 1:00 PM - 1:50 PM MWF    , GLEIZER, O.                 </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:00 PM - 3:50 PM MWF    , GEORGE, T.                  </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 2:00 PM - 2:50 PM MWF    , VICARIA ANGEL, M.           </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , DO, K.                      </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 12:00 PM - 12:50 PM MWF    , KANNAN, S.                  </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 70       -- Introduction to Probability
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 2:50 PM MWF    , ODHIAMBO, C.O.              </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:00 PM - 3:50 PM MWF    , THE STAFF                   </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 73XP     -- Key Issues in K-12 Mathematics
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 3:50 PM T      , DALLAS, H.J.                </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 74XP     -- Mathematics and Pedagogy for Teaching Elementary Mathematics
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 3:50 PM T      , CHAN, H.H.                  </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 75XP     -- Mathematics and Pedagogy for Teaching Middle School Mathematics
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 3:50 PM T      , CHAN, H.H.                  </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 89HC     -- Honors Contracts
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 AM - 12:00 AM VAR    , KANNAN, S.                  </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 95       -- Transition to Upper-Division Mathematics
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-      </tbody>
-</table>
-</div></div>    </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
-
-  
-  </div>
-  </div>
-</div>
-  </div>
-</div>
-<div class="panels-flexible-row panels-flexible-row-34-3 clearfix ">
-  <div class="inside panels-flexible-row-inside panels-flexible-row-34-3-inside clearfix">
-<div class="panels-flexible-region panels-flexible-region-34-upper_div_tentative_schedule panels-flexible-region-first panels-flexible-region-last ugrad-course-landing-schedule-ud">
-  <div class="inside panels-flexible-region-inside panels-flexible-region-34-upper_div_tentative_schedule-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
-<div class="panel-pane pane-views pane-undergraduate-tentative-schedules"  >
-  
-      
-  
-  <div class="pane-content">
-    <div class="view view-undergraduate-tentative-schedules view-id-undergraduate_tentative_schedules view-display-id-block_3 tentschedule view-test view-dom-id-8ca34d7e143d603c464537fec116f861">
-            <div class="view-header">
-      <div class="centered-pills">
-<h3>UCLA DEPARTMENT OF MATHEMATICS SCHEDULE FOR 2023-2024</h3>
-</div>
-<div class="row-fluid visible-desktop visible-tablet">
-<div class="span4">
-<p class="text-center">'23 Fall</p>
-</div>
-<div class="span4">
-<p class="text-center">'24 Winter</p>
-</div>
-<div class="span4">
-<p class="text-center">'24 Spring</p>
-</div>
-</div>    </div>
-  
-  
-  
-      <div class="view-content">
-      <div class="view-grouping"><div class="view-grouping-header">Math 100      -- Problem Solving
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped views-row-first views-row-last">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 PM - 12:50 PM MWF    , SARKAR, S.                  </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 101      -- Advanced Problem Solving
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped views-row-last">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 4:00 PM - 6:50 PM M      , SARKAR, S.                  </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 105A     -- Mathematics and Pedagogy for Teaching Secondary School Mathematics
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 1:00 PM - 2:50 PM MW     , DALLAS, H.J.                </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 105B     -- Mathematics and Pedagogy for Teaching Secondary School Mathematics
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 1:00 PM - 2:50 PM MW     , DALLAS, H.J.                </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 105C     -- Mathematics and Pedagogy for Teaching Secondary School Mathematics
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 1:00 PM - 2:50 PM MW     , DALLAS, H.J.                </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 1:00 PM - 2:50 PM MW     , LOPEZ, I.                   </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 106      -- History of Mathematics  
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , KERANEN, J.P.               </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 110A     -- Algebra  
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:00 PM - 3:50 PM MWF    , MUTLU AKATURK, H.           </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , LUO, J.                     </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 110AH    -- Algebra (Honors)  
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , MERKURJEV, A.S.             </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 110B     -- Algebra  
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , MIN, H.                     </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 2:50 PM MWF    , YANEZ, J.                   </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 110BH    -- Algebra (Honors)  
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , MERKURJEV, A.S.             </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 110C     -- Algebra  
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , ROUQUIER, R.A.              </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 4:00 PM - 4:50 PM W      , ROUQUIER, R.A.              </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 111      -- Theory of Numbers
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 114L     -- Mathematical Logic
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , VICARIA ANGEL, M.           </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math M192A    -- Introduction to Collaborative Learning Theory and Practice
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:30 PM - 4:45 PM T      , ROPER, M.L.                 </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:30 PM - 4:45 PM T      , SHAKED, S.                  </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:30 PM - 4:45 PM T      , SHAKED, S.                  </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:30 PM - 4:45 PM T      , ROPER, M.L.                 </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:30 PM - 4:45 PM T      , SHAKED, S.                  </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math M32T     -- Essential Calculus for Mathematical Biologists
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 2:50 PM MWF    , CONLEY, W.J.                </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math M148     -- Experience of Data Science
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:30 PM - 4:45 PM MW     , GOULD, R.L.                 </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 9:15 AM TR     , MAIERHOFER, T.J.            </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 9:15 AM TR     , TA                          </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math M114S    -- Introduction to Set Theory
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 PM - 12:50 PM MWF    , ARANT, T.J.                 </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 115A     -- Linear Algebra  
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 2:50 PM MWF    , ENAKOUTSA, K.               </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 9:00 AM - 9:50 AM MWF    , SCAVIA, F.                  </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 10:00 AM - 10:50 AM MWF    , NIENHAUS, J.                </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 11:00 AM - 11:50 AM MWF    , OPIE, M.P.                  </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 5     : 12:00 PM - 12:50 PM MWF    , YEONG, W.                   </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 6     : 1:00 PM - 1:50 PM MWF    , SHIN, B.Y.                  </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 7     : 2:00 PM - 2:50 PM MWF    , WANG, C.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 8     : 3:00 PM - 3:50 PM MWF    , NIENHAUS, J.                </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 9     : 5:00 PM - 5:50 PM MWF    , DO, K.                      </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 8:50 AM MWF    , LETZ, J.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 9:00 AM - 9:50 AM MWF    , KNIGHTLY, A.                </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 10:00 AM - 10:50 AM MWF    , DO, K.                      </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 11:00 AM - 11:50 AM MWF    , NIENHAUS, J.                </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 5     : 12:00 PM - 12:50 PM MWF    , SHIN, B.Y.                  </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 6     : 1:00 PM - 1:50 PM MWF    , KNIGHTLY, A.                </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 8:50 AM MWF    , DO, K.                      </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 9:00 AM - 9:50 AM MWF    , LETZ, J.                    </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 11:00 AM - 11:50 AM MWF    , WONG, R.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 12:00 PM - 12:50 PM MWF    , EBERT, M.                   </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 5     : 2:00 PM - 2:50 PM MWF    , SHIN, B.Y.                  </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 6     : 3:00 PM - 3:50 PM MWF    , KERANEN, J.P.               </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 115AH    -- Linear Algebra (Honors)
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 12:00 PM - 12:50 PM MWF    , GREENE, R.E.                </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 2:50 PM MWF    , MORAGA SAEZ, J.L.           </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 2:50 PM MWF    , OPIE, M.P.                  </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 115B     -- Linear Algebra  
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 1:00 PM - 1:50 PM MWF    , KANNAN, S.                  </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 1:00 PM - 1:50 PM MWF    , LI, L.                      </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 116      -- Mathematical Cryptology
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , CONLEY, W.J.                </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 118      -- Mathematical Methods of Data Theory
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , KASSAB, L.                  </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , KASSAB, L.                  </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 120A     -- Differential Geometry
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 1:00 PM - 1:50 PM MWF    , PETERSEN, P.                </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 PM - 12:50 PM MWF    , VARVAREZOS, K.K.            </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 PM - 12:50 PM MWF    , VARVAREZOS, K.K.            </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 121      -- Introduction to Topology  
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 2:50 PM MWF    , HONDA, K.                   </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 123      -- Foundations of Geometry  
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 2:50 PM MWF    , GLEIZER, O.                 </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 131A     -- Analysis
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 8:50 AM MWF    , ARANT, T.J.                 </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 9:00 AM - 9:50 AM MWF    , XU, P.                      </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 10:00 AM - 10:50 AM MWF    , PALMER, A.Z.                </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 1:00 PM - 1:50 PM MWF    , VISAN, M.                   </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 5     : 3:00 PM - 3:50 PM MWF    , DING, C.                    </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , YANEZ ETCHEBERRY,           </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 10:00 AM - 10:50 AM MWF    , XU, P.                      </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 11:00 AM - 11:50 AM MWF    , MUTLU AKATURK, H.           </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 1:00 PM - 1:50 PM MWF    , MUTLU AKATURK, H.           </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 5     : 2:00 PM - 2:50 PM MWF    , LI, L.                      </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 6     : 3:00 PM - 3:50 PM MWF    , DING, C.                    </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 8:50 AM MWF    , MUTLU AKATURK, H.           </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 9:00 AM - 9:50 AM MWF    , DING, C.                    </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 10:00 AM - 10:50 AM MWF    , WU, J.S.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 11:00 AM - 11:50 AM MWF    , MUTLU AKATURK, H.           </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 5     : 12:00 PM - 12:50 PM MWF    , XU, P.                      </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 6     : 1:00 PM - 1:50 PM MWF    , YANEZ, J.                   </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 131AH    -- Analysis (Honors)
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 11:00 AM - 11:50 AM MWF    , GANGBO, W.                  </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , GREENE, R.E.                </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 131B     -- Analysis  
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , VARVAREZOS, K.K.            </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 1:00 PM - 1:50 PM MWF    , ARANT, T.J.                 </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 2:00 PM - 2:50 PM MWF    , VARVAREZOS, K.K.            </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , VARVAREZOS, K.K.            </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 1:00 PM - 1:50 PM MWF    , ARANT, T.J.                 </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 131BH    -- Analysis (Honors)  
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , GANGBO, W.                  </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , KHITRIK, M.                 </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 132      -- Complex Analysis for Applications  
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , YANG, T.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 11:00 AM - 11:50 AM MWF    , XIONG, H.                   </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , MIN, H.                     </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 1:00 PM - 1:50 PM MWF    , XIONG, H.                   </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 2:50 PM MWF    , MIN, H.                     </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 3:00 PM - 3:50 PM MWF    , XIONG, H.                   </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 132H     -- Complex Analysis (Honors)
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , XIONG, H.                   </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 133      -- Introduction to Fourier Analysis
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:00 PM - 3:50 PM MWF    , GREENE, R.E.                </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 134      -- Linear and Nonlinear Systems of Differential Equations
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , BISWAL, S.                  </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 11:00 AM - 11:50 AM MWF    , BISWAL, S.                  </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , TYMOCHKO, S.J.              </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 3:00 PM - 3:50 PM MWF    , HESTER, E.W.                </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , HESTER, E.W.                </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 10:00 AM - 10:50 AM MWF    , TYMOCHKO, S.J.              </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 135      -- Ordinary Differential Equations  
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , FLYNN, P.                   </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 11:00 AM - 11:50 AM MWF    , HESTER, E.W.                </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 12:00 PM - 12:50 PM MWF    , ZHOU, M.                    </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , FLYNN, P.                   </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 11:00 AM - 11:50 AM MWF    , JOHNSON, C.L.               </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 9:00 AM - 9:50 AM MWF    , JOHNSON, C.L.               </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 136      -- Partial Differential Equations  
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , FLYNN, P.                   </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 142      -- Mathematical Modeling
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , TYMOCHKO, S.J.              </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 11:00 AM - 11:50 AM MWF    , JOHNSON, C.L.               </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , JOHNSON, C.L.               </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 10:00 AM - 10:50 AM MWF    , BISWAL, S.                  </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , BISWAL, S.                  </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 12:00 PM - 12:50 PM MWF    , BISWAL, S.                  </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 146      -- Methods of Applied Mathematics  
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:00 PM - 3:50 PM MWF    , BISWAL, S.                  </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 151A     -- Applied Numerical Methods
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , ANDERSON, C.R.              </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 10:00 AM - 10:50 AM MWF    , WONG, K.                    </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 1:00 PM - 1:50 PM MWF    , NEGRINI, E.                 </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 2:00 PM - 2:50 PM MWF    , KASHEFI, A.                 </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 2:50 PM MWF    , JIANG, C.                   </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 3:00 PM - 3:50 PM MWF    , ENAKOUTSA, K.               </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 4:00 PM - 4:50 PM MWF    , ENAKOUTSA, K.               </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 9:00 AM - 9:50 AM MWF    , NEGRINI, E.                 </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 151AH    -- Numerical Analysis Part 1 (Honors)
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:00 PM - 3:50 PM MWF    , ZHOU, M.                    </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 151B     -- Applied Numerical Methods  
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , HAN, F.                     </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , ANDERSON, C.R.              </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 1:00 PM - 1:50 PM MWF    , WONG, K.                    </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 2:00 PM - 2:50 PM MWF    , NEGRINI, E.                 </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 12:00 PM - 12:50 PM MWF    , JEONG, H.                   </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 2:00 PM - 2:50 PM MWF    , HAN, F.                     </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 2:00 PM - 2:50 PM MWF    , HAN, F.                     </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 151BH    -- Numerical Analysis Part 2 (Honors)
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 155      -- Mathematical Imaging
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:00 PM - 3:50 PM MWF    , VESE, L.A.                  </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 1:00 PM - 1:50 PM MWF    , HAN, F.                     </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 156      -- Machine Learning
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 2:50 PM MWF    , KRISHNAGOPAL, S.            </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 5:00 PM - 5:50 PM MWF    , LELMI, J.                   </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 3:00 PM - 3:50 PM MWF    , LELMI, J.                   </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 PM - 12:50 PM MWF    , KASSAB, L.                  </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 164      -- Optimization
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , MENG, T.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 12:00 PM - 12:50 PM MWF    , KASSAB, L.                  </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 3:00 PM - 3:50 PM MWF    , KOVACOVA, G.                </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 8:50 AM MWF    , MENG, T.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 2:00 PM - 2:50 PM MWF    , KOVACOVA, G.                </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , MENG, T.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 1:00 PM - 1:50 PM MWF    , KASSAB, L.                  </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 167      -- Mathematical Game Theory
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 8:50 AM MWF    , LUTZ, P.G.                  </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 4:00 PM - 4:50 PM MWF    , GLEIZER, O.                 </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 168      -- Introduction to Networks
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , KRISHNAGOPAL, S.            </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , ROPER, M.L.                 </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , PORTER, M.A.                </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 170A     -- Probability Theory I
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , BAEUMLER, J.                </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , KILLIP, R.                  </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 170B     -- Probability Theory II
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , KILLIP, R.                  </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 170E     -- Introduction to Probability and Statistics 1: Probability
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 8:50 AM MWF    , ZHANG, Z.                   </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 9:00 AM - 9:50 AM MWF    , LEVINSON, D.J.              </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 10:00 AM - 10:50 AM MWF    , BAEUMLER, J.                </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 12:00 PM - 12:50 PM MWF    , JEONG, H.                   </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 5     : 4:00 PM - 4:50 PM MWF    , SONTHALIA, R.S.             </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 6     : 5:00 PM - 5:50 PM MWF    , JEONG, H.                   </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 8:50 AM MWF    , ZHANG, Z.                   </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 12:00 PM - 12:50 PM MWF    , SONTHALIA, R.S.             </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 1:00 PM - 1:50 PM MWF    , LEVINSON, D.J.              </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 2:00 PM - 3:15 PM TR     , NEEDELL, D.                 </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 2:00 PM - 2:50 PM MWF    , ZHANG, Z.                   </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 170S     -- Introduction to Probability and Statistics 2: Statistics
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , LELMI, J.                   </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 3:00 PM - 3:50 PM MWF    , FAROLFI, G.                 </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , FAROLFI, G.                 </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 10:00 AM - 10:50 AM MWF    , GURDOGAN, H.U.              </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 3:00 PM - 3:50 PM MWF    , JEONG, H.                   </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 4:00 PM - 4:50 PM MWF    , JEONG, H.                   </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , JEONG, H.                   </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 1:00 PM - 1:50 PM MWF    , SONTHALIA, R.S.             </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 2:00 PM - 2:50 PM MWF    , FAROLFI, A.                 </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 171      -- Stochastic Processes
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , BAEUMLER, J.                </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 PM - 12:50 PM MWF    , BAEUMLER, J.                </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 174E     -- Mathematics of Finance for Mathematics/Economics Students
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , GURDOGAN, H.U.              </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 8:50 AM MWF    , GURDOGAN, H.U.              </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , LEVINSON, D.J.              </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 177      -- Theory of Interest and Applications
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 1:00 PM - 1:50 PM MWF    , FAROLFI, G.                 </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 8:50 AM MWF    , GURDOGAN, H.U.              </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 178A     -- Foundations of Actuarial Mathematics: Life Insurance and Annuities
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 PM - 12:50 PM MWF    , VOSS, M.                    </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 178B     -- Foundations of Actuarial Mathematics: Additional Topics in Long-Term Actuarial Mathematics
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , VOSS, M.                    </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 178C     -- Foundations of Actuarial Mathematics: Loss Models
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , VOSS, M.                    </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 179      -- Advanced Topic in Financial Mathematics
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:00 PM - 3:50 PM MWF    , VOSS, M.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 1:00 PM - 1:50 PM MWF    , KOVACOVA, G.                </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 180      -- Graph Theory
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:00 PM - 3:50 PM MWF    , GEORGE, T.                  </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 2:50 PM MWF    , GEORGE, T.                  </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 182      -- Algorithms
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:00 PM - 3:50 PM MWF    , VICARIA ANGEL, M.           </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:00 PM - 3:50 PM MWF    , VICARIA ANGEL, M.           </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 PM - 12:50 PM MWF    , ARANT, T.J.                 </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 184      -- Enumerative Combinatorics
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:00 PM - 3:50 PM MWF    , XU, P.                      </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 191      -- Variable Topics Research Seminars: Mathematics
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 192B     -- Collaborative Learning Theory and Practice
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 3:50 PM W      , SHAKED, S.                  </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 3:50 PM W      , ROPER, M.L.                 </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:30 PM - 4:45 PM R      , SHAKED, S.                  </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:30 PM - 4:45 PM R      , ROPER, M.L.                 </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 195      -- Community Internships in Mathematics Education
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 AM - 12:00 AM VAR    , YIN, J.                     </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 AM - 12:00 AM VAR    , BLASIUS, D.M.               </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 197      -- Individual Studies in Mathematics
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 AM - 12:00 AM VAR    , KHITRIK, M.                 </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 12:00 AM - 12:00 AM VAR    , DROLET ROSSI, A.            </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 12:00 AM - 12:00 AM VAR    , PORTER, M.A.                </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 12:00 AM - 12:00 AM VAR    , SHARIFI, R.T.               </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 5     : 12:00 AM - 12:00 AM VAR    , HILL, M.A.                  </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 6     : 12:00 AM - 12:00 AM VAR    , PETERSEN, P.                </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 7     : 12:00 AM - 12:00 AM VAR    , SCHAEFFER, H.K.             </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 8     : 12:00 AM - 12:00 AM VAR    , ROUQUIER, R.A.              </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 9     : 12:00 AM - 12:00 AM VAR    , MONTUFAR CUARTAS,           </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 AM - 12:00 AM VAR    , CONLEY, W.J.                </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 12:00 AM - 12:00 AM VAR    , SHARIFI, R.T.               </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">Math 199      -- Directed Research or Senior Project in Mathematics
- </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 AM - 12:00 AM VAR    , BLASIUS, D.M.               </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 12:00 AM - 12:00 AM VAR    , PETERSEN, P.                </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 12:00 AM - 12:00 AM VAR    , PORTER, M.A.                </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 12:00 AM - 12:00 AM VAR    , STEEN, F.F.                 </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 5     : 12:00 AM - 12:00 AM VAR    , GANGBO, W.                  </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 6     : 12:00 AM - 12:00 AM VAR    , BERTOZZI, A.                </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 7     : 12:00 AM - 12:00 AM VAR    , SCHAEFFER, H.K.             </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 8     : 12:00 AM - 12:00 AM VAR    , ROPER, M.L.                 </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 9     : 12:00 AM - 12:00 AM VAR    , MONTUFAR CUARTAS,           </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 AM - 12:00 AM VAR    , MONTUFAR CUARTAS,           </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 12:00 AM - 12:00 AM VAR    , PORTER, M.A.                </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 12:00 AM - 12:00 AM VAR    , ROPER, M.L.                 </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 12:00 AM - 12:00 AM VAR    , PETERSEN, P.                </td>
-              </tr>
-      </tbody>
-</table>
-</div></div>    </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
-
-  
-  </div>
-  </div>
-</div>
-  </div>
-</div>
-<div class="panels-flexible-row panels-flexible-row-34-4 panels-flexible-row-last clearfix ">
-  <div class="inside panels-flexible-row-inside panels-flexible-row-34-4-inside panels-flexible-row-inside-last clearfix">
-<div class="panels-flexible-region panels-flexible-region-34-pic_tentative_schedule panels-flexible-region-first panels-flexible-region-last ugrad-course-landing-schedule-pic">
-  <div class="inside panels-flexible-region-inside panels-flexible-region-34-pic_tentative_schedule-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
-<div class="panel-pane pane-views pane-undergraduate-tentative-schedules"  >
-  
-      
-  
-  <div class="pane-content">
-    <div class="view view-undergraduate-tentative-schedules view-id-undergraduate_tentative_schedules view-display-id-block_2 tentschedule view-test view-dom-id-da36ee6f4168c499f7c645bdfa95a5cd">
-            <div class="view-header">
-      <div class="centered-pills">
-<h3>UCLA DEPARTMENT OF MATHEMATICS SCHEDULE FOR 2023-2024</h3>
-</div>
-<div class="row-fluid visible-desktop visible-tablet">
-<div class="span4">
-<p class="text-center">'23 Fall</p>
-</div>
-<div class="span4">
-<p class="text-center">'24 Winter</p>
-</div>
-<div class="span4">
-<p class="text-center">'24 Spring</p>
-</div>
-</div>    </div>
-  
-  
-  
-      <div class="view-content">
-      <div class="view-grouping"><div class="view-grouping-header">PIC 10A      -- Introduction to Programming</div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped views-row-first">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 8:50 AM MWF    , MURRAY, M.J.                </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 9:00 AM - 9:50 AM MWF    , KEATING, L.                 </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 2:00 PM - 2:50 PM MWF    , ZHANG, M.                   </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 11:00 AM - 11:50 AM MWF    , KASHEFI, A.                 </td>
-              </tr>
-          <tr class="odd table-striped views-row-last">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , ZHANG, M.                   </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 10:00 AM - 10:50 AM MWF    , ALEXANDR, Y.                </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 11:00 AM - 11:50 AM MWF    , LIU, S.                     </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 12:00 PM - 12:50 PM MWF    , KASHEFI, A.                 </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , KEATING, L.                 </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 11:00 AM - 11:50 AM MWF    , KASHEFI, A.                 </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 12:00 PM - 12:50 PM MWF    , YANG, L.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 1:00 PM - 1:50 PM MWF    , YANG, L.                    </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">PIC 10B      -- Intermediate Programming</div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 PM - 12:50 PM MWF    , LIU, S.                     </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 1:00 PM - 1:50 PM MWF    , DING, L.                    </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 2:00 PM - 2:50 PM MWF    , LIU, S.                     </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 8:50 AM MWF    , MURRAY, M.J.                </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 1:00 PM - 1:50 PM MWF    , YANG, L.                    </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 2:00 PM - 2:50 PM MWF    , YANG, L.                    </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 8:00 AM - 8:50 AM MWF    , MURRAY, M.J.                </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 9:00 AM - 9:50 AM MWF    , MURRAY, M.J.                </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 2:00 PM - 2:50 PM MWF    , LIU, S.                     </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">PIC 10C      -- Advanced Programming  </div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 10:00 AM - 10:50 AM MWF    , ANDREWS, M.J.               </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 PM - 12:50 PM MWF    , DING, L.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Cancelled          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 3:00 PM - 3:50 PM MWF    , DING, L.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 4:00 PM - 4:50 PM MWF    , DING, L.                    </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">PIC 16A      -- Python with Applications I</div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , LIAO, C.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 10:00 AM - 10:50 AM MWF    , LIAO, C.                    </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 1:00 PM - 1:50 PM MWF    , YANG, L.                    </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 3:00 PM - 3:50 PM MWF    , YANG, L.                    </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , KEATING, L.                 </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 10:00 AM - 10:50 AM MWF    , KEATING, L.                 </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 1:00 PM - 1:50 PM MWF    , KO, S.                      </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 3:00 PM - 3:50 PM MWF    , KASHEFI, A.                 </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 9:00 AM - 9:50 AM MWF    , ZHANG, M.                   </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 10:00 AM - 10:50 AM MWF    , ZHANG, M.                   </td>
-              </tr>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 3     : 1:00 PM - 1:50 PM MWF    , ALEXANDR, Y.                </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 4     : 3:00 PM - 3:50 PM MWF    , KASHEFI, A.                 </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">PIC 16B      -- Python with Applications II</div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 2:50 PM MWF    , KO, S.                      </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 12:00 PM - 12:50 PM MWF    , KO, S.                      </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 PM - 12:50 PM MWF    , KO, S.                      </td>
-              </tr>
-          <tr class="even table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 2     : 2:00 PM - 2:50 PM MWF    , LIAO, C.                    </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 2:00 PM - 2:50 PM MWF    , LIAO, C.                    </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">PIC 20A      -- Principles of Java Language with Applications</div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 1:00 PM - 1:50 PM MWF    , LIU, S.                     </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , ANDREWS, M.J.               </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24S</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 11:00 AM - 11:50 AM MWF    , LIU, S.                     </td>
-              </tr>
-      </tbody>
-</table>
-</div></div><div class="view-grouping"><div class="view-grouping-header">PIC 40A      -- Introduction to Programming for Internet</div><div class="view-grouping-content"><table class="views-table cols-0 table" >
-        <caption>23F</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 PM - 12:50 PM MWF    , BURNETT, S.C.               </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-0 table" >
-        <caption>24W</caption>
-      <tbody>
-          <tr class="odd table-striped">
-                  <td class="views-field views-field-php" >
-            Sec. 1     : 12:00 PM - 12:50 PM MWF    , BURNETT, S.C.               </td>
-              </tr>
-      </tbody>
-</table>
-</div></div>    </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
-
-  
-  </div>
-  </div>
-</div>
-  </div>
-</div>
-</div>
-</div>
-    </section>
-
-    
-  </div>
-</div>
-
-<footer id="footer">
-  <div class="container">
-      <div class="region region-footer">
-    <section id="block-block-28" class="block block-block clearfix">
-
-      
-  <div class="col-2-3">
-
-            <span class="copyright">©2018 Regents of the <a href="http://www.universityofcalifornia.edu" target="_blank" >University of California</a></span>
-
-</div>
-<div class="col-1-3">
-<div class="icons">
-<!--Linkedin--><p><a class="li-ic" href="https://www.linkedin.com/company/uclamathematics" target="_blank"> <i class="fa fa-linkedin white-text mr-lg-4"> </i> </a> </p>
-<!--Facebook--><p><a class="fb-ic ml-0" href="https://www.facebook.com/UCLAmath/" target="_blank"> <i class="fa fa-facebook white-text mr-lg-4"> </i> </a> </p>
-<!--Youtube--><p> <a class="tw-ic" href="https://www.youtube.com/results?search_query=ucla+mathematics" target="_blank"> <i class="fa fa-youtube white-text mr-lg-4"> </i> </a></p></div>
-</div>
-  
-</section> <!-- /.block -->
-  </div>
-  </div>
-</footer>
-
-<script>
-$('.dropdown-toggle').click(function(e) {
-  e.preventDefault();
-  setTimeout($.proxy(function() {
-    if ('ontouchstart' in document.documentElement) {
-      $(this).siblings('.dropdown-backdrop').off().remove();
-    }
-  }, this), 0);
-});
-</script>
-  </body>
-</html>
+Undergraduate Course Landing | UCLA Department of Mathematics
+Skip to main content
+Search form
+Search
+Search
+UCLA Mathnet Login
+UCLA Department of Mathematics
+Home
+/
+Undergraduate
+/
+Undergraduate Course Information
+/
+Undergraduate Course Landing
+Lower Division Tentative Schedule
+Upper Division Tentative Schedule
+PIC Tentative Schedule
+UCLA DEPARTMENT OF MATHEMATICS SCHEDULE FOR 2023-2024
+'23 Fall
+'24 Winter
+'24 Spring
+Math 1        -- Precalculus
+23F
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , MENG, T.
+Math 3A       -- Calculus for Life Sciences Students
+23F
+Sec. 1     : 12:00 PM - 12:50 PM MWF    , GREENE, M.P.
+Math 3B       -- Calculus for Life Sciences Students
+24W
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , GREENE, M.P.
+Math 3C       -- Ordinary Differential Equations with Linear Algebra for Life Sciences Students
+24S
+Sec. 1     : 12:00 PM - 12:50 PM MWF    , GREENE, M.P.
+Math 19       -- Fiat Lux Freshman Seminars
+23F
+Sec. 1     : 4:00 PM - 4:50 PM R      , HILL, M.A.
+24W
+Cancelled
+Math 31A      -- Differential and Integral Calculus
+23F
+Sec. 1     : 8:00 AM - 8:50 AM MWF    , WU, J.S.
+Sec. 2     : 9:00 AM - 9:50 AM MWF    , VARVAREZOS, K.K.
+Sec. 3     : 4:00 PM - 4:50 PM MWF    , GANNON, T.A.
+Sec. 4     : 5:00 PM - 5:50 PM MWF    , GANNON, T.A.
+24W
+Sec. 1     : 8:00 AM - 8:50 AM MWF    , WU, J.S.
+Sec. 2     : 12:00 PM - 12:50 PM MWF    , KERANEN, J.P.
+Math 31AL     -- Differential and Integral Calculus Laboratory
+23F
+Sec. 1     : 5:00 PM - 5:50 PM T      , KERANEN, J.P.
+Sec. 1     : 12:00 PM - 12:50 PM MWF    , KERANEN, J.P.
+24W
+Sec. 1     : 5:00 PM - 5:50 PM T      , WU, J.S.
+Sec. 1     : 1:00 PM - 1:50 PM MWF    , WU, J.S.
+Math 31B      -- Integration and Infinite Series
+23F
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , MIN, H.
+Sec. 2     : 3:00 PM - 3:50 PM MWF    , FLYNN, P.
+Sec. 3     : 4:00 PM - 4:50 PM MWF    , LI, L.
+24W
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , ZHANG, Z.
+Sec. 2     : 10:00 AM - 10:50 AM MWF    , SANCHEZ OCAL, P.
+Sec. 3     : 11:00 AM - 11:50 AM MWF    , SANCHEZ OCAL, P.
+Sec. 4     : 1:00 PM - 1:50 PM MWF    , DING, C.
+Sec. 5     : 4:00 PM - 4:50 PM MWF    , LI, L.
+24S
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , SANCHEZ OCAL, P.
+Sec. 2     : 11:00 AM - 11:50 AM MWF    , SANCHEZ OCAL, P.
+Sec. 3     : 12:00 AM - 12:00 AM TBA    , THE STAFF
+Math 32A      -- Calculus of Several Variables
+23F
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , YANEZ ETCHEBERRY,
+Sec. 2     : 11:00 AM - 11:50 AM MWF    , SHIN, B.Y.
+Sec. 3     : 12:00 PM - 12:50 PM MWF    , WONG, R.
+Sec. 4     : 1:00 PM - 1:50 PM MWF    , EBERT, M.
+Sec. 5     : 10:00 AM - 10:50 AM MWF    , ENAKOUTSA, K.
+24W
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , SHIN, B.Y.
+Sec. 2     : 11:00 AM - 11:50 AM MWF    , WONG, R.
+Sec. 3     : 12:00 PM - 12:50 PM MWF    , EBERT, M.
+24S
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , HILL, M.A.
+Sec. 2     : 12:00 PM - 12:50 PM MWF    , EBERT, M.
+Sec. 3     : 1:00 PM - 1:50 PM MWF    , ENAKOUTSA, K.
+Sec. 4     : 2:00 PM - 2:50 PM MWF    , ENAKOUTSA, K.
+Math 32AH     -- Calculus of Several Variables (Honors)
+23F
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , WONG, R.
+Math 32B      -- Calculus of Several Variables
+23F
+Sec. 1     : 1:00 PM - 1:50 PM MWF    , YEONG, W.
+Sec. 2     : 2:00 PM - 2:50 PM MWF    , DO, K.
+24W
+Sec. 1     : 8:00 AM - 8:50 AM MWF    , DO, K.
+Sec. 2     : 5:00 PM - 5:50 PM MWF    , YEONG, W.
+Sec. 3     : 4:00 PM - 4:50 PM MWF    , YEONG, W.
+24S
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , YEONG, W.
+Sec. 2     : 10:00 AM - 10:50 AM MWF    , YEONG, W.
+Sec. 3     : 3:00 PM - 3:50 PM MWF    , WONG, R.
+Math 32BH     -- Calculus of Several Variables (Honors)
+24W
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , WONG, R.
+Math 33A      -- Linear Algebra and Applications
+23F
+Sec. 1     : 8:00 AM - 8:50 AM MWF    , SANCHEZ OCAL, P.
+Sec. 2     : 9:00 AM - 9:50 AM MWF    , MUTLU AKATURK, H.
+Sec. 3     : 12:00 PM - 12:50 PM MWF    , SANCHEZ OCAL, P.
+24W
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , YANG, T.
+Sec. 2     : 5:00 PM - 5:50 PM MWF    , ARANT, T.J.
+24S
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , NIENHAUS, J.
+Sec. 2     : 11:00 AM - 11:50 AM MWF    , SHIN, B.Y.
+Sec. 3     : 3:00 PM - 3:50 PM MWF    , YANG, T.
+Math 33B      -- Differential Equations
+23F
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , PALMER, A.Z.
+Sec. 2     : 11:00 AM - 11:50 AM MWF    , WANG, C.
+24W
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , WANG, C.
+Sec. 2     : 2:00 PM - 2:50 PM MWF    , WANG, C.
+Cancelled
+24S
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , WANG, C.
+Sec. 2     : 10:00 AM - 10:50 AM MWF    , WANG, C.
+Sec. 3     : 3:00 PM - 3:50 PM MWF    , NEGRINI, E.
+Math 42       -- Introduction to Data-Driven Mathematical Modeling: Life, Universe, and Everything
+23F
+Sec. 1     : 8:00 AM - 8:50 AM MWF    , JOHNSON, C.L.
+24S
+Sec. 1     : 12:00 PM - 12:50 PM MWF    , JOHNSON, C.L.
+Math 61       -- Introduction to Discrete Structures
+23F
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , KANNAN, S.
+Sec. 2     : 1:00 PM - 1:50 PM MWF    , GLEIZER, O.
+24W
+Sec. 1     : 3:00 PM - 3:50 PM MWF    , GEORGE, T.
+Sec. 2     : 2:00 PM - 2:50 PM MWF    , VICARIA ANGEL, M.
+24S
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , DO, K.
+Sec. 2     : 12:00 PM - 12:50 PM MWF    , KANNAN, S.
+Math 70       -- Introduction to Probability
+23F
+Sec. 1     : 2:00 PM - 2:50 PM MWF    , ODHIAMBO, C.O.
+24S
+Sec. 1     : 3:00 PM - 3:50 PM MWF    , THE STAFF
+Math 73XP     -- Key Issues in K-12 Mathematics
+23F
+Sec. 1     : 2:00 PM - 3:50 PM T      , DALLAS, H.J.
+Math 74XP     -- Mathematics and Pedagogy for Teaching Elementary Mathematics
+24W
+Sec. 1     : 2:00 PM - 3:50 PM T      , CHAN, H.H.
+Math 75XP     -- Mathematics and Pedagogy for Teaching Middle School Mathematics
+24S
+Sec. 1     : 2:00 PM - 3:50 PM T      , CHAN, H.H.
+Math 89HC     -- Honors Contracts
+23F
+Sec. 1     : 12:00 AM - 12:00 AM VAR    , KANNAN, S.
+Math 95       -- Transition to Upper-Division Mathematics
+23F
+Cancelled
+UCLA DEPARTMENT OF MATHEMATICS SCHEDULE FOR 2023-2024
+'23 Fall
+'24 Winter
+'24 Spring
+Math 100      -- Problem Solving
+23F
+Sec. 1     : 12:00 PM - 12:50 PM MWF    , SARKAR, S.
+Math 101      -- Advanced Problem Solving
+23F
+Sec. 1     : 4:00 PM - 6:50 PM M      , SARKAR, S.
+Math 105A     -- Mathematics and Pedagogy for Teaching Secondary School Mathematics
+23F
+Sec. 1     : 1:00 PM - 2:50 PM MW     , DALLAS, H.J.
+Math 105B     -- Mathematics and Pedagogy for Teaching Secondary School Mathematics
+24W
+Sec. 1     : 1:00 PM - 2:50 PM MW     , DALLAS, H.J.
+Math 105C     -- Mathematics and Pedagogy for Teaching Secondary School Mathematics
+24S
+Sec. 1     : 1:00 PM - 2:50 PM MW     , DALLAS, H.J.
+Sec. 1     : 1:00 PM - 2:50 PM MW     , LOPEZ, I.
+Math 106      -- History of Mathematics
+23F
+Cancelled
+24W
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , KERANEN, J.P.
+Math 110A     -- Algebra
+23F
+Sec. 1     : 3:00 PM - 3:50 PM MWF    , MUTLU AKATURK, H.
+24W
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , LUO, J.
+Math 110AH    -- Algebra (Honors)
+23F
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , MERKURJEV, A.S.
+Math 110B     -- Algebra
+24W
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , MIN, H.
+24S
+Sec. 1     : 2:00 PM - 2:50 PM MWF    , YANEZ, J.
+Math 110BH    -- Algebra (Honors)
+24W
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , MERKURJEV, A.S.
+Math 110C     -- Algebra
+24S
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , ROUQUIER, R.A.
+Sec. 1     : 4:00 PM - 4:50 PM W      , ROUQUIER, R.A.
+Math 111      -- Theory of Numbers
+24S
+Cancelled
+Math 114L     -- Mathematical Logic
+24S
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , VICARIA ANGEL, M.
+Math M192A    -- Introduction to Collaborative Learning Theory and Practice
+23F
+Sec. 1     : 3:30 PM - 4:45 PM T      , ROPER, M.L.
+Sec. 1     : 3:30 PM - 4:45 PM T      , SHAKED, S.
+24W
+Sec. 1     : 3:30 PM - 4:45 PM T      , SHAKED, S.
+Sec. 1     : 3:30 PM - 4:45 PM T      , ROPER, M.L.
+24S
+Sec. 1     : 3:30 PM - 4:45 PM T      , SHAKED, S.
+Math M32T     -- Essential Calculus for Mathematical Biologists
+23F
+Sec. 1     : 2:00 PM - 2:50 PM MWF    , CONLEY, W.J.
+Math M148     -- Experience of Data Science
+24W
+Sec. 1     : 3:30 PM - 4:45 PM MW     , GOULD, R.L.
+24S
+Sec. 1     : 8:00 AM - 9:15 AM TR     , MAIERHOFER, T.J.
+Sec. 1     : 8:00 AM - 9:15 AM TR     , TA
+Math M114S    -- Introduction to Set Theory
+24W
+Sec. 1     : 12:00 PM - 12:50 PM MWF    , ARANT, T.J.
+Math 115A     -- Linear Algebra
+23F
+Sec. 1     : 2:00 PM - 2:50 PM MWF    , ENAKOUTSA, K.
+Sec. 2     : 9:00 AM - 9:50 AM MWF    , SCAVIA, F.
+Sec. 3     : 10:00 AM - 10:50 AM MWF    , NIENHAUS, J.
+Sec. 4     : 11:00 AM - 11:50 AM MWF    , OPIE, M.P.
+Sec. 5     : 12:00 PM - 12:50 PM MWF    , YEONG, W.
+Sec. 6     : 1:00 PM - 1:50 PM MWF    , SHIN, B.Y.
+Sec. 7     : 2:00 PM - 2:50 PM MWF    , WANG, C.
+Sec. 8     : 3:00 PM - 3:50 PM MWF    , NIENHAUS, J.
+Sec. 9     : 5:00 PM - 5:50 PM MWF    , DO, K.
+24W
+Sec. 1     : 8:00 AM - 8:50 AM MWF    , LETZ, J.
+Sec. 2     : 9:00 AM - 9:50 AM MWF    , KNIGHTLY, A.
+Sec. 3     : 10:00 AM - 10:50 AM MWF    , DO, K.
+Sec. 4     : 11:00 AM - 11:50 AM MWF    , NIENHAUS, J.
+Sec. 5     : 12:00 PM - 12:50 PM MWF    , SHIN, B.Y.
+Sec. 6     : 1:00 PM - 1:50 PM MWF    , KNIGHTLY, A.
+24S
+Sec. 1     : 8:00 AM - 8:50 AM MWF    , DO, K.
+Sec. 2     : 9:00 AM - 9:50 AM MWF    , LETZ, J.
+Sec. 3     : 11:00 AM - 11:50 AM MWF    , WONG, R.
+Sec. 4     : 12:00 PM - 12:50 PM MWF    , EBERT, M.
+Sec. 5     : 2:00 PM - 2:50 PM MWF    , SHIN, B.Y.
+Sec. 6     : 3:00 PM - 3:50 PM MWF    , KERANEN, J.P.
+Math 115AH    -- Linear Algebra (Honors)
+23F
+Cancelled
+Sec. 2     : 12:00 PM - 12:50 PM MWF    , GREENE, R.E.
+Cancelled
+24W
+Sec. 1     : 2:00 PM - 2:50 PM MWF    , MORAGA SAEZ, J.L.
+24S
+Sec. 1     : 2:00 PM - 2:50 PM MWF    , OPIE, M.P.
+Math 115B     -- Linear Algebra
+24W
+Sec. 1     : 1:00 PM - 1:50 PM MWF    , KANNAN, S.
+24S
+Sec. 1     : 1:00 PM - 1:50 PM MWF    , LI, L.
+Math 116      -- Mathematical Cryptology
+24W
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , CONLEY, W.J.
+Math 118      -- Mathematical Methods of Data Theory
+23F
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , KASSAB, L.
+24W
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , KASSAB, L.
+Math 120A     -- Differential Geometry
+23F
+Sec. 1     : 1:00 PM - 1:50 PM MWF    , PETERSEN, P.
+24W
+Sec. 1     : 12:00 PM - 12:50 PM MWF    , VARVAREZOS, K.K.
+24S
+Sec. 1     : 12:00 PM - 12:50 PM MWF    , VARVAREZOS, K.K.
+Math 121      -- Introduction to Topology
+24W
+Sec. 1     : 2:00 PM - 2:50 PM MWF    , HONDA, K.
+Math 123      -- Foundations of Geometry
+24S
+Sec. 1     : 2:00 PM - 2:50 PM MWF    , GLEIZER, O.
+Math 131A     -- Analysis
+23F
+Sec. 1     : 8:00 AM - 8:50 AM MWF    , ARANT, T.J.
+Sec. 2     : 9:00 AM - 9:50 AM MWF    , XU, P.
+Sec. 3     : 10:00 AM - 10:50 AM MWF    , PALMER, A.Z.
+Sec. 4     : 1:00 PM - 1:50 PM MWF    , VISAN, M.
+Sec. 5     : 3:00 PM - 3:50 PM MWF    , DING, C.
+24W
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , YANEZ ETCHEBERRY,
+Sec. 2     : 10:00 AM - 10:50 AM MWF    , XU, P.
+Sec. 3     : 11:00 AM - 11:50 AM MWF    , MUTLU AKATURK, H.
+Sec. 4     : 1:00 PM - 1:50 PM MWF    , MUTLU AKATURK, H.
+Sec. 5     : 2:00 PM - 2:50 PM MWF    , LI, L.
+Sec. 6     : 3:00 PM - 3:50 PM MWF    , DING, C.
+24S
+Sec. 1     : 8:00 AM - 8:50 AM MWF    , MUTLU AKATURK, H.
+Sec. 2     : 9:00 AM - 9:50 AM MWF    , DING, C.
+Sec. 3     : 10:00 AM - 10:50 AM MWF    , WU, J.S.
+Sec. 4     : 11:00 AM - 11:50 AM MWF    , MUTLU AKATURK, H.
+Sec. 5     : 12:00 PM - 12:50 PM MWF    , XU, P.
+Sec. 6     : 1:00 PM - 1:50 PM MWF    , YANEZ, J.
+Math 131AH    -- Analysis (Honors)
+23F
+Cancelled
+Sec. 2     : 11:00 AM - 11:50 AM MWF    , GANGBO, W.
+24W
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , GREENE, R.E.
+Math 131B     -- Analysis
+23F
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , VARVAREZOS, K.K.
+Sec. 2     : 1:00 PM - 1:50 PM MWF    , ARANT, T.J.
+24W
+Cancelled
+Sec. 2     : 2:00 PM - 2:50 PM MWF    , VARVAREZOS, K.K.
+24S
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , VARVAREZOS, K.K.
+Sec. 2     : 1:00 PM - 1:50 PM MWF    , ARANT, T.J.
+Math 131BH    -- Analysis (Honors)
+24W
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , GANGBO, W.
+24S
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , KHITRIK, M.
+Math 132      -- Complex Analysis for Applications
+23F
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , YANG, T.
+Sec. 2     : 11:00 AM - 11:50 AM MWF    , XIONG, H.
+Cancelled
+24W
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , MIN, H.
+Sec. 2     : 1:00 PM - 1:50 PM MWF    , XIONG, H.
+Cancelled
+24S
+Sec. 1     : 2:00 PM - 2:50 PM MWF    , MIN, H.
+Sec. 2     : 3:00 PM - 3:50 PM MWF    , XIONG, H.
+Math 132H     -- Complex Analysis (Honors)
+24S
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , XIONG, H.
+Math 133      -- Introduction to Fourier Analysis
+24S
+Sec. 1     : 3:00 PM - 3:50 PM MWF    , GREENE, R.E.
+Math 134      -- Linear and Nonlinear Systems of Differential Equations
+23F
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , BISWAL, S.
+Sec. 2     : 11:00 AM - 11:50 AM MWF    , BISWAL, S.
+Cancelled
+24W
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , TYMOCHKO, S.J.
+Sec. 2     : 3:00 PM - 3:50 PM MWF    , HESTER, E.W.
+24S
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , HESTER, E.W.
+Sec. 2     : 10:00 AM - 10:50 AM MWF    , TYMOCHKO, S.J.
+Math 135      -- Ordinary Differential Equations
+23F
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , FLYNN, P.
+Sec. 2     : 11:00 AM - 11:50 AM MWF    , HESTER, E.W.
+Sec. 3     : 12:00 PM - 12:50 PM MWF    , ZHOU, M.
+24W
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , FLYNN, P.
+Sec. 2     : 11:00 AM - 11:50 AM MWF    , JOHNSON, C.L.
+24S
+Cancelled
+Sec. 2     : 9:00 AM - 9:50 AM MWF    , JOHNSON, C.L.
+Math 136      -- Partial Differential Equations
+24S
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , FLYNN, P.
+Math 142      -- Mathematical Modeling
+23F
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , TYMOCHKO, S.J.
+Cancelled
+Sec. 3     : 11:00 AM - 11:50 AM MWF    , JOHNSON, C.L.
+24W
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , JOHNSON, C.L.
+Sec. 2     : 10:00 AM - 10:50 AM MWF    , BISWAL, S.
+24S
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , BISWAL, S.
+Sec. 2     : 12:00 PM - 12:50 PM MWF    , BISWAL, S.
+Math 146      -- Methods of Applied Mathematics
+24W
+Sec. 1     : 3:00 PM - 3:50 PM MWF    , BISWAL, S.
+Math 151A     -- Applied Numerical Methods
+23F
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , ANDERSON, C.R.
+Sec. 2     : 10:00 AM - 10:50 AM MWF    , WONG, K.
+Sec. 3     : 1:00 PM - 1:50 PM MWF    , NEGRINI, E.
+Sec. 4     : 2:00 PM - 2:50 PM MWF    , KASHEFI, A.
+24W
+Sec. 1     : 2:00 PM - 2:50 PM MWF    , JIANG, C.
+Sec. 2     : 3:00 PM - 3:50 PM MWF    , ENAKOUTSA, K.
+Sec. 3     : 4:00 PM - 4:50 PM MWF    , ENAKOUTSA, K.
+24S
+Cancelled
+Sec. 2     : 9:00 AM - 9:50 AM MWF    , NEGRINI, E.
+Math 151AH    -- Numerical Analysis Part 1 (Honors)
+24W
+Sec. 1     : 3:00 PM - 3:50 PM MWF    , ZHOU, M.
+Math 151B     -- Applied Numerical Methods
+23F
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , HAN, F.
+24W
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , ANDERSON, C.R.
+Sec. 2     : 1:00 PM - 1:50 PM MWF    , WONG, K.
+Sec. 3     : 2:00 PM - 2:50 PM MWF    , NEGRINI, E.
+24S
+Sec. 2     : 12:00 PM - 12:50 PM MWF    , JEONG, H.
+Sec. 3     : 2:00 PM - 2:50 PM MWF    , HAN, F.
+Sec. 3     : 2:00 PM - 2:50 PM MWF    , HAN, F.
+Math 151BH    -- Numerical Analysis Part 2 (Honors)
+24S
+Cancelled
+Math 155      -- Mathematical Imaging
+23F
+Sec. 1     : 3:00 PM - 3:50 PM MWF    , VESE, L.A.
+24W
+Sec. 1     : 1:00 PM - 1:50 PM MWF    , HAN, F.
+Math 156      -- Machine Learning
+23F
+Sec. 1     : 2:00 PM - 2:50 PM MWF    , KRISHNAGOPAL, S.
+Sec. 2     : 5:00 PM - 5:50 PM MWF    , LELMI, J.
+24W
+Sec. 2     : 3:00 PM - 3:50 PM MWF    , LELMI, J.
+24S
+Sec. 1     : 12:00 PM - 12:50 PM MWF    , KASSAB, L.
+Math 164      -- Optimization
+23F
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , MENG, T.
+Sec. 2     : 12:00 PM - 12:50 PM MWF    , KASSAB, L.
+Sec. 3     : 3:00 PM - 3:50 PM MWF    , KOVACOVA, G.
+24W
+Sec. 1     : 8:00 AM - 8:50 AM MWF    , MENG, T.
+Sec. 2     : 2:00 PM - 2:50 PM MWF    , KOVACOVA, G.
+24S
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , MENG, T.
+Sec. 2     : 1:00 PM - 1:50 PM MWF    , KASSAB, L.
+Math 167      -- Mathematical Game Theory
+23F
+Sec. 1     : 8:00 AM - 8:50 AM MWF    , LUTZ, P.G.
+24W
+Sec. 1     : 4:00 PM - 4:50 PM MWF    , GLEIZER, O.
+Math 168      -- Introduction to Networks
+23F
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , KRISHNAGOPAL, S.
+24W
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , ROPER, M.L.
+24S
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , PORTER, M.A.
+Math 170A     -- Probability Theory I
+23F
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , BAEUMLER, J.
+24W
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , KILLIP, R.
+Math 170B     -- Probability Theory II
+24W
+Cancelled
+24S
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , KILLIP, R.
+Math 170E     -- Introduction to Probability and Statistics 1: Probability
+23F
+Sec. 1     : 8:00 AM - 8:50 AM MWF    , ZHANG, Z.
+Sec. 2     : 9:00 AM - 9:50 AM MWF    , LEVINSON, D.J.
+Sec. 3     : 10:00 AM - 10:50 AM MWF    , BAEUMLER, J.
+Sec. 4     : 12:00 PM - 12:50 PM MWF    , JEONG, H.
+Sec. 5     : 4:00 PM - 4:50 PM MWF    , SONTHALIA, R.S.
+Sec. 6     : 5:00 PM - 5:50 PM MWF    , JEONG, H.
+24W
+Sec. 1     : 8:00 AM - 8:50 AM MWF    , ZHANG, Z.
+Sec. 2     : 12:00 PM - 12:50 PM MWF    , SONTHALIA, R.S.
+Sec. 3     : 1:00 PM - 1:50 PM MWF    , LEVINSON, D.J.
+24S
+Cancelled
+Sec. 2     : 2:00 PM - 3:15 PM TR     , NEEDELL, D.
+Sec. 3     : 2:00 PM - 2:50 PM MWF    , ZHANG, Z.
+Math 170S     -- Introduction to Probability and Statistics 2: Statistics
+23F
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , LELMI, J.
+Sec. 2     : 3:00 PM - 3:50 PM MWF    , FAROLFI, G.
+24W
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , FAROLFI, G.
+Sec. 2     : 10:00 AM - 10:50 AM MWF    , GURDOGAN, H.U.
+Sec. 3     : 3:00 PM - 3:50 PM MWF    , JEONG, H.
+Sec. 4     : 4:00 PM - 4:50 PM MWF    , JEONG, H.
+24S
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , JEONG, H.
+Sec. 2     : 1:00 PM - 1:50 PM MWF    , SONTHALIA, R.S.
+Sec. 3     : 2:00 PM - 2:50 PM MWF    , FAROLFI, A.
+Math 171      -- Stochastic Processes
+23F
+Cancelled
+24W
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , BAEUMLER, J.
+24S
+Sec. 1     : 12:00 PM - 12:50 PM MWF    , BAEUMLER, J.
+Math 174E     -- Mathematics of Finance for Mathematics/Economics Students
+23F
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , GURDOGAN, H.U.
+24W
+Sec. 1     : 8:00 AM - 8:50 AM MWF    , GURDOGAN, H.U.
+24S
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , LEVINSON, D.J.
+Math 177      -- Theory of Interest and Applications
+23F
+Sec. 1     : 1:00 PM - 1:50 PM MWF    , FAROLFI, G.
+Cancelled
+24S
+Sec. 1     : 8:00 AM - 8:50 AM MWF    , GURDOGAN, H.U.
+Math 178A     -- Foundations of Actuarial Mathematics: Life Insurance and Annuities
+23F
+Sec. 1     : 12:00 PM - 12:50 PM MWF    , VOSS, M.
+24W
+Cancelled
+Math 178B     -- Foundations of Actuarial Mathematics: Additional Topics in Long-Term Actuarial Mathematics
+24W
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , VOSS, M.
+Math 178C     -- Foundations of Actuarial Mathematics: Loss Models
+24S
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , VOSS, M.
+Math 179      -- Advanced Topic in Financial Mathematics
+23F
+Sec. 1     : 3:00 PM - 3:50 PM MWF    , VOSS, M.
+Cancelled
+24S
+Sec. 1     : 1:00 PM - 1:50 PM MWF    , KOVACOVA, G.
+Math 180      -- Graph Theory
+23F
+Sec. 1     : 3:00 PM - 3:50 PM MWF    , GEORGE, T.
+24W
+Sec. 1     : 2:00 PM - 2:50 PM MWF    , GEORGE, T.
+Math 182      -- Algorithms
+23F
+Sec. 1     : 3:00 PM - 3:50 PM MWF    , VICARIA ANGEL, M.
+24W
+Sec. 1     : 3:00 PM - 3:50 PM MWF    , VICARIA ANGEL, M.
+24S
+Sec. 1     : 12:00 PM - 12:50 PM MWF    , ARANT, T.J.
+Math 184      -- Enumerative Combinatorics
+24S
+Sec. 1     : 3:00 PM - 3:50 PM MWF    , XU, P.
+Math 191      -- Variable Topics Research Seminars: Mathematics
+24S
+Cancelled
+Math 192B     -- Collaborative Learning Theory and Practice
+23F
+Sec. 1     : 2:00 PM - 3:50 PM W      , SHAKED, S.
+Sec. 1     : 2:00 PM - 3:50 PM W      , ROPER, M.L.
+24W
+Sec. 1     : 3:30 PM - 4:45 PM R      , SHAKED, S.
+Sec. 1     : 3:30 PM - 4:45 PM R      , ROPER, M.L.
+Math 195      -- Community Internships in Mathematics Education
+23F
+Sec. 1     : 12:00 AM - 12:00 AM VAR    , YIN, J.
+24W
+Sec. 1     : 12:00 AM - 12:00 AM VAR    , BLASIUS, D.M.
+Math 197      -- Individual Studies in Mathematics
+23F
+Sec. 1     : 12:00 AM - 12:00 AM VAR    , KHITRIK, M.
+Sec. 2     : 12:00 AM - 12:00 AM VAR    , DROLET ROSSI, A.
+Sec. 3     : 12:00 AM - 12:00 AM VAR    , PORTER, M.A.
+Sec. 4     : 12:00 AM - 12:00 AM VAR    , SHARIFI, R.T.
+Sec. 5     : 12:00 AM - 12:00 AM VAR    , HILL, M.A.
+Sec. 6     : 12:00 AM - 12:00 AM VAR    , PETERSEN, P.
+Sec. 7     : 12:00 AM - 12:00 AM VAR    , SCHAEFFER, H.K.
+Sec. 8     : 12:00 AM - 12:00 AM VAR    , ROUQUIER, R.A.
+Sec. 9     : 12:00 AM - 12:00 AM VAR    , MONTUFAR CUARTAS,
+24W
+Sec. 1     : 12:00 AM - 12:00 AM VAR    , CONLEY, W.J.
+Sec. 2     : 12:00 AM - 12:00 AM VAR    , SHARIFI, R.T.
+Math 199      -- Directed Research or Senior Project in Mathematics
+23F
+Sec. 1     : 12:00 AM - 12:00 AM VAR    , BLASIUS, D.M.
+Sec. 2     : 12:00 AM - 12:00 AM VAR    , PETERSEN, P.
+Sec. 3     : 12:00 AM - 12:00 AM VAR    , PORTER, M.A.
+Sec. 4     : 12:00 AM - 12:00 AM VAR    , STEEN, F.F.
+Sec. 5     : 12:00 AM - 12:00 AM VAR    , GANGBO, W.
+Sec. 6     : 12:00 AM - 12:00 AM VAR    , BERTOZZI, A.
+Sec. 7     : 12:00 AM - 12:00 AM VAR    , SCHAEFFER, H.K.
+Sec. 8     : 12:00 AM - 12:00 AM VAR    , ROPER, M.L.
+Sec. 9     : 12:00 AM - 12:00 AM VAR    , MONTUFAR CUARTAS,
+24W
+Sec. 1     : 12:00 AM - 12:00 AM VAR    , MONTUFAR CUARTAS,
+Sec. 2     : 12:00 AM - 12:00 AM VAR    , PORTER, M.A.
+Sec. 3     : 12:00 AM - 12:00 AM VAR    , ROPER, M.L.
+Sec. 4     : 12:00 AM - 12:00 AM VAR    , PETERSEN, P.
+UCLA DEPARTMENT OF MATHEMATICS SCHEDULE FOR 2023-2024
+'23 Fall
+'24 Winter
+'24 Spring
+PIC 10A      -- Introduction to Programming
+23F
+Sec. 1     : 8:00 AM - 8:50 AM MWF    , MURRAY, M.J.
+Sec. 2     : 9:00 AM - 9:50 AM MWF    , KEATING, L.
+Sec. 3     : 2:00 PM - 2:50 PM MWF    , ZHANG, M.
+Sec. 4     : 11:00 AM - 11:50 AM MWF    , KASHEFI, A.
+Cancelled
+24W
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , ZHANG, M.
+Sec. 2     : 10:00 AM - 10:50 AM MWF    , ALEXANDR, Y.
+Sec. 3     : 11:00 AM - 11:50 AM MWF    , LIU, S.
+Sec. 4     : 12:00 PM - 12:50 PM MWF    , KASHEFI, A.
+24S
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , KEATING, L.
+Sec. 2     : 11:00 AM - 11:50 AM MWF    , KASHEFI, A.
+Sec. 3     : 12:00 PM - 12:50 PM MWF    , YANG, L.
+Sec. 4     : 1:00 PM - 1:50 PM MWF    , YANG, L.
+PIC 10B      -- Intermediate Programming
+23F
+Sec. 1     : 12:00 PM - 12:50 PM MWF    , LIU, S.
+Sec. 2     : 1:00 PM - 1:50 PM MWF    , DING, L.
+Sec. 3     : 2:00 PM - 2:50 PM MWF    , LIU, S.
+24W
+Sec. 1     : 8:00 AM - 8:50 AM MWF    , MURRAY, M.J.
+Sec. 2     : 1:00 PM - 1:50 PM MWF    , YANG, L.
+Sec. 3     : 2:00 PM - 2:50 PM MWF    , YANG, L.
+24S
+Sec. 1     : 8:00 AM - 8:50 AM MWF    , MURRAY, M.J.
+Sec. 2     : 9:00 AM - 9:50 AM MWF    , MURRAY, M.J.
+Sec. 3     : 2:00 PM - 2:50 PM MWF    , LIU, S.
+PIC 10C      -- Advanced Programming
+23F
+Sec. 1     : 10:00 AM - 10:50 AM MWF    , ANDREWS, M.J.
+24W
+Sec. 1     : 12:00 PM - 12:50 PM MWF    , DING, L.
+Cancelled
+24S
+Sec. 1     : 3:00 PM - 3:50 PM MWF    , DING, L.
+Sec. 2     : 4:00 PM - 4:50 PM MWF    , DING, L.
+PIC 16A      -- Python with Applications I
+23F
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , LIAO, C.
+Sec. 2     : 10:00 AM - 10:50 AM MWF    , LIAO, C.
+Sec. 3     : 1:00 PM - 1:50 PM MWF    , YANG, L.
+Sec. 4     : 3:00 PM - 3:50 PM MWF    , YANG, L.
+24W
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , KEATING, L.
+Sec. 2     : 10:00 AM - 10:50 AM MWF    , KEATING, L.
+Sec. 3     : 1:00 PM - 1:50 PM MWF    , KO, S.
+Sec. 4     : 3:00 PM - 3:50 PM MWF    , KASHEFI, A.
+24S
+Sec. 1     : 9:00 AM - 9:50 AM MWF    , ZHANG, M.
+Sec. 2     : 10:00 AM - 10:50 AM MWF    , ZHANG, M.
+Sec. 3     : 1:00 PM - 1:50 PM MWF    , ALEXANDR, Y.
+Sec. 4     : 3:00 PM - 3:50 PM MWF    , KASHEFI, A.
+PIC 16B      -- Python with Applications II
+23F
+Sec. 1     : 2:00 PM - 2:50 PM MWF    , KO, S.
+Sec. 2     : 12:00 PM - 12:50 PM MWF    , KO, S.
+24W
+Sec. 1     : 12:00 PM - 12:50 PM MWF    , KO, S.
+Sec. 2     : 2:00 PM - 2:50 PM MWF    , LIAO, C.
+24S
+Sec. 1     : 2:00 PM - 2:50 PM MWF    , LIAO, C.
+PIC 20A      -- Principles of Java Language with Applications
+23F
+Sec. 1     : 1:00 PM - 1:50 PM MWF    , LIU, S.
+24W
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , ANDREWS, M.J.
+24S
+Sec. 1     : 11:00 AM - 11:50 AM MWF    , LIU, S.
+PIC 40A      -- Introduction to Programming for Internet
+23F
+Sec. 1     : 12:00 PM - 12:50 PM MWF    , BURNETT, S.C.
+24W
+Sec. 1     : 12:00 PM - 12:50 PM MWF    , BURNETT, S.C.
+©2018 Regents of the
+University of California

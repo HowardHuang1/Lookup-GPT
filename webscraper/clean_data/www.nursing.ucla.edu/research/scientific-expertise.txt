@@ -1,1600 +1,449 @@
-
-
-<!DOCTYPE html>
-<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " data-theme="surface" data-alert="false">
-  <head>
-    <meta charset="utf-8" />
-<link rel="canonical" href="https://www.nursing.ucla.edu/research/scientific-expertise" />
-<meta property="og:site_name" content="UCLA School of Nursing" />
-<meta property="og:type" content="page" />
-<meta property="og:url" content="https://www.nursing.ucla.edu/research/scientific-expertise" />
-<meta property="og:title" content="Scientific Expertise | UCLA School of Nursing" />
-<meta property="og:updated_time" content="2023-08-01T14:17:17-07:00" />
-<meta property="article:published_time" content="2022-08-19T13:33:41-07:00" />
-<meta property="article:modified_time" content="2023-08-01T14:17:17-07:00" />
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Scientific Expertise | UCLA School of Nursing" />
-<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
-<meta name="MobileOptimized" content="width" />
-<meta name="HandheldFriendly" content="true" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<script type="application/ld+json">{
-    "@context": "https://schema.org",
-    "@graph": [
-        {
-            "@type": "WebSite",
-            "@id": "https://www.nursing.ucla.edu/",
-            "name": "UCLA School of Nursing",
-            "url": "https://www.nursing.ucla.edu/",
-            "publisher": {
-                "@type": "EducationalOrganization",
-                "@id": "https://regents.universityofcalifornia.edu",
-                "name": "Regents of the University of California",
-                "url": "https://regents.universityofcalifornia.edu"
-            },
-            "inLanguage": "EN"
-        }
-    ]
-}</script>
-
-    <title>Scientific Expertise | UCLA School of Nursing</title>
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
-    <link rel="stylesheet" media="all" href="/sites/g/files/oketem251/files/css/css_eGjzJ_1OcpmFftoCpPF3RZwlZrtc22cRjkAAtTMYY2U.css?delta=0&amp;language=en&amp;theme=surface&amp;include=eJxdj1cSwzAIRC_kciYkYVtjVELJxLeP06RxPlkWdp8cophmB4KDGC_gcV6pOKABH0ox73Ngq0DTd2yuhNlG00hRjyZKVByXUhS5aRnuQwWGlaFu8nvXlclyNUdRNgztiOAopm3UM_2aLDGgg57iGCF4tuSaVGHtUI6K_yt_s-j3F5P0_gjst_FtPjk4Xck-696KIQuB4tW1nU2QnwhRhco" />
-<link rel="stylesheet" media="all" href="//use.typekit.net/gqr2ulm.css" />
-<link rel="stylesheet" media="all" href="/sites/g/files/oketem251/files/css/css_05gKgvIggsv6iZWzBxRhGk_rvJwHYK4Bz7itJq3Q6bo.css?delta=2&amp;language=en&amp;theme=surface&amp;include=eJxdj1cSwzAIRC_kciYkYVtjVELJxLeP06RxPlkWdp8cophmB4KDGC_gcV6pOKABH0ox73Ngq0DTd2yuhNlG00hRjyZKVByXUhS5aRnuQwWGlaFu8nvXlclyNUdRNgztiOAopm3UM_2aLDGgg57iGCF4tuSaVGHtUI6K_yt_s-j3F5P0_gjst_FtPjk4Xck-696KIQuB4tW1nU2QnwhRhco" />
-
-    
-    
-  </head>
-  <body class="no-alert path-node page-node-type-sf-paragraph-page" data-menu="dropdown" data-search="modal">
-    <a href="#main-content" class="visually-hidden focusable skip-link">
-  Skip to main content
-</a>
-    
-      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
-    <div class="site-container">
-      
-  
-
-<header id="header" class="site-header" data-drupal-selector="site-header" role="banner" data-once="navigation">
-            
-  <section class="site-secondary">
-    <div class="container">
-      <div class="site-secondary__content">
-              
-
-        
-    <ul class="menu menu-secondary" >
-
-                        
-      
-      
-            
-      <li class="menu__item menu__item--link">
-                              <a href="http://www.ucla.edu/" class="menu__link menu__link--link">University of California, Los Angeles</a>
-                        </li>
-        </ul>
-  
-
-
-    
-        <div class="site-secondary__buttons">
-                        <a href="http://giveto.ucla.edu/school/school-of-nursing/" class="button button--give" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-    <path fill="currentColor" d="M148 76.6C148 34.3 182.3 0 224.6 0c20.3 0 39.8 8.1 54.1 22.4l9.3 9.3 9.3-9.3C311.6 8.1 331.1 0 351.4 0C393.7 0 428 34.3 428 76.6c0 20.3-8.1 39.8-22.4 54.1L302.1 234.1c-7.8 7.8-20.5 7.8-28.3 0L170.4 130.7C156.1 116.4 148 96.9 148 76.6zM568.2 336.3c13.1 17.8 9.3 42.8-8.5 55.9L433.1 485.5c-23.4 17.2-51.6 26.5-80.7 26.5H192 32c-17.7 0-32-14.3-32-32V416c0-17.7 14.3-32 32-32H68.8l44.9-36c22.7-18.2 50.9-28 80-28H272h16 64c17.7 0 32 14.3 32 32s-14.3 32-32 32H288 272c-8.8 0-16 7.2-16 16s7.2 16 16 16H392.6l119.7-88.2c17.8-13.1 42.8-9.3 55.9 8.5zM193.6 384l0 0-.9 0c.3 0 .6 0 .9 0z"/>
-  </svg>
-  <span>Giving</span>
-</a>
-      
-      
-
-<div class="translate">
-  <button aria-label="Google Translate" class="button button--translate" role="button" type="button" aria-expanded="false" aria-controls="translate__container" data-drupal-selector="translate-button">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-    <path fill="currentColor" d="M352 256c0 22.2-1.2 43.6-3.3 64H163.3c-2.2-20.4-3.3-41.8-3.3-64s1.2-43.6 3.3-64H348.7c2.2 20.4 3.3 41.8 3.3 64zm28.8-64H503.9c5.3 20.5 8.1 41.9 8.1 64s-2.8 43.5-8.1 64H380.8c2.1-20.6 3.2-42 3.2-64s-1.1-43.4-3.2-64zm112.6-32H376.7c-10-63.9-29.8-117.4-55.3-151.6c78.3 20.7 142 77.5 171.9 151.6zm-149.1 0H167.7c6.1-36.4 15.5-68.6 27-94.7c10.5-23.6 22.2-40.7 33.5-51.5C239.4 3.2 248.7 0 256 0s16.6 3.2 27.8 13.8c11.3 10.8 23 27.9 33.5 51.5c11.6 26 21 58.2 27 94.7zm-209 0H18.6C48.6 85.9 112.2 29.1 190.6 8.4C165.1 42.6 145.3 96.1 135.3 160zM8.1 192H131.2c-2.1 20.6-3.2 42-3.2 64s1.1 43.4 3.2 64H8.1C2.8 299.5 0 278.1 0 256s2.8-43.5 8.1-64zM194.7 446.6c-11.6-26-20.9-58.2-27-94.6H344.3c-6.1 36.4-15.5 68.6-27 94.6c-10.5 23.6-22.2 40.7-33.5 51.5C272.6 508.8 263.3 512 256 512s-16.6-3.2-27.8-13.8c-11.3-10.8-23-27.9-33.5-51.5zM135.3 352c10 63.9 29.8 117.4 55.3 151.6C112.2 482.9 48.6 426.1 18.6 352H135.3zm358.1 0c-30 74.1-93.6 130.9-171.9 151.6c25.5-34.2 45.2-87.7 55.3-151.6H493.4z"/>
-  </svg>
-  <span>Translate</span>
-</button>
-  <div class="translate__container" data-drupal-selector="translate-container">
-    <div class="translate__caret"></div>
-    <div class="translate__menu"></div>
-  </div>
-
-  <script>window.gtranslateSettings = {"default_language":"en","native_language_names":true,"languages":["en","ar","zh-CN","zh-TW","tl","it","ja","ko","fa","ru","es","vi"],"wrapper_selector":".translate__menu"}</script>
-  <script src="https://cdn.gtranslate.net/widgets/v1.0.0/ln.js" defer></script>
-</div>
-      <button class="button button--search" aria-label="Search Form" data-drupal-selector="search-open" aria-expanded="false">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-    <path fill="currentColor" d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352c79.5 0 144-64.5 144-144s-64.5-144-144-144S64 128.5 64 208s64.5 144 144 144z"/>
-  </svg>
-  <span class="button__close">Search</span>
-</button>
-            </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="site-primary">
-    <div class="container">
-      <div class="site-primary__content">
-              
-<a href="/" rel="home" class="site-branding site-branding--horizontal">
-      <img src="https://www.nursing.ucla.edu/sites/g/files/oketem251/files/logos/nursing_logo.svg" alt="Home" />
-  </a>
-
-    
-              <nav id="site-navigation" class="site-navigation" data-drupal-selector="site-navigation">
-  <div class="site-navigation-container">
-              
-
-  
-    
-    
-    <ul class="menu-main menu-main--dropdown menu-main--level-1"  data-type="dropdown" data-drupal-selector="menu-main--level-1" >
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-1  menu__item--has-children" data-drupal-selector="menu__item--has-children">
-          
-                                    <a href="/about" class="menu__link menu__link--link menu__link--level-1  menu__link--has-children" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/2601">            <span class="menu__link-inner menu__link-inner--level-1">About</span>
-          </a>
-            
-            
-                              <button class="menu-toggle" data-drupal-selector="menu-toggle" aria-controls="menu-main-item-1" aria-expanded="false">
-  <span class="visually-hidden">About sub-navigation</span>
-  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512">
-    <path fill="currentColor" d="M201.4 342.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 274.7 86.6 137.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/>
-  </svg>
-</button>
-              
-                                                
-    
-    
-    <ul class="menu-main  menu-main--level-2" id="menu-main-item-1"  data-drupal-selector="menu-main--level-2" >
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2" >
-          
-                                    <a href="/about/vision-mission-strategic-plan" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/2821">            <span class="menu__link-inner menu__link-inner--level-2">Vision, Mission &amp; Strategic Plan</span>
-          </a>
-            
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2" >
-          
-                                    <a href="/about/fast-facts" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/2516">            <span class="menu__link-inner menu__link-inner--level-2">Fast Facts</span>
-          </a>
-            
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2  menu__item--has-children" >
-          
-                                    <a href="/about/nursing-initiatives" class="menu__link menu__link--link menu__link--level-2  menu__link--has-children" data-drupal-link-system-path="node/4306">            <span class="menu__link-inner menu__link-inner--level-2">Nursing Initiatives</span>
-          </a>
-            
-            
-              
-              
-              
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2" >
-          
-                                    <a href="/about/our-leadership" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/2431">            <span class="menu__link-inner menu__link-inner--level-2">Our Leadership</span>
-          </a>
-            
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2  menu__item--has-children" >
-          
-                                    <a href="/about/our-people" class="menu__link menu__link--link menu__link--level-2  menu__link--has-children" data-drupal-link-system-path="node/3306">            <span class="menu__link-inner menu__link-inner--level-2">Our People</span>
-          </a>
-            
-            
-              
-              
-              
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2  menu__item--has-children" >
-          
-                                    <a href="/about/our-students" class="menu__link menu__link--link menu__link--level-2  menu__link--has-children" data-drupal-link-system-path="node/4271">            <span class="menu__link-inner menu__link-inner--level-2">Our Students</span>
-          </a>
-            
-            
-              
-              
-              
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2" >
-          
-                                    <a href="/about/careers" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/3201">            <span class="menu__link-inner menu__link-inner--level-2">Careers</span>
-          </a>
-            
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2" >
-          
-                                    <a href="/about/contact" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/2816">            <span class="menu__link-inner menu__link-inner--level-2">Contact</span>
-          </a>
-            
-            
-                  </li>
-          </ul>
-  
-              
-              
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-1  menu__item--has-children" data-drupal-selector="menu__item--has-children">
-          
-                                    <a href="/admissions-programs/why-pick-ucla-school-nursing" class="menu__link menu__link--link menu__link--level-1  menu__link--has-children" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/2836">            <span class="menu__link-inner menu__link-inner--level-1">Programs &amp; Admissions</span>
-          </a>
-            
-            
-                              <button class="menu-toggle" data-drupal-selector="menu-toggle" aria-controls="menu-main-item-12" aria-expanded="false">
-  <span class="visually-hidden">Programs &amp; Admissions sub-navigation</span>
-  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512">
-    <path fill="currentColor" d="M201.4 342.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 274.7 86.6 137.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/>
-  </svg>
-</button>
-              
-                                                
-    
-    
-    <ul class="menu-main  menu-main--level-2" id="menu-main-item-12"  data-drupal-selector="menu-main--level-2" >
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2  menu__item--has-children" >
-          
-                                    <a href="/admissions-programs/academic-programs" class="menu__link menu__link--link menu__link--level-2  menu__link--has-children" data-drupal-link-system-path="node/3226">            <span class="menu__link-inner menu__link-inner--level-2">Academic Programs</span>
-          </a>
-            
-            
-              
-              
-              
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2  menu__item--has-children" >
-          
-                                    <a href="/programs-admissions/financial-aid" class="menu__link menu__link--link menu__link--level-2  menu__link--has-children" data-drupal-link-system-path="node/2766">            <span class="menu__link-inner menu__link-inner--level-2">Financial Aid</span>
-          </a>
-            
-            
-              
-              
-              
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2" >
-          
-                                    <a href="/programs-admissions/contact-admissions" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/2866">            <span class="menu__link-inner menu__link-inner--level-2">Contact Admissions</span>
-          </a>
-            
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2" >
-          
-                                    <a href="https://sites.google.com/g.ucla.edu/sonstudentaffairsoffice/home" title="Student Affairs Website" class="menu__link menu__link--link menu__link--level-2">            <span class="menu__link-inner menu__link-inner--level-2">Current Students</span>
-          </a>
-            
-            
-                  </li>
-          </ul>
-  
-              
-              
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-1 menu__item--active-trail menu__item--has-children" data-drupal-selector="menu__item--has-children">
-          
-                                    <a href="/research" class="menu__link menu__link--link menu__link--level-1 menu__link--active-trail menu__link--has-children" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/2546">            <span class="menu__link-inner menu__link-inner--level-1">Research</span>
-          </a>
-            
-            
-                              <button class="menu-toggle" data-drupal-selector="menu-toggle" aria-controls="menu-main-item-123" aria-expanded="false">
-  <span class="visually-hidden">Research sub-navigation</span>
-  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512">
-    <path fill="currentColor" d="M201.4 342.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 274.7 86.6 137.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/>
-  </svg>
-</button>
-              
-                                                
-    
-    
-    <ul class="menu-main  menu-main--level-2" id="menu-main-item-123"  data-drupal-selector="menu-main--level-2" >
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2" >
-          
-                                    <a href="/research/office-research-and-innovation" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/2496">            <span class="menu__link-inner menu__link-inner--level-2">The Office of Research and Innovation</span>
-          </a>
-            
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2" >
-          
-                                    <a href="/research/current-funded-research" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/2476">            <span class="menu__link-inner menu__link-inner--level-2">Current Funded Research</span>
-          </a>
-            
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2 menu__item--active-trail" >
-          
-                                    <a href="/research/scientific-expertise" class="menu__link menu__link--link menu__link--level-2 menu__link--active-trail is-active" data-drupal-link-system-path="node/2481">            <span class="menu__link-inner menu__link-inner--level-2">Scientific Expertise</span>
-          </a>
-            
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2" >
-          
-                                    <a href="/research/faculty-research-interests" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/3611">            <span class="menu__link-inner menu__link-inner--level-2">Faculty Research Interests</span>
-          </a>
-            
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2" >
-          
-                                    <a href="/research/postdoctoral-fellows" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/4151">            <span class="menu__link-inner menu__link-inner--level-2">Postdoctoral Fellows</span>
-          </a>
-            
-            
-                  </li>
-          </ul>
-  
-              
-              
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-1  menu__item--has-children" data-drupal-selector="menu__item--has-children">
-          
-                                    <a href="/equity-diversity-inclusion/equity-diversity-inclusion" class="menu__link menu__link--link menu__link--level-1  menu__link--has-children" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/2511">            <span class="menu__link-inner menu__link-inner--level-1">Equity, Diversity &amp; Inclusion</span>
-          </a>
-            
-            
-                              <button class="menu-toggle" data-drupal-selector="menu-toggle" aria-controls="menu-main-item-1234" aria-expanded="false">
-  <span class="visually-hidden">Equity, Diversity &amp; Inclusion sub-navigation</span>
-  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512">
-    <path fill="currentColor" d="M201.4 342.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 274.7 86.6 137.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/>
-  </svg>
-</button>
-              
-                                                
-    
-    
-    <ul class="menu-main  menu-main--level-2" id="menu-main-item-1234"  data-drupal-selector="menu-main--level-2" >
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2" >
-          
-                                    <a href="/equity-diversity-inclusion/our-edi-vision" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/2721">            <span class="menu__link-inner menu__link-inner--level-2">Our EDI Vision</span>
-          </a>
-            
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2" >
-          
-                                    <a href="/equity-diversity-inclusion/meet-the-edi-team" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/2526">            <span class="menu__link-inner menu__link-inner--level-2">Meet the EDI Team</span>
-          </a>
-            
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2" >
-          
-                                    <a href="/equity-diversity-inclusion/edi-digest-special-lectures" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/2416">            <span class="menu__link-inner menu__link-inner--level-2">EDI Digest &amp; Special Lectures</span>
-          </a>
-            
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-2" >
-          
-                                    <a href="/equity-diversity-inclusion/the-safe-zone-for-students-staff-faculty" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/3206">            <span class="menu__link-inner menu__link-inner--level-2">The Safe Zone for Students, Staff, &amp; Faculty</span>
-          </a>
-            
-            
-                  </li>
-          </ul>
-  
-              
-              
-            
-                  </li>
-      
-                          
-        
-
-                  
-                  
-                
-        <li class="menu__item menu__item--link menu__item--level-1" >
-          
-                                    <a href="/news-events" class="menu__link menu__link--link menu__link--level-1" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/3121">            <span class="menu__link-inner menu__link-inner--level-1">News &amp; Events</span>
-          </a>
-            
-            
-                  </li>
-          </ul>
-  
-
-
-          
-
-        
-    <ul class="menu menu-secondary" >
-
-                        
-      
-      
-            
-      <li class="menu__item menu__item--link">
-                              <a href="http://www.ucla.edu/" class="menu__link menu__link--link">University of California, Los Angeles</a>
-                        </li>
-        </ul>
-  
-
-
-          </div>
-</nav>
-      <button class="mobile-button" data-drupal-selector="mobile-button" aria-label="Main Menu" aria-controls="site-navigation" aria-expanded="false">
-  <svg viewBox="0 0 100 100">
-    <path class="line line1" d="M 20,29.000046 H 80.000231 C 80.000231,29.000046 94.498839,28.817352 94.532987,66.711331 94.543142,77.980673 90.966081,81.670246 85.259173,81.668997 79.552261,81.667751 75.000211,74.999942 75.000211,74.999942 L 25.000021,25.000058" />
-    <path class="line line2" d="M 20,50 H 80" />
-    <path class="line line3" d="M 20,70.999954 H 80.000231 C 80.000231,70.999954 94.498839,71.182648 94.532987,33.288669 94.543142,22.019327 90.966081,18.329754 85.259173,18.331003 79.552261,18.332249 75.000211,25.000058 75.000211,25.000058 L 25.000021,74.999942" />
-  </svg>
-  <div class="mobile-button__text">
-    <div class="mobile-button__open">Main</div>
-    <div class="mobile-button__close">Close</div>
-  </div>
-</button>
-          </div>
-    </div>
-  </section>
-
-        
-
-
-<section class="site-search site-search--modal" data-drupal-selector="site-search" id="site-search" role="search">
-  <div class="container">
-
-          <div class="site-search__close">
-        <button class="button button--square button--outline" aria-label="Search close" type="button" role="button" data-drupal-selector="search-close">
-          <span class="visually-hidden" aria-label="Close Overlay" aria-hidden="false"></span>
-          <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 352 512">
-            <path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path>
-          </svg>
-        </button>
-      </div>
-
-      <div class="site-search__heading">
-        <h2>Search</h2>
-		    <span>Try looking up an academic program, research topic, or information about life at UCLA.</span>
-      </div>
-    
-    <div class="site-search__content">
-              
-
-
-
-<form action="/search" method="get" id="search-block-form--43" accept-charset="UTF-8" class="search-block-form">
-  <div class="js-form-item form-item js-form-type-search form-item-keys js-form-item-keys form-no-label">
-    <label for="edit-keywords" class="form-item__label visually-hidden">Search</label>
-    <input title="Enter the terms you wish to search for." placeholder="Search by keyword or phrase." data-drupal-selector="edit-keys" type="search" id="edit-keywords" name="keywords" value="" size="15" maxlength="128" class="form-search form-element form-element--type-search form-element--api-search">
-  </div>
-  <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--43">
-    <button class="search-block-form__submit js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit--43" value="Search">
-      <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 23">
-        <path fill="currentColor" d="M21.7,21.3l-4.4-4.4C19,15.1,20,12.7,20,10c0-5.5-4.5-10-10-10S0,4.5,0,10s4.5,10,10,10c2.1,0,4.1-0.7,5.8-1.8l4.5,4.5c0.4,0.4,1,0.4,1.4,0S22.1,21.7,21.7,21.3z M10,18c-4.4,0-8-3.6-8-8s3.6-8,8-8s8,3.6,8,8S14.4,18,10,18z"></path>
-      </svg>
-      <span class="visually-hidden">Search</span>
-    </button>
-  </div>
-</form>
-          </div>
-
-          <div class="site-search__links">
-        <h3>Quick Links</h3>
-                  
-
-
-
-        
-    <ul class="menu menu-quicklinks" >
-
-                        
-      
-      
-            
-      <li class="menu__item menu__item--link">
-                              <a href="https://nursing.ucla.edu/alumni" class="menu__link menu__link--link">Alumni</a>
-                        </li>
-                        
-      
-      
-            
-      <li class="menu__item menu__item--link">
-                              <a href="https://sites.google.com/g.ucla.edu/sonstudentaffairsoffice/home" class="menu__link menu__link--link">Students</a>
-                        </li>
-        </ul>
-  
-
-
-              </div>
-      </div>
-</section>
-    </header>
-
-  
-  <main id="main-content" tabindex="-1" role="main" class="main">
-        
-
-
-  
-  <section class="region  region--highlighted"  >
-
-        
-
-
-
-
-
-
-
-  <div class="block block-system-messages-block" >
-
-  
-    
-
-  
-        <div data-drupal-messages-fallback class="hidden messages-list"></div>
-  
-  
-  </div>
-
-    
-  </section>
-
-    
-    
-    
-
-
-  
-  <section class="region  region--content"  id="content">
-
-        
-
-
-
-
-
-
-
-  <div class="block block-system-main-block" >
-
-  
-    
-
-      <div class="block__content" >
-  
-        
-
-
-
-<article class="page page--full"  about="/research/scientific-expertise">
-  <header class="page-header ">
-    <div class="container">
-      <div class="page-header__content">
-        
-        
-  
-
-
-<nav class="breadcrumb"  aria-labelledby="system-breadcrumb" role="navigation">
-  <div id="surface-breadcrumb" class="visually-hidden">Breadcrumb</div>
-  <ol class="breadcrumb__list">
-          <li class="breadcrumb__item">
-                  <a href="/" class="breadcrumb__link">
-                          <svg class="svg-inline" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-                <path fill="currentColor" d="M288 115L69.47 307.71c-1.62 1.46-3.69 2.14-5.47 3.35V496a16 16 0 0 0 16 16h128a16 16 0 0 0 16-16V368a16 16 0 0 1 16-16h96a16 16 0 0 1 16 16v128a16 16 0 0 0 16 16h128a16 16 0 0 0 16-16V311.1c-1.7-1.16-3.72-1.82-5.26-3.2zm282.69 121.28l-255.94-226a39.85 39.85 0 0 0-53.45 0l-256 226a16 16 0 0 0-1.21 22.6L25.5 282.7a16 16 0 0 0 22.6 1.21L277.42 81.63a16 16 0 0 1 21.17 0L527.91 283.9a16 16 0 0 0 22.6-1.21l21.4-23.82a16 16 0 0 0-1.22-22.59z"></path>
-              </svg>
-              <span class="visually-hidden">Home</span>
-                      </a>
-                                <svg class="svg-inline" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512">
-              <path fill="currentColor" d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path>
-            </svg>
-                        </li>
-          <li class="breadcrumb__item">
-                  <a href="/research" class="breadcrumb__link">
-                          Research
-                      </a>
-                                  </li>
-      </ol>
-</nav>
-
-
-        <div class="page-header__text">
-          
-                      <h1>
-              
-
-<span>Scientific Expertise</span>
-
-            </h1>
-                    
-
-                  </div>
-      </div>
-
-          </div>
-  </header>
-
-  <main class="page__main" >
-    <div class="container">
-        
-<div class="paragraph paragraph--type--sf-section paragraph--view-mode--default">
-  
-
-  <div class="layout layout--twocol-30-70">
-          <div  class="layout__region layout__region--first">
-        
-
-
-
-
-
-<nav class="nav"  aria-labelledby="block-sidebar-navigation" role="navigation">
-  
-  <div class="nav__title"  id="block-sidebar-navigation"><a href="/research">Research</a></div>
-  
-
-      
-
-
-
-  
-    
-    
-    <ul class="menu-sidebar"  data-drupal-selector="menu-sidebar--level-1" >
-      
-                          
-        
-        
-                
-        <li class="menu__item menu__item--link menu__item--level-1" data-drupal-selector="">
-                    
-                                    <a href="/research/office-research-and-innovation" class="menu__link menu__link--link menu__link--level-1" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/2496">            <span class="menu__link-inner menu__link-inner--level-1">The Office of Research and Innovation</span>
-          </a>
-            
-            
-                  </li>
-      
-                          
-        
-        
-                
-        <li class="menu__item menu__item--link menu__item--level-1" data-drupal-selector="">
-                    
-                                    <a href="/research/current-funded-research" class="menu__link menu__link--link menu__link--level-1" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/2476">            <span class="menu__link-inner menu__link-inner--level-1">Current Funded Research</span>
-          </a>
-            
-            
-                  </li>
-      
-                          
-        
-        
-                
-        <li class="menu__item menu__item--link menu__item--level-1 menu__item--active-trail" data-drupal-selector="">
-                    
-                                    <a href="/research/scientific-expertise" class="menu__link menu__link--link menu__link--level-1 menu__link--active-trail is-active" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/2481">            <span class="menu__link-inner menu__link-inner--level-1">Scientific Expertise</span>
-          </a>
-            
-            
-                  </li>
-      
-                          
-        
-        
-                
-        <li class="menu__item menu__item--link menu__item--level-1" data-drupal-selector="">
-                    
-                                    <a href="/research/faculty-research-interests" class="menu__link menu__link--link menu__link--level-1" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/3611">            <span class="menu__link-inner menu__link-inner--level-1">Faculty Research Interests</span>
-          </a>
-            
-            
-                  </li>
-      
-                          
-        
-        
-                
-        <li class="menu__item menu__item--link menu__item--level-1" data-drupal-selector="">
-                    
-                                    <a href="/research/postdoctoral-fellows" class="menu__link menu__link--link menu__link--level-1" data-drupal-selector="menu__link--has-children" data-drupal-link-system-path="node/4151">            <span class="menu__link-inner menu__link-inner--level-1">Postdoctoral Fellows</span>
-          </a>
-            
-            
-                  </li>
-          </ul>
-  
-
-
-  </nav>
-
-        
-      </div>
-    
-          <div  class="layout__region layout__region--second">
-        
-
-
-<div class="text prose" >
-  <h2>Senate Faculty</h2>
-
-<h2>Dong Sung An, PhD, MD&nbsp;</h2>
-
-<p><strong>Research</strong>: Translational science aimed at HIV cure by developing hematopoietic stem cell (HSC) based anti-HIV gene therapy. The current limitation in HIV therapy is that anti-HIV drugs cannot provide cure. My research team investigates a permanent introduction of anti-HIV genes into HSC that has a potential to offer a lifelong protection against HIV. I identified a small interfering RNA (siRNA) expressed from a lentiviral vector to inhibit the expression of a major HIV co-receptor CCR5 to protect cells from HIV infection. The CCR5 directed siRNA is currently investigated in a phase I/I clinical trial (Safety Study of a Dual Anti-HIV Gene Transfer Construct to Treat HIV-1 Infection. <a href="http://clinicaltrials.gov/show/NCT01734850">http://clinicaltrials.gov/show/NCT01734850</a>).</p>
-
-<p><strong>Significance</strong>: The requirement for life long daily drug administration due to the viral persistence has intensified efforts to develop novel therapeutics to achieve cure. Dr. An's research team investigates a permanent introduction of anti-HIV genes into HSC that has a potential to offer a lifelong protection against HIV.</p>
-
-<p><strong>Clinical</strong>: N/A</p>
-
-<p><strong>Email</strong>: <a href="Mailto:dan@sonnet.ucla.edu">dan@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Barbara Bates-Jensen, PhD, RN, CWOCN &nbsp;</h2>
-
-<p><strong>Research</strong>: Chronic wounds such as pressure ulcers, diabetic foot ulcers, and leg ulcers are a worldwide silent epidemic with limited public awareness about the financial costs of care for these wounds and the poor outcomes associated with inadequate care including suffering, loss of function, amputation, and death. Dr. Bates-Jensen's research is focused on pressure ulcers and chronic wound care (screening and detection methods, prevention, assessment and management) in vulnerable populations. She works with nursing home residents, elders, persons with spinal cord injury and critically ill patients. She also evaluates and uses new technology in wound care such as a medical device that measures skin and tissue damage before it is visible on the skin surface that she helped invent with UCLA professors in computer science and bioengineering. The research methods that she uses include: methodological research, behavioral observation studies, direct primary data collection, clinical trials and cohort observational studies. The research my team conducts has the potential to improve care of persons with wounds here in the US and around the world.</p>
-
-<p><strong>Significance</strong>: Dr. Bates-Jensen is interested in examining quality of care and implementation science (translating research evidence into practice) as they relate to wound care in health care organizations.</p>
-
-<p><strong>Clinical</strong>: Gerontology nursing, chronic care and wound care. I am actively involved in global wound care, providing education and training to build sustainable capacity in wound care in communities around the world.</p>
-
-<p><strong>Email</strong>: <a href="mailto:bbatesjensen@sonnet.ucla.edu">bbatesjensen@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Dana Beck, PhD, MSN, FNP-BC</h2>
-
-<p><strong>Research</strong>: Her research interests include community mobilization, perinatal/reproductive health and behavioral health, and trauma informed care.</p>
-
-<p><strong>Email</strong>:&nbsp;<a href="mailto:DBeck@sonnet.ucla.edu">DBeck@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Wei-Ti Chen, RN, CNM, PhD, FAAN</h2>
-
-<p><strong>Research:</strong> Dr. Chen is an expert in self- and family-management in Asian and Pacific Islanders in the United States and Asia, with a particular emphasis on quality of life and stigma reduction in people living with HIV (PLWH) and other chronic diseases (e.g., Tourette Syndrome), and in other minorized groups (e.g., immigrants, migrants, sexual minorities). Dr. Chen specializes in intervention design and uses both qualitative and quantitative methodologies in her research. She is a certified nurse-midwife who has worked in infectious disease prevention and care, including COVID and HIV stigmas, as well as in immigrant and migrant health for more than 20 years. She is one of the first nurse scientists to conduct HIV intervention research with Asian Americans both in the U.S. and in Asia (Taiwan, China, Myanmar and Thailand). Her research efforts are devoted to understanding how to enhance adherence to antiretroviral therapy (ART), to decrease disease-related stigmas, and to manage mental stressors to improve quality of life of underserved populations around the world.</p>
-
-<p><strong>Significance:</strong> Individuals, their families and communities all play roles in promoting health and wellness of a population. Stigma can affect the well-being and health of people living with chronic disease, in particular those who are socially marginalized. Stigma is an important barrier to accessing adequate social support and health services. HIV stigma negatively impacts PLWH’s mental health and HIV self-managing behaviors, such as adherence to medication regimens, leading to deteriorated subjective well-being, physical health, and even survival. Enhancing linkage to care and care engagement can achieve both a better quality of life and an improvement in health outcomes.</p>
-
-<p><strong>Clinical:</strong> Perinatal care and delivery, mental health, infectious disease prevention and management, underserved populations.&nbsp;</p>
-
-<p><strong>Email</strong>: <a href="mailto:wchen@sonnet.ucla.edu">wchen@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Kristen Choi, PhD, RN, FAAN</h2>
-
-<p><strong>Research</strong>: Dr. Choi’s research aims to improve access to and delivery of mental health care for children, adolescents, and other underserved populations. As a health services researcher, Dr. Choi studies healthcare systems, health policy, and healthcare delivery mechanisms that could be modified to improve population mental well-being. Her work also includes a substantial focus on equity in mental health care and how mental health disparities can be eliminated. Dr. Choi is currently studying household and community adverse childhood experiences (ACEs), including bullying, school violence, and racial discrimination, and their role in youth brain and behavioral development. She is also studying implementation of trauma-informed care in mental health settings, including trauma-informed screening for ACEs. Other projects include research on mental health service access for LGBTQ youth; interventions to address social determinants of health; and equity in health services for autism and other developmental disabilities.&nbsp;</p>
-
-<p><strong>Significance</strong>: As many as 1 in 5 children and adolescents in the United States have a mental, developmental, or behavioral disorder, but only half of these children receive treatment. Trauma and adversity early in childhood exert especially significant harm on mental health and development across the life course. By improving the delivery of mental healthcare for children and adolescents and strengthening upstream determinants of well-being in communities, we can make progress towards population mental well-being and health equity.&nbsp;</p>
-
-<p><strong>Clinical</strong>: Mental health/psychiatry, pediatrics, child/adolescent health, underserved populations, safety net systems of care&nbsp;</p>
-
-<p><strong>Email</strong>: <a href="mailto:krchoi@sonnet.ucla.edu">krchoi@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Lauren Clark, PhD, RN, FAAN</h2>
-
-<p><strong>Email</strong>: <a href="mailto:lclark@sonnet.ucla.edu">lclark@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Holli A. DeVon, PhD, RN, FAAN, FAHA</h2>
-
-<p><strong>Research</strong>: Dr. DeVon's research has revealed sex and age differences in the symptoms of acute coronary syndrome (ACS) that leave women at risk for delay in seeking treatment for symptoms, delay in diagnostic testing, and delayed treatment. She had funding from NHLBI to study the characteristics of prehospital delay and outcomes in patients treated for potential ACS in the emergency department. We found that patients who use emergency medical services had reduced delay times and those with unusual fatigue had longer delay for symptoms. Our findings will aid in the development of interventions for both patients and clinicians to reduce prehospital delay for symptoms. She is also conducting a randomized controlled trial to test a standardized acupuncture protocol for chest pain/stable angina. The acupuncture group had significantly less pain and improved quality of life compared to controls. We have submitted an application for an R01 to conduct a multi-site clinical trail to confirm efficacy of the acupuncture. In 2017, she received a Fulbright US Scholar Award to study traditional and novel risk for early onset cardiovascular disease in individuals with HIV. She spent the spring of 2018 in Rwanda, working with new partners to launch this research. A manuscript of our findings are now under review.</p>
-
-<p><strong>Significance</strong>: Symptoms are the trigger for individuals that something is wrong. In the case of patients with acute coronary syndrome (heart attack), seeking care in a timely manner could mean the difference between life and death. Our research team has used an integrated, biobehavioral approach to advance symptom science by studying inflammatory, and behavioral aspects of ischemic heart disease. An additional interest has been individuals that are vulnerable to poor health outcomes as a result of age, race/ethnicity, and/or low social status.</p>
-
-<p><strong>Email</strong>: <a href="mailto:hdevon@sonnet.ucla.edu">hdevon@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Karen Gylys, PhD, RN</h2>
-
-<p><strong>Research</strong>: Understanding early changes in Alzheimer's disease brain, specifically the mechanisms by which synapses degenerate. We study postmortem Alzheimer's tissue and transgenic mouse models of this disease, and focus on the synapse region through use of a synaptosome preparation (resealed nerve terminals). Synaptic changes are detected with flow cytometry analysis of synaptosomes using novel protocols that we have developed. We also use conventional biochemical assays including ELISA and Westerns, and image synaptic regions using confocal and electron microscopy. Collaborative projects with the Easton Center for Alzheimer's Research are directed at measuring CSF and plasma biomarkers in subjects with mild cognitive impairment (MCI) with the goal of finding a blood test that will identify Alzheimer's patients early in the disease and track patient response to therapies.</p>
-
-<p><strong>Significance</strong>: The focus of the Gylys lab is on understanding the earliest changes Alzheimer's disease synapses through study of postmortem human tissue and mouse models of AD. A second major focus is the study of early AD-related changes that show up in blood; the goal is finding blood tests to help us detect AD earlier, and to monitor subject's response to therapeutics in clinical trials.</p>
-
-<p><strong>Clinical</strong>: Cardiac and critical care nursing</p>
-
-<p><strong>Email</strong>: <a href="mailto:kgylys@sonnet.ucla.edu">kgylys@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Nalo Hamilton, PhD, APRN, BC&nbsp;</h2>
-
-<p><strong>Research</strong>: Research is focused on the development of breast cancer and the health disparity associated with this disease. Investigating the regulatory affects of the insulin like growth factor-II (IGF-2) on estrogen receptor mediated pathways will assess the clinical utility of IGF2 as a breast cancer biomarker.</p>
-
-<p><strong>Significance</strong>: Understanding the cascade of events in breast cancer development and associated ethnic differences will improve our ability to develop therapeutic agents that target cellular/molecular events in aggressive breast cancer.</p>
-
-<p><strong>Clinical</strong>: &nbsp;OB and Primary Care; Certified women's health and adult health nurse practitioner</p>
-
-<p><strong>Email</strong>: <a href="mailto:nhamilton@sonnet.ucla.edu">nhamilton@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>MarySue V. Heilemann, PhD, RN&nbsp;</h2>
-
-<p><strong>Research</strong>: Dr. Heilemann's research focuses on depression among Latinas in relation to strengths (mastery, resilience, and other protective factors), motivation, and readiness to change, in the context of intergenerational cultural expectations, gender issues, trauma, and post-traumatic stress disorder. Her expertise is in qualitative research methodology (Grounded Theory and Interpretive Phenomenology). Dr. Heilemann has also initiated and moderated symposiums to focus on Media and Nursing.</p>
-
-<p><strong>Significance</strong>: This work is important for creating strategies to successfully engage and treat symptomatic women. Her focus on media is valuable to nurses seeking to engage in new communication strategies in the 21st century.</p>
-
-<p><strong>Clinical</strong>: Community-based mental health, community health nursing, and public health nursing</p>
-
-<p><strong>Email</strong>:&nbsp;<a href="mailto:mheilema@sonnet.ucla.edu">mheilema@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Felicia Schanche Hodge, PhD</h2>
-
-<p><strong>Research</strong>: Dr. Hodge's research focuses on chronic health conditions and health beliefs and behaviors among American Indians, Alaska Natives, and Indigenous populations. Her work includes smoking cessation and control, diabetes and cancer screening and control, obesity, adverse childhood events, self-management of pain, and cultural constructs of illness and disease. Dr. Hodge holds a joint faculty position in Public Health (Health Services Department), is the Director of the Center for American Indian/Indigenous Research and Education (CAIIRE), and is the Director of an NINR-funded T32 Predoctoral-Postdoctoral Vulnerable Populations Training Program.</p>
-
-<p><strong>Significance</strong>: Studies document that AI/ANs have had the poorest health with cancer leading as the number one cause of death followed by heart disease and suicide. Cultural interventions are long overdue and play an important role in community wellness.</p>
-
-<p><strong>Email</strong>: <a href="mailto:fhodge@sonnet.ucla.edu">fhodge@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Su Yon Jung, RN, MPH, PhD</h2>
-
-<p><strong>Research</strong>: Dr. Jung is a cancer epidemiologist gaining particular expertise in study design, data quality assurance, statistically analytic approach, data interpretation, and evaluation. Her research has focused on identifying cancer biomarkers associated with obesity and weight gain as potential strategies for cancer prevention. She incorporates genetic approaches to evaluate the effect of gene-environmental interactions on the pathways connecting cancer-relevant biomarkers to cancer carcinogenesis.</p>
-
-<p><strong>Significance</strong>: In cancer epidemiologic studies, behavioral and observational studies have been conducted in parallel with genome-wide association studies. Dr. Jung’s molecular genetic epidemiology to incorporate hormonal and behavioral determinants in cancer prevention and prognosis will afford an opportunity for collaboration between the two research areas by its incorporation of the traditional and rigorous epidemiologic strategy into the genetic study approach.</p>
-
-<p><strong>Clinical</strong>: Community-based and public health practice; research design; statistical analyses including multivariate modeling, survival, CART, Baron-Kenny approach, and genetic association/gene-environmental interaction test</p>
-
-<p><strong>Email</strong>: <a href="mailto:sjung@sonnet.ucla.edu">sjung@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Eunice Lee, PhD, RN, FAAN</h2>
-
-<p><strong>Research</strong>: Nursing Interventions to improve breast/cervical/colorectal cancer screening among immigrants; care of vulnerable and minority elder adults with dementia and their caregivers; depression; cross-cultural methodology. Dr. Lee's program of research has been focusing on the development and testing of culturally targeted, community-based interventions to increase breast cancer, cervical cancer, and colorectal cancer screening behavior among minority women, especially Korean American women. A major emphasis in her work has been on increasing early detection among aging and vulnerable populations and the reduction of health disparities in cancer prevention. Her work has been funded by the National Institute of Nursing Research and the National Cancer Institute. Her expertise is in behavior change theory and testing theory-based interventions that incorporate culture to optimize cancer screening.</p>
-
-<p><strong>Significance</strong>: Dr. Lee's program of research has been focusing on the development and testing of culturally targeted, community-based interventions to increase breast cancer, cervical cancer, and colorectal cancer screening behavior among minority women, especially Korean American women. A major emphasis in her work has been on increasing early detection among aging and vulnerable populations and the reduction of health disparities in cancer prevention. Research methods of interests — descriptive, experimental, qualitative, and mixed methods.</p>
-
-<p><strong>Clinical</strong>: Gerontological nurse practitioner, geriatric-psychiatric nursing</p>
-
-<p><strong>Email</strong>: <a href="mailto:eclee@sonnet.ucla.edu">eclee@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Jian Li, MD</h2>
-
-<p><strong>Email</strong>: <a href="mailto:Jianli2019@g.ucla.edu">Jianli2019@g.ucla.edu</a></p>
-
-<hr>
-<h2>Robert Lucero, PhD, RN, FAAN</h2>
-
-<p><strong>Research</strong>: Dr. Lucero's research is leading the way to inform infrastructure development for data-driven knowledge generation that serves as a model for organizations across the United States (US) to improve the quality of care for hospitalized older adults. He is leveraging electronic patient, clinical, and administrative data and data science methods to identify valid, modifiable factors that predict hospital-acquired falls (HAF), which affect annually approximately one million US hospitalized patients. Studies he&nbsp; published in the <em>Journal of Clinical Nursing</em> and the <em>Journal of Advanced Nursing</em> showed that, in 168 US hospitals, poor nursing care quality was associated with more adverse patient events, including HAF. Using artificial intelligence approaches with electronic health record (EHR) data, Dr. Lucero discovered a set of six new clinical and organizational factors that can predict HAF published in the <em>International Journal of Medical Informatics</em>. His lab also explores the use of registered nurses’ (RNs’) progress notes, or text data, to predict HAF. They were the first to publish in <em>eGEMs</em> that RNs’ notes contain information about clinical, environmental, and organizational factors that can predict fall risk. The other cornerstone of his research program is developing health information technology (HIT) to promote chronic disease self-management. He pioneered and published in <em>Applied Clinical Informatics </em>a HIT design approach, known as Consumer-centered Participatory Design (C2PD), that has been used in multiple HIT development and systematic review articles. Unlike other design approaches, C2PD provides public health and community-based organizations, academic researchers, and commercial designers with a theoretically informed approach that engages consumer throughout the development and evaluation of HIT. C2PD builds on the strengths and resources within a community, promotes a collaborative learning and empowering process, facilitates collaborative partnerships, and incorporates four components of HIT design, namely; user preferences, functions, tasks, and representational requirements, to develop highly usable systems. His lab demonstrated that using the C2PD approach resulted in a highly useful and usable fall prevention self-management system for English- and Spanish-speaking older adults published in eGEMs. He has disseminated further wide-ranging use of the C2PD method in the journals of <em>Informatics for Health and Social Care</em>, <em>Hispanic Healthcare International</em>, and <em>JMIR Research Protocols</em>. This includes creating a mHealth application (app) interface for Hispanic caregivers of persons with dementia to self-manage chronic stress and burden and an app to support African American caregivers of children with chronic asthma and obesity. The lessons he learned developing the C2PD approach are represented in a paper he co-authored in <em>Science Translational Medicine</em> that focuses on using HIT to engage communities to improve health and reduce disparities among populations.<br>
-&nbsp;<br>
-<strong>Significance</strong>: Dr. Lucero's research program focuses on improving health outcomes of vulnerable populations using innovative health systems and informatics approaches. Two prominent themes of his work are: enhancing the quality of care for hospitalized older adults and improving self-management of chronic health conditions among Hispanic- and African-Americans. His research is distinguished by interdisciplinary team science, which bridges nursing, medicine, psychology, computer science, and engineering across the University of Florida (UF), health systems, communities, and other academic institutions.</p>
-
-<p><strong>Email</strong>: <a href="mailto:rlucero@sonnet.ucla.edu">rlucero@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Paul M. Macey, PhD</h2>
-
-<p><strong>Research</strong>: Dr. Macey studies the brain in people with sleep-disordered breathing, to understand pathology and find new interventions. His focus is the neural regulation of body functions such breathing and cardiovascular control, and of psychological factors such as depression and anxiety, in people with obstructive sleep apnea. His group uses MRI scanning to look at brain structure and function, and they relate changes on MRI scans to performance on physiologic tests of blood pressure and breathing, as well as measurements of mood and stress. Such physical and psychological measures are performed in the MRI scanner, in laboratories, and in people's homes using mobile health technology. Dr. Macey also collaborates with teams in other UCLA departments and universities across the World on a variety of brain imaging projects.</p>
-
-<p><strong>Significance</strong>: Dr. Macey studies the relationship between the brain and physical and psychological stresses in people with obstructive sleep apnea. Building on this knowledge, he tests the effectiveness of physical and psychological interventions in sleep apnea, such the standard "CPAP" treatment, and blood pressure reduction using drugs or mindfulness. The goal is to help treat the full range of symptoms experienced by people with sleep apnea.</p>
-
-<p><strong>Email</strong>: <a href="mailto:PMacey@sonnet.ucla.edu">PMacey@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Nancy A. Pike PhD, RN, FNP-C, CPNP-AC&nbsp;</h2>
-
-<p><strong>Research</strong>: Biobehavioral and health outcomes in infants, children, and adolescents with congenital heart disease (CHD) and their families. This includes quality of life, health status, self-esteem, anxiety, depression, body-image, clinical symptoms, feeding / growth, neurodevelopment and cognitive outcomes, acquired medical conditions with aging and self-care with transitioning to adulthood. Dr. Pike serves as Principal Investigator (PI) on an NIH-funded R01 grant to look at the biological interface between the clinical symptom of cognition/memory loss and brain structural injury (MRI) in adolescents with single ventricle heart disease after surgical palliation.</p>
-
-<p><strong>Significance</strong>: To evaluate the structural status of brain regions which control memory and their relationship the clinical symptom of memory loss in adolescents with single ventricle congenital heart disease after surgical correction. This study has the potential to dramatically impact clinical practice, as information from this study can guide clinicians toward improved patient education/self-care strategies and test innovative interventions to improve memory in this growing population.</p>
-
-<p><strong>Clinical</strong>: Acute Care Pediatric Nurse Practitioner, Congenital Heart Disease, Cardiothoracic Surgery&nbsp;</p>
-
-<p><strong>Email</strong>: <a href="mailto:npike@sonnet.ucla.edu">npike@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Wendie Robbins, PhD, RN, FAAN&nbsp;</h2>
-
-<p><strong>Research</strong>: Biomarkers; reproductive toxicology; male reproductive health; occupational, environmental, and reproductive epidemiology.</p>
-
-<p><strong>Significance</strong>: The US Centers for Disease Control has identified infertility as a public health concern and has developed a national public health action plan to address this issue that affects ~1 in 7 couples. Our research focuses on promotion of healthy behaviors to maintain and preserve male fertility as well as identifying exposures that threaten optimal male reproductive health.</p>
-
-<p><strong>Clinical</strong>: Occupational and environmental health nursing&nbsp;</p>
-
-<p><strong>Email</strong>: <a href="mailto:wrobbins@sonnet.ucla.edu">wrobbins@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Christine Samuel-Nakamura, PhD, RN, FNP-BC</h2>
-
-<p><strong>Research</strong>:&nbsp;Community environmental health research, heavy metal contamination, AI health, behavioral health, healthcare, and research.</p>
-
-<p><strong>Clinical</strong>:&nbsp;Board Certified Family Nurse Practitioner, Diabetes, Rural Healthcare, Tribal Health and Healthcare, Student Health</p>
-
-<p><strong>Email</strong>:&nbsp;<a href="mailto:cnakamura@sonnet.ucla.edu">cnakamura@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Sophie Sokolow, PhD, MPharm&nbsp;</h2>
-
-<p><strong>Research</strong>: Molecular pathogenesis of Alzheimer's disease with a special emphasis on calcium signaling pathways. Other research projects focus on the identification of new biomarkers in Alzheimer's disease and the role of pharmacogenomics in Alzheimer's disease progression and response to pharmacotherapy.</p>
-
-<p><strong>Significance</strong>: Dr. Sokolow studies the molecular mechanisms by which Alzheimer's disease develops in the brain. She also examines biomarkers and genetic factors associated with Alzheimer's disease progression and response to the current medications.</p>
-
-<p><strong>Clinical</strong>: Pharmacist, pharmacovigilance and pharmacosurveillance</p>
-
-<p><strong>Sokolow lab website</strong>: http://ssokolow.bol.ucla.edu/&nbsp;</p>
-
-<p><strong>Email</strong>: <a href="mailto:ssokolow@sonnet.ucla.edu">ssokolow@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Yeonsu Song, PhD, RN, FNP-C</h2>
-
-<p><strong>Email</strong>: <a href="mailto:ysong@sonnet.ucla.edu">ysong@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Dante Anthony Tolentino, PhD, RN-BC</h2>
-
-<p><strong>Research</strong>: His research interests lie in technology-based interventions for Type 2 diabetes in Filipinx-/Americans, nurses’ user experience with electronic health records, nursing informatics and education, quantitative research, data mining, healthcare policy, and vulnerable populations.</p>
-
-<p><strong>Email</strong>: <a href="mailto:datolentino@sonnet.ucla.edu">datolentino@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Elizabeth Thomas, RN, PhD, ANP-BC, COHN-S, CNL&nbsp;</h2>
-
-<p><strong>Research</strong>: Dr. Thomas's research focuses on type 2 diabetes in older working adults. She has conducted grounded-theory qualitative studies on diabetes self-management at work and quantitative work on type 2 diabetes, hearing loss and work-related exposures (noise and chemicals) in older Mexican Americans as well as a pilot workplace-based musculoskeletal injury prevention program. Current studies include an extension of grounded-theory qualitative studies on diabetes self-management at work, a quantitative study of self-efficacy for diabetes self-management, self-management behaviors, and work productivity in older adults and a larger cohort of the workplace-based musculoskeletal injury prevention program. Dr. Thomas has 20+ years of experience as an Occupational Health Nurse Practitioner working in high technology industries meeting the health, safety, and ergonomic needs of employees. She has designed, implemented, and managed numerous occupational health programs, including award winning workers' compensation and ergonomics programs. She has extensive experience as a team member and team leader in Total Quality Management initiatives.</p>
-
-<p><strong>Email</strong>: <a href="mailto:ethomas@sonnet.ucla.edu">ethomas@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Kristi Westphaln, PhD, RN</h2>
-
-<p><strong>Email</strong>: <a href="mailto:kwestphaln@sonnet.ucla.edu">kwestphaln@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Dorothy J. Wiley, PhD, RN&nbsp;</h2>
-
-<p><strong>Research</strong>: Interests relate to HPV infection across the lifespan: in children (juvenile laryngeal papillomatosis), adolescents and young adults (HPV infections, genital warts, neoplasia) and middle- to older-adults (cancers and neoplasia). Additionally, our group focuses on developing effective screening strategies for detecting precancers and cancers, and we examine associations between HPV infection characteristics, neoplasia and molecular biomarkers across the lifespan are important to understanding the natural history of HPV-related cancers (HPV methylation). Sexual health, sexuality and sexually transmitted infections that influence the natural history of HPV-infections and -related neoplasia are our concern. Vaccine prevention strategies and uptake of vaccine campaigns in the community are key interests (HPV-16 monovalent, 4-valent and 9-valent HPV vaccines). Our research also characterizes the intersection of HPV and HIV infections, including high-risk and population surveillance for cervical, oropharyngeal and anal cancer and screening activities. The Wiley group evaluates risk factors for HPV-disease progression; especially related to HIV in human populations Dr. Wiley uses epidemiological methods to identify health- and disease- patterns in human populations.</p>
-
-<p><strong>Significance</strong>: Nearly 500,000 women, worldwide, are diagnosed with cervical cancer each year and nearly 250,000 will die from disease annually. A major aim of our work centers on developing and testing screening interventions and early treatments to prevent invasive cancers caused by HPV. These include improved clinical specimen collection techniques, and identifying biological markers that are associated with higher risk for precancers.</p>
-
-<p><strong>Clinical</strong>: Community-based and public health practice; adolescent females and adult women, adult men, older adults and high-risk populations; prevention strategies to decrease morbidity and mortality in diverse communities&nbsp;</p>
-
-<p><strong>Email</strong>: <a href="mailto:dwiley@sonnet.ucla.edu">dwiley@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Adjunct Faculty Researchers</h2>
-
-<h2>Mary-Lynn Brecht, PhD &nbsp;</h2>
-
-<p><strong>Research</strong>: Current projects focus on patterns and correlates of methamphetamine (meth) use; treatment outcomes and HIV risk behaviors for meth users; and the application of longitudinal statistical methods to substance abuse and health research. Past projects have included needs assessment (for substance abuse treatment, for training among service providers related to problem gambling), evaluation of treatment for drug abuse, substance use prevalence estimation, community indicators of drug abuse problems.</p>
-
-<p><strong>Statistical Expertise</strong>: multivariate statistical methods, especially for longitudinal studies &nbsp;</p>
-
-<p><strong>Email</strong>: <a href="mailto:lbrecht@mednet.ucla.edu">lbrecht@mednet.ucla.edu</a></p>
-
-<hr>
-<h2>Catherine Carpenter, PhD, MPH&nbsp;</h2>
-
-<p><strong>Research</strong>: Malnutrition, represented by over and under nutrition, has a global impact on human health and disease. Dr. Carpenter has a dual research interest in both obesity and malnutrition. Her current research areas include: the effect of protein on muscle mass gain among women living with HIV in rural India; the influence of malnutrition on recovery from surgery among kids living in Kolkata, India; diet and exercise intervention studies for breast cancer prevention; and candidate genes associated with appetite and food craving in development of obesity. Future research directions include studies of protein intake in relationship to reduction of food craving and addictive behavior in alcoholics, and healthy nutrition and prevention of cervical cancer among women living with HIV in rural India.</p>
-
-<p><strong>Significance</strong>: The impact of nutrition in improving the health of vulnerable populations is critically important and vastly understudied.</p>
-
-<p><strong>Clinical</strong>: &nbsp;Design and analysis of randomized nutritional intervention trials</p>
-
-<p><strong>Email</strong>: <a href="mailto:ccarpenter@mednet.ucla.edu">ccarpenter@mednet.ucla.edu</a></p>
-
-<hr>
-<h2>Anna Gawlinski, PhD, RN, CS-ACNP, FAAN&nbsp;</h2>
-
-<p><strong>Research</strong>: Research is focused on testing interventions aimed at improving outcomes in acute and critically ill patients in areas such as hemodynamic monitoring, animal assisted therapy, patient communication, and the nurses' role in patient safety and the recovery of errors. Dr. Gawlinski has expertise in the implementation of infrastructures that supports research and evidence-based practice in the micro and macro-system hospital setting.</p>
-
-<p><strong>Significance</strong>: Dr. Gawlinski's program of research brings new innovations to patient care that helps patients and their families; and her work facilitates nurses practicing with the best evidence to improve patient care and patient outcomes of care.</p>
-
-<p><strong>Clinical</strong>: Cardiovascular Acute and Critical Care&nbsp;</p>
-
-<p><strong>Email</strong>: <a href="mailto:agawlins@sonnet.ucla.edu">agawlins@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Benissa Salem, PhD, RN, MSN</h2>
-
-<p><strong>Research</strong>: Utilizing community based participatory methods (CBPR) to address needs of middle age and older homeless and otherwise vulnerable populations, characterizing frailty among middle age and older homeless men and women, development of health promotion interventions to address health needs among middle age and older homeless women, reduction of drug use and risky behaviors among older homeless adults at risk for HIV and other infectious diseases.</p>
-
-<p><strong>Significance</strong>: Primary goals include developing multidisciplinary interventions to address frailty, drug use and dependency and HIV risk behaviors at the individual — level and structural level.</p>
-
-<p><strong>Clinical</strong>: Community and public health nursing, Gerontology, Health disparities/vulnerable populations</p>
-
-<p><strong>Email</strong>: <a href="mailto:bsalem@sonnet.ucla.edu">bsalem@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Emeriti Faculty</h2>
-
-<h2>Nancy Anderson, PhD, RN, C-ANP, FAAN</h2>
-
-<p><strong>Research</strong>: Adolescent health beliefs and decision-making, adolescent perceptions of risk including HIV, substance abuse and violence, qualitative methods. Dr. Anderson has identified perceptions of risk among teens in juvenile detention. Currently works as Director of the Social Policy and Dissemination Core for the Center for Vulnerable Populations Research centers on employing participatory research and ethnographic methods in community based research.</p>
-
-<p><strong>Email</strong>: <a href="mailto:nanderso@sonnet.ucla.edu">nanderso@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Mary Cadogan, DrPH, RN, C-GNP&nbsp;</h2>
-
-<p><strong>Research</strong>: Improving quality of care across settings for older adults</p>
-
-<p><strong>Clinical</strong>: Advanced Practice Gerontology Nursing; Community based health promotion and disease prevention for diverse populations</p>
-
-<p><strong>Email</strong>: <a href="mailto:mcadogan@sonnet.ucla.edu">mcadogan@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Betty Chang, DNSc, RN, C-FNP, FAAN&nbsp;</h2>
-
-<p><strong>Research</strong>: Functional status and self-care in the elderly, and their caregivers, health services research on outcomes of nursing care, telehealth and distance learning in integrative east-west medicine. Dr. Chang studies intervention to reduce the burden of family members who care for persons with chronic illnesses in the home. Growth in the older population makes this issue critical in maintaining the health of our middle-aged adult "children" and their parents in the comfort of their homes. She is also looking at the role of self-care (non-physician prescribed), and the use of technology in the improvement of health in adults in their middle and older years.</p>
-
-<p><strong>Clinical</strong>: Gerontological nursing, integrative East-West medicine&nbsp;</p>
-
-<p><strong>Email</strong>: <a href="mailto:bchang@sonnet.ucla.edu">bchang@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Lynn Doering, PhD, RN, FAAN</h2>
-
-<p><strong>Research</strong>: Care of patients with cardiac disease and heart transplantation and care of critically ill patients, focusing on the interface of behavior and biological outcomes, particularly inflammatory biomarkers; depression and immune dysfunction after coronary artery bypass surgery; identification of depression in cardiac patients; nurse-delivered cognitive behavioral therapy (CBT) for populations with or at risk for depression. Currently, Dr. Doering is exploring the use of an ECG biomarker to detect allograft rejection in heart transplant patients and is collecting psychosocial measures (depression, quality of life, anxiety) during the first 6 months after transplantation. The benefit of early detection of allograft rejection may allow more timely initiation of medical therapy and reduce mortality from acute rejection.</p>
-
-<p><strong>Significance</strong>: Dr. Doering's research is significant for identifying clinical outcomes associated with depression and anxiety in cardiac patients, and her use of nurses to deliver CBT in depressed patients is unique and innovative.</p>
-
-<p><strong>Clinical</strong>: Critical care and cardiopulmonary nursing</p>
-
-<p><strong>Email</strong>: <a href="mailto:ldoering@sonnet.ucla.edu">ldoering@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Jo-Ann Eastwood, PhD, CNS, ACNP-BC, FAHA, FPCNA, FAAN</h2>
-
-<p><strong>Research</strong>: Despite the fact that heart disease is the number one killer of women, research on young women and cardiovascular disease is scarce, particularly research on prevention efforts. Dr. Eastwood's previous research focused on psychobiological correlates of ischemic heart disease in women. She further built upon this foundation by focusing on IHD prevention through the promotion of self-management. Her current funded study combines clinical and mobile "m-Health" approaches to cardiovascular risk reduction in young, minority women in the Los Angeles area. In a mutually beneficial collaboration with the UCLA Wireless Health Institute, she has combined a community-based participatory research model with mobile health technology during the last two years.</p>
-
-<p><strong>Significance</strong>: Consistent with UCLA's mission and the Institute of Medicine's report on reducing health disparities through prevention, Dr. Eastwood uses an innovative approach that focuses on early recognition of risk factors, individualized goal setting and the development of self-management skills designed to promote healthy lifestyle behaviors to reduce IHD risk in young Black women in the Los Angeles area. It enables her to conduct cross-cultural research in the community. Through education on self-management skills, her research promotes sustainability and diffusion of heart healthy behaviors to the individual participant and into the family.</p>
-
-<p><strong>Clinical</strong>: Clinical Nurse Specialist Adult Critical Care and Acute Care Nurse Practitioner Cardiovascular</p>
-
-<p><strong>Email</strong>: <a href="mailto:jeastwoo@sonnet.ucla.edu">jeastwoo@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Jacquelyn Flaskerud, C-FNP, RN, FAAN&nbsp;</h2>
-
-<p><strong>Research</strong>: AIDS prevention in vulnerable populations; Culture, ethnicity and mental illness. Dr. Flaskerud's research emphasizes the influence of cultural beliefs and practices on the prevention and treatment of AIDS and mental illness as well as the utilization of health services by ethnic and vulnerable populations.</p>
-
-<p><strong>Clinical</strong>: Neuropsychiatric nursing; community mental health nursing</p>
-
-<hr>
-<h2>Deborah Koniak-Griffin, EdD, RN, WHCNP, FAAN &nbsp;</h2>
-
-<p><strong>Research</strong>: Testing of nursing interventions to reduce risk behaviors and promote the health of pregnant and parenting adolescents and their children has led to the development of three evidence-based models. These focus on home visitation by public health nurses and prevention of HIV/AIDS/. Home visitation by public health nurses was shown to decrease infant morbidity, improve maternal health outcomes and reduce repeat pregnancy rates. Young parents in two HIV preventions programs demonstrated decreased sexual risk-taking behaviors, thereby reducing risk for repeat, unplanned pregnancy. In a recent study, overweight/obese Latino women in a lifestyle behavior intervention reported improved dietary habits and had favorable changes in waist circumference and physical activity. Ongoing works involves promoting healthy lifestyle behaviors (physical activity) in middle school students and involvement with the UCLA CTSI. Dr. Koniak-Griffin is Chair of the Health Promotion Science Section and Director of the Center for Vulnerable Populations Research.</p>
-
-<p><strong>Significance</strong>: Dr Koniak-Griffin's program in the area of adolescent health promotion has led to the development of three intervention programs that are evidence-based models of care being promoted by the federal government for dissemination and replication across the United States. These interventions have been shown to reduce risk-taking behaviors associated with unplanned repeat pregnancies, sexually-transmitted diseases and HIV/AIDS as well as improve the infant health in pregnant and parenting adolescents and their children.</p>
-
-<p><strong>Clinical</strong>: Maternity nursing, women's health nurse practitioner</p>
-
-<p><strong>Email</strong>: <a href="mailto:dkoniak@sonnet.ucla.edu">dkoniak@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Donna McNeese-Smith, EdD, RN&nbsp;</h2>
-
-<p><strong>Research</strong>: Organizational factors affecting quality of care processes and outcomes. Specifically, Dr. McNeese-Smith is studying the effect of managed care on substance abuse treatment processes, including methods, intensity, and duration; and patient outcomes such as substance use and employment, and organizational outcomes including costs of care. Another area of research is nurse and manager factors (i.e., leadership, power motivation, development and career stage) that influence staff job satisfaction, productivity, organizational commitment, and patient satisfaction.</p>
-
-<p><strong>Clinical</strong>: Administration of health care services&nbsp;</p>
-
-<p><strong>Email</strong>: <a href="mailto:dmcneese@sonnet.ucla.edu">dmcneese@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Janet Mentes, PhD, APRN, BC&nbsp;</h2>
-
-<p><strong>Research</strong>: Improving the care of older adults, primarily in areas of oral hydration, oral care, and delirium detection and management. Current research emphasis is on early detection and management of dehydration in older adults in community and institutional settings, through the use of various biomarkers, such as urine and salivary parameters along with hydration habits.</p>
-
-<p><strong>Significance</strong>: Dehydration is a complicating condition that increases the likelihood of hospitalization of many common diseases of older adults including congestive heart failure, cancer treatments, and diabetes to name a few. Validation of early methods of detecting dehydration have the potential to decrease these un-needed costly hospitalizations and improve quality of life for older adults. An additional research focus is evaluation of a mentorship program for promoting under-represented minority students' success in gerontological nursing PhD programs. Increasing the number of nurses with PhDs from diverse backgrounds will accelerate the science required to decrease health disparities among underrepresented minority groups.</p>
-
-<p>Co-Director of the Center for Advancement of Gerontological Nursing Research (AGNS)&nbsp;</p>
-
-<p><strong>Clinical</strong>: Geropsychiatric advanced practice nurse&nbsp;</p>
-
-<p><strong>Email</strong>: <a href="mailto:jmentes@sonnet.ucla.edu">jmentes@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Joyce Newman Giger, EdD, APRN, BC, FAAN</h2>
-
-<p><strong>Research</strong>: Focuses on genetic indices and other physiological predictors of coronary heart disease among pre-menopausal African-American women (18-45) as they relate to designing culturally competent interventions to stop the phenotypical expression of risk indices for the development of coronary heart disease among this vulnerable population. Dr. Giger's research specifically takes into account gene-environmental interactions, diabetes, hypertension, and obesity, the metabolic syndrome in relations to the development of coronary heart disease in this vulnerable population.</p>
-
-<p><strong>Clinical</strong>: Transcultural nursing&nbsp;</p>
-
-<p><strong>Email</strong>: <a href="mailto:jgiger@sonnet.ucla.edu">jgiger@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Huibrie C. Pieters, PhD, RN</h2>
-
-<p><strong>Research</strong>: Healthcare decision-making is the focus of my research program and my international and domestic experiences in nursing, clinical psychology, and neuropsychology inform this work. Specifically, Dr. Pieters' work is concentrated on decision-making across different understudied populations: older women with early stage breast cancer, low-income, decision making about surgery for drug-resistant epilepsy, second generation Latinas seeking treatment for depression, and screening for cervical cancer among homeless women. Treatment-related decision making is a complex, multifaceted process within the patient-clinician interaction. Since it is the patient who ultimately makes decisions, Dr. Pieters' study decision making from the patient's perspective. The unique contribution of this body of work is describing complex issues that pose a serious threat to both survival and quality of life.&nbsp;</p>
-
-<p><strong>Significance</strong>: Improve care by exploring ways to improve access to care and increase adherence, both for disease prevention and active treatments.</p>
-
-<p><strong>Clinical</strong>: Psychiatric/Mental health nursing; gero-oncology&nbsp;</p>
-
-<p><strong>Email</strong>: <a href="mailto:hpieters@ucla.edu">hpieters@ucla.edu</a></p>
-
-<hr>
-<h2>Linda Phillips, RN, PhD, FAAN&nbsp;</h2>
-
-<p><strong>Research</strong>: Family caregiving for frail elders; Strategies for improving transitional care of elders from emergency department and hospital to home; Care of frail elder in institutions; Elder abuse in homes and in institutions; Late-life domestic violence; End-of-life caregiving; Ethno-gerontological nursing studying the intersect of aging and transcultural nursing.&nbsp;</p>
-
-<p><strong>Significance</strong>: The US has a rapidly growing older population, particularly among those in ethnically unique groups. Developing and testing nursing interventions to reduce frailty and functional decline and enhance care at home has significant cost and quality of life implications. Most nurse researchers, particularly those in ethnically unique groups, have very short research careers because they tend to pursue doctoral education after age 40. National nursing leaders and nursing organizations have set a goal to increase the length of research careers in nursing by promoting early-entry into scientific careers. The goal of lengthening research careers has the potential to significantly increase the impact nurses can make in the health of the nation. This research is designed to gain the knowledge needed to design interventions to entice nurses into science early in their nursing careers.</p>
-
-<p><strong>Clinical</strong>: &nbsp;Gerontology, long term care, community health nursing</p>
-
-<p><strong>Email</strong>: <a href="mailto:lrphillips@sonnet.ucla.edu">lrphillips@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Maria Elena Ruiz, PhD, RN&nbsp;</h2>
-
-<p><strong>Research</strong>: Racial/ethnic minority health and aging, with an intergenerational family focus. Particular emphasis on Latinos, health disparities, social epidemiology and the intersection of place, culture and language in urban and rural areas. Special focus on mixed qualitative and quantitative methods and community based participatory designs. Research projects include studies on familismo, chronic illness and caregiving, homelessness, farmworkers and workplace violence, as well as underrepresented Hispanic/Latino nurses.</p>
-
-<p><strong>Leadership</strong>: Recognized national nurse leader, Latina Spanish language/culture leader, and community advocate for underrepresented nurses and underserved communities; cross cultural expertise. Faculty Affiliate with the Chicano Studies Research Center, UCLA (Associate Director, 2020-2012); and the Latin America Institute.</p>
-
-<p><strong>International Health Programs</strong>: Coordinator for the Latin America-Cuba Project (international health experiences for nursing students in Cuba, Mexico, and other Latin American countries).</p>
-
-<p><strong>Significance</strong>: In the US, as worldwide, we are facing serious health, aging, culture/language and environmental health issues. Dr. Ruiz's clinical, teaching, research and service allows her to integrate these areas, with an international perspective, in order that we may share resources and strategies to decrease health disparities and to improve health outcomes.</p>
-
-<p><strong>Clinical</strong>: Primary Care in underserved communities with interdisciplinary teams, Advanced Practice, and Community/Public Health in underserved urban/rural communities</p>
-
-<hr>
-<h2>Linda Sarna, PhD, RN, FAAN&nbsp;</h2>
-
-<p><strong>Research</strong>: Dr. Sarna's current work involves testing distance learning methods directed at nurses to expand capacity to treat tobacco dependence. She has current projects focused on nurses and tobacco control in the Czech Republic and Poland, on behalf or the International Society of Nurses in Cancer Care, and in the U.S. (Kentucky and Louisiana). She is the lead author on a monograph that will be published by the World Health Organization on the nurses' role in reducing non-communicable diseases (cancer, cardiovascular disease, diabetes, and respiratory diseases). She also has conducted secondary analysis of smoking among healthcare providers using the Current Population Surveys. Prior work has focused on symptom recovery after lung cancer surgery and quality of life, and the impact of tobacco use on patients with cancer. She is part of work groups at the National Cancer Institute and the Joint Commission regarding documentation of clinical interventions for tobacco dependence. In 2012-2013, she was the Chair of the Academic Senate at UCLA.&nbsp;</p>
-
-<p><strong>Clinical</strong>: Oncology&nbsp;</p>
-
-<p><strong>Email</strong>: <a href="mailto:lsarna@sonnet.ucla.edu">lsarna@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Donna Ver Steeg, PhD, MSN, MA, RN, FAAN&nbsp;</h2>
-
-<p><strong>Research</strong>: Health work force planning, delegation of decision-making, behaviors of professions in organizations, past, present, and future&nbsp;</p>
-
-<p><strong>Email</strong>: <a href="mailto:dverstee@sonnet.ucla.edu">dverstee@sonnet.ucla.edu</a></p>
-
-<hr>
-<h2>Mary Woo, PhD, RN, FAAN, FAHA</h2>
-
-<p><strong>Research</strong>: Brain-heart interactions and their impact on sudden death and cognition, with an emphasis on heart failure and sleep apnea. Current studies are designed to identify areas of brain damage and interventions to protect or re-grow regions of brain injury. Research methods include brain magnetic resonance imaging, sleep studies (overnight polysomnography), heart rate variability, autonomic testing, and cognitive evaluation.</p>
-
-<p><strong>Significance</strong>: The primary aims of my research are to identify and develop interventions to protect high risk patients (heart failure, persons with obstructive sleep apnea) from brain injury.&nbsp;</p>
-
-<p><strong>Clinical</strong>: Critical Care&nbsp;</p>
-
-<p><strong>Email</strong>: <a href="mailto:mwoo@sonnet.ucla.edu">mwoo@sonnet.ucla.edu</a></p>
-</div>
-
-      </div>
-      </div>
-
-</div>
-
-
-    </div>
-  </main>
-</article>
-
-  
-      </div>
-  
-  </div>
-
-    
-  </section>
-
-    
-    </main>
-
-      
-  
-
-<footer class="site-footer">
-  <div class="container">
-    <div class="site-footer__content grid">
-      <div class="site-footer__branding">
-              
-<a href="/" rel="home" class="site-branding site-branding--footer site-branding--horizontal">
-      <img src="https://www.nursing.ucla.edu/sites/g/files/oketem251/files/logos/son-logo-white.svg" alt="Home" />
-  </a>
-
-
-      <ul class="menu menu-social">
-  
-    <li class="menu__item">
-    <a class="menu__link" href="https://www.twitter.com/uclanursing?lang=en" target="_blank">
-      <svg aria-hidden="true" width="300" height="306" viewBox="0 0 1200 1227" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-      <path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"/>
-      </svg>
-      <span class="visually-hidden">X</span>
-    </a>
-  </li>
-  
-    <li class="menu__item">
-    <a class="menu__link" href="https://www.instagram.com/uclanursing" target="_blank">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-        <path aria-hidden="true" fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/>
-      </svg>
-      <span class="visually-hidden">Instagram</span>
-    </a>
-  </li>
-  
-    <li class="menu__item">
-    <a class="menu__link" href="https://www.youtube.com/channel/UCOluuu246ZV0uO2tTDlYDBA" target="_blank">
-      <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-        <path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"/>
-      </svg>
-      <span class="visually-hidden">YouTube</span>
-    </a>
-  </li>
-  
-    <li class="menu__item">
-    <a class="menu__link" href="https://www.linkedin.com/company/26540019/" target="_blank">
-      <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-        <path fill="currentColor" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"/>
-      </svg>
-      <span class="visually-hidden">LinkedIn</span>
-    </a>
-  </li>
-  </ul>
-
-              <div class="site-credit">
-  <p>700 Tiverton Avenue<br />
-Los Angeles, CA 90095</p>
-
-<p><a href="mailto:sonsaff@sonnet.ucla.edu">sonsaff@sonnet.ucla.edu</a></p>
-
-</div>
-                </div>
-
-      <div class="site-footer__menu">
-              
-
-    
-          
-      <ul class="menu menu-footer" >
-    
-                        
-      
-      
-            
-      <li class="menu__item menu__item--nolink">
-                  <h4 class="menu__link menu__link--nolink">Information</h4>
-        
-                      
-          <ul class="menu__subnav">
-    
-                        
-      
-      
-            
-      <li class="menu__item menu__item--link">
-                              <a href="https://nursing.ucla.edu/about/our-people/faculty-directory" class="menu__link menu__link--link">Faculty Directory</a>
-                  
-              </li>
-                        
-      
-      
-            
-      <li class="menu__item menu__item--link">
-                              <a href="http://nursing.uclahealth.org/" class="menu__link menu__link--link">Nursing at UCLA Health</a>
-                  
-              </li>
-        </ul>
-  
-              </li>
-                        
-      
-      
-            
-      <li class="menu__item menu__item--nolink">
-                  <h4 class="menu__link menu__link--nolink">Useful Links</h4>
-        
-                      
-          <ul class="menu__subnav">
-    
-                        
-      
-      
-            
-      <li class="menu__item menu__item--link">
-                              <a href="https://sites.google.com/g.ucla.edu/sonstudentaffairsoffice/home" title="Student Affairs Website" class="menu__link menu__link--link">Current Student Website</a>
-                  
-              </li>
-                        
-      
-      
-            
-      <li class="menu__item menu__item--link">
-                              <a href="https://www.sonnet.ucla.edu/" class="menu__link menu__link--link">SON Intranet</a>
-                  
-              </li>
-                        
-      
-      
-            
-      <li class="menu__item menu__item--link">
-                              <a href="https://it.uclahealth.org/node/41" class="menu__link menu__link--link">IT Support</a>
-                  
-              </li>
-                        
-      
-      
-            
-      <li class="menu__item menu__item--link">
-                              <a href="https://outlook.office365.com/" class="menu__link menu__link--link">SON Email</a>
-                  
-              </li>
-                        
-      
-      
-            
-      <li class="menu__item menu__item--link">
-                              <a href="https://nursing.ucla.edu/evalue" class="menu__link menu__link--link">eValue Login</a>
-                  
-              </li>
-        </ul>
-  
-              </li>
-                        
-      
-      
-            
-      <li class="menu__item menu__item--nolink">
-                  <h4 class="menu__link menu__link--nolink">Getting Around</h4>
-        
-                      
-          <ul class="menu__subnav">
-    
-                        
-      
-      
-            
-      <li class="menu__item menu__item--link">
-                              <a href="https://map.ucla.edu/" class="menu__link menu__link--link">Campus Map</a>
-                  
-              </li>
-                        
-      
-      
-            
-      <li class="menu__item menu__item--link">
-                              <a href="https://www.transportation.ucla.edu/campus-parking" class="menu__link menu__link--link">Parking Information</a>
-                  
-              </li>
-                        
-      
-      
-            
-      <li class="menu__item menu__item--link">
-                              <a href="https://www.transportation.ucla.edu/getting-around-campus/bruinbus" class="menu__link menu__link--link">Campus Shuttles</a>
-                  
-              </li>
-                        
-      
-      
-            
-      <li class="menu__item menu__item--link">
-                              <a href="https://www.transportation.ucla.edu/getting-to-ucla/public-transit" class="menu__link menu__link--link">Public Transit</a>
-                  
-              </li>
-        </ul>
-  
-              </li>
-        </ul>
-  
-
-
-          </div>
-    </div>
-    <div class="site-footer__utility grid">
-      <div class="copyright">
-  &copy; 2024 Regents of University of California
-</div>
-      
-
-<ul class="menu menu-utility">
-	<li class="menu__item">
-		<a class="menu__link" href="https://www.bso.ucla.edu/">Emergency</a>
-	</li>
-	<li class="menu__item">
-		<a class="menu__link" href="http://www.ucla.edu/accessibility">Accessibility</a>
-	</li>
-	<li class="menu__item">
-		<a class="menu__link" href="https://www.ucla.edu/terms-of-use">UCLA Privacy Policy</a>
-	</li>
-	<li class="menu__item">
-		<a class="menu__link" href="https://www.uclahealth.org/privacy-notice">UCLA Health Privacy Notice</a>
-	</li>
-  <li class="menu__item">
-          <a class="menu__link" rel="nofolow" href="/user/login">Login</a>
-    </ul>
-    </div>
-
-      </div>
-</footer>
-
-  </div>
-
-  </div>
-
-    
-    
-        <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/2481","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":true,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"before","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"user":{"uid":0,"permissionsHash":"ed4ca0031bd7a21ae4cf87ca0c887b0a2f7cdee27cb671caa60657d0d29aeb2b"}}</script>
-<script src="/sites/g/files/oketem251/files/js/js_5hHaU43jXUlaXqVbbvNLw1Uz4xfyL45jlpcTPjGp9Io.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=surface&amp;include=eJxdj1cSwzAIRC_kciYkYVtjVELJxLeP06RxPlkWdp8cophmB4KDGC_gcV6pOKABH0ox73Ngq0DTd2yuhNlG00hRjyZKVByXUhS5aRnuQwWGlaFu8nvXlclyNUdRNgztiOAopm3UM_2aLDGgg57iGCF4tuSaVGHtUI6K_yt_s-j3F5P0_gjst_FtPjk4Xck-696KIQuB4tW1nU2QnwhRhco"></script>
-
-  <script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1287727339" async></script></body>
-</html>
+Scientific Expertise | UCLA School of Nursing
+Skip to main content
+University of California, Los Angeles
+Giving
+Translate
+Search
+Main
+Close
+Search
+Try looking up an academic program, research topic, or information about life at UCLA.
+Search
+Search
+Quick Links
+Alumni
+Students
+Scientific Expertise
+Senate Faculty
+Dong Sung An, PhD, MD
+Research
+: Translational science aimed at HIV cure by developing hematopoietic stem cell (HSC) based anti-HIV gene therapy. The current limitation in HIV therapy is that anti-HIV drugs cannot provide cure. My research team investigates a permanent introduction of anti-HIV genes into HSC that has a potential to offer a lifelong protection against HIV. I identified a small interfering RNA (siRNA) expressed from a lentiviral vector to inhibit the expression of a major HIV co-receptor CCR5 to protect cells from HIV infection. The CCR5 directed siRNA is currently investigated in a phase I/I clinical trial (Safety Study of a Dual Anti-HIV Gene Transfer Construct to Treat HIV-1 Infection.
+http://clinicaltrials.gov/show/NCT01734850
+).
+Significance
+: The requirement for life long daily drug administration due to the viral persistence has intensified efforts to develop novel therapeutics to achieve cure. Dr. An's research team investigates a permanent introduction of anti-HIV genes into HSC that has a potential to offer a lifelong protection against HIV.
+Clinical
+: N/A
+Email
+:
+dan@sonnet.ucla.edu
+Barbara Bates-Jensen, PhD, RN, CWOCN
+Research
+: Chronic wounds such as pressure ulcers, diabetic foot ulcers, and leg ulcers are a worldwide silent epidemic with limited public awareness about the financial costs of care for these wounds and the poor outcomes associated with inadequate care including suffering, loss of function, amputation, and death. Dr. Bates-Jensen's research is focused on pressure ulcers and chronic wound care (screening and detection methods, prevention, assessment and management) in vulnerable populations. She works with nursing home residents, elders, persons with spinal cord injury and critically ill patients. She also evaluates and uses new technology in wound care such as a medical device that measures skin and tissue damage before it is visible on the skin surface that she helped invent with UCLA professors in computer science and bioengineering. The research methods that she uses include: methodological research, behavioral observation studies, direct primary data collection, clinical trials and cohort observational studies. The research my team conducts has the potential to improve care of persons with wounds here in the US and around the world.
+Significance
+: Dr. Bates-Jensen is interested in examining quality of care and implementation science (translating research evidence into practice) as they relate to wound care in health care organizations.
+Clinical
+: Gerontology nursing, chronic care and wound care. I am actively involved in global wound care, providing education and training to build sustainable capacity in wound care in communities around the world.
+Email
+:
+bbatesjensen@sonnet.ucla.edu
+Dana Beck, PhD, MSN, FNP-BC
+Research
+: Her research interests include community mobilization, perinatal/reproductive health and behavioral health, and trauma informed care.
+Email
+:
+DBeck@sonnet.ucla.edu
+Wei-Ti Chen, RN, CNM, PhD, FAAN
+Research:
+Dr. Chen is an expert in self- and family-management in Asian and Pacific Islanders in the United States and Asia, with a particular emphasis on quality of life and stigma reduction in people living with HIV (PLWH) and other chronic diseases (e.g., Tourette Syndrome), and in other minorized groups (e.g., immigrants, migrants, sexual minorities). Dr. Chen specializes in intervention design and uses both qualitative and quantitative methodologies in her research. She is a certified nurse-midwife who has worked in infectious disease prevention and care, including COVID and HIV stigmas, as well as in immigrant and migrant health for more than 20 years. She is one of the first nurse scientists to conduct HIV intervention research with Asian Americans both in the U.S. and in Asia (Taiwan, China, Myanmar and Thailand). Her research efforts are devoted to understanding how to enhance adherence to antiretroviral therapy (ART), to decrease disease-related stigmas, and to manage mental stressors to improve quality of life of underserved populations around the world.
+Significance:
+Individuals, their families and communities all play roles in promoting health and wellness of a population. Stigma can affect the well-being and health of people living with chronic disease, in particular those who are socially marginalized. Stigma is an important barrier to accessing adequate social support and health services. HIV stigma negatively impacts PLWH’s mental health and HIV self-managing behaviors, such as adherence to medication regimens, leading to deteriorated subjective well-being, physical health, and even survival. Enhancing linkage to care and care engagement can achieve both a better quality of life and an improvement in health outcomes.
+Clinical:
+Perinatal care and delivery, mental health, infectious disease prevention and management, underserved populations.
+Email
+:
+wchen@sonnet.ucla.edu
+Kristen Choi, PhD, RN, FAAN
+Research
+: Dr. Choi’s research aims to improve access to and delivery of mental health care for children, adolescents, and other underserved populations. As a health services researcher, Dr. Choi studies healthcare systems, health policy, and healthcare delivery mechanisms that could be modified to improve population mental well-being. Her work also includes a substantial focus on equity in mental health care and how mental health disparities can be eliminated. Dr. Choi is currently studying household and community adverse childhood experiences (ACEs), including bullying, school violence, and racial discrimination, and their role in youth brain and behavioral development. She is also studying implementation of trauma-informed care in mental health settings, including trauma-informed screening for ACEs. Other projects include research on mental health service access for LGBTQ youth; interventions to address social determinants of health; and equity in health services for autism and other developmental disabilities.
+Significance
+: As many as 1 in 5 children and adolescents in the United States have a mental, developmental, or behavioral disorder, but only half of these children receive treatment. Trauma and adversity early in childhood exert especially significant harm on mental health and development across the life course. By improving the delivery of mental healthcare for children and adolescents and strengthening upstream determinants of well-being in communities, we can make progress towards population mental well-being and health equity.
+Clinical
+: Mental health/psychiatry, pediatrics, child/adolescent health, underserved populations, safety net systems of care
+Email
+:
+krchoi@sonnet.ucla.edu
+Lauren Clark, PhD, RN, FAAN
+Email
+:
+lclark@sonnet.ucla.edu
+Holli A. DeVon, PhD, RN, FAAN, FAHA
+Research
+: Dr. DeVon's research has revealed sex and age differences in the symptoms of acute coronary syndrome (ACS) that leave women at risk for delay in seeking treatment for symptoms, delay in diagnostic testing, and delayed treatment. She had funding from NHLBI to study the characteristics of prehospital delay and outcomes in patients treated for potential ACS in the emergency department. We found that patients who use emergency medical services had reduced delay times and those with unusual fatigue had longer delay for symptoms. Our findings will aid in the development of interventions for both patients and clinicians to reduce prehospital delay for symptoms. She is also conducting a randomized controlled trial to test a standardized acupuncture protocol for chest pain/stable angina. The acupuncture group had significantly less pain and improved quality of life compared to controls. We have submitted an application for an R01 to conduct a multi-site clinical trail to confirm efficacy of the acupuncture. In 2017, she received a Fulbright US Scholar Award to study traditional and novel risk for early onset cardiovascular disease in individuals with HIV. She spent the spring of 2018 in Rwanda, working with new partners to launch this research. A manuscript of our findings are now under review.
+Significance
+: Symptoms are the trigger for individuals that something is wrong. In the case of patients with acute coronary syndrome (heart attack), seeking care in a timely manner could mean the difference between life and death. Our research team has used an integrated, biobehavioral approach to advance symptom science by studying inflammatory, and behavioral aspects of ischemic heart disease. An additional interest has been individuals that are vulnerable to poor health outcomes as a result of age, race/ethnicity, and/or low social status.
+Email
+:
+hdevon@sonnet.ucla.edu
+Karen Gylys, PhD, RN
+Research
+: Understanding early changes in Alzheimer's disease brain, specifically the mechanisms by which synapses degenerate. We study postmortem Alzheimer's tissue and transgenic mouse models of this disease, and focus on the synapse region through use of a synaptosome preparation (resealed nerve terminals). Synaptic changes are detected with flow cytometry analysis of synaptosomes using novel protocols that we have developed. We also use conventional biochemical assays including ELISA and Westerns, and image synaptic regions using confocal and electron microscopy. Collaborative projects with the Easton Center for Alzheimer's Research are directed at measuring CSF and plasma biomarkers in subjects with mild cognitive impairment (MCI) with the goal of finding a blood test that will identify Alzheimer's patients early in the disease and track patient response to therapies.
+Significance
+: The focus of the Gylys lab is on understanding the earliest changes Alzheimer's disease synapses through study of postmortem human tissue and mouse models of AD. A second major focus is the study of early AD-related changes that show up in blood; the goal is finding blood tests to help us detect AD earlier, and to monitor subject's response to therapeutics in clinical trials.
+Clinical
+: Cardiac and critical care nursing
+Email
+:
+kgylys@sonnet.ucla.edu
+Nalo Hamilton, PhD, APRN, BC
+Research
+: Research is focused on the development of breast cancer and the health disparity associated with this disease. Investigating the regulatory affects of the insulin like growth factor-II (IGF-2) on estrogen receptor mediated pathways will assess the clinical utility of IGF2 as a breast cancer biomarker.
+Significance
+: Understanding the cascade of events in breast cancer development and associated ethnic differences will improve our ability to develop therapeutic agents that target cellular/molecular events in aggressive breast cancer.
+Clinical
+:  OB and Primary Care; Certified women's health and adult health nurse practitioner
+Email
+:
+nhamilton@sonnet.ucla.edu
+MarySue V. Heilemann, PhD, RN
+Research
+: Dr. Heilemann's research focuses on depression among Latinas in relation to strengths (mastery, resilience, and other protective factors), motivation, and readiness to change, in the context of intergenerational cultural expectations, gender issues, trauma, and post-traumatic stress disorder. Her expertise is in qualitative research methodology (Grounded Theory and Interpretive Phenomenology). Dr. Heilemann has also initiated and moderated symposiums to focus on Media and Nursing.
+Significance
+: This work is important for creating strategies to successfully engage and treat symptomatic women. Her focus on media is valuable to nurses seeking to engage in new communication strategies in the 21st century.
+Clinical
+: Community-based mental health, community health nursing, and public health nursing
+Email
+:
+mheilema@sonnet.ucla.edu
+Felicia Schanche Hodge, PhD
+Research
+: Dr. Hodge's research focuses on chronic health conditions and health beliefs and behaviors among American Indians, Alaska Natives, and Indigenous populations. Her work includes smoking cessation and control, diabetes and cancer screening and control, obesity, adverse childhood events, self-management of pain, and cultural constructs of illness and disease. Dr. Hodge holds a joint faculty position in Public Health (Health Services Department), is the Director of the Center for American Indian/Indigenous Research and Education (CAIIRE), and is the Director of an NINR-funded T32 Predoctoral-Postdoctoral Vulnerable Populations Training Program.
+Significance
+: Studies document that AI/ANs have had the poorest health with cancer leading as the number one cause of death followed by heart disease and suicide. Cultural interventions are long overdue and play an important role in community wellness.
+Email
+:
+fhodge@sonnet.ucla.edu
+Su Yon Jung, RN, MPH, PhD
+Research
+: Dr. Jung is a cancer epidemiologist gaining particular expertise in study design, data quality assurance, statistically analytic approach, data interpretation, and evaluation. Her research has focused on identifying cancer biomarkers associated with obesity and weight gain as potential strategies for cancer prevention. She incorporates genetic approaches to evaluate the effect of gene-environmental interactions on the pathways connecting cancer-relevant biomarkers to cancer carcinogenesis.
+Significance
+: In cancer epidemiologic studies, behavioral and observational studies have been conducted in parallel with genome-wide association studies. Dr. Jung’s molecular genetic epidemiology to incorporate hormonal and behavioral determinants in cancer prevention and prognosis will afford an opportunity for collaboration between the two research areas by its incorporation of the traditional and rigorous epidemiologic strategy into the genetic study approach.
+Clinical
+: Community-based and public health practice; research design; statistical analyses including multivariate modeling, survival, CART, Baron-Kenny approach, and genetic association/gene-environmental interaction test
+Email
+:
+sjung@sonnet.ucla.edu
+Eunice Lee, PhD, RN, FAAN
+Research
+: Nursing Interventions to improve breast/cervical/colorectal cancer screening among immigrants; care of vulnerable and minority elder adults with dementia and their caregivers; depression; cross-cultural methodology. Dr. Lee's program of research has been focusing on the development and testing of culturally targeted, community-based interventions to increase breast cancer, cervical cancer, and colorectal cancer screening behavior among minority women, especially Korean American women. A major emphasis in her work has been on increasing early detection among aging and vulnerable populations and the reduction of health disparities in cancer prevention. Her work has been funded by the National Institute of Nursing Research and the National Cancer Institute. Her expertise is in behavior change theory and testing theory-based interventions that incorporate culture to optimize cancer screening.
+Significance
+: Dr. Lee's program of research has been focusing on the development and testing of culturally targeted, community-based interventions to increase breast cancer, cervical cancer, and colorectal cancer screening behavior among minority women, especially Korean American women. A major emphasis in her work has been on increasing early detection among aging and vulnerable populations and the reduction of health disparities in cancer prevention. Research methods of interests — descriptive, experimental, qualitative, and mixed methods.
+Clinical
+: Gerontological nurse practitioner, geriatric-psychiatric nursing
+Email
+:
+eclee@sonnet.ucla.edu
+Jian Li, MD
+Email
+:
+Jianli2019@g.ucla.edu
+Robert Lucero, PhD, RN, FAAN
+Research
+: Dr. Lucero's research is leading the way to inform infrastructure development for data-driven knowledge generation that serves as a model for organizations across the United States (US) to improve the quality of care for hospitalized older adults. He is leveraging electronic patient, clinical, and administrative data and data science methods to identify valid, modifiable factors that predict hospital-acquired falls (HAF), which affect annually approximately one million US hospitalized patients. Studies he  published in the
+Journal of Clinical Nursing
+and the
+Journal of Advanced Nursing
+showed that, in 168 US hospitals, poor nursing care quality was associated with more adverse patient events, including HAF. Using artificial intelligence approaches with electronic health record (EHR) data, Dr. Lucero discovered a set of six new clinical and organizational factors that can predict HAF published in the
+International Journal of Medical Informatics
+. His lab also explores the use of registered nurses’ (RNs’) progress notes, or text data, to predict HAF. They were the first to publish in
+eGEMs
+that RNs’ notes contain information about clinical, environmental, and organizational factors that can predict fall risk. The other cornerstone of his research program is developing health information technology (HIT) to promote chronic disease self-management. He pioneered and published in
+Applied Clinical Informatics
+a HIT design approach, known as Consumer-centered Participatory Design (C2PD), that has been used in multiple HIT development and systematic review articles. Unlike other design approaches, C2PD provides public health and community-based organizations, academic researchers, and commercial designers with a theoretically informed approach that engages consumer throughout the development and evaluation of HIT. C2PD builds on the strengths and resources within a community, promotes a collaborative learning and empowering process, facilitates collaborative partnerships, and incorporates four components of HIT design, namely; user preferences, functions, tasks, and representational requirements, to develop highly usable systems. His lab demonstrated that using the C2PD approach resulted in a highly useful and usable fall prevention self-management system for English- and Spanish-speaking older adults published in eGEMs. He has disseminated further wide-ranging use of the C2PD method in the journals of
+Informatics for Health and Social Care
+,
+Hispanic Healthcare International
+, and
+JMIR Research Protocols
+. This includes creating a mHealth application (app) interface for Hispanic caregivers of persons with dementia to self-manage chronic stress and burden and an app to support African American caregivers of children with chronic asthma and obesity. The lessons he learned developing the C2PD approach are represented in a paper he co-authored in
+Science Translational Medicine
+that focuses on using HIT to engage communities to improve health and reduce disparities among populations.
+Significance
+: Dr. Lucero's research program focuses on improving health outcomes of vulnerable populations using innovative health systems and informatics approaches. Two prominent themes of his work are: enhancing the quality of care for hospitalized older adults and improving self-management of chronic health conditions among Hispanic- and African-Americans. His research is distinguished by interdisciplinary team science, which bridges nursing, medicine, psychology, computer science, and engineering across the University of Florida (UF), health systems, communities, and other academic institutions.
+Email
+:
+rlucero@sonnet.ucla.edu
+Paul M. Macey, PhD
+Research
+: Dr. Macey studies the brain in people with sleep-disordered breathing, to understand pathology and find new interventions. His focus is the neural regulation of body functions such breathing and cardiovascular control, and of psychological factors such as depression and anxiety, in people with obstructive sleep apnea. His group uses MRI scanning to look at brain structure and function, and they relate changes on MRI scans to performance on physiologic tests of blood pressure and breathing, as well as measurements of mood and stress. Such physical and psychological measures are performed in the MRI scanner, in laboratories, and in people's homes using mobile health technology. Dr. Macey also collaborates with teams in other UCLA departments and universities across the World on a variety of brain imaging projects.
+Significance
+: Dr. Macey studies the relationship between the brain and physical and psychological stresses in people with obstructive sleep apnea. Building on this knowledge, he tests the effectiveness of physical and psychological interventions in sleep apnea, such the standard "CPAP" treatment, and blood pressure reduction using drugs or mindfulness. The goal is to help treat the full range of symptoms experienced by people with sleep apnea.
+Email
+:
+PMacey@sonnet.ucla.edu
+Nancy A. Pike PhD, RN, FNP-C, CPNP-AC
+Research
+: Biobehavioral and health outcomes in infants, children, and adolescents with congenital heart disease (CHD) and their families. This includes quality of life, health status, self-esteem, anxiety, depression, body-image, clinical symptoms, feeding / growth, neurodevelopment and cognitive outcomes, acquired medical conditions with aging and self-care with transitioning to adulthood. Dr. Pike serves as Principal Investigator (PI) on an NIH-funded R01 grant to look at the biological interface between the clinical symptom of cognition/memory loss and brain structural injury (MRI) in adolescents with single ventricle heart disease after surgical palliation.
+Significance
+: To evaluate the structural status of brain regions which control memory and their relationship the clinical symptom of memory loss in adolescents with single ventricle congenital heart disease after surgical correction. This study has the potential to dramatically impact clinical practice, as information from this study can guide clinicians toward improved patient education/self-care strategies and test innovative interventions to improve memory in this growing population.
+Clinical
+: Acute Care Pediatric Nurse Practitioner, Congenital Heart Disease, Cardiothoracic Surgery
+Email
+:
+npike@sonnet.ucla.edu
+Wendie Robbins, PhD, RN, FAAN
+Research
+: Biomarkers; reproductive toxicology; male reproductive health; occupational, environmental, and reproductive epidemiology.
+Significance
+: The US Centers for Disease Control has identified infertility as a public health concern and has developed a national public health action plan to address this issue that affects ~1 in 7 couples. Our research focuses on promotion of healthy behaviors to maintain and preserve male fertility as well as identifying exposures that threaten optimal male reproductive health.
+Clinical
+: Occupational and environmental health nursing
+Email
+:
+wrobbins@sonnet.ucla.edu
+Christine Samuel-Nakamura, PhD, RN, FNP-BC
+Research
+: Community environmental health research, heavy metal contamination, AI health, behavioral health, healthcare, and research.
+Clinical
+: Board Certified Family Nurse Practitioner, Diabetes, Rural Healthcare, Tribal Health and Healthcare, Student Health
+Email
+:
+cnakamura@sonnet.ucla.edu
+Sophie Sokolow, PhD, MPharm
+Research
+: Molecular pathogenesis of Alzheimer's disease with a special emphasis on calcium signaling pathways. Other research projects focus on the identification of new biomarkers in Alzheimer's disease and the role of pharmacogenomics in Alzheimer's disease progression and response to pharmacotherapy.
+Significance
+: Dr. Sokolow studies the molecular mechanisms by which Alzheimer's disease develops in the brain. She also examines biomarkers and genetic factors associated with Alzheimer's disease progression and response to the current medications.
+Clinical
+: Pharmacist, pharmacovigilance and pharmacosurveillance
+Sokolow lab website
+: http://ssokolow.bol.ucla.edu/
+Email
+:
+ssokolow@sonnet.ucla.edu
+Yeonsu Song, PhD, RN, FNP-C
+Email
+:
+ysong@sonnet.ucla.edu
+Dante Anthony Tolentino, PhD, RN-BC
+Research
+: His research interests lie in technology-based interventions for Type 2 diabetes in Filipinx-/Americans, nurses’ user experience with electronic health records, nursing informatics and education, quantitative research, data mining, healthcare policy, and vulnerable populations.
+Email
+:
+datolentino@sonnet.ucla.edu
+Elizabeth Thomas, RN, PhD, ANP-BC, COHN-S, CNL
+Research
+: Dr. Thomas's research focuses on type 2 diabetes in older working adults. She has conducted grounded-theory qualitative studies on diabetes self-management at work and quantitative work on type 2 diabetes, hearing loss and work-related exposures (noise and chemicals) in older Mexican Americans as well as a pilot workplace-based musculoskeletal injury prevention program. Current studies include an extension of grounded-theory qualitative studies on diabetes self-management at work, a quantitative study of self-efficacy for diabetes self-management, self-management behaviors, and work productivity in older adults and a larger cohort of the workplace-based musculoskeletal injury prevention program. Dr. Thomas has 20+ years of experience as an Occupational Health Nurse Practitioner working in high technology industries meeting the health, safety, and ergonomic needs of employees. She has designed, implemented, and managed numerous occupational health programs, including award winning workers' compensation and ergonomics programs. She has extensive experience as a team member and team leader in Total Quality Management initiatives.
+Email
+:
+ethomas@sonnet.ucla.edu
+Kristi Westphaln, PhD, RN
+Email
+:
+kwestphaln@sonnet.ucla.edu
+Dorothy J. Wiley, PhD, RN
+Research
+: Interests relate to HPV infection across the lifespan: in children (juvenile laryngeal papillomatosis), adolescents and young adults (HPV infections, genital warts, neoplasia) and middle- to older-adults (cancers and neoplasia). Additionally, our group focuses on developing effective screening strategies for detecting precancers and cancers, and we examine associations between HPV infection characteristics, neoplasia and molecular biomarkers across the lifespan are important to understanding the natural history of HPV-related cancers (HPV methylation). Sexual health, sexuality and sexually transmitted infections that influence the natural history of HPV-infections and -related neoplasia are our concern. Vaccine prevention strategies and uptake of vaccine campaigns in the community are key interests (HPV-16 monovalent, 4-valent and 9-valent HPV vaccines). Our research also characterizes the intersection of HPV and HIV infections, including high-risk and population surveillance for cervical, oropharyngeal and anal cancer and screening activities. The Wiley group evaluates risk factors for HPV-disease progression; especially related to HIV in human populations Dr. Wiley uses epidemiological methods to identify health- and disease- patterns in human populations.
+Significance
+: Nearly 500,000 women, worldwide, are diagnosed with cervical cancer each year and nearly 250,000 will die from disease annually. A major aim of our work centers on developing and testing screening interventions and early treatments to prevent invasive cancers caused by HPV. These include improved clinical specimen collection techniques, and identifying biological markers that are associated with higher risk for precancers.
+Clinical
+: Community-based and public health practice; adolescent females and adult women, adult men, older adults and high-risk populations; prevention strategies to decrease morbidity and mortality in diverse communities
+Email
+:
+dwiley@sonnet.ucla.edu
+Adjunct Faculty Researchers
+Mary-Lynn Brecht, PhD
+Research
+: Current projects focus on patterns and correlates of methamphetamine (meth) use; treatment outcomes and HIV risk behaviors for meth users; and the application of longitudinal statistical methods to substance abuse and health research. Past projects have included needs assessment (for substance abuse treatment, for training among service providers related to problem gambling), evaluation of treatment for drug abuse, substance use prevalence estimation, community indicators of drug abuse problems.
+Statistical Expertise
+: multivariate statistical methods, especially for longitudinal studies
+Email
+:
+lbrecht@mednet.ucla.edu
+Catherine Carpenter, PhD, MPH
+Research
+: Malnutrition, represented by over and under nutrition, has a global impact on human health and disease. Dr. Carpenter has a dual research interest in both obesity and malnutrition. Her current research areas include: the effect of protein on muscle mass gain among women living with HIV in rural India; the influence of malnutrition on recovery from surgery among kids living in Kolkata, India; diet and exercise intervention studies for breast cancer prevention; and candidate genes associated with appetite and food craving in development of obesity. Future research directions include studies of protein intake in relationship to reduction of food craving and addictive behavior in alcoholics, and healthy nutrition and prevention of cervical cancer among women living with HIV in rural India.
+Significance
+: The impact of nutrition in improving the health of vulnerable populations is critically important and vastly understudied.
+Clinical
+:  Design and analysis of randomized nutritional intervention trials
+Email
+:
+ccarpenter@mednet.ucla.edu
+Anna Gawlinski, PhD, RN, CS-ACNP, FAAN
+Research
+: Research is focused on testing interventions aimed at improving outcomes in acute and critically ill patients in areas such as hemodynamic monitoring, animal assisted therapy, patient communication, and the nurses' role in patient safety and the recovery of errors. Dr. Gawlinski has expertise in the implementation of infrastructures that supports research and evidence-based practice in the micro and macro-system hospital setting.
+Significance
+: Dr. Gawlinski's program of research brings new innovations to patient care that helps patients and their families; and her work facilitates nurses practicing with the best evidence to improve patient care and patient outcomes of care.
+Clinical
+: Cardiovascular Acute and Critical Care
+Email
+:
+agawlins@sonnet.ucla.edu
+Benissa Salem, PhD, RN, MSN
+Research
+: Utilizing community based participatory methods (CBPR) to address needs of middle age and older homeless and otherwise vulnerable populations, characterizing frailty among middle age and older homeless men and women, development of health promotion interventions to address health needs among middle age and older homeless women, reduction of drug use and risky behaviors among older homeless adults at risk for HIV and other infectious diseases.
+Significance
+: Primary goals include developing multidisciplinary interventions to address frailty, drug use and dependency and HIV risk behaviors at the individual — level and structural level.
+Clinical
+: Community and public health nursing, Gerontology, Health disparities/vulnerable populations
+Email
+:
+bsalem@sonnet.ucla.edu
+Emeriti Faculty
+Nancy Anderson, PhD, RN, C-ANP, FAAN
+Research
+: Adolescent health beliefs and decision-making, adolescent perceptions of risk including HIV, substance abuse and violence, qualitative methods. Dr. Anderson has identified perceptions of risk among teens in juvenile detention. Currently works as Director of the Social Policy and Dissemination Core for the Center for Vulnerable Populations Research centers on employing participatory research and ethnographic methods in community based research.
+Email
+:
+nanderso@sonnet.ucla.edu
+Mary Cadogan, DrPH, RN, C-GNP
+Research
+: Improving quality of care across settings for older adults
+Clinical
+: Advanced Practice Gerontology Nursing; Community based health promotion and disease prevention for diverse populations
+Email
+:
+mcadogan@sonnet.ucla.edu
+Betty Chang, DNSc, RN, C-FNP, FAAN
+Research
+: Functional status and self-care in the elderly, and their caregivers, health services research on outcomes of nursing care, telehealth and distance learning in integrative east-west medicine. Dr. Chang studies intervention to reduce the burden of family members who care for persons with chronic illnesses in the home. Growth in the older population makes this issue critical in maintaining the health of our middle-aged adult "children" and their parents in the comfort of their homes. She is also looking at the role of self-care (non-physician prescribed), and the use of technology in the improvement of health in adults in their middle and older years.
+Clinical
+: Gerontological nursing, integrative East-West medicine
+Email
+:
+bchang@sonnet.ucla.edu
+Lynn Doering, PhD, RN, FAAN
+Research
+: Care of patients with cardiac disease and heart transplantation and care of critically ill patients, focusing on the interface of behavior and biological outcomes, particularly inflammatory biomarkers; depression and immune dysfunction after coronary artery bypass surgery; identification of depression in cardiac patients; nurse-delivered cognitive behavioral therapy (CBT) for populations with or at risk for depression. Currently, Dr. Doering is exploring the use of an ECG biomarker to detect allograft rejection in heart transplant patients and is collecting psychosocial measures (depression, quality of life, anxiety) during the first 6 months after transplantation. The benefit of early detection of allograft rejection may allow more timely initiation of medical therapy and reduce mortality from acute rejection.
+Significance
+: Dr. Doering's research is significant for identifying clinical outcomes associated with depression and anxiety in cardiac patients, and her use of nurses to deliver CBT in depressed patients is unique and innovative.
+Clinical
+: Critical care and cardiopulmonary nursing
+Email
+:
+ldoering@sonnet.ucla.edu
+Jo-Ann Eastwood, PhD, CNS, ACNP-BC, FAHA, FPCNA, FAAN
+Research
+: Despite the fact that heart disease is the number one killer of women, research on young women and cardiovascular disease is scarce, particularly research on prevention efforts. Dr. Eastwood's previous research focused on psychobiological correlates of ischemic heart disease in women. She further built upon this foundation by focusing on IHD prevention through the promotion of self-management. Her current funded study combines clinical and mobile "m-Health" approaches to cardiovascular risk reduction in young, minority women in the Los Angeles area. In a mutually beneficial collaboration with the UCLA Wireless Health Institute, she has combined a community-based participatory research model with mobile health technology during the last two years.
+Significance
+: Consistent with UCLA's mission and the Institute of Medicine's report on reducing health disparities through prevention, Dr. Eastwood uses an innovative approach that focuses on early recognition of risk factors, individualized goal setting and the development of self-management skills designed to promote healthy lifestyle behaviors to reduce IHD risk in young Black women in the Los Angeles area. It enables her to conduct cross-cultural research in the community. Through education on self-management skills, her research promotes sustainability and diffusion of heart healthy behaviors to the individual participant and into the family.
+Clinical
+: Clinical Nurse Specialist Adult Critical Care and Acute Care Nurse Practitioner Cardiovascular
+Email
+:
+jeastwoo@sonnet.ucla.edu
+Jacquelyn Flaskerud, C-FNP, RN, FAAN
+Research
+: AIDS prevention in vulnerable populations; Culture, ethnicity and mental illness. Dr. Flaskerud's research emphasizes the influence of cultural beliefs and practices on the prevention and treatment of AIDS and mental illness as well as the utilization of health services by ethnic and vulnerable populations.
+Clinical
+: Neuropsychiatric nursing; community mental health nursing
+Deborah Koniak-Griffin, EdD, RN, WHCNP, FAAN
+Research
+: Testing of nursing interventions to reduce risk behaviors and promote the health of pregnant and parenting adolescents and their children has led to the development of three evidence-based models. These focus on home visitation by public health nurses and prevention of HIV/AIDS/. Home visitation by public health nurses was shown to decrease infant morbidity, improve maternal health outcomes and reduce repeat pregnancy rates. Young parents in two HIV preventions programs demonstrated decreased sexual risk-taking behaviors, thereby reducing risk for repeat, unplanned pregnancy. In a recent study, overweight/obese Latino women in a lifestyle behavior intervention reported improved dietary habits and had favorable changes in waist circumference and physical activity. Ongoing works involves promoting healthy lifestyle behaviors (physical activity) in middle school students and involvement with the UCLA CTSI. Dr. Koniak-Griffin is Chair of the Health Promotion Science Section and Director of the Center for Vulnerable Populations Research.
+Significance
+: Dr Koniak-Griffin's program in the area of adolescent health promotion has led to the development of three intervention programs that are evidence-based models of care being promoted by the federal government for dissemination and replication across the United States. These interventions have been shown to reduce risk-taking behaviors associated with unplanned repeat pregnancies, sexually-transmitted diseases and HIV/AIDS as well as improve the infant health in pregnant and parenting adolescents and their children.
+Clinical
+: Maternity nursing, women's health nurse practitioner
+Email
+:
+dkoniak@sonnet.ucla.edu
+Donna McNeese-Smith, EdD, RN
+Research
+: Organizational factors affecting quality of care processes and outcomes. Specifically, Dr. McNeese-Smith is studying the effect of managed care on substance abuse treatment processes, including methods, intensity, and duration; and patient outcomes such as substance use and employment, and organizational outcomes including costs of care. Another area of research is nurse and manager factors (i.e., leadership, power motivation, development and career stage) that influence staff job satisfaction, productivity, organizational commitment, and patient satisfaction.
+Clinical
+: Administration of health care services
+Email
+:
+dmcneese@sonnet.ucla.edu
+Janet Mentes, PhD, APRN, BC
+Research
+: Improving the care of older adults, primarily in areas of oral hydration, oral care, and delirium detection and management. Current research emphasis is on early detection and management of dehydration in older adults in community and institutional settings, through the use of various biomarkers, such as urine and salivary parameters along with hydration habits.
+Significance
+: Dehydration is a complicating condition that increases the likelihood of hospitalization of many common diseases of older adults including congestive heart failure, cancer treatments, and diabetes to name a few. Validation of early methods of detecting dehydration have the potential to decrease these un-needed costly hospitalizations and improve quality of life for older adults. An additional research focus is evaluation of a mentorship program for promoting under-represented minority students' success in gerontological nursing PhD programs. Increasing the number of nurses with PhDs from diverse backgrounds will accelerate the science required to decrease health disparities among underrepresented minority groups.
+Co-Director of the Center for Advancement of Gerontological Nursing Research (AGNS)
+Clinical
+: Geropsychiatric advanced practice nurse
+Email
+:
+jmentes@sonnet.ucla.edu
+Joyce Newman Giger, EdD, APRN, BC, FAAN
+Research
+: Focuses on genetic indices and other physiological predictors of coronary heart disease among pre-menopausal African-American women (18-45) as they relate to designing culturally competent interventions to stop the phenotypical expression of risk indices for the development of coronary heart disease among this vulnerable population. Dr. Giger's research specifically takes into account gene-environmental interactions, diabetes, hypertension, and obesity, the metabolic syndrome in relations to the development of coronary heart disease in this vulnerable population.
+Clinical
+: Transcultural nursing
+Email
+:
+jgiger@sonnet.ucla.edu
+Huibrie C. Pieters, PhD, RN
+Research
+: Healthcare decision-making is the focus of my research program and my international and domestic experiences in nursing, clinical psychology, and neuropsychology inform this work. Specifically, Dr. Pieters' work is concentrated on decision-making across different understudied populations: older women with early stage breast cancer, low-income, decision making about surgery for drug-resistant epilepsy, second generation Latinas seeking treatment for depression, and screening for cervical cancer among homeless women. Treatment-related decision making is a complex, multifaceted process within the patient-clinician interaction. Since it is the patient who ultimately makes decisions, Dr. Pieters' study decision making from the patient's perspective. The unique contribution of this body of work is describing complex issues that pose a serious threat to both survival and quality of life.
+Significance
+: Improve care by exploring ways to improve access to care and increase adherence, both for disease prevention and active treatments.
+Clinical
+: Psychiatric/Mental health nursing; gero-oncology
+Email
+:
+hpieters@ucla.edu
+Linda Phillips, RN, PhD, FAAN
+Research
+: Family caregiving for frail elders; Strategies for improving transitional care of elders from emergency department and hospital to home; Care of frail elder in institutions; Elder abuse in homes and in institutions; Late-life domestic violence; End-of-life caregiving; Ethno-gerontological nursing studying the intersect of aging and transcultural nursing.
+Significance
+: The US has a rapidly growing older population, particularly among those in ethnically unique groups. Developing and testing nursing interventions to reduce frailty and functional decline and enhance care at home has significant cost and quality of life implications. Most nurse researchers, particularly those in ethnically unique groups, have very short research careers because they tend to pursue doctoral education after age 40. National nursing leaders and nursing organizations have set a goal to increase the length of research careers in nursing by promoting early-entry into scientific careers. The goal of lengthening research careers has the potential to significantly increase the impact nurses can make in the health of the nation. This research is designed to gain the knowledge needed to design interventions to entice nurses into science early in their nursing careers.
+Clinical
+:  Gerontology, long term care, community health nursing
+Email
+:
+lrphillips@sonnet.ucla.edu
+Maria Elena Ruiz, PhD, RN
+Research
+: Racial/ethnic minority health and aging, with an intergenerational family focus. Particular emphasis on Latinos, health disparities, social epidemiology and the intersection of place, culture and language in urban and rural areas. Special focus on mixed qualitative and quantitative methods and community based participatory designs. Research projects include studies on familismo, chronic illness and caregiving, homelessness, farmworkers and workplace violence, as well as underrepresented Hispanic/Latino nurses.
+Leadership
+: Recognized national nurse leader, Latina Spanish language/culture leader, and community advocate for underrepresented nurses and underserved communities; cross cultural expertise. Faculty Affiliate with the Chicano Studies Research Center, UCLA (Associate Director, 2020-2012); and the Latin America Institute.
+International Health Programs
+: Coordinator for the Latin America-Cuba Project (international health experiences for nursing students in Cuba, Mexico, and other Latin American countries).
+Significance
+: In the US, as worldwide, we are facing serious health, aging, culture/language and environmental health issues. Dr. Ruiz's clinical, teaching, research and service allows her to integrate these areas, with an international perspective, in order that we may share resources and strategies to decrease health disparities and to improve health outcomes.
+Clinical
+: Primary Care in underserved communities with interdisciplinary teams, Advanced Practice, and Community/Public Health in underserved urban/rural communities
+Linda Sarna, PhD, RN, FAAN
+Research
+: Dr. Sarna's current work involves testing distance learning methods directed at nurses to expand capacity to treat tobacco dependence. She has current projects focused on nurses and tobacco control in the Czech Republic and Poland, on behalf or the International Society of Nurses in Cancer Care, and in the U.S. (Kentucky and Louisiana). She is the lead author on a monograph that will be published by the World Health Organization on the nurses' role in reducing non-communicable diseases (cancer, cardiovascular disease, diabetes, and respiratory diseases). She also has conducted secondary analysis of smoking among healthcare providers using the Current Population Surveys. Prior work has focused on symptom recovery after lung cancer surgery and quality of life, and the impact of tobacco use on patients with cancer. She is part of work groups at the National Cancer Institute and the Joint Commission regarding documentation of clinical interventions for tobacco dependence. In 2012-2013, she was the Chair of the Academic Senate at UCLA.
+Clinical
+: Oncology
+Email
+:
+lsarna@sonnet.ucla.edu
+Donna Ver Steeg, PhD, MSN, MA, RN, FAAN
+Research
+: Health work force planning, delegation of decision-making, behaviors of professions in organizations, past, present, and future
+Email
+:
+dverstee@sonnet.ucla.edu
+Mary Woo, PhD, RN, FAAN, FAHA
+Research
+: Brain-heart interactions and their impact on sudden death and cognition, with an emphasis on heart failure and sleep apnea. Current studies are designed to identify areas of brain damage and interventions to protect or re-grow regions of brain injury. Research methods include brain magnetic resonance imaging, sleep studies (overnight polysomnography), heart rate variability, autonomic testing, and cognitive evaluation.
+Significance
+: The primary aims of my research are to identify and develop interventions to protect high risk patients (heart failure, persons with obstructive sleep apnea) from brain injury.
+Clinical
+: Critical Care
+Email
+:
+mwoo@sonnet.ucla.edu
+X
+Instagram
+YouTube
+LinkedIn
+700 Tiverton Avenue
+Los Angeles, CA 90095
+sonsaff@sonnet.ucla.edu
+Information
+Faculty Directory
+Nursing at UCLA Health
+Useful Links
+Current Student Website
+SON Intranet
+IT Support
+SON Email
+eValue Login
+Getting Around
+Campus Map
+Parking Information
+Campus Shuttles
+Public Transit
+© 2024 Regents of University of California
+Emergency
+Accessibility
+UCLA Privacy Policy
+UCLA Health Privacy Notice
+Login

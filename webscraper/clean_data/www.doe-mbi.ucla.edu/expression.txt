@@ -1,511 +1,109 @@
-<!DOCTYPE html>
-<html lang="en-US" class="html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_center html_bottom_nav_header html_menu_right html_slim html_header_sticky_disabled html_header_shrinking_disabled html_mobile_menu_tablet html_header_searchicon_disabled html_content_align_center html_header_unstick_top_disabled html_header_stretch html_minimal_header html_av-submenu-hidden html_av-submenu-display-click html_av-overlay-side html_av-overlay-side-classic html_av-submenu-clone html_entry_id_3536 av-no-preview html_text_menu_active ">
-<head>
-<meta charset="UTF-8" />
-<meta name="robots" content="index, follow" />
-
-
-<!-- mobile setting -->
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-<!-- Scripts/CSS and wp_head hook -->
-<title>Protein Expression Technology Core &#8211; UCLA-DOE Institute</title>
-<meta name='robots' content='max-image-preview:large' />
-<link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="UCLA-DOE Institute &raquo; Feed" href="https://www.doe-mbi.ucla.edu/feed/" />
-<link rel="alternate" type="application/rss+xml" title="UCLA-DOE Institute &raquo; Comments Feed" href="https://www.doe-mbi.ucla.edu/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="UCLA-DOE Institute &raquo; Protein Expression Technology Core Comments Feed" href="https://www.doe-mbi.ucla.edu/expression/feed/" />
-
-<!-- google webfont font replacement -->
-<link rel='stylesheet' id='avia-google-webfont' href='//fonts.googleapis.com/css?family=Quicksand%7COpen+Sans:400,600' type='text/css' media='all'/> 
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.doe-mbi.ucla.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.11"}};
-			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.doe-mbi.ucla.edu/wp-includes/css/dist/block-library/style.min.css?ver=5.7.11' type='text/css' media='all' />
-<link rel='stylesheet' id='drawit-css-css'  href='https://www.doe-mbi.ucla.edu/wp-content/plugins/drawit/css/drawit.min.css?ver=1.1.3' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-grid-css'  href='https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/css/grid.css?ver=4.1' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-base-css'  href='https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/css/base.css?ver=4.1' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-layout-css'  href='https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/css/layout.css?ver=4.1' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-scs-css'  href='https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/css/shortcodes.css?ver=4.1' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-popup-css-css'  href='https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/js/aviapopup/magnific-popup.css?ver=4.1' type='text/css' media='screen' />
-<link rel='stylesheet' id='avia-media-css'  href='https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/js/mediaelement/skin-1/mediaelementplayer.css?ver=4.1' type='text/css' media='screen' />
-<link rel='stylesheet' id='avia-print-css'  href='https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/css/print.css?ver=4.1' type='text/css' media='print' />
-<link rel='stylesheet' id='avia-dynamic-css'  href='https://www.doe-mbi.ucla.edu/wp-content/uploads/dynamic_avia/enfold.css?ver=6137d1948e12a' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-custom-css'  href='https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/css/custom.css?ver=4.1' type='text/css' media='all' />
-<link rel='stylesheet' id='ms-main-css'  href='https://www.doe-mbi.ucla.edu/wp-content/plugins/masterslider/public/assets/css/masterslider.main.css?ver=2.7.2' type='text/css' media='all' />
-<link rel='stylesheet' id='ms-custom-css'  href='https://www.doe-mbi.ucla.edu/wp-content/uploads/masterslider/custom.css?ver=13.1' type='text/css' media='all' />
-<script type='text/javascript' id='wp-statistics-tracker-js-extra'>
-/* <![CDATA[ */
-var WP_Statistics_Tracker_Object = {"hitRequestUrl":"https:\/\/www.doe-mbi.ucla.edu\/wp-json\/wp-statistics\/v2\/hit?wp_statistics_hit_rest=yes&track_all=1&current_page_type=page&current_page_id=3536&search_query&page_uri=L2V4cHJlc3Npb24v","keepOnlineRequestUrl":"https:\/\/www.doe-mbi.ucla.edu\/wp-json\/wp-statistics\/v2\/online?wp_statistics_hit_rest=yes&track_all=1&current_page_type=page&current_page_id=3536&search_query&page_uri=L2V4cHJlc3Npb24v","option":{"dntEnabled":false,"cacheCompatibility":""}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=5.7.11' id='wp-statistics-tracker-js'></script>
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/js/avia-compat.js?ver=4.1' id='avia-compat-js'></script>
-<script type='text/javascript' id='quicktags-js-extra'>
-/* <![CDATA[ */
-var quicktagsL10n = {"closeAllOpenTags":"Close all open tags","closeTags":"close tags","enterURL":"Enter the URL","enterImageURL":"Enter the URL of the image","enterImageDescription":"Enter a description of the image","textdirection":"text direction","toggleTextdirection":"Toggle Editor Text Direction","dfw":"Distraction-free writing mode","strong":"Bold","strongClose":"Close bold tag","em":"Italic","emClose":"Close italic tag","link":"Insert link","blockquote":"Blockquote","blockquoteClose":"Close blockquote tag","del":"Deleted text (strikethrough)","delClose":"Close deleted text tag","ins":"Inserted text","insClose":"Close inserted text tag","image":"Insert image","ul":"Bulleted list","ulClose":"Close bulleted list tag","ol":"Numbered list","olClose":"Close numbered list tag","li":"List item","liClose":"Close list item tag","code":"Code","codeClose":"Close code tag","more":"Insert Read More tag"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-includes/js/quicktags.min.js?ver=5.7.11' id='quicktags-js'></script>
-<script type='text/javascript' id='quicktags_drawit-js-extra'>
-/* <![CDATA[ */
-var drawitFE = {"mediaupload":"https:\/\/www.doe-mbi.ucla.edu\/wp-admin\/\/media-upload.php"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-content/plugins/drawit/js/qt-btn.js?ver=1.1.3' id='quicktags_drawit-js'></script>
-<link rel="https://api.w.org/" href="https://www.doe-mbi.ucla.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://www.doe-mbi.ucla.edu/wp-json/wp/v2/pages/3536" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.doe-mbi.ucla.edu/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.doe-mbi.ucla.edu/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.7.11" />
-<link rel="canonical" href="https://www.doe-mbi.ucla.edu/expression/" />
-<link rel='shortlink' href='https://www.doe-mbi.ucla.edu/?p=3536' />
-<link rel="alternate" type="application/json+oembed" href="https://www.doe-mbi.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.doe-mbi.ucla.edu%2Fexpression%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.doe-mbi.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.doe-mbi.ucla.edu%2Fexpression%2F&#038;format=xml" />
-<script>var ms_grabbing_curosr = 'https://www.doe-mbi.ucla.edu/wp-content/plugins/masterslider/public/assets/css/common/grabbing.cur', ms_grab_curosr = 'https://www.doe-mbi.ucla.edu/wp-content/plugins/masterslider/public/assets/css/common/grab.cur';</script>
-<!-- Analytics by WP Statistics v14.4.4 - https://wp-statistics.com/ -->
-<link rel="profile" href="http://gmpg.org/xfn/11" />
-<link rel="alternate" type="application/rss+xml" title="UCLA-DOE Institute RSS2 Feed" href="https://www.doe-mbi.ucla.edu/feed/" />
-<link rel="pingback" href="https://www.doe-mbi.ucla.edu/xmlrpc.php" />
-<!--[if lt IE 9]><script src="https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
-<link rel="icon" href="https://www.doe-mbi.ucla.edu/wp-content/uploads/2019/10/DOE2019-logo-sml.png" type="image/png">
-
-		<script
-			type="text/javascript">var ajaxurl = 'https://www.doe-mbi.ucla.edu/wp-admin/admin-ajax.php';</script>
-
-		<link rel="icon" href="https://www.doe-mbi.ucla.edu/wp-content/uploads/2019/10/DOE2019-logo-sml-36x36.png" sizes="32x32" />
-<link rel="icon" href="https://www.doe-mbi.ucla.edu/wp-content/uploads/2019/10/DOE2019-logo-sml-450x450.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://www.doe-mbi.ucla.edu/wp-content/uploads/2019/10/DOE2019-logo-sml-180x180.png" />
-<meta name="msapplication-TileImage" content="https://www.doe-mbi.ucla.edu/wp-content/uploads/2019/10/DOE2019-logo-sml-450x450.png" />
-		<style type="text/css" id="wp-custom-css">
-			.faculty-img-thumbs { padding:20px; }		</style>
-		
-
-<!--
-Debugging Info for Theme support: 
-
-Theme: Enfold
-Version: 4.1.2
-Installed: enfold
-AviaFramework Version: 4.6
-AviaBuilder Version: 0.9.5
-ML:128-PU:10-PLA:12
-WP:5.7.11
-Updates: disabled
--->
-
-<style type='text/css'>
-@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal;
-src: url('https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3');
-src: url('https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3#iefix') format('embedded-opentype'), 
-url('https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=3') format('woff'), 
-url('https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?v=3') format('truetype'), 
-url('https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=3#entypo-fontello') format('svg');
-} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
-
-@font-face {font-family: 'medical'; font-weight: normal; font-style: normal;
-src: url('https://www.doe-mbi.ucla.edu/wp-content/uploads/avia_fonts/medical/medical.eot');
-src: url('https://www.doe-mbi.ucla.edu/wp-content/uploads/avia_fonts/medical/medical.eot?#iefix') format('embedded-opentype'), 
-url('https://www.doe-mbi.ucla.edu/wp-content/uploads/avia_fonts/medical/medical.woff') format('woff'), 
-url('https://www.doe-mbi.ucla.edu/wp-content/uploads/avia_fonts/medical/medical.ttf') format('truetype'), 
-url('https://www.doe-mbi.ucla.edu/wp-content/uploads/avia_fonts/medical/medical.svg#medical') format('svg');
-} #top .avia-font-medical, body .avia-font-medical, html body [data-av_iconfont='medical']:before{ font-family: 'medical'; }
-</style>
-</head>
-
-
-
-
-<body id="top" class="page-template-default page page-id-3536 stretched quicksand open_sans no_sidebar_border _masterslider _msp_version_2.7.2" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
-
-	
-	<div id='wrap_all'>
-
-	
-<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_center av_bottom_nav_header av_menu_right av_slim av_header_sticky_disabled av_header_shrinking_disabled av_header_stretch av_mobile_menu_tablet av_header_searchicon_disabled av_header_unstick_top_disabled av_seperator_big_border av_minimal_header'  role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
-
-		<div  id='header_main' class='container_wrap container_wrap_logo'>
-	
-        <div class='container av-logo-container'><div class='inner-container'><span class='logo'><a href='https://www.doe-mbi.ucla.edu/'><img height='100' width='300' src='https://www.doe-mbi.ucla.edu/wp-content/uploads/2021/07/DOE3_newlogo4.jpg' alt='UCLA-DOE Institute' /></a></span></div></div><div id='header_main_alternate' class='container_wrap'><div class='container'><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul id="avia-menu" class="menu av-main-nav"><li id="menu-item-4729" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children av-menu-button av-menu-button-bordered menu-item-top-level menu-item-top-level-1"><a href="/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Home</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
-
-
-<ul class="sub-menu">
-	<li id="menu-item-8548" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.doe-mbi.ucla.edu/about/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Mission</span></a></li>
-	<li id="menu-item-8667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://www.doe-mbi.ucla.edu/research-areas/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Research Areas</span></a>
-	<ul class="sub-menu">
-		<li id="menu-item-8316" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.doe-mbi.ucla.edu/microbes/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Microbes</span></a></li>
-		<li id="menu-item-8315" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.doe-mbi.ucla.edu/enabling-technologies/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Enabling Technologies</span></a></li>
-	</ul>
-</li>
-	<li id="menu-item-6324" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.doe-mbi.ucla.edu/research-structure/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Institute Organization</span></a></li>
-</ul>
-</li>
-<li id="menu-item-8447" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children av-menu-button av-menu-button-bordered menu-item-top-level menu-item-top-level-2"><a href="/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Core Facilities</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
-
-
-<ul class="sub-menu">
-	<li id="menu-item-4740" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.doe-mbi.ucla.edu/x-ray-crystallography-core-technology-center/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">X-ray and EM Structure Determination Core</span></a></li>
-	<li id="menu-item-4955" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3536 current_page_item"><a href="https://www.doe-mbi.ucla.edu/expression/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Protein Expression Technology Core</span></a></li>
-	<li id="menu-item-4736" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.doe-mbi.ucla.edu/computer-core/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">BioComputing Technology Core</span></a></li>
-	<li id="menu-item-8245" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.doe-mbi.ucla.edu/nuclear-magnetic-resonance-nmr-core-technology-center/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Macromolecular NMR Core</span></a></li>
-	<li id="menu-item-5767" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.doe-mbi.ucla.edu/faq/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">FAQ</span></a></li>
-</ul>
-</li>
-<li id="menu-item-4742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children av-menu-button av-menu-button-bordered menu-item-top-level menu-item-top-level-3"><a href="https://www.doe-mbi.ucla.edu/people/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">People</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
-
-
-<ul class="sub-menu">
-	<li id="menu-item-4744" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.doe-mbi.ucla.edu/personnel/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Institute</span></a></li>
-	<li id="menu-item-4743" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.doe-mbi.ucla.edu/people/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Faculty</span></a></li>
-	<li id="menu-item-4745" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.doe-mbi.ucla.edu/staff-administration/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Cores</span></a></li>
-</ul>
-</li>
-<li id="menu-item-4746" class="menu-item menu-item-type-post_type menu-item-object-page av-menu-button av-menu-button-bordered menu-item-top-level menu-item-top-level-4"><a href="https://www.doe-mbi.ucla.edu/recent/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">News and Research Findings</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
-<li id="menu-item-7676" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-5"><a href="https://www.doe-mbi.ucla.edu/services/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Web Services</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
-<li id="menu-item-4749" class="menu-item menu-item-type-post_type menu-item-object-page av-menu-button av-menu-button-bordered menu-item-top-level menu-item-top-level-6"><a href="https://www.doe-mbi.ucla.edu/local/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Local</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
-<li class="av-burger-menu-main menu-item-avia-special av-small-burger-icon">
-	        			<a href="#">
-							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
-					        <span class="av-hamburger-box">
-						          <span class="av-hamburger-inner"></span>
-						          <strong>Menu</strong>
-					        </span>
-							</span>
-						</a>
-	        		   </li></ul></div></nav></div> </div> 
-		<!-- end container_wrap-->
-		</div>
-		
-		<div class='header_bg'></div>
-
-<!-- end header -->
-</header>
-		
-	<div id='main' class='all_colors' data-scroll-offset='0'>
-
-	<div class='stretch_full container_wrap alternate_color light_bg_color title_container'><div class='container'><h1 class='main-title entry-title'><a href='https://www.doe-mbi.ucla.edu/expression/' rel='bookmark' title='Permanent Link: Protein Expression Technology Core'  itemprop="headline" >Protein Expression Technology Core</a></h1></div></div><div id='av-layout-grid-1' class='av-layout-grid-container entry-content-wrapper main_color av-flex-cells    avia-builder-el-0  el_before_av_section  avia-builder-el-first  container_wrap fullsize'   >
-<div class="flex_cell no_margin av_one_half  avia-builder-el-1  el_before_av_cell_one_half  avia-builder-el-first    avia-full-stretch av-zero-padding " style='height:500px; min-height:500px;background-image:url(https://www.doe-mbi.ucla.edu/wp-content/uploads/2021/08/Mark_Arbing_20200810_163606_HDRb.jpg); background-position:top left; background-repeat:no-repeat; background-attachment:scroll; vertical-align:middle; padding:0px; background-color:#22689e; '><div class='flex_cell_inner' >
-</div></div><div class="flex_cell no_margin av_one_half  avia-builder-el-2  el_after_av_cell_one_half  avia-builder-el-last   " style='height:500px; min-height:500px;vertical-align:middle; padding:80px; background-color:#22689e; '><div class='flex_cell_inner' >
-<div style='padding-bottom:25px;color:#ffffff;font-size:34px;' class='av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote  avia-builder-el-3  el_before_av_textblock  avia-builder-el-first   av-inherit-size '><div class ='av-subheading av-subheading_above av_custom_color ' style='font-size:15px;'><p>IGP Core</p>
-</div><h3 class='av-special-heading-tag '  itemprop="headline"  >Protein Expression Technology </h3><div class='special-heading-border'><div class='special-heading-inner-border' style='border-color:#ffffff'></div></div></div>
-<section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  av_inherit_color '  style='color:#ffffff; '  itemprop="text" ><h2>CORE MANAGER: MARK ARBING</h2>
-<p>Phone:<br />
-(310) <span class="st">206-2871</span></p>
-<p>Email:<br />
-<a href="mailto:marbing@mbi.ucla.edu">marbing@mbi.ucla.edu</a></p>
-<p>Boyer Hall 103, 611 Young Drive East, Los Angeles, CA 90095</p>
-</div></section>
-</div></div>
-</div>
-<div id='av_section_1' class='avia-section main_color avia-section-huge avia-no-border-styling avia-bg-style-scroll  avia-builder-el-5  el_after_av_layout_row  el_before_av_textblock   container_wrap fullsize'   ><div class='container' ><div class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-3536'><div class='entry-content-wrapper clearfix'>
-<div class="flex_column av_one_full  flex_column_div av-zero-column-padding first  avia-builder-el-6  el_before_av_one_full  avia-builder-el-first  " style='border-radius:0px; '><section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  '   itemprop="text" ><h2>The Protein Expression Technology Center</h2>
-<p>The center was founded in 1994 to facilitate the expression and purification of proteins for structure/function studies. The center provides support in all aspects of protein expression from cloning through expression optimization and protein purification.  The center is a UCLA-DOE Institute for Genomics and Proteomics facility but is open to all researchers.</p>
-<article class="post-entry post-entry-type-page post-entry-111">
-<div class="entry-content-wrapper clearfix">
-<div class="entry-content">
-<p>The evaluation of many expression constructs can be a crucial step in obtaining a protein sample suitable for further characterization. Recent advances in cloning and protein expression based on technologies developed by structural genomics consortia have resulted in the ability to evaluate tens or hundreds of expression constructs rapidly and economically. We have adapted these techniques to allow for a medium throughput approach suitable for the hypothesis-driven projects of academic research groups. Our resources allow rapid analysis of conditions that yield well-behaved soluble protein for downstream biochemical and biophysical studies.</p>
-</div>
-</div>
-</article>
-</div></section></div><div class="flex_column av_one_full  av-animated-generic bottom-to-top  flex_column_div av-zero-column-padding first  avia-builder-el-8  el_after_av_one_full  avia-builder-el-last  column-top-margin" style='border-radius:0px; '><div style='padding-bottom:20px;font-size:34px;' class='av-special-heading av-special-heading-h3  blockquote modern-quote  avia-builder-el-9  el_before_av_toggle_container  avia-builder-el-first   av-inherit-size '><h3 class='av-special-heading-tag '  itemprop="headline"  >Services Provided</h3><div class='special-heading-border'><div class='special-heading-inner-border' ></div></div></div>
-<div class="togglecontainer  toggle_close_all  avia-builder-el-10  el_after_av_heading  avia-builder-el-last  ">
-<section class="av_toggle_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >    <div class="single_toggle" data-tags="{All} " >        <p data-fake-id="#toggle-id-1" class="toggler "  itemprop="headline" >CLONING AND CONSTRUCT DESIGN<span class="toggle_icon">        <span class="vert_icon"></span><span class="hor_icon"></span></span></p>        <div id="toggle-id-1-container" class="toggle_wrap " >            <div class="toggle_content invers-color"  itemprop="text" ><p>The PETC clones genes directly from an organism, library, or synthetic DNA using any common cloning techniques although our preferred method is based on Gibson assembly. We maintain a supply of approximately 65 bacterial genomes to use as PCR templates however most current projects use third party gene synthesis vendors to supply gene fragments or sequence-verified expression clones. A variety of bioinformatics tools (PSIPRED, DISOPRED, Phyre, AlphaFold, SignalP, etc) are used to guide the design of expression constructs.</p>
-            </div>        </div>    </div></section>
-<section class="av_toggle_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >    <div class="single_toggle" data-tags="{All} " >        <p data-fake-id="#toggle-id-2" class="toggler "  itemprop="headline" >EXPRESSION SYSTEMS<span class="toggle_icon">        <span class="vert_icon"></span><span class="hor_icon"></span></span></p>        <div id="toggle-id-2-container" class="toggle_wrap " >            <div class="toggle_content invers-color"  itemprop="text" ><p>Bacterial expression systems used by the PETC include a variety of inducible protein expression vectors (pET and pBAD), fusion systems (SUMO/His6/MBP/Thioredoxin) for increased solubility and affinity chromatography, and vectors to co-express chaperones or rare tRNAs to promote folding and increase recombinant protein yields. Yeast expression systems (S. cerevisiae and P. pastoris) use constitutive or inducible promoters and allow for secreted or cytoplasmic expression of target proteins.</p>
-            </div>        </div>    </div></section>
-<section class="av_toggle_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >    <div class="single_toggle" data-tags="{All} " >        <p data-fake-id="#toggle-id-3" class="toggler "  itemprop="headline" >PROTEIN EXPRESSION SCREENING<span class="toggle_icon">        <span class="vert_icon"></span><span class="hor_icon"></span></span></p>        <div id="toggle-id-3-container" class="toggle_wrap " >            <div class="toggle_content invers-color"  itemprop="text" ><p>Protein expression screening uses bacterial (<em>E</em>. <em>coli</em>) and yeast (<em>P</em>. <em>pastoris</em>) expression hosts. A ShelLab SI6R-HS shaking incubator allows growth of up to 1152 cultures in 96-well format to high culture densities. The high cell densities allow microgram amounts of recombinant protein to be produced in the small culture volumes used in 96-well plates. Cell lysis is performed in 96-well format and SDS-PAGE analysis is used to evaluate target protein expression. Batch purification of protein from the soluble fraction is used to assess the ability of the target protein to bind affinity purification resins.  Cell growth in 96-well format allows parallel investigation of parameters critical for obtaining high yields of recombinant target proteins.  Parameters explored include: expression strains, media, growth and/or induction temperature, coexpression with accessory plasmids (pLysS, pRIL, pRARE, etc), and lysis buffers.</p>
-            </div>        </div>    </div></section>
-<section class="av_toggle_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >    <div class="single_toggle" data-tags="{All} " >        <p data-fake-id="#toggle-id-4" class="toggler "  itemprop="headline" >LARGE SCALE FERMENTATION AND CELL LYSIS<span class="toggle_icon">        <span class="vert_icon"></span><span class="hor_icon"></span></span></p>        <div id="toggle-id-4-container" class="toggle_wrap " >            <div class="toggle_content invers-color"  itemprop="text" ><p>After suitable protein expression/solubility conditions have been determined this information is used to scale up cell growth to increase recombinant protein yields. The PETC is equipped with New Brunswick Innova refrigerated shaking incubators and three BioEngineering NLF22 fermentors (working volumes of ~12L.) The PETC is equipped with a sonicator, French press, and two Avestin Emulsiflex C-3 high pressure cell homogenizers. The Emulsiflex instruments are particularly well suited for efficient high-throughput cell lysis with a throughput of up to 3L of lysate per hour.</p>
-            </div>        </div>    </div></section>
-<section class="av_toggle_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >    <div class="single_toggle" data-tags="{All} " >        <p data-fake-id="#toggle-id-5" class="toggler "  itemprop="headline" >PROTEIN PURIFICATION<span class="toggle_icon">        <span class="vert_icon"></span><span class="hor_icon"></span></span></p>        <div id="toggle-id-5-container" class="toggle_wrap " >            <div class="toggle_content invers-color"  itemprop="text" ><p>Using predetermined information on protein expression and solubility from small-scale experiments recombinant proteins are purified in large-scale using Bio-Rad NGC and DuoFlow chromatography systems. Chromatography methods include: affinity (GST, amylose, metal chelate, heparin, dye, etc.), ion exchange (anion or cation), hydrophobic interaction (HIC), and size exclusion chromatography. If required fusion proteins and/or affinity purification tags can be proteolytically cleaved and removed at this stage.</p>
-<p>The Bio-Rad NGC system is equipped with air sensors, sample pump, and multiple column valves allowing completely automated purification of up to seven samples by multiple chromatographic methods. The instrument is configured to allow unattended multi-step purification of samples by different chromatographic methods, e.g. affinity chromatography followed by a desalting or size exclusion chromatography step.</p>
-            </div>        </div>    </div></section>
-<section class="av_toggle_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >    <div class="single_toggle" data-tags="{All} " >        <p data-fake-id="#toggle-id-6" class="toggler "  itemprop="headline" >FLUORESCENCE ACTIVATED CELL SORTING (FACS)<span class="toggle_icon">        <span class="vert_icon"></span><span class="hor_icon"></span></span></p>        <div id="toggle-id-6-container" class="toggle_wrap " >            <div class="toggle_content invers-color"  itemprop="text" ><p>The PETC has recently acquired a Bio-Rad S3 Cell Sorter. The S3 instrument is an easy to use automated cell sorter accessible to both novices and experts. The system is equipped with two lasers (488 and 561 nm) and four fluorescence detectors plus forward- and side-scatter detectors.</p>
-            </div>        </div>    </div></section>
-<section class="av_toggle_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >    <div class="single_toggle" data-tags="{All} " >        <p data-fake-id="#toggle-id-7" class="toggler "  itemprop="headline" >CRYSTALLOGRAPHY<span class="toggle_icon">        <span class="vert_icon"></span><span class="hor_icon"></span></span></p>        <div id="toggle-id-7-container" class="toggle_wrap " >            <div class="toggle_content invers-color"  itemprop="text" ><p>Structural studies of target proteins can be coordinated with the <a href="http://www.doe-mbi.ucla.edu/x-ray-crystallography-core-technology-center/">X-Ray and EM Structure Determination</a> Core.</p>
-            </div>        </div>    </div></section>
-<section class="av_toggle_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >    <div class="single_toggle" data-tags="{All} " >        <p data-fake-id="#toggle-id-8" class="toggler "  itemprop="headline" >INSTRUMENTATION<span class="toggle_icon">        <span class="vert_icon"></span><span class="hor_icon"></span></span></p>        <div id="toggle-id-8-container" class="toggle_wrap " >            <div class="toggle_content invers-color"  itemprop="text" ><p><a href="https://www.cores.ucla.edu//wp-content/uploads/2014/12/PETC-Equipment.pdf"><a href="https://www.doe-mbi.ucla.edu/wp-content/uploads/2021/09/PETC-Equipment_090921.pdf" class="pdfemb-viewer" style="" data-width="max" data-height="max"  data-toolbar="bottom" data-toolbar-fixed="off">PETC Equipment_090921<br/></a></a></p>
-            </div>        </div>    </div></section>
-<section class="av_toggle_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >    <div class="single_toggle" data-tags="{All} " >        <p data-fake-id="#toggle-id-9" class="toggler "  itemprop="headline" >USER AGREEMENT and SOPs<span class="toggle_icon">        <span class="vert_icon"></span><span class="hor_icon"></span></span></p>        <div id="toggle-id-9-container" class="toggle_wrap " >            <div class="toggle_content invers-color"  itemprop="text" ><h3>PETC User Agreement</h3>
-<p><a href="https://www.doe-mbi.ucla.edu/wp-content/uploads/2022/02/PETC-User-Agreement-.pdf">In order to access instrumentation users must read and sign the PETC User Agreement. The Users PI must also sign the form. Return the form to Dr. Arbing prior to using any core instrumentation.</a></p>
-<h3>Avestin Emulsiflex C3 SOP</h3>
-<p><a href="https://www.doe-mbi.ucla.edu/wp-content/uploads/2022/02/PETC-Standard-Operating-Procedure-Avestin-Emulsiflex-C-3.pdf">Emulsiflex use: users must read the Emulsiflex SOP and be trained by core staff or a trained user approved by the Core Director (Dr. Arbing). Prior to using the instrument please visit the core and sign the core version of the SOP.</a></p>
-            </div>        </div>    </div></section>
-</div></div></div></div></div><!-- close content main div --></div></div><div id='after_section_1' class='main_color av_default_container_wrap container_wrap fullsize'   ><div class='container' ><div class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-3536'><div class='entry-content-wrapper clearfix'><section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  '   itemprop="text" ><h3>Publications &#038; Acknowledgements</h3>
-<p>Our services have greatly benefitted the local research community leading to numerous publications. The most recent are listed below with names of PETC staff members in bold.</p>
-</div></section></p>
-<div class="tabcontainer   top_tab   avia-builder-el-12  el_after_av_textblock  el_before_av_section  avia-builder-el-last  ">
-
-<section class="av_tab_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >    <div data-fake-id="#tab-id-1" class="tab active_tab"  itemprop="headline" >Authors on</div>
-    <div id="tab-id-1-container" class="tab_content active_tab_content">
-        <div class="tab_inner_content invers-color"  itemprop="text" >
-<p>Vadivel K, Zaiss AK, Kumar Y, Fabian FM, Ismail AEA, Arbing MA, Buchholz WG, Velander WH, Bajaj SP. 2020. Enhanced Antifibrinolytic Efficacy of a Plasmin-Specific Kunitz-Inhibitor (60-Residue Y11T/L17R with C-Terminal IEK) of Human Tissue Factor Pathway Inhibitor Type-2 Domain1. J Clin Med. 9:3684.</p>
-<p>Valliere MA, Korman TP, Arbing MA, Bowie JU. 2020. A bio-inspired cell-free system for cannabinoid production from inexpensive inputs. Nat Chem Biol. 16:1427-1433.</p>
-<p>Satagopan S, North JA, Arbing MA, Varaljay VA, Haines SN, Wildenthal JA, Byerly KM, Shin A, Tabita FR. 2019. Structural Perturbations of Rhodopseudomonas palustris Form II RuBisCO Mutant Enzymes That Affect CO2 Fixation. Biochemistry. 58:3880-3892.</p>
-<p>Tuukkanen AT, Freire D, Chan S, Arbing MA, Reed RW, Evans TJ, Zenkeviciutė G, Kim J, Kahng S, Sawaya MR, Chaton CT, Wilmanns M, Eisenberg D, Parret AHA, Korotkov KV. 2018. Structural Variability of EspG Chaperones from Mycobacterial ESX-1, ESX-3, and ESX-5 Type VII Secretion Systems. J Mol Biol. 431:289-307.</p>
-<p>Min D, Jefferson RE, Qi Y, Wang JY, Arbing MA, Im W, Bowie JU. 2018. Unfolding of a ClC chloride transporter retains memory of its evolutionary history. Nat Chem Biol. 14:489-496.</p>
-<p>Bajaj RA, Arbing MA, Shin A, Cascio D, Miallau L. 2016. Crystal structure of the toxin Msmeg_6760, the structural homolog of Mycobacterium tuberculosis Rv2035, a novel type II toxin involved in the hypoxic response. Acta Crystallogr F Struct Biol Commun. 72:863-869.</p>
-<p>Min D, Arbing MA, Jefferson RE, Bowie JU. 2016. A simple DNA handle attachment method for single molecule mechanical manipulation experiments. Protein Sci. 25:1535-44.</p>
-<p>Wagner JM, Chan S, Evans TJ, Kahng S, Kim J, Arbing MA, Eisenberg D, Korotkov KV. 2016. Structures of EccB1 and EccD1 from the core complex of the mycobacterial ESX-1 type VII secretion system. BMC Struct Biol. 16:5.</p>
-<p>Taylor ND, Garruss AS, Moretti R, Chan S, Arbing MA, Cascio D, Rogers JK, Isaacs FJ, Kosuri S, Baker D, Fields S, Church GM, Raman S. 2016. Engineering an allosteric transcription factor to respond to new ligands. Nat Methods. 13:177-83.</p>
-<p>Varaljay VA, Satagopan S, North JA, Witte B, Dourado MN, Anantharaman K, Arbing MA, Hoeft McCann S, Oremland RS, Banfield JF, Wrighton KC, Tabita FR. 2015. Functional metagenomic selection of RubisCO from uncultivated bacteria. Environ Microbiol. 18:1187-99.</p>
-<p>Rodriguez JA, Ivanova MI, Sawaya MR, Cascio D, Reyes FE, Shi D, Sangwan S, Guenther EL, Johnson LM, Zhang M, Jiang L, Arbing MA, Nannenga BL, Hattne J, Whitelegge J, Brewster AS, Messerschmidt M, Boutet S, Sauter NK, Gonen T, Eisenberg DS. Structure of the toxic core of α-synuclein from invisible crystals. 2015. Nature. 525: 486-90.</p>
-<p>Leibly DJ, Arbing MA, Pashkov I, DeVore N, Waldo GS, Terwilliger TC, Yeates TO. A Suite of Engineered GFP Molecules for Oligomeric Scaffolding. 2015. Structure. 23: 1754-68.</p>
-<p>Bobik TA, Morales EJ, Shin A, Cascio D, Sawaya MR, Arbing M, Yeates TO, Rasche, M. 2014. Structure of the methanofuran/methanopterin biosynthetic enzyme MJ1099 from Methanocaldococcus jannaschii. Acta Cryst. F70: 1472-1479.<br />
-Satagopan S, Chan S, Perry LJ, Tabita FR. 2014. Structure-function studies with the unique hexameric form II ribulose-1,5-bisphosphate carboxylase/oxygenase (Rubisco) from Rhodopseudomonas palustris. J Biol Chem. 289: 21433-50.</p>
-<p>Arbing MA, Chan S, Harris L, Kuo E, Zhou TT, Ahn CJ, Nguyen L, He Q, Lu J,Menchavez PT, Shin A, Holton T, Sawaya MR, Cascio D, Eisenberg D. 2013. Heterologous xxpression of mycobacterial Esx complexes in Escherichia coli for structural studies is facilitated by the use of maltose binding protein fusions. PLoS One. 8: e81753.</p>
-<p>Miallau L, Jain P, Arbing MA, Cascio D, Phan T, Ahn CJ, Chan S, Chernishof I, Maxson M, Chiang J, Jacobs WR Jr, Eisenberg DS. 2013. Comparative proteomics identifies the cell-associated lethality of M. tuberculosis RelBE-like toxin-antitoxin complexes. Structure. 21: 627-37.</p>
-<p>Arbing MA, Chan S, Shin A, Phan T, Ahn CJ, Rohlin L, Gunsalus RP. 2012. Structure of the surface layer of the methanogenic archaean Methanosarcina acetivorans. Proc Natl Acad Sci USA. 109: 11812-7.</p>
-<p>Urzica EI, Adler LN, Page MD, Linster CL, Arbing MA, Casero D, Pellegrini M, Merchant SS, Clarke SG. 2012. Impact of oxidative stress on ascorbate biosynthesis in Chlamydomonas via regulation of the VTC2 gene encoding a GDP-L-galactose phosphorylase. J Biol Chem. 287:14234-45.</p>
-<p>Arbing MA, Kaufmann M, Phan T, Chan S, Cascio D, Eisenberg D. 2010. The crystal structure of the Mycobacterium tuberculosis Rv3019c-Rv3020c ESX complex reveals a domain-swapped heterotetramer. Protein Sci. 19: 1692-703.</p>
-<p>Chan S, Giuroiu I, Chernishof I, Sawaya MR, Chiang J, Gunsalus RP, Arbing MA, Perry LJ. 2010. Apo and ligand-bound structures of ModA from the archaeon Methanosarcina acetivorans. Acta Cryst. F66: 242-50.</p>
-<p>Miallau L, Faller M, Chiang J, Arbing M, Guo F, Cascio D, Eisenberg D. 2009. Structure and proposed activity of a member of the VapBC family of toxin-antitoxin systems. VapBC-5 from Mycobacterium tuberculosis. J Biol Chem. 284: 276-83.</p>
-<p>Tabita FR, Hanson TE, Li H, Satagopan S, Singh J, Chan S. 2007. Function, structure, and evolution of the RubisCO-like proteins and their RubisCO homologs. Microbiol Mol Biol Rev. 71: 576-99.</p>
-<p>Choi B, Zocchi G, Canale S, Wu Y, Chan S, Perry LJ. 2005. Artificial allosteric control of maltose binding protein. Phys Rev Lett. 94: 038103.</p>
-
-        </div>
-    </div>
-</section>
-
-<section class="av_tab_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >    <div data-fake-id="#tab-id-2" class="tab "  itemprop="headline" >Acknowledged by</div>
-    <div id="tab-id-2-container" class="tab_content ">
-        <div class="tab_inner_content invers-color"  itemprop="text" >
-<p>Sherkhanov S, Korman TP, Chan S, Faham S, Liu H, Sawaya MR, et al. 2020. Isobutanol production freed from biological limits using synthetic biochemistry. Nat Commun. 11: 4292.</p>
-<p>Liclican EL, Filler SG, Kaye J, Denny CT. 2019. Describing the dynamic translational science landscape through Core Voucher utilization. J Clin Transl Sci. 3: 105–112.<br />
-Sarafian TA, Yacoub A, Kunz A, Aranki B, Serobyan G, Cohn W, et al. 2019. Enhanced mitochondrial inhibition by 3,4-dihydroxyphenyl-acetaldehyde (DOPAL)-oligomerized α-synuclein. J Neurosci Res. 97: 1689–1705.</p>
-<p>Chang ZL, Lorenzini MH, Chen X, Tran U, Bangayan NJ, Chen YY. 2018. Rewiring T-cell responses to soluble factors with chimeric antigen receptors. Nat Chem Biol. 14: 317–324.<br />
-Messina MS, Stauber JM, Waddington MA, Rheingold AL, Maynard HD, Spokoyny AM. 2018. Organometallic Gold(III) Reagents for Cysteine Arylation. J Am Chem Soc. 140: 7065–7069.</p>
-<p>Campagna J, Vadivel K, Jagodzinska B, Jun M, Bilousova T, Spilman P, et al. 2018. Evaluation of an Allosteric BACE Inhibitor Peptide to Identify Mimetics that Can Interact with the Loop F Region of the Enzyme and Prevent APP Cleavage. J Mol Biol. 430: 1566–1576.</p>
-<p>Zimmer RK, Ferrier GA, Kim SJ, Loo RRO, Zimmer CA, Loo JA. 2017. Keystone predation and molecules of keystone significance. Ecology. 98: 1710–1721.</p>
-<p>He C, Hu X, Jung RS, Larsson M, Tu Y, Duarte-Vogel S, et al. 2017. Lipoprotein lipase reaches the capillary lumen in chickens despite an apparent absence of GPIHBP1. JCI Insight. 2: e96783.</p>
-<p>Sarafian TA, Littlejohn K, Yuan S, Fernandez C, Cilluffo M, Koo BK, Whitelegge JP, Watson JB. Stimulation of synaptoneurosome glutamate release by monomeric and fibrillated α-synuclein. J Neurosci Res. 2017 Jan 24. doi: 10.1002/jnr.24024.</p>
-<p>Decker CG, Wang Y, Paluck SJ, Shen L, Loo JA, Levine AJ, Miller LS, Maynard HD. 2016. Fibroblast growth factor 2 dimer with superagonist in vitro activity improves granulation tissue formation during wound healing. Biomaterials. 81:157-68.</p>
-<p>Fristedt R, Martins NF, Strenkert D, Clarke CA, Suchoszek M, Thiele W, Schöttler MA, Merchant SS. The thylakoid membrane protein CGL160 supports CF1CF0 ATP synthase accumulation in Arabidopsis thaliana. 2015. PLoS One. 10: e0121658.</p>
-<p>Fristedt R, Herdean A, Blaby-Haas CE, Mamedov F, Merchant SS, Last RL, Lundin B. PHOTOSYSTEM II PROTEIN33, a protein conserved in the plastid lineage, is associated with the chloroplast thylakoid membrane and provides stability to photosystem II supercomplexes in Arabidopsis. 2015. Plant Physiol. 167: 481-92.</p>
-<p>Fristedt R, Williams-Carrier R, Merchant SS, Barkan A. A thylakoid membrane protein harboring a DnaJ-type zinc finger domain is required for photosystem I accumulation in plants. 2014. J Biol Chem. 289: 30657-67.</p>
-<p>Fristedt R, Scharff LB, Clarke CA, Wang Q, Lin C, Merchant SS, Bock R. RBF1, a plant homolog of the bacterial ribosome-binding factor RbfA, acts in processing of the chloroplast 16S ribosomal RNA. 2014. Plant Physiol. 164: 201-15.</p>
-<p>Hsieh SI, Castruita M, Malasarn D, Urzica E, Erde J, Page MD, Yamasaki H, Casero D, Pellegrini M, Merchant SS, Loo JA. 2013. The proteome of copper, iron, zinc, and manganese micronutrient deficiency in Chlamydomonas reinhardtii. Mol Cell Proteomics. 12: 65-86.</p>
-<p>Sergeev ME, Morgia F, Javed MR, Doi M, Keng PY. 2013. Enzymatic radiofluorination: Fluorinase accepts methylaza-analog of SAM as substrate for FDA synthesis. J Mol Catal B Enzym. 97: 74–79.</p>
-<p>Min AB, Miallau L, Sawaya MR, Habel J, Cascio D, Eisenberg D. 2012. The crystal structure of the Rv0301-Rv0300 VapBC-3 toxin—antitoxin complex from M. tuberculosis reveals a Mg2+ ion in the active site and a putative RNA-binding site. Protein Sci. 21: 1754–1767.<br />
-Teng PK, Anderson NJ, Goldschmidt L, Sawaya MR, Sambashivan S, Eisenberg D. 2012. Ribonuclease A suggests how proteins self-chaperone against amyloid fiber formation. Protein Sci. 21: 26–37.</p>
-<p>Besserer GM, Nicoll DA, Abramson J, Philipson KD. 2012. Characterization and purification of a Na+/Ca2+ exchanger from an archaebacterium. J Biol Chem. 287: 8652-9.<br />
-Wang A, Zocchi G. 2011. Artificial modulation of the gating behavior of a K+ channel in a KvAP-DNA chimera. PLoS One. 6: e18598.</p>
-<p>Chim N, Habel JE, Johnston JM, Krieger I, Miallau L, Sankaranarayanan R, Morse RP, Bruning J, Swanson S, Kim H, Kim CY, Li H, Bulloch EM, Payne RJ, Manos-Turvey A, Hung LW, Baker EN, Lott JS, James MN, Terwilliger TC, Eisenberg DS, Sacchettini JC, Goulding CW. 2011. The TB Structural Genomics Consortium: a decade of progress. Tuberculosis (Edinb). 91: 155-72.</p>
-<p>Laganowsky A, Benesch JLP, Landau M, Ding L, Sawaya MR, Cascio D, Huang Q, Robinson CV, Horwitz J, Eisenberg D. 2010. Crystal structures of truncated alphaA and alphaB crystallins reveal structural mechanisms of polydispersity important for eye lens function. Protein Sci. 19: 1031–1043.</p>
-<p>Li PP, Itoh N, Watanabe M, Shi Y, Liu P, Yang HJ, Kasamatsu H. 2009. Association of simian virus 40 vp1 with 70-kilodalton heat shock proteins and viral tumor antigens. J Virol. 83: 37-46.</p>
-
-        </div>
-    </div>
-</section>
-
-</div>
-
-</div></div></div><!-- close content main div --></div></div><div id='av_section_2' class='avia-section main_color avia-section-no-padding avia-no-border-styling avia-bg-style-scroll  avia-builder-el-13  el_after_av_tab_container  avia-builder-el-last    container_wrap fullsize'   ><div class='container' ><div class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-3536'><div class='entry-content-wrapper clearfix'>
-<div class="flex_column av_one_full  flex_column_div first  avia-builder-el-14  avia-builder-el-no-sibling  " ><section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  '   itemprop="text" ><h2>
-		<!-- MasterSlider -->
-		<div id="P_MS65d54dd2507e3" class="master-slider-parent ms-staff-carousel ms-parent-id-7" style="max-width:100%;"  >
-				
-			
-			<!-- MasterSlider Main -->
-			<div id="MS65d54dd2507e3" class="master-slider ms-skin-default" >
-				 				 
-				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
-					<img src="https://www.doe-mbi.ucla.edu/wp-content/plugins/masterslider/public/assets/js/blank.gif" alt="" title="" data-src="https://www.doe-mbi.ucla.edu/wp-content/uploads/2021/09/Arbing_biorad_2021-240x240.jpg" />
-
-					<div class="ms-info">&nbsp;</div>
-
-
-				</div>
-				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
-					<img src="https://www.doe-mbi.ucla.edu/wp-content/plugins/masterslider/public/assets/js/blank.gif" alt="" title="" data-src="https://www.doe-mbi.ucla.edu/wp-content/uploads/2021/09/IArbing_Emulsiflex_2021-240x240.jpg" />
-
-					<div class="ms-info">&nbsp;</div>
-
-
-				</div>
-				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
-					<img src="https://www.doe-mbi.ucla.edu/wp-content/plugins/masterslider/public/assets/js/blank.gif" alt="" title="" data-src="https://www.doe-mbi.ucla.edu/wp-content/uploads/2021/09/Arbing_Fermentor_2021-240x240.jpg" />
-
-					<div class="ms-info">&nbsp;</div>
-
-
-				</div>
-				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
-					<img src="https://www.doe-mbi.ucla.edu/wp-content/plugins/masterslider/public/assets/js/blank.gif" alt="" title="" data-src="https://www.doe-mbi.ucla.edu/wp-content/uploads/2021/09/Arbing_Biorad-gel-doc-240x240.jpg" />
-
-					<div class="ms-info">&nbsp;</div>
-
-
-				</div>
-				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
-					<img src="https://www.doe-mbi.ucla.edu/wp-content/plugins/masterslider/public/assets/js/blank.gif" alt="" title="" data-src="https://www.doe-mbi.ucla.edu/wp-content/uploads/layerslider/Enfold-most-beautiful-theme-ever/proteinExpressionPeople-240x240.jpg" />
-
-					<div class="ms-info">&nbsp;</div>
-
-
-				</div>
-
-			</div>
-			<!-- END MasterSlider Main -->
-
-			 
-		</div>
-		<!-- END MasterSlider --> 
-		
-		<script>
-		(function ( $ ) {
-			"use strict";
-
-			$(function () {
-				var masterslider_07e3 = new MasterSlider();
-
-				// slider controls
-				masterslider_07e3.control('arrows'     ,{ autohide:true, overVideo:true  });                    
-				masterslider_07e3.control('slideinfo'  ,{ autohide:false, overVideo:true, dir:'h', align:'bottom',inset:false , margin:10   });
-				// slider setup
-				masterslider_07e3.setup("MS65d54dd2507e3", {
-						width           : 240,
-						height          : 240,
-						space           : 0,
-						start           : 1,
-						grabCursor      : true,
-						swipe           : true,
-						mouse           : true,
-						layout          : "partialview", 
-						wheel           : true,
-						autoplay        : true,
-						instantStartLayers:false,
-						loop            : true,
-						shuffle         : false,
-						preload         : 0,
-						heightLimit     : true,
-						autoHeight      : false,
-						smoothHeight    : true,
-						endPause        : false,
-						overPause       : true,
-						fillMode        : "fill", 
-						centerControls  : true,
-						layersMode      : "center", 
-						hideLayers      : false, 
-						fullscreenMargin: 0,
-						speed           : 20, 
-						dir             : "h", 
-						parallaxMode    : 'swipe',
-						view            : "flow"
-				});
-				
-
-				
-				window.masterslider_instances = window.masterslider_instances || {};
-				window.masterslider_instances["7_07e3"] = masterslider_07e3;
-			 });
-			
-		})(jQuery);
-		</script> 
-		
-</h2>
-</div></section></div>
-
-</div></div></div><!-- close content main div --> <!-- section close by builder template -->		</div><!--end builder template--></div><!-- close default .container_wrap element -->						<div class='container_wrap footer_color' id='footer'>
-
-					<div class='container'>
-
-						<div class='flex_column av_one_third  first el_before_av_one_third'><section id="text-3" class="widget clearfix widget_text"><h3 class="widgettitle">Mail Address</h3>			<div class="textwidget"><p>611 Charles Young Drive East</p>
-<p>Los Angeles, CA 90095</p>
-</div>
-		<span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_third  el_after_av_one_third  el_before_av_one_third '><section id="text-4" class="widget clearfix widget_text"><h3 class="widgettitle">Campus Office Address</h3>			<div class="textwidget"><p>201 Boyer Hall Box 951570</p>
-<p>Mail Code 157005</p>
-<p>Phone: (310) 825-3754</p>
-<p>Fax: (310) 206-3914</p>
-</div>
-		<span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_third  el_after_av_one_third  el_before_av_one_third '><section id="text-5" class="widget clearfix widget_text">			<div class="textwidget"><p><a href="https://www.energy.gov/science/office-science"><img loading="lazy" class="aligncenter size-full wp-image-7954" src="https://www.doe-mbi.ucla.edu/wp-content/uploads/2021/07/doe_os_logo.png" alt="" width="240" height="78" /></a><a href="https://www.energy.gov/science/ber/biological-and-environmental-research"><br />
-Biological and Environmental Research (DOE-BER)</a></p>
-</div>
-		<span class="seperator extralight-border"></span></section></div>
-
-					</div>
-
-
-				<!-- ####### END FOOTER CONTAINER ####### -->
-				</div>
-
-	
-
-
-			
-
-			
-				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
-                    <div class='container'>
-
-                        <span class='copyright'>&#169; 1997-2021 The Regents of the University of California - <a rel='nofollow' href='http://www.kriesi.at'>Enfold WordPress Theme by Kriesi</a></span>
-
-                        <ul class='noLightbox social_bookmarks icon_count_1'></ul>
-                    </div>
-
-	            <!-- ####### END SOCKET CONTAINER ####### -->
-				</footer>
-
-
-					<!-- end main -->
-		</div>
-		
-		<!-- end wrap_all --></div>
-
-
- <script type='text/javascript'>
- /* <![CDATA[ */  
-var avia_framework_globals = avia_framework_globals || {};
-    avia_framework_globals.frameworkUrl = 'https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/framework/';
-    avia_framework_globals.installedAt = 'https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/';
-    avia_framework_globals.ajaxurl = 'https://www.doe-mbi.ucla.edu/wp-admin/admin-ajax.php';
-/* ]]> */ 
-</script>
- 
- <link rel='stylesheet' id='pdfemb_embed_pdf_css-css'  href='https://www.doe-mbi.ucla.edu/wp-content/plugins/pdf-embedder/assets/css/pdfemb-embed-pdf.css?ver=4.6.4' type='text/css' media='all' />
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-content/plugins/drawit/js/drawit-iframe.js?ver=1.1.3' id='drawit-iframe-js-js'></script>
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/js/avia.js?ver=4.1' id='avia-default-js'></script>
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/js/shortcodes.js?ver=4.1' id='avia-shortcodes-js'></script>
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=4.1' id='avia-popup-js'></script>
-<script type='text/javascript' id='mediaelement-core-js-before'>
-var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
-</script>
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.16' id='mediaelement-core-js'></script>
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.7.11' id='mediaelement-migrate-js'></script>
-<script type='text/javascript' id='mediaelement-js-extra'>
-/* <![CDATA[ */
-var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.7.11' id='wp-mediaelement-js'></script>
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-includes/js/comment-reply.min.js?ver=5.7.11' id='comment-reply-js'></script>
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-includes/js/wp-embed.min.js?ver=5.7.11' id='wp-embed-js'></script>
-<script type='text/javascript' id='pdfemb_embed_pdf_js-js-extra'>
-/* <![CDATA[ */
-var pdfemb_trans = {"worker_src":"https:\/\/www.doe-mbi.ucla.edu\/wp-content\/plugins\/pdf-embedder\/js\/pdfjs\/pdf.worker.min.js","cmap_url":"https:\/\/www.doe-mbi.ucla.edu\/wp-content\/plugins\/pdf-embedder\/js\/pdfjs\/cmaps\/","poweredby":"off","objectL10n":{"loading":"Loading...","page":"Page","zoom":"Zoom","prev":"Previous page","next":"Next page","zoomin":"Zoom In","secure":"Secure","zoomout":"Zoom Out","download":"Download PDF","fullscreen":"Full Screen","domainerror":"Error: URL to the PDF file must be on exactly the same domain as the current web page.","clickhereinfo":"Click here for more info","widthheightinvalid":"PDF page width or height are invalid","viewinfullscreen":"View in Full Screen"}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-content/plugins/pdf-embedder/assets/js/min/all-pdfemb-min.js?ver=5.7.11' id='pdfemb_embed_pdf_js-js'></script>
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-content/plugins/pdf-embedder/assets/js/pdfjs/pdf.min.js?ver=4.6.4' id='pdfemb_pdf_js-js'></script>
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-content/plugins/masterslider/public/assets/js/jquery.easing.min.js?ver=2.7.2' id='jquery-easing-js'></script>
-<script type='text/javascript' src='https://www.doe-mbi.ucla.edu/wp-content/plugins/masterslider/public/assets/js/masterslider.min.js?ver=2.7.2' id='masterslider-core-js'></script>
-<a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Scroll to top</span></a>
-
-<div id="fb-root"></div>
-</body>
-</html>
+Protein Expression Technology Core – UCLA-DOE Institute
+Protein Expression Technology Core
+IGP Core
+Protein Expression Technology
+CORE MANAGER: MARK ARBING
+Phone:
+(310)
+206-2871
+Email:
+marbing@mbi.ucla.edu
+Boyer Hall 103, 611 Young Drive East, Los Angeles, CA 90095
+The Protein Expression Technology Center
+The center was founded in 1994 to facilitate the expression and purification of proteins for structure/function studies. The center provides support in all aspects of protein expression from cloning through expression optimization and protein purification.  The center is a UCLA-DOE Institute for Genomics and Proteomics facility but is open to all researchers.
+The evaluation of many expression constructs can be a crucial step in obtaining a protein sample suitable for further characterization. Recent advances in cloning and protein expression based on technologies developed by structural genomics consortia have resulted in the ability to evaluate tens or hundreds of expression constructs rapidly and economically. We have adapted these techniques to allow for a medium throughput approach suitable for the hypothesis-driven projects of academic research groups. Our resources allow rapid analysis of conditions that yield well-behaved soluble protein for downstream biochemical and biophysical studies.
+Services Provided
+CLONING AND CONSTRUCT DESIGN
+The PETC clones genes directly from an organism, library, or synthetic DNA using any common cloning techniques although our preferred method is based on Gibson assembly. We maintain a supply of approximately 65 bacterial genomes to use as PCR templates however most current projects use third party gene synthesis vendors to supply gene fragments or sequence-verified expression clones. A variety of bioinformatics tools (PSIPRED, DISOPRED, Phyre, AlphaFold, SignalP, etc) are used to guide the design of expression constructs.
+EXPRESSION SYSTEMS
+Bacterial expression systems used by the PETC include a variety of inducible protein expression vectors (pET and pBAD), fusion systems (SUMO/His6/MBP/Thioredoxin) for increased solubility and affinity chromatography, and vectors to co-express chaperones or rare tRNAs to promote folding and increase recombinant protein yields. Yeast expression systems (S. cerevisiae and P. pastoris) use constitutive or inducible promoters and allow for secreted or cytoplasmic expression of target proteins.
+PROTEIN EXPRESSION SCREENING
+Protein expression screening uses bacterial (
+E
+.
+coli
+) and yeast (
+P
+.
+pastoris
+) expression hosts. A ShelLab SI6R-HS shaking incubator allows growth of up to 1152 cultures in 96-well format to high culture densities. The high cell densities allow microgram amounts of recombinant protein to be produced in the small culture volumes used in 96-well plates. Cell lysis is performed in 96-well format and SDS-PAGE analysis is used to evaluate target protein expression. Batch purification of protein from the soluble fraction is used to assess the ability of the target protein to bind affinity purification resins.  Cell growth in 96-well format allows parallel investigation of parameters critical for obtaining high yields of recombinant target proteins.  Parameters explored include: expression strains, media, growth and/or induction temperature, coexpression with accessory plasmids (pLysS, pRIL, pRARE, etc), and lysis buffers.
+LARGE SCALE FERMENTATION AND CELL LYSIS
+After suitable protein expression/solubility conditions have been determined this information is used to scale up cell growth to increase recombinant protein yields. The PETC is equipped with New Brunswick Innova refrigerated shaking incubators and three BioEngineering NLF22 fermentors (working volumes of ~12L.) The PETC is equipped with a sonicator, French press, and two Avestin Emulsiflex C-3 high pressure cell homogenizers. The Emulsiflex instruments are particularly well suited for efficient high-throughput cell lysis with a throughput of up to 3L of lysate per hour.
+PROTEIN PURIFICATION
+Using predetermined information on protein expression and solubility from small-scale experiments recombinant proteins are purified in large-scale using Bio-Rad NGC and DuoFlow chromatography systems. Chromatography methods include: affinity (GST, amylose, metal chelate, heparin, dye, etc.), ion exchange (anion or cation), hydrophobic interaction (HIC), and size exclusion chromatography. If required fusion proteins and/or affinity purification tags can be proteolytically cleaved and removed at this stage.
+The Bio-Rad NGC system is equipped with air sensors, sample pump, and multiple column valves allowing completely automated purification of up to seven samples by multiple chromatographic methods. The instrument is configured to allow unattended multi-step purification of samples by different chromatographic methods, e.g. affinity chromatography followed by a desalting or size exclusion chromatography step.
+FLUORESCENCE ACTIVATED CELL SORTING (FACS)
+The PETC has recently acquired a Bio-Rad S3 Cell Sorter. The S3 instrument is an easy to use automated cell sorter accessible to both novices and experts. The system is equipped with two lasers (488 and 561 nm) and four fluorescence detectors plus forward- and side-scatter detectors.
+CRYSTALLOGRAPHY
+Structural studies of target proteins can be coordinated with the
+X-Ray and EM Structure Determination
+Core.
+INSTRUMENTATION
+PETC Equipment_090921
+USER AGREEMENT and SOPs
+PETC User Agreement
+In order to access instrumentation users must read and sign the PETC User Agreement. The Users PI must also sign the form. Return the form to Dr. Arbing prior to using any core instrumentation.
+Avestin Emulsiflex C3 SOP
+Emulsiflex use: users must read the Emulsiflex SOP and be trained by core staff or a trained user approved by the Core Director (Dr. Arbing). Prior to using the instrument please visit the core and sign the core version of the SOP.
+Publications & Acknowledgements
+Our services have greatly benefitted the local research community leading to numerous publications. The most recent are listed below with names of PETC staff members in bold.
+Authors on
+Vadivel K, Zaiss AK, Kumar Y, Fabian FM, Ismail AEA, Arbing MA, Buchholz WG, Velander WH, Bajaj SP. 2020. Enhanced Antifibrinolytic Efficacy of a Plasmin-Specific Kunitz-Inhibitor (60-Residue Y11T/L17R with C-Terminal IEK) of Human Tissue Factor Pathway Inhibitor Type-2 Domain1. J Clin Med. 9:3684.
+Valliere MA, Korman TP, Arbing MA, Bowie JU. 2020. A bio-inspired cell-free system for cannabinoid production from inexpensive inputs. Nat Chem Biol. 16:1427-1433.
+Satagopan S, North JA, Arbing MA, Varaljay VA, Haines SN, Wildenthal JA, Byerly KM, Shin A, Tabita FR. 2019. Structural Perturbations of Rhodopseudomonas palustris Form II RuBisCO Mutant Enzymes That Affect CO2 Fixation. Biochemistry. 58:3880-3892.
+Tuukkanen AT, Freire D, Chan S, Arbing MA, Reed RW, Evans TJ, Zenkeviciutė G, Kim J, Kahng S, Sawaya MR, Chaton CT, Wilmanns M, Eisenberg D, Parret AHA, Korotkov KV. 2018. Structural Variability of EspG Chaperones from Mycobacterial ESX-1, ESX-3, and ESX-5 Type VII Secretion Systems. J Mol Biol. 431:289-307.
+Min D, Jefferson RE, Qi Y, Wang JY, Arbing MA, Im W, Bowie JU. 2018. Unfolding of a ClC chloride transporter retains memory of its evolutionary history. Nat Chem Biol. 14:489-496.
+Bajaj RA, Arbing MA, Shin A, Cascio D, Miallau L. 2016. Crystal structure of the toxin Msmeg_6760, the structural homolog of Mycobacterium tuberculosis Rv2035, a novel type II toxin involved in the hypoxic response. Acta Crystallogr F Struct Biol Commun. 72:863-869.
+Min D, Arbing MA, Jefferson RE, Bowie JU. 2016. A simple DNA handle attachment method for single molecule mechanical manipulation experiments. Protein Sci. 25:1535-44.
+Wagner JM, Chan S, Evans TJ, Kahng S, Kim J, Arbing MA, Eisenberg D, Korotkov KV. 2016. Structures of EccB1 and EccD1 from the core complex of the mycobacterial ESX-1 type VII secretion system. BMC Struct Biol. 16:5.
+Taylor ND, Garruss AS, Moretti R, Chan S, Arbing MA, Cascio D, Rogers JK, Isaacs FJ, Kosuri S, Baker D, Fields S, Church GM, Raman S. 2016. Engineering an allosteric transcription factor to respond to new ligands. Nat Methods. 13:177-83.
+Varaljay VA, Satagopan S, North JA, Witte B, Dourado MN, Anantharaman K, Arbing MA, Hoeft McCann S, Oremland RS, Banfield JF, Wrighton KC, Tabita FR. 2015. Functional metagenomic selection of RubisCO from uncultivated bacteria. Environ Microbiol. 18:1187-99.
+Rodriguez JA, Ivanova MI, Sawaya MR, Cascio D, Reyes FE, Shi D, Sangwan S, Guenther EL, Johnson LM, Zhang M, Jiang L, Arbing MA, Nannenga BL, Hattne J, Whitelegge J, Brewster AS, Messerschmidt M, Boutet S, Sauter NK, Gonen T, Eisenberg DS. Structure of the toxic core of α-synuclein from invisible crystals. 2015. Nature. 525: 486-90.
+Leibly DJ, Arbing MA, Pashkov I, DeVore N, Waldo GS, Terwilliger TC, Yeates TO. A Suite of Engineered GFP Molecules for Oligomeric Scaffolding. 2015. Structure. 23: 1754-68.
+Bobik TA, Morales EJ, Shin A, Cascio D, Sawaya MR, Arbing M, Yeates TO, Rasche, M. 2014. Structure of the methanofuran/methanopterin biosynthetic enzyme MJ1099 from Methanocaldococcus jannaschii. Acta Cryst. F70: 1472-1479.
+Satagopan S, Chan S, Perry LJ, Tabita FR. 2014. Structure-function studies with the unique hexameric form II ribulose-1,5-bisphosphate carboxylase/oxygenase (Rubisco) from Rhodopseudomonas palustris. J Biol Chem. 289: 21433-50.
+Arbing MA, Chan S, Harris L, Kuo E, Zhou TT, Ahn CJ, Nguyen L, He Q, Lu J,Menchavez PT, Shin A, Holton T, Sawaya MR, Cascio D, Eisenberg D. 2013. Heterologous xxpression of mycobacterial Esx complexes in Escherichia coli for structural studies is facilitated by the use of maltose binding protein fusions. PLoS One. 8: e81753.
+Miallau L, Jain P, Arbing MA, Cascio D, Phan T, Ahn CJ, Chan S, Chernishof I, Maxson M, Chiang J, Jacobs WR Jr, Eisenberg DS. 2013. Comparative proteomics identifies the cell-associated lethality of M. tuberculosis RelBE-like toxin-antitoxin complexes. Structure. 21: 627-37.
+Arbing MA, Chan S, Shin A, Phan T, Ahn CJ, Rohlin L, Gunsalus RP. 2012. Structure of the surface layer of the methanogenic archaean Methanosarcina acetivorans. Proc Natl Acad Sci USA. 109: 11812-7.
+Urzica EI, Adler LN, Page MD, Linster CL, Arbing MA, Casero D, Pellegrini M, Merchant SS, Clarke SG. 2012. Impact of oxidative stress on ascorbate biosynthesis in Chlamydomonas via regulation of the VTC2 gene encoding a GDP-L-galactose phosphorylase. J Biol Chem. 287:14234-45.
+Arbing MA, Kaufmann M, Phan T, Chan S, Cascio D, Eisenberg D. 2010. The crystal structure of the Mycobacterium tuberculosis Rv3019c-Rv3020c ESX complex reveals a domain-swapped heterotetramer. Protein Sci. 19: 1692-703.
+Chan S, Giuroiu I, Chernishof I, Sawaya MR, Chiang J, Gunsalus RP, Arbing MA, Perry LJ. 2010. Apo and ligand-bound structures of ModA from the archaeon Methanosarcina acetivorans. Acta Cryst. F66: 242-50.
+Miallau L, Faller M, Chiang J, Arbing M, Guo F, Cascio D, Eisenberg D. 2009. Structure and proposed activity of a member of the VapBC family of toxin-antitoxin systems. VapBC-5 from Mycobacterium tuberculosis. J Biol Chem. 284: 276-83.
+Tabita FR, Hanson TE, Li H, Satagopan S, Singh J, Chan S. 2007. Function, structure, and evolution of the RubisCO-like proteins and their RubisCO homologs. Microbiol Mol Biol Rev. 71: 576-99.
+Choi B, Zocchi G, Canale S, Wu Y, Chan S, Perry LJ. 2005. Artificial allosteric control of maltose binding protein. Phys Rev Lett. 94: 038103.
+Acknowledged by
+Sherkhanov S, Korman TP, Chan S, Faham S, Liu H, Sawaya MR, et al. 2020. Isobutanol production freed from biological limits using synthetic biochemistry. Nat Commun. 11: 4292.
+Liclican EL, Filler SG, Kaye J, Denny CT. 2019. Describing the dynamic translational science landscape through Core Voucher utilization. J Clin Transl Sci. 3: 105–112.
+Sarafian TA, Yacoub A, Kunz A, Aranki B, Serobyan G, Cohn W, et al. 2019. Enhanced mitochondrial inhibition by 3,4-dihydroxyphenyl-acetaldehyde (DOPAL)-oligomerized α-synuclein. J Neurosci Res. 97: 1689–1705.
+Chang ZL, Lorenzini MH, Chen X, Tran U, Bangayan NJ, Chen YY. 2018. Rewiring T-cell responses to soluble factors with chimeric antigen receptors. Nat Chem Biol. 14: 317–324.
+Messina MS, Stauber JM, Waddington MA, Rheingold AL, Maynard HD, Spokoyny AM. 2018. Organometallic Gold(III) Reagents for Cysteine Arylation. J Am Chem Soc. 140: 7065–7069.
+Campagna J, Vadivel K, Jagodzinska B, Jun M, Bilousova T, Spilman P, et al. 2018. Evaluation of an Allosteric BACE Inhibitor Peptide to Identify Mimetics that Can Interact with the Loop F Region of the Enzyme and Prevent APP Cleavage. J Mol Biol. 430: 1566–1576.
+Zimmer RK, Ferrier GA, Kim SJ, Loo RRO, Zimmer CA, Loo JA. 2017. Keystone predation and molecules of keystone significance. Ecology. 98: 1710–1721.
+He C, Hu X, Jung RS, Larsson M, Tu Y, Duarte-Vogel S, et al. 2017. Lipoprotein lipase reaches the capillary lumen in chickens despite an apparent absence of GPIHBP1. JCI Insight. 2: e96783.
+Sarafian TA, Littlejohn K, Yuan S, Fernandez C, Cilluffo M, Koo BK, Whitelegge JP, Watson JB. Stimulation of synaptoneurosome glutamate release by monomeric and fibrillated α-synuclein. J Neurosci Res. 2017 Jan 24. doi: 10.1002/jnr.24024.
+Decker CG, Wang Y, Paluck SJ, Shen L, Loo JA, Levine AJ, Miller LS, Maynard HD. 2016. Fibroblast growth factor 2 dimer with superagonist in vitro activity improves granulation tissue formation during wound healing. Biomaterials. 81:157-68.
+Fristedt R, Martins NF, Strenkert D, Clarke CA, Suchoszek M, Thiele W, Schöttler MA, Merchant SS. The thylakoid membrane protein CGL160 supports CF1CF0 ATP synthase accumulation in Arabidopsis thaliana. 2015. PLoS One. 10: e0121658.
+Fristedt R, Herdean A, Blaby-Haas CE, Mamedov F, Merchant SS, Last RL, Lundin B. PHOTOSYSTEM II PROTEIN33, a protein conserved in the plastid lineage, is associated with the chloroplast thylakoid membrane and provides stability to photosystem II supercomplexes in Arabidopsis. 2015. Plant Physiol. 167: 481-92.
+Fristedt R, Williams-Carrier R, Merchant SS, Barkan A. A thylakoid membrane protein harboring a DnaJ-type zinc finger domain is required for photosystem I accumulation in plants. 2014. J Biol Chem. 289: 30657-67.
+Fristedt R, Scharff LB, Clarke CA, Wang Q, Lin C, Merchant SS, Bock R. RBF1, a plant homolog of the bacterial ribosome-binding factor RbfA, acts in processing of the chloroplast 16S ribosomal RNA. 2014. Plant Physiol. 164: 201-15.
+Hsieh SI, Castruita M, Malasarn D, Urzica E, Erde J, Page MD, Yamasaki H, Casero D, Pellegrini M, Merchant SS, Loo JA. 2013. The proteome of copper, iron, zinc, and manganese micronutrient deficiency in Chlamydomonas reinhardtii. Mol Cell Proteomics. 12: 65-86.
+Sergeev ME, Morgia F, Javed MR, Doi M, Keng PY. 2013. Enzymatic radiofluorination: Fluorinase accepts methylaza-analog of SAM as substrate for FDA synthesis. J Mol Catal B Enzym. 97: 74–79.
+Min AB, Miallau L, Sawaya MR, Habel J, Cascio D, Eisenberg D. 2012. The crystal structure of the Rv0301-Rv0300 VapBC-3 toxin—antitoxin complex from M. tuberculosis reveals a Mg2+ ion in the active site and a putative RNA-binding site. Protein Sci. 21: 1754–1767.
+Teng PK, Anderson NJ, Goldschmidt L, Sawaya MR, Sambashivan S, Eisenberg D. 2012. Ribonuclease A suggests how proteins self-chaperone against amyloid fiber formation. Protein Sci. 21: 26–37.
+Besserer GM, Nicoll DA, Abramson J, Philipson KD. 2012. Characterization and purification of a Na+/Ca2+ exchanger from an archaebacterium. J Biol Chem. 287: 8652-9.
+Wang A, Zocchi G. 2011. Artificial modulation of the gating behavior of a K+ channel in a KvAP-DNA chimera. PLoS One. 6: e18598.
+Chim N, Habel JE, Johnston JM, Krieger I, Miallau L, Sankaranarayanan R, Morse RP, Bruning J, Swanson S, Kim H, Kim CY, Li H, Bulloch EM, Payne RJ, Manos-Turvey A, Hung LW, Baker EN, Lott JS, James MN, Terwilliger TC, Eisenberg DS, Sacchettini JC, Goulding CW. 2011. The TB Structural Genomics Consortium: a decade of progress. Tuberculosis (Edinb). 91: 155-72.
+Laganowsky A, Benesch JLP, Landau M, Ding L, Sawaya MR, Cascio D, Huang Q, Robinson CV, Horwitz J, Eisenberg D. 2010. Crystal structures of truncated alphaA and alphaB crystallins reveal structural mechanisms of polydispersity important for eye lens function. Protein Sci. 19: 1031–1043.
+Li PP, Itoh N, Watanabe M, Shi Y, Liu P, Yang HJ, Kasamatsu H. 2009. Association of simian virus 40 vp1 with 70-kilodalton heat shock proteins and viral tumor antigens. J Virol. 83: 37-46.
+Mail Address
+611 Charles Young Drive East
+Los Angeles, CA 90095
+Campus Office Address
+201 Boyer Hall Box 951570
+Mail Code 157005
+Phone: (310) 825-3754
+Fax: (310) 206-3914
+Biological and Environmental Research (DOE-BER)
+© 1997-2021 The Regents of the University of California -
+Enfold WordPress Theme by Kriesi
+Scroll to top

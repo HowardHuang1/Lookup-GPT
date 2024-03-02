@@ -1,791 +1,162 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
-  <head>
-    <meta charset="utf-8" />
-<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
-<meta name="MobileOptimized" content="width" />
-<meta name="HandheldFriendly" content="true" />
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-<meta http-equiv="x-ua-compatible" content="ie=edge" />
-<link rel="canonical" href="https://www.emergencymedicine.ucla.edu/education/fellowships/research" />
-<link rel="shortlink" href="https://www.emergencymedicine.ucla.edu/node/47" />
-
-    <title>Research | UCLA Emergency Medicine</title>
-    <link rel="stylesheet" media="all" href="/libraries/drupal-superfish/css/superfish.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/ajax-progress.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/autocomplete-loading.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tabledrag.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/modules/extlink/extlink.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/core/modules/layout_discovery/layouts/onecol/onecol.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/libraries/drupal-superfish/style/default/default.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/libraries/bootstrap/css/bootstrap.min.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/variables.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/user.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/progress.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/affix.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/book.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/contextual.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/feed-icon.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/field.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/header.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/help.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/icons.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/image-button.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/item-list.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/list-group.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/media.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/page.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/search-form.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/shortcut.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/sidebar.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/site-footer.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/skip-link.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/table.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/tabledrag.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/tableselect.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/tablesort-indicator.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/ui.widget.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/tabs.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/toolbar.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/vertical-tabs.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/views.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/webform.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/ui-dialog.css?s8yljn" />
-<link rel="stylesheet" media="all" href="//stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/subtheme/css/style.css?s8yljn" />
-<link rel="stylesheet" media="all" href="/sites/default/files/color/bootstrap_barrio_subtheme-2b0375c6/colors.css?s8yljn" />
-<link rel="stylesheet" media="all" href="//use.fontawesome.com/releases/v5.13.0/css/all.css" />
-<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/colors/messages/messages-light.css?s8yljn" />
-<link rel="stylesheet" media="print" href="/themes/bootstrap_barrio/css/print.css?s8yljn" />
-
-    
-  </head>
-  <body class="layout-no-sidebars page-node-47 path-node node--type-page">
-    <a href="#main-content" class="visually-hidden-focusable">
-      Skip to main content
-    </a>
-    
-      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
-    <div id="page-wrapper">
-  <div id="page">
-    <header id="header" class="header" role="banner" aria-label="Site header">
-                 <nav class="navbar fixed-top navbar-expand-lg" id="navbar-main">
-          		                    <a href="/" title="Home" rel="home" class="navbar-brand">
-              <img src="/sites/default/files/logo_UCLA_blue_boxed_3.png" alt="Home" class="img-fluid d-inline-block align-top" />
-            
-    </a>
-    <div id="block-mainnavigation" class="settings-tray-editable block block-superfish block-superfishmain" data-drupal-settingstray="editable">
-  
-    
-      <div class="content">
-      
-<ul id="superfish-main" class="menu sf-menu sf-main sf-horizontal sf-style-default">
-  
-
-  
-  <li id="main-menu-link-content7c99e67d-8aff-4eae-ae90-ecdf169b5712" class="sf-depth-1 sf-no-children">
-              <a href="/" class="sf-depth-1">HOME</a>
-                      </li>
-
-
-            
-  <li id="main-menu-link-content3df052d4-ad44-42a2-9337-dbac11d5b948" class="active-trail sf-depth-1 menuparent">
-              <span class="sf-depth-1 menuparent nolink">EDUCATION</span>
-        <ul class="sf-multicolumn">
-    <li class="sf-multicolumn-wrapper ">
-              <ol>      
-
-                      
-  <li id="main-menu-link-content3f8b507f-2527-4647-9c18-80b8f2b7d144" class="sf-depth-2 sf-multicolumn-column menuparent">
-        <div class="sf-multicolumn-column">
-              <a href="/education/residency_program" class="sf-depth-2 menuparent">Residency Program</a>
-                  <ol>      
-
-  
-  <li id="main-menu-link-content6828db95-7b2a-419a-9134-1190446e397c" class="sf-depth-3 sf-no-children">
-              <a href="/education/residency_program/clinical" class="sf-depth-3">Clinical Curriculum</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content85ff6fd1-6fba-4c33-8ec7-9397e1f09a36" class="sf-depth-3 sf-no-children">
-              <a href="/education/residency_program/training_sites" class="sf-depth-3">Training Sites</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contentdb8f4b1b-13e7-429c-97e7-b162be1d7dc8" class="sf-depth-3 sf-no-children">
-              <a href="/education/residency_program/didactic" class="sf-depth-3">Didactic Curriculum</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contentdc3387c6-8483-4c59-84c4-7b03e5bf5637" class="sf-depth-3 sf-no-children">
-              <a href="/education/residency_program/electives" class="sf-depth-3">Electives</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contentff7bb319-f0bd-46e0-803b-542b8f8c3249" class="sf-depth-3 sf-no-children">
-              <a href="/education/residency_program/global_health" class="sf-depth-3">Global Health</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content23a9ad40-f55a-4f20-97a0-53455bf01486" class="sf-depth-3 sf-no-children">
-              <a href="/education/residency_program/other_opportunities" class="sf-depth-3">Other Clinical Opportunities</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contentef3ad0bb-5cf4-405d-ab38-8fea22a333c2" class="sf-depth-3 sf-no-children">
-              <a href="/education/residency%20program/benefits" class="sf-depth-3">Benefits</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content564e55c0-462a-4a2f-813e-9f731b0f6f04" class="sf-depth-3 sf-no-children">
-              <a href="/education/residency_program/life" class="sf-depth-3">Life as a Resident</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content8e85fa55-445e-4b6d-80f2-7bfecc6eeb46" class="sf-depth-3 sf-no-children">
-              <a href="/education/residency_program/faqs" class="sf-depth-3">Frequently Asked Questions</a>
-                      </li>
-
-
-      </ol>            </div>  </li>
-
-
-                      
-  <li id="main-menu-link-content39a5d1c1-bf2d-443b-86a5-43d1be01e0d8" class="active-trail sf-depth-2 sf-multicolumn-column menuparent">
-        <div class="sf-multicolumn-column">
-              <span class="sf-depth-2 menuparent nolink">Fellowships</span>
-                  <ol>      
-
-  
-  <li id="main-menu-link-content579ded86-323f-40ef-ad73-66ee2f55d9a7" class="sf-depth-3 sf-no-children">
-              <a href="/education/fellowships/administration" class="sf-depth-3">Administration</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content1fa6a4c5-f7ec-4298-a00b-5524cdd08f00" class="sf-depth-3 sf-no-children">
-              <a href="/education/fellowships/medical_education" class="sf-depth-3">Medical Education &amp; Simulation</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content1fcca9f2-2e7f-40ac-90ae-3c08a7bdc895" class="active-trail sf-depth-3 sf-no-children">
-              <a href="/education/fellowships/research" class="is-active sf-depth-3">Research</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content31bbe966-7f11-44c7-ab7e-0609322d3438" class="sf-depth-3 sf-no-children">
-              <a href="/education/fellowships/ultrasound" class="sf-depth-3">Ultrasound</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content77738869-5494-47a4-9d05-a993698fc59d" class="sf-depth-3 sf-no-children">
-              <a href="/education/fellowships/idheal" class="sf-depth-3">IDHEAL</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contentcc83350a-4b11-4606-9893-7a96b791b5da" class="sf-depth-3 sf-no-children">
-              <a href="https://www.emergencymedicine.ucla.edu/education/fellowships/space_medicine" class="sf-depth-3 sf-external">Space Medicine</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contentf2894861-aea7-431a-9b3f-16b2ec7044e9" class="sf-depth-3 sf-no-children">
-              <a href="https://www.uclahealth.org/clinical-informatics-fellowship" class="sf-depth-3 sf-external">Clinical Informatics</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content88ddeaea-9370-4d92-9bfc-54348bead087" class="sf-depth-3 sf-no-children">
-              <a href="http://nationalcsp.org/" class="sf-depth-3 sf-external">National Clinician Scholars</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content21d62499-3d6e-4757-a009-5ebc8cf76a83" class="sf-depth-3 sf-no-children">
-              <a href="/education/fellowship/toxicology" class="sf-depth-3">Toxicology</a>
-                      </li>
-
-
-      </ol>            </div>  </li>
-
-
-                      
-  <li id="main-menu-link-contentd5cca69a-6984-48da-a9db-2024bc41e953" class="sf-depth-2 sf-multicolumn-column menuparent">
-        <div class="sf-multicolumn-column">
-              <span class="sf-depth-2 menuparent nolink">Medical Students</span>
-                  <ol>      
-
-  
-  <li id="main-menu-link-content9c22681e-9739-47a2-ba11-5263a41bac11" class="sf-depth-3 sf-no-children">
-              <a href="/education/medicalstudents/interest" class="sf-depth-3">EM Interest Group</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contenta798ac47-3fb0-47ec-8622-98b9556658b3" class="sf-depth-3 sf-no-children">
-              <a href="/education/medicalstudents/core" class="sf-depth-3">Core Emergency Medicine Experience</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content23715cf4-ec78-403a-9a1f-0fe919fe6ade" class="sf-depth-3 sf-no-children">
-              <a href="/education/medicalstudents/clerkship" class="sf-depth-3">4th Year Clerkship</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contenta478c22c-b3c4-41cd-b255-e23ea4acfc67" class="sf-depth-3 sf-no-children">
-              <a href="/education/medicalstudents/diversity" class="sf-depth-3">Visiting Elective Diversity Scholarship</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content08ea1e2f-e525-4f7e-9c9d-f048f0ffed79" class="sf-depth-3 sf-no-children">
-              <a href="/education/medicalstudents/virtual" class="sf-depth-3">Virtual Clerkship Experience</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contentc10ae2df-69b1-46fa-b779-5d9441908643" class="sf-depth-3 sf-no-children">
-              <a href="/education/medicalstudents/ultrasoundrotation" class="sf-depth-3">Ultrasound Rotation</a>
-                      </li>
-
-
-      </ol>            </div>  </li>
-
-
-      </ol>        </li></ul>      </li>
-
-
-            
-  <li id="main-menu-link-content78be1bda-d943-41f6-b089-d17ae9a89171" class="sf-depth-1 menuparent">
-              <span class="sf-depth-1 menuparent nolink">SECTIONS</span>
-        <ul class="sf-multicolumn">
-    <li class="sf-multicolumn-wrapper ">
-              <ol>      
-
-  
-  <li id="main-menu-link-content2956f216-a3c9-4c3f-b702-cd1460a5c238" class="sf-depth-2 sf-no-children">
-              <a href="http://www.uclaemultrasound.org/" class="sf-depth-2 sf-external">Ultrasound</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contente102e04f-26c8-409c-9df2-b329f5bd1516" class="sf-depth-2 sf-no-children">
-              <a href="http://www.idheal-ucla.org/" class="sf-depth-2 sf-external">IDHEAL</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contentbeefe732-294e-4e5b-b8fd-6426afe7e8e9" class="sf-depth-2 sf-no-children">
-              <a href="/sections/research" class="sf-depth-2">Research</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contentc75efa3a-807e-49ac-9f53-b8c83a5a1f67" class="sf-depth-2 sf-no-children">
-              <a href="https://emra.dgsom.ucla.edu/pages/" class="sf-depth-2 sf-external">EM Research Associates</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contentc179e522-e2c7-40da-b753-77173d463486" class="sf-depth-2 sf-no-children">
-              <a href="/sections/critical_care" class="sf-depth-2">Critical Care</a>
-                      </li>
-
-
-      </ol>        </li></ul>      </li>
-
-
-            
-  <li id="main-menu-link-content49bb1ff9-e3ee-4b56-b7bc-77fc572e1817" class="sf-depth-1 menuparent">
-              <span class="sf-depth-1 menuparent nolink">PEOPLE</span>
-        <ul class="sf-multicolumn">
-    <li class="sf-multicolumn-wrapper ">
-              <ol>      
-
-  
-  <li id="main-menu-link-content9cadd0b9-dfe3-4675-b9f9-97a38a5e1c8b" class="sf-depth-2 sf-no-children">
-              <a href="/people/leadership/chair" class="sf-depth-2">Department Chair</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contentb2dca69f-658e-43f8-8285-459dc59f719d" class="sf-depth-2 sf-no-children">
-              <a href="/node/6229" class="sf-depth-2">Medical Directors</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content06b4ba8f-91b0-4796-ab22-85aafaee2760" class="sf-depth-2 sf-no-children">
-              <a href="/people/leadership/residency" class="sf-depth-2">Program Directors</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contentadd8a566-f56d-4856-bc93-72090b291f78" class="sf-depth-2 sf-no-children">
-              <a href="https://www.uclahealth.org/departments/emergency-medicine/our-team/ronald-reagan-ucla-medical-center" class="sf-depth-2 sf-external">Ronald Reagan Faculty</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content7e723200-fbff-49ce-91f2-0cc5eea6b869" class="sf-depth-2 sf-no-children">
-              <a href="https://www.uclahealth.org/departments/emergency-medicine/our-team/olive-view-ucla-medical-center" class="sf-depth-2 sf-external">Olive View Faculty</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contentb5bc6538-02b1-42f2-9a6c-a75c7f38897f" class="sf-depth-2 sf-no-children">
-              <a href="/people/residents" class="sf-depth-2">Residents</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content7ea5846e-ce26-4c68-ba68-9cac0961080e" class="sf-depth-2 sf-no-children">
-              <a href="/people/fellows" class="sf-depth-2">Fellows</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content6aa2da49-9415-4095-a4df-0ad1e48bd0f5" class="sf-depth-2 sf-no-children">
-              <a href="/people/alumni" class="sf-depth-2">Alumni</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contentc462469d-f9f6-4781-a5ca-7d3997695508" class="sf-depth-2 sf-no-children">
-              <a href="/people/edu_staff" class="sf-depth-2">Staff</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content80c33b12-9b73-48f9-b848-c74b2af71c09" class="sf-depth-2 sf-no-children">
-              <a href="/people/scribes" class="sf-depth-2">Scribes</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contentb2d70086-22d1-4708-ba4d-0ef875e21fdb" class="sf-depth-2 sf-no-children">
-              <a href="/people/band" class="sf-depth-2">Band</a>
-                      </li>
-
-
-      </ol>        </li></ul>      </li>
-
-
-  
-  <li id="main-menu-link-contentf2916f82-bade-4bff-a33a-235e8ee84787" class="sf-depth-1 sf-no-children">
-              <a href="/diversity" class="sf-depth-1">DIVERSITY</a>
-                      </li>
-
-
-            
-  <li id="main-menu-link-contentafda4ab5-c81a-4206-a397-27ebe6169b83" class="sf-depth-1 menuparent">
-              <span class="sf-depth-1 menuparent nolink">CONNECT</span>
-        <ul class="sf-multicolumn">
-    <li class="sf-multicolumn-wrapper ">
-              <ol>      
-
-  
-  <li id="main-menu-link-contentbc8755b7-0b70-4896-97f4-9e71ae0d7f32" class="sf-depth-2 sf-no-children">
-              <a href="/connect/calendar" class="sf-depth-2">Calendar</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content0c53fdd5-b7ac-45d7-b4da-e3251fcf6bb0" class="sf-depth-2 sf-no-children">
-              <a href="/connect/contact_us" class="sf-depth-2">Contact Us</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content3685e4a0-e1eb-4060-8939-078efe6bac4e" class="sf-depth-2 sf-no-children">
-              <a href="https://www.uclahealth.org/departments/emergency-medicine" class="sf-depth-2 sf-external">UCLA Department of Emergency Medicine</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contentd9e7a43f-2324-4842-9f87-52807d3bdf83" class="sf-depth-2 sf-no-children">
-              <a href="https://www.uclahealth.org" class="sf-depth-2 sf-external">UCLA Health</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content83df743e-8ba7-43b6-a3d4-60466e443f86" class="sf-depth-2 sf-no-children">
-              <a href="https://medschool.ucla.edu" class="sf-depth-2 sf-external">David Geffen School Of Medicine</a>
-                      </li>
-
-
-      </ol>        </li></ul>      </li>
-
-
-            
-  <li id="main-menu-link-content9e2c385f-7cee-44d0-9731-8fdcef10c306" class="sf-depth-1 menuparent">
-              <span class="sf-depth-1 menuparent nolink">BULLETIN</span>
-        <ul class="sf-multicolumn">
-    <li class="sf-multicolumn-wrapper ">
-              <ol>      
-
-  
-  <li id="main-menu-link-contenteba1f87f-cb81-4658-bec9-d6c47d1240c0" class="sf-depth-2 sf-no-children">
-              <a href="/newsletters" class="sf-depth-2">Newsletters</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content4ac2f7bf-ab00-48d0-ae05-0fee7525a55e" class="sf-depth-2 sf-no-children">
-              <a href="/overview/history" class="sf-depth-2">History</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content8da0ab7a-f85e-4d1b-89f5-3e9c8736d6e8" class="sf-depth-2 sf-no-children">
-              <a href="/didyouknow" class="sf-depth-2">Notables</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-content08d81456-5a97-4444-a62f-2d118d5ca588" class="sf-depth-2 sf-no-children">
-              <a href="/bulletin/faculty_positions" class="sf-depth-2">Faculty Positions</a>
-                      </li>
-
-
-      </ol>        </li></ul>      </li>
-
-
-  
-  <li id="main-menu-link-contentb7768948-92b7-42b4-a3d4-9dbcf79e49b7" class="sf-depth-1 sf-no-children">
-              <a href="https://students-residents.aamc.org/attending-medical-school/article/visiting-student-learning-opportunities/" class="sf-depth-1 sf-external">Apply to VSLO</a>
-                      </li>
-
-
-  
-  <li id="main-menu-link-contenta23a5b0f-a659-4bc1-b545-3b32e31377da" class="sf-depth-1 sf-no-children">
-              <a href="/donate" class="sf-depth-1">Donate</a>
-                      </li>
-
-
-</ul>
-
-    </div>
-  </div>
-
-
-                              </nav>
-          </header>
-            <div id="main-wrapper" class="layout-main-wrapper clearfix">
-              <div id="main" class="container-fluid">
-          
-          <div class="row row-offcanvas row-offcanvas-left clearfix">
-              <main class="main-content col" id="content" role="main">
-                <section class="section">
-                  <a id="main-content" tabindex="-1"></a>
-                    <div data-drupal-messages-fallback class="hidden"></div><div id="block-bootstrap-barrio-subtheme-content" class="block block-system block-system-main-block">
-  
-    
-      <div class="content">
-      <div class="pagetitle">
-			<img class="responsive header-img" src="/sites/default/files/2019-07/Recruitment_S2.png"/>
-		<div class="pagetitle-nested" style="bottom: 30%;">
-		<h1 class="text-light text-center display-3 title-font"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Research</span>
-</h1>
-	</div>
-</div>
-
-  <div class="layout layout--onecol">
-    <div  class="layout__region layout__region--content">
-      <div class="block block-layout-builder block-field-blocknodepagebody">
-  
-    
-      <div class="content">
-      
-            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="container">The UCLA Emergency Medicine Research Fellowship Program, established in 1980, is a two year post-graduate training program. The fellowship harnesses the benefits of training at an internationally renowned university hospital and school of public health with exposure to the faculty and trainees of the National Clinician Scholars Program (formerly Robert Wood Johnson Clinical Scholars Program), the Rand Graduate School in Santa Monica, and relevant departments on the UCLA main campus. This program provides an unusually diverse spectrum of research training. Entry to the fellowship program is available only to physicians who have completed an Emergency Medicine Residency.
-<section id="section1">
-<h1 class="display-4">Institutions</h1>
-
-<hr><img alt="rr" data-entity-type="file" data-entity-uuid="9b45986b-6fd2-4dd8-ae94-41160984f4ba" height="220" src="/sites/default/files/inline-images/rr.jpg" width="294" class="align-right" loading="lazy">
-<h4 class="text-primary">Ronald Reagan UCLA Medical Center</h4>
-
-<p>The <a href="https://www.uclahealth.org/reagan/" target="_blank">Ronald Reagan UCLA Medical Center</a> (RRMC) is located at the southern end of the beautiful UCLA campus in Westwood. It is a state-of-the-art 520 bed academic medical center that offers a full range of medical and surgical services from primary to sub-specialty care. The one million-plus square foot, 10-story structure encompasses the operations of Ronald Reagan UCLA Medical Center, the Stewart and Lynda Resnick Neuropsychiatric Hospital at UCLA and the Mattel Children's Hospital. UCLA is consistently rated in the top 10 medical centers in the country by US News and World Report. The 41-bed Emergency Department treats 52,000 patients per year and serves as a Level 1 Trauma center, as well as Comprehensive Stroke, STEMI, and Pediatric Critical Care center.</p>
-
-<p>&nbsp;</p>
-<img alt="smmc" data-entity-type="file" data-entity-uuid="95c0022b-02e9-4c9a-bb5e-a98b40237f1f" height="222" src="/sites/default/files/inline-images/smmc.jpg" width="294" class="align-right" loading="lazy">
-<h4 class="text-primary">Santa Monica-UCLA Medical Center</h4>
-
-<p><a href="https://www.uclahealth.org/santa-monica/" target="_blank">Santa Monica-UCLA Medical Center</a> (SMMC) is a 265-bed full service community hospital. Located in beautiful Santa Monica, it serves as a center of excellence for orthopedic surgery, pediatrics, obstetrics, STEMI, and recently became a stroke center. The hospital became part of UCLA Health in 1995. The ED is a busy, efficient community practice, serving 50,000 patients per year in a modern 22-bed facility.</p>
-</section>
-</div>
-
-<section class="bg-light" id="section2">
-<div class="container">
-<h1 class="display-4">Curriculum</h1>
-
-<hr>
-<h4 class="text-primary pt-3">Educational Objectives</h4>
-
-<p>The UCLA Emergency Medicine Research Fellowship Program is designed to provide the research training and experience necessary to become an outstanding contributor and leader in academic emergency medicine. The primary goals of the program are training in:</p>
-
-<ul>
-	<li>Identification of appropriate areas of research activities,</li>
-	<li>Research methodology and experimental design,</li>
-	<li>Preparation of grant proposals, and</li>
-	<li>Scientific writing: preparation of abstracts for scientific meetings and manuscripts for peer review journal publication.</li>
-</ul>
-
-<h4 class="text-primary pt-3">Experience</h4>
-
-<ul>
-	<li>The research fellowship is designed to meet individual needs. The emergency medicine faculty are not involved in bench research. Their research topics include: health services research, medical informatics, infectious disease, neurosciences, pre-hospital and disaster medicine, sepsis, ARDS, clinical decision instruments, domestic violence, and research on the quality of the medical literature.</li>
-	<li>Weekly meeting with faculty mentor to discuss ongoing educational and research activities.</li>
-	<li>Monthly emergency medicine research meetings with EM research faculty and fellows.</li>
-	<li>Enrollment in the UCLA School of Public Health to pursue an MPH degree in epidemiology, health services research or other area per the candidate's interest. Enrollment in other UCLA graduate programs can be substituted.</li>
-	<li>Participation in the seminars and classes of the National Clinician Scholars Program.</li>
-	<li>Attending UCLA Emergency Medicine Grand Rounds and Journal Clubs.</li>
-</ul>
-
-<h4 class="text-primary pt-3">Project</h4>
-
-<ul>
-	<li>Fellows are expected to develop and complete a meaningful research project, present the results at national scientific meetings, prepare the results for publication in a peer-reviewed national journal and complete and submit an NIH Grant Application.</li>
-</ul>
-
-<h4 class="text-primary pt-3">Research Activities</h4>
-
-<ul>
-	<li>Fellows are expected to develop and complete a meaningful research project, present the results at national scientific meetings, prepare the results for publication in a peer-reviewed national journal and complete and submit an NIH Grant Application.</li>
-</ul>
-
-<h4 class="text-primary pt-3">Clinical</h4>
-
-<ul>
-	<li>Fellows work 8 clinical shifts per month.</li>
-	<li>Fellows will work in a teaching setting at UCLA supervising residents and students, and in a clinical setting at Santa Monica.</li>
-</ul>
-</div>
-</section>
-
-<section id="section3">
-<div class="container">
-<h1 class="display-4">Program Faculty</h1>
-
-<hr>
-<ul>
-	<li><strong>David L. Schriger, MD, MPH</strong> Fellowship Director</li>
-	<li><strong>William Mower, MD, PhD</strong></li>
-	<li><strong>Richelle Cooper, MD, MSHS </strong>Research Director</li>
-	<li><strong>Greg Hendey, MD</strong></li>
-	<li><strong>David Talan, MD</strong></li>
-	<li><strong>Elizabeth Samuels, MD</strong></li>
-	<li><strong>Jesus Torres, MD</strong></li>
-	<li><strong>Rose Diaz, MD</strong></li>
-	<li><strong>Annette Dekker, MD</strong></li>
-</ul>
-</div>
-</section>
-
-<section class="bg-light" id="section4">
-<div class="container">
-<h1 class="display-4">Stipends &amp; Benefits</h1>
-
-<hr>
-<ul>
-	<li>UCLA employee with health and retirement benefits</li>
-	<li>Annual salary of $100,000</li>
-	<li>Tuition support for Master's program</li>
-	<li>$2,000 computer allowance</li>
-	<li>$2,000 CME allowance</li>
-	<li>Four weeks of vacation</li>
-</ul>
-</div>
-</section>
-
-<section id="section5">
-<div class="container">
-<h1 class="display-4">Apply</h1>
-
-<hr>
-<p>Interested applicants should send Curriculum Vitae to:</p>
-
-<p><strong>Nathalia Rodriguez</strong><br>
-Fellowship Coordinator<br>
-Department of Emergency Medicine<br>
-924 Westwood Boulevard, Suite 300<br>
-Los Angeles, CA, 90024<br>
-<a href="mailto:nathaliaerodriguez@mednet.ucla.edu">nathaliaerodriguez@mednet.ucla.edu</a></p>
-
-<p><strong>David L. Schriger, MD, MPH</strong><br>
-Fellowship Director<br>
-<a href="mailto:schriger@ucla.edu">schriger@ucla.edu</a></p>
-
-<p>Interviews will be granted to qualified applicants by invitation.</p>
-
-<h4 class="text-primary">Applicant Requirements</h4>
-
-<ul>
-	<li>Graduation from a ACGME accredited Emergency Medicine Residency training program.</li>
-	<li>Eligible to obtain a California Medical License.</li>
-	<li>References.</li>
-</ul>
-</div>
-</section>
-
-<section>
-<div class="container">
-<h4 class="text-primary">Fellowship Alumni</h4>
-<strong>Annette Dekker, MD</strong>, 2020-2022<br>
-Assistant Clinical Professor of Emergency Medicine, David Geffen School of Medicine at UCLA<br>
-<strong>Todd Schneberk, MD, MA</strong>, 2016-2018<br>
-Assistant Professor of Clinical Emergency Medicine, USC<br>
-<strong>Samantha Kadera, MD, MPH</strong>, 2013-2015<br>
-Assistant Professor of Emergency Medicine, David Geffen School of Medicine at UCLA<br>
-<strong>Daniel Rolston, MD, MS</strong>, 2013-2015<br>
-Assistant Professor of Emergency Medicine and Critical Care, Long Island Jewish Medical Center<br>
-<strong>Marc Probst, MD, MS</strong>, 2012-2014<br>
-Assistant Professor, The Mount Sinai Hospital<br>
-<strong>Erin Wilkes, MD, MSHS</strong>, 2011-2013<br>
-Assistant Professor of Emergency Medicine, David Geffen School of Medicine at UCLA<br>
-<strong>Christopher LeMaster, MD</strong>, 2010-2012<br>
-The Permanente Medical Group<br>
-<strong>Malkeet Gupta, MD, MS</strong>, 2006-2008<br>
-Assistant Clinical Professor of Emergency Medicine, David Geffen School of Medicine at UCLA<br>
-Partner, Antelope Valley Emergency Medicine Associates<br>
-<strong>Michael Menchine, MD, MPH</strong>, 2004-2006<br>
-Vice Chair of Research and Associate Professor of Emergency Medicine, Los Angeles County - University of Southern California<br>
-<strong>Zachary Gray, MD, MPH</strong>, 2004-2006<br>
-Staff Physician, Torrance Memorial Hospital, Torrance, California<br>
-<strong>Richard Byyny, MD, MSPH</strong>, 2004-2006<br>
-Assistant Professor of Emergency Medicine, University of Colorado Health Science Center, Denver, Colorado<br>
-<strong>Steven Wall, MD, MPH</strong>, 2001-2003<br>
-Assistant Professor of Clinical Emergency Medicine, Assistant Professor, Department of Epidemiology &amp; Population Health, Albert Einstein College of Medicine of Yeshiva University, Jacobi Medical Center, Bronx, NY<br>
-<strong>Frank Day, MD, MPH</strong>, 1999-2001<br>
-Associate Clinical Professor of Emergency Medicine, West Los Angles VA Medical Center, David Geffen School of Medicine at UCLA<br>
-<strong>Richelle J. Cooper, MD, MSHS</strong>, 1998-2000<br>
-Clinical Professor of Emergency Medicine, David Geffen School of Medicine at UCLA<br>
-<strong>Thomas Lee, MD</strong>, 1997-1999<br>
-Clinical Professor of Emergency Medicine, David Geffen School of Medicine at UCLA<br>
-Director, Antelope Valley Emergency Medicine Associates<br>
-<strong>Frederick J. Beddingfield, III, MD, PhD</strong>, 1996-1999<br>
-Assistant Clinical Professor of Dermatology, David Geffen School of Medicine at UCLA<br>
-Medical Director, Skin Care Pharmaceuticals, Clinical Research and Development, Allergan, Inc.<br>
-Adjunct Staff, Health Sciences The RAND Corporation<br>
-<strong>Eric Salk, MD, MPH</strong>, 1995-1997<br>
-Assistant Clinical Professor of Surgery/Emergency Medicine, Yale University School of Medicine<br>
-Medical Director of Emergency Services, The Charlotte Hungerford Hospital, Torrington, CT<br>
-<strong>Carolyn Sachs, MD, MPH</strong>, 1994-1996<br>
-Clinical Professor of Emergency Medicine, David Geffen School of Medicine at UCLA<br>
-<strong>Knox Todd, MD, MPH</strong>, 1993-1994<br>
-Professor and Department Chair, Department of Emergency Medicine, The University of Texas MD Anderson, Houston, TX<br>
-<strong>Scott Krishel, MD, MPH</strong>, 1992-1994<br>
-Emergency Physician, Kaiser Permamente Hospital, San Diego, CA<br>
-<strong>William L. Mower, MD, PhD</strong>, 1991-1993<br>
-Professor of Emergency Medicine, David Geffen School of Medicine at UCLA<br>
-<strong>David L. Schriger, MD, MPH</strong>, 1988-1990<br>
-Professor and Vice Chair of Emergency Medicine, David Geffen School of Medicine at UCLA<br>
-<strong>Ira Gold, MD, MPH</strong>, 1983-1986<br>
-Research Director, Illinois Masonic Medical Center, University of Illinois College of Medicine<br>
-<strong>Sherman Podolsky, MD</strong>, 1982-1983<br>
-President, PhyAmerica Physician Services of Florida Inc.<br>
-<strong>Fred Einesman, MD</strong>, 1981-1982<br>
-Emergency Physician, Cedars Sinai Medical Center<br>
-TV Producer<br>
-<strong>Edward Geehr, MD</strong>, 1980-1981<br>
+Research | UCLA Emergency Medicine
+Skip to main content
+Research
+The UCLA Emergency Medicine Research Fellowship Program, established in 1980, is a two year post-graduate training program. The fellowship harnesses the benefits of training at an internationally renowned university hospital and school of public health with exposure to the faculty and trainees of the National Clinician Scholars Program (formerly Robert Wood Johnson Clinical Scholars Program), the Rand Graduate School in Santa Monica, and relevant departments on the UCLA main campus. This program provides an unusually diverse spectrum of research training. Entry to the fellowship program is available only to physicians who have completed an Emergency Medicine Residency.
+Institutions
+Ronald Reagan UCLA Medical Center
+The
+Ronald Reagan UCLA Medical Center
+(RRMC) is located at the southern end of the beautiful UCLA campus in Westwood. It is a state-of-the-art 520 bed academic medical center that offers a full range of medical and surgical services from primary to sub-specialty care. The one million-plus square foot, 10-story structure encompasses the operations of Ronald Reagan UCLA Medical Center, the Stewart and Lynda Resnick Neuropsychiatric Hospital at UCLA and the Mattel Children's Hospital. UCLA is consistently rated in the top 10 medical centers in the country by US News and World Report. The 41-bed Emergency Department treats 52,000 patients per year and serves as a Level 1 Trauma center, as well as Comprehensive Stroke, STEMI, and Pediatric Critical Care center.
+Santa Monica-UCLA Medical Center
+Santa Monica-UCLA Medical Center
+(SMMC) is a 265-bed full service community hospital. Located in beautiful Santa Monica, it serves as a center of excellence for orthopedic surgery, pediatrics, obstetrics, STEMI, and recently became a stroke center. The hospital became part of UCLA Health in 1995. The ED is a busy, efficient community practice, serving 50,000 patients per year in a modern 22-bed facility.
+Curriculum
+Educational Objectives
+The UCLA Emergency Medicine Research Fellowship Program is designed to provide the research training and experience necessary to become an outstanding contributor and leader in academic emergency medicine. The primary goals of the program are training in:
+Identification of appropriate areas of research activities,
+Research methodology and experimental design,
+Preparation of grant proposals, and
+Scientific writing: preparation of abstracts for scientific meetings and manuscripts for peer review journal publication.
+Experience
+The research fellowship is designed to meet individual needs. The emergency medicine faculty are not involved in bench research. Their research topics include: health services research, medical informatics, infectious disease, neurosciences, pre-hospital and disaster medicine, sepsis, ARDS, clinical decision instruments, domestic violence, and research on the quality of the medical literature.
+Weekly meeting with faculty mentor to discuss ongoing educational and research activities.
+Monthly emergency medicine research meetings with EM research faculty and fellows.
+Enrollment in the UCLA School of Public Health to pursue an MPH degree in epidemiology, health services research or other area per the candidate's interest. Enrollment in other UCLA graduate programs can be substituted.
+Participation in the seminars and classes of the National Clinician Scholars Program.
+Attending UCLA Emergency Medicine Grand Rounds and Journal Clubs.
+Project
+Fellows are expected to develop and complete a meaningful research project, present the results at national scientific meetings, prepare the results for publication in a peer-reviewed national journal and complete and submit an NIH Grant Application.
+Research Activities
+Fellows are expected to develop and complete a meaningful research project, present the results at national scientific meetings, prepare the results for publication in a peer-reviewed national journal and complete and submit an NIH Grant Application.
+Clinical
+Fellows work 8 clinical shifts per month.
+Fellows will work in a teaching setting at UCLA supervising residents and students, and in a clinical setting at Santa Monica.
+Program Faculty
+David L. Schriger, MD, MPH
+Fellowship Director
+William Mower, MD, PhD
+Richelle Cooper, MD, MSHS
+Research Director
+Greg Hendey, MD
+David Talan, MD
+Elizabeth Samuels, MD
+Jesus Torres, MD
+Rose Diaz, MD
+Annette Dekker, MD
+Stipends & Benefits
+UCLA employee with health and retirement benefits
+Annual salary of $100,000
+Tuition support for Master's program
+$2,000 computer allowance
+$2,000 CME allowance
+Four weeks of vacation
+Apply
+Interested applicants should send Curriculum Vitae to:
+Nathalia Rodriguez
+Fellowship Coordinator
+Department of Emergency Medicine
+924 Westwood Boulevard, Suite 300
+Los Angeles, CA, 90024
+nathaliaerodriguez@mednet.ucla.edu
+David L. Schriger, MD, MPH
+Fellowship Director
+schriger@ucla.edu
+Interviews will be granted to qualified applicants by invitation.
+Applicant Requirements
+Graduation from a ACGME accredited Emergency Medicine Residency training program.
+Eligible to obtain a California Medical License.
+References.
+Fellowship Alumni
+Annette Dekker, MD
+, 2020-2022
+Assistant Clinical Professor of Emergency Medicine, David Geffen School of Medicine at UCLA
+Todd Schneberk, MD, MA
+, 2016-2018
+Assistant Professor of Clinical Emergency Medicine, USC
+Samantha Kadera, MD, MPH
+, 2013-2015
+Assistant Professor of Emergency Medicine, David Geffen School of Medicine at UCLA
+Daniel Rolston, MD, MS
+, 2013-2015
+Assistant Professor of Emergency Medicine and Critical Care, Long Island Jewish Medical Center
+Marc Probst, MD, MS
+, 2012-2014
+Assistant Professor, The Mount Sinai Hospital
+Erin Wilkes, MD, MSHS
+, 2011-2013
+Assistant Professor of Emergency Medicine, David Geffen School of Medicine at UCLA
+Christopher LeMaster, MD
+, 2010-2012
+The Permanente Medical Group
+Malkeet Gupta, MD, MS
+, 2006-2008
+Assistant Clinical Professor of Emergency Medicine, David Geffen School of Medicine at UCLA
+Partner, Antelope Valley Emergency Medicine Associates
+Michael Menchine, MD, MPH
+, 2004-2006
+Vice Chair of Research and Associate Professor of Emergency Medicine, Los Angeles County - University of Southern California
+Zachary Gray, MD, MPH
+, 2004-2006
+Staff Physician, Torrance Memorial Hospital, Torrance, California
+Richard Byyny, MD, MSPH
+, 2004-2006
+Assistant Professor of Emergency Medicine, University of Colorado Health Science Center, Denver, Colorado
+Steven Wall, MD, MPH
+, 2001-2003
+Assistant Professor of Clinical Emergency Medicine, Assistant Professor, Department of Epidemiology & Population Health, Albert Einstein College of Medicine of Yeshiva University, Jacobi Medical Center, Bronx, NY
+Frank Day, MD, MPH
+, 1999-2001
+Associate Clinical Professor of Emergency Medicine, West Los Angles VA Medical Center, David Geffen School of Medicine at UCLA
+Richelle J. Cooper, MD, MSHS
+, 1998-2000
+Clinical Professor of Emergency Medicine, David Geffen School of Medicine at UCLA
+Thomas Lee, MD
+, 1997-1999
+Clinical Professor of Emergency Medicine, David Geffen School of Medicine at UCLA
+Director, Antelope Valley Emergency Medicine Associates
+Frederick J. Beddingfield, III, MD, PhD
+, 1996-1999
+Assistant Clinical Professor of Dermatology, David Geffen School of Medicine at UCLA
+Medical Director, Skin Care Pharmaceuticals, Clinical Research and Development, Allergan, Inc.
+Adjunct Staff, Health Sciences The RAND Corporation
+Eric Salk, MD, MPH
+, 1995-1997
+Assistant Clinical Professor of Surgery/Emergency Medicine, Yale University School of Medicine
+Medical Director of Emergency Services, The Charlotte Hungerford Hospital, Torrington, CT
+Carolyn Sachs, MD, MPH
+, 1994-1996
+Clinical Professor of Emergency Medicine, David Geffen School of Medicine at UCLA
+Knox Todd, MD, MPH
+, 1993-1994
+Professor and Department Chair, Department of Emergency Medicine, The University of Texas MD Anderson, Houston, TX
+Scott Krishel, MD, MPH
+, 1992-1994
+Emergency Physician, Kaiser Permamente Hospital, San Diego, CA
+William L. Mower, MD, PhD
+, 1991-1993
+Professor of Emergency Medicine, David Geffen School of Medicine at UCLA
+David L. Schriger, MD, MPH
+, 1988-1990
+Professor and Vice Chair of Emergency Medicine, David Geffen School of Medicine at UCLA
+Ira Gold, MD, MPH
+, 1983-1986
+Research Director, Illinois Masonic Medical Center, University of Illinois College of Medicine
+Sherman Podolsky, MD
+, 1982-1983
+President, PhyAmerica Physician Services of Florida Inc.
+Fred Einesman, MD
+, 1981-1982
+Emergency Physician, Cedars Sinai Medical Center
+TV Producer
+Edward Geehr, MD
+, 1980-1981
 Chief Medical Officer, LifeScript, Mission Viejo, CA
-<p>&nbsp;</p>
-</div>
-</section>
-</div>
-      
-    </div>
-  </div>
-<div class="block block-layout-builder block-extra-field-blocknodepagelinks">
-  
-    
-      <div class="content">
-      
-
-
-    </div>
-  </div>
-
-    </div>
-  </div>
-
-
-    </div>
-  </div>
-
-
-                </section>
-              </main>
-                                  </div>
-        </div>
-          </div>
-        <footer class="site-footer">
-              <div class="container-fluid">
-          		<div class="site-footer text-center">
-		  <div class="content">
-			<p>UCLA Emergency Medicine<br><br>1100 Glendon Avenue, Suite 1200<br>Los Angeles, California 90024<br><br>© 2024</p>
-			</div>
-		  </div>
-		  <div class="text-center text-light" style="font-size: 13px;"><div id="content-d"><a href="https://www.uclahealth.org/emergency-medicine/" target="self">Department of Emergency Medicine</a> | <a href="https://medschool.ucla.edu/" target="self">David Geffen School of Medicine at UCLA</a> | <a href="https://www.uclahealth.org" target="self">UCLA Health</a></div></div>
-        </div>
-          </footer>
-  </div>
-</div>
-
-  </div>
-
-    
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/47","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"superfish":{"superfish-main":{"id":"superfish-main","sf":{"delay":"750","animation":{"opacity":"show","height":"show","width":"show"}},"plugins":{"touchscreen":{"behaviour":"0","mode":"useragent_predefined"},"smallscreen":{"mode":"window_width","breakpoint":780,"accordionButton":"0","title":" "},"supposition":true,"supersubs":true}}},"user":{"uid":0,"permissionsHash":"c3eba8529a21c064539869cbbc885a306d6172d928c7ceb51188c8f17b67cd4d"}}</script>
-<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
-<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
-<script src="/core/misc/drupalSettingsLoader.js?v=10.2.2"></script>
-<script src="/core/misc/drupal.js?v=10.2.2"></script>
-<script src="/core/misc/drupal.init.js?v=10.2.2"></script>
-<script src="/themes/bootstrap_barrio/js/barrio.js?v=10.2.2"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
-<script src="//stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
-<script src="/themes/bootstrap_barrio/subtheme/js/global.js?v=10.2.2"></script>
-<script src="/modules/extlink/extlink.js?v=10.2.2"></script>
-<script src="/libraries/drupal-superfish/superfish.js?s8yljn"></script>
-<script src="/libraries/drupal-superfish/jquery.hoverIntent.minified.js?s8yljn"></script>
-<script src="/libraries/drupal-superfish/sftouchscreen.js?s8yljn"></script>
-<script src="/libraries/drupal-superfish/sfsmallscreen.js?s8yljn"></script>
-<script src="/libraries/drupal-superfish/supposition.js?s8yljn"></script>
-<script src="/libraries/drupal-superfish/supersubs.js?s8yljn"></script>
-<script src="/modules/superfish/js/superfish.js?v=2.0"></script>
-<script src="/libraries/bootstrap/js/bootstrap.min.js?s8yljn"></script>
-
-  <script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=15&cb=292154084" async></script></body>
-</html>
+UCLA Emergency Medicine
+1100 Glendon Avenue, Suite 1200
+Los Angeles, California 90024
+© 2024
+Department of Emergency Medicine
+|
+David Geffen School of Medicine at UCLA
+|
+UCLA Health

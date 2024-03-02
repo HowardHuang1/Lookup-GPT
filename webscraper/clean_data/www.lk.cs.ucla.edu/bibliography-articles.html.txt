@@ -1,2559 +1,1736 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Leonard Kleinrock's Bibliography: Journals and Conferences</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="description" content="" /><meta name="keywords" content="" /><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><link rel="stylesheet" href="/css/site.css" type="text/css" /><script type="text/javascript">var PREFIX="/";</script><script type="text/javascript" src="/js/site.js"></script></head><body><div class="min-width"><div class="shapka"><div class="shapka_left"><div class="logo"><a href="/index.html"><img class="logo_image" src="/images/logo.jpeg" title="University of California, Los Angeles (UCLA)" /></a></div></div><div class="shapka_right"><div class="shapka_picture"><img src="/data/images/Kleinrock%20016%20second%20crop.jpg" alt="Leonard Kleinrock" /></div></div></div><div class="menubar"><div class="dotline" /><table class="iehacktable" border="0" width="100%" cellpadding="0" cellspacing="1px" style="margin-top: 5px;"><tr><td class="glink" style="width: 20%"><ul class="menulist" id="menu_24" ><li>
-		<a class="main" href="/press.html" >In the Press</a>
-	
-		<ul>
-		
-				<li>
-		<a  href="/articles.html" >Articles</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/videos.html" >Videos</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/external_links.html" >External links</a>
-	
-		<ul>
-			</ul>
-	</li>
-			</ul>
-	</li>
-</ul></td><td width="5px"><div class="dotcolumn" style="height:25px" /></td><td class="glink" style="width: 20%"><ul class="menulist" id="menu_1" ><li>
-		<a class="main" href="/index.html" >About</a>
-	
-		<ul>
-		
-				<li>
-		<a  href="/awards.html" >Awards</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/profile.html" >Profile</a>
-	
-		<ul>
-			</ul>
-	</li>
-			</ul>
-	</li>
-</ul></td><td width="5px"><div class="dotcolumn" style="height:25px" /></td><td class="glink_s" style="width: 20%"><ul class="menulist" id="menu_5" ><li>
-		<a class="main" href="/publications.html" >Publications</a>
-	
-		<ul>
-		
-				<li>
-		<a  href="/bibliography-books.html" >Books</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-book_chapters.html" >Book Chapters</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-articles.html" >Journals and Conferences</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-service_reports.html" >Commitee Reports</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-patents.html" >Patents</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-public_reports.html" >Public Reports</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-press_releases.html" >Press Releases</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-white_papers.html" >White Papers</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-tutorials.html" >Tutorials</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-presentations.html" >Presentations</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-reviews.html" >Reviews</a>
-	
-		<ul>
-			</ul>
-	</li>
-			</ul>
-	</li>
-</ul></td><td width="5px"><div class="dotcolumn" style="height:25px" /></td><td class="glink" style="width: 20%"><ul class="menulist" id="menu_6" ><li>
-		<a class="main" href="/internet_first_words.html" >History</a>
-	
-		<ul>
-			</ul>
-	</li>
-</ul></td><td width="5px"><div class="dotcolumn" style="height:25px" /></td><td class="glink" style="width: 20%"><ul class="menulist" id="menu_69" ><li>
-		<a class="main" href="http://twitter.com/kleinrock/" target="_blank"}>Twitter</a>
-	
-		<ul>
-			</ul>
-	</li>
-</ul></td><td width="5px"><div class="dotcolumn" style="height:25px" /></td><td class="glink lastmenu" style="width: 20%"><ul class="menulist" id="menu_7" ><li>
-		<a class="main" href="/students.html" >Students</a>
-	
-		<ul>
-			</ul>
-	</li>
-</ul></td><td class="glink" style="width:100px"><ul class="menulist" id="menuSpecial" ><li></tr></table><div class="dotline" /></div></div></div><div class="body"><table width="100%"><tr><td class="left"><div id='frame_1'> </div><br/><br/>
-
-		<div class="clear">
-	
-<a  href="/bibliography-books.html">
-Books</a> 
-
-<br/>
-<div class="dotline"></div>
-	</div>
-			<div class="clear">
-	
-<a  href="/bibliography-book_chapters.html">
-Book Chapters</a> 
-
-<br/>
-<div class="dotline"></div>
-	</div>
-			<div class="clear">
-	<b>Journals and Conferences</b> <br/>
-<div class="dotline"></div>
-	</div>
-			<div class="clear">
-	
-<a  href="/bibliography-service_reports.html">
-Commitee Reports</a> 
-
-<br/>
-<div class="dotline"></div>
-	</div>
-			<div class="clear">
-	
-<a  href="/bibliography-patents.html">
-Patents</a> 
-
-<br/>
-<div class="dotline"></div>
-	</div>
-			<div class="clear">
-	
-<a  href="/bibliography-public_reports.html">
-Public Reports</a> 
-
-<br/>
-<div class="dotline"></div>
-	</div>
-			<div class="clear">
-	
-<a  href="/bibliography-press_releases.html">
-Press Releases</a> 
-
-<br/>
-<div class="dotline"></div>
-	</div>
-			<div class="clear">
-	
-<a  href="/bibliography-white_papers.html">
-White Papers</a> 
-
-<br/>
-<div class="dotline"></div>
-	</div>
-			<div class="clear">
-	
-<a  href="/bibliography-tutorials.html">
-Tutorials</a> 
-
-<br/>
-<div class="dotline"></div>
-	</div>
-			<div class="clear">
-	
-<a  href="/bibliography-presentations.html">
-Presentations</a> 
-
-<br/>
-<div class="dotline"></div>
-	</div>
-			<div class="clear">
-	
-<a  href="/bibliography-reviews.html">
-Reviews</a> 
-
-<br/>
-<div class="dotline"></div>
-	</div>
-	</td><td class="right"><div id='frame_0'><h1>
-	Papers Published in Professional and Scholarly Journals and in Procedings of Conferences and Symposia</h1>
-<p>
-	<div id='frame_0'> </div>
-<ol>
-<li style="margin-top:14px">
-	C. Ferguson and <b>L. Kleinrock</b>, &quot;Optimal Update Times for Stale Information Metrics Including the Age of Information,&quot; <em>IEEE Journal on Selected Areas in Information Theory</em>, vol. 4, pp. 734&ndash;746, December  2023. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Optimal%20Update%20Times%20for%20Stale%20Information%20Metrics%20Including%20Age%20of%20Information.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=402" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	Z. He and <b>L. Kleinrock</b>, &quot;Optimization of Assisted Search Over Server-Mediated Peer-to-peer Networks,&quot; in <em>IEEE Globecom 2022</em>, Rio de Janeiro, Brazil, December  2022. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Optimization%20of%20Assisted%20Search%20Over%20Server-Mediated%20Peer-to-peer%20Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=400" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, R. Ostrovsky, and V. Zikas, &quot;Proof-of-Reputation Blockchain with Nakamoto Fallback,&quot; <em>INDOCRYPT 2020</em>, 2020. 
-	&nbsp;
-		<a target="_blank" href="https://eprint.iacr.org/2020/381.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=396" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;To Mario Gerla, the Maestro of Networks,&quot; <em>Ad Hoc Networks</em>, vol. 88, pp. 178&ndash;179, May  2019. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Mario%20Gerla%20tribute%20by%20Len.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=391" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Internet Congestion Control Using the Power Metric: Keep the Pipe Just Full, But No Fuller,&quot; <em>Ad Hoc Networks</em>, pp. 142&ndash;157, November  2018. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Internet%20congestion%20control%20using%20the%20power%20metric%20LK%20Mod%20aug%202%202018.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=389" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Laufer and <b>L. Kleinrock</b>, &quot;The Capacity of Wireless CSMA/CA Networks,&quot; <em>IEEE/ACM Transactions on Networking</em>, vol. 24, no. 3, pp. 1518&ndash;1532, June  2016. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Laufer/The%20Capacity%20of%20Wireless%20CSMA_CA%20Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=383" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	L. Fratta, M. Gerla, and <b>L. Kleinrock</b>, &quot;Flow Deviation: 40 years of incremental flows for packets, waves, cars and tunnels,&quot; <em>Computer Networks</em>, vol. 66, pp. 18&ndash;31, June  2014. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Flow%20Deviation%20paper%2040%20years%20later.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=366" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Laufer and <b>L. Kleinrock</b>, &quot;On the Capacity of Wireless CSMA/CA Multihop Networks,&quot; <em>INFOCOM</em>, 2013. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Capacity%20of%20Wireless%20CSMA%20CA.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=364" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	N. Nguyen  <b>L. Kleinrock</b> and P. Reiher, &quot;Debugging Ubiquitous Computing Applications With the Interaction Analyzer,&quot; <em>International Journal on Advances in Software</em>, vol. 5, no. 34, pp. 345&ndash;357, December  2012. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Interaction%20Analyzer%20journal%20paper%20final%202012.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=390" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	V. Pournaghshband, <b>L. Kleinrock</b>, P. Reiher, and A. Afanasyev, &quot;Controlling Applications by Managing Network Characteristics,&quot; <em>Proceedings of IEEE ICC 2012 Communication and Information Systems Security Symposium</em>, June  2012. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/dissuade_1.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=360" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Laufer, P. B. Velloso, L. F. M. Vieira, and <b>L. Kleinrock</b>, &quot;PLASMA: A New Routing Paradigm for Wireless Multihop Networks,&quot; <em>IEEE INFOCOM '2012 Mini-Conference, Orlando, USA</em>, March, 2012. 
-	&nbsp;
-		<a target="_blank" href="http://www.cs.ucla.edu/~rlaufer/publications/infocom12.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=361" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Laufer, H. Dubois-Ferriere, and <b>L. Kleinrock</b>, &quot;Polynomial-Time Algorithms for Multirate Anypath Routing in Wireless Multihop Networks,&quot; <em>IEEE/ACM Transactions on Networking, Vol 20 No. 3, pp. 743-755</em>, June 2012. 
-	&nbsp;
-		<a target="_blank" href="http://www.cs.ucla.edu/~rlaufer/publications/ton12.pdfton12.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=363" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	M. Gerla and <b>L. Kleinrock</b>, &quot;Vehicular networks and the future of the mobile internet,&quot; <em>Computer Networks</em>, vol. 55, no. 2, pp. 457&ndash;469, February  2011. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Gerla/Vehicular%20networks%20by%20gerla%20and%20kleinrock%202011.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=381" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	N. Nguyen, <b>L. Kleinrock</b>, and P. Reiher, &quot;The Interaction Analyzer: A Tool for Debugging Ubiquitous Computing Applications,&quot; <em>Ubicomm</em>, pp. 138&ndash;144, 2011. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Interaction%20Analyzer%20Published%20version%202011.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=356" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;An early history of the internet [History of Communications],&quot; <em>Communications Magazine, IEEE</em>, vol. 48, no. 8, pp. 26&ndash;36, August  2010. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/An%20Early%20History%20Of%20The%20Internet.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=350" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	A. Afanasyev, N. Tilley, P. Reiher, and <b>L. Kleinrock</b>, &quot;Host-to-host congestion control for TCP,&quot; <em>IEEE Communication Surveys and Tutorials</em>, vol. 12, no. 3, pp. 304&ndash;342, 2010. Best Tutorial Paper Award for 5-year period from 2006-2010
-	&nbsp;
-		<a target="_blank" href="/data/files/Afanasyev/Host-to-host%20congestion%20control%20for%20TCP.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=348" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Laufer, H. Dubois-Ferriere, and <b>L. Kleinrock</b>, &quot;Multirate Anypath Routing in Wireless Mesh Networks,&quot; in <em>INFOCOM 2009, IEEE</em>, April  2009, pp. 37&ndash;45. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Laufer/Multirate%20Anypath%20Routing%20in%20Wireless%20Mesh%20Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=326" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	V. Ramakrishna, P. Reiher, and <b>L. Kleinrock</b>, &quot;Distributed policy resolution through negotiation in ubiquitous computing environments,&quot; in <em>Proceedings of IEEE International Conference on Pervasive Computing and Communications (PerCom)</em>, March  2009, pp. 1&ndash;10. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Ramakrishna/Distributed%20policy%20resolution%20through%20negotiation%20in%20ubiquitous%20computing%20environments.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=330" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	C. Kolias and <b>L. Kleinrock</b>, &quot;Multiple Input Queueing in Packet Switches,&quot; <em>IEEE Communications Letters</em>, vol. 12, no. 3, pp. 209&ndash;209, March  2008. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kolias/Multiple Input Queueing in Packet Switches.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=324" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;History of the Internet and Its Flexible Future,&quot; <em>IEEE Wireless Communications</em>, pp. 8&ndash;18, February  2008. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/History%20of%20the%20Internet%20and%20Its%20Flexible%20Future.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=283" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	G. Marfia, A. Sentivelli, S. Tewari, M. Gerla, and <b>L. Kleinrock</b>, &quot;Will IPTV Ride the Peer-to-Peer Stream?,&quot; <em>IEEE Communications Magazine Special Issue on Peer-to-Peer Streaming</em>, June  2007. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Marfia/Will%20IPTV%20Ride%20the%20Peer-to-Peer%20Stream?.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=282" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	S. Tewari and <b>L. Kleinrock</b>, &quot;Analytical Model for BitTorrent-Based Live Video Streaming,&quot; in <em>Proceedings of IEEE NIME 2007 Workshop</em>, Las Vegas, NV, January  2007. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Tewari/Analytical Model for BitTorrent-Based Live Video.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=280" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	S. Tewari and <b>L. Kleinrock</b>, &quot;Optimal Search Performance in Unstructured Peer-to-Peer Networks with Clustered Demands,&quot; <em>IEEE Journal on Selected Areas in Communications</em>, vol. 25, no. 1, January  2007. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Tewari/Optimal Search Performance in Unstructured Peer-to-Peer0.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=281" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	S. Das, S. Tewari, and <b>L. Kleinrock</b>, &quot;The Case for Servers in a Peer-to-Peer World,&quot; in <em>Proceedings of IEEE ICC 2006</em>, Istanbul, Turkey, June  2006. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Das/The Case for Servers in a Peer-to-Peer World.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=278" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	S. Tewari and <b>L. Kleinrock</b>, &quot;Optimal Search Performance in Unstructured Peer-to-Peer Networks with Clustered Demands,&quot; in <em>Proceedings of IEEE ICC 2006</em>, Istanbul, Turkey, June  2006. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Tewari/Optimal Search Performance in Unstructured Peer-to-Peer.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=279" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	S. Tewari and <b>L. Kleinrock</b>, &quot;Proportional Replication in Peer-to-Peer Networks,&quot; in <em>Proceedings of IEEE INFOCOM 2006</em>, Barcelona, Spain, April  2006. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Tewari/Proportional Replication in Peer-to-Peer Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=277" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	A. Nandan, S. Tewari, S. Das, and <b>L. Kleinrock</b>, &quot;Modeling Epidemic Query Dissemination in AdTorrent Network,&quot; in <em>Proceedings of IEEE NIME 2006 Workshop</em>, Las Vegas, NV, January  2006. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Nandan/Modeling Epidemic Query Dissemination in AdTorrent.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=275" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	A. Nandan, S. Tewari, S. Das, M. Gerla, and <b>L. Kleinrock</b>, &quot;AdTorrent: Delivering Location Cognizant Advertisements to Car Networks,&quot; in <em>Proceedings of IEEE/IFIP WONS 2006</em>, Les Menuires, France, January  2006. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Nandan/AdTorrent Delivering Location Cognizant Advertisements.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=276" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;A Vision for the Internet,&quot; <em>ST Journal for Research</em>, vol. 2, no. 1, pp. 4&ndash;5, November  2005. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/A Vision for the Internet.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=273" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	S. Tewari and <b>L. Kleinrock</b>, &quot;Search Time in Unstructured Peer-to-Peer Networks with Clustered Demands,&quot; in <em>Proceedings of IEEE GLOBECOM 2005</em>, St Louis, MO, November  2005. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Tewari/Search Time in Unstructured Peer-to-Peer Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=274" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	S. Tewari and <b>L. Kleinrock</b>, &quot;Analysis of Search and Replication in Unstructured Peer-to-Peer Networks,&quot; in <em>Proceedings of ACM SIGMETRICS 2005</em>, Banff, Canada, June  2005. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Tewari/Analysis of Search and Replication in Unstructured Peer-to-Peer.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=272" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	S. Tewari and <b>L. Kleinrock</b>, &quot;On Fairness, Optimal Download Performance and Proportional Replication in Peer-to-Peer Networks,&quot; in <em>Proceedings of IFIP Networking 2005</em>, Waterloo, Canada, May  2005. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Tewari/On Fairness, Optimal Download Performance and Proportional.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=271" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;The Internet Rules of Engagement: Then and Now,&quot; <em>Elsevier Ltd</em>, pp. 193&ndash;207, April-August  2004. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/The Internet Rules of Engagement Then and Now.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=270" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	K. Eustice, <b>L. Kleinrock</b>, S. Markstrum, G. Popek, V. Ramakrishna, and P. L. Reiher, &quot;Securing WiFi Nomads: The Case for Quarantine, Examination, and Decontamination,&quot; in <em>New Security Paradigms Workshop (NSPW)</em>, August  2003. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Eustice/Securing WiFi Nomads The Case for Quarantine,.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=269" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;An Internet Vision: The Invisible Global Infrastructure,&quot; <em>AdHoc NETWORKS JOURNAL</em>, vol. 1, no. 1, pp. 3&ndash;11, July  2003.. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/An Internet Vision The Invisible Global Infrastructure.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=268" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	K. Eustice, <b>L. Kleinrock</b>, S. Markstrum, G. J. Popek, V. Ramakrishna, and P. L. Reiher, &quot;Enabling Secure Ubiquitous Interactions,&quot; in <em>Proceedings of Middleware 2003 Workshop</em>, June  2003, pp. 76&ndash;80. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Eustice/Enabling Secure Ubiquitous Interactions.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=267" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Iyer and <b>L. Kleinrock</b>, &quot;QoS Control for Sensor Networks,&quot; in <em>Proceedings of ICC'03</em>, Anchorage, Alaska, May  2003, pp. 517&ndash;521. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Iyer/QoS Control for Sensor Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=266" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Creating a Mathematical Theory of Computer Networks,&quot; <em>INFORMS, Operations Research</em>, vol. 50, no. 1, pp. 125&ndash;131, January-February  2002. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Creating a Mathematical Theory of Computer Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=265" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	I. F. Akyildiz, D. J. Goodman, and <b>L. Kleinrock</b>, &quot;Guest Editorial: Mobility and Resource Management in Next Generation Wireless Systems,&quot; <em>IEEE Journal on Selected Areas in Communications</em>, vol. 19, no. 1825--1830, October  2001. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Akyildiz/Guest Editorial Mobility and Resource Management.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=264" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Breaking Loose,&quot; <em>Communications of the ACM</em>, vol. 44, no. 9, pp. 41&ndash;45, September  2001. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Breaking Loose.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=263" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;On Some Principles of Nomadic Computing and Multi-Access Communications,&quot; <em>IEEE Communications Magazine</em>, pp. 46&ndash;50, July  2000. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/On Some Principles of Nomadic Computing and Multi-Access.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=262" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	Z. Jiang and <b>L. Kleinrock</b>, &quot;A Packet Selection Algorithm for Adaptive Transmission of Smoothed Video over a Wireless Channel,&quot; <em>IEEE Journal of Parallel and Distributed Computing</em>, vol. 60, no. 4, pp. 494&ndash;509, April  2000. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Jiang/A Packet Selection Algorithm for Adaptive Transmission.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=261" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	B. R. Badrinath, A. Fox, <b>L. Kleinrock</b>, G. J. Popek, P. L. Reiher, and M. Satyanarayanan, &quot;A Conceptual Framework for Network and Client Adaptation,&quot; <em>Mobile Networks and Applications (MONET)</em>, vol. 5, no. 4, pp. 221&ndash;231, 2000. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Badrinath/A Conceptual Framework for Network and Client Adaptation.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=259" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Nomadic Computing and Smart Spaces,&quot; <em>IEEE Internet Computing</em>, vol. 4, no. 1, pp. 52&ndash;53, January--February  2000. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Nomadic Computing and Smart Spaces.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=260" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	C. Kolias and <b>L. Kleinrock</b>, &quot;Performance Analysis of Multiplane Nonblocking ATM Switches,&quot; in <em>Proceedings of Globecom'98</em>, Sydney, Australia, November  1998, pp. 356&ndash;362. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kolias/Performance Analysis of Multiplane Nonblocking ATM Switches.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=257" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	C. Kolias and <b>L. Kleinrock</b>, &quot;The Power Function as a Performance and Comparison Measure for ATM Switches,&quot; in <em>Proceedings of Globecom'98</em>, Sydney, Australia, November  1998, pp. 381&ndash;386. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kolias/The Power Function as a Performance and Comparison Measure.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=258" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	Z. Jiang and <b>L. Kleinrock</b>, &quot;Web Prefetching in a Mobile Environment,&quot; <em>IEEE Personal Communications</em>, vol. 5, pp. 25&ndash;34, October  1998. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Jiang/Web Prefetching in a Mobile Environment.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=256" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	C. Kolias and <b>L. Kleinrock</b>, &quot;On the Odd-Even ATM Switch,&quot; <em>Electronics Letters</em>, vol. 34, no. 6, pp. 576&ndash;577, March  1998. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kolias/On%20the%20Odd-Even%20ATM%20Switch.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=253" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	Z. Jiang and <b>L. Kleinrock</b>, &quot;A General Optimal Video Smoothing Algorithm,&quot; in <em>Proceedings of INFOCOM'98</em>, San Francisco, CA, March 29-April 2,  1998. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Jiang/A General Optimal Video Smoothing Algorithm.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=254" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	C. Kolias and <b>L. Kleinrock</b>, &quot;The Odd-Even ATM Switch,&quot; <em>IEICE Transactions on Communications</em>, vol. E81B, no. 2, pp. 244&ndash;250, February  1998. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kolias/The Odd-Even ATM Switch.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=252" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	Z. Jiang and <b>L. Kleinrock</b>, &quot;An Adaptive Network Prefetch Scheme,&quot; <em>IEEE Journal on Selected Areas in Communications</em>, vol. 16, no. 3, pp. 358&ndash;368, 1998. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Jiang/An Adaptive Network Prefetch Scheme.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=255" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Nomadic Computing,&quot; in <em>Selected Proceedings of Third INFORMS Telecommunications Conference (Keynote Address), (Conference date March 20-22, 1995)</em>, Boca Raton, Florida, June  1997, pp. 5&ndash;15. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Nomadic%20Computing0.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=246" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	Z. Jiang and <b>L. Kleinrock</b>, &quot;Prefetching Links on the WWW,&quot; in <em>Proceedings of ICC'97</em>, Montreal Canada, June 8-12,  1997, pp. 483&ndash;489. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Jiang/Prefetching Links on the WWW.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=247" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	P-C. Hu and <b>L. Kleinrock</b>, &quot;An Analytical Model for Wormhole Routing with Finite Size Input Buffers,&quot; in <em>Proceedings of 15th International Teletraffic Congress</em>, Washington, DC, June 23-27,  1997, pp. 549&ndash;560. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Hu/An%20Analytical%20Model%20for%20Wormhole%20Routing%20with.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=248" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	C. Kolias and <b>L. Kleinrock</b>, &quot;The Dual-Banyan (DB) Switch: A High Performance Buffered-Banyan ATM Switch,&quot; in <em>ICC'97</em>, Montreal, Canada, June  1997, pp. 770&ndash;776. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kolias/The Dual-Banyan (DB) Switch A High Performance.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=249" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	P-C. Hu and <b>L. Kleinrock</b>, &quot;A Dynamic Timeout Scheme for Wormhole Routing Networks,&quot; in <em>Proceedings of ICC'97</em>, Montreal, Canada, June  1997, pp. 1406&ndash;1410. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Hu/A Dynamic Timeout Scheme for Wormhole Routing.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=250" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	B. Leiner, V. Cerf, D. Clark, R. Kahn, <b>L. Kleinrock</b>, D. Lynch, J. Postel, L. Roberts, and S.Wolff, &quot;Past and Future History of the Internet,&quot; <em>Communications of the ACM</em>, vol. 40, no. 2, pp. 102&ndash;108, February  1997. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Leiner/Past and Future History of the Internet.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=245" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	B. Kwan, P-C. Hu, B. N., and K. L. &quot;Best-Effort Bandwidth Reservation in High-Speed LANs Using Wormhole Routing,&quot; in <em>Proceedings of the Fifth International Conference on Computer Communications and Networks</em>, Rockville, MD, October 16-19,  1996, pp. 201&ndash;206. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kwan/Best-Effort%20Bandwidth%20Reservation%20in%20High-Speed%20LANs.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=241" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	P. Hu and <b>L. Kleinrock</b>, &quot;A Simple Host Deflection Scheme for High-Speed LANs Using Wormhole Routing,&quot; in <em>Proceedings of ICNP'96, (International Conference on Network Protocols)</em>, Columbus, OH, October 29--November 1,  1996, pp. 124&ndash;131. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Hu/A%20Simple%20Host%20Deflection%20Scheme%20for%20High-Speed.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=243" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	C. Kolias and <b>L. Kleinrock</b>, &quot;The Odd-Even Input-Queueing ATM Switch: Performance Evaluation,&quot; in <em>Proceedings of ICC'96</em>, June 23-27,  1996, pp. 1674&ndash;1679. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kolias/The Odd-Even Input-Queueing ATM Switch Performance Evaluation.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=239" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Nomadic Computing,&quot; in <em>Information Network and Data Communication, IFIP/ICCC International Conference on Information Network and Data Communication</em>, Trondheim, Norway, June  1996, pp. 223&ndash;233. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Nomadic Computing.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=240" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<a href="http://books.nap.edu/openbook.php?record_id=5903&page=36" target="_blank"><img src='/images/extensions/html.png' style='margin:0 5px 0 0; ' /></a> <b>L. Kleinrock</b> and J. Major, &quot;Computing and Communications Unchained: The Virtual World,&quot; in <em>Proceedings of CSTB's 10th Anniversary Symposium - Defining a Decade</em>, Washington, DC, May  1996, pp. 36&ndash;46. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/computing_and_communications_unchained_the_virtual_world.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=251" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	B. Tung and <b>L. Kleinrock</b>, &quot;Using Finite State Automata to Produce Self-Optimization and Self Control,&quot; <em>IEEE Transactions on Parallel and Distributed Systems</em>, vol. 7, no. 4, pp. 439&ndash;448, April  1996. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Tung/Using Finite State Automata to Produce.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=237" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	A. Alwan, R. Bagrodia, N. Bambos, M. Gerla, <b>L. Kleinrock</b>, J. Short, and J. Villasenor, &quot;Adaptive Mobile Multimedia Networks,&quot; <em>IEEE Personal Communications Magazine</em>, vol. 3, no. 2, pp. 34&ndash;49, April  1996. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Alwan/Adaptive Mobile Multimedia Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=238" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	N. Bambos, J. Bannister, C. J. L. Bergman, E. Gafni, M. Gerla, <b>L. Kleinrock</b>, S. Monacos, P-C. Hu, B. Kannan, B. Kwan, P. Palnati, J. Peck, and S. Walton, &quot;The Supercomputer Supernet (SSN): A High-Speed Electro-Optic Campus and Metropolitan Network,&quot; in <em>SPIE Conference</em>, February  1996, pp. 22&ndash;33. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Bambos/The%20Supercomputer%20Supernet%20(SSN)%20A%20High-Speed%20Electro-Optic.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=235" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	C. Kolias and <b>L. Kleinrock</b>, &quot;Throughput Analysis of Multiple Input-Queueing in Atm Switches,&quot; in <em>IFIP-IEEE Broadband Communications</em>,  1996, pp. 382&ndash;393. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kolias/Throughput%20Analysis%20of%20Multiple%20Input-Queueing%20in%20Atm%20Switches.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=234" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, M. Gerla, N. Bambos, J. Cong, E. Gafni, L. Bergman, J. Bannister, S. Monacos, T. Bujewski, P. -C. Hu, B. Kannan, B. Kwan, E. Leonardi, J. Peck, P. Palnati, and S. Walton, &quot;The Supercomputer Supernet Testbed: A WDM Based Supercomputer Interconnect,&quot; <em>JSAC/JLT Special Issue on Optical Technologies &amp; Networks</em>, vol. 14, no. 6, pp. 1388&ndash;1399, 1996. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/The Supercomputer Supernet Testbed A WDM Based Supercomputer.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=236" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Jain, A. Alwan, M. Gerla, <b>L. Kleinrock</b>, J. Villasenor, B.Belzer, W.Boring, S. Molloy, S. Nazareth, M. Siequeira, J. Short, and J. Tsai, &quot;Multimedia Wireless Networking,&quot; in <em>Proceedings SPIE'96</em>,  1996. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Jain/Multimedia%20Wireless%20Networking.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=242" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Nomadicity: Anytime, Anywhere in a Disconnected World,&quot; <em>Mobile Networks and Applications (invited paper)</em>, vol. 1, no. 4, pp. 351&ndash;357, January  1996. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Nomadicity%20Anytime,%20Anywhere%20in%20a%20Disconnected%20World.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=244" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Bagrodia, M. Gerla, <b>L. Kleinrock</b>, J. Short, and T-C. Tsai, &quot;A Hierarchical Simulation Environment for Mobile Wireless Networks,&quot; in <em>Proceedings of the Winter Simulation Conference</em>, December 3-6,  1995, pp. 563&ndash;570. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Bagrodia/A Hierarchical Simulation Environment for Mobile Wireless.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=231" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Bagrodia, W. Chu, <b>L. Kleinrock</b>, and G. Popek, &quot;Vision, Issues, and Architecture for Nomadic Computing,&quot; <em>IEEE Personal Communications</em>, pp. 14&ndash;27, December  1995. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Bagrodia/Vision, Issues, and Architecture for Nomadic Computing.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=232" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	J. Short, R. Bagrodia, and <b>L. Kleinrock</b>, &quot;Mobile Wireless Network System Simulation,&quot; in <em>Proceedings of ACM Mobile Computing &amp; Networking Conference (Mobicom 95)</em>, November  1995, pp. 195&ndash;209. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Short/Mobile Wireless Network System Simulation.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=230" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Jain, J. Short, <b>L. Kleinrock</b>, and J. Villasenor, &quot;PC-Notebook Based Mobile Networking: Algorithms, Architectures and Implementations,&quot; in <em>Proceedings of ICC'95</em>, June  1995. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Jain/PC-Notebook%20Based%20Mobile%20Networking%20Algorithms,.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=229" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	P-C. Hu and <b>L. Kleinrock</b>, &quot;A Queueing Model for Wormhole Routing with Timeout,&quot; in <em>Proceedings of the Fourth International Conference on Computer Communications and Networks, ICCCN'95</em>, May  1995, pp. 584&ndash;593. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Hu/A Queueing Model for Wormhole Routing with.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=228" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Nomadic Computing---an Opportunity,&quot; <em>ACM SIGCOMM, Computer Communication Review</em>, vol. 25, no. 1, pp. 36&ndash;40, January  1995. (ACM SIGCOMM Test of Time Paper Award)
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Nomadic%20Computing---an%20Opportunity.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=226" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	J. Short, R. Bagrodia, and <b>L. Kleinrock</b>, &quot;Mobile Wireless Network System Simulation,&quot; <em>Wireless Networks Journal</em>, vol. 1, no. 4, pp. 451&ndash;467, 1995. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Short/Mobile%20Wireless%20Network%20System%20Simulation0.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=233" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, M. Gerla, N. Bambos, J. Cong, E. Gafni, L. Bergman, and J. Bannister, &quot;The Supercomputer Supernet: A Scalable Distributed Terabit Network,&quot; <em>Journal of High Speed Networks, Special Issue on Optical Networks</em>, vol. 4, no. 4, pp. 407&ndash;424, 1995. 
-	&nbsp;
-		<a target="_blank" href="/data/files/The%20Supercomputer%20Supernet-%20A%20Scalable%20Distributed%20Terabit%20Netweork.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=386" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and D. Nielsen, &quot;Data Structures and Algorithms for Extended State Space and Structural Level Reduction of the GSPN Model,&quot; in <em>Proceedings of the International Conference on Application and Theory of Petri Nets</em>, Zaragoza, June 20-24,  1994. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Data%20Structures%20and%20Algorithms%20for%20Extended%20State.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=225" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;On the Modeling and Analysis of Computer Networks,&quot; <em>Special Issue of IEEE Proceedings</em>, pp. 1179&ndash;1191, August  1993. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/On the Modeling and Analysis of Computer Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=223" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	B. Tung and <b>L. Kleinrock</b>, &quot;Distributed Control Methods,&quot; in <em>Proceedings of the 2nd International Symposium on High Performance Distributed Computing</em>, Spokane, Washington, July 21-23,  1993, pp. 206&ndash;215. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Tung/Distributed Control Methods.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=222" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and W. Korfhage, &quot;Collecting Unused Processing Capacity: An Analysis of Transient Distributed Systems,&quot; <em>IEEE Transactions on Parallel and Distributed Systems</em>, pp. 535&ndash;546, May  1993. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Collecting%20Unused%20Processing%20Capacity%20An%20Analysis.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=221" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	J. H. Huang and <b>L. Kleinrock</b>, &quot;Performance Evaluation of Dynamic Sharing of Processors in Two-Stage Parallel Processing Systems,&quot; <em>IEEE Transactions on Parallel and Distributed Systems</em>, vol. 4, no. 3, pp. 306&ndash;317, March  1993. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Huang/Performance Evaluation of Dynamic Sharing of Processors.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=220" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	T-I. Lin and <b>L. Kleinrock</b>, &quot;Performance Analysis of the Finite-Buffered 'Turn-Back' Multistage Interconnection Network,&quot; in <em>Proceedings of the IFIP Workshop TC6</em>, La Martinique, French Carribean Island, January 25-27,  1993, pp. 3&ndash;22. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Lin/Performance%20Analysis%20of%20Finite-Buffered%20Multistage%20Interconnection%20Networks%20with%20a%20General%20Traffic%20Pattern.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=218" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	J. C. Lu and <b>L. Kleinrock</b>, &quot;A WDMA Protocol for Multichannel DQDB Networks,&quot; in <em>Proceedings of the GLOBECOM '93</em>, January  1993, pp. 149&ndash;153. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Lu/A WDMA Protocol for Multichannel DQDB Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=219" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Felderman and <b>L. Kleinrock</b>, &quot;Two Processor Time Warp Analysis: Capturing the Effects of Message Queueing and Rollback/State Saving Costs,&quot; <em>Memorial Issue for Felix Pollaczek. AEU special issue &quot;Teletraffic Theory and Engineering&quot;</em>, vol. 47, no. 5-6, pp. 353&ndash;367, September/November  1993. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Felderman/Two%20Processor%20Time%20Warp%20Analysis%20Capturing%20the%20Effects%20of%20Message%20Queueing%20and%20Rollback%20state%20Savings%20costs.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=224" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	J. Lu and <b>L. Kleinrock</b>, &quot;A Wavelength Division Multiple Access Protocol for High-Speed Local Area Networks with a Passive Star Topology,&quot; <em>Performance Evaluation</em>, vol. 16, no. 1-3, pp. 223&ndash;239, November  1992. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Lu/A%20Wavelength%20division%20multiple%20access%20protocol%20for%20high%20speed%20local%20area%20networks%20with%20a%20passive%20star%20topology.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=216" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	J. H. Huang and <b>L. Kleinrock</b>, &quot;Throughput Analysis and Protocol Design for CSMA and BTMA Protocols under Noisy Environment,&quot; <em>IEE Proceedings-I</em>, vol. 139, no. 3, pp. 289&ndash;296, June  1992. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Huang/Throughput Analysis and Protocol Design for CSMA.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=213" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and J. H. Huang, &quot;On Parallel Processing Systems: Amdahl's Law Generalized and Some Results on Optimal Design,&quot; <em>IEEE Transactions on Software Engineering, Special issue on Performance Evaluation Methodology (invited paper)</em>, vol. 18, no. 5, pp. 434&ndash;447, May  1992. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/On Parallel Processing Systems Amdahl's Law Generalized.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=212" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;The Latency/Bandwidth Tradeoff in Gigabit Networks,&quot; <em>IEEE Communications Magazine</em>, vol. 30, no. 4, pp. 36&ndash;40, April  1992. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/The%20Latency-Bandwidth%20Tradeoff%20in%20Gigabit%20Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=206" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	J. Lu and <b>L. Kleinrock</b>, &quot;An Access Protocol for High-Speed Optical LANs,&quot; in <em>Proceedings of the 20th Annual Computer Science Conference</em>, Kansas City, Missouri, March 3-5,  1992, pp. 287&ndash;293. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Lu/An%20Access%20Protocol%20for%20High-Speed%20Optical%20LANs.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=209" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	J. Lu and <b>L. Kleinrock</b>, &quot;On the Performance of Wavelength Division Multiple Access Networks,&quot; in <em>Proceedings of the ICC'92</em>, Chicago, IL,  1992, pp. 1151&ndash;1157. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Lu/On%20the%20Performance%20of%20Wavelength%20Division%20Multiple%20Access.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=210" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	S. Shen and <b>L. Kleinrock</b>, &quot;The Virtual Time Data Parallel Machine,&quot; in <em>Proceedings of the IEEE Computer Society 4th Symposium on the Frontiers of Massively Parallel Computation</em>, McLean, VA,  1992, pp. 46&ndash;53. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Shen/The Virtual Time Data Parallel Machine.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=211" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and F. Mehovic, &quot;Poisson Winner Queues,&quot; <em>Performance Evaluation</em>, vol. 14, no. 2, pp. 79&ndash;101, 1992. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Poisson%20winner%20queues.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=214" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	J. C. Lu and <b>L. Kleinrock</b>, &quot;Performance Analysis of Single-Hop Wavelength Division Multiple Access Networks,&quot; <em>Journal of High-Speed Networks</em>, vol. 1, no. 1, pp. 61&ndash;77, 1992. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Lu/Performance%20analysis%20of%20single%20hop%20wavelength%20division%20multiple%20access%20networks%20Lu%20and%20Kleinrock.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=215" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and R. Felderman, &quot;Two Processor Time Warp Analysis: A Unifying Approach,&quot; <em>International Journal in Computer Simulation</em>, vol. 2, no. 4, pp. 345&ndash;371, 1992. (Also UCLA Technical Report CSD-920034.)
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/A%20two%20processor%20time%20warp%20analysis%20A%20unifying%20approach.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=217" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	M. Horng and <b>L. Kleinrock</b>, &quot;Fault-Tolerant Routing with Regularity Restoration in Boolean N-Cube Interconnection Networks,&quot; in <em>Proceedings of the Third IEEE Symposium on Parallel and Distributed Processing</em>, Dallas, Texas, December 2-5,  1991, pp. 458&ndash;465. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Horng/Fault-Tolerant%20Routing%20with%20Regularity%20Restoration.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=205" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	M. Horng and <b>L. Kleinrock</b>, &quot;On the Performance of a Deadlock-Free Routing Algorithm for Boolean N-Cube Interconnection Networks with Finite Buffers,&quot; in <em>Proceedings of the International Conference on Parallel Processing</em>, Austin, TX, August 12-16,  1991, p. iii&ndash;228. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Horng/On%20the%20performance%20of%20a%20deadlock%20free%20routing%20algorithm%20for%20boolean%20nCube%20Interconnection%20networks%20with%20finite%20buffers.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=204" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Felderman and <b>L. Kleinrock</b>, &quot;Two Processor Conservative Simulation Analysis,&quot; in <em>Proceedings of the PADS Workshop</em>, Newport Beach, CA, June  1991. (Also, Information Science Institute Tech.Rept. ISI/RS-92-299)
-	&nbsp;
-		<a target="_blank" href="/data/files/Felderman/Two%20processor%20conservative%20simulation%20analysis.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=203" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	V. Harinarayan and <b>L. Kleinrock</b>, &quot;Load Sharing in Limited Access Distributed Systems,&quot; in <em>Proceedings of the ACM Sigmetrics, Conference on Measurement and Modeling of Computer Systems</em>, San Diego, CA, May 21-24,  1991, pp. 21&ndash;25. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Harinarayan/Load%20Sharing%20in%20Limited%20Access%20Distributed%20Systems.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=201" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	T. I. Lin and <b>L. Kleinrock</b>, &quot;Performance Analysis of Finite-Buffered Multistage Interconnection Networks with a General Traffic Pattern,&quot; in <em>Proceedings of the ACM Sigmetrics, Conference on Measurement and Modeling of Computer Systems</em>, San Diego, CA, May 21-24,  1991, pp. 68&ndash;78. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Lin/Performance%20Analysis%20of%20Finite-Buffered%20Multistage%20Interconnection%20Networks%20with%20a%20General%20Traffic%20Pattern.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=202" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;ISDN---the Path to Broadband Networks,&quot; in <em>Proceedings of the IEEE (invited paper)</em>, February  1991, pp. 112&ndash;117. Special Issue on ISDN
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/ISDN---the%20Path%20to%20Broadband%20Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=200" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Felderman and <b>L. Kleinrock</b>, &quot;Two Processor Time Warp Analysis: Some Results on a Unifying Approach,&quot; in <em>Advances in Parallel and Distributed Simulation, Proceedings of the SCS Multiconference</em>, Anaheim, CA, January 23-25,  1991, pp. 3&ndash;10. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Felderman/Two%20processor%20time%20warp%20analysis%20some%20results%20on%20a%20unifying%20approach.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=199" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	H. Levy and <b>L. Kleinrock</b>, &quot;Polling Systems with Zero Switch-over Periods: A General Method for Analyzing the Expected Delay,&quot; <em>Performance Evaluation</em>, vol. 13, pp. 97&ndash;107, 1991. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Levy/Polling%20systems%20with%20zeero%20switch%20over%20periods%20A%20general%20method%20for%20analyzing%20the%20expected%20delay.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=207" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Felderman and <b>L. Kleinrock</b>, &quot;Bounds and Approximations for Self-Initiating Distributed Simulation without Lookahead,&quot; <em>ACM Transactions on Modelling and Computer Simulation, special issue on Distributed and Parallel Simulation Performance</em>, vol. 1, no. 4, pp. 386&ndash;406, 1991. (Also, Information Sciences Institute Tech.Rept. ISI/RS-92-298)
-	&nbsp;
-		<a target="_blank" href="/data/files/Felderman/Bounds and Approximations for Self-Initiating Distributed Simulation.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=208" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;On Distributed Systems Performance,&quot; <em>Computer Networks and ISDN Systems, Special Issue</em>, vol. 20, no. 1-5, pp. 209&ndash;216, December  1990. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/On%20Distributed%20Systems%20Performance%2C%20Dec%201990.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=197" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	J. H. Huang and <b>L. Kleinrock</b>, &quot;Distributed Selectsort Sorting Algorithms on Broadcast Communication Networks,&quot; <em>Parallel Computing</em>, vol. 16, no. 2 &amp; 3, pp. 183&ndash;190, December  1990. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Huang/Distributed Selectsort Sorting Algorithms on Broadcast.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=198" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	C. Rosenberg, R. Mazumdar, and <b>L. Kleinrock</b>, &quot;On the Analysis of Exponential Queuing Systems with Randomly Changing Arrival Rates: Stability Conditions and Finite Buffer Scheme with a Resume Level,&quot; <em>Performance Evaluation</em>, vol. 11, no. 4, pp. 283&ndash;292, November  1990. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Rosenberg/On the Analysis of Exponential Queuing Systems with.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=196" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and H. Levy, &quot;On the Behavior of a Very Fast Bidirectional Bus Network,&quot; <em>IEEE Transactions on Communications</em>, vol. 38, no. 10, pp. 1854&ndash;1862, October  1990. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/On the Behavior of a Very Fast Bidirectional Bus Network.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=195" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	J-H. Huang and <b>L. Kleinrock</b>, &quot;Optimal Parallel Merging and Sorting Algorithms Using $sqrtN$ Processors without Memory Contention,&quot; <em>Parallel Computing</em>, vol. 14, no. 1, pp. 89&ndash;97, May  1990. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Huang/Optimal Parallel Merging and Sorting Algorithms.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=194" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Felderman and <b>L. Kleinrock</b>, &quot;An Upper Bound on the Improvement of Asynchronous Versus Synchronous Distributed Processing,&quot; in <em>The Society for Computer Simulation, Distributed Simulation 1990</em>, January  1990, pp. 131&ndash;136. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Felderman/An%20upper%20bound%20on%20the%20improvement%20of%20asycnhronous%20versus%20synchronous%20distributed%20processing.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=193" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;On Distributed Systems Performance,&quot; in <em>Proceedings of the 7th ITC Specialist Seminar</em>, Australia, September  1989. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/On%20Distributed%20Systems%20Performance.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=192" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and W. Korfhage, &quot;Collecting Unused Processing Capacity: An Analysis of Transient Distributed Systems,&quot; <em>reprinted from, Proceedings of the 9th International Conference on Distributed Computing Systems, San Diego, June 5-9, 1989, for The Computer Society of the IEEE</em>, pp. 482&ndash;489, June  1989. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Collecting%20Unused%20Processing%20Capacity%20An%20Analysis%20of%20Transient%20Distributed%20Systems.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=191" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	G. Akavia and <b>L. Kleinrock</b>, &quot;Hierarchical Use of Dedicated Channels,&quot; <em>Performance Evaluation, An International Journal</em>, vol. 9, no. 2, pp. 135&ndash;142, April  1989. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Akavia/Hierarchical Use of Dedicated Channels.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=190" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Felderman, E. Schooler, and <b>L. Kleinrock</b>, &quot;The Benevolent Bandit Laboratory: A Testbed for Distributed Algorithms,&quot; <em>IEEE Journal on Selected Areas in Communications, (JSAC)</em>, vol. 7, no. 2 (ISSN 0733-8716), pp. 303&ndash;311, February  1989. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Felderman/The Benevolent Bandit Laboratory A Testbed for Distributed.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=189" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	M. Gerla and <b>L. Kleinrock</b>, &quot;Congestion Control in Interconnected LAN's,&quot; <em>IEEE Network</em>, vol. 2, no. 1, pp. 72&ndash;76, January  1988. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Gerla/Congestion Control in Interconnected LAN's.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=187" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and H. Levy, &quot;The Analysis of Random Polling Systems,&quot; <em>Journal of Operations Research</em>, vol. 36, no. 5, pp. 716&ndash;732, September-October  1988. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/The%20Analysis%20of%20Random%20Polling%20Systems.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=188" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and H. Levy, &quot;On the Behavior of a Very Fast Bidirectional Bus Network,&quot; in <em>Proceedings of the IEEE International Conference on Communications (ICC '87)</em>, Seattle, Washington, June 7-10,  1987, pp. 1419&ndash;1426. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/On%20the%20Behavior%20of%20a%20Very%20Fast%20Bidirectional%20Bus%20Network(1).pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=186" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	H. Takagi and <b>L. Kleinrock</b>, &quot;Correction to `Throughput Analysis for Persistent CSMA Systems',&quot; <em>Correspondence item, IEEE Transactions on Communications</em>, vol. COM-35, no. 2, pp. 243&ndash;245, February  1987. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Takagi/Correction to `Throughput Analysis for Persistent CSMA.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=185" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and J. Silvester, &quot;Spatial Reuse in Multihop Packet Radio Networks,&quot; <em>invited paper for Proceedings of the IEEE, Special Issue on Packet Radio Networks</em>, vol. 75, no. 1, pp. 156&ndash;167, January  1987. 
-	&nbsp;
-		<a target="_blank" href="/data/files/spacial_reuse_in_multihop.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=184" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	H. Takagi and <b>L. Kleinrock</b>, &quot;Approximate Output Processes in Hidden-User Packet Radio Systems,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-34, no. 7, pp. 685&ndash;693, July  1986. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Takagi/Approximate Output Processes in Hidden-User Packet.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=183" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Performance Models for Distributed Systems,&quot; in <em>invited paper (and keynote presentation) for Teletraffic Analysis and Computer Performance Evaluation, the Proceedings of the International Seminar held at The Centre for Mathematics and Computer Science</em>, Amsterdam, June 2-6,  1986, pp. 1&ndash;16. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Performance%20models%20for%20distributed%20systems.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=180" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Dechter and <b>L. Kleinrock</b>, &quot;Broadcast Communications and Distributed Algorithms,&quot; <em>IEEE Transactions on Computers</em>, vol. C-35, no. 3, pp. 210&ndash;219, March  1986. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/broadcast_communications_and_distrabuted_algorithms.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=181" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	H. Levy and <b>L. Kleinrock</b>, &quot;A Queue with Starter and a Queue with Vacations: Delay Analysis by Decomposition,&quot; <em>Operations Research</em>, vol. 34, no. 3, pp. 426&ndash;436, May-June  1986. (cover article)
-	&nbsp;
-		<a target="_blank" href="/data/files/Levy/A%20Queue%20with%20Starter%20and%20a%20Queue%20with%20Vacations%20Delay%20Analysis%20by%20Decomposition.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=182" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	H. Takagi and <b>L. Kleinrock</b>, &quot;Throughput-Delay Characteristics of Some Slotted-ALOHA Multihop Packet Radio Networks,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-33, no. 11, pp. 1200&ndash;1207, November  1985. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Takagi/Throughput-Delay Characteristics of Some Slotted-ALOHA Multihop.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=177" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	H. Takagi and <b>L. Kleinrock</b>, &quot;Output Processes in Contention Packet Broadcasting Systems,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-33, no. 11, pp. 1191&ndash;1199, November  1985. (Also UCLA CSD Report No. 821006.)
-	&nbsp;
-		<a target="_blank" href="/data/files/Takagi/Output Processes in Contention Packet Broadcasting.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=178" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Distributed Systems,&quot; <em>invited paper for ACM/IEEE-CS Joint Special Issue: Communications of the ACM</em>, vol. 28, no. 11, pp. 1200&ndash;1213, November  1985. (Also in Computer, Vol. 18, No. 11, pp. 90-103.)
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/p1200-kleinrock.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=179" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	H. Takagi and <b>L. Kleinrock</b>, &quot;Mean Packet Queueing Delay in a Buffered Two User CSMA/CD System,&quot; <em>published as Correspondence in IEEE Transactions on Communications</em>, vol. COM-33, no. 10, pp. 1136&ndash;1139, October  1985. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Takagi/Mean Packet Queueing Delay in a Buffered.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=176" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	M. L. Molle and <b>L. Kleinrock</b>, &quot;Virtual Time CSMA: Why Two Clocks Are Better Than One,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-33, no. 9, pp. 919&ndash;933, September  1985. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Molle/Virtual%20Time%20CSMA%20Why%20Two%20Clocks%20Are%20Better.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=174" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Nelson and <b>L. Kleinrock</b>, &quot;Spatial TDMA: A Collision Free Multihop Channel Access Protocol,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-33, no. 9, pp. 934&ndash;944, September  1985. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Nelson/Spatial TDMA A Collision Free Multihop.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=175" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Nelson and <b>L. Kleinrock</b>, &quot;Rude-CSMA, a Multihop Channel Access Protocol,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-33, no. 8, pp. 785&ndash;791, August  1985. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Nelson/Rude-CSMA,%20a%20Multihop%20Channel%20Access%20Protocol.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=173" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	H. Takagi and <b>L. Kleinrock</b>, &quot;Throughput Analysis for Persistent CSMA Systems,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-33, no. 7, pp. 627&ndash;638, July  1985. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Takagi/Throughput Analysis for Persistent CSMA Systems.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=172" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;On Queueing Problems in Random Access Communications,&quot; <em>invited paper for IEEE Transactions on Information Theory, Special Issue</em>, vol. I5-31, no. 2, pp. 166&ndash;175, March  1985. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/On Queueing Problems in Random Access Communications.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=171" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;On the Theory of Distributed Processing,&quot; in <em>Proceedings of the Twenty-Second Annual Allerton Conference on Communication, Control and Computing</em>, Urbana-Champaign, October  1984, pp. 60&ndash;70. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/On%20the%20theory%20of%20distributed%20processing.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=170" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Nelson and <b>L. Kleinrock</b>, &quot;The Spatial Capacity of a Slotted ALOHA Multihop Packet Radio Network with Capture,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-32, no. 6, pp. 684&ndash;694, June  1984. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Nelson/The Spatial Capacity of a Slotted ALOHA Multihop.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=169" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	H. Takagi and <b>L. Kleinrock</b>, &quot;Optimal Transmission Ranges for Randomly Distributed Packet Radio Terminals,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-32, no. 3, pp. 246&ndash;257, March  1984. (Also "Multiple Access Communications, Foundations for Emerging Technologies", Norman Abramson (Ed.), IEEE Press, 1992, pp.342-353.)
-	&nbsp;
-		<a target="_blank" href="/data/files/Takagi/Optimal Transmission Ranges for Randomly Distributed.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=167" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	H. Takagi and <b>L. Kleinrock</b>, &quot;Diffusion Process Approximation for the Queueing Delay in Contention Packet Broadcasting Systems,&quot; in <em>Performance of Computer Communication Systems</em>, Zurich, March 21-23,  1984, pp. 111&ndash;124. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/diffusion_process_approximation.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=168" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and G. Akavia, &quot;On a Self-Adjusting Capability of ALOHA Networks,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-32, no. 1, pp. 40&ndash;47, January  1984. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/On a Self-Adjusting Capability of ALOHA Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=166" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	M. Gerla, <b>L. Kleinrock</b>, and Y. Afek, &quot;A Distributed Routing Algorithm for Unidirectional Networks,&quot; in <em>reprinted from IEEE Global Telecommunications Conference, GLOBECOM '83</em>, San Diego, CA., December  1983, p. 19.3.1&ndash;19.3.5. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Gerla/A Distributed Routing Algorithm for Unidirectional Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=165" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	J. Silvester and <b>L. Kleinrock</b>, &quot;On the Capacity of Multihop Slotted ALOHA Networks with Regular Structure,&quot; <em>IEEE Transactions on Communications</em>, vol. 31, no. 8, pp. 974&ndash;982, August  1983. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Silvester/On the Capacity of Multihop Slotted ALOHA Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=163" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	J. Silvester and <b>L. Kleinrock</b>, &quot;On the Capacity of Single-Hop ALOHA Networks for Various Traffic Matrices and Transmission Strategies,&quot; <em>IEEE Transactions on Communications</em>, vol. 31, no. 8, pp. 983&ndash;991, August  1983. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Silvester/On the Capacity of Single-Hop ALOHA Networks for Various.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=164" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Nelson and <b>L. Kleinrock</b>, &quot;Maximum Probability of Successful Transmission in a Random Planar Packet Radio Network,&quot; in <em>IEEE Infocom '83 Proceedings</em>, San Diego, California, April 18-21  1983, pp. 365&ndash;370. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/maximum_probibility_of_successful_transmission.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=161" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	A. Belghith and <b>L. Kleinrock</b>, &quot;A Distributed Routing Scheme with Mobility Handling in Stationless Multi-Hop Packet Radio Networks,&quot; in <em>ACM SIGCOMM\'83 Proceedings</em>, Austin, Texas, March 9  1983, pp. 101&ndash;108. (Packet Radio Temporary Note 313)
-	&nbsp;
-		<a target="_blank" href="/data/files/Belghith/Distributed%20Routing%20Scheme%20with%20Mobility%20Handling%20in%20Stationless%20Multi-Hop%20Packet%20Radio%20Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=160" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	M. Scholl and <b>L. Kleinrock</b>, &quot;On an M/G/1 Queue with Rest Period and Certain Service Independent Queueing Disciplines,&quot; <em>Operations Research</em>, vol. 31, no. 4, pp. 705&ndash;719, July-August  1983. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Scholl/On%20the%20M-G-1%20Queue%20with%20Rest%20Periods.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=162" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	W. E. Naylor and <b>L. Kleinrock</b>, &quot;Stream Communication in Packet-Switched Networks,&quot; <em>IEEE Transactions on Communications</em>, pp. 2527&ndash;2534, December  1982. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Naylor/Stream Communication in Packet-Switched Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=159" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Nelson and <b>L. Kleinrock</b>, &quot;Mean Message Delay in Multi-Hop Packet Radio Networks Using Spatial-TDMA,&quot; in <em>Conference Record, International Conference on Communications</em>, Philadelphia, Pennsylvania, June 13-17  1982, p. 1c.4.1&ndash;1c.4.4. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/mean_message_delay_in_multi-hop_packet_radio.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=158" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Packet Switching Principles,&quot; in <em>Proceedings of the L. M. Ericsson Award Ceremony</em>, Stockholm, Sweden, May 5  1982. (Also as a special editorial in Journal of Telecommunication Networks, Spring 1983, as well as in Ericsson Reviews.)
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/packet_switching_principals.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=154" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;A Decade of Network Development,&quot; <em>Journal of Telecommunication Networks</em>, pp. 1&ndash;11, Spring  1982. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/a_decade_of_network_development.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=153" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and A. Nilsson, &quot;On Optimal Scheduling Algorithms for Time-Shared Systems,&quot; <em>Journal of the ACM</em>, vol. 28, no. 3, pp. 477&ndash;486, July  1981. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/On%20Optimal%20Scheduling%20Algorithms%20for%20Time-Shared%20Systems.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=152" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	R. Gail and <b>L. Kleinrock</b>, &quot;An Invariant Property of Computer Network Power,&quot; in <em>Proceedings of the International Conference on Communications</em>, Denver, Colorado, June 14-18,  1981, p. 63.1.1&ndash;63.1.5. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Gail/power.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=147" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	F. Kamoun, <b>L. Kleinrock</b>, and R. Muntz, &quot;Queueing Analysis of the Ordering Issue in a Distributed Database Concurrency Control Mechanism,&quot; in <em>Proceedings of the Second International Conference on Distributed Computing Systems</em>, Paris, France, April  1981, pp. 13&ndash;23. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/queueing_analyisi_of_the_ordering_issue.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=146" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	P. Kermani and <b>L. Kleinrock</b>, &quot;A Tradeoff Study of Switching Systems in Computer Communication Networks,&quot; <em>IEEE Transactions on Computers</em>, vol. C-29, no. 12, pp. 1052&ndash;1060, December  1980. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kermani/A%20Tradeoff%20Study%20of%20Switching%20Systems%20in%20Computer%20Communication%20Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=145" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	A. Grnarov, <b>L. Kleinrock</b>, and M. Gerla, &quot;A Highly Reliable, Distributed Loop Network Architecture,&quot; in <em>Proceedings of Tenth International Symposium on Fault-Tolerant Computing</em>, Kyoto, Japan, October  1980, pp. 319&ndash;324. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/a_highly_reliable_distrabuted_loop.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=141" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and C. W. Tseng, &quot;Flow Control Based on Limiting Permit Generation Rates,&quot; in <em>Proceedings of the Fifth International Conference on Computer Communication</em>, Atlanta, Georgia, October  1980, pp. 785&ndash;790. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/flow_contol_based_on_limiting_permit_generation_rates.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=142" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and Y. Yemini, &quot;Interfering Queueing Processes in Packet Switched Broadcast Communication,&quot; in <em>Information Processing 80, Proceedings of IFIP Congress 80</em>, Tokyo, Japan, October  1980, pp. 557&ndash;562. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/interfering_queueing_precess.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=143" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Analysis and Design Issues Addressed at ICCC 78,&quot; <em>Computer Networks</em>, vol. 4, pp. 175&ndash;185, September  1980. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/analysis_and_design_issues.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=140" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	F. Kamoun and <b>L. Kleinrock</b>, &quot;Analysis of Shared Finite Storage in a Computer Network Node Environment under General Traffic Conditions,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-28, pp. 992&ndash;1003, July  1980. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kamoun/Analysis of Shared Finite Storage in a Computer.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=138" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and M. Scholl, &quot;Packet Switching in Radio Channels: New Conflict-Free Multiple Access Schemes,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-28, pp. 1015&ndash;1029, July  1980. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Packet Switching in Radio Channels New Conflict-Free.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=139" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	M. Gerla and <b>L. Kleinrock</b>, &quot;Flow Control: A Comparative Survey,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-28, no. 4, pp. 553&ndash;574, April  1980. (Also published in Computer Network Architectures and Protocols, P. Greed, Ed., Plenum Press, pp. 361-412, 1982.)
-	&nbsp;
-		<a target="_blank" href="/data/files/Gerla/Flow Control A Comparative Survey.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=137" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	P. Kermani and <b>L. Kleinrock</b>, &quot;Dynamic Flow Control in Store and Forward Computer Networks,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-28, pp. 263&ndash;271, February  1980. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kermani/Dynamic Flow Control in Store and Forward.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=135" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and P. Kermani, &quot;Static Flow Control in Store and Forward Computer Networks,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-28, pp. 271&ndash;279, February  1980. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Static Flow Control in Store and Forward.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=136" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	A. Grnarov, <b>L. Kleinrock</b>, and M. Gerla, &quot;A New Algorithm for Symbolic Reliability Analysis of Computer-Communications Networks,&quot; in <em>Pacific Telecommunications Conference Proceedings</em>, Honolulu, Hawaii, January  1980, p. 1a11&ndash;19. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/a_new_algorithm_for_symbolic_reliability_analysis_of_computer.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=133" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	J. Silvester and <b>L. Kleinrock</b>, &quot;On the Capacity of One-Hop ALOHA Packet Radio Networks with Adjustable Transmission Power,&quot; in <em>Pacific Telecommunications Conference Proceedings</em>, Honolulu, Hawaii, January  1980, p. 1a&ndash;25 to 1a. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/on_the_capacity_of_on-hop_aloha_packet_radio_networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=134" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and F. Kamoun, &quot;Optimal Clustering Structures for Hierarchical Topological Design of Large Computer Networks,&quot; <em>Networks</em>, vol. 10, no. 3, pp. 221&ndash;248, Fall  1980. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Optimal Clustering Structures for Hierarchical Topological.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=144" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	A. Grnarov, <b>L. Kleinrock</b>, and M. Gerla, &quot;A New Algorithm for Network Reliability Computation,&quot; in <em>Computer Networking Symposium Proceedings</em>, Gaithersburg, Maryland, December  1979, pp. 17&ndash;20. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/a_new_algorithm_for_network_reliability.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=132" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	F. Kamoun and <b>L. Kleinrock</b>, &quot;Stochastic Performance Evaluation of Hierarchical Routing for Large Networks,&quot; <em>Computer Networks</em>, vol. 3, pp. 337&ndash;353, November  1979. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kamoun/Stochastic Performance Evaluation of Hierarchical Routing.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=131" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	M. Molle and <b>L. Kleinrock</b>, &quot;Analysis of Concentrated ALOHA Satellite Links,&quot; in <em>Proceedings of the Sixth Data Communications Symposium</em>, Pacific Grove, California, November  1979. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Molle/Analysis%20of%20concentrated%20Aloha%20Satellite%20Links.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=130" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;On a New Class of Queueing Models for Distributed Environments,&quot; in <em>Proceedings of Ninth International Teletraffic Congress</em>, Torremolinos, Spain, October  1979. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/on_a_class_of_queueing_models.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=129" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	P. Kermani and <b>L. Kleinrock</b>, &quot;Virtual Cut-through: A New Computer Communication Switching Technique,&quot; <em>Computer Networks</em>, vol. 3, no. 4, pp. 267&ndash;286, September  1979. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kermani/Virtual%20Cut-through%20A%20New%20Computer%20Communication%20Switching.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=128" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Power and Deterministic Rules of Thumb for Probabilistic Problems in Computer Communications,&quot; in <em>Conference Record, International Conference on Communications</em>, Boston, Massachusetts, June  1979, p. 43.1.1&ndash;43.1.10. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Power and Deterministic Rules of Thumb for Probabilistic.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=127" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	M. Scholl and <b>L. Kleinrock</b>, &quot;On a Mixed Mode Multiple Access Scheme for Packet-Switched Radio Channels,&quot; <em>IEEE Transactions on Communications</em>, pp. 906&ndash;911, June  1979. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Scholl/On a Mixed Mode Multiple Access Scheme.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=125" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	P. Kermani and <b>L. Kleinrock</b>, &quot;A Tradeoff Study of Switching Systems,&quot; in <em>Conference Record, International Conference On Communications</em>, Boston, Massachusetts, June  1979, p. 20.4.1&ndash;20.4.8. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/A%20Tradeoff%20Study%20of%20Switching%20Systems.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=126" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	Y. Yemini and <b>L. Kleinrock</b>, &quot;On a General Rule for Access Control or Silence is Golden...,&quot; in <em>Proceedings of the International Symposium on Flow Control in Computer Networks</em>, Versailles, France, February  1979, pp. 335&ndash;347. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/On%20a%20General%20Rule%20for%20Access%20Control%20or%2C%20Silence%20is%20Golden.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=124" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	J. Silvester and <b>L. Kleinrock</b>, &quot;On the Capacity of Aloha Packet Radio Networks for Local Traffic Matrices,&quot; in <em>Proceedings of the Twelfth Hawaii International Conference on System Sciences</em>, Honolulu, Hawaii, January  1979, pp. 231&ndash;237. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Silvester/On the Capacity of Aloha Packet Radio Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=123" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;On Resource Sharing in a Distributed Communication Environment,&quot; <em>IEEE Communications Magazine</em>, vol. 17, no. 1, pp. 27&ndash;34, January  1979. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/On Resource Sharing in a Distributed Communication Environment.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=122" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and P. Kermani, &quot;A Network Algebra for the Performance Evaluation of Interconnected Networks,&quot; in <em>Conference Record, National Telecommunications Conference</em>, Birmingham, Alabama, December  1978, p. 44.1.1&ndash;44.1.6. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/a_network_algebra_for_the_performance.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=120" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and J. Silvester, &quot;Optimum Transmission Radii for Packet Radio Networks or Why Six is a Magic Number,&quot; in <em>Conference Record, National Telecommunications Conference</em>, Birmingham, Alabama, December  1978, p. 4.3.1&ndash;4.3.5. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Optimum Transmission Radii for Packet Radio.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=121" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Principles and Lessons in Packet Communications,&quot; in <em>Proceedings of the IEEE, Special Issue on Packet Communications</em>, November  1978, pp. 1320&ndash;1329. (Also presented at WESCON/79, San Francisco, California and published in the proceedings.)
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Principles%20and%20Lessons%20in%20Packet%20Communications.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=119" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and M. Gerla, &quot;On the Measured Performance of Packet Satellite Access Schemes,&quot; in <em>Proceedings of the Fourth International Conference on Computer Communication</em>, Kyoto, Japan, September  1978, pp. 535&ndash;542. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/on_the_measured_performance_of_packet_satellite_access_schemes.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=118" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and Y. Yemini, &quot;An Optimal Adaptive Scheme for Multiple Access Broadcast Communication,&quot; in <em>Conference Record, International Conference on Communications</em>, Toronto, Ontario, June  1978, p. 7.2.1&ndash;7.2.5. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/An%20Optimal%20Adaptive%20Scheme%20for%20Multiple%20Access.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=116" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	F. Tobagi and <b>L. Kleinrock</b>, &quot;The Effect of Acknowledgment Traffic on the Capacity of Packet-Switched Radio Channels,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-26, pp. 815&ndash;825, June  1978. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Tobagi/The Effect of Acknowledgment Traffic on the Capacity of Packet-Switched.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=115" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;On Flow Control in Computer Networks,&quot; in <em>Conference Record, Proceedings of the International Conference on Communications</em>, Toronto, Ontario, June  1978, p. 27.2.1&ndash;27.2.5. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/On%20Flow%20Control%20in%20Computer%20Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=117" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	M. Gerla, L. Nelson, and <b>L. Kleinrock</b>, &quot;Packet Satellite Multiple Access: Models and Measurements,&quot; in <em>Conference Record, National Telecommunications Conference</em>, Los Angeles, California, December  1977, p. 12.2/1&ndash;12.2/8. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/packet_satellite_multiple_access.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=113" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	F. Tobagi and <b>L. Kleinrock</b>, &quot;Packet Switching in Radio Channels: Part IV--Stability Considerations and Dynamic Control in Carrier Sense Multiple Access,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-25, pp. 1103&ndash;1119, October  1977. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Tobagi/Packet%20Switching%20in%20Radio%20Channels%20Part%20IV%20Stability%20Considerations%20and%20Dynamic%20Control%20in%20Carrier%20Sense%20Multiple%20Access.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=111" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	M. Gerla and <b>L. Kleinrock</b>, &quot;Closed Loop Stability Controls for S-Aloha Satellite Communications,&quot; in <em>Proceedings of the Fifth Data Communications Symposium</em>, Snowbird, Utah, September  1977, pp. 2.10&ndash;2.19. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Gerla/Closed%20Loop%20Stability%20Controls%20for%20S-Aloha%20Satellite%20Communications.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=112" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Performance of Distributed Multi-Access Computer-Communication Systems,&quot; in <em>Information Processing 77, Proceedings of IFIP Congress 77</em>, Toronto, Canada, August  1977, pp. 547&ndash;552. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Performance of Distributed Multi-Access Computer-Communication Systems.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=114" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and M. Scholl, &quot;Packet Switching in Radio Channels: New Conflict-Free Multiple Access Schemes for a Small Number of Data Users,&quot; in <em>Conference Record, International Conference on Communications</em>, Chicago, Illinois, June  1977, pp. 22.1&ndash;105 to 111. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Packet%20Switching%20in%20Radio%20Channels%20New%20Conflict%20Free%20Multiple%20Access%20Schemes%20for%20a%20Small%20Number%20of%20Data%20Users%20Scholl.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=109" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	P. Kermani and <b>L. Kleinrock</b>, &quot;Analysis of Buffer Allocation Schemes in a Multiplexing Node,&quot; in <em>Conference Record, International Conference on Communications</em>, Chicago, Illinois, June  1977, pp. 30.4&ndash;269 to 275. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/analysis_of_buffer_allocation_schemes_in_a_multiplexing_node.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=110" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and F. Kamoun, &quot;Hierarchical Routing for Large Networks, Performance Evaluation and Optimization,&quot; <em>Computer Networks</em>, vol. 1, no. 3, pp. 155&ndash;174, January  1977. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Hierarchical%20Routing%20for%20Large%20Networks,%20Performance%20Evaluation%20and%20Optimization.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=107" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	M. Gerla and <b>L. Kleinrock</b>, &quot;On the Topological Design of Distributed Computer Networks,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-25, pp. 48&ndash;60, January  1977. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Gerla/On%20the%20Topological%20Design%20of%20Distributed%20Computer%20Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=108" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;On Communications and Networks,&quot; <em>IEEE Transactions on Computers, 25th Anniversary Issue</em>, vol. C-25, pp. 1326&ndash;1335, December  1976. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/On%20Communications%20and%20Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=106" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	W. Naylor and <b>L. Kleinrock</b>, &quot;On Effect of Periodic Routing Updates in Packet-Switched Networks,&quot; in <em>Conference Record, National Telecommunications Conference</em>, Dallas, Texas, November  1976, p. 16.2/1&ndash;16.2/7. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/on_the_effect_of_periodic_routing_updates.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=103" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and F. Kamoun, &quot;Data Communications through Large Packet-Switching Networks,&quot; in <em>Proceedings of the Eighth International Teletraffic Congress</em>, Sydney, Australia, November  1976, p. 521/1&ndash;521/10. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kamoun/Data%20Communications%20through%20Large%20Packet-Switching%20Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=104" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	F. Tobagi and <b>L. Kleinrock</b>, &quot;Packet Switching in Radio Channels: Part III---Polling and (Dynamic) Split-Channel Reservation Multiple Access,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-24, no. 8, pp. 832&ndash;844, August  1976. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Tobagi/Packet Switching in Radio Channels Part0.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=97" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	F. Tobagi, S. Lieberson, and <b>L. Kleinrock</b>, &quot;On Measurement Facilities in Packet Radio Systems,&quot; in <em>AFIPS Conference Proceedings, National Computer Conference</em>, New York, June  1976, pp. 589&ndash;596. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Tobagi/On%20Measurement%20Facilities%20in%20Packet%20Radio%20Systems.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=101" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;ARPANET Lessons,&quot; in <em>Conference Record, International Conference on Communications</em>, Philadelphia, Pennsylvania, June  1976, p. 20/1&ndash;20/6. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/arpanet_lessons.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=102" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	F. Tobagi and <b>L. Kleinrock</b>, &quot;On the Analysis and Simulation of Buffered Packet Radio Systems,&quot; in <em>Proceedings of the Ninth Hawaii International Conference on System Sciences</em>, Honolulu, Hawaii, January  1976, pp. 42&ndash;45. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/on_the_analysis_and_simulation_of_buffered_packet_radio_systems.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=99" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	F. Kamoun and <b>L. Kleinrock</b>, &quot;Analysis of Shared Storage in a Computer Network Environment,&quot; in <em>Proceedings of the Ninth Hawaii International Conference on System Sciences</em>, Honolulu, Hawaii, January  1976, pp. 89&ndash;92. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/analysis_of_shared_storage_in_a_computer_network_environment.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=100" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and F. Tobagi, &quot;Packet Switching in Radio Channels: Part I---Carrier Sense Multiple-Access Modes and Their Throughput-Delay Characteristics,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-23, no. 12, pp. 1400&ndash;1416, December  1975. (Also, "Multiple Access Communications, Foundations for Emerging Technologies", Norman Abramson (Ed), IEEE Press, 1992, pp. 272-288.) ACM inaugural SIGMOBILE Test of Time award 2016
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Packet Switching in Radio Channels Part.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=95" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	F. Tobagi and <b>L. Kleinrock</b>, &quot;Packet Switching in Radio Channels: Part II---the Hidden Terminal Problem in Carrier Sense Multiple-Access and the Busy-Tone Solution,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-23, no. 12, pp. 1417&ndash;1433, December  1975. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Tobagi/Packet Switching in Radio Channels Part.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=96" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and H. Opderbeck, &quot;Throughput in the ARPANET---Protocols and Measurement,&quot; in <em>Fourth Data Communications Symposium</em>, Quebec City, Canada, October  1975, pp. 6&ndash;1 to 6. (Also in IEEE Transactions on Communications, Vol. COM-25, pp. 95-104, January 1977.)
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Throughput in the ARPANET---Protocols and Measurement.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=105" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	S. Lam and <b>L. Kleinrock</b>, &quot;Packet Switching in a Multiaccess Broadcast Channel: Dynamic Control Procedures,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-23, pp. 891&ndash;904, September  1975. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Lam/Packet Switching in a Multiaccess Broadcast Channel.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=93" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and F. Tobagi, &quot;Random Access Techniques for Data Transmission over Packet Switched Radio Channels,&quot; in <em>AFIPS Conference Proceedings, National Computer Conference</em>, Anaheim, California, May  1975, pp. 187&ndash;201. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Random%20Access%20Techniques%20for%20Data%20Transmission%20over%20Packet%20Switched%20Radio%20Channels.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=89" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	S. Lam and <b>L. Kleinrock</b>, &quot;Dynamic Control Schemes for a Packet Switched Multi-Access Broadcast Channel,&quot; in <em>AFIPS Conference Proceedings, National Computer Conference</em>, Anaheim, California, May  1975, pp. 143&ndash;153. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Lam/Dynamic%20Control%20Schemes%20for%20a%20Packet%20Switched%20Multi-Access%20Broadcast%20Channel.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=91" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and S. Lam, &quot;Packet Switching in a Multiaccess Broadcast Channel: Performance Evaluation,&quot; <em>IEEE Transactions on Communications</em>, vol. COM-23, pp. 410&ndash;423, April  1975. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Packet Switching in a Multiaccess Broadcast Channel.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=92" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;On Giant Stepping in Packet Radio Networks,&quot; <em>UCLA, Packet Radio Temporary Note #5, Prt 136</em>, March  1975. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/on_giant_stepping.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=86" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Practical Queueing Techniques for Efficient I/O,&quot; in <em>Input/Output, Infotech State of the Art Report 22</em>, Berkshire, England,  1975, pp. 191&ndash;215. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Practical%20Queueing%20Techniques%20for%20Efficient%20IO.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=85" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;On the Impact of Computer Networks,&quot; in <em>Collective Phenomena and the Applications of Physics to Other Fields of Science, (Proceedings of seminar to have been held in Moscow, USSR, July 1974), Brain Research Publications</em>, Fayetteville, New York,  1975, pp. 294&ndash;303. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/on_the_impact_of_computer_networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=94" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	H. Opderbeck and <b>L. Kleinrock</b>, &quot;The Influence of Control Procedures on the Performance of Packet-Switched Networks,&quot; in <em>Conference Record, National Telecommunications Conference</em>, San Diego, California, December  1974, pp. 810&ndash;817. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/the_influence_of_control_procedures.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=83" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, W. Naylor, and H. Opderbeck, &quot;A Study of Line Overhead in the Arpanet,&quot; in <em>Proceedings of the IIASA Conference on Computer Communication Networks</em>, Schloss Laxenburg, Austria, October  1974, pp. 87&ndash;109. (Also in Communications of the ACM, Vol. 19, pp. 3-12, January 1976)
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/A%20Study%20of%20Line%20Overhead%20in%20the%20Arpanet.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=98" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Resource Allocation in Computer Systems and Computer Communication Networks,&quot; in <em>Information Processing 74, Proceedings of IFIP Congress 74</em>, Stockholm, Sweden, August  1974, pp. 11&ndash;18. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Resource%20Allocation%20in%20Computer%20Systems%20and%20Computer-Communication%20Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=82" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Research Areas in Computer Communication,&quot; <em>ACM SIGCOMM, Computer Communication Review</em>, vol. 1, no. 2, pp. 1&ndash;4, July  1974. (ACM SIGCOMM Test of Time Paper Award)
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Research Areas in Computer Communication.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=80" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and F. Tobagi, &quot;Carrier Sense Multiple Access for Packet Switched Radio Channels,&quot; in <em>Conference Record, International Conference on Communications</em>, Minneapolis, Minnesota, June  1974, p. 21b/1&ndash;21b/7. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/carrier_sense_multiple_access_for_packet_switched_radio_channels.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=79" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and W. Naylor, &quot;On Measured Behavior of the ARPA Network,&quot; in <em>AFIPS Conference Proceedings, National Computer Conference</em>, Chicago, Illinois, May  1974, pp. 767&ndash;780. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Naylor/On%20Measured%20Behavior%20of%20the%20ARPA%20Network.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=81" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and S. Lam, &quot;On Stability of Packet Switching in a Random Multi-Access Broadcast Channel,&quot; in <em>Computer Nets, A Supplement to the Proceedings of the Seventh Hawaii International Conference on System Sciences</em>, Honolulu, Hawaii, January  1974, pp. 74&ndash;77. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/On%20Stability%20of%20Packet%20Switching%20in%20a%20Random%20Multi-Access%20Broadcast%20Channel.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=78" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Analytical Techniques for Computer-Communication Networks,&quot; in <em>Computers and Communications, Proceedings of the Joint IBM - University of Newcastle upon Tyne Seminar, Tyne Seminar, University of Newcastle upon Tyne</em>, England, September  1973, pp. 63&ndash;90. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/analytical_tecniques_for_computer.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=77" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Challenging Problems in the Design of Computer-Communication Networks,&quot; in <em>Proceedings of the Twentieth International Meeting of the Institute of Management Sciences</em>, Tel Aviv, Israel, June  1973, pp. 152&ndash;158. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/challenging_problems_in_the_design_of_computer.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=74" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and S. Lam, &quot;Packet Switching in a Slotted Satellite Channel,&quot; in <em>AFIPS Conference Proceedings, National Computer Conference</em>, New York, June  1973, pp. 703&ndash;710. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Packet%20Switching%20in%20a%20Slotted%20Satellite%20Channel.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=75" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and J. Hsu, &quot;A Continuum of Computer Processor-Sharing Queueing Models,&quot; in <em>Proceedings of the Seventh International Teletraffic Congress</em>, Stockholm, Sweden, June  1973, p. 431/1&ndash;431/6. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/A%20Continuum%20of%20Computer%20Processor-Sharing%20Queueing%20Models.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=76" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	L. Fratta, M. Gerla, and <b>L. Kleinrock</b>, &quot;The Flow Deviation Method: An Approach to Store-and-Forward Communication Network Design,&quot; <em>Networks</em>, vol. 3, no. 2, pp. 97&ndash;133, 1973. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Gerla/The_Flow_Deviation_Method-_An_Approach_to_Store-and-forward_Network_Design_1973_.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=73" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Computer Network Design Principles Derived from Experience and Measurements on the ARPA Network,&quot; in <em>Summary in Proceedings of the International Telemetering Conference</em>, Los Angeles, California, October  1972, pp. 440&ndash;441. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/computer_network_design_principles_derived_from_experience.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=71" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Performance Models and Measurements of the Arpa Computer Network,&quot; in <em>ONLINE 72 Conference Proceedings</em>, Uxbridge, Middlesex, England, September  1972, pp. 61&ndash;85. (Also in Computer Communication Networks, Proceedings of the NATO Advanced Study Institute Series, Noordhoof, Leyden, The Netherlands, pp. 63-87, 1975.)
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/performance_models_and_measurements_of_the_apra.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=87" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and R. Muntz, &quot;Processor Sharing Queueing Models of Mixed Scheduling Disciplines for Time Shared Systems,&quot; <em>Journal of the ACM</em>, vol. 19, no. 3, pp. 464&ndash;482, July  1972. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Processor%20Sharing%20Queueing%20Models%20of%20Mixed.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=70" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	H. Frank, R. Kahn, and <b>L. Kleinrock</b>, &quot;Computer Communication Network Design---Experience with Theory and Practice,&quot; in <em>AFIPS Conference Proceedings, Spring Joint Computer Conference</em>, Atlantic City, New Jersey, May  1972, pp. 255&ndash;270. (Also in Networks, Vol. 2, No. 2, pp. 135--166, 1972)
-	&nbsp;
-		<a target="_blank" href="/data/files/Frank/Computer%20Communication%20Network%20Design---Experience%20with%20Theory%20and%20Practice.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=72" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, R. Muntz, and J. Hsu, &quot;Tight Bounds on the Average Response Time for Processor-Sharing Models of Time-Shared Computer Systems,&quot; in <em>Information Processing 71, Proceedings of IFIP Congress 71</em>, Ljubljana, Yugoslavia, August  1971, pp. 124&ndash;133. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/tight_bounds_on_the_average_response_time.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=67" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	G. Fultz and <b>L. Kleinrock</b>, &quot;Adaptive Routing Techniques for Store-and-Forward Computer-Communication Networks,&quot; in <em>Conference Record, Proceedings of the IEEE International Conference on Communications</em>, Montreal, Canada, June  1971, p. 39/1&ndash;39/8. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Fultz/Adaptive Routing Techniques for Store-and-Forward Computer-Communication.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=68" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	J. Ziegler and <b>L. Kleinrock</b>, &quot;Nodal Blocking in Large Networks,&quot; in <em>Conference Record, Proceedings of the IEEE International Conference on Communications</em>, Montreal, Canada, June  1971, pp. 39&ndash;9 to 39. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/nodal_blocking_in_large_networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=69" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Delay in Communication and Computer Networks,&quot; in <em>IEEE International Convention Digest</em>, New York, March  1971, pp. 304&ndash;305. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Delay%20in%20Communication%20and%20Computer%20Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=66" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and K. Stevens, &quot;Fisheye: A Lenslike Computer Display Transformation,&quot; , 1971. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Fisheye-%20A%20Lenslike%20Computer%20Display%20Transformation.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=64" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/net.3230010103" target="_blank"><img src='/images/extensions/html.png' style='margin:0 5px 0 0; ' /></a> <b>L. Kleinrock</b>, R. Muntz, and E. Rodemich, &quot;The Processor-Sharing Queueing Model for Time-Shared Systems with Bulk Arrivals,&quot; <em>Networks</em>, vol. 1, no. 1, pp. 1&ndash;13, 1971. 
-	&nbsp;
-		<a target="_blank" href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/net.3230010103">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=65" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and R. Muntz, &quot;Multilevel Processor-Sharing Queueing Models for Time-Shared Systems,&quot; in <em>Proceedings of the Sixth International Teletraffic Congress</em>, Munich, Germany, September  1970, p. 341/1&ndash;341/8. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Multilevel%20Processor-Sharing%20Queueing%20Models%20for%20Time-Shared%20Systems.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=63" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Swap Time Considerations in Time-Shared Systems,&quot; <em>IEEE Transactions on Computers</em>, vol. C-19, no. 6, pp. 534&ndash;540, June  1970. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Swap-Time%20Considerations%20in%20Time-Shared%20Systems.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=62" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;A Continuum of Time-Sharing Scheduling Algorithms,&quot; in <em>AFIPS Conference Proceedings, Spring Joint Computer Conference</em>, Atlantic City, New Jersey, May  1970, pp. 453&ndash;458. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/A%20Continuum%20of%20Time-Sharing%20Scheduling%20Algorithms.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=60" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Analytic and Simulation Methods in Computer Network Design,&quot; in <em>AFIPS Conference Proceedings, Spring Joint Computer Conference</em>, Atlantic City, New Jersey, May  1970, pp. 569&ndash;579. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Analytic%20and%20Simulation%20Methods%20in%20Computer%20Network%20Design.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=61" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Comparison of Solution Methods for Computer Network Models,&quot; in <em>Conference Record, IEEE Computers and Communications</em>, Rome, New York, September  1969, pp. 295&ndash;303. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Comparison of Solution Methods for Computer Network.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=59" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;On Swap Time in Time-Shared Systems,&quot; in <em>IEEE Computer Group Conference Digest</em>, Minneapolis, Minnesota, June  1969, pp. 37&ndash;41. 
-	&nbsp;
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=57" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Models for Computer Networks,&quot; in <em>Conference Record, IEEE International Conference on Communications</em>, Boulder, Colorado, June  1969, p. 21/9&ndash;21/16. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Models for Computer Networks.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=58" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	H. Katzenstein, <b>L. Kleinrock</b>, A. Stubberud, and S. Friedland, &quot;Application of the Mathematical Theory of Sequential Sampling to Gamma Scanning in Nuclear Medicine,&quot; <em>Mathematical Biosciences</em>, vol. 4, no. 3-4, pp. 499&ndash;530, May  1969. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Application%20of%20the%20mathematical%20theory%20of%20sequential%20sampling%20to%20gamma%20scanning%20in%20nuclear%20medicine.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=56" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;T.V. Data Compression by a Decaying Slope Threshold Method,&quot; in <em>Proceedings of the Second Hawaii International Conference on System Sciences</em>, Honolulu, Hawaii, January  1969, pp. 49&ndash;52. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/T.V. Data Compression by a Decaying Slope.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=55" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	E. G. Coffman and <b>L. Kleinrock</b>, &quot;Feedback Queueing Models for Time-Shared Systems,&quot; <em>Journal of the ACM</em>, vol. 15, no. 4, pp. 549&ndash;576, October  1968. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Feedback%20Queueing%20Models%20for%20Time-Shared%20Systems.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=54" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>l, &quot;Certain Analytic Results for Time-Shared Processors,&quot; in <em>Proceedings of the International Federation for Information Processing Congress (also printed in North Holland Publishing Company - Amsterdam 1969 pp. 838-845)</em>, Edinburg, Scotland, August  1968, p. d119&ndash;d125. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Certain%20Analytic%20Results%20for%20Time-Shared%20Processors.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=51" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Some Results on the Design of Communication Nets,&quot; in <em>Conference Record, International Conference on Communications</em>, Philadelphia, Pennsylvania, June  1968, pp. 699&ndash;705. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Some%20Results%20on%20the%20Design%20of%20Communication%20Nets.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=52" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	E. Coffman and <b>L. Kleinrock</b>, &quot;Computer Scheduling Methods and Their Countermeasures,&quot; in <em>AFIPS Conference Proceedings</em>, Atlantic City, New Jersey, April  1968, pp. 11&ndash;21. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Coffman/Computer%20Scheduling%20Methods%20and%20Their%20Countermeasures.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=50" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Some Recent Results for Time-Shared Processors,&quot; in <em>Proceedings of the Hawaii International Conference on System Sciences,</em> Honolulu, Hawaii, January  1968, pp. 756&ndash;759. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Some%20Recent%20Results%20for%20Time-Shared%20Processors.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=49" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and E. Coffman, &quot;Distribution of Attained Service for Time-Shared Systems,&quot; <em>Journal of Computers and System Science</em>, vol. 1, no. 3, pp. 287&ndash;298, October  1967. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Distribution%20of%20Attained%20Service%20in%20Time-Shared%20Systems.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=48" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	G. Estrin and <b>L. Kleinrock</b>, &quot;Measures, Models and Measurements for Time-Shared Computer Utilities,&quot; in <em>Proceedings of the Twenty-Second National Conference of the ACM</em>, Washington, D.C., August  1967, pp. 85&ndash;96. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Estrin/Measures,%20Models%20and%20Measurements%20for%20Time-Shared%20Computer.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=47" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	E. Coffman and <b>L. Kleinrock</b>, &quot;Some Feedback Queueing Models for Time-Shared Systems,&quot; in <em>Proceedings of the Fifth International Teletraffic Congress</em>, New York, June  1967, pp. 288&ndash;304. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Some%20feedback%20Queueing%20models%20for%20time-shared%20system.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=46" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	I. Jacobs and <b>L. Kleinrock</b>, &quot;Prefix Coding of Histograms for Minimal Storage,&quot; <em>IEEE Transactions on Communication Technology</em>, vol. COM-15, April  1967. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Jacobs/Prefix Coding of Histograms for Minimal Storage.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=44" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Time-Shared Systems: A Theoretical Treatment,&quot; <em>Journal of the ACM</em>, vol. 14, no. 2, pp. 242&ndash;261, April  1967. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Time-Shared Systems A Theoretical Treatment.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=45" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b> and R. Finklestein, &quot;Time Dependent Priority Queues,&quot; <em>Operations Research</em>, vol. 15, no. 1, pp. 104&ndash;116, January--February  1967. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Time%20Dependent%20Priority%20Queues.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=42" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Optimum Bribing for Queue Position,&quot; <em>Operations Research</em>, vol. 15, no. 2, pp. 304&ndash;318, March--April  1967. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Optimum%20Bribing%20for%20Queue%20Position.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=43" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Queueing with Strict and Lag Priority Mixtures,&quot; in <em>Proceedings of the Fourth International Conference on Operational Research Societies</em>, Boston, Massachusetts, August  1966, pp. 921&ndash;934. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Queueing%20with%20Strict%20and%20Lag%20Priorities.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=41" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Sequential Processing Machines (SPM) Analyzed with a Queueing Theory Model,&quot; <em>Journal of the ACM</em>, vol. 13, no. 2, April  1966. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Sequential%20Processing%20Machines%20(SPM)%20Analyzed.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=39" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Theory of Queues Applied to Time-Shared Computer Systems,&quot; in <em>Proceedings of the IEEE Region Six Conference Record</em>, Tucson, Arizona, April  1966, pp. 491&ndash;500. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Theory%20of%20queues%20applied%20to%20time%20shared%20computer%20systems.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=40" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Theory of Queues Applied to Time-Shared Computer Systems,&quot; <em>IEEE Region 6 Conference Record</em>, 1966. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Theory%20of%20queues%20applied%20to%20time%20shared%20computer%20systems.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=398" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;A Conservation Law for a Wide Class of Queueing Disciplines,&quot; <em>Naval Research Logistics Quarterly</em>, vol. 12, no. 2, June  1965. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/A%20Conservation%20Law%20for%20a%20Wide%20Class%20of%20Queueing%20Disciplines.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=38" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;A Delay Dependent Queue Discipline,&quot; <em>Naval Research Logistics Quarterly</em>, vol. 11, no. 4, December  1964. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/a_delay_dependant_queue_disipline.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=37" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Detection of the Peak of an Arbitrary Spectrum,&quot; <em>IEEE Transactions on Information Theory</em>, vol. IT-10, no. 3, pp. 215&ndash;221, July  1964. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/Detection of the Peak of an Arbitrary Spectrum.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=36" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Analysis of a Time Shared Processor,&quot; <em>Naval Research Logistics Quarterly</em>, vol. 11, no. 1, pp. 59&ndash;73, March  1964. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/analysis_of_a%20_time-shared_processor.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=35" title='BibTex Export' >[BibTex]</a>
-	</li>
-<li style="margin-top:14px">
-	<b>L. Kleinrock</b>, &quot;Optical Information Handling with Thin Magnetic Films,&quot; in <em>Proceedings of the National Electronics Conference</em>, Chicago, Illinois, October  1958, pp. 789&ndash;797. 
-	&nbsp;
-		<a target="_blank" href="/data/files/Kleinrock/optical_information_handling_with_thin_magnetic_films.pdf">[PDF]</a>
-		&nbsp;
-	
-	&nbsp;
-	<a class="smoothbox_small" href="/bibwiki/bibtex?id=34" title='BibTex Export' >[BibTex]</a>
-	</li>
-</ol>
-</p>
-</div></td></tr></table></div><div class="footer"><hr /><table width="100%"><tr><td width="33%" align="center">Copyright 2009 Leonard Kleinrock. &nbsp; All rights reserved</td><td width="33%" align="center">Last modified on Jun 16, 2010</td><td width="33%" align="center">Email: <a href="mailto:lk@cs.ucla.edu">lk@cs.ucla.edu</a></td></tr></table><br/><br/></div></div><script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-22803652-1']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script></body></html>
+Leonard Kleinrock's Bibliography: Journals and Conferences
+In the Press
+Articles
+Videos
+External links
+About
+Awards
+Profile
+Publications
+Books
+Book Chapters
+Journals and Conferences
+Commitee Reports
+Patents
+Public Reports
+Press Releases
+White Papers
+Tutorials
+Presentations
+Reviews
+History
+Twitter
+Students
+Books
+Book Chapters
+Journals and Conferences
+Commitee Reports
+Patents
+Public Reports
+Press Releases
+White Papers
+Tutorials
+Presentations
+Reviews
+Papers Published in Professional and Scholarly Journals and in Procedings of Conferences and Symposia
+C. Ferguson and
+L. Kleinrock
+, "Optimal Update Times for Stale Information Metrics Including the Age of Information,"
+IEEE Journal on Selected Areas in Information Theory
+, vol. 4, pp. 734–746, December  2023.
+[PDF]
+[BibTex]
+Z. He and
+L. Kleinrock
+, "Optimization of Assisted Search Over Server-Mediated Peer-to-peer Networks," in
+IEEE Globecom 2022
+, Rio de Janeiro, Brazil, December  2022.
+[PDF]
+[BibTex]
+L. Kleinrock
+, R. Ostrovsky, and V. Zikas, "Proof-of-Reputation Blockchain with Nakamoto Fallback,"
+INDOCRYPT 2020
+, 2020.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "To Mario Gerla, the Maestro of Networks,"
+Ad Hoc Networks
+, vol. 88, pp. 178–179, May  2019.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Internet Congestion Control Using the Power Metric: Keep the Pipe Just Full, But No Fuller,"
+Ad Hoc Networks
+, pp. 142–157, November  2018.
+[PDF]
+[BibTex]
+R. Laufer and
+L. Kleinrock
+, "The Capacity of Wireless CSMA/CA Networks,"
+IEEE/ACM Transactions on Networking
+, vol. 24, no. 3, pp. 1518–1532, June  2016.
+[PDF]
+[BibTex]
+L. Fratta, M. Gerla, and
+L. Kleinrock
+, "Flow Deviation: 40 years of incremental flows for packets, waves, cars and tunnels,"
+Computer Networks
+, vol. 66, pp. 18–31, June  2014.
+[PDF]
+[BibTex]
+R. Laufer and
+L. Kleinrock
+, "On the Capacity of Wireless CSMA/CA Multihop Networks,"
+INFOCOM
+, 2013.
+[PDF]
+[BibTex]
+N. Nguyen
+L. Kleinrock
+and P. Reiher, "Debugging Ubiquitous Computing Applications With the Interaction Analyzer,"
+International Journal on Advances in Software
+, vol. 5, no. 34, pp. 345–357, December  2012.
+[PDF]
+[BibTex]
+V. Pournaghshband,
+L. Kleinrock
+, P. Reiher, and A. Afanasyev, "Controlling Applications by Managing Network Characteristics,"
+Proceedings of IEEE ICC 2012 Communication and Information Systems Security Symposium
+, June  2012.
+[PDF]
+[BibTex]
+R. Laufer, P. B. Velloso, L. F. M. Vieira, and
+L. Kleinrock
+, "PLASMA: A New Routing Paradigm for Wireless Multihop Networks,"
+IEEE INFOCOM '2012 Mini-Conference, Orlando, USA
+, March, 2012.
+[PDF]
+[BibTex]
+R. Laufer, H. Dubois-Ferriere, and
+L. Kleinrock
+, "Polynomial-Time Algorithms for Multirate Anypath Routing in Wireless Multihop Networks,"
+IEEE/ACM Transactions on Networking, Vol 20 No. 3, pp. 743-755
+, June 2012.
+[PDF]
+[BibTex]
+M. Gerla and
+L. Kleinrock
+, "Vehicular networks and the future of the mobile internet,"
+Computer Networks
+, vol. 55, no. 2, pp. 457–469, February  2011.
+[PDF]
+[BibTex]
+N. Nguyen,
+L. Kleinrock
+, and P. Reiher, "The Interaction Analyzer: A Tool for Debugging Ubiquitous Computing Applications,"
+Ubicomm
+, pp. 138–144, 2011.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "An early history of the internet [History of Communications],"
+Communications Magazine, IEEE
+, vol. 48, no. 8, pp. 26–36, August  2010.
+[PDF]
+[BibTex]
+A. Afanasyev, N. Tilley, P. Reiher, and
+L. Kleinrock
+, "Host-to-host congestion control for TCP,"
+IEEE Communication Surveys and Tutorials
+, vol. 12, no. 3, pp. 304–342, 2010. Best Tutorial Paper Award for 5-year period from 2006-2010
+[PDF]
+[BibTex]
+R. Laufer, H. Dubois-Ferriere, and
+L. Kleinrock
+, "Multirate Anypath Routing in Wireless Mesh Networks," in
+INFOCOM 2009, IEEE
+, April  2009, pp. 37–45.
+[PDF]
+[BibTex]
+V. Ramakrishna, P. Reiher, and
+L. Kleinrock
+, "Distributed policy resolution through negotiation in ubiquitous computing environments," in
+Proceedings of IEEE International Conference on Pervasive Computing and Communications (PerCom)
+, March  2009, pp. 1–10.
+[PDF]
+[BibTex]
+C. Kolias and
+L. Kleinrock
+, "Multiple Input Queueing in Packet Switches,"
+IEEE Communications Letters
+, vol. 12, no. 3, pp. 209–209, March  2008.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "History of the Internet and Its Flexible Future,"
+IEEE Wireless Communications
+, pp. 8–18, February  2008.
+[PDF]
+[BibTex]
+G. Marfia, A. Sentivelli, S. Tewari, M. Gerla, and
+L. Kleinrock
+, "Will IPTV Ride the Peer-to-Peer Stream?,"
+IEEE Communications Magazine Special Issue on Peer-to-Peer Streaming
+, June  2007.
+[PDF]
+[BibTex]
+S. Tewari and
+L. Kleinrock
+, "Analytical Model for BitTorrent-Based Live Video Streaming," in
+Proceedings of IEEE NIME 2007 Workshop
+, Las Vegas, NV, January  2007.
+[PDF]
+[BibTex]
+S. Tewari and
+L. Kleinrock
+, "Optimal Search Performance in Unstructured Peer-to-Peer Networks with Clustered Demands,"
+IEEE Journal on Selected Areas in Communications
+, vol. 25, no. 1, January  2007.
+[PDF]
+[BibTex]
+S. Das, S. Tewari, and
+L. Kleinrock
+, "The Case for Servers in a Peer-to-Peer World," in
+Proceedings of IEEE ICC 2006
+, Istanbul, Turkey, June  2006.
+[PDF]
+[BibTex]
+S. Tewari and
+L. Kleinrock
+, "Optimal Search Performance in Unstructured Peer-to-Peer Networks with Clustered Demands," in
+Proceedings of IEEE ICC 2006
+, Istanbul, Turkey, June  2006.
+[PDF]
+[BibTex]
+S. Tewari and
+L. Kleinrock
+, "Proportional Replication in Peer-to-Peer Networks," in
+Proceedings of IEEE INFOCOM 2006
+, Barcelona, Spain, April  2006.
+[PDF]
+[BibTex]
+A. Nandan, S. Tewari, S. Das, and
+L. Kleinrock
+, "Modeling Epidemic Query Dissemination in AdTorrent Network," in
+Proceedings of IEEE NIME 2006 Workshop
+, Las Vegas, NV, January  2006.
+[PDF]
+[BibTex]
+A. Nandan, S. Tewari, S. Das, M. Gerla, and
+L. Kleinrock
+, "AdTorrent: Delivering Location Cognizant Advertisements to Car Networks," in
+Proceedings of IEEE/IFIP WONS 2006
+, Les Menuires, France, January  2006.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "A Vision for the Internet,"
+ST Journal for Research
+, vol. 2, no. 1, pp. 4–5, November  2005.
+[PDF]
+[BibTex]
+S. Tewari and
+L. Kleinrock
+, "Search Time in Unstructured Peer-to-Peer Networks with Clustered Demands," in
+Proceedings of IEEE GLOBECOM 2005
+, St Louis, MO, November  2005.
+[PDF]
+[BibTex]
+S. Tewari and
+L. Kleinrock
+, "Analysis of Search and Replication in Unstructured Peer-to-Peer Networks," in
+Proceedings of ACM SIGMETRICS 2005
+, Banff, Canada, June  2005.
+[PDF]
+[BibTex]
+S. Tewari and
+L. Kleinrock
+, "On Fairness, Optimal Download Performance and Proportional Replication in Peer-to-Peer Networks," in
+Proceedings of IFIP Networking 2005
+, Waterloo, Canada, May  2005.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "The Internet Rules of Engagement: Then and Now,"
+Elsevier Ltd
+, pp. 193–207, April-August  2004.
+[PDF]
+[BibTex]
+K. Eustice,
+L. Kleinrock
+, S. Markstrum, G. Popek, V. Ramakrishna, and P. L. Reiher, "Securing WiFi Nomads: The Case for Quarantine, Examination, and Decontamination," in
+New Security Paradigms Workshop (NSPW)
+, August  2003.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "An Internet Vision: The Invisible Global Infrastructure,"
+AdHoc NETWORKS JOURNAL
+, vol. 1, no. 1, pp. 3–11, July  2003..
+[PDF]
+[BibTex]
+K. Eustice,
+L. Kleinrock
+, S. Markstrum, G. J. Popek, V. Ramakrishna, and P. L. Reiher, "Enabling Secure Ubiquitous Interactions," in
+Proceedings of Middleware 2003 Workshop
+, June  2003, pp. 76–80.
+[PDF]
+[BibTex]
+R. Iyer and
+L. Kleinrock
+, "QoS Control for Sensor Networks," in
+Proceedings of ICC'03
+, Anchorage, Alaska, May  2003, pp. 517–521.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Creating a Mathematical Theory of Computer Networks,"
+INFORMS, Operations Research
+, vol. 50, no. 1, pp. 125–131, January-February  2002.
+[PDF]
+[BibTex]
+I. F. Akyildiz, D. J. Goodman, and
+L. Kleinrock
+, "Guest Editorial: Mobility and Resource Management in Next Generation Wireless Systems,"
+IEEE Journal on Selected Areas in Communications
+, vol. 19, no. 1825--1830, October  2001.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Breaking Loose,"
+Communications of the ACM
+, vol. 44, no. 9, pp. 41–45, September  2001.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "On Some Principles of Nomadic Computing and Multi-Access Communications,"
+IEEE Communications Magazine
+, pp. 46–50, July  2000.
+[PDF]
+[BibTex]
+Z. Jiang and
+L. Kleinrock
+, "A Packet Selection Algorithm for Adaptive Transmission of Smoothed Video over a Wireless Channel,"
+IEEE Journal of Parallel and Distributed Computing
+, vol. 60, no. 4, pp. 494–509, April  2000.
+[PDF]
+[BibTex]
+B. R. Badrinath, A. Fox,
+L. Kleinrock
+, G. J. Popek, P. L. Reiher, and M. Satyanarayanan, "A Conceptual Framework for Network and Client Adaptation,"
+Mobile Networks and Applications (MONET)
+, vol. 5, no. 4, pp. 221–231, 2000.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Nomadic Computing and Smart Spaces,"
+IEEE Internet Computing
+, vol. 4, no. 1, pp. 52–53, January--February  2000.
+[PDF]
+[BibTex]
+C. Kolias and
+L. Kleinrock
+, "Performance Analysis of Multiplane Nonblocking ATM Switches," in
+Proceedings of Globecom'98
+, Sydney, Australia, November  1998, pp. 356–362.
+[PDF]
+[BibTex]
+C. Kolias and
+L. Kleinrock
+, "The Power Function as a Performance and Comparison Measure for ATM Switches," in
+Proceedings of Globecom'98
+, Sydney, Australia, November  1998, pp. 381–386.
+[PDF]
+[BibTex]
+Z. Jiang and
+L. Kleinrock
+, "Web Prefetching in a Mobile Environment,"
+IEEE Personal Communications
+, vol. 5, pp. 25–34, October  1998.
+[PDF]
+[BibTex]
+C. Kolias and
+L. Kleinrock
+, "On the Odd-Even ATM Switch,"
+Electronics Letters
+, vol. 34, no. 6, pp. 576–577, March  1998.
+[PDF]
+[BibTex]
+Z. Jiang and
+L. Kleinrock
+, "A General Optimal Video Smoothing Algorithm," in
+Proceedings of INFOCOM'98
+, San Francisco, CA, March 29-April 2,  1998.
+[PDF]
+[BibTex]
+C. Kolias and
+L. Kleinrock
+, "The Odd-Even ATM Switch,"
+IEICE Transactions on Communications
+, vol. E81B, no. 2, pp. 244–250, February  1998.
+[PDF]
+[BibTex]
+Z. Jiang and
+L. Kleinrock
+, "An Adaptive Network Prefetch Scheme,"
+IEEE Journal on Selected Areas in Communications
+, vol. 16, no. 3, pp. 358–368, 1998.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Nomadic Computing," in
+Selected Proceedings of Third INFORMS Telecommunications Conference (Keynote Address), (Conference date March 20-22, 1995)
+, Boca Raton, Florida, June  1997, pp. 5–15.
+[PDF]
+[BibTex]
+Z. Jiang and
+L. Kleinrock
+, "Prefetching Links on the WWW," in
+Proceedings of ICC'97
+, Montreal Canada, June 8-12,  1997, pp. 483–489.
+[PDF]
+[BibTex]
+P-C. Hu and
+L. Kleinrock
+, "An Analytical Model for Wormhole Routing with Finite Size Input Buffers," in
+Proceedings of 15th International Teletraffic Congress
+, Washington, DC, June 23-27,  1997, pp. 549–560.
+[PDF]
+[BibTex]
+C. Kolias and
+L. Kleinrock
+, "The Dual-Banyan (DB) Switch: A High Performance Buffered-Banyan ATM Switch," in
+ICC'97
+, Montreal, Canada, June  1997, pp. 770–776.
+[PDF]
+[BibTex]
+P-C. Hu and
+L. Kleinrock
+, "A Dynamic Timeout Scheme for Wormhole Routing Networks," in
+Proceedings of ICC'97
+, Montreal, Canada, June  1997, pp. 1406–1410.
+[PDF]
+[BibTex]
+B. Leiner, V. Cerf, D. Clark, R. Kahn,
+L. Kleinrock
+, D. Lynch, J. Postel, L. Roberts, and S.Wolff, "Past and Future History of the Internet,"
+Communications of the ACM
+, vol. 40, no. 2, pp. 102–108, February  1997.
+[PDF]
+[BibTex]
+B. Kwan, P-C. Hu, B. N., and K. L. "Best-Effort Bandwidth Reservation in High-Speed LANs Using Wormhole Routing," in
+Proceedings of the Fifth International Conference on Computer Communications and Networks
+, Rockville, MD, October 16-19,  1996, pp. 201–206.
+[PDF]
+[BibTex]
+P. Hu and
+L. Kleinrock
+, "A Simple Host Deflection Scheme for High-Speed LANs Using Wormhole Routing," in
+Proceedings of ICNP'96, (International Conference on Network Protocols)
+, Columbus, OH, October 29--November 1,  1996, pp. 124–131.
+[PDF]
+[BibTex]
+C. Kolias and
+L. Kleinrock
+, "The Odd-Even Input-Queueing ATM Switch: Performance Evaluation," in
+Proceedings of ICC'96
+, June 23-27,  1996, pp. 1674–1679.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Nomadic Computing," in
+Information Network and Data Communication, IFIP/ICCC International Conference on Information Network and Data Communication
+, Trondheim, Norway, June  1996, pp. 223–233.
+[PDF]
+[BibTex]
+L. Kleinrock
+and J. Major, "Computing and Communications Unchained: The Virtual World," in
+Proceedings of CSTB's 10th Anniversary Symposium - Defining a Decade
+, Washington, DC, May  1996, pp. 36–46.
+[PDF]
+[BibTex]
+B. Tung and
+L. Kleinrock
+, "Using Finite State Automata to Produce Self-Optimization and Self Control,"
+IEEE Transactions on Parallel and Distributed Systems
+, vol. 7, no. 4, pp. 439–448, April  1996.
+[PDF]
+[BibTex]
+A. Alwan, R. Bagrodia, N. Bambos, M. Gerla,
+L. Kleinrock
+, J. Short, and J. Villasenor, "Adaptive Mobile Multimedia Networks,"
+IEEE Personal Communications Magazine
+, vol. 3, no. 2, pp. 34–49, April  1996.
+[PDF]
+[BibTex]
+N. Bambos, J. Bannister, C. J. L. Bergman, E. Gafni, M. Gerla,
+L. Kleinrock
+, S. Monacos, P-C. Hu, B. Kannan, B. Kwan, P. Palnati, J. Peck, and S. Walton, "The Supercomputer Supernet (SSN): A High-Speed Electro-Optic Campus and Metropolitan Network," in
+SPIE Conference
+, February  1996, pp. 22–33.
+[PDF]
+[BibTex]
+C. Kolias and
+L. Kleinrock
+, "Throughput Analysis of Multiple Input-Queueing in Atm Switches," in
+IFIP-IEEE Broadband Communications
+,  1996, pp. 382–393.
+[PDF]
+[BibTex]
+L. Kleinrock
+, M. Gerla, N. Bambos, J. Cong, E. Gafni, L. Bergman, J. Bannister, S. Monacos, T. Bujewski, P. -C. Hu, B. Kannan, B. Kwan, E. Leonardi, J. Peck, P. Palnati, and S. Walton, "The Supercomputer Supernet Testbed: A WDM Based Supercomputer Interconnect,"
+JSAC/JLT Special Issue on Optical Technologies & Networks
+, vol. 14, no. 6, pp. 1388–1399, 1996.
+[PDF]
+[BibTex]
+R. Jain, A. Alwan, M. Gerla,
+L. Kleinrock
+, J. Villasenor, B.Belzer, W.Boring, S. Molloy, S. Nazareth, M. Siequeira, J. Short, and J. Tsai, "Multimedia Wireless Networking," in
+Proceedings SPIE'96
+,  1996.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Nomadicity: Anytime, Anywhere in a Disconnected World,"
+Mobile Networks and Applications (invited paper)
+, vol. 1, no. 4, pp. 351–357, January  1996.
+[PDF]
+[BibTex]
+R. Bagrodia, M. Gerla,
+L. Kleinrock
+, J. Short, and T-C. Tsai, "A Hierarchical Simulation Environment for Mobile Wireless Networks," in
+Proceedings of the Winter Simulation Conference
+, December 3-6,  1995, pp. 563–570.
+[PDF]
+[BibTex]
+R. Bagrodia, W. Chu,
+L. Kleinrock
+, and G. Popek, "Vision, Issues, and Architecture for Nomadic Computing,"
+IEEE Personal Communications
+, pp. 14–27, December  1995.
+[PDF]
+[BibTex]
+J. Short, R. Bagrodia, and
+L. Kleinrock
+, "Mobile Wireless Network System Simulation," in
+Proceedings of ACM Mobile Computing & Networking Conference (Mobicom 95)
+, November  1995, pp. 195–209.
+[PDF]
+[BibTex]
+R. Jain, J. Short,
+L. Kleinrock
+, and J. Villasenor, "PC-Notebook Based Mobile Networking: Algorithms, Architectures and Implementations," in
+Proceedings of ICC'95
+, June  1995.
+[PDF]
+[BibTex]
+P-C. Hu and
+L. Kleinrock
+, "A Queueing Model for Wormhole Routing with Timeout," in
+Proceedings of the Fourth International Conference on Computer Communications and Networks, ICCCN'95
+, May  1995, pp. 584–593.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Nomadic Computing---an Opportunity,"
+ACM SIGCOMM, Computer Communication Review
+, vol. 25, no. 1, pp. 36–40, January  1995. (ACM SIGCOMM Test of Time Paper Award)
+[PDF]
+[BibTex]
+J. Short, R. Bagrodia, and
+L. Kleinrock
+, "Mobile Wireless Network System Simulation,"
+Wireless Networks Journal
+, vol. 1, no. 4, pp. 451–467, 1995.
+[PDF]
+[BibTex]
+L. Kleinrock
+, M. Gerla, N. Bambos, J. Cong, E. Gafni, L. Bergman, and J. Bannister, "The Supercomputer Supernet: A Scalable Distributed Terabit Network,"
+Journal of High Speed Networks, Special Issue on Optical Networks
+, vol. 4, no. 4, pp. 407–424, 1995.
+[PDF]
+[BibTex]
+L. Kleinrock
+and D. Nielsen, "Data Structures and Algorithms for Extended State Space and Structural Level Reduction of the GSPN Model," in
+Proceedings of the International Conference on Application and Theory of Petri Nets
+, Zaragoza, June 20-24,  1994.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "On the Modeling and Analysis of Computer Networks,"
+Special Issue of IEEE Proceedings
+, pp. 1179–1191, August  1993.
+[PDF]
+[BibTex]
+B. Tung and
+L. Kleinrock
+, "Distributed Control Methods," in
+Proceedings of the 2nd International Symposium on High Performance Distributed Computing
+, Spokane, Washington, July 21-23,  1993, pp. 206–215.
+[PDF]
+[BibTex]
+L. Kleinrock
+and W. Korfhage, "Collecting Unused Processing Capacity: An Analysis of Transient Distributed Systems,"
+IEEE Transactions on Parallel and Distributed Systems
+, pp. 535–546, May  1993.
+[PDF]
+[BibTex]
+J. H. Huang and
+L. Kleinrock
+, "Performance Evaluation of Dynamic Sharing of Processors in Two-Stage Parallel Processing Systems,"
+IEEE Transactions on Parallel and Distributed Systems
+, vol. 4, no. 3, pp. 306–317, March  1993.
+[PDF]
+[BibTex]
+T-I. Lin and
+L. Kleinrock
+, "Performance Analysis of the Finite-Buffered 'Turn-Back' Multistage Interconnection Network," in
+Proceedings of the IFIP Workshop TC6
+, La Martinique, French Carribean Island, January 25-27,  1993, pp. 3–22.
+[PDF]
+[BibTex]
+J. C. Lu and
+L. Kleinrock
+, "A WDMA Protocol for Multichannel DQDB Networks," in
+Proceedings of the GLOBECOM '93
+, January  1993, pp. 149–153.
+[PDF]
+[BibTex]
+R. Felderman and
+L. Kleinrock
+, "Two Processor Time Warp Analysis: Capturing the Effects of Message Queueing and Rollback/State Saving Costs,"
+Memorial Issue for Felix Pollaczek. AEU special issue "Teletraffic Theory and Engineering"
+, vol. 47, no. 5-6, pp. 353–367, September/November  1993.
+[PDF]
+[BibTex]
+J. Lu and
+L. Kleinrock
+, "A Wavelength Division Multiple Access Protocol for High-Speed Local Area Networks with a Passive Star Topology,"
+Performance Evaluation
+, vol. 16, no. 1-3, pp. 223–239, November  1992.
+[PDF]
+[BibTex]
+J. H. Huang and
+L. Kleinrock
+, "Throughput Analysis and Protocol Design for CSMA and BTMA Protocols under Noisy Environment,"
+IEE Proceedings-I
+, vol. 139, no. 3, pp. 289–296, June  1992.
+[PDF]
+[BibTex]
+L. Kleinrock
+and J. H. Huang, "On Parallel Processing Systems: Amdahl's Law Generalized and Some Results on Optimal Design,"
+IEEE Transactions on Software Engineering, Special issue on Performance Evaluation Methodology (invited paper)
+, vol. 18, no. 5, pp. 434–447, May  1992.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "The Latency/Bandwidth Tradeoff in Gigabit Networks,"
+IEEE Communications Magazine
+, vol. 30, no. 4, pp. 36–40, April  1992.
+[PDF]
+[BibTex]
+J. Lu and
+L. Kleinrock
+, "An Access Protocol for High-Speed Optical LANs," in
+Proceedings of the 20th Annual Computer Science Conference
+, Kansas City, Missouri, March 3-5,  1992, pp. 287–293.
+[PDF]
+[BibTex]
+J. Lu and
+L. Kleinrock
+, "On the Performance of Wavelength Division Multiple Access Networks," in
+Proceedings of the ICC'92
+, Chicago, IL,  1992, pp. 1151–1157.
+[PDF]
+[BibTex]
+S. Shen and
+L. Kleinrock
+, "The Virtual Time Data Parallel Machine," in
+Proceedings of the IEEE Computer Society 4th Symposium on the Frontiers of Massively Parallel Computation
+, McLean, VA,  1992, pp. 46–53.
+[PDF]
+[BibTex]
+L. Kleinrock
+and F. Mehovic, "Poisson Winner Queues,"
+Performance Evaluation
+, vol. 14, no. 2, pp. 79–101, 1992.
+[PDF]
+[BibTex]
+J. C. Lu and
+L. Kleinrock
+, "Performance Analysis of Single-Hop Wavelength Division Multiple Access Networks,"
+Journal of High-Speed Networks
+, vol. 1, no. 1, pp. 61–77, 1992.
+[PDF]
+[BibTex]
+L. Kleinrock
+and R. Felderman, "Two Processor Time Warp Analysis: A Unifying Approach,"
+International Journal in Computer Simulation
+, vol. 2, no. 4, pp. 345–371, 1992. (Also UCLA Technical Report CSD-920034.)
+[PDF]
+[BibTex]
+M. Horng and
+L. Kleinrock
+, "Fault-Tolerant Routing with Regularity Restoration in Boolean N-Cube Interconnection Networks," in
+Proceedings of the Third IEEE Symposium on Parallel and Distributed Processing
+, Dallas, Texas, December 2-5,  1991, pp. 458–465.
+[PDF]
+[BibTex]
+M. Horng and
+L. Kleinrock
+, "On the Performance of a Deadlock-Free Routing Algorithm for Boolean N-Cube Interconnection Networks with Finite Buffers," in
+Proceedings of the International Conference on Parallel Processing
+, Austin, TX, August 12-16,  1991, p. iii–228.
+[PDF]
+[BibTex]
+R. Felderman and
+L. Kleinrock
+, "Two Processor Conservative Simulation Analysis," in
+Proceedings of the PADS Workshop
+, Newport Beach, CA, June  1991. (Also, Information Science Institute Tech.Rept. ISI/RS-92-299)
+[PDF]
+[BibTex]
+V. Harinarayan and
+L. Kleinrock
+, "Load Sharing in Limited Access Distributed Systems," in
+Proceedings of the ACM Sigmetrics, Conference on Measurement and Modeling of Computer Systems
+, San Diego, CA, May 21-24,  1991, pp. 21–25.
+[PDF]
+[BibTex]
+T. I. Lin and
+L. Kleinrock
+, "Performance Analysis of Finite-Buffered Multistage Interconnection Networks with a General Traffic Pattern," in
+Proceedings of the ACM Sigmetrics, Conference on Measurement and Modeling of Computer Systems
+, San Diego, CA, May 21-24,  1991, pp. 68–78.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "ISDN---the Path to Broadband Networks," in
+Proceedings of the IEEE (invited paper)
+, February  1991, pp. 112–117. Special Issue on ISDN
+[PDF]
+[BibTex]
+R. Felderman and
+L. Kleinrock
+, "Two Processor Time Warp Analysis: Some Results on a Unifying Approach," in
+Advances in Parallel and Distributed Simulation, Proceedings of the SCS Multiconference
+, Anaheim, CA, January 23-25,  1991, pp. 3–10.
+[PDF]
+[BibTex]
+H. Levy and
+L. Kleinrock
+, "Polling Systems with Zero Switch-over Periods: A General Method for Analyzing the Expected Delay,"
+Performance Evaluation
+, vol. 13, pp. 97–107, 1991.
+[PDF]
+[BibTex]
+R. Felderman and
+L. Kleinrock
+, "Bounds and Approximations for Self-Initiating Distributed Simulation without Lookahead,"
+ACM Transactions on Modelling and Computer Simulation, special issue on Distributed and Parallel Simulation Performance
+, vol. 1, no. 4, pp. 386–406, 1991. (Also, Information Sciences Institute Tech.Rept. ISI/RS-92-298)
+[PDF]
+[BibTex]
+L. Kleinrock
+, "On Distributed Systems Performance,"
+Computer Networks and ISDN Systems, Special Issue
+, vol. 20, no. 1-5, pp. 209–216, December  1990.
+[PDF]
+[BibTex]
+J. H. Huang and
+L. Kleinrock
+, "Distributed Selectsort Sorting Algorithms on Broadcast Communication Networks,"
+Parallel Computing
+, vol. 16, no. 2 & 3, pp. 183–190, December  1990.
+[PDF]
+[BibTex]
+C. Rosenberg, R. Mazumdar, and
+L. Kleinrock
+, "On the Analysis of Exponential Queuing Systems with Randomly Changing Arrival Rates: Stability Conditions and Finite Buffer Scheme with a Resume Level,"
+Performance Evaluation
+, vol. 11, no. 4, pp. 283–292, November  1990.
+[PDF]
+[BibTex]
+L. Kleinrock
+and H. Levy, "On the Behavior of a Very Fast Bidirectional Bus Network,"
+IEEE Transactions on Communications
+, vol. 38, no. 10, pp. 1854–1862, October  1990.
+[PDF]
+[BibTex]
+J-H. Huang and
+L. Kleinrock
+, "Optimal Parallel Merging and Sorting Algorithms Using $sqrtN$ Processors without Memory Contention,"
+Parallel Computing
+, vol. 14, no. 1, pp. 89–97, May  1990.
+[PDF]
+[BibTex]
+R. Felderman and
+L. Kleinrock
+, "An Upper Bound on the Improvement of Asynchronous Versus Synchronous Distributed Processing," in
+The Society for Computer Simulation, Distributed Simulation 1990
+, January  1990, pp. 131–136.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "On Distributed Systems Performance," in
+Proceedings of the 7th ITC Specialist Seminar
+, Australia, September  1989.
+[PDF]
+[BibTex]
+L. Kleinrock
+and W. Korfhage, "Collecting Unused Processing Capacity: An Analysis of Transient Distributed Systems,"
+reprinted from, Proceedings of the 9th International Conference on Distributed Computing Systems, San Diego, June 5-9, 1989, for The Computer Society of the IEEE
+, pp. 482–489, June  1989.
+[PDF]
+[BibTex]
+G. Akavia and
+L. Kleinrock
+, "Hierarchical Use of Dedicated Channels,"
+Performance Evaluation, An International Journal
+, vol. 9, no. 2, pp. 135–142, April  1989.
+[PDF]
+[BibTex]
+R. Felderman, E. Schooler, and
+L. Kleinrock
+, "The Benevolent Bandit Laboratory: A Testbed for Distributed Algorithms,"
+IEEE Journal on Selected Areas in Communications, (JSAC)
+, vol. 7, no. 2 (ISSN 0733-8716), pp. 303–311, February  1989.
+[PDF]
+[BibTex]
+M. Gerla and
+L. Kleinrock
+, "Congestion Control in Interconnected LAN's,"
+IEEE Network
+, vol. 2, no. 1, pp. 72–76, January  1988.
+[PDF]
+[BibTex]
+L. Kleinrock
+and H. Levy, "The Analysis of Random Polling Systems,"
+Journal of Operations Research
+, vol. 36, no. 5, pp. 716–732, September-October  1988.
+[PDF]
+[BibTex]
+L. Kleinrock
+and H. Levy, "On the Behavior of a Very Fast Bidirectional Bus Network," in
+Proceedings of the IEEE International Conference on Communications (ICC '87)
+, Seattle, Washington, June 7-10,  1987, pp. 1419–1426.
+[PDF]
+[BibTex]
+H. Takagi and
+L. Kleinrock
+, "Correction to `Throughput Analysis for Persistent CSMA Systems',"
+Correspondence item, IEEE Transactions on Communications
+, vol. COM-35, no. 2, pp. 243–245, February  1987.
+[PDF]
+[BibTex]
+L. Kleinrock
+and J. Silvester, "Spatial Reuse in Multihop Packet Radio Networks,"
+invited paper for Proceedings of the IEEE, Special Issue on Packet Radio Networks
+, vol. 75, no. 1, pp. 156–167, January  1987.
+[PDF]
+[BibTex]
+H. Takagi and
+L. Kleinrock
+, "Approximate Output Processes in Hidden-User Packet Radio Systems,"
+IEEE Transactions on Communications
+, vol. COM-34, no. 7, pp. 685–693, July  1986.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Performance Models for Distributed Systems," in
+invited paper (and keynote presentation) for Teletraffic Analysis and Computer Performance Evaluation, the Proceedings of the International Seminar held at The Centre for Mathematics and Computer Science
+, Amsterdam, June 2-6,  1986, pp. 1–16.
+[PDF]
+[BibTex]
+R. Dechter and
+L. Kleinrock
+, "Broadcast Communications and Distributed Algorithms,"
+IEEE Transactions on Computers
+, vol. C-35, no. 3, pp. 210–219, March  1986.
+[PDF]
+[BibTex]
+H. Levy and
+L. Kleinrock
+, "A Queue with Starter and a Queue with Vacations: Delay Analysis by Decomposition,"
+Operations Research
+, vol. 34, no. 3, pp. 426–436, May-June  1986. (cover article)
+[PDF]
+[BibTex]
+H. Takagi and
+L. Kleinrock
+, "Throughput-Delay Characteristics of Some Slotted-ALOHA Multihop Packet Radio Networks,"
+IEEE Transactions on Communications
+, vol. COM-33, no. 11, pp. 1200–1207, November  1985.
+[PDF]
+[BibTex]
+H. Takagi and
+L. Kleinrock
+, "Output Processes in Contention Packet Broadcasting Systems,"
+IEEE Transactions on Communications
+, vol. COM-33, no. 11, pp. 1191–1199, November  1985. (Also UCLA CSD Report No. 821006.)
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Distributed Systems,"
+invited paper for ACM/IEEE-CS Joint Special Issue: Communications of the ACM
+, vol. 28, no. 11, pp. 1200–1213, November  1985. (Also in Computer, Vol. 18, No. 11, pp. 90-103.)
+[PDF]
+[BibTex]
+H. Takagi and
+L. Kleinrock
+, "Mean Packet Queueing Delay in a Buffered Two User CSMA/CD System,"
+published as Correspondence in IEEE Transactions on Communications
+, vol. COM-33, no. 10, pp. 1136–1139, October  1985.
+[PDF]
+[BibTex]
+M. L. Molle and
+L. Kleinrock
+, "Virtual Time CSMA: Why Two Clocks Are Better Than One,"
+IEEE Transactions on Communications
+, vol. COM-33, no. 9, pp. 919–933, September  1985.
+[PDF]
+[BibTex]
+R. Nelson and
+L. Kleinrock
+, "Spatial TDMA: A Collision Free Multihop Channel Access Protocol,"
+IEEE Transactions on Communications
+, vol. COM-33, no. 9, pp. 934–944, September  1985.
+[PDF]
+[BibTex]
+R. Nelson and
+L. Kleinrock
+, "Rude-CSMA, a Multihop Channel Access Protocol,"
+IEEE Transactions on Communications
+, vol. COM-33, no. 8, pp. 785–791, August  1985.
+[PDF]
+[BibTex]
+H. Takagi and
+L. Kleinrock
+, "Throughput Analysis for Persistent CSMA Systems,"
+IEEE Transactions on Communications
+, vol. COM-33, no. 7, pp. 627–638, July  1985.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "On Queueing Problems in Random Access Communications,"
+invited paper for IEEE Transactions on Information Theory, Special Issue
+, vol. I5-31, no. 2, pp. 166–175, March  1985.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "On the Theory of Distributed Processing," in
+Proceedings of the Twenty-Second Annual Allerton Conference on Communication, Control and Computing
+, Urbana-Champaign, October  1984, pp. 60–70.
+[PDF]
+[BibTex]
+R. Nelson and
+L. Kleinrock
+, "The Spatial Capacity of a Slotted ALOHA Multihop Packet Radio Network with Capture,"
+IEEE Transactions on Communications
+, vol. COM-32, no. 6, pp. 684–694, June  1984.
+[PDF]
+[BibTex]
+H. Takagi and
+L. Kleinrock
+, "Optimal Transmission Ranges for Randomly Distributed Packet Radio Terminals,"
+IEEE Transactions on Communications
+, vol. COM-32, no. 3, pp. 246–257, March  1984. (Also "Multiple Access Communications, Foundations for Emerging Technologies", Norman Abramson (Ed.), IEEE Press, 1992, pp.342-353.)
+[PDF]
+[BibTex]
+H. Takagi and
+L. Kleinrock
+, "Diffusion Process Approximation for the Queueing Delay in Contention Packet Broadcasting Systems," in
+Performance of Computer Communication Systems
+, Zurich, March 21-23,  1984, pp. 111–124.
+[PDF]
+[BibTex]
+L. Kleinrock
+and G. Akavia, "On a Self-Adjusting Capability of ALOHA Networks,"
+IEEE Transactions on Communications
+, vol. COM-32, no. 1, pp. 40–47, January  1984.
+[PDF]
+[BibTex]
+M. Gerla,
+L. Kleinrock
+, and Y. Afek, "A Distributed Routing Algorithm for Unidirectional Networks," in
+reprinted from IEEE Global Telecommunications Conference, GLOBECOM '83
+, San Diego, CA., December  1983, p. 19.3.1–19.3.5.
+[PDF]
+[BibTex]
+J. Silvester and
+L. Kleinrock
+, "On the Capacity of Multihop Slotted ALOHA Networks with Regular Structure,"
+IEEE Transactions on Communications
+, vol. 31, no. 8, pp. 974–982, August  1983.
+[PDF]
+[BibTex]
+J. Silvester and
+L. Kleinrock
+, "On the Capacity of Single-Hop ALOHA Networks for Various Traffic Matrices and Transmission Strategies,"
+IEEE Transactions on Communications
+, vol. 31, no. 8, pp. 983–991, August  1983.
+[PDF]
+[BibTex]
+R. Nelson and
+L. Kleinrock
+, "Maximum Probability of Successful Transmission in a Random Planar Packet Radio Network," in
+IEEE Infocom '83 Proceedings
+, San Diego, California, April 18-21  1983, pp. 365–370.
+[PDF]
+[BibTex]
+A. Belghith and
+L. Kleinrock
+, "A Distributed Routing Scheme with Mobility Handling in Stationless Multi-Hop Packet Radio Networks," in
+ACM SIGCOMM\'83 Proceedings
+, Austin, Texas, March 9  1983, pp. 101–108. (Packet Radio Temporary Note 313)
+[PDF]
+[BibTex]
+M. Scholl and
+L. Kleinrock
+, "On an M/G/1 Queue with Rest Period and Certain Service Independent Queueing Disciplines,"
+Operations Research
+, vol. 31, no. 4, pp. 705–719, July-August  1983.
+[PDF]
+[BibTex]
+W. E. Naylor and
+L. Kleinrock
+, "Stream Communication in Packet-Switched Networks,"
+IEEE Transactions on Communications
+, pp. 2527–2534, December  1982.
+[PDF]
+[BibTex]
+R. Nelson and
+L. Kleinrock
+, "Mean Message Delay in Multi-Hop Packet Radio Networks Using Spatial-TDMA," in
+Conference Record, International Conference on Communications
+, Philadelphia, Pennsylvania, June 13-17  1982, p. 1c.4.1–1c.4.4.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Packet Switching Principles," in
+Proceedings of the L. M. Ericsson Award Ceremony
+, Stockholm, Sweden, May 5  1982. (Also as a special editorial in Journal of Telecommunication Networks, Spring 1983, as well as in Ericsson Reviews.)
+[PDF]
+[BibTex]
+L. Kleinrock
+, "A Decade of Network Development,"
+Journal of Telecommunication Networks
+, pp. 1–11, Spring  1982.
+[PDF]
+[BibTex]
+L. Kleinrock
+and A. Nilsson, "On Optimal Scheduling Algorithms for Time-Shared Systems,"
+Journal of the ACM
+, vol. 28, no. 3, pp. 477–486, July  1981.
+[PDF]
+[BibTex]
+R. Gail and
+L. Kleinrock
+, "An Invariant Property of Computer Network Power," in
+Proceedings of the International Conference on Communications
+, Denver, Colorado, June 14-18,  1981, p. 63.1.1–63.1.5.
+[PDF]
+[BibTex]
+F. Kamoun,
+L. Kleinrock
+, and R. Muntz, "Queueing Analysis of the Ordering Issue in a Distributed Database Concurrency Control Mechanism," in
+Proceedings of the Second International Conference on Distributed Computing Systems
+, Paris, France, April  1981, pp. 13–23.
+[PDF]
+[BibTex]
+P. Kermani and
+L. Kleinrock
+, "A Tradeoff Study of Switching Systems in Computer Communication Networks,"
+IEEE Transactions on Computers
+, vol. C-29, no. 12, pp. 1052–1060, December  1980.
+[PDF]
+[BibTex]
+A. Grnarov,
+L. Kleinrock
+, and M. Gerla, "A Highly Reliable, Distributed Loop Network Architecture," in
+Proceedings of Tenth International Symposium on Fault-Tolerant Computing
+, Kyoto, Japan, October  1980, pp. 319–324.
+[PDF]
+[BibTex]
+L. Kleinrock
+and C. W. Tseng, "Flow Control Based on Limiting Permit Generation Rates," in
+Proceedings of the Fifth International Conference on Computer Communication
+, Atlanta, Georgia, October  1980, pp. 785–790.
+[PDF]
+[BibTex]
+L. Kleinrock
+and Y. Yemini, "Interfering Queueing Processes in Packet Switched Broadcast Communication," in
+Information Processing 80, Proceedings of IFIP Congress 80
+, Tokyo, Japan, October  1980, pp. 557–562.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Analysis and Design Issues Addressed at ICCC 78,"
+Computer Networks
+, vol. 4, pp. 175–185, September  1980.
+[PDF]
+[BibTex]
+F. Kamoun and
+L. Kleinrock
+, "Analysis of Shared Finite Storage in a Computer Network Node Environment under General Traffic Conditions,"
+IEEE Transactions on Communications
+, vol. COM-28, pp. 992–1003, July  1980.
+[PDF]
+[BibTex]
+L. Kleinrock
+and M. Scholl, "Packet Switching in Radio Channels: New Conflict-Free Multiple Access Schemes,"
+IEEE Transactions on Communications
+, vol. COM-28, pp. 1015–1029, July  1980.
+[PDF]
+[BibTex]
+M. Gerla and
+L. Kleinrock
+, "Flow Control: A Comparative Survey,"
+IEEE Transactions on Communications
+, vol. COM-28, no. 4, pp. 553–574, April  1980. (Also published in Computer Network Architectures and Protocols, P. Greed, Ed., Plenum Press, pp. 361-412, 1982.)
+[PDF]
+[BibTex]
+P. Kermani and
+L. Kleinrock
+, "Dynamic Flow Control in Store and Forward Computer Networks,"
+IEEE Transactions on Communications
+, vol. COM-28, pp. 263–271, February  1980.
+[PDF]
+[BibTex]
+L. Kleinrock
+and P. Kermani, "Static Flow Control in Store and Forward Computer Networks,"
+IEEE Transactions on Communications
+, vol. COM-28, pp. 271–279, February  1980.
+[PDF]
+[BibTex]
+A. Grnarov,
+L. Kleinrock
+, and M. Gerla, "A New Algorithm for Symbolic Reliability Analysis of Computer-Communications Networks," in
+Pacific Telecommunications Conference Proceedings
+, Honolulu, Hawaii, January  1980, p. 1a11–19.
+[PDF]
+[BibTex]
+J. Silvester and
+L. Kleinrock
+, "On the Capacity of One-Hop ALOHA Packet Radio Networks with Adjustable Transmission Power," in
+Pacific Telecommunications Conference Proceedings
+, Honolulu, Hawaii, January  1980, p. 1a–25 to 1a.
+[PDF]
+[BibTex]
+L. Kleinrock
+and F. Kamoun, "Optimal Clustering Structures for Hierarchical Topological Design of Large Computer Networks,"
+Networks
+, vol. 10, no. 3, pp. 221–248, Fall  1980.
+[PDF]
+[BibTex]
+A. Grnarov,
+L. Kleinrock
+, and M. Gerla, "A New Algorithm for Network Reliability Computation," in
+Computer Networking Symposium Proceedings
+, Gaithersburg, Maryland, December  1979, pp. 17–20.
+[PDF]
+[BibTex]
+F. Kamoun and
+L. Kleinrock
+, "Stochastic Performance Evaluation of Hierarchical Routing for Large Networks,"
+Computer Networks
+, vol. 3, pp. 337–353, November  1979.
+[PDF]
+[BibTex]
+M. Molle and
+L. Kleinrock
+, "Analysis of Concentrated ALOHA Satellite Links," in
+Proceedings of the Sixth Data Communications Symposium
+, Pacific Grove, California, November  1979.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "On a New Class of Queueing Models for Distributed Environments," in
+Proceedings of Ninth International Teletraffic Congress
+, Torremolinos, Spain, October  1979.
+[PDF]
+[BibTex]
+P. Kermani and
+L. Kleinrock
+, "Virtual Cut-through: A New Computer Communication Switching Technique,"
+Computer Networks
+, vol. 3, no. 4, pp. 267–286, September  1979.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Power and Deterministic Rules of Thumb for Probabilistic Problems in Computer Communications," in
+Conference Record, International Conference on Communications
+, Boston, Massachusetts, June  1979, p. 43.1.1–43.1.10.
+[PDF]
+[BibTex]
+M. Scholl and
+L. Kleinrock
+, "On a Mixed Mode Multiple Access Scheme for Packet-Switched Radio Channels,"
+IEEE Transactions on Communications
+, pp. 906–911, June  1979.
+[PDF]
+[BibTex]
+P. Kermani and
+L. Kleinrock
+, "A Tradeoff Study of Switching Systems," in
+Conference Record, International Conference On Communications
+, Boston, Massachusetts, June  1979, p. 20.4.1–20.4.8.
+[PDF]
+[BibTex]
+Y. Yemini and
+L. Kleinrock
+, "On a General Rule for Access Control or Silence is Golden...," in
+Proceedings of the International Symposium on Flow Control in Computer Networks
+, Versailles, France, February  1979, pp. 335–347.
+[PDF]
+[BibTex]
+J. Silvester and
+L. Kleinrock
+, "On the Capacity of Aloha Packet Radio Networks for Local Traffic Matrices," in
+Proceedings of the Twelfth Hawaii International Conference on System Sciences
+, Honolulu, Hawaii, January  1979, pp. 231–237.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "On Resource Sharing in a Distributed Communication Environment,"
+IEEE Communications Magazine
+, vol. 17, no. 1, pp. 27–34, January  1979.
+[PDF]
+[BibTex]
+L. Kleinrock
+and P. Kermani, "A Network Algebra for the Performance Evaluation of Interconnected Networks," in
+Conference Record, National Telecommunications Conference
+, Birmingham, Alabama, December  1978, p. 44.1.1–44.1.6.
+[PDF]
+[BibTex]
+L. Kleinrock
+and J. Silvester, "Optimum Transmission Radii for Packet Radio Networks or Why Six is a Magic Number," in
+Conference Record, National Telecommunications Conference
+, Birmingham, Alabama, December  1978, p. 4.3.1–4.3.5.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Principles and Lessons in Packet Communications," in
+Proceedings of the IEEE, Special Issue on Packet Communications
+, November  1978, pp. 1320–1329. (Also presented at WESCON/79, San Francisco, California and published in the proceedings.)
+[PDF]
+[BibTex]
+L. Kleinrock
+and M. Gerla, "On the Measured Performance of Packet Satellite Access Schemes," in
+Proceedings of the Fourth International Conference on Computer Communication
+, Kyoto, Japan, September  1978, pp. 535–542.
+[PDF]
+[BibTex]
+L. Kleinrock
+and Y. Yemini, "An Optimal Adaptive Scheme for Multiple Access Broadcast Communication," in
+Conference Record, International Conference on Communications
+, Toronto, Ontario, June  1978, p. 7.2.1–7.2.5.
+[PDF]
+[BibTex]
+F. Tobagi and
+L. Kleinrock
+, "The Effect of Acknowledgment Traffic on the Capacity of Packet-Switched Radio Channels,"
+IEEE Transactions on Communications
+, vol. COM-26, pp. 815–825, June  1978.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "On Flow Control in Computer Networks," in
+Conference Record, Proceedings of the International Conference on Communications
+, Toronto, Ontario, June  1978, p. 27.2.1–27.2.5.
+[PDF]
+[BibTex]
+M. Gerla, L. Nelson, and
+L. Kleinrock
+, "Packet Satellite Multiple Access: Models and Measurements," in
+Conference Record, National Telecommunications Conference
+, Los Angeles, California, December  1977, p. 12.2/1–12.2/8.
+[PDF]
+[BibTex]
+F. Tobagi and
+L. Kleinrock
+, "Packet Switching in Radio Channels: Part IV--Stability Considerations and Dynamic Control in Carrier Sense Multiple Access,"
+IEEE Transactions on Communications
+, vol. COM-25, pp. 1103–1119, October  1977.
+[PDF]
+[BibTex]
+M. Gerla and
+L. Kleinrock
+, "Closed Loop Stability Controls for S-Aloha Satellite Communications," in
+Proceedings of the Fifth Data Communications Symposium
+, Snowbird, Utah, September  1977, pp. 2.10–2.19.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Performance of Distributed Multi-Access Computer-Communication Systems," in
+Information Processing 77, Proceedings of IFIP Congress 77
+, Toronto, Canada, August  1977, pp. 547–552.
+[PDF]
+[BibTex]
+L. Kleinrock
+and M. Scholl, "Packet Switching in Radio Channels: New Conflict-Free Multiple Access Schemes for a Small Number of Data Users," in
+Conference Record, International Conference on Communications
+, Chicago, Illinois, June  1977, pp. 22.1–105 to 111.
+[PDF]
+[BibTex]
+P. Kermani and
+L. Kleinrock
+, "Analysis of Buffer Allocation Schemes in a Multiplexing Node," in
+Conference Record, International Conference on Communications
+, Chicago, Illinois, June  1977, pp. 30.4–269 to 275.
+[PDF]
+[BibTex]
+L. Kleinrock
+and F. Kamoun, "Hierarchical Routing for Large Networks, Performance Evaluation and Optimization,"
+Computer Networks
+, vol. 1, no. 3, pp. 155–174, January  1977.
+[PDF]
+[BibTex]
+M. Gerla and
+L. Kleinrock
+, "On the Topological Design of Distributed Computer Networks,"
+IEEE Transactions on Communications
+, vol. COM-25, pp. 48–60, January  1977.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "On Communications and Networks,"
+IEEE Transactions on Computers, 25th Anniversary Issue
+, vol. C-25, pp. 1326–1335, December  1976.
+[PDF]
+[BibTex]
+W. Naylor and
+L. Kleinrock
+, "On Effect of Periodic Routing Updates in Packet-Switched Networks," in
+Conference Record, National Telecommunications Conference
+, Dallas, Texas, November  1976, p. 16.2/1–16.2/7.
+[PDF]
+[BibTex]
+L. Kleinrock
+and F. Kamoun, "Data Communications through Large Packet-Switching Networks," in
+Proceedings of the Eighth International Teletraffic Congress
+, Sydney, Australia, November  1976, p. 521/1–521/10.
+[PDF]
+[BibTex]
+F. Tobagi and
+L. Kleinrock
+, "Packet Switching in Radio Channels: Part III---Polling and (Dynamic) Split-Channel Reservation Multiple Access,"
+IEEE Transactions on Communications
+, vol. COM-24, no. 8, pp. 832–844, August  1976.
+[PDF]
+[BibTex]
+F. Tobagi, S. Lieberson, and
+L. Kleinrock
+, "On Measurement Facilities in Packet Radio Systems," in
+AFIPS Conference Proceedings, National Computer Conference
+, New York, June  1976, pp. 589–596.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "ARPANET Lessons," in
+Conference Record, International Conference on Communications
+, Philadelphia, Pennsylvania, June  1976, p. 20/1–20/6.
+[PDF]
+[BibTex]
+F. Tobagi and
+L. Kleinrock
+, "On the Analysis and Simulation of Buffered Packet Radio Systems," in
+Proceedings of the Ninth Hawaii International Conference on System Sciences
+, Honolulu, Hawaii, January  1976, pp. 42–45.
+[PDF]
+[BibTex]
+F. Kamoun and
+L. Kleinrock
+, "Analysis of Shared Storage in a Computer Network Environment," in
+Proceedings of the Ninth Hawaii International Conference on System Sciences
+, Honolulu, Hawaii, January  1976, pp. 89–92.
+[PDF]
+[BibTex]
+L. Kleinrock
+and F. Tobagi, "Packet Switching in Radio Channels: Part I---Carrier Sense Multiple-Access Modes and Their Throughput-Delay Characteristics,"
+IEEE Transactions on Communications
+, vol. COM-23, no. 12, pp. 1400–1416, December  1975. (Also, "Multiple Access Communications, Foundations for Emerging Technologies", Norman Abramson (Ed), IEEE Press, 1992, pp. 272-288.) ACM inaugural SIGMOBILE Test of Time award 2016
+[PDF]
+[BibTex]
+F. Tobagi and
+L. Kleinrock
+, "Packet Switching in Radio Channels: Part II---the Hidden Terminal Problem in Carrier Sense Multiple-Access and the Busy-Tone Solution,"
+IEEE Transactions on Communications
+, vol. COM-23, no. 12, pp. 1417–1433, December  1975.
+[PDF]
+[BibTex]
+L. Kleinrock
+and H. Opderbeck, "Throughput in the ARPANET---Protocols and Measurement," in
+Fourth Data Communications Symposium
+, Quebec City, Canada, October  1975, pp. 6–1 to 6. (Also in IEEE Transactions on Communications, Vol. COM-25, pp. 95-104, January 1977.)
+[PDF]
+[BibTex]
+S. Lam and
+L. Kleinrock
+, "Packet Switching in a Multiaccess Broadcast Channel: Dynamic Control Procedures,"
+IEEE Transactions on Communications
+, vol. COM-23, pp. 891–904, September  1975.
+[PDF]
+[BibTex]
+L. Kleinrock
+and F. Tobagi, "Random Access Techniques for Data Transmission over Packet Switched Radio Channels," in
+AFIPS Conference Proceedings, National Computer Conference
+, Anaheim, California, May  1975, pp. 187–201.
+[PDF]
+[BibTex]
+S. Lam and
+L. Kleinrock
+, "Dynamic Control Schemes for a Packet Switched Multi-Access Broadcast Channel," in
+AFIPS Conference Proceedings, National Computer Conference
+, Anaheim, California, May  1975, pp. 143–153.
+[PDF]
+[BibTex]
+L. Kleinrock
+and S. Lam, "Packet Switching in a Multiaccess Broadcast Channel: Performance Evaluation,"
+IEEE Transactions on Communications
+, vol. COM-23, pp. 410–423, April  1975.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "On Giant Stepping in Packet Radio Networks,"
+UCLA, Packet Radio Temporary Note #5, Prt 136
+, March  1975.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Practical Queueing Techniques for Efficient I/O," in
+Input/Output, Infotech State of the Art Report 22
+, Berkshire, England,  1975, pp. 191–215.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "On the Impact of Computer Networks," in
+Collective Phenomena and the Applications of Physics to Other Fields of Science, (Proceedings of seminar to have been held in Moscow, USSR, July 1974), Brain Research Publications
+, Fayetteville, New York,  1975, pp. 294–303.
+[PDF]
+[BibTex]
+H. Opderbeck and
+L. Kleinrock
+, "The Influence of Control Procedures on the Performance of Packet-Switched Networks," in
+Conference Record, National Telecommunications Conference
+, San Diego, California, December  1974, pp. 810–817.
+[PDF]
+[BibTex]
+L. Kleinrock
+, W. Naylor, and H. Opderbeck, "A Study of Line Overhead in the Arpanet," in
+Proceedings of the IIASA Conference on Computer Communication Networks
+, Schloss Laxenburg, Austria, October  1974, pp. 87–109. (Also in Communications of the ACM, Vol. 19, pp. 3-12, January 1976)
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Resource Allocation in Computer Systems and Computer Communication Networks," in
+Information Processing 74, Proceedings of IFIP Congress 74
+, Stockholm, Sweden, August  1974, pp. 11–18.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Research Areas in Computer Communication,"
+ACM SIGCOMM, Computer Communication Review
+, vol. 1, no. 2, pp. 1–4, July  1974. (ACM SIGCOMM Test of Time Paper Award)
+[PDF]
+[BibTex]
+L. Kleinrock
+and F. Tobagi, "Carrier Sense Multiple Access for Packet Switched Radio Channels," in
+Conference Record, International Conference on Communications
+, Minneapolis, Minnesota, June  1974, p. 21b/1–21b/7.
+[PDF]
+[BibTex]
+L. Kleinrock
+and W. Naylor, "On Measured Behavior of the ARPA Network," in
+AFIPS Conference Proceedings, National Computer Conference
+, Chicago, Illinois, May  1974, pp. 767–780.
+[PDF]
+[BibTex]
+L. Kleinrock
+and S. Lam, "On Stability of Packet Switching in a Random Multi-Access Broadcast Channel," in
+Computer Nets, A Supplement to the Proceedings of the Seventh Hawaii International Conference on System Sciences
+, Honolulu, Hawaii, January  1974, pp. 74–77.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Analytical Techniques for Computer-Communication Networks," in
+Computers and Communications, Proceedings of the Joint IBM - University of Newcastle upon Tyne Seminar, Tyne Seminar, University of Newcastle upon Tyne
+, England, September  1973, pp. 63–90.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Challenging Problems in the Design of Computer-Communication Networks," in
+Proceedings of the Twentieth International Meeting of the Institute of Management Sciences
+, Tel Aviv, Israel, June  1973, pp. 152–158.
+[PDF]
+[BibTex]
+L. Kleinrock
+and S. Lam, "Packet Switching in a Slotted Satellite Channel," in
+AFIPS Conference Proceedings, National Computer Conference
+, New York, June  1973, pp. 703–710.
+[PDF]
+[BibTex]
+L. Kleinrock
+and J. Hsu, "A Continuum of Computer Processor-Sharing Queueing Models," in
+Proceedings of the Seventh International Teletraffic Congress
+, Stockholm, Sweden, June  1973, p. 431/1–431/6.
+[PDF]
+[BibTex]
+L. Fratta, M. Gerla, and
+L. Kleinrock
+, "The Flow Deviation Method: An Approach to Store-and-Forward Communication Network Design,"
+Networks
+, vol. 3, no. 2, pp. 97–133, 1973.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Computer Network Design Principles Derived from Experience and Measurements on the ARPA Network," in
+Summary in Proceedings of the International Telemetering Conference
+, Los Angeles, California, October  1972, pp. 440–441.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Performance Models and Measurements of the Arpa Computer Network," in
+ONLINE 72 Conference Proceedings
+, Uxbridge, Middlesex, England, September  1972, pp. 61–85. (Also in Computer Communication Networks, Proceedings of the NATO Advanced Study Institute Series, Noordhoof, Leyden, The Netherlands, pp. 63-87, 1975.)
+[PDF]
+[BibTex]
+L. Kleinrock
+and R. Muntz, "Processor Sharing Queueing Models of Mixed Scheduling Disciplines for Time Shared Systems,"
+Journal of the ACM
+, vol. 19, no. 3, pp. 464–482, July  1972.
+[PDF]
+[BibTex]
+H. Frank, R. Kahn, and
+L. Kleinrock
+, "Computer Communication Network Design---Experience with Theory and Practice," in
+AFIPS Conference Proceedings, Spring Joint Computer Conference
+, Atlantic City, New Jersey, May  1972, pp. 255–270. (Also in Networks, Vol. 2, No. 2, pp. 135--166, 1972)
+[PDF]
+[BibTex]
+L. Kleinrock
+, R. Muntz, and J. Hsu, "Tight Bounds on the Average Response Time for Processor-Sharing Models of Time-Shared Computer Systems," in
+Information Processing 71, Proceedings of IFIP Congress 71
+, Ljubljana, Yugoslavia, August  1971, pp. 124–133.
+[PDF]
+[BibTex]
+G. Fultz and
+L. Kleinrock
+, "Adaptive Routing Techniques for Store-and-Forward Computer-Communication Networks," in
+Conference Record, Proceedings of the IEEE International Conference on Communications
+, Montreal, Canada, June  1971, p. 39/1–39/8.
+[PDF]
+[BibTex]
+J. Ziegler and
+L. Kleinrock
+, "Nodal Blocking in Large Networks," in
+Conference Record, Proceedings of the IEEE International Conference on Communications
+, Montreal, Canada, June  1971, pp. 39–9 to 39.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Delay in Communication and Computer Networks," in
+IEEE International Convention Digest
+, New York, March  1971, pp. 304–305.
+[PDF]
+[BibTex]
+L. Kleinrock
+and K. Stevens, "Fisheye: A Lenslike Computer Display Transformation," , 1971.
+[PDF]
+[BibTex]
+L. Kleinrock
+, R. Muntz, and E. Rodemich, "The Processor-Sharing Queueing Model for Time-Shared Systems with Bulk Arrivals,"
+Networks
+, vol. 1, no. 1, pp. 1–13, 1971.
+[PDF]
+[BibTex]
+L. Kleinrock
+and R. Muntz, "Multilevel Processor-Sharing Queueing Models for Time-Shared Systems," in
+Proceedings of the Sixth International Teletraffic Congress
+, Munich, Germany, September  1970, p. 341/1–341/8.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Swap Time Considerations in Time-Shared Systems,"
+IEEE Transactions on Computers
+, vol. C-19, no. 6, pp. 534–540, June  1970.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "A Continuum of Time-Sharing Scheduling Algorithms," in
+AFIPS Conference Proceedings, Spring Joint Computer Conference
+, Atlantic City, New Jersey, May  1970, pp. 453–458.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Analytic and Simulation Methods in Computer Network Design," in
+AFIPS Conference Proceedings, Spring Joint Computer Conference
+, Atlantic City, New Jersey, May  1970, pp. 569–579.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Comparison of Solution Methods for Computer Network Models," in
+Conference Record, IEEE Computers and Communications
+, Rome, New York, September  1969, pp. 295–303.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "On Swap Time in Time-Shared Systems," in
+IEEE Computer Group Conference Digest
+, Minneapolis, Minnesota, June  1969, pp. 37–41.
+[BibTex]
+L. Kleinrock
+, "Models for Computer Networks," in
+Conference Record, IEEE International Conference on Communications
+, Boulder, Colorado, June  1969, p. 21/9–21/16.
+[PDF]
+[BibTex]
+H. Katzenstein,
+L. Kleinrock
+, A. Stubberud, and S. Friedland, "Application of the Mathematical Theory of Sequential Sampling to Gamma Scanning in Nuclear Medicine,"
+Mathematical Biosciences
+, vol. 4, no. 3-4, pp. 499–530, May  1969.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "T.V. Data Compression by a Decaying Slope Threshold Method," in
+Proceedings of the Second Hawaii International Conference on System Sciences
+, Honolulu, Hawaii, January  1969, pp. 49–52.
+[PDF]
+[BibTex]
+E. G. Coffman and
+L. Kleinrock
+, "Feedback Queueing Models for Time-Shared Systems,"
+Journal of the ACM
+, vol. 15, no. 4, pp. 549–576, October  1968.
+[PDF]
+[BibTex]
+L. Kleinrock
+l, "Certain Analytic Results for Time-Shared Processors," in
+Proceedings of the International Federation for Information Processing Congress (also printed in North Holland Publishing Company - Amsterdam 1969 pp. 838-845)
+, Edinburg, Scotland, August  1968, p. d119–d125.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Some Results on the Design of Communication Nets," in
+Conference Record, International Conference on Communications
+, Philadelphia, Pennsylvania, June  1968, pp. 699–705.
+[PDF]
+[BibTex]
+E. Coffman and
+L. Kleinrock
+, "Computer Scheduling Methods and Their Countermeasures," in
+AFIPS Conference Proceedings
+, Atlantic City, New Jersey, April  1968, pp. 11–21.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Some Recent Results for Time-Shared Processors," in
+Proceedings of the Hawaii International Conference on System Sciences,
+Honolulu, Hawaii, January  1968, pp. 756–759.
+[PDF]
+[BibTex]
+L. Kleinrock
+and E. Coffman, "Distribution of Attained Service for Time-Shared Systems,"
+Journal of Computers and System Science
+, vol. 1, no. 3, pp. 287–298, October  1967.
+[PDF]
+[BibTex]
+G. Estrin and
+L. Kleinrock
+, "Measures, Models and Measurements for Time-Shared Computer Utilities," in
+Proceedings of the Twenty-Second National Conference of the ACM
+, Washington, D.C., August  1967, pp. 85–96.
+[PDF]
+[BibTex]
+E. Coffman and
+L. Kleinrock
+, "Some Feedback Queueing Models for Time-Shared Systems," in
+Proceedings of the Fifth International Teletraffic Congress
+, New York, June  1967, pp. 288–304.
+[PDF]
+[BibTex]
+I. Jacobs and
+L. Kleinrock
+, "Prefix Coding of Histograms for Minimal Storage,"
+IEEE Transactions on Communication Technology
+, vol. COM-15, April  1967.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Time-Shared Systems: A Theoretical Treatment,"
+Journal of the ACM
+, vol. 14, no. 2, pp. 242–261, April  1967.
+[PDF]
+[BibTex]
+L. Kleinrock
+and R. Finklestein, "Time Dependent Priority Queues,"
+Operations Research
+, vol. 15, no. 1, pp. 104–116, January--February  1967.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Optimum Bribing for Queue Position,"
+Operations Research
+, vol. 15, no. 2, pp. 304–318, March--April  1967.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Queueing with Strict and Lag Priority Mixtures," in
+Proceedings of the Fourth International Conference on Operational Research Societies
+, Boston, Massachusetts, August  1966, pp. 921–934.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Sequential Processing Machines (SPM) Analyzed with a Queueing Theory Model,"
+Journal of the ACM
+, vol. 13, no. 2, April  1966.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Theory of Queues Applied to Time-Shared Computer Systems," in
+Proceedings of the IEEE Region Six Conference Record
+, Tucson, Arizona, April  1966, pp. 491–500.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Theory of Queues Applied to Time-Shared Computer Systems,"
+IEEE Region 6 Conference Record
+, 1966.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "A Conservation Law for a Wide Class of Queueing Disciplines,"
+Naval Research Logistics Quarterly
+, vol. 12, no. 2, June  1965.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "A Delay Dependent Queue Discipline,"
+Naval Research Logistics Quarterly
+, vol. 11, no. 4, December  1964.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Detection of the Peak of an Arbitrary Spectrum,"
+IEEE Transactions on Information Theory
+, vol. IT-10, no. 3, pp. 215–221, July  1964.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Analysis of a Time Shared Processor,"
+Naval Research Logistics Quarterly
+, vol. 11, no. 1, pp. 59–73, March  1964.
+[PDF]
+[BibTex]
+L. Kleinrock
+, "Optical Information Handling with Thin Magnetic Films," in
+Proceedings of the National Electronics Conference
+, Chicago, Illinois, October  1958, pp. 789–797.
+[PDF]
+[BibTex]
+Copyright 2009 Leonard Kleinrock.   All rights reserved
+Last modified on Jun 16, 2010
+Email:
+lk@cs.ucla.edu

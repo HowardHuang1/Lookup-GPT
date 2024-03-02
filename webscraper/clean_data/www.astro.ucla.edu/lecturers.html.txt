@@ -1,266 +1,50 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <title>UCLA Astronomy Division</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800" rel="stylesheet">
-
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-
-    <link rel="stylesheet" href="css/magnific-popup.css">
-
-
-    <link rel="stylesheet" href="fonts/ionicons/css/ionicons.min.css">
-    <link rel="stylesheet" href="fonts/fontawesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="fonts/flaticons/font/flaticon.css">
-    <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
-
-    <!-- Theme Style -->
-    <link rel="stylesheet" href="css/style.css">
-    
-    
-  </head>
-  <body>
-    
-    <header role="banner">
-      <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-        <div class="container">
-          <a class="navbar-brand" href="index.php">UCLA Division of <br /> Astronomy & Astrophysics</a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-
-          <div class="collapse navbar-collapse" id="navbarsExample05">
-            <ul class="navbar-nav ml-auto pl-lg-5 pl-0">
-              <li class="nav-item">
-                <a class="nav-link active" href="index.php">Home</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="research-areas.html">Research</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="academics.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Academics</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="graduate-studies.html">Graduate</a>
-                  <a class="dropdown-item" href="undergraduate-program.html">Undergraduate</a>
-                  <a class="dropdown-item" href="about-our-faculty.html">About our faculty</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="outreach.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Outreach</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="astronomy-live.html">Astronomy Live!</a>
-                  <a class="dropdown-item" href="planetarium.html">UCLA Planetarium</a>
-                  <a class="dropdown-item" href="https://planets.ucla.edu/">iPlex</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="events.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Events</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <!--a class="dropdown-item" href="http://pritha.astro.ucla.edu/~abhimat/astrocoffee/">Astro Coffee</a>-->
-                  <a class="dropdown-item" href="astrophysics-colloquium.html">Astrophysics Colloquium</a>
-                  <a class="dropdown-item" href="tuesday-lunch-talks.html">Tuesday Lunch Talks</a>
-                  <a class="dropdown-item" href="meetings.html">Meetings</a>
-                  <a class="dropdown-item" href="diversity-resources.html">Diversity Events</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="people.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">People</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="faculty.html">Faculty</a>
-                  <a class="dropdown-item" href="researchers.html">Researchers</a>
-                  <a class="dropdown-item" href="lecturers.html">Lecturers</a>
-                  <a class="dropdown-item" href="postdocs.html">Postdocs</a>
-                  <a class="dropdown-item" href="grad-students.html">Graduate Students</a>
-                  <a class="dropdown-item" href="staff.html">Staff</a>
-                  <a class="dropdown-item" href="facilities.html">Facilities</a>
-                  <a class="dropdown-item" href="graduate-program-alumni.html">Graduate Program Alumni</a>
-                  <a class="dropdown-item" href="postdoc-alumni.html">Postdoc Alumni</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="events.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="contact-alice-shapley.html">Contact the Division Chair</a>
-                  <a class="dropdown-item" href="https://www.pa.ucla.edu/graduate-admissions.html">Graduate Student Admissions</a>
-                  <a class="dropdown-item" href="https://www.pa.ucla.edu/undergraduate-program.html">Undergraduate Program</a>
-                  <a class="dropdown-item" href="http://computing.pa.ucla.edu/">Computing and IT Support</a>
-                </div>
-              </li>
-            </ul>
-
-            <!--<ul class="navbar-nav ml-auto">
-              <li class="nav-item cta-btn">
-                <a class="nav-link" href="contact.html">Contact Us</a>
-              </li>
-            </ul>-->
-            
-          </div>
-        </div>
-      </nav>
-    </header>
-    <!-- END header -->    
-    <section class="home-slider-loop-false  inner-page owl-carousel">
-      <div class="slider-item" style="background-image: url('img/whitedwarf-slide-3.jpg');">
-        
-        <div class="container">
-          <div class="row slider-text align-items-center justify-content-center">
-            <div class="col-md-8 text-center col-sm-12 element-animate">
-              <h1>People</h1>
-              <p>Division of Astronomy & Astrophysics Lecturers</p>
-              
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-    </section>
-    
-    <div class="section container">
-        <div class="row">
-          <div class="col-lg-4">
-          <h3>Personnel directory</h3>
-            <p>
-            <ul>
-            	<li><a href="faculty.html">Faculty</a></li>
-            	<li><a href="researchers.html">Researchers</a></li>
-            	<li><a href="postdocs.html">Postdocs</a></li>
-            	<li><a href="graduate-students.html">Graduate students</a></li>
-            	<li><a href="staff.html">Staff</a></li>
-            	<li><a href="facilities.html">Facilities</a></li>
-            </ul>	
-            </p>
-          </div>
-          
-          <div class="col-lg-8 pl-2 pl-lg-5">
-            <h2>Lecturers</h2>
-            <table class="table table-borderless" >
-  <thead>
-    <!-- Commented out code below to remove table header -->
-    <!--<tr>
-      <th scope="col"></th>
-    </tr>-->
-  </thead>
-  <tbody>
-    <tr>
-      <td><!--<img src="researcher-images/rmrich.jpg" width="200px" class="image1 float-left" hspace="15px" alt="...">-->
-      <h5>Samuel Mognet</h5>
-      <p>Lecturer<br /> 
-      Astronomy<br />
-      Office: PAB 3-547<br />
-      Phone: 310-825-0344<br />
-      Email: <script language="JavaScript"> 
-		var name = "mognet";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="#">Website</a></p>--></td>
-    </tr>   
-    
-    </tbody>
-</table>
-          </div>
-        </div>
-      </div>
-
-    </section>
-
-
-    
-    
-
-    
-            
-              
-          </div>
-          <!-- END slider -->
-          </div>
-        </div>
-      
-    </section> <!-- .section -->
-
-
-
-    <footer class="site-footer" role="contentinfo">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-md-3 mb-5">
-            <h3>Announcements</h3>
-            <ul class="list-unstyled footer-link">
-              	<li><a href="https://www.pa.ucla.edu/open-positions.html">Open academic positions</a></li>
-              	<li><a href="https://www.pa.ucla.edu/annual-report.html">Annual reports and newsletters</a></li>
-              	<li><a href="http://newsroom.ucla.edu/">UCLA Newsroom</a></li>
-              	<li><a href="http://www.sexualviolence.ucla.edu/">UCLA policies on sexual harassment & violence</a></li>
-              	<li><a href="https://diversity.ucla.edu/">Diversity @ UCLA</li>
-            </ul>
-
-          </div>
-          <div class="col-md-3 mb-5">
-            <div class="mb-5">
-              <h3>Academic Resources</h3>
-              <ul class="list-unstyled footer-link">
-              	<li><a href="https://registrar.ucla.edu/calendars/annual-academic-calendar">Academic calendar</a></li>
-              	<li><a href="https://sa.ucla.edu/ro/public/soc">Schedule of classes</a></li>
-              	<li><a href="https://my.ucla.edu/">MyUCLA</a></li>
-              	<li><a href="http://bruinlearn.ucla.edu/">BruinLearn</a></li>
-              	<li><a href="https://www.lmstransformation.ucla.edu/">LMS Transformation</a></li>
-              	<li><a href="https://ucla.service-now.com/support?id=home">UCLA IT Services</a></li>
-            </ul>
-            </div>
-          </div>
-          <div class="col-md-3 mb-5">
-            <h3>General Resources</h3>
-            <ul class="list-unstyled footer-link">
-              <li><a href="observing-facilities.html">Observing facilities</a></li>
-              <li><a href="http://irlab.astro.ucla.edu/">Infrared Laboratory</a></li>
-              <li><a href="https://www.pa.ucla.edu/financial-services.html">Financial Services</a></li>
-              <li><a href="http://iff.pa.ucla.edu/">Machine Shop</a></li>
-              <li><a href="https://www.pa.ucla.edu/research-store.html">Research Store</a></li>
-              <li><a href="https://webmail.astro.ucla.edu/">Astronomy Zimbra Email</a></li>
-              <li><a href="http://computing.pa.ucla.edu/">Computing & IT Support</li>
-            </ul>
-        </div>
-        <div class="col-md-3 mb-5">
-            <h3>Visiting UCLA</h3>
-            <ul class="list-unstyled footer-link">
-              <li><a href="#">UCLA interactive map</a></li>
-              <li><a href="#">Directions and parking</a></li>
-              <li><a href="#">Planetarium directions</a></li>
-              <li><a href="#">UCLA campus shuttle</a></li>
-              <li><a href="#">Local accommodations</a></li>
-              <li><a href="#">Giving to the Astro Division</a></li>
-            </ul>
-          </div>
-        <div class="row">
-          <div class="col-12 text-md-center text-left">
-            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-        Copyright &copy;<script>document.write(new Date().getFullYear());</script> UCLA Division of Astronomy & Astrophysics, 475 Portola Plaza, Los Angeles, CA 90095-1547
-310-825-3440 | A <a href="https://colorlib.com" target="_blank" >Colorlib</a> template.
-        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-          </div>
-        </div>
-      </div>
-    </footer>
-    <!-- END footer -->
-    <!-- loader -->
-    <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#cf1d16"/></svg></div>
-
-    <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/jquery.waypoints.min.js"></script>
-
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/magnific-popup-options.js"></script>
-    
-
-    <script src="js/main.js"></script>
-  </body>
-</html>
+UCLA Astronomy Division
+People
+Division of Astronomy & Astrophysics Lecturers
+Personnel directory
+Faculty
+Researchers
+Postdocs
+Graduate students
+Staff
+Facilities
+Lecturers
+Samuel Mognet
+Lecturer
+Astronomy
+Office: PAB 3-547
+Phone: 310-825-0344
+Email:
+Announcements
+Open academic positions
+Annual reports and newsletters
+UCLA Newsroom
+UCLA policies on sexual harassment & violence
+Diversity @ UCLA
+Academic Resources
+Academic calendar
+Schedule of classes
+MyUCLA
+BruinLearn
+LMS Transformation
+UCLA IT Services
+General Resources
+Observing facilities
+Infrared Laboratory
+Financial Services
+Machine Shop
+Research Store
+Astronomy Zimbra Email
+Computing & IT Support
+Visiting UCLA
+UCLA interactive map
+Directions and parking
+Planetarium directions
+UCLA campus shuttle
+Local accommodations
+Giving to the Astro Division
+Copyright ©
+UCLA Division of Astronomy & Astrophysics, 475 Portola Plaza, Los Angeles, CA 90095-1547
+310-825-3440 | A
+Colorlib
+template.

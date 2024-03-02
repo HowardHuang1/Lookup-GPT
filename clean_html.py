@@ -3,9 +3,13 @@ import glob
 from bs4 import BeautifulSoup
 
 def process_html_file(file_path):
-    # Open and read the HTML file
-    with open(file_path, 'r', encoding='utf-8') as file:
-        html_content = file.read()
+    try:
+        # Attempt to open and read the HTML file with UTF-8 encoding, ignoring errors
+        with open(file_path, 'r', encoding='utf-8', errors='ignore') as file:
+            html_content = file.read()
+    except Exception as e:
+        print(f"Error processing {file_path}: {e}")
+        return
 
     # Parse the HTML content
     soup = BeautifulSoup(html_content, 'lxml')
@@ -32,5 +36,5 @@ def process_directory(directory_path):
                 process_html_file(file_path)
 
 # Path to the data directory
-directory_path = 'webscraper/data'  # Adjust the path as needed
+directory_path = 'webscraper/clean_data'  # Adjust the path as needed
 process_directory(directory_path)

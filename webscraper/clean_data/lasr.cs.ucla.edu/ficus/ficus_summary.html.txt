@@ -1,22 +1,5 @@
-<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
-<html>
-<head>
-  <meta http-equiv="Content-Type"
- content="text/html; charset=iso-8859-1">
-  <meta name="GENERATOR"
- content="Mozilla/4.79 [en] (X11; U; Linux 2.4.18-3smp i686) [Netscape]">
-  <title>Ficus</title>
-  <link rel="STYLESHEET" type="TEXT/CSS" href="spacing.css">
-</head>
-<body style="background-color: rgb(193, 255, 193);" #064019="">
-<center><img src="FicusTree.gif">
-<br>
-<img src="Ficus-new.gif">
-<right></right>
-<table width="80%">
-  <tbody>
-    <tr>
-      <td><font size="+1">The Ficus project developed peer-to-peer
+Ficus
+The Ficus project developed peer-to-peer
 optimistic file
 replication systems that allow far richer methods of data-sharing than
 were previously possible. By keeping multiple full-function copies of
@@ -25,8 +8,8 @@ the Ficus file system gives its users: 1) quicker access to files that
 would otherwise be stored remotely, 2) the ability to continue working
 despite machine failures, and 3) the opportunity to set up easy,
 cooperative
-data-sharing between users at distant sites.&nbsp;</font>
-      <p><font size="+1">The figure above illustrates three uses of the
+data-sharing between users at distant sites.
+The figure above illustrates three uses of the
 Ficus system.
 For example, by using Ficus to share files between a home machine and
 the
@@ -42,17 +25,19 @@ of the files, and Ficus ensures that updates to any copy are propagated
 to all copies. Additonally, Ficus offers support for portable machines.
 Users of portable computers can store, on their machines, copies of the
 files they normally use in the office. This provides an opportunity to
-work while traveling.&nbsp;</font> </p>
-      <p><font size="+1">Ficus's use of optimistic replication allows
+work while traveling.
+Ficus's use of optimistic replication allows
 updates to
 be applied by users whenever they access a copy of the file.
 Non-optimistic
 systems refuse updates under certain circumstances. The peer-to-peer
 nature
-of Ficus permits flexible sharing of data updates.</font> </p>
-      <p><font size="+1">Ficus was built using a method of extending
+of Ficus permits flexible sharing of data updates.
+Ficus was built using a method of extending
 file system
-functionality called <i>stackable layers</i>. The stackable layers
+functionality called
+stackable layers
+. The stackable layers
 technology
 developed as part of the Ficus project permits easy extensions to file
 system functionality. Instead of altering existing file system source
@@ -61,16 +46,12 @@ new modules providing just the desired new services are added to the
 existing
 operating system. This technology not only permitted easier development
 of Ficus, but it is also used to add encryption, data compression, and
-other new and useful functionality to file systems.&nbsp;</font> </p>
-      <p><font size="+1">The Ficus system was developed during the
+other new and useful functionality to file systems.
+The Ficus system was developed during the
 period 1991 to 1996 under DARPA
-contract N00174-91-C-0107.</font> </p>
-      <hr width="100%"><font size="+0"><b>Date:</b> </font>12 July 2005<br>
-      <font size="+0"><b>Technical Contact:</b> Peter Reiher
-(reiher@cs.ucla.edu)&nbsp;</font></td>
-    </tr>
-  </tbody>
-</table>
-</center>
-</body>
-</html>
+contract N00174-91-C-0107.
+Date:
+12 July 2005
+Technical Contact:
+Peter Reiher
+(reiher@cs.ucla.edu)

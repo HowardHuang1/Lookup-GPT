@@ -1,305 +1,104 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <title>UCLA Astronomy Division</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800" rel="stylesheet">
-
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-
-    <link rel="stylesheet" href="css/magnific-popup.css">
-
-
-    <link rel="stylesheet" href="fonts/ionicons/css/ionicons.min.css">
-    <link rel="stylesheet" href="fonts/fontawesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="fonts/flaticons/font/flaticon.css">
-    <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
-
-    <!-- Theme Style -->
-    <link rel="stylesheet" href="css/style.css">
-    
-    
-  </head>
-  <body>
-    
-    <header role="banner">
-      <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-        <div class="container">
-          <a class="navbar-brand" href="index.php">UCLA Division of <br /> Astronomy & Astrophysics</a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-
-          <div class="collapse navbar-collapse" id="navbarsExample05">
-            <ul class="navbar-nav ml-auto pl-lg-5 pl-0">
-              <li class="nav-item">
-                <a class="nav-link active" href="index.php">Home</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="research-areas.html">Research</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="academics.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Academics</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="graduate-studies.html">Graduate</a>
-                  <a class="dropdown-item" href="undergraduate-program.html">Undergraduate</a>
-                  <a class="dropdown-item" href="about-our-faculty.html">About our faculty</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="outreach.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Outreach</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="astronomy-live.html">Astronomy Live!</a>
-                  <a class="dropdown-item" href="planetarium.html">UCLA Planetarium</a>
-                  <a class="dropdown-item" href="https://planets.ucla.edu/">iPlex</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="events.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Events</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <!--a class="dropdown-item" href="http://pritha.astro.ucla.edu/~abhimat/astrocoffee/">Astro Coffee</a>-->
-                  <a class="dropdown-item" href="astrophysics-colloquium.html">Astrophysics Colloquium</a>
-                  <a class="dropdown-item" href="tuesday-lunch-talks.html">Tuesday Lunch Talks</a>
-                  <a class="dropdown-item" href="meetings.html">Meetings</a>
-                  <a class="dropdown-item" href="diversity-resources.html">Diversity Events</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="people.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">People</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="faculty.html">Faculty</a>
-                  <a class="dropdown-item" href="researchers.html">Researchers</a>
-                  <a class="dropdown-item" href="lecturers.html">Lecturers</a>
-                  <a class="dropdown-item" href="postdocs.html">Postdocs</a>
-                  <a class="dropdown-item" href="grad-students.html">Graduate Students</a>
-                  <a class="dropdown-item" href="staff.html">Staff</a>
-                  <a class="dropdown-item" href="facilities.html">Facilities</a>
-                  <a class="dropdown-item" href="graduate-program-alumni.html">Graduate Program Alumni</a>
-                  <a class="dropdown-item" href="postdoc-alumni.html">Postdoc Alumni</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="events.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="contact-alice-shapley.html">Contact the Division Chair</a>
-                  <a class="dropdown-item" href="https://www.pa.ucla.edu/graduate-admissions.html">Graduate Student Admissions</a>
-                  <a class="dropdown-item" href="https://www.pa.ucla.edu/undergraduate-program.html">Undergraduate Program</a>
-                  <a class="dropdown-item" href="http://computing.pa.ucla.edu/">Computing and IT Support</a>
-                </div>
-              </li>
-            </ul>
-
-            <!--<ul class="navbar-nav ml-auto">
-              <li class="nav-item cta-btn">
-                <a class="nav-link" href="contact.html">Contact Us</a>
-              </li>
-            </ul>-->
-            
-          </div>
-        </div>
-      </nav>
-    </header>
-    <!-- END header -->    
-    <section class="home-slider-loop-false  inner-page owl-carousel">
-      <div class="slider-item" style="background-image: url('img/whitedwarf-slide-3.jpg');">
-        
-        <div class="container">
-          <div class="row slider-text align-items-center justify-content-center">
-            <div class="col-md-8 text-center col-sm-12 element-animate">
-              <h1>People</h1>
-              <p>Division of Astronomy & Astrophysics Postdoctoral Scholars Alumni</p>
-              
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-    </section>
-    
-    <div class="section container">
-        <div class="row">
-          <div class="col-lg-4">
-          <h3>Personnel directory</h3>
-            <p>
-            <ul>
-            	<li><a href="#">Faculty</a></li>
-            	<li><a href="#">Researchers</a></li>
-            	<li><a href="#">Postdocs</a></li>
-            	<li><a href="#">Graduate students</a></li>
-            	<li><a href="#">Staff</a></li>
-            	<li><a href="#">Facilities</a></li>
-            </ul>	
-            </p>
-          </div>
-          
-          <div class="col-lg-8 pl-2 pl-lg-5">
-            <h2>Postdoctoral Scholars Alumni</h2>
-            <p>Includes student name, graduation year, current position if known, email address where available, and advisor.</p>
-            <p>
-            <ul>
-            	<li>Jordan Mirocha, 2018, ansonl@astro.ucla.edu, Advisor: Furlanetto</li>
-            	<li>Louis Abramson, 2018</li>
-            	<li>Y. Sophia Dai, 2018</li>
-            	<li>Aomawa Shields, 2017, Assistant Professor, UC, Irvine</li>
-            	<li>Alessandro Sonnenfeld, 2014-2015, Postdoctoral Researcher, Kavle IPMU, Advisor: Treu</li>
-            	<li>Adriano Agnello, 2014-2015, ESO Postdoctoral Fellow, ESO, Advisor: Treu</li>
-            	<li>Taylor Aune, 2012-2015, Advisor: Ong</li>
-            	<li>Xin Liu (Hubble Fellow), 2012-2015, Assistant Professor, University of Illinois, Urbana-Champaign, Advisor: Shapley</li>
-            	<li>Joseph Munoz, 2010-2013, Postdoc, UCSB, Advisor: Furlanetto</li>
-            	<li>Molly Peeples (CGE Fellow), 2010-2013, AURA Assistant Astronomer, STScI, Advisor: Shapley</li>
-            	<li>Sara Petty, 2009-2012, Research Scientist, Virginia Tech, Advisor: Wright</li>
-            	<li>David Law (Hubble Fellow), 2008-2011, Dunlap Fellow, University of Toronto, Advisor: Larkin</li>
-            	<li>Pratik Majumdar (Staff Researcher), 2007-2010, Associate Professor, Saha Institute of Nuclear Physics, Advisor: Ong</li>
-            	<li>Marshall Perrin (NSF Fellow), 2007-2010, STScI, Advisor: Ghez</li>
-            	<li>Will Clarkson, 2008-2010, Assistant Professor, University of Michigan-Dearborn, Advisor: Ghez</li>
-            	<li>Stephen Fegan, 2004-2010, Advisor: Ong</li>
-            	<li>Andrea Stolte, 2006-2009, Emmy Noether Fellow, University of Bonn, Advisor: Ghez</li>
-            	<li>Amanda Weinstein, 2004-2009, Assistant Professor, Iowa State University, Advisor: Ong</li>
-            	<li>Stephen Fegan, 2004-2009, Permanent Position, CNRS, Ecole-Polytechnique, Advisor: Vassilliev</li>
-            	<li>Yeong-Shang Loh, 2006-2009, Advisor: Rich</li>
-            	<li>Nate McCrady (NSF Fellow), 2005-2009, Associate Professor, University of Montana, Advisor: Turner/Ghez</li>
-            	<li>Andrei Mesinger, 2008-2009, Faculty, SNS (Italy), Advisor: Furlanetto</li>
-            	<li>Leo Meyer (NSF Fellow), 2008-2009, Assistant Researcher, University of California Los Angeles, Advisor: Ghez</li>
-            	<li>Ellse Furlan (NASA Fellow), 2006-2009, Postdoctoral Researcher, NOAO/IPAC, Advisor: Ghez</li>
-            	<li>Javaraiah Javaraiah, 2008-2013, Indian Institute of Astrophysics, Bengaluru 560 034, India, Advisor: Ulrich</li>
-            	<li>Andreas Koch, 2006-2008, Emmy Noether Research Group Leader, University of Heidelberg, Germany, Advisor: Rich</li>
-            	<li>Stan Metchev (Spitzer Fellow), 2005-2008, Faculty, Western University (Canada), Advisor: Larkin</li>
-            	<li>Joerg-Uwe Pott, 2007-2008, MPIA, Advisor: Ghez</li>
-            	<li>David Reitzel, 1999-2008, Griffith Observatory, Advisor: Rich</li>
-            	<li>Joseph Rhee, 2007-2008, Advisor: Zuckerman</li>
-            	<li>Jeong-Eun Lee (Hubble Fellow), 2005-2007, Advisor: Jura</li>
-            	<li>Mike Muno (Hubble Fellow), 2003-2006,Staff Scientist, MIT Lincoln Labs Advisor: Morris</li>
-            	<li>Travis Barman, 2004-2006, Associate Professor, Lunar and Planetary Lab, University of Arizona, Advisor: Becklin</li>
-            	<li>Samir Salim, 2002-2006, Advisor: Rich/Ghez</li>
-            	<li>Sarah Gallagher (Spitzer Fellow), 2003-2006, Prof., U. Western Ontario, Advisor: Malkan</li>
-            	<li>Tomasso Treu (Hubble Fellow), 20002-2005, Professor, UCLA, Advisor: Malkan</li>
-            	<li>Ciska Kemper (Spitzer Fellow), 2003-2005, 	Associate Research Fellow (tenured), Institute of Astronomy and Astrophysics, Academia Sinica, Taiwan, Advisor: Jura</li>
-            	<li>Jeff Zweerink, 2001-2005, Assistant Researcher, UCLA (part time), Advisor: Ong</li>
-            	<li>Sandrine LeFebvre, 2004-2005, European-Mediterranean Seismological Centre, Advisor: Ulrich</li>
-            	<li>Ferenc Varadi, 1998-2004, CLK Design Automation, Littleton, MA, Advisor: Ulrich</li>
-            	<li>Lisa Prato, 1998-2004, Lowell Observatory, Advisor: Ghez/McLean</li>
-            	<li>Adam Burgasser (Hubble Fellow), 2002-2004, Associate professor, University of California, San Diego, Advisor: McLean</li>
-            	<li>Gaspard Duchene, 2000-2004, Assistant Researcher, University of California, Berkeley, Advisor: Ghez</li>
-            	<li>Ralph Shuping, 2001-2004, Staff Scientist, USRA-SOFIA, Advisor: Morris</li>
-            	<li>Insoek Song, 2000-2004, Advisor: Zuckerman</li>
-            	<li>Mustapha Mouhcine, 2001-2003, Advisor: Rich</li>
-            	<li>Jochen Horn, 1998-2001, Advisor: Becklin</li>
-            	<li>Alycia Weinberger (NICMOS Fellow), 1998-2001, Carnegie Institution, DTM, Advisor: Becklin</li>
-            	<li>Ivo Saviane, 1999-2001, Advisor: Rich</li>
-            	<li>Xiliang Yang (External Fellow), 1999, Advisor: Malkan</li>
-            	<li>Judit Pap, 1996-1999, Goddard Spaceflight Center, Advisor: Ulrich</li>
-            	<li>Jose Guichard (External Fellow), 1999, Director of INAOE, Advisor: Malkan</li>
-            	<li>Luca Bertello, 1993-1998, Research Scientist, National Solar Observatory, Advisor: Ulrich</li>
-            	<li>Davy Kirkpatrick (NICMOS Fellow), 1997, IPAC, Advisor: Becklin</li>
-            	<li>Tim Liu, 1991-1995, Advisor: Becklin</li>
-            	<li>Sugai Sugai (External Fellow), 1993, Faculty, Kavli IPMU, Advisor: Malkan</li>
-            	<li>Julien Rouselle</li>
-            	<li>Richichi Richichi, Advisor: Malkan</li>
-            	<li>Jay Farihi, 2007, Ernest Rutherford Fellow, UCL, Advisor: Zuckerman</li>
-            	
-            </p>	          </td>
-             
-          </div>
-        </div>
-      </div>
-
-    </section>
-
-
-    
-    
-
-    
-            
-              
-          </div>
-          <!-- END slider -->
-          </div>
-        </div>
-      
-    </section> <!-- .section -->
-
-
-
-    <footer class="site-footer" role="contentinfo">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-md-3 mb-5">
-            <h3>Announcements</h3>
-            <ul class="list-unstyled footer-link">
-              	<li><a href="https://www.pa.ucla.edu/open-positions.html">Open academic positions</a></li>
-              	<li><a href="https://www.pa.ucla.edu/annual-report.html">Annual reports and newsletters</a></li>
-              	<li><a href="http://newsroom.ucla.edu/">UCLA Newsroom</a></li>
-              	<li><a href="http://www.sexualviolence.ucla.edu/">UCLA policies on sexual harassment & violence</a></li>
-              	<li><a href="https://diversity.ucla.edu/">Diversity @ UCLA</li>
-            </ul>
-
-          </div>
-          <div class="col-md-3 mb-5">
-            <div class="mb-5">
-              <h3>Academic Resources</h3>
-              <ul class="list-unstyled footer-link">
-              	<li><a href="https://registrar.ucla.edu/calendars/annual-academic-calendar">Academic calendar</a></li>
-              	<li><a href="https://sa.ucla.edu/ro/public/soc">Schedule of classes</a></li>
-              	<li><a href="https://my.ucla.edu/">MyUCLA</a></li>
-              	<li><a href="http://bruinlearn.ucla.edu/">BruinLearn</a></li>
-              	<li><a href="https://www.lmstransformation.ucla.edu/">LMS Transformation</a></li>
-              	<li><a href="https://ucla.service-now.com/support?id=home">UCLA IT Services</a></li>
-            </ul>
-            </div>
-          </div>
-          <div class="col-md-3 mb-5">
-            <h3>General Resources</h3>
-            <ul class="list-unstyled footer-link">
-              <li><a href="observing-facilities.html">Observing facilities</a></li>
-              <li><a href="http://irlab.astro.ucla.edu/">Infrared Laboratory</a></li>
-              <li><a href="https://www.pa.ucla.edu/financial-services.html">Financial Services</a></li>
-              <li><a href="http://iff.pa.ucla.edu/">Machine Shop</a></li>
-              <li><a href="https://www.pa.ucla.edu/research-store.html">Research Store</a></li>
-              <li><a href="https://webmail.astro.ucla.edu/">Astronomy Zimbra Email</a></li>
-              <li><a href="http://computing.pa.ucla.edu/">Computing & IT Support</li>
-            </ul>
-        </div>
-        <div class="col-md-3 mb-5">
-            <h3>Visiting UCLA</h3>
-            <ul class="list-unstyled footer-link">
-              <li><a href="#">UCLA interactive map</a></li>
-              <li><a href="#">Directions and parking</a></li>
-              <li><a href="#">Planetarium directions</a></li>
-              <li><a href="#">UCLA campus shuttle</a></li>
-              <li><a href="#">Local accommodations</a></li>
-              <li><a href="#">Giving to the Astro Division</a></li>
-            </ul>
-          </div>
-        <div class="row">
-          <div class="col-12 text-md-center text-left">
-            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-        Copyright &copy;<script>document.write(new Date().getFullYear());</script> UCLA Division of Astronomy & Astrophysics, 475 Portola Plaza, Los Angeles, CA 90095-1547
-310-825-3440 | A <a href="https://colorlib.com" target="_blank" >Colorlib</a> template.
-        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-          </div>
-        </div>
-      </div>
-    </footer>
-    <!-- END footer -->
-    <!-- loader -->
-    <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#cf1d16"/></svg></div>
-
-    <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/jquery.waypoints.min.js"></script>
-
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/magnific-popup-options.js"></script>
-    
-
-    <script src="js/main.js"></script>
-  </body>
-</html>
+UCLA Astronomy Division
+People
+Division of Astronomy & Astrophysics Postdoctoral Scholars Alumni
+Personnel directory
+Faculty
+Researchers
+Postdocs
+Graduate students
+Staff
+Facilities
+Postdoctoral Scholars Alumni
+Includes student name, graduation year, current position if known, email address where available, and advisor.
+Jordan Mirocha, 2018, ansonl@astro.ucla.edu, Advisor: Furlanetto
+Louis Abramson, 2018
+Y. Sophia Dai, 2018
+Aomawa Shields, 2017, Assistant Professor, UC, Irvine
+Alessandro Sonnenfeld, 2014-2015, Postdoctoral Researcher, Kavle IPMU, Advisor: Treu
+Adriano Agnello, 2014-2015, ESO Postdoctoral Fellow, ESO, Advisor: Treu
+Taylor Aune, 2012-2015, Advisor: Ong
+Xin Liu (Hubble Fellow), 2012-2015, Assistant Professor, University of Illinois, Urbana-Champaign, Advisor: Shapley
+Joseph Munoz, 2010-2013, Postdoc, UCSB, Advisor: Furlanetto
+Molly Peeples (CGE Fellow), 2010-2013, AURA Assistant Astronomer, STScI, Advisor: Shapley
+Sara Petty, 2009-2012, Research Scientist, Virginia Tech, Advisor: Wright
+David Law (Hubble Fellow), 2008-2011, Dunlap Fellow, University of Toronto, Advisor: Larkin
+Pratik Majumdar (Staff Researcher), 2007-2010, Associate Professor, Saha Institute of Nuclear Physics, Advisor: Ong
+Marshall Perrin (NSF Fellow), 2007-2010, STScI, Advisor: Ghez
+Will Clarkson, 2008-2010, Assistant Professor, University of Michigan-Dearborn, Advisor: Ghez
+Stephen Fegan, 2004-2010, Advisor: Ong
+Andrea Stolte, 2006-2009, Emmy Noether Fellow, University of Bonn, Advisor: Ghez
+Amanda Weinstein, 2004-2009, Assistant Professor, Iowa State University, Advisor: Ong
+Stephen Fegan, 2004-2009, Permanent Position, CNRS, Ecole-Polytechnique, Advisor: Vassilliev
+Yeong-Shang Loh, 2006-2009, Advisor: Rich
+Nate McCrady (NSF Fellow), 2005-2009, Associate Professor, University of Montana, Advisor: Turner/Ghez
+Andrei Mesinger, 2008-2009, Faculty, SNS (Italy), Advisor: Furlanetto
+Leo Meyer (NSF Fellow), 2008-2009, Assistant Researcher, University of California Los Angeles, Advisor: Ghez
+Ellse Furlan (NASA Fellow), 2006-2009, Postdoctoral Researcher, NOAO/IPAC, Advisor: Ghez
+Javaraiah Javaraiah, 2008-2013, Indian Institute of Astrophysics, Bengaluru 560 034, India, Advisor: Ulrich
+Andreas Koch, 2006-2008, Emmy Noether Research Group Leader, University of Heidelberg, Germany, Advisor: Rich
+Stan Metchev (Spitzer Fellow), 2005-2008, Faculty, Western University (Canada), Advisor: Larkin
+Joerg-Uwe Pott, 2007-2008, MPIA, Advisor: Ghez
+David Reitzel, 1999-2008, Griffith Observatory, Advisor: Rich
+Joseph Rhee, 2007-2008, Advisor: Zuckerman
+Jeong-Eun Lee (Hubble Fellow), 2005-2007, Advisor: Jura
+Mike Muno (Hubble Fellow), 2003-2006,Staff Scientist, MIT Lincoln Labs Advisor: Morris
+Travis Barman, 2004-2006, Associate Professor, Lunar and Planetary Lab, University of Arizona, Advisor: Becklin
+Samir Salim, 2002-2006, Advisor: Rich/Ghez
+Sarah Gallagher (Spitzer Fellow), 2003-2006, Prof., U. Western Ontario, Advisor: Malkan
+Tomasso Treu (Hubble Fellow), 20002-2005, Professor, UCLA, Advisor: Malkan
+Ciska Kemper (Spitzer Fellow), 2003-2005, 	Associate Research Fellow (tenured), Institute of Astronomy and Astrophysics, Academia Sinica, Taiwan, Advisor: Jura
+Jeff Zweerink, 2001-2005, Assistant Researcher, UCLA (part time), Advisor: Ong
+Sandrine LeFebvre, 2004-2005, European-Mediterranean Seismological Centre, Advisor: Ulrich
+Ferenc Varadi, 1998-2004, CLK Design Automation, Littleton, MA, Advisor: Ulrich
+Lisa Prato, 1998-2004, Lowell Observatory, Advisor: Ghez/McLean
+Adam Burgasser (Hubble Fellow), 2002-2004, Associate professor, University of California, San Diego, Advisor: McLean
+Gaspard Duchene, 2000-2004, Assistant Researcher, University of California, Berkeley, Advisor: Ghez
+Ralph Shuping, 2001-2004, Staff Scientist, USRA-SOFIA, Advisor: Morris
+Insoek Song, 2000-2004, Advisor: Zuckerman
+Mustapha Mouhcine, 2001-2003, Advisor: Rich
+Jochen Horn, 1998-2001, Advisor: Becklin
+Alycia Weinberger (NICMOS Fellow), 1998-2001, Carnegie Institution, DTM, Advisor: Becklin
+Ivo Saviane, 1999-2001, Advisor: Rich
+Xiliang Yang (External Fellow), 1999, Advisor: Malkan
+Judit Pap, 1996-1999, Goddard Spaceflight Center, Advisor: Ulrich
+Jose Guichard (External Fellow), 1999, Director of INAOE, Advisor: Malkan
+Luca Bertello, 1993-1998, Research Scientist, National Solar Observatory, Advisor: Ulrich
+Davy Kirkpatrick (NICMOS Fellow), 1997, IPAC, Advisor: Becklin
+Tim Liu, 1991-1995, Advisor: Becklin
+Sugai Sugai (External Fellow), 1993, Faculty, Kavli IPMU, Advisor: Malkan
+Julien Rouselle
+Richichi Richichi, Advisor: Malkan
+Jay Farihi, 2007, Ernest Rutherford Fellow, UCL, Advisor: Zuckerman
+Announcements
+Open academic positions
+Annual reports and newsletters
+UCLA Newsroom
+UCLA policies on sexual harassment & violence
+Diversity @ UCLA
+Academic Resources
+Academic calendar
+Schedule of classes
+MyUCLA
+BruinLearn
+LMS Transformation
+UCLA IT Services
+General Resources
+Observing facilities
+Infrared Laboratory
+Financial Services
+Machine Shop
+Research Store
+Astronomy Zimbra Email
+Computing & IT Support
+Visiting UCLA
+UCLA interactive map
+Directions and parking
+Planetarium directions
+UCLA campus shuttle
+Local accommodations
+Giving to the Astro Division
+Copyright ©
+UCLA Division of Astronomy & Astrophysics, 475 Portola Plaza, Los Angeles, CA 90095-1547
+310-825-3440 | A
+Colorlib
+template.

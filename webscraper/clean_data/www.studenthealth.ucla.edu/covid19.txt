@@ -1,568 +1,67 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>COVID-19 Services: Testing, Tracing &amp; More | UCLA Student Health</title>
-<link rel="stylesheet" href="/themes/custom/ucla_sa/fonts/proximanova.css?v=20240220144912">
-<link rel="stylesheet" href="/themes/custom/ucla_sa/css/ucla_sa.css??v=20240220144912">
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120085288-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() {
-    dataLayer.push(arguments);
-  }
-  gtag('js', new Date());
-  gtag('config', 'UA-120085288-1');
-</script>
-<style type="text/css">
-.full-bleed-text{
-     padding:6%;
-}
-@media only screen and (min-width:990px){
-     .full-bleed-bg{
-         background: url(/media/487);
-         height:640px;
-         background-repeat: no-repeat;
-         background-size: 100%;
-         padding: 2rem;
-         margin-right: -24px;
-         margin-left: -24px;
-    }
-    .full-bleed-bg img{
-         display:none;
-    }
-    .full-bleed-text h2{
-         font-size: 3rem;
-         line-height: 3.375rem;
-         padding-bottom:2%;
-    }
-    .full-bleed-text p, .full-bleed-text ul{
-         font-size:16pt;
-         line-height: 1.4;
-    }
-}
-@media only screen and (max-width:1024px){
-     .full-bleed-text{
-         padding: 4% 
-    }
-}
-
-
-
-.button-with-bg{
-  text-align: center;
-  background-image: linear-gradient(#003B5C, #2774AE);
-  margin: 0 -24px -4px -24px;
-  padding: 2rem;
-}
-
-.button-with-bg h2 {
- color:#fff;
- font-weight:normal;
-}
-
-.bg-button a {
- background-color: var(--ucla-gold);
- border-color: var(--ucla-gold);
- color: #000000;
-}
-
-.bg-button a:hover, .bg-button a:focus {
- background-color: var(--yellow);
- border-color: var(--yellow);
-color: #000000;
-}
-
-.ashe-floor-1 {
-  width: 109px;
-  height: 280px;
-  background-image: url('/file/d631dcd5-329a-4cc3-aa13-95a622d717ed');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.ashe-floor-2 {
-  width: 187px;
-  height: 280px;
-  background-image: url('/file/6bf4b8aa-1230-499b-89a5-174dfb6f55f8');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.ashe-floor-3 {
-  width: 136px;
-  height: 280px;
-  background-image: url('/file/b3e196ae-bd4f-4cc3-895b-6a0c9db975d0');
- background-repeat: no-repeat;
-  background-size: cover;
-}
-.ashe-floor-4 {
-  width: 163px;
-  height: 280px;
-  background-image: url('/file/5d544f8b-240f-4524-b511-91bc6344ac9b');
-  background-repeat: no-repeat;
-  background-size: cover;
-
-}
-.ashe-floor-descriptions {
-  display: inline-block;
-  vertical-align: top;
-  margin-right: 1rem;
-}
-.ashe-floor-descriptions p {
-  display: inline-block; 
-   vertical-align: top;
-}
-.ashe-room-radiology {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/d4e70fd1-2fab-48e6-9ff8-744627eaca9b');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-womens {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/5ad53dc9-c564-46dc-9edd-22c3aaeb737b');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-acupuncture {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/793e100d-14a8-4aab-b56e-585721bfd304');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-scheduling {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/40ed8066-6720-452c-890b-3283e5b417ce');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-2-clinic {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/0f600fff-520f-42bf-b32e-22abb9c4c9e2');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-dental {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/1abd9f51-be51-4fb5-9d40-b2cd429a6e83');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-nursing {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/afdea2af-83c4-4add-b611-c3aa88eac7af');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-immune {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/6d25268e-2d10-4517-98c2-fe2f6b38b606');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-physical-therapy {
-  width: 57px;
-  height: 57px;
-  background-image: url('file/3985052e-3b2d-45d7-b961-8c37c9734d85');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-records {
-  width: 57px;
-  height: 57px;
-  background-image: url('file/0510707f-0eef-4615-882e-4dbefd38861f');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-insurance {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/c0eaeffc-1b38-43d8-8735-8a807eb4dd69');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-@media (max-width:768px) {
-  .ashe-floor-descriptions {
-      margin-top: 2rem;
-  }
-}
-img {
-display: block;
-}
-.tables-col-4 th, .tables-col-4 td {
-    width: 25%;
-}
-.tables-col-5 th, .tables-col-5 td {
-    width: 20%;
-}
-</style>
-<script type="text/javascript">
-"use strict";
-async function covidFAQ() {
-    var node = document.querySelector('[data-ucla=covid-faq]');
-    if(typeof(node) == undefined || node == null) {
-        return;
-    }
-    var before = `${node.innerHTML}`;
-    node.innerText = 'Loading FAQs...';
-    var r = await fetch('https://www.uclahealth.org/ucla-campus-faq-feed.cfm?smajax=true');
-    var data = await r.json();
-    node.innerHTML = '';
-    var toc = document.createElement('div');
-    toc.classList.add('table-of-contents');
-    node.parentNode.insertBefore(toc, node);
-    console.log(node.parentNode.parentNode);
-    var activeCategory = '';
-    for(var i=0; i<data.length; i++) {
-        var item = data[i];
-        if(activeCategory != item.category) {
-            var h2 = document.createElement('h2');
-            h2.innerHTML = item.category;
-            activeCategory = `${item.category}`;
-            node.appendChild(h2);
-        }
-        var h3 = document.createElement('h3');
-        h3.innerHTML = item.question;
-
-        var div = document.createElement('div');
-        div.innerHTML = item.answer;
-
-        for(var ul of div.querySelectorAll('ul')) {
-            ul.classList.add('bullet');
-        }
-        for(var a of div.querySelectorAll('a')) {
-            if(!a.getAttribute('href').match(/http/)) {
-                a.setAttribute('href', `https:///www.uclahealth.org/${a.getAttribute('href')}`);
-            }
-        }
-
-        node.appendChild(h3);
-        node.appendChild(div);
-    }
-
-var tocs = document.querySelectorAll('.table-of-contents');
-for(var i=0; i < tocs.length; i++) {
-    generateTableOfContents(tocs[i]);
-}
-
- 
-
-
-function generateTableOfContents(toc) {
-    var parent = document.querySelector('.page-content');
-    toc.innerHTML = '';
-    var currentLevel = 2;
-    var ulForLevel = {
-        2: document.createElement('ul'),
-        3: null
-    }
-    toc.appendChild(ulForLevel[2]);
-    console.log(ulForLevel);
-    var tocFound = false;
-    var items = parent.querySelectorAll('h2, h3');
-    console.log(items);
-    for(var i=0; i < items.length; i++) {
-        var item = items[i];
-        console.log(item);
-        var key = item.textContent.replace(/ /g, '_').replace(/[^a-zA-Z0-9_]/g, '').toLowerCase();
-        item.id = key;
-        var li = document.createElement('li');        
-        var a = document.createElement('a');
-        a.href = '#' + key;
-        a.innerText = item.innerText;
-        li.appendChild(a);
-        var level = parseInt(item.nodeName.replace('H', ''));
-        if(currentLevel > level) {
-            ulForLevel[currentLevel] = null;
-        } else if(level == NaN) {
-        	level = 2;
-        }
-        if(ulForLevel[level] != null) {
-            ulForLevel[level].appendChild(li);           
-        } else {
-            ulForLevel[level] = document.createElement('ul');
-            console.log( ulForLevel[level - 1], item, level);
-            ulForLevel[level - 1].querySelector(':scope > li:last-child').appendChild(ulForLevel[level]);
-            ulForLevel[level].appendChild(li);
-        }
-        currentLevel = level;
-    }
-}
-
-}
-
-if (document.readyState === "complete" || document.readyState === "interactive") {
-    // Document is already ready to go.
-    setTimeout(covidFAQ, 1);
-} else {
-    document.addEventListener('DOMContentLoaded', function (event) {
-        covidFAQ();
-    });
-}
-</script>
-</head>
-<body
-    data-ucla-ref="load/covid19"
-    data-ucla-path="/covid19"
-    data-ucla-origin="https://www.studenthealth.ucla.edu"
-    class="no-js"
->
-<script>document.body.classList.remove('no-js'); document.body.classList.add('js');</script>
-<header class="header">
-    <div class="skip-to-main">
-    <a href="#main">Skip to Main Content</a>
-    </div>
-            <div class="nav-topbar desktop-only">
-    <nav aria-label="Secondary Top" class="nav-secondary container">
-    <ul>
-  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
-  <li><a href="https://www.immunizationrequirement.ucla.edu/">Immunization Requirements</a></li>
-  <li><a href="/afterhours">AfterHours</a></li>
-  <li><a href="/careers">Careers</a></li>
-  <li class="topbar-yellow-button"><strong><a href="/portal">PATIENT PORTAL</a></strong></li>
-</ul>
-    </nav>
-    </div>
-    <div class="headerbar container">
-          <a href="/" class="site-name"><img src="/sites/default/files/UCLA_Logo_AsheCenter.fw_.png" height="70" width="780" alt="UCLA Arthur Ashe Student Health &amp; Wellness Center"></a>
-          <div class="header-right">
-      <button class="mobile-only" aria-haspopup="true" aria-controls="menus" aria-expanded="false" aria-label="Main Menus"></button>
-      <form action="https://www.ucla.edu/search" method="GET" class="site-search desktop-only">
-      <label for="header-search-headerbar">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-headerbar"><button type="submit">Search</button>
-      </form>
-      </div>
-    </div>
-    <div id="menus">
-    <form action="https://www.ucla.edu/search" method="GET" class="site-search mobile-only">
-      <label for="header-search-mobile-only">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-mobile-only"><button type="submit">Search</button>
-    </form>
-    <nav aria-label="Main" class="nav-main container">
-    <ul>
-  <li><a href="/services">Services</a></li>
-  <li><a href="/insurance">Insurance</a></li>
-  <li><a href="/fees">Fees</a></li>
-  <li><a href="/about">About</a></li>
-  <li><a href="/contact">Contact</a></li>
-</ul>
-    </nav>
-    <nav aria-label="Secondary Menu" class="nav-secondary container mobile-only">
-    <ul>
-  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
-  <li><a href="https://www.immunizationrequirement.ucla.edu/">Immunization Requirements</a></li>
-  <li><a href="/afterhours">AfterHours</a></li>
-  <li><a href="/careers">Careers</a></li>
-  <li class="topbar-yellow-button"><strong><a href="/portal">PATIENT PORTAL</a></strong></li>
-</ul>
-    </nav>
-    </div>
-</header>
-<main id="main">
-  <div class="container">
-        <div class="page">
-<div class="page-header">
-  <div id="block-system-messages">
-<div data-drupal-messages-fallback class="hidden"></div>
-</div>
-<div id="block-breadcrumbs">
-  
-    
-        <nav aria-labelledby="system-breadcrumb">
-    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
-    <ol>
-          <li>
-                            <a href="https://www.studenthealth.ucla.edu/">Home</a>
-                        </li>
-          <li>
-                            <a href="https://www.studenthealth.ucla.edu/services">Services</a>
-                        </li>
-          <li>
-                            <a href="https://www.studenthealth.ucla.edu/covid19">COVID-19</a>
-                        </li>
-        </ol>
-  </nav>
-
-  </div>
-<div id="block-ucla-sa-page-title">
-  
-    
-      
-  <h1>COVID-19 Services: Testing, Tracing &amp; More</h1>
-
-
-  </div>
-
-
-</div>
-<div class="page-content">
-  <div id="block-mainpagecontent">
-  
-    
-      <div data-ucla-node-id="14">
-
-
-
-
-<div class="collapse collapse-h3">
-
-<div class="body-content body--section">
-
-<p>If you are experiencing symptoms consistent with COVID-19 or have had close contact with someone who was diagnosed with the virus, contact the Exposure Management Team (EMT). If you tested positive for COVID-19, <strong>do not wait for a response to your message, <a href="https://ucla.app.box.com/s/ytuwjy4j3ntmvfuexfga6jxmwseu6ghd">start isolation immediately</a></strong> and a member of our team will follow up within a few business days.<br> <br> The EMT member will help you determine the need for testing, treatment, quarantine, and/or isolation. Please self-isolate until after you have spoken with someone from The Ashe Center.</p> <section class="columns columns-2 columns-2-5050"> <section class="column column-1"> <h2>If you are experiencing symptoms:</h2> <p>Students who develop symptoms including <strong>fever, cough, or shortness of breath</strong>, should contact The Ashe Center immediately at (310) 206-6217 to determine the need for diagnostic testing and treatment. Please self-isolate, until after you have spoken with someone from The Ashe Center.</p> <p><strong>To contact the Exposure Management Team via message:</strong></p> <p class="button"><a href="https://www4.studenthealth.ucla.edu/contactus/contactus.aspx?id=covid">Contact Exposure Management Team</a></p> <h2>If you tested positive:</h2> <ul> <li>Please isolate immediately and refer to <a href="https://ucla.app.box.com/s/ytuwjy4j3ntmvfuexfga6jxmwseu6ghd">UCLA COVID-19 Isolation &amp; Quarantine Protocols.</a></li> <li><strong>Do not wait for a response to your message. Start isolation immediately and contact the Exposure Management Team</strong> via email at <a href="mailto:exposuremanagementteam@ashe.ucla.edu">exposuremanagementteam@ashe.ucla.edu</a> or by phone at (310) 206-6217 to be given isolation instructions and the earliest date you can return to campus safely.</li></ul> <p class="button"><a href="https://www.studenthealth.ucla.edu/exposure-management-faqs">More info and Exposure Management FAQs</a></p></section> <section class="column column-2"> <section class="callout"> <h2>EMT Hours of Operation</h2> <p>Mon - Fri: 8am - 4:30pm<br> Closed Weekends &amp; University Holidays</p></section> <h2>What to Expect</h2> <p><strong>When Contacting Exposure Management Team:</strong></p> <ul> <li>If you are leaving a voicemail, please speak loud and clearly, and be sure to include your full name, UID number, and a callback number where we can reach you.</li> <li>A member of our staff will contact you back within as soon as possible to collect information about your symptoms, test date, and close contacts.</li></ul> <p>Note: We can only provide general information to parents and families. Students with COVID-19 concerns must call directly to discuss their protected health information.</p> <h2><strong>Local COVID-19 Testing Locations</strong></h2> <ul> <li><a href="https://covid19.lacounty.gov/testing/">County of Los Angeles COVID-19 Testing</a></li> <li><a href="https://911covidtesting.com/">911 COVID Testing</a></li></ul> <p class="button"><a href="https://www.studenthealth.ucla.edu/services/covid-19-testing">COVID-19 Testing Options at UCLA</a></p></section></section> <ul></ul> <section class="columns columns-2 columns-2-5050"> <section class="column column-1"> <h2>Location</h2> <p><a href="https://www.google.com/maps/place/34%C2%B004'16.6%22N+118%C2%B026'41.2%22W/@34.0712676,-118.4460906,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d34.071265!4d-118.444786">Ashe Center</a></p> 
-  <img loading="eager" src="/sites/default/files/styles/header_image/public/2021-03/ashe-center.jpeg?itok=Cx2I7FU2" width="600" height="300" alt="Map of Ashe Center">
-
-
-
-
-</section> <section class="column column-2"> <h2>Fees</h2> <p>See The Ashe Center centralized Fees page for a list of fees associated with COVID-19.</p> <ul> <li>COVID Antibody Testing</li> <li>COVID PCR Testing</li> <li>COVID ONLY Rapid Antigen POCT</li> <li>Flu &amp; COVID Combined Rapid POCT</li></ul> <p class="button"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="2e2df3de-bc75-44ae-b317-a9da61aef4d3" href="/fees">COVID Fees at The Ashe Center</a></p></section></section>
-
-</div>
-
-  <div class="cards-theme-services cards paragraph--section" data-section-title="Additional COVID-19 Services">
-          <h2>
+COVID-19 Services: Testing, Tracing & More | UCLA Student Health
+Skip to Main Content
+Search Website
+Search
+Search Website
+Search
+COVID-19 Services: Testing, Tracing & More
+If you are experiencing symptoms consistent with COVID-19 or have had close contact with someone who was diagnosed with the virus, contact the Exposure Management Team (EMT). If you tested positive for COVID-19,
+do not wait for a response to your message,
+start isolation immediately
+and a member of our team will follow up within a few business days.
+The EMT member will help you determine the need for testing, treatment, quarantine, and/or isolation. Please self-isolate until after you have spoken with someone from The Ashe Center.
+If you are experiencing symptoms:
+Students who develop symptoms including
+fever, cough, or shortness of breath
+, should contact The Ashe Center immediately at (310) 206-6217 to determine the need for diagnostic testing and treatment. Please self-isolate, until after you have spoken with someone from The Ashe Center.
+To contact the Exposure Management Team via message:
+Contact Exposure Management Team
+If you tested positive:
+Please isolate immediately and refer to
+UCLA COVID-19 Isolation & Quarantine Protocols.
+Do not wait for a response to your message. Start isolation immediately and contact the Exposure Management Team
+via email at
+exposuremanagementteam@ashe.ucla.edu
+or by phone at (310) 206-6217 to be given isolation instructions and the earliest date you can return to campus safely.
+More info and Exposure Management FAQs
+EMT Hours of Operation
+Mon - Fri: 8am - 4:30pm
+Closed Weekends & University Holidays
+What to Expect
+When Contacting Exposure Management Team:
+If you are leaving a voicemail, please speak loud and clearly, and be sure to include your full name, UID number, and a callback number where we can reach you.
+A member of our staff will contact you back within as soon as possible to collect information about your symptoms, test date, and close contacts.
+Note: We can only provide general information to parents and families. Students with COVID-19 concerns must call directly to discuss their protected health information.
+Local COVID-19 Testing Locations
+County of Los Angeles COVID-19 Testing
+911 COVID Testing
+COVID-19 Testing Options at UCLA
+Location
+Ashe Center
+Fees
+See The Ashe Center centralized Fees page for a list of fees associated with COVID-19.
+COVID Antibody Testing
+COVID PCR Testing
+COVID ONLY Rapid Antigen POCT
+Flu & COVID Combined Rapid POCT
+COVID Fees at The Ashe Center
 Additional COVID-19 Services
-</h2>
-      
-      <div class="cards-container">
-      
-  <a href="/services/covid-19-testing"  class="card">
-          <span class="card-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2021-04/covid-testing-cover.jpg?itok=7k3sd_u8" width="900" height="600" alt="" />
-
-
-
-</span>
-      <span class="card-title">
 COVID-19 Testing
-</span>
-      <span class="card-summary">
-<p class="summary">The Ashe Center offers PCR and Antibody Testing for COVID-19. Schedule an appointment or request a PCR test through our Patient Portal today.</p>
-</span>
-      </a>
-
-  <a href="/covid19-vaccine-info"  class="card">
-          <span class="card-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2021-03/covid_vax3.jpg?itok=-Uc89cuc" width="900" height="600" alt="" />
-
-
-
-</span>
-      <span class="card-title">
+The Ashe Center offers PCR and Antibody Testing for COVID-19. Schedule an appointment or request a PCR test through our Patient Portal today.
 COVID-19 Vaccine Hub
-</span>
-      <span class="card-summary">
-<p class="summary">Instructions and information on what steps to take to schedule your COVID-19 vaccine, as well as frequently asked questions about the COVID-19 vaccine.</p>
-</span>
-      </a>
-
-  <a href="/covid-19-self-test-options-campus"  class="card">
-          <span class="card-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2021-07/covid_vending5.png?itok=FyfAWWf_" width="900" height="600" alt="Vending machine with COVID tests in front of Pauley Pavilion" />
-
-
-
-</span>
-      <span class="card-title">
+Instructions and information on what steps to take to schedule your COVID-19 vaccine, as well as frequently asked questions about the COVID-19 vaccine.
 COVID-19 Vending Machines
-</span>
-      <span class="card-summary">
-<p class="summary">Information on testing via COVID-19 self-test vending machines located conveniently across UCLA campus.</p>
-</span>
-      </a>
-
-  <a href="https://www.studenthealth.ucla.edu/exposure-management-faqs"  class="card">
-          <span class="card-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/image/f30684b1887191ba2549c89851071793f8791519.jpg?itok=EtEt07_X" width="900" height="600" />
-
-
-
-</span>
-      <span class="card-title">
+Information on testing via COVID-19 self-test vending machines located conveniently across UCLA campus.
 Exposure Management FAQs
-</span>
-      <span class="card-summary">
-<p class="summary">Please read through the newest frequently asked questions about testing, vaccination, or exposure to COVID-19.</p>
-</span>
-      </a>
-
-
-      </div>
-      </div>
-
-
-
-
-
-
-</div>
-</div>
-  </div>
-
-
-</div>
-</div>
-
-
-        <div class="page-footer-container page-footer-2-column" role="contentinfo">
-<div class="page-footer-box">
-<h2 class="h3">Contact Ashe Center</h2>
-<p>
-    <a href="https://goo.gl/maps/xLvHX7pY6TzVduS37">221 Westwood Plaza<br>
-    Los Angeles, CA 90095</a><br>
-    <a href="tel:+13108254073">310-825-4073</a><br>
-    Fax: (310) 206-8012<br>
-    <a href="/contact">Contact</a>
-</p>
-</div>
-<div class="page-footer-box">
-<h2 class="h3">Stay in the know</h2>
-<div class="social-links-container">
-  <a href="https://www.facebook.com/uclastudenthealth/"><span class="social-link-label">Facebook @uclastudenthealth</span></a>
-  <a href="https://www.instagram.com/uclaashecenter"><span class="social-link-label">Instagram @uclaashecenter</span></a>
-  <a href="https://www.linkedin.com/company/ucla-ashe-student-health-center/"><span class="social-link-label">LinkedIn @ucla-ashe-student-health-center</span></a>
-</div>
-<p>
-  <a href="/services/sydney-health-mobile-app">Sydney Health Mobile App</a>
-</p>
-</div>
-</div>
-      </div>
-</main>
-<footer>
-<div class="container">
-<nav class="nav-footer" aria-label="Footer">
-  <ul>\n  <li><a href="https://www.ucla.edu/accessibility" class="icon-ada">Accessibility</a></li>\n  <li><a href="https://www.ucla.edu/">UCLA</a></li>\n  <li><a href="https://www.studentaffairs.ucla.edu/">Student Affairs</a></li>\n  <li><a href="https://www.transportation.ucla.edu/campus-parking">Maps, Directions, Parking</a></li>\n  <li><a href="https://registrar.ucla.edu/calendars">Academic Calendar</a></li>\n  <li><a href="https://www.universityofcalifornia.edu/">University of California</a></li>\n  <li><a href="https://www.ucla.edu/terms-of-use">Terms of Use</a></li>\n</ul>
-
-</nav>
-</div>
-</footer>
-<script src="/themes/custom/ucla_sa/js/ucla_sa.js?v=a20240220144912" async></script>
-<script type="text/javascript">
-(function() {
-  if(document.querySelector('[data-ucla]')) {
-    var embed = document.createElement('script'); embed.type = 'text/javascript'; embed.async = true;
-    embed.src = '/themes/custom/ucla_sa/js/ucla_embed.js?v=20240220144912';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(embed, s);
-  }
-})();
-</script>
-</body>
-</html>
+Please read through the newest frequently asked questions about testing, vaccination, or exposure to COVID-19.
+Contact Ashe Center
+221 Westwood Plaza
+Los Angeles, CA 90095
+310-825-4073
+Fax: (310) 206-8012
+Contact
+Stay in the know
+Facebook @uclastudenthealth
+Instagram @uclaashecenter
+LinkedIn @ucla-ashe-student-health-center
+Sydney Health Mobile App

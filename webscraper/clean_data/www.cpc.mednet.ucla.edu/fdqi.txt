@@ -1,386 +1,59 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
-  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-<html lang="en" dir="ltr"
-  xmlns:og="http://ogp.me/ns#"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/terms/"
-  xmlns:foaf="http://xmlns.com/foaf/0.1/"
-  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xmlns:sioc="http://rdfs.org/sioc/ns#"
-  xmlns:sioct="http://rdfs.org/sioc/types#"
-  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-<head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortcut icon" href="https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
-<meta name="description" content="UCLA&#039;s Center for Prehospital Care empowers fire departments and law enforcement with over two decades of expertise in customized continuing education and quality improvement. Our Nurse and Paramedic Educators, with a minimum of 5 years&#039; clinical experience, deliver dynamic, hands-on monthly education, collaborate for sustained best practices, and provide comprehensive quality" />
-<meta name="abstract" content="Elevate your fire department and law enforcement team&#039;s capabilities with UCLA&#039;s Center for Prehospital Care. For over 20 years, our Nurse and Paramedic Educators have delivered tailored continuing education and quality improvement services, exceeding traditional standards. Benefit from dynamic, hands-on monthly education, collaboration for sustained best practices, and a comprehensive quality improvement plan. Our team supports infection control, oversees defibrillation programs, and offers community-based education. With a team of dedicated professionals, including RNs and Paramedics, we bring unparalleled expertise to enhance your department&#039;s emergency services. Contact us for customized solutions." />
-<meta name="keywords" content="Continuing Education for Fire Department, Law Enforcement Education, Quality Improvement Training, Customized EMS Education, Paramedic and EMT Training, Nurse Educators, Emergency Services Skills, Hands-On Continuing Education, Performance Indicators, Infection Control, AED Programs, Prehospital Care Best Practices, Community Education, UCLA Center for Prehospital Care." />
-<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
-<link rel="canonical" href="https://www.cpc.mednet.ucla.edu/fdqi" />
-<link rel="shortlink" href="https://www.cpc.mednet.ucla.edu/node/572" />
-<meta property="og:site_name" content="UCLA CPC" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.cpc.mednet.ucla.edu/fdqi" />
-<meta property="og:title" content="Fire Department &amp; Law Enforcement Continuing Education &amp; Quality Improvement" />
-<meta property="og:description" content="For over 20 years, UCLA Nurse Educators have delivered customized, high-quality, and department-specific continuing education and quality improvement services to fire departments and law enforcement agencies. Nurse and Paramedic Educators operate within the chain of command structure and partner with departments to support the delivery of high quality emergency services." />
-<meta property="og:updated_time" content="2023-11-13T15:20:08-08:00" />
-<meta property="article:published_time" content="2022-03-21T11:05:11-07:00" />
-<meta property="article:modified_time" content="2023-11-13T15:20:08-08:00" />
-  <title>Fire Department & Law Enforcement Continuing Education & Quality Improvement | UCLA CPC</title>
-  <style>
-@import url("https://www.cpc.mednet.ucla.edu/modules/system/system.base.css?s8lm5r");
-</style>
-<style>
-@import url("https://www.cpc.mednet.ucla.edu/modules/field/theme/field.css?s8lm5r");
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/filebrowser/css/filebrowser_style.css?s8lm5r");
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/views/css/views.css?s8lm5r");
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ckeditor/css/ckeditor.css?s8lm5r");
-</style>
-<style>
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ctools/css/ctools.css?s8lm5r");
-</style>
-<link type="text/css" rel="stylesheet" href="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.css?s8lm5r" media="all" />
-<style>
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/css/style.css?s8lm5r");
-</style>
-  <!-- HTML5 element support for IE6-8 -->
-  <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_YndZxdyT8-8LUpZC5MssOCg5j7KN4UJGOzCX7A0hGKI.js"></script>
-<script src="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.js?s8lm5r"></script>
-<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_sGFJ0aln9SHwpHdKSzoE8Cdcd6RIMEIfIGrifGaUeBw.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cpc_bootstrap","theme_token":"Lz806C5LIpHHYF6EIvRIf-WPp1FKRwUc7uFcee4T1WA","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"https:\/\/code.jquery.com\/jquery-3.7.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/contrib\/popup\/popup.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/cpc_bootstrap\/cpc_js.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/filebrowser\/css\/filebrowser_style.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/popup\/popup.css":1,"sites\/all\/themes\/cpc_bootstrap\/css\/style.css":1}},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":250,"delay":0},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
-      </head>
-<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-572 node-type-cpc-page" >
-  <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-  </div>
-    
-
-<style>
-.navbar-default {
-    background-color: #000000;
-}
-.navbar-default .navbar-nav > li > a:hover,
-.navbar-default .navbar-nav > li > a:focus {
-  color: #ffb300;
-  background-color: transparent;
-}
-.login-header, .login-header a
-	{ color: white; }
-.login-header a:hover, .login-header a:active, .login-header a:visited
-	{ color: #ffffff; }
-.msg-button, .msg-button a
-	{ color: white; }
-.msg-button a:hover, .msg-button a:active, .msg-button a:visited
-	{ color: #ffffff; }
-.hp_quicklinks {
-	color: #00a5e5;
-	}
-.hp_quicklinks a, .hp_quicklinks a:hover, .hp_quicklinks a:active, .hp_quicklinks a:visited {
-	color: #ffb300;
-}
-.row div.featureslot {
-	padding:2em;
-}
-.node-cpc-page div.content {
-  overflow: visible;
-}
-@media (max-width: 768px) {
-  .row div.featureslot {
-	padding-top:1em;
-	padding-bottom:1em;
-  }
-}
-</style>
-<header id="navbar" role="banner">
-	<div class="container containerlogin">
-		<div class="row" style="margin-top:0px; margin-bottom:0px; background-color: #666666;">
-			<div class="login-header pull-right" style="display: inline; background-color: #00a5e5; padding:10px;">
-				<!-- AJAX Replaces here	-->
-				[ Login / Register ] <span class="glyphicon glyphicon-shopping-cart"></span> 0  items in cart
-			</div>
-			<div class="pull-left hp_quicklinks" style="display: inline; padding:10px;"><p>
-	&nbsp; &nbsp;</p>
-</div>
-		</div>
-	</div>
-  <div class="containernavbar container navbar-default">
-    <div class="navbar-header">
-      				<a class="logo navbar-btn pull-left" href="/" title="Home">
-					<img src="https://www.cpc.mednet.ucla.edu/sites/default/files/images/cpc_logo-323x32.png" alt="Home" id="logo" class="img-responsive" />
-				</a>
-      
-      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-    </div>
-
-          <div class="navbar-collapse collapse">
-        <nav role="navigation">
-                      <ul class="menu nav navbar-nav"><li class="first expanded dropdown"><a href="/cpc/course-listings" title="Our Courses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Courses <span class="caret"></span></a><ul class="dropdown-menu"><li class="first collapsed"><a href="/emt-courses">EMT</a></li>
-<li class="collapsed"><a href="/paramedic-courses">Paramedic</a></li>
-<li class="leaf"><a href="/content/licensed-phlebotomist-course">Licensed Phlebotomist</a></li>
-<li class="expanded"><a href="/aha-courses">BLS, ACLS &amp; PALS</a></li>
-<li class="expanded"><a href="/cpr-first-aid-courses">CPR &amp; First Aid</a></li>
-<li class="last collapsed"><a href="/trauma-courses">Trauma &amp; NAEMT Courses</a></li>
-</ul></li>
-<li class="expanded dropdown"><a href="/students" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Students <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/services/payment-methods">Payment Methods</a></li>
-<li class="leaf"><a href="/services/payment-plan">Payment Plan</a></li>
-<li class="leaf"><a href="/services/refunds-transfers">Refunds &amp; Transfers</a></li>
-<li class="leaf"><a href="/services/transcripts">Transcripts</a></li>
-<li class="leaf"><a href="/services/financial-aid">Scholarships</a></li>
-<li class="leaf"><a href="/veterans">Veteran&#039;s Assistance Benefits</a></li>
-<li class="leaf"><a href="/services/students-with-disabilities">Educational Accommodations</a></li>
-<li class="last leaf"><a href="/services/college-credit">College Credit &amp; CEUs</a></li>
-</ul></li>
-<li class="expanded active-trail dropdown"><a href="/services" title="Services for agencies, hospitals, and businesses" class="active-trail dropdown-toggle" data-target="#" data-toggle="dropdown">Services <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf active-trail active"><a href="/fdqi" title="node/572" class="active-trail active">Fire Department Quality Improvement</a></li>
-<li class="last leaf"><a href="/international">International</a></li>
-</ul></li>
-<li class="last expanded dropdown"><a href="/content/about-us" data-target="#" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/about/contact">Contact Us</a></li>
-<li class="leaf"><a href="/giving">Giving</a></li>
-<li class="leaf"><a href="/content/ucla-center-prehospital-care-strategic-plan">Strategic Plan</a></li>
-<li class="leaf"><a href="/about/leadership">Leadership</a></li>
-<li class="leaf"><a href="/diversity-resources">Equity, Diversity &amp; Inclusion</a></li>
-<li class="leaf"><a href="/about/history">Our History</a></li>
-<li class="leaf"><a href="/about/employment">Jobs at the Center</a></li>
-<li class="last leaf"><a href="https://www.uclahealth.org/privacy-practices" title="">Privacy Practices</a></li>
-</ul></li>
-</ul>                                      </nav>
-      </div>
-      </div>
-	
-<!--
-	<div class="container">
-		<ol class="breadcrumb"><li class="first"><a href="/services" title="Services for agencies, hospitals, and businesses" class="active-trail">Services</a></li>
-<li class="active last">Fire Department &amp; Law Enforcement Continuing Education &amp; Quality Improvement</li>
-</ol>	</div>
--->
-	</header>
-
-<div class="main-container container">
-
-  <header role="banner" id="page-header">
-    
-      </header> <!-- /#page-header -->
-
-  <div class="row">
-
-    <div class="col-sm-12">
-            <a id="main-content"></a>
-            <!--
-			        <h1 class="page-header">Fire Department &amp; Law Enforcement Continuing Education &amp; Quality Improvement</h1>
-      			-->
-			<!--------------------->
-							<div class="page-header-image">
-					<img class="img-responsive header-image" src="https://www.cpc.mednet.ucla.edu/sites/default/files/page_images/Firefighter-1280_0.jpg">
-					<h1 class="page-header onimage">Fire Department &amp; Law Enforcement Continuing Education &amp; Quality Improvement</h1>
-				</div>
-					<!--–– SECTION HIDDEN UNIVERSAL INFO AREA ––-->
-				<!--------------------->
-
-	                                      		</div>
-		
-    		
-    <div class="col-sm-12">
-        <div class="region region-content">
-    <div id="block-system-main" class="block block-system">
-
-    
-  <div class="content">
-    <div id="node-572" class="node node-cpc-page clearfix" about="/fdqi" typeof="sioc:Item foaf:Document">
-
-	<!--
-  	-->
-      <span property="dc:title" content="Fire Department &amp; Law Enforcement Continuing Education &amp; Quality Improvement" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
-  <div class="content">
-    
-		<!--
-					<div class="page-header-image">
-				<img class="img-responsive header-image" src="https://www.cpc.mednet.ucla.edu/sites/default/files/page_images/Firefighter-1280_0.jpg">
-				<h1 class="page-header onimage">Fire Department &amp; Law Enforcement Continuing Education &amp; Quality Improvement</h1>
-			</div>
-				-->
-		
-		<!--
-This file is not used by Drupal core, which uses theme functions instead.
-See http://api.drupal.org/api/function/theme_field/7 for details.
-After copying this file to your theme's folder and customizing it, remove this
-HTML comment.
--->
-          <p>
-	<img alt="" src="/sites/default/files/attached_files/fdqi_nurse_educator.jpg" style="width: 400px; float: right; margin: 5px 10px; height: 300px;" /></p>
-<p>
-	For over 20 years, UCLA Nurse Educators have delivered customized, high-quality, and department-specific continuing education and quality improvement services to fire departments and law enforcement agencies.&nbsp; Nurse and Paramedic Educators operate within the chain of command structure and partner with departments to support the delivery of high quality emergency services.&nbsp; Our services are customized but typically include:</p>
-<ul>
-<li>
-		Dynamic, hands-on monthly continuing education that utilizes a student-centered learning model that goes well beyond the traditional lecture-based, stand-and-deliver teaching format.</li>
-<li>
-		Collaboration with EMS leadership to sustain best practices within your department.</li>
-<li>
-		Continuing education to include skills practice, remediation and verification, which exceeds recertification/licensing requirements for EMTs and Paramedics.</li>
-<li>
-		Comprehensive quality improvement plan, including the development and tracking of performance indicators and a ride-along program, to sustain high quality care and meet regulatory requirements.</li>
-</ul>
-<p style="margin-left:.25in;">
-	Additional services as needed:</p>
-<ul>
-<li>
-		Support the department's infection control program and serve as the Designated Infection Control Officer (DICO).</li>
-<li>
-		Oversight, coordination, training and re-training of EMT– Defibrillation programs.</li>
-<li>
-		Community-based education including hand-only CPR, Stop-the-Bleed, First Aid, Public Access AED.</li>
-<li>
-		Emergency Medical Dispatch quality improvement and pre-arrival instructions.</li>
-</ul>
-<p>
-	We work as a team of Educators and will find you an&nbsp;Educator that fits your organization’s needs.&nbsp; We have an outstanding record of meeting regulatory audit requirements.&nbsp; We are well-respected by the Los Angeles County Department of Health Services EMS Agency and other LA County Prehospital Colleagues.</p>
-<p>
-	<strong>Experience in the field</strong></p>
-<p>
-	The Center for Prehospital Care has years of experience delivering primary and refresher education for Paramedics and EMTs with nationally leading outcomes.&nbsp; Educators are proud to be immersed in the middle of the primary Paramedic and EMT programs, along with our association with the UCLA David Geffen School of Medicine.&nbsp; Our programs are managed by a cohesive group of physicians, nurses, paramedics, and EMTs in key leadership positions who contribute to best practices, and participate with others to create knowledge and evidence that help guide the practice of prehospital medicine.</p>
-<p>
-	<strong>Nurse and Paramedic Educators</strong></p>
-<p>
-	Nurse and Paramedic Educators are committed EMS and patient care advocates that are dedicated to their department and possess the following qualifications:</p>
-<ul>
-<li>
-		RN or PM in State of California, with a minimum of 5 years clinical experience working in the emergency department</li>
-<li>
-		Mobile Intensive Care Nurse (MICN)</li>
-<li>
-		NAEMSE, DOT or Firefighter 1A/1B Instructor Certification</li>
-<li>
-		BLS Provider &amp; Instructor</li>
-<li>
-		ACLS, PALS, and PHTLS Provider &amp; Instructor</li>
-</ul>
-<p>
-	<strong>More information</strong></p>
-<div>
-	For more information, please contact Carmina Lu, Center Administrator, at <a href="mailto:carminalu@mednet.ucla.edu?subject=FDQI%20inquiry">carminalu@mednet.ucla.edu</a>.</div>
-    		
-  </div>
-
-    		
-</div>
-  </div>
-</div>
-  </div>
-    </div>
-
-    
-  </div>
-</div>
-<footer class="footer container">
-	
-	<div class="col-sm-3">
-      <div class="region region-footer-left">
-    <div id="block-block-2" class="block block-block">
-
-    
-  <div class="content">
-    <ul class="footer-menu footer-menu-left">
-<li>
-		<span style="color:#00a5e5;">Resources</span></li>
-<li>
-		<a href="https://www.cpc.mednet.ucla.edu/pcrf/">PCRF</a></li>
-<li>
-		<a href="/about/contact">Contact</a></li>
-<li>
-		<a href="https://vipcpc1.ad.medctr.ucla.edu/portal">Portal</a></li>
-<li>
-		<a href="https://www.cpc.mednet.ucla.edu/SRRS/Staff/StaffMain.aspx">SRRS Staff Page</a></li>
-<li>
-		<a href="/associates">Associate Resources</a></li>
-</ul>
-  </div>
-</div>
-  </div>
-	</div>
-	<div class="col-sm-6">
-      <div class="region region-footer-middle">
-    <div id="block-block-1" class="block block-block">
-
-    
-  <div class="content">
-    <ul class="footer-menu footer-menu-center-left">
-<li>
-		<a href="/courses">Courses</a></li>
-<li>
-		<a href="/emt">EMT</a></li>
-<li>
-		<a href="/paramedic">Paramedic</a></li>
-<li>
-		<a href="/lifesupport">CPR, ACLS, PALS</a></li>
-<li>
-		<a href="/course/phlebotomy">Phlebotomy</a></li>
-<li>
-		<a href="/course/phtls">Trauma</a></li>
-</ul>
-<ul class="footer-menu footer-menu-center-center">
-<li>
-		<a href="/students">Students</a></li>
-<li>
-		<a href="/services/payment-methods">Payment Methods</a></li>
-<li>
-		<a href="/services/financial-aid">Financial Aid</a></li>
-<li>
-		<a href="/services/books">Books</a></li>
-<li>
-		<a href="/services/transcripts">Transcripts</a></li>
-</ul>
-<ul class="footer-menu footer-menu-center-right">
-<li>
-		<a href="/about">About Us</a></li>
-<li>
-		<a href="/about/contact">Contact</a></li>
-<li>
-		<a href="/giving">Giving</a></li>
-<li>
-		<a href="/about/leadership">Leadership</a></li>
-<li>
-		<a href="/diversity-resources">Equity, Diversity<br />
-		&amp; Inclusion</a></li>
-<li>
-		<a href="/about/history">Our History</a></li>
-<li>
-		<a href="/about/employment">Jobs at CPC</a></li>
-<li>
-		<a href="https://www.uclahealth.org/privacy-notice">Privacy Practices</a></li>
-</ul>
-  </div>
-</div>
-  </div>
-	</div>
-	<div class="col-sm-3">
-      <div class="region region-footer-right">
-    <div id="block-block-4" class="block block-block">
-
-    
-  <div class="content">
-    <div style="width:185px; xmargin:20px auto;">
-	<a href="http://www.facebook.com/uclacpc"><img class="img-responsive" src="/sites/all/themes/cpc_bootstrap/theme_images/facebookIcon-240.png" style="display: inline-block; margin: 5px; max-width:120px;" /></a><!--<img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-FB.png" style="display: inline-block; margin: 5px;" /> <img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-LI.png" style="display: inline-block; margin: 5px;" /><img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-YT.png" style="display: inline-block; margin: 5px;" /> --> <a href="https://www.instagram.com/uclacpc/" target="_blank"><img src="/sites/default/files/icons/instagram_glyph_color.png" style="display: inline-block; max-height: 40px; max-width: 40px; " /></a></div>
-  </div>
-</div>
-  </div>
-	</div>
-	<div class="col-sm-12 footer-bottom">
-		<div style="text-align: center; border-top: 1px solid #777;display:none;">
-		<a href="">Privacy</a> | <a href="">Terms</a>
-		</div>
-	</div>
-</footer>
-  	  <script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
-<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=20&cb=201634162" async></script></body>
-</html>
+Fire Department & Law Enforcement Continuing Education & Quality Improvement | UCLA CPC
+Skip to main content
+[ Login / Register ]
+0  items in cart
+Toggle navigation
+Fire Department & Law Enforcement Continuing Education & Quality Improvement
+For over 20 years, UCLA Nurse Educators have delivered customized, high-quality, and department-specific continuing education and quality improvement services to fire departments and law enforcement agencies.  Nurse and Paramedic Educators operate within the chain of command structure and partner with departments to support the delivery of high quality emergency services.  Our services are customized but typically include:
+Dynamic, hands-on monthly continuing education that utilizes a student-centered learning model that goes well beyond the traditional lecture-based, stand-and-deliver teaching format.
+Collaboration with EMS leadership to sustain best practices within your department.
+Continuing education to include skills practice, remediation and verification, which exceeds recertification/licensing requirements for EMTs and Paramedics.
+Comprehensive quality improvement plan, including the development and tracking of performance indicators and a ride-along program, to sustain high quality care and meet regulatory requirements.
+Additional services as needed:
+Support the department's infection control program and serve as the Designated Infection Control Officer (DICO).
+Oversight, coordination, training and re-training of EMT– Defibrillation programs.
+Community-based education including hand-only CPR, Stop-the-Bleed, First Aid, Public Access AED.
+Emergency Medical Dispatch quality improvement and pre-arrival instructions.
+We work as a team of Educators and will find you an Educator that fits your organization’s needs.  We have an outstanding record of meeting regulatory audit requirements.  We are well-respected by the Los Angeles County Department of Health Services EMS Agency and other LA County Prehospital Colleagues.
+Experience in the field
+The Center for Prehospital Care has years of experience delivering primary and refresher education for Paramedics and EMTs with nationally leading outcomes.  Educators are proud to be immersed in the middle of the primary Paramedic and EMT programs, along with our association with the UCLA David Geffen School of Medicine.  Our programs are managed by a cohesive group of physicians, nurses, paramedics, and EMTs in key leadership positions who contribute to best practices, and participate with others to create knowledge and evidence that help guide the practice of prehospital medicine.
+Nurse and Paramedic Educators
+Nurse and Paramedic Educators are committed EMS and patient care advocates that are dedicated to their department and possess the following qualifications:
+RN or PM in State of California, with a minimum of 5 years clinical experience working in the emergency department
+Mobile Intensive Care Nurse (MICN)
+NAEMSE, DOT or Firefighter 1A/1B Instructor Certification
+BLS Provider & Instructor
+ACLS, PALS, and PHTLS Provider & Instructor
+More information
+For more information, please contact Carmina Lu, Center Administrator, at
+carminalu@mednet.ucla.edu
+.
+Resources
+PCRF
+Contact
+Portal
+SRRS Staff Page
+Associate Resources
+Courses
+EMT
+Paramedic
+CPR, ACLS, PALS
+Phlebotomy
+Trauma
+Students
+Payment Methods
+Financial Aid
+Books
+Transcripts
+About Us
+Contact
+Giving
+Leadership
+Equity, Diversity
+& Inclusion
+Our History
+Jobs at CPC
+Privacy Practices
+Privacy
+|
+Terms

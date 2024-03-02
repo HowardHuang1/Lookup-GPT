@@ -1,369 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-
-      	<!-- Google Tag Manager -->
-	  	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-      	})(window,document,'script','dataLayer','GTM-M4CXQ7');</script>
-	  	<!-- End Google Tag Manager -->
-
-        <script src="https://www.youtube.com/iframe_api"></script>
-
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=11">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="format-detection" content="telephone=no">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="google-site-verification" content="QS5gayPg38zC46YsAx4a9c3v4qTBkn-R69g90pQgpB0" />
-
-        <title>Brand Guidelines | Application | Web | CMS Resources</title>
-        <meta name="description" content=""/>
-
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-
-		<!-- Main CSS -->
-		<link href="https://www.brand.ucla.edu/css/app.css" rel="stylesheet" type="text/css">
-    </head>
-<body>
-
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4CXQ7"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-
-    <header id="header">
-      <div class="ribbon">
-
-        <div class="logo">
-          <a href="http://ucla.edu" class="gtm-main-nav-logo" target="_blank"><img src="/images/logo-ucla.svg" alt="UCLA logo"></a>
-        </div>
-
-        <div class="log-in">
-				        	<a href="https://www.brand.ucla.edu/login/YToxOntzOjQ6InBhdGgiO3M6MzA6Ii9hcHBsaWNhdGlvbi93ZWIvY21zLXJlc291cmNlcyI7fQ==" class="gtm-main-nav">Log In</a>
-	                </div>
-
-      </div>
-    </header>
-    <nav id="main-nav">
-      <div class="nav-toggle">
-
-        <!-- HAMBURGER NAV -->
-        <input type="checkbox" class="gtm-main-nav-hamburger-icon" aria-label="Hamburger Menu" />
-        <div class="hamburger-icon">
-          <span></span>
-          <span></span>
-          <span></span>
-        </div>
-
-        <!-- MENU -->
-        <ul class="nav">
-          <li class="site-name"><a href="https://www.brand.ucla.edu" class="gtm-main-nav">Brand Guidelines</a></li>
-
-          <!-- FUNDAMENTALS -->
-          <li id="fundamentals-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Fundamentals
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">Who we are</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/brand-defined" class="gtm-main-nav">Brand Defined</a></div>
-                  <p>The UCLA brand, core mission, key message, brand pillars and personality</p>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/brand-protection" class="gtm-main-nav">Brand Protection</a></div>
-                  <p>Policies, permissions and approvals to use UCLA logos and marks</p>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/accessibility" class="gtm-main-nav">Accessibility</a></div>
-                  <p>Creating an inclusive experience for everyone</p>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/edi" class="gtm-main-nav">EDI</a></div>
-                  <p>Learn how to reflect UCLA’s vision for equity, diversity and inclusion and avoid EDI messaging pitfalls with our tips and resources.</p>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <!-- IDENTITY -->
-          <li id="identity-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Identity
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">How we look and talk</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/identity/logos-and-marks" class="gtm-main-nav">Logos and Marks</a></div>
-                  <ul>
-                    <li><a href="/identity/logos-and-marks/campus-logo" class="gtm-main-nav">Campus Logo</a></li>
-                    <li><a href="/identity/department-logos" class="gtm-main-nav">Department Logos</a></li>
-                    <li><a href="/identity/logos-and-marks/script-logo" class="gtm-main-nav">Script Logo</a></li>
-                    <li><a href="/identity/logos-and-marks/seals" class="gtm-main-nav">UCLA Seal</a></li>
-                    <li><a href="/identity/logos-and-marks/historical-logos-and-marks" class="gtm-main-nav">Historical Marks</a></li>
-                  </ul>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/identity/names-and-naming" class="gtm-main-nav">Names and Naming</a></div>
-                  <div class="h5"><a href="/identity/colors" class="gtm-main-nav">Colors</a></div>
-                  <div class="h5"><a href="/identity/typography" class="gtm-main-nav">Typography</a></div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/identity/imagery" class="gtm-main-nav">Imagery</a></div>
-                  <ul>
-                    <li><a href="/identity/imagery/photography-and-videography" class="gtm-main-nav">Photography and Videography</a></li>
-                    <li><a href="/identity/imagery/graphic-elements" class="gtm-main-nav">Graphic Elements</a></li>
-                  </ul>
-                  <div class="h5"><a href="/identity/copy-editorial" class="gtm-main-nav">Copy and Editorial</a></div>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <!-- APPLICATION -->
-          <li id="application-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Application
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">How to apply brand guidelines across channels</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/application/print" class="gtm-main-nav">Print</a></div>
-                  
-                  <div class="h5"><a href="/application/web" class="gtm-main-nav">Web</a></div>
-                    <ul>
-                      
-                      <li><a href="/application/web/design-system" class="gtm-main-nav">Design System</a></li>
-                      <li><a href="/application/web/cms-resources" class="gtm-main-nav">CMS Resources</a></li>
-                      <li><a href="/application/web/best-practices" class="gtm-main-nav">Best Practices</a></li>
-                      
-                    </ul>
-                  
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/application/presentations" class="gtm-main-nav">Presentations</a></div>
-                  
-                  <div class="h5"><a href="/application/email" class="gtm-main-nav">Email</a></div>
-                  <ul>
-                    <li><a href="/application/email/templates" class="gtm-main-nav">Templates</a></li>
-                    <li><a href="/application/email/best-practices" class="gtm-main-nav">Best practices</a></li>                    
-                    <li><a href="/application/email/staff-signature" class="gtm-main-nav">Staff signature</a></li>
-                  </ul> 
-                  
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a class="gtm-main-nav" href="/application/social-media">Social Media</a></div>
-                  <div class="h5"><a href="/application/video" class="gtm-main-nav">Video</a></div>
-                  <ul>
-                    <li><a href="/application/video/elements-and-styles" class="gtm-main-nav">Elements and styles</a></li>
-                    <li><a href="/application/video/best-practices" class="gtm-main-nav">Best practices</a></li>
-                  </ul>
-                  
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <!-- INITIATIVES -->
-          <!-- <li id="initiatives-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Initiatives
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">Major initiatives across campus</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/initiatives/centennial-celebration" class="gtm-main-nav">Centennial Celebration</a></div>
-                    <ul>
-                      <li><a href="/initiatives/centennial-celebration/identity-elements" class="gtm-main-nav">Identity Elements</a></li>
-                      <li><a href="/initiatives/centennial-celebration/templates" class="gtm-main-nav">Templates</a></li>
-                    </ul>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/initiatives/centennial-campaign" class="gtm-main-nav">The Centennial Campaign</a></div>
-                </div>
-                
-                  
-                  
-                
-              </div>
-            </div>
-          </li> -->
-
-          <!-- SEARCH -->
-          <li id="search-nav-item" class="nav-item search">
-            <form id="search-form" class="search-bar">
-              <div class="search-bar__container" id="searchbox">
-                <input id="site-search" class="form-control" aria-label="Search the Site" type="text" placeholder="Search">
-                <button type="button" class="gtm-main-nav-search-submit search-bar__submit btn blue" id="main-navigation-submit" aria-label="Search">
-                  <span class="search-bar__submit__text box-link">Search</span>
-                  </span>
-                </button>
-              </div>
-            </form>
-            <button type="button" class="gtm-main-nav-search-open search-open" id="main-navigation-search">
-              <img class="icon search-icon" src="/images/search-icon.svg" alt="Search button"/>
-            </button>
-          </li>
-        </ul>
-      </div>
-    </nav>
-
-
-<div class="web cms-resources jump-nav single-column-section-titles">
-
-    <section class="title">
-
-      <div class="grid-wrapper">
-
-        <div class="parent col-1-13">
-          <a href="/application/web/" class="gtm-internal-page-link btn blue">Web</a>
-        </div>
-
-        <h1 class="col-1-13">CMS Resources</h1>
-
-        <div class="jump-nav-links col-1-13">
-          <ul>
-            <li><a class="gtm-internal-page-link" href="#wordpress">WordPress</a></li>
-            <li><a class="gtm-internal-page-link" href="#drupal">Drupal</a></li>
-          </ul>
-        </div>
-
-      </div>
-    </section>
-    <div id="wordpress" class="page-content">
-      <div class="page-section">
-        <h2>WordPress</h2>
-        <h3>UCLA Theme & Plugin (Self-Hosted)</h3>
-        <p>A <a href="https://wordpress.org/about/">WordPress</a> theme and plugin based on the design system are available for download along with extensive usage documentation at the resource website below. The theme provides page structure templates, styles, header and footer. The plug in provides components as Gutenberg blocks and patterns.</p>
-        <p>
-          <a class="callout-link" href="https://wp.brand.ucla.edu/">wp.brand.ucla.edu</a>
-        </p>
-      </div>
-    </div>
-    <div id="drupal" class="page-content">
-      <div class="page-section">
-        <h2>Drupal</h2>
-        <h3>IT Services SiteDen Drupal Distribution</h3>
-        <p>SiteDen is a managed content management platform offered by IT Services. It is based on Drupal 9, and is part of the UC-wide SiteFarm project. It offers a handful of content types, block types, default taxonomy vocabularies, and list views. There is a custom SiteDen theme managed by IT Services that follows UCLA brand guidelines. </p>
-        <h4>Recommended audience</h4>
-        <ul class="unordered-list">
-          <li>Departments wanting a completely-managed content management platform</li>
-          <li>Departments with no or few developer resources</li>
-          <li>Site builders with little or no experience</li>
-        </ul>
-        <h4 class="mt-80">Support</h4>
-        <p>IT Services maintains Drupal core, contributed and custom modules, and the theme to ensure they are kept up-to-date with security updates, and adds features on a regular basis. Administrator-level access is reserved for IT Services staff, and customizations require paid engagement with IT Services. Content management support is also available through free channels like Slack and office hours, or through paid engagements.</p>
-
-        <ul class="unordered-list">
-          <li><a href="https://ucla.in/3QpFPvZ">SiteDen Online Training Course</a></li>
-          <li><a href="https://ucla.box.com/v/siteden-user-guide">SiteDen User Guide</a></li>
-          <li><a href="https://ucla.service-now.com/support?id=kb_category&kb_category=12da7310db12f9109f134eac13961970&kb_id=eb11050b1bf2334037310f6e6e4bcbe4">SiteDen Documentation</a></li>
-        </ul>
-      </div>
-    </div>
-</div>
-
-
-
-<footer id="footer">
-			<div class="wrapper">
-				<img class="logo" src="/images/logo-stratcomm.svg" alt="UCLA Strategic Communications logo">
-				<div class="footer-content">
-					<div class="col-1">
-						<p>
-							10889 Wilshire Blvd. | Ste 1400<br>
-							Los Angeles, CA 90024<br>
-						</p>
-						<p class="contact">
-							<ul>
-								<li><a class="gtm-footer-link-phone" href="tel:3108254321">(310) 825-4321</a></li>
-								<li><a class="gtm-footer-link-mailto" href="mailto:brand@stratcomm.ucla.edu">brand@stratcomm.ucla.edu</a></li>
-							</ul>
-						</p>
-					</div>
-					<div class="col-2">
-						<div class="h5">Learn More</div>
-							<ul>
-								<li><a class="gtm-footer-link-internal gtm-download-file-pdf" href="/assets/ucla-brand-glossary.pdf" target="_blank" data-button-name="Glossary Footer">Glossary (PDF 52KB)</a></li>
-								<li><a class="gtm-footer-link-internal" href="/resources">Resources</a></li>
-							</ul>
-					</div>
-					<div class="col-3">
-						<div class="h5">Related Websites</div>
-							<ul>
-								<li><a class="gtm-footer-link-outbound" href="https://www.marks.ucla.edu" target="_blank">Permission to use UCLA Marks</a></li>
-								<li><a class="gtm-footer-link-outbound" href="http://socialmedia.ucla.edu" target="_blank">Social Media at UCLA</a></li>
-								<li><a class="gtm-footer-link-outbound" href="http://identity.uclahealth.org" target="_blank">UCLA Health Identity</a></li>
-								<li><a class="gtm-footer-link-outbound" href="https://asucla.ucla.edu/licensing/" target="_blank">UCLA Trademarks and Licensing</a></li>
-								<li><a class="gtm-footer-link-outbound" href="https://www.adminvc.ucla.edu/marks/report-a-violation" target="_blank">Report improper use of UCLA Marks</a></li>
-							</ul>
-					</div>
-				</div>
-				<div class="sign-up">
-					<div class="blurb">
-						<div class="h5">Stay Informed</div>
-						Join the brand guidelines email list to hear about resources and updates
-					</div>
-
-					<div id="form-messages">
-						<form id="email-signup" method="post" action="/api/newsletter" pageId="22355370" siteId="549861" parentPageId="22355367" autocomplete="off">
-							<div class="field email-field">
-								<input type="text" name="Email" id="control_EMAIL" label="Email" class="textInput defaultText" placeholder="Your Email Address" aria-label="Your Email Address" required>
-								<input type="hidden" name="formSourceName" value="StandardForm"><!-- DO NOT REMOVE HIDDEN FIELD sp_exp --><input type="hidden" name="sp_exp" value="yes">
-							</div>
-							<div class="field submit-field">
-								<input type="submit" class="btn yellow gtm-footer-email-signup" value="Sign Up" aria-label="Sign Up">
-							</div>
-							<p class="warning">Please enter a valid email.</p>
-						</form>
-					</div>
-					<div id="success" class="hide">
-						<img src="/images/outline-check-circle.svg" alt="">
-						<p>Your email was submitted. Please check your inbox to complete your registration.</p>
-					</div>
-
-				</div>
-				<div class="legal">
-					<div id="regents">&copy;2024 Regents of the <a href="https://www.universityofcalifornia.edu" target="_blank">University of California</a></div>
-					<div class="global-links">
-						<a class="gtm-footer-link-outbound" href="http://www.ucla.edu/terms-of-use" target="_blank">Terms of Use</a>
-						<a class="gtm-footer-link-outbound" href="http://www.ucla.edu/accessibility" target="_blank">Accessibility</a>
-						<!--
-						<a class="gtm-footer-link-outbound" href="#">Emergency</a>
-						-->
-					</div>
-				</div>
-			</div>
-		</footer>
-
-		<script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
-		<script src="/vendors/fancybox-master/dist/jquery.fancybox.min.js"></script>
-
-		
-		<script src="https://www.brand.ucla.edu/js/main.js" ></script>
-
-		<script type="text/javascript">
-			$(document).ready( function() {
-				$('a.fancybox').fancybox();
-			});
-
-						</script>
-		<!-- test -->
-	</body>
-</html>
+Brand Guidelines | Application | Web | CMS Resources
+Log In
+Web
+CMS Resources
+WordPress
+Drupal
+WordPress
+UCLA Theme & Plugin (Self-Hosted)
+A
+WordPress
+theme and plugin based on the design system are available for download along with extensive usage documentation at the resource website below. The theme provides page structure templates, styles, header and footer. The plug in provides components as Gutenberg blocks and patterns.
+wp.brand.ucla.edu
+Drupal
+IT Services SiteDen Drupal Distribution
+SiteDen is a managed content management platform offered by IT Services. It is based on Drupal 9, and is part of the UC-wide SiteFarm project. It offers a handful of content types, block types, default taxonomy vocabularies, and list views. There is a custom SiteDen theme managed by IT Services that follows UCLA brand guidelines.
+Recommended audience
+Departments wanting a completely-managed content management platform
+Departments with no or few developer resources
+Site builders with little or no experience
+Support
+IT Services maintains Drupal core, contributed and custom modules, and the theme to ensure they are kept up-to-date with security updates, and adds features on a regular basis. Administrator-level access is reserved for IT Services staff, and customizations require paid engagement with IT Services. Content management support is also available through free channels like Slack and office hours, or through paid engagements.
+SiteDen Online Training Course
+SiteDen User Guide
+SiteDen Documentation
+10889 Wilshire Blvd. | Ste 1400
+Los Angeles, CA 90024
+(310) 825-4321
+brand@stratcomm.ucla.edu
+Learn More
+Glossary (PDF 52KB)
+Resources
+Related Websites
+Permission to use UCLA Marks
+Social Media at UCLA
+UCLA Health Identity
+UCLA Trademarks and Licensing
+Report improper use of UCLA Marks
+Stay Informed
+Join the brand guidelines email list to hear about resources and updates
+Please enter a valid email.
+Your email was submitted. Please check your inbox to complete your registration.
+©2024 Regents of the
+University of California
+Terms of Use
+Accessibility

@@ -1,1455 +1,263 @@
-
-
-
-<!DOCTYPE html PUBLIC
-  "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us"
-      lang="en-us">
-
-  
-    
-    
-    
-    
-    
-    
-
-  
-
-  <head>
-
-    <meta http-equiv="Content-Type"
-          content="text/html;charset=utf-8" />
-
-    <meta name="generator" content="Plone - http://plone.org" />
-
-    <!-- Internet Explorer fix, forces IE8 into newest possible rendering
-         engine even if it's on an intranet. This has to be defined before any
-         script/style tags. -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
-
-    
-      <base href="https://www.civilrightsproject.ucla.edu/" /><!--[if lt IE 7]></base><![endif]-->
-    
-
-    <link rel="kss-base-url" href="https://www.civilrightsproject.ucla.edu" />
-
-  
-  
-    
-    
-      <script type="text/javascript"
-              src="https://www.civilrightsproject.ucla.edu/portal_javascripts/CRP%20Theme/jquery-cachekey7329.js">
-      </script>
-    
-    
-    
-  
-
-  
-    
-    
-      <script type="text/javascript"
-              src="https://www.civilrightsproject.ucla.edu/portal_javascripts/CRP%20Theme/resourcebase2-dom-fp-cachekey2944.js">
-      </script>
-    
-    
-    
-  
-
-  
-    
-    
-    
-      <script type="text/javascript">
-/* Merged Plone Javascript file
- * This file is dynamically assembled from separate parts.
- * Some of these parts have 3rd party licenses or copyright information attached
- * Such information is valid for that section,
- * not for the entire composite file
- * originating files are separated by - filename.js -
- */
-
-/* - jquery.corners.js - */
-// https://www.civilrightsproject.ucla.edu/portal_javascripts/jquery.corners.js?original=1
-jQuery.fn.corners=function(options){var doneClass='rounded_by_jQuery_corners';var settings=parseOptions(options);var webkitAvailable=false;try{webkitAvailable=(document.body.style.WebkitBorderRadius!==undefined);var versionIndex=navigator.userAgent.indexOf('Chrome');if(versionIndex>=0) webkitAvailable=false} catch(err){}
-var mozillaAvailable=false;try{mozillaAvailable=(document.body.style.MozBorderRadius!==undefined);var versionIndex=navigator.userAgent.indexOf('Firefox');if(versionIndex>=0&&parseInt(navigator.userAgent.substring(versionIndex+8))<3) mozillaAvailable=false} catch(err){}
-return this.each(function(i,e){$e=jQuery(e);if($e.hasClass(doneClass)) return;$e.addClass(doneClass);var classScan=/{(.*)}/.exec(e.className);var s=classScan?parseOptions(classScan[1],settings):settings;var nodeName=e.nodeName.toLowerCase();if(nodeName=='input') e=changeInput(e);if(webkitAvailable&&s.webkit) roundWebkit(e,s);else if(mozillaAvailable&&s.mozilla&&(s.sizex==s.sizey)) roundMozilla(e,s);else{var bgColor=backgroundColor(e.parentNode);var fgColor=backgroundColor(e);switch(nodeName){case 'a':case 'input':roundLink(e,s,bgColor,fgColor);break;default:roundDiv(e,s,bgColor,fgColor);break}}});
-function roundWebkit(e,s){var radius=''+s.sizex+'px '+s.sizey+'px';var $e=jQuery(e);if(s.tl) $e.css('WebkitBorderTopLeftRadius',radius);if(s.tr) $e.css('WebkitBorderTopRightRadius',radius);if(s.bl) $e.css('WebkitBorderBottomLeftRadius',radius);if(s.br) $e.css('WebkitBorderBottomRightRadius',radius)}
-function roundMozilla(e,s){var radius=''+s.sizex+'px';var $e=jQuery(e);if(s.tl) $e.css('-moz-border-radius-topleft',radius);if(s.tr) $e.css('-moz-border-radius-topright',radius);if(s.bl) $e.css('-moz-border-radius-bottomleft',radius);if(s.br) $e.css('-moz-border-radius-bottomright',radius)}
-function roundLink(e,s,bgColor,fgColor){var table=tableElement("table");var tbody=tableElement("tbody");table.appendChild(tbody);var tr1=tableElement("tr");var td1=tableElement("td","top");tr1.appendChild(td1);var tr2=tableElement("tr");var td2=relocateContent(e,s,tableElement("td"));tr2.appendChild(td2);var tr3=tableElement("tr");var td3=tableElement("td","bottom");tr3.appendChild(td3);if(s.tl||s.tr){tbody.appendChild(tr1);addCorners(td1,s,bgColor,fgColor,true)}
-tbody.appendChild(tr2);if(s.bl||s.br){tbody.appendChild(tr3);addCorners(td3,s,bgColor,fgColor,false)}
-e.appendChild(table);if(jQuery.browser.msie) table.onclick=ieLinkBypass;e.style.overflow='hidden'}
-function ieLinkBypass(){if(!this.parentNode.onclick) this.parentNode.click()}
-function changeInput(e){var a1=document.createElement("a");a1.id=e.id;a1.className=e.className;if(e.onclick){a1.href='javascript:'
-a1.onclick=e.onclick} else{jQuery(e).parent('form').each(function(){a1.href=this.action});a1.onclick=submitForm}
-var a2=document.createTextNode(e.value);a1.appendChild(a2);e.parentNode.replaceChild(a1,e);return a1}
-function submitForm(){jQuery(this).parent('form').each(function(){this.submit()});return false}
-function roundDiv(e,s,bgColor,fgColor){var div=relocateContent(e,s,document.createElement('div'));e.appendChild(div);if(s.tl||s.tr) addCorners(e,s,bgColor,fgColor,true);if(s.bl||s.br) addCorners(e,s,bgColor,fgColor,false)}
-function relocateContent(e,s,d){var $e=jQuery(e);var c;while(c=e.firstChild) d.appendChild(c);if(e.style.height){var h=parseInt($e.css('height'));d.style.height=h+'px';h+=parseInt($e.css('padding-top'))+parseInt($e.css('padding-bottom'));e.style.height=h+'px'}
-if(e.style.width){var w=parseInt($e.css('width'));d.style.width=w+'px';w+=parseInt($e.css('padding-left'))+parseInt($e.css('padding-right'));e.style.width=w+'px'}
-d.style.paddingLeft=$e.css('padding-left');d.style.paddingRight=$e.css('padding-right');if(s.tl||s.tr){d.style.paddingTop=adjustedPadding(e,s,$e.css('padding-top'),true)} else{d.style.paddingTop=$e.css('padding-top')}
-if(s.bl||s.br){d.style.paddingBottom=adjustedPadding(e,s,$e.css('padding-bottom'),false)} else{d.style.paddingBottom=$e.css('padding-bottom')}
-e.style.padding=0;return d}
-function adjustedPadding(e,s,pad,top){if(pad.indexOf("px")<0){try{console.error('%s padding not in pixels',(top?'top':'bottom'),e)}
-catch(err){}
-pad=s.sizey+'px'}
-pad=parseInt(pad);if(pad-s.sizey<0){try{console.error('%s padding is %ipx for %ipx corner:',(top?'top':'bottom'),pad,s.sizey,e)}
-catch(err){}
-pad=s.sizey}
-return pad-s.sizey+'px'}
-function tableElement(kind,valign){var e=document.createElement(kind)
-e.style.border='none';e.style.borderCollapse='collapse';e.style.borderSpacing=0;e.style.padding=0;e.style.margin=0;if(valign) e.style.verticalAlign=valign;return e}
-function backgroundColor(e){try{var c=jQuery.css(e,"background-color");if(c.match(/^(transparent|rgba\(0,\s*0,\s*0,\s*0\))$/i)&&e.parentNode)
-return backgroundColor(e.parentNode);if(c==null)
-return "#ffffff";if(c.indexOf("rgb")>-1)
-c=rgb2hex(c);if(c.length==4)
-c=hexShort2hex(c);return c} catch(err){return "#ffffff"}}
-function hexShort2hex(c){return '#'+c.substring(1,2)+c.substring(1,2)+c.substring(2,3)+c.substring(2,3)+c.substring(3,4)+c.substring(3,4)}
-function rgb2hex(c){var x=255;var hex='';var i;var regexp=/([0-9]+)[, ]+([0-9]+)[, ]+([0-9]+)/;var array=regexp.exec(c);for(i=1;i<4;i++) hex+=('0'+parseInt(array[i]).toString(16)).slice(-2);return '#'+hex}
-function parseOptions(options,settings){var options=options||'';var s={sizex:5,sizey:5,tl:false,tr:false,bl:false,br:false,webkit:true,mozilla:true,transparent:false};if(settings){s.sizex=settings.sizex;s.sizey=settings.sizey;s.webkit=settings.webkit;s.transparent=settings.transparent;s.mozilla=settings.mozilla}
-var sizex_set=false;var corner_set=false;jQuery.each(options.split(' '), function(idx,option){option=option.toLowerCase();var i=parseInt(option);if(i>0&&option==i+'px'){s.sizey=i;if(!sizex_set) s.sizex=i;sizex_set=true} else switch(option){case 'no-native':s.webkit=s.mozilla=false;break;case 'webkit':s.webkit=true;break;case 'no-webkit':s.webkit=false;break;case 'mozilla':s.mozilla=true;break;case 'no-mozilla':s.mozilla=false;break;case 'anti-alias':s.transparent=false;break;case 'transparent':s.transparent=true;break;case 'top':corner_set=s.tl=s.tr=true;break;case 'right':corner_set=s.tr=s.br=true;break;case 'bottom':corner_set=s.bl=s.br=true;break;case 'left':corner_set=s.tl=s.bl=true;break;case 'top-left':corner_set=s.tl=true;break;case 'top-right':corner_set=s.tr=true;break;case 'bottom-left':corner_set=s.bl=true;break;case 'bottom-right':corner_set=s.br=true;break}});if(!corner_set){if(!settings){s.tl=s.tr=s.bl=s.br=true} else{s.tl=settings.tl;s.tr=settings.tr;s.bl=settings.bl;s.br=settings.br}}
-return s}
-function alphaBlend(a,b,alpha){var ca=Array(parseInt('0x'+a.substring(1,3)),parseInt('0x'+a.substring(3,5)),parseInt('0x'+a.substring(5,7)));var cb=Array(parseInt('0x'+b.substring(1,3)),parseInt('0x'+b.substring(3,5)),parseInt('0x'+b.substring(5,7)));r='0'+Math.round(ca[0]+(cb[0]-ca[0])*alpha).toString(16);g='0'+Math.round(ca[1]+(cb[1]-ca[1])*alpha).toString(16);b='0'+Math.round(ca[2]+(cb[2]-ca[2])*alpha).toString(16);return '#'+r.substring(r.length-2)+g.substring(g.length-2)+b.substring(b.length-2)}
-function addCorners(e,s,bgColor,fgColor,top){if(s.transparent) addTransparentCorners(e,s,bgColor,top);else addAntiAliasedCorners(e,s,bgColor,fgColor,top)}
-function addAntiAliasedCorners(e,s,bgColor,fgColor,top){var i,j;var d=document.createElement("div");d.style.fontSize='1px';d.style.backgroundColor=bgColor;var lastarc=0;for(i=1;i<=s.sizey;i++){var coverage,arc2,arc3;arc=Math.sqrt(1.0-Math.pow(1.0-i/s.sizey,2)) * s.sizex;var n_bg=s.sizex-Math.ceil(arc);var n_fg=Math.floor(lastarc);var n_aa=s.sizex-n_bg-n_fg;var x=document.createElement("div");var y=d;x.style.margin="0px "+n_bg+"px";x.style.height='1px';x.style.overflow='hidden';for(j=1;j<=n_aa;j++){if(j==1){if(j==n_aa){coverage=((arc+lastarc) *.5)-n_fg}
-else{arc2=Math.sqrt(1.0-Math.pow(1.0-(n_bg+1)/s.sizex,2)) * s.sizey;coverage=(arc2-(s.sizey-i)) *(arc-n_fg-n_aa+1) *.5}}
-else if(j==n_aa){arc2=Math.sqrt(1.0-Math.pow((s.sizex-n_bg-j+1)/s.sizex,2)) * s.sizey;coverage=1.0-(1.0-(arc2-(s.sizey-i))) *(1.0-(lastarc-n_fg)) *.5}
-else{arc3=Math.sqrt(1.0-Math.pow((s.sizex-n_bg-j)/s.sizex,2)) * s.sizey;arc2=Math.sqrt(1.0-Math.pow((s.sizex-n_bg-j+1)/s.sizex,2)) * s.sizey;coverage=((arc2+arc3) *.5)-(s.sizey-i)}
-addCornerDiv(s,x,y,top,alphaBlend(bgColor,fgColor,coverage));y=x;var x=y.cloneNode(false);x.style.margin="0px 1px"}
-addCornerDiv(s,x,y,top,fgColor);lastarc=arc}
-if(top)
-e.insertBefore(d,e.firstChild);else
-e.appendChild(d)}
-function addCornerDiv(s,x,y,top,color){if(top&&!s.tl) x.style.marginLeft=0;if(top&&!s.tr) x.style.marginRight=0;if(!top&&!s.bl) x.style.marginLeft=0;if(!top&&!s.br) x.style.marginRight=0;x.style.backgroundColor=color;if(top)
-y.appendChild(x);else
-y.insertBefore(x,y.firstChild)}
-function addTransparentCorners(e,s,bgColor,top){var d=document.createElement("div");d.style.fontSize='1px';var strip=document.createElement('div');strip.style.overflow='hidden';strip.style.height='1px';strip.style.borderColor=bgColor;strip.style.borderStyle='none solid';var sizex=s.sizex-1;var sizey=s.sizey-1;if(!sizey) sizey=1;for(var i=0;i<s.sizey;i++){var w=sizex-Math.floor(Math.sqrt(1.0-Math.pow(1.0-i/sizey,2)) * sizex);if(i==2&&s.sizex==6&&s.sizey==6) w=2;var x=strip.cloneNode(false);x.style.borderWidth='0 '+w+'px';if(top) x.style.borderWidth='0 '+(s.tr?w:0)+'px 0 '+(s.tl?w:0)+'px';else x.style.borderWidth='0 '+(s.br?w:0)+'px 0 '+(s.bl?w:0)+'px';top?d.appendChild(x):d.insertBefore(x,d.firstChild)}
-if(top)
-e.insertBefore(d,e.firstChild);else
-e.appendChild(d)}}
-
-
-/* - rounded.js - */
-// https://www.civilrightsproject.ucla.edu/portal_javascripts/rounded.js?original=1
-jq(document).ready(function(){jq('.rounded').corners("top");jq('.rounded').corners("top");jq('.rounded-nav').corners("left");jq('.rounded-nav').corners("left");jq('table',jq('#featureTabsContainer .tab')[0]).each(function(){jq('.native').hide()});jq('#featureTabsContainer').show();tab(0)});
-function tab(n){jq('#featureTabsContainer .tab').removeClass('tab_selected');jq(jq('#featureTabsContainer .tab')[n]).addClass('tab_selected');jq('#featureElementsContainer .feature').hide();jq(jq('#featureElementsContainer .feature')[n]).show()}
-</script>
-    
-    
-  
-
-
-  
-  
-    
-    
-    
-      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/base.css);</style>
-    
-    
-    
-  
-
-  
-    
-    
-    
-      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/public.css);</style>
-    
-    
-    
-  
-
-  
-    
-    
-    
-      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/columns.css);</style>
-    
-    
-    
-  
-
-  
-    
-    
-    
-      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/authoring.css);</style>
-    
-    
-    
-  
-
-  
-    
-    
-    
-      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/portlets.css);</style>
-    
-    
-    
-  
-
-  
-    
-    
-    
-      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/controlpanel.css);</style>
-    
-    
-    
-  
-
-  
-    
-    
-    
-      <style type="text/css" media="print">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/print.css);</style>
-    
-    
-    
-  
-
-  
-    
-    
-    
-      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/deprecated.css);</style>
-    
-    
-    
-  
-
-  
-    
-    
-    
-      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/navtree.css);</style>
-    
-    
-    
-  
-
-  
-    
-    
-    
-      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/invisibles.css);</style>
-    
-    
-    
-  
-
-  
-    
-    
-    
-      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/forms.css);</style>
-    
-    
-    
-  
-
-  
-    
-    
-    
-      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/ploneKss.css);</style>
-    
-    
-    
-  
-
-  
-    
-    
-    
-      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/++resource++plonetheme.crptheme.stylesheets/main.css);</style>
-    
-    
-    
-  
-
-  
-    
-    
-    
-      <style type="text/css" media="all">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/++resource++ContentWellPortlets.styles/ContentWellPortlets.css);</style>
-    
-    
-    
-  
-
-  
-    
-    
-    
-      <style type="text/css" media="all">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/ploneCustom.css);</style>
-    
-    
-    
-  
-
-
-  
-  <link rel="kinetic-stylesheet" type="text/css"
-        href="https://www.civilrightsproject.ucla.edu/portal_kss/CRP%20Theme/at-cachekey4320.kss" />
-
-
-<title>The Civil Rights Project at UCLA</title>
-
-    <!-- IE6 workaround CSS/JS  -->
-    <!--[if lte IE 7]>
-        <style type="text/css" media="all">@import url(https://www.civilrightsproject.ucla.edu/IEFixes.css);</style>
-        
-        <script type="text/javascript"
-                src="https://www.civilrightsproject.ucla.edu/iefixes.js">
-        </script>
-    <![endif]-->
-
-    <meta content="The Civil Rights Project at UCLA"
-          name="description" />
-
-    
-
-    <link rel="shortcut icon" type="image/x-icon"
-          href="https://www.civilrightsproject.ucla.edu/favicon.ico" />
-
-
-
-    <link rel="home"
-          href="https://www.civilrightsproject.ucla.edu"
-          title="Front page" />
-
-    <link rel="contents"
-          href="https://www.civilrightsproject.ucla.edu/sitemap"
-          title="Site Map" />
-
-
-
-
-
-
-    <link rel="search"
-          href="https://www.civilrightsproject.ucla.edu/search_form"
-          title="Search this site" />
-
-
-
-    <!-- Disable IE6 image toolbar -->
-    <meta http-equiv="imagetoolbar" content="no" />
-    
-    
-    
-
-    
-    
-
-    
-    
-
-    
-    
-
-  </head>
-
-  <body class=" template-search_form" dir="ltr">
-    <div id="visual-portal-wrapper">
-
-      <div id="portal-top">
-        
-    
-
-
-<div id="portal-personaltools-wrapper">
-
-<h5 class="hiddenStructure">Personal tools</h5>
-
-
-</div>
-
-<div id="portal-header">
-<p class="hiddenStructure">
-  <a accesskey="2"
-     href="https://www.civilrightsproject.ucla.edu/search_form#documentContent">Skip to content.</a> |
-
-  <a accesskey="6"
-     href="https://www.civilrightsproject.ucla.edu/search_form#portlet-navigation-tree">Skip to navigation</a>
-</p>
-
-<div id="portal-searchbox">
-    <form name="searchform"
-          action="https://www.civilrightsproject.ucla.edu/search">
-
-        <label for="searchGadget" class="hiddenStructure">Search Site</label>
-
-        <div class="LSBox">
-        <input name="SearchableText" type="text" size="28"
-               title="Search Site" accesskey="4"
-               class="inputLabel" id="" />
-
-        <input class="searchButton" type="submit" value="" />
-    
-        <div class="searchSection">
-            <input id="searchbox_currentfolder_only"
-                   class="noborder" type="checkbox"
-                   name="path" value="/crp" />
-            <label for="searchbox_currentfolder_only"
-                   style="cursor: pointer">
-                only in current section
-            </label>
-        </div>
-
-        <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div></div>
-        </div>
-    </form>
-
-    <div id="portal-advanced-search" class="hiddenStructure">
-        <a href="https://www.civilrightsproject.ucla.edu/search_form"
-           accesskey="5">
-            Advanced Search&hellip;
-        </a>
-    </div>
-
-</div>
-
-<a id="portal-logo" accesskey="1"
-   href="https://www.civilrightsproject.ucla.edu">
-
-<!--    <img src="logo.jpg" alt=""
-         tal:replace="structure view/logo_tag" /></a>
-
-        <img src="logo.jpg" alt=""
-             tal:condition="not:we_are_home"
-             tal:replace="structure view/logo_tag"/>
-
-        <img src="logo-front.jpg" alt=""
-             tal:condition="we_are_home"
-             tal:replace="structure view/logo_tag"/></a>
--->
-
-        
-
-        <img src="logo-front.jpg" alt="" /></a>
-
-
-    <h5 class="hiddenStructure">Sections</h5>
-
-    <ul id="portal-globalnav">
-        <li id="portaltab-index_html" class="selected"><a
-    href="https://www.civilrightsproject.ucla.edu" title="">Home</a></li>
-        <li id="portaltab-news" class="plain"><a
-    href="https://www.civilrightsproject.ucla.edu/news"
-    title="News and Legal Developments related to civil rights issues">News</a></li>
-        <li id="portaltab-events" class="plain"><a
-    href="https://www.civilrightsproject.ucla.edu/events"
-    title="A Collection of Events, including Policy Briefings, Convenings and Conferences">Events</a></li>
-        <li id="portaltab-research" class="plain"><a
-    href="https://www.civilrightsproject.ucla.edu/research"
-    title="Research on key civil rights and equal opportunity policies that have been neglected or overlooked">Research</a></li>
-        <li id="portaltab-legal-developments" class="plain"><a
-    href="https://www.civilrightsproject.ucla.edu/legal-developments"
-    title="Key policy decisions, court cases, and legal memos impacting education and civil rights">Legal Developments</a></li>
-        <li id="portaltab-resources" class="plain"><a
-    href="https://www.civilrightsproject.ucla.edu/resources"
-    title="Tools for civil rights experts, policy advocates, community leaders and parents">Resources</a></li>
-        <li id="portaltab-about-us" class="plain"><a
-    href="https://www.civilrightsproject.ucla.edu/about-us"
-    title="CRP funders, mission, staff and contact information ">About Us</a></li>
-    </ul>
-
-<!-- 
-<script>jq(document).ready( function(){
-
-  jq('.rounded').corners("30px 10px");
-
-});</script>
--->
-
-</div>
-
-      </div>
-
-      <div class="visualClear" id="clear-space-before-wrapper-table"><!-- --></div>
-
-      <table id="portal-columns">
-        <tbody>
-          <tr>
-            
-            
-            
-
-            
-            <td id="portal-column-content">
-
-              
-                <div class="">
-
-                  <div id="portal-breadcrumbs">
-
-    <span id="breadcrumbs-you-are-here">You
-are here:</span>
-    <a href="https://www.civilrightsproject.ucla.edu">Home</a>
-    
-
-</div>
-
-<div id="portlets-above">
-		
-		
-		<div class="portletsAboveContentA">
-
-</div> 
-
-		<div class="portletsAboveContentB">
-
-</div> 
-
-		<div class="portletsAboveContentC">
-
-</div> 
-
-		<div class="portletsAboveContentD">
-
-</div>
-
-		<div class="portletsAboveContentE">
-
-</div>
-
-		<div class="portletsAboveContentF">
-
-</div>
-	
-	
-
-	
-</div>
-
-
-
-
-                  <div id="region-content" class="documentContent">
-
-                    <span id="contentTopLeft"></span>
-                    <span id="contentTopRight"></span>
-                    
-                    <a name="documentContent"></a>
-
-                    
-
-    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
-        <dt>Info</dt>
-        <dd></dd>
-    </dl>
-
-
-                    
-                    <div id="viewlet-above-content"></div>
-
-                    
-                    <div id="content">
-                      
-                      <div>
-
-    <h1 class="documentFirstHeading">Advanced search for content</h1>
-
-    <p>
-    This search form enables you to find content on the site by
+The Civil Rights Project at UCLA
+Personal tools
+Skip to content.
+|
+Skip to navigation
+Search Site
+only in current section
+Advanced Search…
+Sections
+Home
+News
+Events
+Research
+Legal Developments
+Resources
+About Us
+You
+are here:
+Home
+Info
+Advanced search for content
+This search form enables you to find content on the site by
     specifying one or more search terms.
-    <br />
-    Remember that you can use the quick search anytime, it's normally
+Remember that you can use the quick search anytime, it's normally
     good enough, this search form is just if you want to be more specific.
-    </p>
-
-    <form action="search" class="enableAutoFocus"
-          method="get" name="search" id="searchform">
-
-            <div class="field">
-                <label for="SearchableText">Search Text</label>
-
-                <div class="formHelp">
-                For a simple text search, enter your search term
+Search Text
+For a simple text search, enter your search term
                 here. Multiple words may be found by combining
-                them with <strong>AND</strong> and <strong>OR</strong>.
+                them with
+AND
+and
+OR
+.
                 The text in this field will be matched with
                 items' contents, title and description.
-                </div>
-
-                <input type="text" id="SearchableText"
-                       name="SearchableText" size="25" />
-            </div>
-
-            <div class="field">
-                <label for="Title">Title</label>
-
-                <div class="formHelp">
-                Return items matching this title.
-                </div>
-
-                <input type="text" id="Title" name="Title" size="25" />
-            </div>
-
-            <div class="field">
-                <label for="Subject">Categories</label>
-
-                <div class="formHelp">
-                Return items matching some or all of these Categories.
-                Multiple words may be found by pressing <strong>Ctrl</strong>
-                (or <strong>Apple</strong> key on Mac) while clicking the
+Title
+Return items matching this title.
+Categories
+Return items matching some or all of these Categories.
+                Multiple words may be found by pressing
+Ctrl
+(or
+Apple
+key on Mac) while clicking the
                 keywords.
-                </div>
-
-                <select name="Subject:list" id="Subject"
-                        size="7" multiple="multiple">
-                    <option value="American Indian and Alaska Native">American Indian and Alaska Native</option>
-                    <option value="Demography">Demography</option>
-                    <option value="Dual language education">Dual language education</option>
-                    <option value="Mexican origin students">Mexican origin students</option>
-                    <option value="Mixed-race">Mixed-race</option>
-                    <option value="Muliracial">Muliracial</option>
-                    <option value="Project SOL">Project SOL</option>
-                    <option value="Talk">Talk</option>
-                    <option value="accountability">accountability</option>
-                    <option value="achievement tests">achievement tests</option>
-                    <option value="ada">ada</option>
-                    <option value="admissions">admissions</option>
-                    <option value="affirmative action">affirmative action</option>
-                    <option value="african american civil rights">african american civil rights</option>
-                    <option value="asian american civil rights">asian american civil rights</option>
-                    <option value="behavior standards">behavior standards</option>
-                    <option value="bilingual education">bilingual education</option>
-                    <option value="binational">binational</option>
-                    <option value="books">books</option>
-                    <option value="boston">boston</option>
-                    <option value="breyer">breyer</option>
-                    <option value="campus diversity">campus diversity</option>
-                    <option value="careers">careers</option>
-                    <option value="ccrr">ccrr</option>
-                    <option value="civil liberties">civil liberties</option>
-                    <option value="civil rights">civil rights</option>
-                    <option value="civil rights data collection">civil rights data collection</option>
-                    <option value="civil rights remedies">civil rights remedies</option>
-                    <option value="college access">college access</option>
-                    <option value="college admissions">college admissions</option>
-                    <option value="competency based education">competency based education</option>
-                    <option value="conference">conference</option>
-                    <option value="criminal justice">criminal justice</option>
-                    <option value="desegregation">desegregation</option>
-                    <option value="disabilities education act">disabilities education act</option>
-                    <option value="disabled">disabled</option>
-                    <option value="disabled children">disabled children</option>
-                    <option value="disabled students">disabled students</option>
-                    <option value="disadvantaged">disadvantaged</option>
-                    <option value="discipline">discipline</option>
-                    <option value="diversity">diversity</option>
-                    <option value="dropout prevention">dropout prevention</option>
-                    <option value="dropout rate">dropout rate</option>
-                    <option value="dropouts">dropouts</option>
-                    <option value="education">education</option>
-                    <option value="educational assessment">educational assessment</option>
-                    <option value="educational inequality">educational inequality</option>
-                    <option value="ells">ells</option>
-                    <option value="employment">employment</option>
-                    <option value="employment discrimination">employment discrimination</option>
-                    <option value="employment opportunities">employment opportunities</option>
-                    <option value="english learner">english learner</option>
-                    <option value="equal opportunities">equal opportunities</option>
-                    <option value="esea">esea</option>
-                    <option value="federal education policy">federal education policy</option>
-                    <option value="financing">financing</option>
-                    <option value="graduation">graduation</option>
-                    <option value="graduation rate crisis">graduation rate crisis</option>
-                    <option value="hidden">hidden</option>
-                    <option value="high stakes testing">high stakes testing</option>
-                    <option value="higher education">higher education</option>
-                    <option value="housing">housing</option>
-                    <option value="immigrant students">immigrant students</option>
-                    <option value="immigrants civil rights">immigrants civil rights</option>
-                    <option value="immigration">immigration</option>
-                    <option value="immigration policy">immigration policy</option>
-                    <option value="integration">integration</option>
-                    <option value="juvenile crime">juvenile crime</option>
-                    <option value="juvenile justice">juvenile justice</option>
-                    <option value="kentucky">kentucky</option>
-                    <option value="labor supply">labor supply</option>
-                    <option value="language">language</option>
-                    <option value="language education">language education</option>
-                    <option value="language minority">language minority</option>
-                    <option value="language policy">language policy</option>
-                    <option value="latino civil rights">latino civil rights</option>
-                    <option value="learning disabilities">learning disabilities</option>
-                    <option value="legal brief">legal brief</option>
-                    <option value="legal memos">legal memos</option>
-                    <option value="lep">lep</option>
-                    <option value="louisville">louisville</option>
-                    <option value="magnet schools">magnet schools</option>
-                    <option value="metro boston equity initiative">metro boston equity initiative</option>
-                    <option value="metro inequality">metro inequality</option>
-                    <option value="minority education">minority education</option>
-                    <option value="minority students">minority students</option>
-                    <option value="nclb">nclb</option>
-                    <option value="neighborhood integration">neighborhood integration</option>
-                    <option value="no child left behind">no child left behind</option>
-                    <option value="obama">obama</option>
-                    <option value="occupations">occupations</option>
-                    <option value="policy briefing">policy briefing</option>
-                    <option value="publications">publications</option>
-                    <option value="racial integration">racial integration</option>
-                    <option value="regional inequality">regional inequality</option>
-                    <option value="religion">religion</option>
-                    <option value="resegregation">resegregation</option>
-                    <option value="residential patterns">residential patterns</option>
-                    <option value="rural areas">rural areas</option>
-                    <option value="school achievement tests">school achievement tests</option>
-                    <option value="school choice">school choice</option>
-                    <option value="school desegregation">school desegregation</option>
-                    <option value="school discipline">school discipline</option>
-                    <option value="school integration">school integration</option>
-                    <option value="school to prison pipeline">school to prison pipeline</option>
-                    <option value="seattle">seattle</option>
-                    <option value="segregation">segregation</option>
-                    <option value="social isolation">social isolation</option>
-                    <option value="spotlight">spotlight</option>
-                    <option value="standardized testing">standardized testing</option>
-                    <option value="standards based education">standards based education</option>
-                    <option value="students with disabilities">students with disabilities</option>
-                    <option value="suburbs">suburbs</option>
-                    <option value="supreme court">supreme court</option>
-                    <option value="teacher training">teacher training</option>
-                    <option value="teachers">teachers</option>
-                    <option value="testing and assessment">testing and assessment</option>
-                    <option value="title 1">title 1</option>
-                    <option value="title i">title i</option>
-                    <option value="transportation">transportation</option>
-                    <option value="underrepresented students">underrepresented students</option>
-                    <option value="urban areas">urban areas</option>
-                    <option value="zero tolerance policy">zero tolerance policy</option>
-                </select>
-                <br />
-
-                <input type="radio"
-                       name="Subject_usage:ignore_empty"
-                       id="Subject_or" value=""
-                       class="noborder" checked="checked" />
-                    <label for="Subject_or">
-                        Match any
-                    </label>
-                    <br />
-
-                <input type="radio"
-                       name="Subject_usage:ignore_empty"
-                       id="Subject_and" value="operator:and"
-                       class="noborder" />
-                <label for="Subject_and">
-                    Match all
-                </label>
-            </div>
-    
-            <div class="field">
-                <label for="Description">Description</label>
-
-                <div class="formHelp">
-                Return items matching this description.
+American Indian and Alaska Native
+Demography
+Dual language education
+Mexican origin students
+Mixed-race
+Muliracial
+Project SOL
+Talk
+accountability
+achievement tests
+ada
+admissions
+affirmative action
+african american civil rights
+asian american civil rights
+behavior standards
+bilingual education
+binational
+books
+boston
+breyer
+campus diversity
+careers
+ccrr
+civil liberties
+civil rights
+civil rights data collection
+civil rights remedies
+college access
+college admissions
+competency based education
+conference
+criminal justice
+desegregation
+disabilities education act
+disabled
+disabled children
+disabled students
+disadvantaged
+discipline
+diversity
+dropout prevention
+dropout rate
+dropouts
+education
+educational assessment
+educational inequality
+ells
+employment
+employment discrimination
+employment opportunities
+english learner
+equal opportunities
+esea
+federal education policy
+financing
+graduation
+graduation rate crisis
+hidden
+high stakes testing
+higher education
+housing
+immigrant students
+immigrants civil rights
+immigration
+immigration policy
+integration
+juvenile crime
+juvenile justice
+kentucky
+labor supply
+language
+language education
+language minority
+language policy
+latino civil rights
+learning disabilities
+legal brief
+legal memos
+lep
+louisville
+magnet schools
+metro boston equity initiative
+metro inequality
+minority education
+minority students
+nclb
+neighborhood integration
+no child left behind
+obama
+occupations
+policy briefing
+publications
+racial integration
+regional inequality
+religion
+resegregation
+residential patterns
+rural areas
+school achievement tests
+school choice
+school desegregation
+school discipline
+school integration
+school to prison pipeline
+seattle
+segregation
+social isolation
+spotlight
+standardized testing
+standards based education
+students with disabilities
+suburbs
+supreme court
+teacher training
+teachers
+testing and assessment
+title 1
+title i
+transportation
+underrepresented students
+urban areas
+zero tolerance policy
+Match any
+Match all
+Description
+Return items matching this description.
                 Multiple words may be found
-                by combining them with <strong>AND</strong> and <strong>OR</strong>.
-                </div>
-    
-                <input type="text" id="Description" name="Description" size="25" />
-            </div>
-    
-            <div class="field">
-                <label for="created">New items since</label>
-
-                <div class="formHelp">
-                Return items added since you were last logged on, the last week, etc.
-                </div>
-    
-                
-                <select name="created:list:date"
-                        id="created">
-                    
-                    <option value="2024/02/19"> Yesterday </option>
-                    <option value="2024/02/13"> Last week </option>
-                    <option value="2024/01/20"> Last month </option>
-                    <option value="1970/02/01"
-                            selected="selected"> Ever </option>
-                </select>
-                
-
-                <input type="hidden" name="created_usage" value="range:min" />
-            </div>
-    
-            <div class="field">
-                <label>Item type</label>
-
-                <div class="formHelp">
-                Return items of a specific type.
-                </div>
-    
-                <span class="optionsToggle">
-                    <input type="checkbox" onclick="javascript:toggleSelect(this, 'portal_type:list', true);" name="pt_toggle" value="#" id="pt_toggle" class="noborder" checked="checked" />
-                    <label for="pt_toggle">Select All/None
-                    </label>
-                </span>
-                <br />
-                <div style="float:left; margin-right: 2em;">
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="Document" class="noborder"
-                           checked="checked"
-                           id="portal_type_1_1" />
-                    <label for="portal_type_1_1">Page</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="Event" class="noborder"
-                           checked="checked"
-                           id="portal_type_1_2" />
-                    <label for="portal_type_1_2">Event</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="Favorite" class="noborder"
-                           checked="checked"
-                           id="portal_type_1_3" />
-                    <label for="portal_type_1_3">Favorite</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="FieldsetFolder"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_1_4" />
-                    <label for="portal_type_1_4">Fieldset Folder</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="File" class="noborder"
-                           checked="checked"
-                           id="portal_type_1_5" />
-                    <label for="portal_type_1_5">File</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="FileAttachment"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_1_6" />
-                    <label for="portal_type_1_6">Attached file</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="Folder" class="noborder"
-                           checked="checked"
-                           id="portal_type_1_7" />
-                    <label for="portal_type_1_7">Folder</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="FormBooleanField"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_1_8" />
-                    <label for="portal_type_1_8">Checkbox Field</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="FormCaptchaField"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_1_9" />
-                    <label for="portal_type_1_9">Captcha Field</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="FormCustomScriptAdapter"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_1_10" />
-                    <label for="portal_type_1_10">Custom Script Adapter</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="FormDateField"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_1_11" />
-                    <label for="portal_type_1_11">Date/Time Field</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="FormFileField"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_1_12" />
-                    <label for="portal_type_1_12">File Field</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="FormFolder"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_1_13" />
-                    <label for="portal_type_1_13">Form Folder</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="FormLabelField"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_1_14" />
-                    <label for="portal_type_1_14">Label Field</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="FormLinesField"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_1_15" />
-                    <label for="portal_type_1_15">Lines Field</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="FormMultiSelectionField"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_1_16" />
-                    <label for="portal_type_1_16">Multi-Select Field</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="FormRichLabelField"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_1_17" />
-                    <label for="portal_type_1_17">Rich Label Field</label>
-                    <br />
-                    
-                </div>
-                <div style="float:left; margin-right: 2em;">
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="FormRichTextField"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_2_1" />
-                    <label for="portal_type_2_1">RichText Field</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="FormSelectionField"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_2_2" />
-                    <label for="portal_type_2_2">Selection Field</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="FormStringField"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_2_3" />
-                    <label for="portal_type_2_3">String Field</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="FormTextField"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_2_4" />
-                    <label for="portal_type_2_4">Text Field</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="FormThanksPage"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_2_5" />
-                    <label for="portal_type_2_5">Thanks Page</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="Image" class="noborder"
-                           checked="checked"
-                           id="portal_type_2_6" />
-                    <label for="portal_type_2_6">Image</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="Large Plone Folder"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_2_7" />
-                    <label for="portal_type_2_7">Large Folder</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="Link" class="noborder"
-                           checked="checked"
-                           id="portal_type_2_8" />
-                    <label for="portal_type_2_8">Link</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="News Item"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_2_9" />
-                    <label for="portal_type_2_9">Site News</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="RichDocument"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_2_10" />
-                    <label for="portal_type_2_10">Rich document</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="RichFeaturedNewsItem"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_2_11" />
-                    <label for="portal_type_2_11">Featured News</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="RichPolicyBriefingItem"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_2_12" />
-                    <label for="portal_type_2_12">Policy Briefing</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="RichPressRelease"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_2_13" />
-                    <label for="portal_type_2_13">Press Release</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="RichResearchItem"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_2_14" />
-                    <label for="portal_type_2_14">Research Item</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="RuleFolder"
-                           class="noborder"
-                           checked="checked"
-                           id="portal_type_2_15" />
-                    <label for="portal_type_2_15">Rule Folder</label>
-                    <br />
-                    
-                    
-                    <input type="checkbox"
-                           name="portal_type:list"
-                           value="Topic" class="noborder"
-                           checked="checked"
-                           id="portal_type_2_16" />
-                    <label for="portal_type_2_16">Collection</label>
-                    <br />
-                    
-                </div>
-            </div>
-
-            <div class="visualClear" id="clear-space-before-author"><!-- --></div>
-            <br />
-
-            <div class="field">
-                <label for="Creator">Author</label>
-
-                <div class="formHelp">
-                Return items created by a particular person.
-                </div>
-    
-                
-                    <select name="Creator" id="Creator">
-                        <option value="">Any Author</option>
-                        
-                            <option
-    value="Daniel J. Losen and Paul Martinez for The Learning Policy Institute">Daniel J. Losen and Paul Martinez for The Learning Policy Institute</option>
-                        
-                        
-                            <option value="Russman">Russman</option>
-                        
-                        
-                            <option
-    value="William C. Kidder">William C. Kidder</option>
-                        
-                        
-                            <option value="William Kidder">William Kidder</option>
-                        
-                        
-                            <option value="algonzalez">algonzalez</option>
-                        
-                        
-                            <option value="brannon">brannon</option>
-                        
-                        
-                            <option value="crooks">crooks</option>
-                        
-                        
-                            <option value="garcia">garcia</option>
-                        
-                        
-                            <option value="jkhuu">jkhuu</option>
-                        
-                        
-                            <option value="jujpatterson">jujpatterson</option>
-                        
-                        
-                            <option value="kelsey">kelsey</option>
-                        
-                        
-                            <option value="lhernandez">lhernandez</option>
-                        
-                        
-                            <option value="mimiller">mimiller</option>
-                        
-                        
-                            <option value="papageorge">papageorge</option>
-                        
-                        
-                            <option value="pladmin">pladmin</option>
-                        
-                        
-                            <option value="russman">russman</option>
-                        
-                        
-                            <option value="sasayama">sasayama</option>
-                        
-                        
-                            <option value="vasquez">vasquez</option>
-                        
-                    </select>
-    
-                    
-                
-            </div>
-    
-            <div class="field">
-    
-                <label for="review_state">Review status</label>
-
-                <div class="formHelp">
-                You may search for items based on their
+                by combining them with
+AND
+and
+OR
+.
+New items since
+Return items added since you were last logged on, the last week, etc.
+Yesterday
+Last week
+Last month
+Ever
+Item type
+Return items of a specific type.
+Select All/None
+Page
+Event
+Favorite
+Fieldset Folder
+File
+Attached file
+Folder
+Checkbox Field
+Captcha Field
+Custom Script Adapter
+Date/Time Field
+File Field
+Form Folder
+Label Field
+Lines Field
+Multi-Select Field
+Rich Label Field
+RichText Field
+Selection Field
+String Field
+Text Field
+Thanks Page
+Image
+Large Folder
+Link
+Site News
+Rich document
+Featured News
+Policy Briefing
+Press Release
+Research Item
+Rule Folder
+Collection
+Author
+Return items created by a particular person.
+Any Author
+Daniel J. Losen and Paul Martinez for The Learning Policy Institute
+Russman
+William C. Kidder
+William Kidder
+algonzalez
+brannon
+crooks
+garcia
+jkhuu
+jujpatterson
+kelsey
+lhernandez
+mimiller
+papageorge
+pladmin
+russman
+sasayama
+vasquez
+Review status
+You may search for items based on their
                 review state. If you wish to constrain results to items
                 in certain states, select them from this list.
-                </div>
-    
-                <span class="optionsToggle">
-                <input type="checkbox" onclick="javascript:toggleSelect(this, 'review_state:list', true);" name="rs_toggle" value="#" id="rs_toggle" class="noborder" checked="checked" />
-                <label for="rs_toggle">Select All/None
-                </label>
-                <br />
-                </span>
-
-                
-                    
-                    <input class="noborder" type="checkbox"
-                           name="review_state:list"
-                           checked="checked" id="external"
-                           value="external" />
-                    <label for="external">Externally visible</label>
-                    <br />
-                    
-                    
-                    <input class="noborder" type="checkbox"
-                           name="review_state:list"
-                           checked="checked" id="internal"
-                           value="internal" />
-                    <label for="internal">Internal draft</label>
-                    <br />
-                    
-                    
-                    <input class="noborder" type="checkbox"
-                           name="review_state:list"
-                           checked="checked"
-                           id="internally_published"
-                           value="internally_published" />
-                    <label for="internally_published">Internally published</label>
-                    <br />
-                    
-                    
-                    <input class="noborder" type="checkbox"
-                           name="review_state:list"
-                           checked="checked" id="pending"
-                           value="pending" />
-                    <label for="pending">Pending review</label>
-                    <br />
-                    
-                    
-                    <input class="noborder" type="checkbox"
-                           name="review_state:list"
-                           checked="checked" id="private"
-                           value="private" />
-                    <label for="private">Private</label>
-                    <br />
-                    
-                    
-                    <input class="noborder" type="checkbox"
-                           name="review_state:list"
-                           checked="checked" id="visible"
-                           value="visible" />
-                    <label for="visible">Public draft</label>
-                    <br />
-                    
-                    
-                    <input class="noborder" type="checkbox"
-                           name="review_state:list"
-                           checked="checked" id="published"
-                           value="published" />
-                    <label for="published">Published</label>
-                    <br />
-                    
-                
-            </div>
-
-            <div class="visualClear" id="clear-space-before-submit"><!-- --></div>
-
-            <div class="formControls">
-                <input class="context" type="submit"
-                       name="submit" value="Search" />
-            </div>
-
-    </form>
-
-</div>
-                    </div>
-                    
-
-                    
-                    
-                      
-
-<div id="portlets-below">
-	
-		
-
-		<div class="portletsBelowContentA">
-
-</div> 
-
-		<div class="portletsBelowContentB">
-
-</div> 
-
-		<div class="portletsBelowContentC">
-
-</div> 
-
-		<div class="portletsBelowContentD">
-
-</div>
-
-		<div class="portletsBelowContentE">
-
-</div>
-
-		<div class="portletsBelowContentF">
-
-</div>
-	
-	
-
-	
-</div>
-
-                    
-                    
-
-                    <span id="contentBottomLeft"></span>
-                    <span id="contentBottomRight"></span>
-
-                  </div>
-
-                </div>
-
-              
-            </td>
-            
-
-            
-            
-            
-          </tr>
-        </tbody>
-      </table>
-      
-
-      <div class="visualClear" id="clear-space-before-footer"><!-- --></div>
-      
-      
-
-      
-
-        <div id="footer-portlets">
-	
-		
-
-		<div class="FooterPortletA">
-
-</div> 
-
-		<div class="FooterPortletB">
-
-</div> 
-
-		<div class="FooterPortletC">
-
-</div> 
-
-		<div class="FooterPortletD">
-
-</div>
-
-		<div class="FooterPortletE">
-
-</div>
-
-		<div class="FooterPortletF">
-
-</div>
-	
-	
-
-	
-</div>
-
-<div id="portal-footer">
-
-<p>
-<strong>The Civil Rights Project / Proyecto Derechos Civiles</strong><br />
-8370 Math Sciences, Box 951521<br />
-Los Angeles, CA 90095-1521<br />
-<a href="mailto:crp@ucla.edu">crp@ucla.edu</a><br />    
-</p>
-
-</div>
-
-<ul id="portal-siteactions">
-
-    <li id="siteaction-contact"><a
-    href="https://www.civilrightsproject.ucla.edu/about-us/contact-us"
-    accesskey="9" title="Contact Us">Contact Us</a></li>
-    <li id="siteaction-copyright"><a
-    href="https://www.civilrightsproject.ucla.edu/copyright-policy"
-    accesskey="" title="Copyright Policy">Copyright Policy</a></li>
-    <li id="siteaction-accessibility"><a
-    href="https://www.civilrightsproject.ucla.edu/accessibility-info"
-    accesskey="0" title="Accessibility">Accessibility</a></li>
-    <li id="siteaction-sitemap"><a
-    href="https://www.civilrightsproject.ucla.edu/sitemap"
-    accesskey="3" title="Site Map">Site Map</a></li>
-    <li id="siteaction-login"><a
-    href="https://www.civilrightsproject.ucla.edu/login_form"
-    accesskey="" title="Log in">Log in</a></li>
-
-</ul>
-
-<div id="portal-colophon">
-      
-
-      
-
-      <div class="colophonWrapper">
-      <p>Copyright &copy; 2010 UC Regents</p> 
-      </div>
-
-    </div>
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-24859663-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-      
-
-      <div class="visualClear"><!-- --></div>
-    </div>
-<div id="kss-spinner"><img alt=""
-                           src="https://www.civilrightsproject.ucla.edu/spinner.gif" /></div>
-</body>
-</html>
+Select All/None
+Externally visible
+Internal draft
+Internally published
+Pending review
+Private
+Public draft
+Published
+The Civil Rights Project / Proyecto Derechos Civiles
+8370 Math Sciences, Box 951521
+Los Angeles, CA 90095-1521
+crp@ucla.edu
+Contact Us
+Copyright Policy
+Accessibility
+Site Map
+Log in
+Copyright © 2010 UC Regents

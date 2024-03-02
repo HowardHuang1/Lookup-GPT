@@ -1,491 +1,144 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>How to Report | UCLA Student Health</title>
-<link rel="stylesheet" href="/themes/custom/ucla_sa/fonts/proximanova.css?v=20240220144912">
-<link rel="stylesheet" href="/themes/custom/ucla_sa/css/ucla_sa.css??v=20240220144912">
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120085288-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() {
-    dataLayer.push(arguments);
-  }
-  gtag('js', new Date());
-  gtag('config', 'UA-120085288-1');
-</script>
-<style type="text/css">
-.full-bleed-text{
-     padding:6%;
-}
-@media only screen and (min-width:990px){
-     .full-bleed-bg{
-         background: url(/media/487);
-         height:640px;
-         background-repeat: no-repeat;
-         background-size: 100%;
-         padding: 2rem;
-         margin-right: -24px;
-         margin-left: -24px;
-    }
-    .full-bleed-bg img{
-         display:none;
-    }
-    .full-bleed-text h2{
-         font-size: 3rem;
-         line-height: 3.375rem;
-         padding-bottom:2%;
-    }
-    .full-bleed-text p, .full-bleed-text ul{
-         font-size:16pt;
-         line-height: 1.4;
-    }
-}
-@media only screen and (max-width:1024px){
-     .full-bleed-text{
-         padding: 4% 
-    }
-}
-
-
-
-.button-with-bg{
-  text-align: center;
-  background-image: linear-gradient(#003B5C, #2774AE);
-  margin: 0 -24px -4px -24px;
-  padding: 2rem;
-}
-
-.button-with-bg h2 {
- color:#fff;
- font-weight:normal;
-}
-
-.bg-button a {
- background-color: var(--ucla-gold);
- border-color: var(--ucla-gold);
- color: #000000;
-}
-
-.bg-button a:hover, .bg-button a:focus {
- background-color: var(--yellow);
- border-color: var(--yellow);
-color: #000000;
-}
-
-.ashe-floor-1 {
-  width: 109px;
-  height: 280px;
-  background-image: url('/file/d631dcd5-329a-4cc3-aa13-95a622d717ed');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.ashe-floor-2 {
-  width: 187px;
-  height: 280px;
-  background-image: url('/file/6bf4b8aa-1230-499b-89a5-174dfb6f55f8');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.ashe-floor-3 {
-  width: 136px;
-  height: 280px;
-  background-image: url('/file/b3e196ae-bd4f-4cc3-895b-6a0c9db975d0');
- background-repeat: no-repeat;
-  background-size: cover;
-}
-.ashe-floor-4 {
-  width: 163px;
-  height: 280px;
-  background-image: url('/file/5d544f8b-240f-4524-b511-91bc6344ac9b');
-  background-repeat: no-repeat;
-  background-size: cover;
-
-}
-.ashe-floor-descriptions {
-  display: inline-block;
-  vertical-align: top;
-  margin-right: 1rem;
-}
-.ashe-floor-descriptions p {
-  display: inline-block; 
-   vertical-align: top;
-}
-.ashe-room-radiology {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/d4e70fd1-2fab-48e6-9ff8-744627eaca9b');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-womens {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/5ad53dc9-c564-46dc-9edd-22c3aaeb737b');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-acupuncture {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/793e100d-14a8-4aab-b56e-585721bfd304');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-scheduling {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/40ed8066-6720-452c-890b-3283e5b417ce');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-2-clinic {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/0f600fff-520f-42bf-b32e-22abb9c4c9e2');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-dental {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/1abd9f51-be51-4fb5-9d40-b2cd429a6e83');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-nursing {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/afdea2af-83c4-4add-b611-c3aa88eac7af');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-immune {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/6d25268e-2d10-4517-98c2-fe2f6b38b606');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-physical-therapy {
-  width: 57px;
-  height: 57px;
-  background-image: url('file/3985052e-3b2d-45d7-b961-8c37c9734d85');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-records {
-  width: 57px;
-  height: 57px;
-  background-image: url('file/0510707f-0eef-4615-882e-4dbefd38861f');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-insurance {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/c0eaeffc-1b38-43d8-8735-8a807eb4dd69');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-@media (max-width:768px) {
-  .ashe-floor-descriptions {
-      margin-top: 2rem;
-  }
-}
-img {
-display: block;
-}
-.tables-col-4 th, .tables-col-4 td {
-    width: 25%;
-}
-.tables-col-5 th, .tables-col-5 td {
-    width: 20%;
-}
-</style>
-<script type="text/javascript">
-"use strict";
-async function covidFAQ() {
-    var node = document.querySelector('[data-ucla=covid-faq]');
-    if(typeof(node) == undefined || node == null) {
-        return;
-    }
-    var before = `${node.innerHTML}`;
-    node.innerText = 'Loading FAQs...';
-    var r = await fetch('https://www.uclahealth.org/ucla-campus-faq-feed.cfm?smajax=true');
-    var data = await r.json();
-    node.innerHTML = '';
-    var toc = document.createElement('div');
-    toc.classList.add('table-of-contents');
-    node.parentNode.insertBefore(toc, node);
-    console.log(node.parentNode.parentNode);
-    var activeCategory = '';
-    for(var i=0; i<data.length; i++) {
-        var item = data[i];
-        if(activeCategory != item.category) {
-            var h2 = document.createElement('h2');
-            h2.innerHTML = item.category;
-            activeCategory = `${item.category}`;
-            node.appendChild(h2);
-        }
-        var h3 = document.createElement('h3');
-        h3.innerHTML = item.question;
-
-        var div = document.createElement('div');
-        div.innerHTML = item.answer;
-
-        for(var ul of div.querySelectorAll('ul')) {
-            ul.classList.add('bullet');
-        }
-        for(var a of div.querySelectorAll('a')) {
-            if(!a.getAttribute('href').match(/http/)) {
-                a.setAttribute('href', `https:///www.uclahealth.org/${a.getAttribute('href')}`);
-            }
-        }
-
-        node.appendChild(h3);
-        node.appendChild(div);
-    }
-
-var tocs = document.querySelectorAll('.table-of-contents');
-for(var i=0; i < tocs.length; i++) {
-    generateTableOfContents(tocs[i]);
-}
-
- 
-
-
-function generateTableOfContents(toc) {
-    var parent = document.querySelector('.page-content');
-    toc.innerHTML = '';
-    var currentLevel = 2;
-    var ulForLevel = {
-        2: document.createElement('ul'),
-        3: null
-    }
-    toc.appendChild(ulForLevel[2]);
-    console.log(ulForLevel);
-    var tocFound = false;
-    var items = parent.querySelectorAll('h2, h3');
-    console.log(items);
-    for(var i=0; i < items.length; i++) {
-        var item = items[i];
-        console.log(item);
-        var key = item.textContent.replace(/ /g, '_').replace(/[^a-zA-Z0-9_]/g, '').toLowerCase();
-        item.id = key;
-        var li = document.createElement('li');        
-        var a = document.createElement('a');
-        a.href = '#' + key;
-        a.innerText = item.innerText;
-        li.appendChild(a);
-        var level = parseInt(item.nodeName.replace('H', ''));
-        if(currentLevel > level) {
-            ulForLevel[currentLevel] = null;
-        } else if(level == NaN) {
-        	level = 2;
-        }
-        if(ulForLevel[level] != null) {
-            ulForLevel[level].appendChild(li);           
-        } else {
-            ulForLevel[level] = document.createElement('ul');
-            console.log( ulForLevel[level - 1], item, level);
-            ulForLevel[level - 1].querySelector(':scope > li:last-child').appendChild(ulForLevel[level]);
-            ulForLevel[level].appendChild(li);
-        }
-        currentLevel = level;
-    }
-}
-
-}
-
-if (document.readyState === "complete" || document.readyState === "interactive") {
-    // Document is already ready to go.
-    setTimeout(covidFAQ, 1);
-} else {
-    document.addEventListener('DOMContentLoaded', function (event) {
-        covidFAQ();
-    });
-}
-</script>
-</head>
-<body
-    data-ucla-ref="load/patient-feedback/reporting-sexual-misconduct"
-    data-ucla-path="/patient-feedback/reporting-sexual-misconduct"
-    data-ucla-origin="https://www.studenthealth.ucla.edu"
-    class="no-js"
->
-<script>document.body.classList.remove('no-js'); document.body.classList.add('js');</script>
-<header class="header">
-    <div class="skip-to-main">
-    <a href="#main">Skip to Main Content</a>
-    </div>
-            <div class="nav-topbar desktop-only">
-    <nav aria-label="Secondary Top" class="nav-secondary container">
-    <ul>
-  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
-  <li><a href="https://www.immunizationrequirement.ucla.edu/">Immunization Requirements</a></li>
-  <li><a href="/afterhours">AfterHours</a></li>
-  <li><a href="/careers">Careers</a></li>
-  <li class="topbar-yellow-button"><strong><a href="/portal">PATIENT PORTAL</a></strong></li>
-</ul>
-    </nav>
-    </div>
-    <div class="headerbar container">
-          <a href="/" class="site-name"><img src="/sites/default/files/UCLA_Logo_AsheCenter.fw_.png" height="70" width="780" alt="UCLA Arthur Ashe Student Health &amp; Wellness Center"></a>
-          <div class="header-right">
-      <button class="mobile-only" aria-haspopup="true" aria-controls="menus" aria-expanded="false" aria-label="Main Menus"></button>
-      <form action="https://www.ucla.edu/search" method="GET" class="site-search desktop-only">
-      <label for="header-search-headerbar">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-headerbar"><button type="submit">Search</button>
-      </form>
-      </div>
-    </div>
-    <div id="menus">
-    <form action="https://www.ucla.edu/search" method="GET" class="site-search mobile-only">
-      <label for="header-search-mobile-only">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-mobile-only"><button type="submit">Search</button>
-    </form>
-    <nav aria-label="Main" class="nav-main container">
-    <ul>
-  <li><a href="/services">Services</a></li>
-  <li><a href="/insurance">Insurance</a></li>
-  <li><a href="/fees">Fees</a></li>
-  <li><a href="/about">About</a></li>
-  <li><a href="/contact">Contact</a></li>
-</ul>
-    </nav>
-    <nav aria-label="Secondary Menu" class="nav-secondary container mobile-only">
-    <ul>
-  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
-  <li><a href="https://www.immunizationrequirement.ucla.edu/">Immunization Requirements</a></li>
-  <li><a href="/afterhours">AfterHours</a></li>
-  <li><a href="/careers">Careers</a></li>
-  <li class="topbar-yellow-button"><strong><a href="/portal">PATIENT PORTAL</a></strong></li>
-</ul>
-    </nav>
-    </div>
-</header>
-<main id="main">
-  <div class="container">
-        <div class="page">
-<div class="page-header">
-  <div id="block-system-messages">
-<div data-drupal-messages-fallback class="hidden"></div>
-</div>
-<div id="block-breadcrumbs">
-  
-    
-        <nav aria-labelledby="system-breadcrumb">
-    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
-    <ol>
-          <li>
-                            <a href="https://www.studenthealth.ucla.edu/">Home</a>
-                        </li>
-          <li>
-                            <a href="https://www.studenthealth.ucla.edu/about">About</a>
-                        </li>
-          <li>
-                            <a href="https://www.studenthealth.ucla.edu/we-listen-we-care">Patient Feedback</a>
-                        </li>
-          <li>
-                            <a href="https://www.studenthealth.ucla.edu/patient-feedback/reporting-sexual-misconduct">How to Report</a>
-                        </li>
-        </ol>
-  </nav>
-
-  </div>
-<div id="block-ucla-sa-page-title">
-  
-    
-      
-  <h1>How to Report</h1>
-
-
-  </div>
-
-
-</div>
-<div class="page-content">
-  <div id="block-mainpagecontent">
-  
-    
-      <div data-ucla-node-id="79">
-
-
-
-
-
-<div class="body-content body--section">
-
-<p class="lead">If you have experienced sexual harassment, please report it. To speak with a Title IX officer, please call (310) 206-3417 .</p> <h2>Reporting Sexual Misconduct</h2> <h3>How to Make a Report of Sexual Harassment and Notice of Nondiscrimination</h3> <p>The University of California and UCLA Arthur Ashe Student Health and Wellness Center are committed to the principle of treating each community member with respect and dignity.</p> <h3>University of California Notice of Nondiscrimination</h3> <p>Across all of its locations, including clinical settings, the University prohibits discrimination and harassment (including sexual assault and other forms of sexual harassment). UCLA Arthur Ashe Student Health and Wellness Center provides equal opportunities for all patients, applicants, employees, faculty, and students regardless of sex, gender identity or expression, sexual orientation, or other legally protected characteristics. For more on the University’s commitment to integrity, accountability and respect for all members of our community, please see the University’s Statement of Ethical Values and Standards of Ethical Conduct at <a href="https://www.compliance.ucla.edu/statement-of-ethical-values">https://www.compliance.ucla.edu/statement-of-ethical-values</a>.</p> <h3>UCLA Patients and Students - How to Report</h3> <p>If you have experienced sexual harassment, please report it. To speak with a Title IX officer, please call <a href="tel:3102063417">(310) 206-3417</a>. You may also <a href="https://ucla-gme-advocate.symplicity.com/public_report/index.php/pid215484?">submit an online report</a>.</p> <p>The UCLA Title IX Office tries to protect people’s privacy, while also fulfilling its obligations to respond appropriately to all reports it receives. In some situations, certain laws and University policies may require disclosure of reports to others, such as other University officials, licensing boards, law enforcement, or other agencies. If you are unsure if you want to file a report, we recommend contacting one of the following confidential resources first for advice and support:</p> <ul> <li>CARE Advocate- Advocacy Office for Sexual and Gender Based Violence and Misconduct</li> <li>CARE Advocates are available to support and advocate for UCLA student survivors of sexual violence or sexual harassment. They can assist in finding resources and navigating reporting options. You can get help from a CARE Advocate without formally reporting sexual violence.</li> <li>Murphy A Level, Room 233 | <a href="tel:3102062465">310-206-2465</a> | <a href="mailto:CAREadvocate@careprogram.ucla.edu">CAREadvocate@careprogram.ucla.edu</a></li> <li><a href="https://www.careprogram.ucla.edu/">https://www.careprogram.ucla.edu/</a></li> <li>CAPS (Counseling and Psychological Services)</li> <li>For emotional support, or individual or group counseling.</li> <li>John Wooden Center West | <a href="tel:310-825-0768">310-825-0768</a> (24/7) | <a href="https://www.counseling.ucla.edu/">https://www.counseling.ucla.edu/</a></li> <li>Office Hours: Mon-Thurs, 8am-8pm; Fri 9am-5</li> <li>Rape Treatment Center, Santa Monica</li> <li>Free medical treatment, preventive health care and counseling available 24/7.</li> <li>A sexual assault survivor has the option of a Sexual Assault Forensic Exam (SAFE) (commonly referred to as “rape exam”) without filing a police report. This is referred to as a Non-Investigative Report (NIR). UCPD will provide free and confidential transportation to the RTC.</li> <li>1250 Sixteenth Street, Santa Monica CA 90404 | <a href="tel:4242596000">424-259-6000</a> | <a href="http://www.rapetreatmentcenter.org">www.rapetreatmentcenter.org</a></li> <li>Student Legal Services</li> <li>Confidential legal counseling and assistance</li> <li>A239 Murphy Hall | <a href="tel:3108259894">310-825-9894</a> | <a href="mailto:slegal@saonet.ucla.edu">slegal@saonet.ucla.edu</a> | <a href="https://www.studentlegal.ucla.edu/">www.studentlegal.ucla.edu</a></li></ul> <p>These offices are not required to report instances of sexual harassment to the University.</p> <p>The University reviews all reports of sexual harassment in accordance with the <a href="https://policy.ucop.edu/doc/4000385/SVSH">University’s Sexual Violence and Sexual Harassment Policy</a> and other applicable policies.</p> <h3>UCLA Workforce - How to Report</h3> <p>UCLA provides <a href="https://sexualharassment.ucla.edu/resources/resources-for-complainants">resources to faculty and staff</a> who want to report sexual misconduct or seek help for themselves or others.</p> <p>As an institution, we are all responsible for creating and maintaining the safe, supportive and respectful environment our patients and colleagues expect and deserve. All members of the UCLA community are urged to immediately report information regarding possible sexual misconduct directly to the Title IX office or anonymously to the compliance hotline. More information about <a href="https://sexualviolence.universityofcalifornia.edu/faq/#1_3">your responsibility to report sexual misconduct as a member of the UC community</a>.</p> <h4>Title IX:</h4> <ul> <li>Phone: <a href="tel:3102063417">(310) 206-3417</a></li> <li>Email: <a href="mailto:TitleIX@conet.ucla.edu">TitleIX@conet.ucla.edu</a></li> <li><a href="https://ucla-gme-advocate.symplicity.com/public_report/index.php/pid215484?">Public Incident Report Form</a> (you may submit an anonymous report through this form)</li></ul> <h4>Compliance Hotline:</h4> <p><a href="tel:8004034744">(800) 403-4744</a></p> <h3>To Provide General Feedback about your Patient Care Experience</h3> <p>UCLA Arthur Ashe Student Health and Wellness Center is interested in hearing about your overall care experience. To provide general feedback about your visit or experience with a UCLA Arthur Ashe Student Health and Wellness Center provider, or to communicate any complaint about unprofessional conduct, please <a href="https://www.studenthealth.ucla.edu/patient-feedback">submit feedback here</a>.</p> <h3>To Obtain Your Medical Records</h3> <p>You may obtain a copy of your medical records in person or by mail. For detailed instructions, visit the UCLA Arthur Ashe Student Health and Wellness Center <a href="/contact/medical-records">Medical Records page</a>.</p> <h3>For Hearing and Visual Access Assistance</h3> <p>We provide free aids and services to people with disabilities to communicate effectively with us, like qualified sign language interpreters and written information in other formats (large print, audio, accessible electronic formats, other formats). If you need these services, contact <a href="https://www.cae.ucla.edu/">UCLA Center for Accessible Education</a>, <a href="tel:3108251501">(310) 825-1501</a>.</p> <h3>Reporting Obligations of UC Personnel</h3> <p>All University employees are responsible for creating and maintaining the safe, supportive and respectful environment that our patients and colleagues expect and deserve. Additionally, under some circumstances, UCLA Arthur Ashe Student Health and Wellness Center staff members are required by University policy to immediately report possible sexual harassment to the Title IX office. Even those who are not subject to a mandate are urged to immediately report information regarding possible sexual harassment directly to the Title IX office or anonymously to the compliance hotline. More information about your <a href="https://www.sexualviolence.ucla.edu/FAQS/Responsible-Employees">responsibility to report sexual harassment as a member of the UC community</a>.</p> <h3>Patients</h3> <h4>Additional methods to report sexual misconduct</h4> <p>The following University offices also accept reports of sexual misconduct:</p> <ul> <li>UCLA Compliance Hotline: <a href="tel:8004034744">(800) 403-4744</a> and <a href="https://www.uclahealth.org/compliance/hotline">https://www.uclahealth.org/compliance/hotline</a></li> <li>UCLA Police: <a href="tel:3108251491">(310) 825-1491</a> and <a href="https://www.police.ucla.edu/">https://www.police.ucla.edu/</a></li></ul> <p>If you would prefer to file a complaint with an outside agency instead of, or in addition to, a complaint with the University, you can file a civil rights complaint with any of the following:</p> <ul> <li>Medical Board of California: <a href="https://www.breeze.ca.gov/datamart/complaint.do?applicationId=1">https://www.breeze.ca.gov/datamart/complaint.do?applicationId=1</a> (this site will allow you to file a complaint about any California-licensed physician or midwife)</li> <li>California Department of Consumer Affairs: <a href="https://www.dca.ca.gov/consumers/complaints/consumer.shtml">https://www.dca.ca.gov/consumers/complaints/consumer.shtml</a> (this site will allow you to access the websites to file complaints about any health professional licensed in the State of California)</li> <li>U.S. Department of Health and Human Services, Office for Civil Rights The Office for Civil Rights works to ensure equal access to education and through enforcement of civil right protections on the basis of race, color, national origin, sex discrimination, disability and age.</li> <li>File a complaint electronically: <a href="https://ocrportal.hhs.gov/ocr/portal/lobby.jsf">https://ocrportal.hhs.gov/ocr/portal/lobby.jsf</a></li> <li>File a complaint by mail: U.S. Department of Health and Human Services 200 Independence Avenue, SW Room 509F, HHH Building Washington, D.C. 20201. Download the form here <a href="http://www.hhs.gov/ocr/office/file/index.html">http://www.hhs.gov/ocr/office/file/index.html</a>.</li> <li>File a complaint by phone: <a href="tel:18003681019">1-800-368-1019</a>, 800-537-7697 (TDD)</li> <li>California Department of Public Health’s Center for Health Care Quality (CHCQ) The CHCQ Licensing and Certification Program at the California Department of Public Health has regulatory oversight of licensed and certified health care facilities and of certain types of health care professionals. CHCQ also investigates consumer complaints against the facilities and professionals within its purview.</li> <li>File a complaint electronically: <a href="https://www.cdph.ca.gov/programs/chcq/lcp/calhealthfind/Pages/Home.aspx">https://www.cdph.ca.gov/programs/chcq/lcp/calhealthfind/Pages/Home.aspx</a></li> <li>File a complaint by mail: Find the appropriate local office here <a href="https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/DistrictOffices.aspx">https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/DistrictOffices.aspx</a>.</li> <li>File a complaint by phone: Find the appropriate local office here <a href="https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/DistrictOffices.aspx">https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/DistrictOffices.aspx</a></li> <li>California Department of Fair Employment and Housing (DFEH) DFEH will investigate a failure by an employer to comply with sexual harassment prevention training and education requirements, and incidents of discrimination in employment, businesses and other services.</li> <li>File a complaint electronically: <a href="https://www.dfeh.ca.gov/">https://www.dfeh.ca.gov/</a></li> <li>File a complaint by mail: 2218 Kausen Drive, Suite 100; Elk Grove, CA 95758</li> <li>File a complaint by phone: <a href="tel:8008841684">800-884-1684</a> (voice), <a href="tel:8007002320">800-700-2320</a> (TTY) or California’s Relay Service at 711</li></ul>
-
-</div>
-
-
-
-
-
-</div>
-  </div>
-
-
-</div>
-</div>
-
-
-        <div class="page-footer-container page-footer-2-column" role="contentinfo">
-<div class="page-footer-box">
-<h2 class="h3">Contact Ashe Center</h2>
-<p>
-    <a href="https://goo.gl/maps/xLvHX7pY6TzVduS37">221 Westwood Plaza<br>
-    Los Angeles, CA 90095</a><br>
-    <a href="tel:+13108254073">310-825-4073</a><br>
-    Fax: (310) 206-8012<br>
-    <a href="/contact">Contact</a>
-</p>
-</div>
-<div class="page-footer-box">
-<h2 class="h3">Stay in the know</h2>
-<div class="social-links-container">
-  <a href="https://www.facebook.com/uclastudenthealth/"><span class="social-link-label">Facebook @uclastudenthealth</span></a>
-  <a href="https://www.instagram.com/uclaashecenter"><span class="social-link-label">Instagram @uclaashecenter</span></a>
-  <a href="https://www.linkedin.com/company/ucla-ashe-student-health-center/"><span class="social-link-label">LinkedIn @ucla-ashe-student-health-center</span></a>
-</div>
-<p>
-  <a href="/services/sydney-health-mobile-app">Sydney Health Mobile App</a>
-</p>
-</div>
-</div>
-      </div>
-</main>
-<footer>
-<div class="container">
-<nav class="nav-footer" aria-label="Footer">
-  <ul>\n  <li><a href="https://www.ucla.edu/accessibility" class="icon-ada">Accessibility</a></li>\n  <li><a href="https://www.ucla.edu/">UCLA</a></li>\n  <li><a href="https://www.studentaffairs.ucla.edu/">Student Affairs</a></li>\n  <li><a href="https://www.transportation.ucla.edu/campus-parking">Maps, Directions, Parking</a></li>\n  <li><a href="https://registrar.ucla.edu/calendars">Academic Calendar</a></li>\n  <li><a href="https://www.universityofcalifornia.edu/">University of California</a></li>\n  <li><a href="https://www.ucla.edu/terms-of-use">Terms of Use</a></li>\n</ul>
-
-</nav>
-</div>
-</footer>
-<script src="/themes/custom/ucla_sa/js/ucla_sa.js?v=a20240220144912" async></script>
-<script type="text/javascript">
-(function() {
-  if(document.querySelector('[data-ucla]')) {
-    var embed = document.createElement('script'); embed.type = 'text/javascript'; embed.async = true;
-    embed.src = '/themes/custom/ucla_sa/js/ucla_embed.js?v=20240220144912';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(embed, s);
-  }
-})();
-</script>
-</body>
-</html>
+How to Report | UCLA Student Health
+Skip to Main Content
+Search Website
+Search
+Search Website
+Search
+How to Report
+If you have experienced sexual harassment, please report it. To speak with a Title IX officer, please call (310) 206-3417 .
+Reporting Sexual Misconduct
+How to Make a Report of Sexual Harassment and Notice of Nondiscrimination
+The University of California and UCLA Arthur Ashe Student Health and Wellness Center are committed to the principle of treating each community member with respect and dignity.
+University of California Notice of Nondiscrimination
+Across all of its locations, including clinical settings, the University prohibits discrimination and harassment (including sexual assault and other forms of sexual harassment). UCLA Arthur Ashe Student Health and Wellness Center provides equal opportunities for all patients, applicants, employees, faculty, and students regardless of sex, gender identity or expression, sexual orientation, or other legally protected characteristics. For more on the University’s commitment to integrity, accountability and respect for all members of our community, please see the University’s Statement of Ethical Values and Standards of Ethical Conduct at
+https://www.compliance.ucla.edu/statement-of-ethical-values
+.
+UCLA Patients and Students - How to Report
+If you have experienced sexual harassment, please report it. To speak with a Title IX officer, please call
+(310) 206-3417
+. You may also
+submit an online report
+.
+The UCLA Title IX Office tries to protect people’s privacy, while also fulfilling its obligations to respond appropriately to all reports it receives. In some situations, certain laws and University policies may require disclosure of reports to others, such as other University officials, licensing boards, law enforcement, or other agencies. If you are unsure if you want to file a report, we recommend contacting one of the following confidential resources first for advice and support:
+CARE Advocate- Advocacy Office for Sexual and Gender Based Violence and Misconduct
+CARE Advocates are available to support and advocate for UCLA student survivors of sexual violence or sexual harassment. They can assist in finding resources and navigating reporting options. You can get help from a CARE Advocate without formally reporting sexual violence.
+Murphy A Level, Room 233 |
+310-206-2465
+|
+CAREadvocate@careprogram.ucla.edu
+https://www.careprogram.ucla.edu/
+CAPS (Counseling and Psychological Services)
+For emotional support, or individual or group counseling.
+John Wooden Center West |
+310-825-0768
+(24/7) |
+https://www.counseling.ucla.edu/
+Office Hours: Mon-Thurs, 8am-8pm; Fri 9am-5
+Rape Treatment Center, Santa Monica
+Free medical treatment, preventive health care and counseling available 24/7.
+A sexual assault survivor has the option of a Sexual Assault Forensic Exam (SAFE) (commonly referred to as “rape exam”) without filing a police report. This is referred to as a Non-Investigative Report (NIR). UCPD will provide free and confidential transportation to the RTC.
+1250 Sixteenth Street, Santa Monica CA 90404 |
+424-259-6000
+|
+www.rapetreatmentcenter.org
+Student Legal Services
+Confidential legal counseling and assistance
+A239 Murphy Hall |
+310-825-9894
+|
+slegal@saonet.ucla.edu
+|
+www.studentlegal.ucla.edu
+These offices are not required to report instances of sexual harassment to the University.
+The University reviews all reports of sexual harassment in accordance with the
+University’s Sexual Violence and Sexual Harassment Policy
+and other applicable policies.
+UCLA Workforce - How to Report
+UCLA provides
+resources to faculty and staff
+who want to report sexual misconduct or seek help for themselves or others.
+As an institution, we are all responsible for creating and maintaining the safe, supportive and respectful environment our patients and colleagues expect and deserve. All members of the UCLA community are urged to immediately report information regarding possible sexual misconduct directly to the Title IX office or anonymously to the compliance hotline. More information about
+your responsibility to report sexual misconduct as a member of the UC community
+.
+Title IX:
+Phone:
+(310) 206-3417
+Email:
+TitleIX@conet.ucla.edu
+Public Incident Report Form
+(you may submit an anonymous report through this form)
+Compliance Hotline:
+(800) 403-4744
+To Provide General Feedback about your Patient Care Experience
+UCLA Arthur Ashe Student Health and Wellness Center is interested in hearing about your overall care experience. To provide general feedback about your visit or experience with a UCLA Arthur Ashe Student Health and Wellness Center provider, or to communicate any complaint about unprofessional conduct, please
+submit feedback here
+.
+To Obtain Your Medical Records
+You may obtain a copy of your medical records in person or by mail. For detailed instructions, visit the UCLA Arthur Ashe Student Health and Wellness Center
+Medical Records page
+.
+For Hearing and Visual Access Assistance
+We provide free aids and services to people with disabilities to communicate effectively with us, like qualified sign language interpreters and written information in other formats (large print, audio, accessible electronic formats, other formats). If you need these services, contact
+UCLA Center for Accessible Education
+,
+(310) 825-1501
+.
+Reporting Obligations of UC Personnel
+All University employees are responsible for creating and maintaining the safe, supportive and respectful environment that our patients and colleagues expect and deserve. Additionally, under some circumstances, UCLA Arthur Ashe Student Health and Wellness Center staff members are required by University policy to immediately report possible sexual harassment to the Title IX office. Even those who are not subject to a mandate are urged to immediately report information regarding possible sexual harassment directly to the Title IX office or anonymously to the compliance hotline. More information about your
+responsibility to report sexual harassment as a member of the UC community
+.
+Patients
+Additional methods to report sexual misconduct
+The following University offices also accept reports of sexual misconduct:
+UCLA Compliance Hotline:
+(800) 403-4744
+and
+https://www.uclahealth.org/compliance/hotline
+UCLA Police:
+(310) 825-1491
+and
+https://www.police.ucla.edu/
+If you would prefer to file a complaint with an outside agency instead of, or in addition to, a complaint with the University, you can file a civil rights complaint with any of the following:
+Medical Board of California:
+https://www.breeze.ca.gov/datamart/complaint.do?applicationId=1
+(this site will allow you to file a complaint about any California-licensed physician or midwife)
+California Department of Consumer Affairs:
+https://www.dca.ca.gov/consumers/complaints/consumer.shtml
+(this site will allow you to access the websites to file complaints about any health professional licensed in the State of California)
+U.S. Department of Health and Human Services, Office for Civil Rights The Office for Civil Rights works to ensure equal access to education and through enforcement of civil right protections on the basis of race, color, national origin, sex discrimination, disability and age.
+File a complaint electronically:
+https://ocrportal.hhs.gov/ocr/portal/lobby.jsf
+File a complaint by mail: U.S. Department of Health and Human Services 200 Independence Avenue, SW Room 509F, HHH Building Washington, D.C. 20201. Download the form here
+http://www.hhs.gov/ocr/office/file/index.html
+.
+File a complaint by phone:
+1-800-368-1019
+, 800-537-7697 (TDD)
+California Department of Public Health’s Center for Health Care Quality (CHCQ) The CHCQ Licensing and Certification Program at the California Department of Public Health has regulatory oversight of licensed and certified health care facilities and of certain types of health care professionals. CHCQ also investigates consumer complaints against the facilities and professionals within its purview.
+File a complaint electronically:
+https://www.cdph.ca.gov/programs/chcq/lcp/calhealthfind/Pages/Home.aspx
+File a complaint by mail: Find the appropriate local office here
+https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/DistrictOffices.aspx
+.
+File a complaint by phone: Find the appropriate local office here
+https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/DistrictOffices.aspx
+California Department of Fair Employment and Housing (DFEH) DFEH will investigate a failure by an employer to comply with sexual harassment prevention training and education requirements, and incidents of discrimination in employment, businesses and other services.
+File a complaint electronically:
+https://www.dfeh.ca.gov/
+File a complaint by mail: 2218 Kausen Drive, Suite 100; Elk Grove, CA 95758
+File a complaint by phone:
+800-884-1684
+(voice),
+800-700-2320
+(TTY) or California’s Relay Service at 711
+Contact Ashe Center
+221 Westwood Plaza
+Los Angeles, CA 90095
+310-825-4073
+Fax: (310) 206-8012
+Contact
+Stay in the know
+Facebook @uclastudenthealth
+Instagram @uclaashecenter
+LinkedIn @ucla-ashe-student-health-center
+Sydney Health Mobile App

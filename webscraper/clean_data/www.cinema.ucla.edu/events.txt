@@ -1,733 +1,111 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
-  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
-  >
-
-<head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-<meta content="width=device-width, initial-scale=1" name="viewport" />
-<link rel="shortcut icon" href="https://www.cinema.ucla.edu/sites/all/themes/cinema/favicon.ico" type="image/vnd.microsoft.icon" />
-<link rel="apple-touch-icon" href="https://www.cinema.ucla.edu/sites/all/modules/touch_icons/apple-touch-icon.png" type="image/png" />
-<link rel="apple-touch-icon-precomposed" href="https://www.cinema.ucla.edu/sites/all/modules/touch_icons/apple-touch-icon-precomposed.png" type="image/png" />
-  <title>Upcoming Events | UCLA Film &amp; Television Archive</title>
-  <link type="text/css" rel="stylesheet" href="https://www.cinema.ucla.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://www.cinema.ucla.edu/sites/default/files/css/css_cvoopAmS0AOSzM9szc7onQ2xTDPuuaCIHSSFLfU4URg.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://www.cinema.ucla.edu/sites/default/files/css/css_VdHI_pcEtM4bOilx7q1vEyt0wv9S9xnmAVrPM92VN1k.css" media="all" />
-
-  <link href="/sites/all/modules/devel/devel.css" media="all" rel="stylesheet" type="text/css" />
-  <link rel="stylesheet" href="/sites/all/themes/cinema/assets/css/blocks.css">
-  <link href='https://fonts.googleapis.com/css?family=Raleway:300|Open+Sans:400,600' rel='stylesheet' type='text/css'>
-
-  <!--[if lte IE 9]>
-  <link rel="stylesheet" href="/sites/all/themes/cinema/assets/css/blocks-ie.css">
-  <![endif]-->
-  
-  <script type="text/javascript" src="https://www.cinema.ucla.edu/sites/default/files/js/js_1sNmgbGhLIUN5yMTMQILgmvznfDneuBLaVCmAHK7GLQ.js"></script>
-<script type="text/javascript" src="https://www.cinema.ucla.edu/sites/default/files/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
-<script type="text/javascript" src="https://www.cinema.ucla.edu/sites/default/files/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
-<script type="text/javascript" src="https://www.cinema.ucla.edu/sites/default/files/js/js_PxwAzaC7p9rq04oGU5pUOQtKiVvPY8EzxfLfMoEJ4yw.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"cinema","theme_token":"iXq8iZS7vDFUVi44N_uir6Bbnt0psLhTYjXLAtjC6YA","js":{"https:\/\/www.cinema.ucla.edu\/sites\/default\/files\/google_tag\/gtm1\/google_tag.script.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/addtoany\/addtoany.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/sites\/default\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"urlIsAjaxTrusted":{"\/events":true}});
-//--><!]]>
-</script>
-  <script type="text/javascript" src="/sites/all/themes/cinema/assets/js/script/jquery-accessibleMegaMenu.js"></script>
-  <script type="text/javascript" src="/sites/all/themes/cinema/assets/js/script/main.js"></script>
-  <script type="text/javascript" src="/sites/all/themes/cinema/assets/js/blocks.js"></script>
-  <script type="text/javascript" src="https://www.cinema.ucla.edu/sites/all/themes/cinema/assets/js/script/jquery.justifiedGallery.min.js"></script>
-  
-  <!--[if lte IE 9]>
-  <script type="text/javascript" src="/sites/all/themes/cinema/assets/js/blocks-ie.js"></script>
-  <![endif]-->
-
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.cinema.ucla.edu/sites/all/themes/cinema/assets/img/apple-touch-icon-152x152-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.cinema.ucla.edu/sites/all/themes/cinema/assets/img/apple-touch-icon-120x120-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.cinema.ucla.edu/sites/all/themes/cinema/assets/img/apple-touch-icon-76x76-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://www.cinema.ucla.edu/sites/all/themes/cinema/assets/img/apple-touch-icon-60x60-precomposed.png">
-<link rel="apple-touch-icon-precomposed" href="https://www.cinema.ucla.edu/sites/all/themes/cinema/assets/img/apple-touch-icon-precomposed.png">
-<link rel="icon" sizes="32x32" href="https://www.cinema.ucla.edu/sites/all/themes/cinema/favicon32.ico" />
-<link rel="icon" sizes="16x16" href="https://www.cinema.ucla.edu/sites/all/themes/cinema/favicon.ico" />
-  
-</head>
-
-<body class="html not-front not-logged-in no-sidebars page-events section-events has-sidebar"  >
-  <div class="container">
-      <div id="skip">
-          <a href="#main-menu" class="element-invisible element-focusable">Jump to Navigation</a>
-          <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-      </div>
-        <div class="region region-page-top">
-    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T2SXV2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  </div>
-      <div id="page" class="page with-navigation">
-  <div class="quick-bar">
-    <div class="quick-icons">
-  <a href="https://www.facebook.com/UCLAFTVArchive/"><img src="/sites/all/themes/cinema/assets/img/facebook-bw.png" alt="Follow us on Facebook" Title="Follow us on Facebook"/></a>          
-  <a href="http://twitter.com/UCLAFTVArchive"><img src="/sites/all/themes/cinema/assets/img/twitter-bw.png" alt="Follow us on Twitter" Title="Follow us on Twitter"/></a>          
-  <a href="http://www.youtube.com/user/UCLAFTVArchive"><img src="/sites/all/themes/cinema/assets/img/youtube-bw.png" alt="Watch us on Youtube" Title="Watch us on Youtube"/></a> 
-  <a href="/join-archive-mailing-list"><img src="/sites/all/themes/cinema/assets/img/email-bw.png" alt="Join the Archive Mailing List" Title="Join theArchive Mailing List"/></a>          
-  <a href="/blogs/archive-blog"><img src="/sites/all/themes/cinema/assets/img/blog-bw.png" alt="Read our Blog" Title="Read our Blog"/></a>  
-</div>
-<div class="quick-bar-links"> 
-  <div class="quick-links-wrapper">
-    <div><a href="/programs/ticket-info">Tickets</a></div>
-    <div class="hide-medium"><a href="https://search.library.ucla.edu/">Catalog</a></div>
-    <div class="hide-above-medium"><a href="/billy-wilder-theater">Directions</a></div>
-    <div><a href="/visit-us">Visit</a></div>
-  </div>
-</div>
-<div class="quick-search">
-  <div class="quick-search-wrapper">
-      <div class="region region-search">
-    <div id="block-search-form" class="block block-search block-odd first last">
-
-        <div class="content">
-    <form action="/events" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
-      <h2 class="element-invisible">Search form</h2>
-    <div class="form-item form-type-textfield form-item-search-block-form">
-  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
- <input title="Enter the terms you wish to search for." placeholder="Search" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
-</div>
-<div class="form-actions form-wrapper" id="edit-actions"><input class="button form-submit" type="submit" id="edit-submit" name="op" value="Search" /></div><input type="hidden" name="form_build_id" value="form-ZklQl67M2e8nZ9dxGfWF0dc4kckGv4qIbM8ZFebE-Do" />
-<input type="hidden" name="form_id" value="search_block_form" />
-</div>
-</div></form>  </div>
-</div>  </div>
-  </div>
-</div>
-  </div>
-  <div id="nav-stripe">
-    <div id="mega-menu">
-  <div id="logo" class="hide-medium">
-    <a id="logo-home" href="/" title="Home" rel="home">
-      <img src="/sites/all/themes/cinema/logo.png" alt="UCLA Film and Television Archive" />
-    </a>
-  </div>
-  <div class="mega-box">
-      <div class="region region-mega">
-    <div id="block-views-mega-menu-block" class="block block-views block-odd first">
-
-        <div class="content">
-    
-<div class="view view-mega-menu view-id-mega_menu view-display-id-block view-dom-id-afab418958aea43af562379dba59ef7f">
- <nav class="megamenu hide-medium">
-      <div class="item-list"><ul><li class="first">  
-          
-<a href="/events">Programs</a>    
-  <div class="views-field views-field-field-slide-image">        <div class="field-content"><a href="/events"><img src="/sites/default/files/mega_menu/MegaMenu1Programs.jpg" alt=""></a></div>  </div><div class="item-list"><ul><li class="first">  
-          
-<a href="/events">Upcoming Events</a>  </li>
-<li>  
-          
-<a href="/programs/tours">Touring Series</a>  </li>
-<li class="last">  
-          
-<a href="/programs/ucla-festival-preservation">UCLA Festival of Preservation</a>  </li>
-</ul></div></li>
-<li>  
-          
-<a href="/collections/explore-collections">Collections</a>    
-  <div class="views-field views-field-field-slide-image">        <div class="field-content"><a href="/collections/explore-collections"><img src="/sites/default/files/mega_menu/illusions.jpg" alt="A clip from the film, Illusions."></a></div>  </div><div class="item-list"><ul><li class="first">  
-          
-<a href="/collections/explore-collections">Explore</a>  </li>
-<li>  
-          
-<a href="/collections/watch-online">Watch Online</a>  </li>
-<li>  
-          
-<a href="/collections/donating-materials">Donating Materials</a>  </li>
-<li>  
-          
-<a href="/collections/media-licensing">Media Licensing</a>  </li>
-<li class="last">  
-          
-<a href="/collections/print-loan-policy">Media Loans</a>  </li>
-</ul></div></li>
-<li>  
-          
-<a href="/restoration/about-restoration">Preservation</a>    
-  <div class="views-field views-field-field-slide-image">        <div class="field-content"><a href="/restoration/about-restoration"><img src="/sites/default/files/mega_menu/MegaMenu3Restoration.jpg" alt=""></a></div>  </div><div class="item-list"><ul><li class="first">  
-          
-<a href="/restoration/about-restoration">About Preservation</a>  </li>
-<li>  
-          
-<a href="/restoration/ucla-restorations">UCLA Restorations</a>  </li>
-<li class="last">  
-          
-<a href="/support/laurel-and-hardy">Laurel & Hardy</a>  </li>
-</ul></div></li>
-<li>  
-          
-<a href="/education/archive-research-study-center-arsc">Research & Education</a>    
-  <div class="views-field views-field-field-slide-image">        <div class="field-content"><a href="/education/archive-research-study-center-arsc"><img src="/sites/default/files/mega_menu/MegaMenu4Research.jpg" alt=""></a></div>  </div><div class="item-list"><ul><li class="first">  
-          
-<a href="/education/archive-research-study-center-arsc">Research and Study Center</a>  </li>
-<li>  
-          
-<a href="/education/moving-image-archive-studies">Archival Studies</a>  </li>
-<li>  
-          
-<a href="/education/ucla-library">UCLA Library</a>  </li>
-<li class="last">  
-          
-<a href="/education/ucla-school-theater-film-amp-television">UCLA School of TFT</a>  </li>
-</ul></div></li>
-<li class="last">  
-          
-<a href="/support/letter-jan-christopher-horak-archive-director">About</a>    
-  <div class="views-field views-field-field-slide-image">        <div class="field-content"><a href="/support/letter-jan-christopher-horak-archive-director"><img src="/sites/default/files/mega_menu/closeup.jpg" alt="A close up of film under a magnifying glass"></a></div>  </div><div class="item-list"><ul><li class="first">  
-          
-<a href="/support/letter-jan-christopher-horak-archive-director">Director's Note</a>  </li>
-<li>  
-          
-<a href="/about-archive-0">About the Archive</a>  </li>
-<li>  
-          
-<a href="/archive-history">Our History</a>  </li>
-<li>  
-          
-<a href="/support/make-donation">Make a Donation</a>  </li>
-<li class="last">  
-          
-<a href="/archive-board">Archive Board</a>  </li>
-</ul></div></li>
-</ul></div>    </nav>
-</div>  </div>
-</div><div id="block-views-mega-menu-block-mobile" class="block block-views block-even last">
-
-        <div class="content">
-    
-<div class="view view-mega-menu view-id-mega_menu view-display-id-block_mobile view-dom-id-9d0220851599ea4273412af369fe454d">
-  <div class="mobile-logo-bar hide-above-medium">
-    <div class="mobile-logo"><a title="Home" href="/"><img src="/sites/all/themes/cinema/logo.png" alt="UCLA Film and Television Archive" /></a></div>
-    <div class="mobile-toggle"><a class="mobile-menu-toggle" title="Open Navigation Menu" href="#"><img src="/sites/all/themes/cinema/assets/img/mobile-menu-icon.png" alt="Open Navigation Menu" /></a></div>
-  </div>
-  <nav class="mobile-mega hide-above-medium">
-          <div class="item-list"><ul><li class="first">  
-          
-<a href="/events">Programs</a>    
-  <div class="views-field views-field-field-slide-image">        <div class="field-content"><a href="/events"><img src="/sites/default/files/mega_menu/MegaMenu1Programs.jpg" alt=""></a></div>  </div><div class="item-list"><ul><li class="first">  
-          
-<a href="/events">Upcoming Events</a>  </li>
-<li>  
-          
-<a href="/programs/tours">Touring Series</a>  </li>
-<li class="last">  
-          
-<a href="/programs/ucla-festival-preservation">UCLA Festival of Preservation</a>  </li>
-</ul></div></li>
-<li>  
-          
-<a href="/collections/explore-collections">Collections</a>    
-  <div class="views-field views-field-field-slide-image">        <div class="field-content"><a href="/collections/explore-collections"><img src="/sites/default/files/mega_menu/illusions.jpg" alt="A clip from the film, Illusions."></a></div>  </div><div class="item-list"><ul><li class="first">  
-          
-<a href="/collections/explore-collections">Explore</a>  </li>
-<li>  
-          
-<a href="/collections/watch-online">Watch Online</a>  </li>
-<li>  
-          
-<a href="/collections/donating-materials">Donating Materials</a>  </li>
-<li>  
-          
-<a href="/collections/media-licensing">Media Licensing</a>  </li>
-<li class="last">  
-          
-<a href="/collections/print-loan-policy">Media Loans</a>  </li>
-</ul></div></li>
-<li>  
-          
-<a href="/restoration/about-restoration">Preservation</a>    
-  <div class="views-field views-field-field-slide-image">        <div class="field-content"><a href="/restoration/about-restoration"><img src="/sites/default/files/mega_menu/MegaMenu3Restoration.jpg" alt=""></a></div>  </div><div class="item-list"><ul><li class="first">  
-          
-<a href="/restoration/about-restoration">About Preservation</a>  </li>
-<li>  
-          
-<a href="/restoration/ucla-restorations">UCLA Restorations</a>  </li>
-<li class="last">  
-          
-<a href="/support/laurel-and-hardy">Laurel & Hardy</a>  </li>
-</ul></div></li>
-<li>  
-          
-<a href="/education/archive-research-study-center-arsc">Research & Education</a>    
-  <div class="views-field views-field-field-slide-image">        <div class="field-content"><a href="/education/archive-research-study-center-arsc"><img src="/sites/default/files/mega_menu/MegaMenu4Research.jpg" alt=""></a></div>  </div><div class="item-list"><ul><li class="first">  
-          
-<a href="/education/archive-research-study-center-arsc">Research and Study Center</a>  </li>
-<li>  
-          
-<a href="/education/moving-image-archive-studies">Archival Studies</a>  </li>
-<li>  
-          
-<a href="/education/ucla-library">UCLA Library</a>  </li>
-<li class="last">  
-          
-<a href="/education/ucla-school-theater-film-amp-television">UCLA School of TFT</a>  </li>
-</ul></div></li>
-<li class="last">  
-          
-<a href="/support/letter-jan-christopher-horak-archive-director">About</a>    
-  <div class="views-field views-field-field-slide-image">        <div class="field-content"><a href="/support/letter-jan-christopher-horak-archive-director"><img src="/sites/default/files/mega_menu/closeup.jpg" alt="A close up of film under a magnifying glass"></a></div>  </div><div class="item-list"><ul><li class="first">  
-          
-<a href="/support/letter-jan-christopher-horak-archive-director">Director's Note</a>  </li>
-<li>  
-          
-<a href="/about-archive-0">About the Archive</a>  </li>
-<li>  
-          
-<a href="/archive-history">Our History</a>  </li>
-<li>  
-          
-<a href="/support/make-donation">Make a Donation</a>  </li>
-<li class="last">  
-          
-<a href="/archive-board">Archive Board</a>  </li>
-</ul></div></li>
-</ul></div>      </nav>
-</div>  </div>
-</div>  </div>
-  </div>
-</div>
-  </div>
-  <div id="breadcrumb-stripe">
-    
-<div id="breadcrumb"><h2 class="element-invisible">You are here</h2><nav class="breadcrumb"><ul><li><a href="/events" title="Programs" class="active">Programs</a><span class="divider">/</span></li><li>Upcoming Events</li></nav></div>   </div>
-  <div id="sys-links-stripe">
-    <div id="sys-links">
-  <div id="content" class="column">
-    <div class="tabs"></div>              </div>
-</div>  </div>
-  <div id="body-stripe">
-    <div id="body-content">
-      <div class="body_columns_box">
-                  <div id="nav-toggle" class="text-center hide-above-medium">
-            <a href="#nav-show-links" class="nav-show-links">
-              <img id="left-nav-arrow" src="/sites/all/themes/cinema/assets/img/left-nav-collection-down-arrow.png" alt="Open Collection Menu">Mobile Navigation
-              <img src="/sites/all/themes/cinema/assets/img/left-nav-collection-down-arrow.png" alt="">
-            </a>
-          </div>
-          <div class="nav-sidebar-box">
-            <div id="nav-sidebar" class="hide-medium nav-content-lg">
-                <div class="region region-left-nav">
-    <div id="block-menu-block-3" class="block block-menu-block block-odd first last">
-
-        <div class="content">
-    <div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-620 menu-level-1">
-  <ul class="menu"><li class="first expanded active-trail active menu-mlid-1368 upcoming-events mid-1368"><a href="/events" title="Programs and events in Los Angeles" class="active-trail active">Upcoming Events</a><ul class="menu"><li class="first leaf menu-mlid-1770 calendar mid-1770"><a href="/calendar" title="">Calendar</a></li>
-<li class="leaf menu-mlid-15718 current-series mid-15718"><a href="https://www.cinema.ucla.edu/series/all" title="">Current Series</a></li>
-<li class="leaf menu-mlid-15717 admission mid-15717"><a href="/programs/admission" title="">Admission</a></li>
-<li class="leaf menu-mlid-14892 billy-wilder-theater mid-14892"><a href="/billy-wilder-theater" title="Billy Wilder Theater">Billy Wilder Theater</a></li>
-<li class="leaf menu-mlid-15678 virtual-screening-room mid-15678"><a href="/events/2020/virtual-screening-room" title="">Virtual Screening Room</a></li>
-<li class="leaf menu-mlid-15700 virtual-screening-faq mid-15700"><a href="/programs/virtual-screening-room-faq">Virtual Screening FAQ</a></li>
-<li class="last leaf menu-mlid-1810 past-events mid-1810"><a href="/events/past/los-angeles" title="">Past Events</a></li>
-</ul></li>
-<li class="collapsed menu-mlid-1803 touring-series mid-1803"><a href="/programs/tours" title="Touring Series">Touring Series</a></li>
-<li class="last collapsed menu-mlid-1816 ucla-festival-of-preservation mid-1816"><a href="/programs/ucla-festival-preservation" title="Festival of Preservation">UCLA Festival of Preservation</a></li>
-</ul></div>
-  </div>
-</div>  </div>
-                          </div>
-            <div id="nav-sidebar" class="hide-above-medium nav-content-sm">
-              <div data-effect="toggle" data-toggle="hide slide" class="menu-show nav-content-sm">
-                  <div class="region region-left-nav">
-      <div class="region region-left-nav">
-    <div id="block-menu-block-3" class="block block-menu-block block-odd first last">
-
-        <div class="content">
-    <div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-620 menu-level-1">
-  <ul class="menu"><li class="first expanded active-trail active menu-mlid-1368 upcoming-events mid-1368"><a href="/events" title="Programs and events in Los Angeles" class="active-trail active">Upcoming Events</a><ul class="menu"><li class="first leaf menu-mlid-1770 calendar mid-1770"><a href="/calendar" title="">Calendar</a></li>
-<li class="leaf menu-mlid-15718 current-series mid-15718"><a href="https://www.cinema.ucla.edu/series/all" title="">Current Series</a></li>
-<li class="leaf menu-mlid-15717 admission mid-15717"><a href="/programs/admission" title="">Admission</a></li>
-<li class="leaf menu-mlid-14892 billy-wilder-theater mid-14892"><a href="/billy-wilder-theater" title="Billy Wilder Theater">Billy Wilder Theater</a></li>
-<li class="leaf menu-mlid-15678 virtual-screening-room mid-15678"><a href="/events/2020/virtual-screening-room" title="">Virtual Screening Room</a></li>
-<li class="leaf menu-mlid-15700 virtual-screening-faq mid-15700"><a href="/programs/virtual-screening-room-faq">Virtual Screening FAQ</a></li>
-<li class="last leaf menu-mlid-1810 past-events mid-1810"><a href="/events/past/los-angeles" title="">Past Events</a></li>
-</ul></li>
-<li class="collapsed menu-mlid-1803 touring-series mid-1803"><a href="/programs/tours" title="Touring Series">Touring Series</a></li>
-<li class="last collapsed menu-mlid-1816 ucla-festival-of-preservation mid-1816"><a href="/programs/ucla-festival-preservation" title="Festival of Preservation">UCLA Festival of Preservation</a></li>
-</ul></div>
-  </div>
-</div>  </div>
-  </div>
-              </div> 
-                          </div>
-          </div>  
-                
-          <a id="main-content"></a>
-          
-          <div class="content-box content-panel event-main">        
-            
-             
-           <h1 class="view-header">Upcoming Events</h1>     
-          <div class=" view-body">
-                          <div class="region region-content">
-    <div id="block-system-main" class="block block-system block-odd first last">
-
-        <div class="content">
-    <div class="events-page row">
-  <div class="event-list-all">
-    <div class="view view-event-list view-id-event_list view-display-id-page view-dom-id-db3e5697f8c434eb18a61ce5d58714b3">
-                        
-      
-      
-              <div class="view-content">
-          <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">
-
-<div class="row medium-small-collapse">
-  <div class="event-date">
-    <div class="event-date-color">
-      <span class="month">Feb</span> 
-      <span class="date"><strong>23</strong></span> 
-      <span class="day">Fri</span>
-    </div>
-  </div>
-    <div class="teaser-image"><div class="field-content"><a href="/events/2024/02/23/im-no-longer-here"><img src="https://www.cinema.ucla.edu/sites/default/files/images/pages/imnolonger-crop2.jpg" width="400" height="300" alt="A person dancing on a hill that overlooks a city." title="I&#039;m No Longer Here" /></a></div></div>
-    <div class="event-info">
-    <div class="series-title">
-      <a href=events/2023/making-waves><p>Making Waves</p></a>    </div>
-    <div class="event-name">
-      <a href=events/2024/02/23/im-no-longer-here><p>I’m No Longer Here</p></a>    </div>         
-    <div class="event-time">7:30 PM</div>
-        <div class="event-appearance">
-    IN PERSON:&nbsp;Q&A with director Fernando Frías de la Parra.    </div>
-        <div class="field-content"></div>    <div class="field-content"></div>  </div>
-</div></li>
-          <li class="views-row views-row-2 views-row-even">
-
-<div class="row medium-small-collapse">
-  <div class="event-date">
-    <div class="event-date-color">
-      <span class="month">Feb</span> 
-      <span class="date"><strong>24</strong></span> 
-      <span class="day">Sat</span>
-    </div>
-  </div>
-    <div class="teaser-image"><div class="field-content"><a href="/events/2024/02/24/preserving-historic-color-videotape-mr-television-milton-berle"><img src="https://www.cinema.ucla.edu/sites/default/files/images/pages/miltonberle-crop.jpeg" width="400" height="300" alt="Milton Berle posing with an NCB Color Television camera." title="Milton Berle" /></a></div></div>
-    <div class="event-info">
-    <div class="series-title">
-      <a href=events/archive-television-treasures-series><p>Archive Television Treasures</p></a>    </div>
-    <div class="event-name">
-      <a href=events/2024/02/24/preserving-historic-color-videotape-mr-television-milton-berle><p>Preserving Historic Color Videotape: Mr. Television (a.k.a. Milton Berle) and Friends</p></a>    </div>         
-    <div class="event-time">7:30 PM</div>
-        <div class="event-appearance">
-    IN PERSON:&nbsp;Introduction by engineer David Crosthwait, DC Video; Professor Shawn VanCour, UCLA School of Education & Information Studies.    </div>
-        <div class="field-content"></div>    <div class="field-content"></div>  </div>
-</div></li>
-          <li class="views-row views-row-3 views-row-odd">
-
-<div class="row medium-small-collapse">
-  <div class="event-date">
-    <div class="event-date-color">
-      <span class="month">Feb</span> 
-      <span class="date"><strong>25</strong></span> 
-      <span class="day">Sun</span>
-    </div>
-  </div>
-    <div class="teaser-image"><div class="field-content"><a href="/events/2024/02/25/dogs-courage"><img src="https://www.cinema.ucla.edu/sites/default/files/images/pages/a-dogs-courage-crop.jpeg" width="400" height="300" alt="A pack of animated dog running." title="A Dog&#039;s Courage" /></a></div></div>
-    <div class="event-info">
-    <div class="series-title">
-      <a href=events/family-flicks><p>Family Flicks</p></a>    </div>
-    <div class="event-name">
-      <a href=events/2024/02/25/dogs-courage><p>A Dog’s Courage</p></a>    </div>         
-    <div class="event-time">11:00 AM</div>
-        <div class="field-content"></div>    <div class="field-content"></div>  </div>
-</div></li>
-          <li class="views-row views-row-4 views-row-even">
-
-<div class="row medium-small-collapse">
-  <div class="event-date">
-    <div class="event-date-color">
-      <span class="month">Feb</span> 
-      <span class="date"><strong>25</strong></span> 
-      <span class="day">Sun</span>
-    </div>
-  </div>
-    <div class="teaser-image"><div class="field-content"><a href="/events/2024/02/25/between-remembered-and-forgotten"><img src="https://www.cinema.ucla.edu/sites/default/files/images/pages/innocents-crop.jpg" width="400" height="300" alt="A woman by a window behind which a dimly lit person is standing. " title="The Innocents" /></a></div></div>
-    <div class="event-info">
-    <div class="series-title">
-      <a href=events/2023/archive-treasures-amia-student-chapter-takeover><p dir="ltr">Archive Treasures: UCLA AMIA Student Chapter Takeover!</p></a>    </div>
-    <div class="event-name">
-      <a href=events/2024/02/25/between-remembered-and-forgotten><p>Between Remembered and Forgotten: Haunted Women, Distorted Memory</p></a>    </div>         
-    <div class="event-time">7:00 PM</div>
-        <div class="field-content"></div>    <div class="field-content"></div>  </div>
-</div></li>
-          <li class="views-row views-row-5 views-row-odd">
-
-<div class="row medium-small-collapse">
-  <div class="event-date">
-    <div class="event-date-color">
-      <span class="month">Mar</span> 
-      <span class="date"><strong>1</strong></span> 
-      <span class="day">Fri</span>
-    </div>
-  </div>
-    <div class="teaser-image"><div class="field-content"><a href="/events/2024/03/01/grandma-has-camera-socrates"><img src="https://www.cinema.ucla.edu/sites/default/files/images/pages/Grandmacamera-crop.jpg" width="400" height="300" alt="A woman holding a video camera." title="Grandma Has a Video Camera" /></a></div></div>
-    <div class="event-info">
-    <div class="series-title">
-      <a href=events/2024/brazilian-filmmakers-collective><p>Spotlight on: The Brazilian Filmmakers Collective</p></a>    </div>
-    <div class="event-name">
-      <a href=events/2024/03/01/grandma-has-camera-socrates><p>Grandma Has a Video Camera / Sócrates</p></a>    </div>         
-    <div class="event-time">7:30 PM</div>
-        <div class="event-appearance">
-    IN PERSON:&nbsp;Q&A with filmmakers.    </div>
-        <div class="field-content"></div>    <div class="field-content"></div>  </div>
-</div></li>
-          <li class="views-row views-row-6 views-row-even">
-
-<div class="row medium-small-collapse">
-  <div class="event-date">
-    <div class="event-date-color">
-      <span class="month">Mar</span> 
-      <span class="date"><strong>2</strong></span> 
-      <span class="day">Sat</span>
-    </div>
-  </div>
-    <div class="teaser-image"><div class="field-content"><a href="/events/2024/03/02/pink-cloud-shorts"><img src="https://www.cinema.ucla.edu/sites/default/files/images/pages/pinkcloud-crop.png" width="400" height="300" alt="A woman writing on a window." title="The Pink Cloud" /></a></div></div>
-    <div class="event-info">
-    <div class="series-title">
-      <a href=events/2024/brazilian-filmmakers-collective><p>Spotlight on: The Brazilian Filmmakers Collective</p></a>    </div>
-    <div class="event-name">
-      <a href=events/2024/03/02/pink-cloud-shorts><p>The Pink Cloud + shorts</p></a>    </div>         
-    <div class="event-time">7:30 PM</div>
-        <div class="event-appearance">
-    IN PERSON:&nbsp;Q&A with filmmakers.    </div>
-        <div class="field-content"></div>    <div class="field-content"></div>  </div>
-</div></li>
-          <li class="views-row views-row-7 views-row-odd">
-
-<div class="row medium-small-collapse">
-  <div class="event-date">
-    <div class="event-date-color">
-      <span class="month">Mar</span> 
-      <span class="date"><strong>3</strong></span> 
-      <span class="day">Sun</span>
-    </div>
-  </div>
-    <div class="teaser-image"><div class="field-content"><a href="/events/2024/03/03/kes-wild-parrots-telegraph-hill"><img src="https://www.cinema.ucla.edu/sites/default/files/images/pages/Kes-crop.jpeg" width="400" height="300" alt="A boy in a field holding a bird in his hand." title="Kes" /></a></div></div>
-    <div class="event-info">
-    <div class="series-title">
-      <a href=events/2024/animalia><p>Animalia</p></a>    </div>
-    <div class="event-name">
-      <a href=events/2024/03/03/kes-wild-parrots-telegraph-hill><p>Kes / The Wild Parrots of Telegraph Hill</p></a>    </div>         
-    <div class="event-time">7:00 PM</div>
-        <div class="field-content"></div>    <div class="field-content"></div>  </div>
-</div></li>
-          <li class="views-row views-row-8 views-row-even">
-
-<div class="row medium-small-collapse">
-  <div class="event-date">
-    <div class="event-date-color">
-      <span class="month">Mar</span> 
-      <span class="date"><strong>8</strong></span> 
-      <span class="day">Fri</span>
-    </div>
-  </div>
-    <div class="teaser-image"><div class="field-content"><a href="/events/2024/03/08/la-region-centrale"><img src="https://www.cinema.ucla.edu/sites/default/files/images/pages/laregioncentrale-crop_0.jpeg" width="400" height="300" alt="Upside down of a rocky landscape." title="La Région Centrale" /></a></div></div>
-    <div class="event-info">
-    <div class="series-title">
-      <a href=events/2023/time-its-of-the-essence><p>Time: It’s of the Essence</p></a>    </div>
-    <div class="event-name">
-      <a href=events/2024/03/08/la-region-centrale><p>La région centrale</p></a>    </div>         
-    <div class="event-time">7:30 PM</div>
-        <div class="field-content"></div>    <div class="field-content"></div>  </div>
-</div></li>
-          <li class="views-row views-row-9 views-row-odd">
-
-<div class="row medium-small-collapse">
-  <div class="event-date">
-    <div class="event-date-color">
-      <span class="month">Mar</span> 
-      <span class="date"><strong>9</strong></span> 
-      <span class="day">Sat</span>
-    </div>
-  </div>
-    <div class="teaser-image"><div class="field-content"><a href="/events/2024/03/09/grizzly-man-gates-of-heaven"><img src="https://www.cinema.ucla.edu/sites/default/files/images/pages/Grizzly_Man_crop.jpg" width="400" height="300" alt="A bear in a grassy landscape, with snowy mountains in the distance." title="Grizzly Man" /></a></div></div>
-    <div class="event-info">
-    <div class="series-title">
-      <a href=events/2024/animalia><p>Animalia</p></a>    </div>
-    <div class="event-name">
-      <a href=events/2024/03/09/grizzly-man-gates-of-heaven><p>Grizzly Man / Gates of Heaven</p></a>    </div>         
-    <div class="event-time">7:30 PM</div>
-        <div class="field-content"></div>    <div class="field-content"></div>  </div>
-</div></li>
-          <li class="views-row views-row-10 views-row-even views-row-last">
-
-<div class="row medium-small-collapse">
-  <div class="event-date">
-    <div class="event-date-color">
-      <span class="month">Mar</span> 
-      <span class="date"><strong>15</strong></span> 
-      <span class="day">Fri</span>
-    </div>
-  </div>
-    <div class="teaser-image"><div class="field-content"><a href="/events/2024/03/15/bell-book-candle-cassandra-cat"><img src="https://www.cinema.ucla.edu/sites/default/files/images/pages/cassandracat-crop.jpeg" width="400" height="300" alt="A woman holding a cat that&#039;s wearing sunglasses." title="The Cassandra Cat" /></a></div></div>
-    <div class="event-info">
-    <div class="series-title">
-      <a href=events/2024/animalia><p>Animalia</p></a>    </div>
-    <div class="event-name">
-      <a href=events/2024/03/15/bell-book-candle-cassandra-cat><p>Bell Book and Candle / The Cassandra Cat</p></a>    </div>         
-    <div class="event-time">7:30 PM</div>
-        <div class="field-content"></div>    <div class="field-content"></div>  </div>
-</div></li>
-      </ul></div>        </div>
-      
-              <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
-<li class="pager-item"><a title="Go to page 2" href="/events?page=1">2</a></li>
-<li class="pager-next"><a title="Go to next page" href="/events?page=1">next ›</a></li>
-<li class="pager-last last"><a title="Go to last page" href="/events?page=1">last »</a></li>
-</ul></div>      
-      
-      
-      
-      
-    </div>
-    </div>
-
-  <div class="mini-cal">
-    </div>
-
-</div>
-  </div>
-</div>  </div>
-                                    </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div id="footer-stripe">
-    <div id="footer">
-    <nav class="row medium-collapse" id="footer-menu-links">
-      <div class="panel-3">
-        <h2 class="hide-above-medium mobile-header"><a href="#">About</a></h2>
-        <h2 class="hide-medium desktop-header">About</h2>
-        <div class="mobile-footer-menu hide-above-medium">
-          <ul class="menu"><li class="first leaf about-us mid-15668"><a href="/about-the-archive" title="">About Us</a></li>
-<li class="leaf archive-history mid-1841"><a href="/our-history" title="Archive History">Archive History</a></li>
-<li class="leaf ucla-the-archive mid-1844"><a href="/ucla-archive" title="UCLA &amp; the Archive">UCLA &amp; The Archive</a></li>
-<li class="leaf archive-board mid-15672"><a href="/archive-board" title="">Archive Board</a></li>
-<li class="last leaf opportunities mid-13685"><a href="http://www.chr.ucla.edu" title="Search Archive employment opportunities.">Opportunities</a></li>
-</ul>        </div>
-        <div class="desktop-footer-menu hide-medium">
-        <ul class="menu"><li class="first leaf about-us mid-15668"><a href="/about-the-archive" title="">About Us</a></li>
-<li class="leaf archive-history mid-1841"><a href="/our-history" title="Archive History">Archive History</a></li>
-<li class="leaf ucla-the-archive mid-1844"><a href="/ucla-archive" title="UCLA &amp; the Archive">UCLA &amp; The Archive</a></li>
-<li class="leaf archive-board mid-15672"><a href="/archive-board" title="">Archive Board</a></li>
-<li class="last leaf opportunities mid-13685"><a href="http://www.chr.ucla.edu" title="Search Archive employment opportunities.">Opportunities</a></li>
-</ul>        </div>
-      </div>
-      <div class="panel-3">
-        <h2 class="hide-above-medium  mobile-header"><a href="#">Contact</a></h2>
-        <h2 class="hide-medium desktop-header">Contact</h2>
-        <div class="mobile-footer-menu hide-above-medium">
-          <ul class="menu"><li class="first leaf inquiries-feedback mid-927"><a href="/contact" title="Send us inquiries about our programs.">Inquiries &amp; Feedback</a></li>
-<li class="leaf press-center mid-15669"><a href="/press-center" title="">Press Center</a></li>
-<li class="leaf directory mid-2092"><a href="/directory" title="">Directory</a></li>
-<li class="last leaf donate mid-5136"><a href="/make-donation" title="">Donate</a></li>
-</ul>        </div>
-        <div class="desktop-footer-menu hide-medium">
-        <ul class="menu"><li class="first leaf inquiries-feedback mid-927"><a href="/contact" title="Send us inquiries about our programs.">Inquiries &amp; Feedback</a></li>
-<li class="leaf press-center mid-15669"><a href="/press-center" title="">Press Center</a></li>
-<li class="leaf directory mid-2092"><a href="/directory" title="">Directory</a></li>
-<li class="last leaf donate mid-5136"><a href="/make-donation" title="">Donate</a></li>
-</ul>        </div>
-      </div>
-     <div class="panel-3">
-        <h2 class="hide-above-medium  mobile-header"><a href="#">Resources</a></h2>
-        <h2 class="hide-medium desktop-header">Resources</h2>
-       <div class="mobile-footer-menu hide-above-medium">
-           <ul class="menu"><li class="first leaf archive-blog mid-15674"><a href="/blogs/archive-blog" title="">Archive Blog</a></li>
-<li class="leaf coordinate-research mid-13668"><a href="/archive-research-study-center" title="">Coordinate Research</a></li>
-<li class="leaf search-catalog mid-936"><a href="http://cinema.library.ucla.edu" title="Search the Archive&#039;s collections in our online catalog.">Search Catalog</a></li>
-<li class="last leaf site-map mid-939"><a href="/sitemap" title="Complete listing of all content on this site.">Site Map</a></li>
-</ul>        </div>
-         <div class="desktop-footer-menu hide-medium">
-          <ul class="menu"><li class="first leaf archive-blog mid-15674"><a href="/blogs/archive-blog" title="">Archive Blog</a></li>
-<li class="leaf coordinate-research mid-13668"><a href="/archive-research-study-center" title="">Coordinate Research</a></li>
-<li class="leaf search-catalog mid-936"><a href="http://cinema.library.ucla.edu" title="Search the Archive&#039;s collections in our online catalog.">Search Catalog</a></li>
-<li class="last leaf site-map mid-939"><a href="/sitemap" title="Complete listing of all content on this site.">Site Map</a></li>
-</ul>        </div>
-      </div>
-      <div class="panel-3">
-        <h2 class="hide-above-medium mobile-header"><a href="#">Connect</a></h2>
-        <h2 class="hide-medium desktop-header">Connect</h2>
-        <div class="mobile-footer-menu hide-above-medium">
-         <ul class="menu"><li class="first leaf mailing-list mid-2076"><a href="/signup" title="Join the Archive Mailing List!">Mailing List</a></li>
-<li class="leaf instagram mid-15531"><a href="https://www.instagram.com/uclaftvarchive/" title="">Instagram</a></li>
-<li class="leaf facebook mid-943"><a href="https://www.facebook.com/UCLAFTVArchive/" title="Follow us on Facebook">Facebook</a></li>
-<li class="leaf twitter mid-944"><a href="http://twitter.com/UCLAFTVArchive" title="Follow us on Twitter">Twitter</a></li>
-<li class="last leaf youtube mid-945"><a href="http://www.youtube.com/user/UCLAFTVArchive" title="Watch us on YouTube">YouTube</a></li>
-</ul>        </div>
-         <div class="desktop-footer-menu hide-medium"> 
-          <ul class="menu"><li class="first leaf mailing-list mid-2076"><a href="/signup" title="Join the Archive Mailing List!">Mailing List</a></li>
-<li class="leaf instagram mid-15531"><a href="https://www.instagram.com/uclaftvarchive/" title="">Instagram</a></li>
-<li class="leaf facebook mid-943"><a href="https://www.facebook.com/UCLAFTVArchive/" title="Follow us on Facebook">Facebook</a></li>
-<li class="leaf twitter mid-944"><a href="http://twitter.com/UCLAFTVArchive" title="Follow us on Twitter">Twitter</a></li>
-<li class="last leaf youtube mid-945"><a href="http://www.youtube.com/user/UCLAFTVArchive" title="Watch us on YouTube">YouTube</a></li>
-</ul>        </div>
-      </div>
-  </nav>
-</div>
-  <div class="quick-bar-footer hide-above-medium">
-    <div class="quick-icons">
-  <a href="https://www.facebook.com/UCLAFTVArchive/"><img src="/sites/all/themes/cinema/assets/img/facebook-bw.png" alt="Follow us on Facebook" Title="Follow us on Facebook"/></a>          
-  <a href="http://twitter.com/UCLAFTVArchive"><img src="/sites/all/themes/cinema/assets/img/twitter-bw.png" alt="Follow us on Twitter" Title="Follow us on Twitter"/></a>          
-  <a href="http://www.youtube.com/user/UCLAFTVArchive"><img src="/sites/all/themes/cinema/assets/img/youtube-bw.png" alt="Watch us on Youtube" Title="Watch us on Youtube"/></a> 
-  <a href="/join-archive-mailing-list"><img src="/sites/all/themes/cinema/assets/img/email-bw.png" alt="Join the Archive Mailing List" Title="Join theArchive Mailing List"/></a>          
-  <a href="/blogs/archive-blog"><img src="/sites/all/themes/cinema/assets/img/blog-bw.png" alt="Read our Blog" Title="Read our Blog"/></a>  
-</div>
-<div class="quick-bar-links"> 
-  <div class="quick-links-wrapper">
-    <div><a href="/programs/ticket-info">Tickets</a></div>
-    <div class="hide-medium"><a href="https://search.library.ucla.edu/">Catalog</a></div>
-    <div class="hide-above-medium"><a href="/billy-wilder-theater">Directions</a></div>
-    <div><a href="/visit-us">Visit</a></div>
-  </div>
-</div>
-<div class="quick-search">
-  <div class="quick-search-wrapper">
-      <div class="region region-search">
-      <div class="region region-search">
-    <div id="block-search-form" class="block block-search block-odd first last">
-
-        <div class="content">
-    <form action="/events" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
-      <h2 class="element-invisible">Search form</h2>
-    <div class="form-item form-type-textfield form-item-search-block-form">
-  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
- <input title="Enter the terms you wish to search for." placeholder="Search" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
-</div>
-<div class="form-actions form-wrapper" id="edit-actions"><input class="button form-submit" type="submit" id="edit-submit" name="op" value="Search" /></div><input type="hidden" name="form_build_id" value="form-ZklQl67M2e8nZ9dxGfWF0dc4kckGv4qIbM8ZFebE-Do" />
-<input type="hidden" name="form_id" value="search_block_form" />
-</div>
-</div></form>  </div>
-</div>  </div>
-  </div>
-  </div>
-</div>
-  </div>
-<div id="footer-info" class="row medium-collapse">
-  <div id="copyright-support" class="panel-8">
-    <p>To report problems, broken links, or comment on the website, please <a href="/contact">contact support</a></p>
-    <p>Copyright © 2024 UCLA Film & Television Archive. All Rights Reserved</p>
-  </div>
-  <div id="logo-login" class="panel-4">
-    <div class="row no-collapse">
-      <div id="ucla-logo-container" class="panel-6">
-        <a href="http://ucla.edu" id="ucla-logo">
-        <img src="/sites/all/themes/cinema/assets/img/footer-ucla-logo.png" alt="University of California, Los Angeles" Title="University of California, Los Angeles Home" /></a>
-      </div>
-      <div id="login-button" class="panel-6">
-                  <a href="/user">Login</a>
-              </div> 
-    </div>
-  </div>
-</div>
-   
-  </div>
-</div>
-        </div>
-  
-  <script type="text/javascript" src="/sites/all/themes/cinema/assets/js/script/cinema.js"></script>
-  </body>
-</html>
+Upcoming Events | UCLA Film & Television Archive
+Jump to Navigation
+Skip to main content
+Tickets
+Catalog
+Directions
+Visit
+Search form
+Search
+You are here
+Mobile Navigation
+Upcoming Events
+Calendar
+Current Series
+Admission
+Billy Wilder Theater
+Virtual Screening Room
+Virtual Screening FAQ
+Past Events
+Touring Series
+UCLA Festival of Preservation
+Upcoming Events
+Calendar
+Current Series
+Admission
+Billy Wilder Theater
+Virtual Screening Room
+Virtual Screening FAQ
+Past Events
+Touring Series
+UCLA Festival of Preservation
+Upcoming Events
+Feb
+23
+Fri
+Making Waves
+I’m No Longer Here
+7:30 PM
+IN PERSON: Q&A with director Fernando Frías de la Parra.
+Feb
+24
+Sat
+Archive Television Treasures
+Preserving Historic Color Videotape: Mr. Television (a.k.a. Milton Berle) and Friends
+7:30 PM
+IN PERSON: Introduction by engineer David Crosthwait, DC Video; Professor Shawn VanCour, UCLA School of Education & Information Studies.
+Feb
+25
+Sun
+Family Flicks
+A Dog’s Courage
+11:00 AM
+Feb
+25
+Sun
+Archive Treasures: UCLA AMIA Student Chapter Takeover!
+Between Remembered and Forgotten: Haunted Women, Distorted Memory
+7:00 PM
+Mar
+1
+Fri
+Spotlight on: The Brazilian Filmmakers Collective
+Grandma Has a Video Camera / Sócrates
+7:30 PM
+IN PERSON: Q&A with filmmakers.
+Mar
+2
+Sat
+Spotlight on: The Brazilian Filmmakers Collective
+The Pink Cloud + shorts
+7:30 PM
+IN PERSON: Q&A with filmmakers.
+Mar
+3
+Sun
+Animalia
+Kes / The Wild Parrots of Telegraph Hill
+7:00 PM
+Mar
+8
+Fri
+Time: It’s of the Essence
+La région centrale
+7:30 PM
+Mar
+9
+Sat
+Animalia
+Grizzly Man / Gates of Heaven
+7:30 PM
+Mar
+15
+Fri
+Animalia
+Bell Book and Candle / The Cassandra Cat
+7:30 PM
+Pages
+1
+2
+next ›
+last »
+Tickets
+Catalog
+Directions
+Visit
+Search form
+Search
+To report problems, broken links, or comment on the website, please
+contact support
+Copyright © 2024 UCLA Film & Television Archive. All Rights Reserved
+Login

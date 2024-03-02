@@ -1,477 +1,127 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <title>UCLA Astronomy Division</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800" rel="stylesheet">
-
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-
-    <link rel="stylesheet" href="css/magnific-popup.css">
-
-
-    <link rel="stylesheet" href="fonts/ionicons/css/ionicons.min.css">
-    <link rel="stylesheet" href="fonts/fontawesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="fonts/flaticons/font/flaticon.css">
-    <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
-
-    <!-- Theme Style -->
-    <link rel="stylesheet" href="css/style.css">
-    
-    
-  </head>
-  <body>
-    
-    <header role="banner">
-      <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-        <div class="container">
-          <a class="navbar-brand" href="index.php">UCLA Division of <br /> Astronomy & Astrophysics</a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-
-          <div class="collapse navbar-collapse" id="navbarsExample05">
-            <ul class="navbar-nav ml-auto pl-lg-5 pl-0">
-              <li class="nav-item">
-                <a class="nav-link active" href="index.php">Home</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="research-areas.html">Research</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="academics.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Academics</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="graduate-studies.html">Graduate</a>
-                  <a class="dropdown-item" href="undergraduate-program.html">Undergraduate</a>
-                  <a class="dropdown-item" href="about-our-faculty.html">About our faculty</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="outreach.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Outreach</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="astronomy-live.html">Astronomy Live!</a>
-                  <a class="dropdown-item" href="planetarium.html">UCLA Planetarium</a>
-                  <a class="dropdown-item" href="https://planets.ucla.edu/">iPlex</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="events.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Events</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <!--a class="dropdown-item" href="http://pritha.astro.ucla.edu/~abhimat/astrocoffee/">Astro Coffee</a>-->
-                  <a class="dropdown-item" href="astrophysics-colloquium.html">Astrophysics Colloquium</a>
-                  <a class="dropdown-item" href="tuesday-lunch-talks.html">Tuesday Lunch Talks</a>
-                  <a class="dropdown-item" href="meetings.html">Meetings</a>
-                  <a class="dropdown-item" href="diversity-resources.html">Diversity Events</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="people.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">People</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="faculty.html">Faculty</a>
-                  <a class="dropdown-item" href="researchers.html">Researchers</a>
-                  <a class="dropdown-item" href="lecturers.html">Lecturers</a>
-                  <a class="dropdown-item" href="postdocs.html">Postdocs</a>
-                  <a class="dropdown-item" href="grad-students.html">Graduate Students</a>
-                  <a class="dropdown-item" href="staff.html">Staff</a>
-                  <a class="dropdown-item" href="facilities.html">Facilities</a>
-                  <a class="dropdown-item" href="graduate-program-alumni.html">Graduate Program Alumni</a>
-                  <a class="dropdown-item" href="postdoc-alumni.html">Postdoc Alumni</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="events.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="contact-alice-shapley.html">Contact the Division Chair</a>
-                  <a class="dropdown-item" href="https://www.pa.ucla.edu/graduate-admissions.html">Graduate Student Admissions</a>
-                  <a class="dropdown-item" href="https://www.pa.ucla.edu/undergraduate-program.html">Undergraduate Program</a>
-                  <a class="dropdown-item" href="http://computing.pa.ucla.edu/">Computing and IT Support</a>
-                </div>
-              </li>
-            </ul>
-
-            <!--<ul class="navbar-nav ml-auto">
-              <li class="nav-item cta-btn">
-                <a class="nav-link" href="contact.html">Contact Us</a>
-              </li>
-            </ul>-->
-            
-          </div>
-        </div>
-      </nav>
-    </header>
-    <!-- END header -->    
-    <section class="home-slider-loop-false  inner-page owl-carousel">
-      <div class="slider-item" style="background-image: url('img/whitedwarf-slide-3.jpg');">
-        
-        <div class="container">
-          <div class="row slider-text align-items-center justify-content-center">
-            <div class="col-md-8 text-center col-sm-12 element-animate">
-              <h1>People</h1>
-              <p>Division of Astronomy & Astrophysics Staff</p>
-              
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-    </section>
-    
-    <div class="section container">
-        <div class="row">
-          <div class="col-lg-4">
-          <h3>Personnel directory</h3>
-            <p>
-            <ul>
-            	<li><a href="faculty.html">Faculty</a></li>
-            	<li><a href="researchers.html">Researchers</a></li>
-            	<li><a href="postdocs.html">Postdocs</a></li>
-            	<li><a href="graduate-students.html">Graduate students</a></li>
-            	<li><a href="staff.html">Staff</a></li>
-            	<li><a href="facilities.html">Facilities</a></li>
-            </ul>	
-            </p>
-          </div>
-          
-          <div class="col-lg-8 pl-2 pl-lg-5">
-            <h2>Staff</h2>
-            <table class="table table-borderless" >
-  <thead>
-    <!-- Commented out code below to remove table header -->
-    <!--<tr>
-      <th scope="col"></th>
-    </tr>-->
-  </thead>
-  <tbody>
-    
-    <tr>
-      <td>
-      <h5>Arezu Dehghanfar</h5>
-      <p>Lab Assistant<br />
-      Physics & Astronomy<br />
-      Office: PAB 3-540<br />
-      Email: <script language="JavaScript"> 
-		var name = "arez";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~dxh/">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-      <h5>Chris Johnson</h5>
-      <p>Systems Administrator; Remote Ops Manager<br />
-      IR Lab<br />
-      Office: Knudsen 6-164<br />
-      Phone: 310-825-7396n<br />
-      Email: <script language="JavaScript"> 
-		var name = "johnsonc";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~dxh/">Website</a>--></p>
-      </td>
-    </tr>  
-    <tr>
-      <td>
-      <h5>Evan Kress</h5>
-      <p>Assoc. Development Engineer<br />
-      IR Lab - Astronomy<br />
-      Office: Knudsen 6-164<br />
-      Phone: 310-267-4806<br />
-      Email: <script language="JavaScript"> 
-		var name = "kress";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~kleinb">Website</a>--></p>
-      </td>
-    </tr>  
-    <tr>
-      <td>
-      <h5>Anna Liden</h5>
-      <p>Administrative Assistant<br />
-      IR Lab-Astronomy<br />
-      Office: Knudsen 6-171<br />
-      Phone: 310-825-1666<br />
-      Email: <script language="JavaScript"> 
-		var name = "alinden";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      </td>
-    </tr>    
-    <tr>
-      <td>
-      <h5>Kenneth Magnone</h5>
-      <p>Senior Electronics Technician<br />
-      IR Lab-Astronomy<br />
-      Office: Knudsen 6-164<br />
-      Phone: 310-825-1686<br />
-      Email: <script language="JavaScript"> 
-		var name = "kmagnone";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-      <h5>Cody Ashe-McNalley</h5>
-      <p>Information System Supervisor 2<br />
-      Physics & Astronomy IT Group<br />
-      Office: PAB 1-707F<br />
-      Phone: 310-206-8596<br />
-      <!--Phone: 310-254-4100<br />-->
-      Email: <script language="JavaScript"> 
-    var name = "cody";
-    var domain = "physics.ucla.edu";
-    document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-    document.write(name + '@' + domain);
-    </script></a><br /></p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-      <h5>L. Juleen Moon</h5>
-      <p>Senior Administrative Analyst<br />
-      Physics & Astronomy Financial Services<br />
-      Office: PAB 3-437<br />
-      Phone: 310-206-2457<br />
-      <!--Phone: 310-825-0344<br />-->
-      Email: <script language="JavaScript"> 
-		var name = "moon";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      </p>
-      </td>
-    </tr> 
-    <tr>
-      <td>
-      <h5>Craig Murayama</h5>
-      <p>Programmer Analyst III<br />
-      Physics & Astronomy IT Group<br />
-      Office: PAB 1-707G<br />
-      Phone: 310-206-0380<br />
-      <!--Phone: 310-825-0344<br />-->
-      Email: <script language="JavaScript"> 
-		var name = "murayama";
-		var domain = "physics.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-      <h5>Stephen Padilla</h5>
-      <p>Senior Telescope Technician<br />
-      Ulrich Group-Astronomy<br />
-      Office: Mt. Wilson Observatory<br />
-      Phone: 626-440-1119<br />
-      Email: <script language="JavaScript"> 
-		var name = "padilla";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-      <h5>Laura Quattropani</h5>
-      <p>Administrative Assistant<br />
-      Physics & Astronomy<br />
-      Office: PAB 3-435<br />
-      Phone: 310-825-4434<br />
-      Office: Knudsen 3-145P<br />
-      Email: <script language="JavaScript"> 
-		var name = "lauraq";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr> 
-    <tr>
-      <td>
-      <h5>Nick Robertson</h5>
-      Programmer Analyst<br />
-      Physics & Astronomy<br />
-      Office: PAB 1-707H<br />
-      Phone: (310) 825-8191<br />
-      Email: <script language="JavaScript"> 
-		var name = "nrobertson";
-		var domain = "physics.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr> 
-    <tr>
-      <td>
-      <h5>Ji Man Sohn</h5>
-      <p>Software Programmer<br />
-      IR Lab<br />
-      Office: Knudsen 6-164<br />
-      Email: <script language="JavaScript"> 
-		var name = "jimanni";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      </p>
-      </td>
-    </tr> 
-    <tr>
-      <td>
-      <h5>Aiping Wan</h5>
-      <p>Programmer Analyst III<br />
-      Dept - IT<br />
-      Office: PAB 1-707i<br />
-      Phone: (310) 825-8067<br />
-      Email: <script language="JavaScript"> 
-		var name = "awan";
-		var domain = "physics.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-      <h5>Eric Wang</h5>
-      Principal Development Engineer<br />
-      IR Lab-Astronomy<br />
-      Office: Knudsen 6-164<br />
-      Phone: 310-825-4847<br />
-      Email: <script language="JavaScript"> 
-		var name = "ericwang";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-          
-    
-    </tbody>
-</table>
-          </div>
-        </div>
-      </div>
-
-    </section>
-
-
-    
-    
-
-    
-            
-              
-          </div>
-          <!-- END slider -->
-          </div>
-        </div>
-      
-    </section> <!-- .section -->
-
-
-
-    <footer class="site-footer" role="contentinfo">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-md-3 mb-5">
-            <h3>Announcements</h3>
-            <ul class="list-unstyled footer-link">
-              	<li><a href="https://www.pa.ucla.edu/open-positions.html">Open academic positions</a></li>
-              	<li><a href="https://www.pa.ucla.edu/annual-report.html">Annual reports and newsletters</a></li>
-              	<li><a href="http://newsroom.ucla.edu/">UCLA Newsroom</a></li>
-              	<li><a href="http://www.sexualviolence.ucla.edu/">UCLA policies on sexual harassment & violence</a></li>
-              	<li><a href="https://diversity.ucla.edu/">Diversity @ UCLA</li>
-            </ul>
-
-          </div>
-          <div class="col-md-3 mb-5">
-            <div class="mb-5">
-              <h3>Academic Resources</h3>
-              <ul class="list-unstyled footer-link">
-              	<li><a href="https://registrar.ucla.edu/calendars/annual-academic-calendar">Academic calendar</a></li>
-              	<li><a href="https://sa.ucla.edu/ro/public/soc">Schedule of classes</a></li>
-              	<li><a href="https://my.ucla.edu/">MyUCLA</a></li>
-              	<li><a href="http://bruinlearn.ucla.edu/">BruinLearn</a></li>
-              	<li><a href="https://www.lmstransformation.ucla.edu/">LMS Transformation</a></li>
-              	<li><a href="https://ucla.service-now.com/support?id=home">UCLA IT Services</a></li>
-            </ul>
-            </div>
-          </div>
-          <div class="col-md-3 mb-5">
-            <h3>General Resources</h3>
-            <ul class="list-unstyled footer-link">
-              <li><a href="observing-facilities.html">Observing facilities</a></li>
-              <li><a href="http://irlab.astro.ucla.edu/">Infrared Laboratory</a></li>
-              <li><a href="https://www.pa.ucla.edu/financial-services.html">Financial Services</a></li>
-              <li><a href="http://iff.pa.ucla.edu/">Machine Shop</a></li>
-              <li><a href="https://www.pa.ucla.edu/research-store.html">Research Store</a></li>
-              <li><a href="https://webmail.astro.ucla.edu/">Astronomy Zimbra Email</a></li>
-              <li><a href="http://computing.pa.ucla.edu/">Computing & IT Support</li>
-            </ul>
-        </div>
-        <div class="col-md-3 mb-5">
-            <h3>Visiting UCLA</h3>
-            <ul class="list-unstyled footer-link">
-              <li><a href="#">UCLA interactive map</a></li>
-              <li><a href="#">Directions and parking</a></li>
-              <li><a href="#">Planetarium directions</a></li>
-              <li><a href="#">UCLA campus shuttle</a></li>
-              <li><a href="#">Local accommodations</a></li>
-              <li><a href="#">Giving to the Astro Division</a></li>
-            </ul>
-          </div>
-        <div class="row">
-          <div class="col-12 text-md-center text-left">
-            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-        Copyright &copy;<script>document.write(new Date().getFullYear());</script> UCLA Division of Astronomy & Astrophysics, 475 Portola Plaza, Los Angeles, CA 90095-1547
-310-825-3440 | A <a href="https://colorlib.com" target="_blank" >Colorlib</a> template.
-        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-          </div>
-        </div>
-      </div>
-    </footer>
-    <!-- END footer -->
-    <!-- loader -->
-    <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#cf1d16"/></svg></div>
-
-    <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/jquery.waypoints.min.js"></script>
-
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/magnific-popup-options.js"></script>
-    
-
-    <script src="js/main.js"></script>
-  </body>
-</html>
+UCLA Astronomy Division
+People
+Division of Astronomy & Astrophysics Staff
+Personnel directory
+Faculty
+Researchers
+Postdocs
+Graduate students
+Staff
+Facilities
+Staff
+Arezu Dehghanfar
+Lab Assistant
+Physics & Astronomy
+Office: PAB 3-540
+Email:
+Chris Johnson
+Systems Administrator; Remote Ops Manager
+IR Lab
+Office: Knudsen 6-164
+Phone: 310-825-7396n
+Email:
+Evan Kress
+Assoc. Development Engineer
+IR Lab - Astronomy
+Office: Knudsen 6-164
+Phone: 310-267-4806
+Email:
+Anna Liden
+Administrative Assistant
+IR Lab-Astronomy
+Office: Knudsen 6-171
+Phone: 310-825-1666
+Email:
+Kenneth Magnone
+Senior Electronics Technician
+IR Lab-Astronomy
+Office: Knudsen 6-164
+Phone: 310-825-1686
+Email:
+Cody Ashe-McNalley
+Information System Supervisor 2
+Physics & Astronomy IT Group
+Office: PAB 1-707F
+Phone: 310-206-8596
+Email:
+L. Juleen Moon
+Senior Administrative Analyst
+Physics & Astronomy Financial Services
+Office: PAB 3-437
+Phone: 310-206-2457
+Email:
+Craig Murayama
+Programmer Analyst III
+Physics & Astronomy IT Group
+Office: PAB 1-707G
+Phone: 310-206-0380
+Email:
+Stephen Padilla
+Senior Telescope Technician
+Ulrich Group-Astronomy
+Office: Mt. Wilson Observatory
+Phone: 626-440-1119
+Email:
+Laura Quattropani
+Administrative Assistant
+Physics & Astronomy
+Office: PAB 3-435
+Phone: 310-825-4434
+Office: Knudsen 3-145P
+Email:
+Nick Robertson
+Programmer Analyst
+Physics & Astronomy
+Office: PAB 1-707H
+Phone: (310) 825-8191
+Email:
+Ji Man Sohn
+Software Programmer
+IR Lab
+Office: Knudsen 6-164
+Email:
+Aiping Wan
+Programmer Analyst III
+Dept - IT
+Office: PAB 1-707i
+Phone: (310) 825-8067
+Email:
+Eric Wang
+Principal Development Engineer
+IR Lab-Astronomy
+Office: Knudsen 6-164
+Phone: 310-825-4847
+Email:
+Announcements
+Open academic positions
+Annual reports and newsletters
+UCLA Newsroom
+UCLA policies on sexual harassment & violence
+Diversity @ UCLA
+Academic Resources
+Academic calendar
+Schedule of classes
+MyUCLA
+BruinLearn
+LMS Transformation
+UCLA IT Services
+General Resources
+Observing facilities
+Infrared Laboratory
+Financial Services
+Machine Shop
+Research Store
+Astronomy Zimbra Email
+Computing & IT Support
+Visiting UCLA
+UCLA interactive map
+Directions and parking
+Planetarium directions
+UCLA campus shuttle
+Local accommodations
+Giving to the Astro Division
+Copyright ©
+UCLA Division of Astronomy & Astrophysics, 475 Portola Plaza, Los Angeles, CA 90095-1547
+310-825-3440 | A
+Colorlib
+template.

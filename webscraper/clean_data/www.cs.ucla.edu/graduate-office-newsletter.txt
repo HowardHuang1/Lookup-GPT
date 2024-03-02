@@ -1,836 +1,300 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-	<meta charset="UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<link rel="pingback" href="https://www.cs.ucla.edu/xmlrpc.php" />
-
-	<script type="text/javascript">
-		document.documentElement.className = 'js';
-	</script>
-
-	<title>Graduate Office Notices | CS</title>
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><style id="et-builder-googlefonts-cached-inline">/* Original: https://fonts.googleapis.com/css?family=Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic&#038;subset=latin,latin-ext&#038;display=swap *//* User Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCc.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-v.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-v.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPHA.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwWw.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPHA.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPHA.ttf) format('truetype');}/* User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCQ.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-s.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-s.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPHw.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwWA.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPHw.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPHw.woff) format('woff');}/* User Agent: Mozilla/5.0 (Windows NT 6.3; rv:39.0) Gecko/20100101 Firefox/39.0 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCI.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-q.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-q.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPGQ.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwXg.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPGQ.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPGQ.woff2) format('woff2');}</style>		<style type="text/css">
-					.heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
-											.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{
-							color: #fff;
-						border-width: 0px;
-			border-style: solid;
-			border-color: transparent;
-		}
-					.heateor_sss_horizontal_sharing .heateorSssTCBackground{
-				color:#666;
-			}
-					.heateor_sss_horizontal_sharing span.heateor_sss_svg:hover,.heateor_sss_standard_follow_icons_container span.heateor_sss_svg:hover{
-						border-color: transparent;
-		}
-		.heateor_sss_vertical_sharing span.heateor_sss_svg,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg{
-							color: #fff;
-						border-width: 0px;
-			border-style: solid;
-			border-color: transparent;
-		}
-				.heateor_sss_vertical_sharing .heateorSssTCBackground{
-			color:#666;
-		}
-						.heateor_sss_vertical_sharing span.heateor_sss_svg:hover,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg:hover{
-						border-color: transparent;
-		}
-		@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}div.heateor_sss_mobile_footer{display:none;}@media screen and (max-width:783px){div.heateor_sss_bottom_sharing .heateorSssTCBackground{background-color:white}div.heateor_sss_bottom_sharing{width:100%!important;left:0!important;}div.heateor_sss_bottom_sharing a{width:25% !important;}div.heateor_sss_bottom_sharing .heateor_sss_svg{width: 100% !important;}div.heateor_sss_bottom_sharing div.heateorSssTotalShareCount{font-size:1em!important;line-height:28px!important}div.heateor_sss_bottom_sharing div.heateorSssTotalShareText{font-size:.7em!important;line-height:0px!important}div.heateor_sss_mobile_footer{display:block;height:40px;}.heateor_sss_bottom_sharing{padding:0!important;display:block!important;width:auto!important;bottom:-2px!important;top: auto!important;}.heateor_sss_bottom_sharing .heateor_sss_square_count{line-height:inherit;}.heateor_sss_bottom_sharing .heateorSssSharingArrow{display:none;}.heateor_sss_bottom_sharing .heateorSssTCBackground{margin-right:1.1em!important}}.heateor_sss_sharing_container {
- padding: 15px 0px;
- max-width: 1000px;
- margin: auto;
-}		</style>
-		<meta name='robots' content='max-image-preview:large' />
-<script type="text/javascript">
-			let jqueryParams=[],jQuery=function(r){return jqueryParams=[...jqueryParams,r],jQuery},$=function(r){return jqueryParams=[...jqueryParams,r],$};window.jQuery=jQuery,window.$=jQuery;let customHeadScripts=!1;jQuery.fn=jQuery.prototype={},$.fn=jQuery.prototype={},jQuery.noConflict=function(r){if(window.jQuery)return jQuery=window.jQuery,$=window.jQuery,customHeadScripts=!0,jQuery.noConflict},jQuery.ready=function(r){jqueryParams=[...jqueryParams,r]},$.ready=function(r){jqueryParams=[...jqueryParams,r]},jQuery.load=function(r){jqueryParams=[...jqueryParams,r]},$.load=function(r){jqueryParams=[...jqueryParams,r]},jQuery.fn.ready=function(r){jqueryParams=[...jqueryParams,r]},$.fn.ready=function(r){jqueryParams=[...jqueryParams,r]};</script><link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
-<link rel="alternate" type="application/rss+xml" title="CS &raquo; Feed" href="https://www.cs.ucla.edu/feed/" />
-<link rel="alternate" type="application/rss+xml" title="CS &raquo; Comments Feed" href="https://www.cs.ucla.edu/comments/feed/" />
-<meta content="Divi Child for HSSEAS v.4.23.1" name="generator"/><link rel='stylesheet' id='admin-custom-styles-css' href='https://www.cs.ucla.edu/wp-content/plugins/jsoncontentimporterpro3/block/css/jcipro-admin-styles.css?ver=1.0.0' media='all' />
-<style id='admin-custom-styles-inline-css'>
-.menu li.et-hover>ul,.nav li.et-hover>ul{visibility:visible!important;opacity:1!important}.da11y-submenu-show{visibility:visible!important}
-.keyboard-outline{outline-style:solid!important;outline-width:2px!important;-webkit-transition:none!important;transition:none!important}a[role=tab].keyboard-outline,button:active.keyboard-outline,button:focus.keyboard-outline,input:active.keyboard-outline,input:focus.keyboard-outline{outline-offset:-5px}.et-search-form input:focus.keyboard-outline{padding-left:15px;padding-right:15px}.et_pb_tab{-webkit-animation:none!important;animation:none!important}.et_pb_scroll_top.et-visible:focus{outline-width:2px;outline-style:solid;outline-color:Highlight}@media (-webkit-min-device-pixel-ratio:0){.et_pb_scroll_top.et-visible:focus{outline-color:-webkit-focus-ring-color;outline-style:auto}}
-.et_pb_contact_form_label,.et_pb_search .screen-reader-text,.et_pb_social_media_follow_network_name,.widget_search .screen-reader-text{display:block!important}.da11y-screen-reader-text,.et_pb_contact_form_label,.et_pb_search .screen-reader-text,.et_pb_social_media_follow_network_name,.widget_search .screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden;text-shadow:none;text-transform:none;letter-spacing:normal;line-height:normal;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1em;font-weight:600;-webkit-font-smoothing:subpixel-antialiased}.da11y-screen-reader-text:focus{background:#f1f1f1;color:#00547a;-webkit-box-shadow:0 0 2px 2px rgba(0,0,0,.6);box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;display:block;height:auto;left:5px;padding:15px 23px 14px;text-decoration:none;top:7px;width:auto;z-index:1000000}
-</style>
-<style id='wp-block-library-theme-inline-css'>
-.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
-</style>
-<style id='global-styles-inline-css'>
-body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
-.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
-:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
-:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
-.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
-</style>
-<link rel='stylesheet' id='events-manager-css' href='https://www.cs.ucla.edu/wp-content/plugins/events-manager/includes/css/events-manager.min.css?ver=6.4.6.4' media='all' />
-<style id='events-manager-inline-css'>
-body .em { --font-family : inherit; --font-weight : inherit; --font-size : 1em; --line-height : inherit; }
-</style>
-<link rel='stylesheet' id='divi_module_timeline-styles-css' href='https://www.cs.ucla.edu/wp-content/plugins/divi_module_timeline/styles/style.min.css?ver=1.0.0' media='all' />
-<link rel='stylesheet' id='heateor_sss_frontend_css-css' href='https://www.cs.ucla.edu/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=3.3.56' media='all' />
-<link rel='stylesheet' id='fontawesome-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.4.2' media='all' />
-<link rel='stylesheet' id='sb_dtm_custom_css-css' href='https://www.cs.ucla.edu/wp-content/plugins/divi_module_timeline/styles/style.css?ver=6.4.2' media='all' />
-<link rel='stylesheet' id='divi-style-parent-css' href='https://www.cs.ucla.edu/wp-content/themes/Divi/style-static.min.css?ver=4.23.1' media='all' />
-<link rel='stylesheet' id='divi-style-css' href='https://www.cs.ucla.edu/wp-content/themes/Divi-child/style.css?ver=4.23.1' media='all' />
-<link rel='stylesheet' id='child-style-css' href='https://www.cs.ucla.edu/wp-content/themes/Divi-child/style.css?ver=4.23.1' media='all' />
-<link rel='stylesheet' id='mobile_style-css' href='https://www.cs.ucla.edu/wp-content/themes/Divi-child/per_site_styles/mobile_style.css?ver=4.23.1' media='all' />
-<link rel='stylesheet' id='cs-style-css' href='https://www.cs.ucla.edu/wp-content/themes/Divi-child/per_site_styles/cs_style.css?ver=6.4.2' media='all' />
-<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<script id="jquery-js-after">
-jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){var n=String(r);n.replace("$","jQuery");var a=new Function("return "+n)();$(document).ready(a)}});
-</script>
-<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
-<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2" id="jquery-ui-mouse-js"></script>
-<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2" id="jquery-ui-sortable-js"></script>
-<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2" id="jquery-ui-datepicker-js"></script>
-<script id="jquery-ui-datepicker-js-after">
-jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
-</script>
-<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.2" id="jquery-ui-resizable-js"></script>
-<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2" id="jquery-ui-draggable-js"></script>
-<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2" id="jquery-ui-controlgroup-js"></script>
-<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2" id="jquery-ui-checkboxradio-js"></script>
-<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2" id="jquery-ui-button-js"></script>
-<script src="https://www.cs.ucla.edu/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.2" id="jquery-ui-dialog-js"></script>
-<script id="events-manager-js-extra">
-var EM = {"ajaxurl":"https:\/\/www.cs.ucla.edu\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/www.cs.ucla.edu\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"yy-mm-dd","ui_css":"https:\/\/www.cs.ucla.edu\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui\/build.min.css","show24hours":"0","is_ssl":"1","autocomplete_limit":"10","calendar":{"breakpoints":{"small":560,"medium":908,"large":false}},"phone":"","datepicker":{"format":"M j, Y"},"search":{"breakpoints":{"small":650,"medium":850,"full":false}},"url":"https:\/\/www.cs.ucla.edu\/wp-content\/plugins\/events-manager","google_maps_api":"AIzaSyDZJSRZnuKAaEp3ewVQG7150J3502YcqFk","txt_search":"Search events","txt_searching":"Searching...","txt_loading":"Loading...","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash."};
-</script>
-<script src="https://www.cs.ucla.edu/wp-content/plugins/events-manager/includes/js/events-manager.min.js?ver=6.4.6.4" id="events-manager-js"></script>
-<script src="https://www.cs.ucla.edu/wp-content/themes/Divi-child/js/seas.js?ver=4.23.1" id="seas-js"></script>
-<script src="https://www.cs.ucla.edu/wp-content/themes/Divi-child/js/header_for_mobile.js?ver=4.23.1" id="script-js"></script>
-<script src="https://www.cs.ucla.edu/wp-content/themes/Divi-child/js/jquery.autocomplete.min.js?ver=6.4.2" id="autocomplete-js"></script>
-<script src="https://www.cs.ucla.edu/wp-content/themes/Divi-child/js/autocomplete.js?ver=6.4.2" id="autocomplete-js-js"></script>
-<link rel="https://api.w.org/" href="https://www.cs.ucla.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://www.cs.ucla.edu/wp-json/wp/v2/pages/34529" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.cs.ucla.edu/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 6.4.2" />
-<link rel="canonical" href="https://www.cs.ucla.edu/graduate-office-newsletter/" />
-<link rel='shortlink' href='https://www.cs.ucla.edu/?p=34529' />
-<link rel="alternate" type="application/json+oembed" href="https://www.cs.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cs.ucla.edu%2Fgraduate-office-newsletter%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.cs.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cs.ucla.edu%2Fgraduate-office-newsletter%2F&#038;format=xml" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" /><script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery('img[usemap]').rwdImageMaps();
-	});
-</script>
-<style type="text/css">
-	img[usemap] { max-width: 100%; height: auto; }
-</style>
-<style id="custom-background-css">
-body.custom-background { background-color: #ffffff; }
-</style>
-	<meta name="google-site-verification" content="WNTqZ1-CEdvZ-4cit5QXCHwvwUGPcbu0vUtgKHUKwqw">
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7D2VK3T7FB"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-7D2VK3T7FB', {cookie_flags: 'SameSite=None;Secure'});
-  jQuery(document).ready(function($) {
-	$(".et-pb-icon").attr('aria-hidden', 'true');
-	$(".et_pb_main_blurb_image").attr('aria-hidden', 'true');
-  });
-</script>
-<style id="et-critical-inline-css">body{color:#2b2b2b}h1,h2,h3,h4,h5,h6{color:#2b2b2b}body{line-height:1.6em}#et_search_icon:hover,.mobile_menu_bar:before,.mobile_menu_bar:after,.et_toggle_slide_menu:after,.et-social-icon a:hover,.et_pb_sum,.et_pb_pricing li a,.et_pb_pricing_table_button,.et_overlay:before,.entry-summary p.price ins,.et_pb_member_social_links a:hover,.et_pb_widget li a:hover,.et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active,.et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active,.et_pb_gallery .et_pb_gallery_pagination ul li a.active,.wp-pagenavi span.current,.wp-pagenavi a:hover,.nav-single a,.tagged_as a,.posted_in a{color:#ffd100}.et_pb_contact_submit,.et_password_protected_form .et_submit_button,.et_pb_bg_layout_light .et_pb_newsletter_button,.comment-reply-link,.form-submit .et_pb_button,.et_pb_bg_layout_light .et_pb_promo_button,.et_pb_bg_layout_light .et_pb_more_button,.et_pb_contact p input[type="checkbox"]:checked+label i:before,.et_pb_bg_layout_light.et_pb_module.et_pb_button{color:#ffd100}.footer-widget h4{color:#ffd100}.et-search-form,.nav li ul,.et_mobile_menu,.footer-widget li:before,.et_pb_pricing li:before,blockquote{border-color:#ffd100}.et_pb_counter_amount,.et_pb_featured_table .et_pb_pricing_heading,.et_quote_content,.et_link_content,.et_audio_content,.et_pb_post_slider.et_pb_bg_layout_dark,.et_slide_in_menu_container,.et_pb_contact p input[type="radio"]:checked+label i:before{background-color:#ffd100}.container,.et_pb_row,.et_pb_slider .et_pb_container,.et_pb_fullwidth_section .et_pb_title_container,.et_pb_fullwidth_section .et_pb_title_featured_container,.et_pb_fullwidth_header:not(.et_pb_fullscreen) .et_pb_fullwidth_header_container{max-width:1000px}.et_boxed_layout #page-container,.et_boxed_layout.et_non_fixed_nav.et_transparent_nav #page-container #top-header,.et_boxed_layout.et_non_fixed_nav.et_transparent_nav #page-container #main-header,.et_fixed_nav.et_boxed_layout #page-container #top-header,.et_fixed_nav.et_boxed_layout #page-container #main-header,.et_boxed_layout #page-container .container,.et_boxed_layout #page-container .et_pb_row{max-width:1000px}a{color:#0d4481}#main-header,#main-header .nav li ul,.et-search-form,#main-header .et_mobile_menu{background-color:#003b5c}#main-header .nav li ul{background-color:#205296}.et_secondary_nav_enabled #page-container #top-header{background-color:#ffd100!important}#et-secondary-nav li ul{background-color:#ffd100}.et_header_style_centered .mobile_nav .select_page,.et_header_style_split .mobile_nav .select_page,.et_nav_text_color_light #top-menu>li>a,.et_nav_text_color_dark #top-menu>li>a,#top-menu a,.et_mobile_menu li a,.et_nav_text_color_light .et_mobile_menu li a,.et_nav_text_color_dark .et_mobile_menu li a,#et_search_icon:before,.et_search_form_container input,span.et_close_search_field:after,#et-top-navigation .et-cart-info{color:#ffffff}.et_search_form_container input::-moz-placeholder{color:#ffffff}.et_search_form_container input::-webkit-input-placeholder{color:#ffffff}.et_search_form_container input:-ms-input-placeholder{color:#ffffff}#top-menu li a{font-size:13px}body.et_vertical_nav .container.et_search_form_container .et-search-form input{font-size:13px!important}#top-menu li.current-menu-ancestor>a,#top-menu li.current-menu-item>a,#top-menu li.current_page_item>a{color:#ffffff}#main-footer{background-color:rgba(13,68,129,0)}#main-footer .footer-widget h4,#main-footer .widget_block h1,#main-footer .widget_block h2,#main-footer .widget_block h3,#main-footer .widget_block h4,#main-footer .widget_block h5,#main-footer .widget_block h6{color:#ffd100}.footer-widget li:before{border-color:#ffd100}.bottom-nav,.bottom-nav a,.bottom-nav li.current-menu-item a{color:}#et-footer-nav .bottom-nav li.current-menu-item a{color:}#footer-bottom{background-color:rgba(0,0,0,0)}#footer-info,#footer-info a{color:#ffffff}#footer-info{font-size:13px}#footer-bottom .et-social-icon a{color:#ffffff}@media only screen and (min-width:981px){.et_pb_section{padding:0% 0}.et_pb_fullwidth_section{padding:0}.et_header_style_left #et-top-navigation,.et_header_style_split #et-top-navigation{padding:30px 0 0 0}.et_header_style_left #et-top-navigation nav>ul>li>a,.et_header_style_split #et-top-navigation nav>ul>li>a{padding-bottom:30px}.et_header_style_split .centered-inline-logo-wrap{width:60px;margin:-60px 0}.et_header_style_split .centered-inline-logo-wrap #logo{max-height:60px}.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap #logo{height:60px}.et_header_style_centered #top-menu>li>a{padding-bottom:11px}.et_header_style_slide #et-top-navigation,.et_header_style_fullscreen #et-top-navigation{padding:21px 0 21px 0!important}.et_header_style_centered #main-header .logo_container{height:60px}#logo{max-height:60%}.et_pb_svg_logo #logo{height:60%}.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container,.et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header .logo_container{height:10.8px}.et_header_style_left .et-fixed-header #et-top-navigation,.et_header_style_split .et-fixed-header #et-top-navigation{padding:30px 0 0 0}.et_header_style_left .et-fixed-header #et-top-navigation nav>ul>li>a,.et_header_style_split .et-fixed-header #et-top-navigation nav>ul>li>a{padding-bottom:30px}.et_header_style_centered header#main-header.et-fixed-header .logo_container{height:60px}.et_header_style_split #main-header.et-fixed-header .centered-inline-logo-wrap{width:60px;margin:-60px 0}.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{max-height:60px}.et_pb_svg_logo.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{height:60px}.et_header_style_slide .et-fixed-header #et-top-navigation,.et_header_style_fullscreen .et-fixed-header #et-top-navigation{padding:21px 0 21px 0!important}.et_fixed_nav #page-container .et-fixed-header#top-header{background-color:#205296!important}.et_fixed_nav #page-container .et-fixed-header#top-header #et-secondary-nav li ul{background-color:#205296}.et-fixed-header #top-menu a,.et-fixed-header #et_search_icon:before,.et-fixed-header #et_top_search .et-search-form input,.et-fixed-header .et_search_form_container input,.et-fixed-header .et_close_search_field:after,.et-fixed-header #et-top-navigation .et-cart-info{color:#ffffff!important}.et-fixed-header .et_search_form_container input::-moz-placeholder{color:#ffffff!important}.et-fixed-header .et_search_form_container input::-webkit-input-placeholder{color:#ffffff!important}.et-fixed-header .et_search_form_container input:-ms-input-placeholder{color:#ffffff!important}.et-fixed-header #top-menu li.current-menu-ancestor>a,.et-fixed-header #top-menu li.current-menu-item>a,.et-fixed-header #top-menu li.current_page_item>a{color:#ffffff!important}}@media only screen and (min-width:1250px){.et_pb_row{padding:25px 0}.et_pb_section{padding:0px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:75px}.et_pb_fullwidth_section{padding:0}}h1,h1.et_pb_contact_main_title,.et_pb_title_container h1{font-size:25px}h2,.product .related h2,.et_pb_column_1_2 .et_quote_content blockquote p{font-size:21px}h3{font-size:18px}h4,.et_pb_circle_counter h3,.et_pb_number_counter h3,.et_pb_column_1_3 .et_pb_post h2,.et_pb_column_1_4 .et_pb_post h2,.et_pb_blog_grid h2,.et_pb_column_1_3 .et_quote_content blockquote p,.et_pb_column_3_8 .et_quote_content blockquote p,.et_pb_column_1_4 .et_quote_content blockquote p,.et_pb_blog_grid .et_quote_content blockquote p,.et_pb_column_1_3 .et_link_content h2,.et_pb_column_3_8 .et_link_content h2,.et_pb_column_1_4 .et_link_content h2,.et_pb_blog_grid .et_link_content h2,.et_pb_column_1_3 .et_audio_content h2,.et_pb_column_3_8 .et_audio_content h2,.et_pb_column_1_4 .et_audio_content h2,.et_pb_blog_grid .et_audio_content h2,.et_pb_column_3_8 .et_pb_audio_module_content h2,.et_pb_column_1_3 .et_pb_audio_module_content h2,.et_pb_gallery_grid .et_pb_gallery_item h3,.et_pb_portfolio_grid .et_pb_portfolio_item h2,.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2{font-size:15px}h5{font-size:13px}h6{font-size:11px}.et_pb_slide_description .et_pb_slide_title{font-size:38px}.et_pb_gallery_grid .et_pb_gallery_item h3,.et_pb_portfolio_grid .et_pb_portfolio_item h2,.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2,.et_pb_column_1_4 .et_pb_audio_module_content h2{font-size:13px}@media only screen and (max-width:980px){#main-header,#main-header .nav li ul,.et-search-form,#main-header .et_mobile_menu{background-color:#3484bf}}	h1,h2,h3,h4,h5,h6{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif}body,input,textarea,select{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif}.et_pb_fullwidth_section .et_pb_slide_description{padding-top:32%;padding-bottom:32%}span.mobile_menu_bar:before{color:white!important}.seasnav>li>ul{border-top:2px solid rgb(50,132,191)}#top-menu>li>ul:before{border-bottom:20px solid rgb(50,132,191)}#main-content a{text-decoration:underline}a.icon,a.et_pb_button,.et_pb_video_play,.et_pb_button_module_wrapper a{text-decoration:none!important}</style>
-<link rel="preload" as="style" id="et-core-unified-deferred-34529-cached-inline-styles" href="https://www.cs.ucla.edu/wp-content/uploads/cs/et-cache/34529/et-core-unified-deferred-34529.min.css?ver=1708429713" onload="this.onload=null;this.rel='stylesheet';" /></head>
-<body class="page-template-default page page-id-34529 custom-background et_pb_button_helper_class et_fixed_nav et_show_nav et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns4 et_cover_background et_pb_gutter et_pb_gutters3 et_pb_pagebuilder_layout et_smooth_scroll et_no_sidebar et_divi_theme et-db">
-	<div id="page-container">
-
-	
-	
-			<header id="main-header" data-height-onload="60">
-			<div class="container clearfix et_menu_container">
-											<h1>
-							<div class="logo_container">
-					<span class="logo_helper"></span>
-					<a href="https://www.cs.ucla.edu/">
-						<img src="https://www.cs.ucla.edu/wp-content/uploads/cs/UCLA_Samueli_CS_rev-1.png" alt="CS" id="logo" data-height-percentage="60" />
-					</a>
-				</div>
-								</h1>
-										<div id="et-top-navigation" data-height="60" data-fixed-height="60">
-											<nav id="top-menu-nav" aria-label="main navigation">
-						<ul id="top-menu" class="nav et_disable_top_tier"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34058"><a target="_blank" rel="noopener" href="http://samueli.ucla.edu">SAMUELI</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27733"><a href="#">ABOUT</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27738"><a href="#">Samueli Computer Science 101</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27747"><a href="https://www.cs.ucla.edu/mission-statement/">Mission Statement</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27755"><a href="https://www.cs.ucla.edu/history/">History</a></li>
-	</ul>
-</li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27745"><a target="_blank" rel="noopener" href="https://giving.ucla.edu/campaign/Donate.aspx?SiteNum=8&#038;Fund=60989O&#038;Code=M-XXXX">Support Our Mission (Giving)</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27749"><a href="https://www.cs.ucla.edu/annual-reports/">Annual Reports</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27739"><a href="#">Resources</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27829"><a href="https://www.cs.ucla.edu/dept-forms/">Department Forms</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27765"><a href="https://www.cs.ucla.edu/resources-for-students/">Resources for Students</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27834"><a href="https://www.cs.ucla.edu/dcf-faqs/">Computing Facility</a></li>
-	</ul>
-</li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-38076"><a href="#">Equity, Diversity and Inclusion</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35686"><a target="_blank" rel="noopener" href="https://samueli.ucla.edu/equity-diversity-and-inclusion/">Equity, Diversity and Inclusion</a></li>
-		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38075"><a href="https://samueli.ucla.edu/breakthroughtech-ai-losangeles/">Break Through Tech AI</a></li>
-	</ul>
-</li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38328"><a href="https://samueli.ucla.edu/ucla-samueli-covid-19-information/">UCLA Samueli COVID-19 Information</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27751"><a href="https://www.cs.ucla.edu/contact/">Contact Us</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27734"><a href="#">NEWS &amp; EVENTS</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28136"><a href="https://www.cs.ucla.edu/newsroom/">Newsroom</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27750"><a href="https://www.cs.ucla.edu/announcements/">Department Announcements</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27740"><a href="#">Events Calendar</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27938"><a href="https://www.cs.ucla.edu/events/">Upcoming Events</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27865"><a href="https://www.cs.ucla.edu/roomreservations/">Room Reservations</a></li>
-		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27859"><a target="_blank" rel="noopener" href="https://www.cal.cs.ucla.edu/cgi-bin/webevent.cgi?cmd=calmonth&#038;ncmd=startup&#038;cal=cal2">Seminars</a></li>
-	</ul>
-</li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28362"><a href="https://www.cs.ucla.edu/video-highlights/">Video Highlights</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-27735"><a href="#">ACADEMICS</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27741"><a href="#">Undergraduate</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27867"><a target="_blank" rel="noopener" href="http://www.seasoasa.ucla.edu/admissions/undergraduate-admissions">Undergraduate Admissions</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27772"><a href="https://www.cs.ucla.edu/undergraduate-requirements/">Undergraduate Requirements</a></li>
-		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27781"><a target="_blank" rel="noopener" href="https://www.admission.ucla.edu/prospect/applying.htm">Admission Schedule</a></li>
-	</ul>
-</li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-27742"><a href="#">Graduate</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27752"><a href="https://www.cs.ucla.edu/graduate-admissions/">Graduate Admissions</a></li>
-		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38622"><a href="https://www.cs.ucla.edu/graduate-admission-frequently-asked-questions/">Graduate Admissions FAQ</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27753"><a href="https://www.cs.ucla.edu/graduate-requirements/">Graduate Requirements</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28072"><a href="https://www.cs.ucla.edu/graduate-student-handbook/">Graduate Student Handbook</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-34529 current_page_item menu-item-34535"><a href="https://www.cs.ucla.edu/graduate-office-newsletter/" aria-current="page">Graduate Office Notices</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34887"><a href="https://www.cs.ucla.edu/graduate-student-welfare/">Graduate Student Welfare</a></li>
-	</ul>
-</li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27780"><a target="_blank" rel="noopener" href="https://sa.ucla.edu/ro/public/soc">Course Homepages</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27736"><a href="#">RESEARCH</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27760"><a href="https://www.cs.ucla.edu/research-areas/">Research Areas</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27761"><a href="https://www.cs.ucla.edu/research-centers/">Research Centers</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27762"><a href="https://www.cs.ucla.edu/research-labs/">Research Labs</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28304"><a target="_blank" rel="noopener" href="https://www.seasoasa.ucla.edu/urp/">Undergraduate Research</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28064"><a href="https://www.cs.ucla.edu/graduate-research/">Graduate Research</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28326"><a href="https://www.cs.ucla.edu/technical-reports/">Technical Reports</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27737"><a href="#">PEOPLE</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27743"><a href="#">Faculty</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27939"><a target="_blank" rel="noopener" href="https://samueli.ucla.edu/search-faculty/#cs">Faculty</a></li>
-		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34375"><a href="https://samueli.ucla.edu/ucla-engineering-welcomes-five-new-computer-science-faculty-members/?utm_source=sfmc&#038;utm_medium=email&#038;utm_campaign=EN+-+JULY+2023+-+20230717_110240&#038;utm_term=https%3a%2f%2fsamueli.ucla.edu%2fucla-engineering-welcomes-five-new-computer-science-faculty-members%2f&#038;utm_id=1654915&#038;sfmc_id=376259034">New Faculty</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28565"><a href="https://www.cs.ucla.edu/faculty-recruitment-academic-and-staff-positions/">Academic Recruitment &#8211; Faculty, Research, Lecturer, &amp; Postdoctoral</a></li>
-	</ul>
-</li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27937"><a href="https://www.cs.ucla.edu/lecturers/">Lecturers</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27768"><a href="https://www.cs.ucla.edu/staff/">Staff</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38605"><a href="https://www.cs.ucla.edu/cs-clubs-and-associations/">Clubs and Associations</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27748"><a href="https://www.cs.ucla.edu/alumni/">Alumni</a></li>
-</ul>
-</li>
-</ul>						</nav>
-					
-										<button id="seas-search-icon" tabindex="0" aria-label="Open Search Box"></button>
-
-					
-					
-					<div id="et_mobile_nav_menu">
-				<div class="mobile_nav closed">
-					<span class="select_page">Select Page</span>
-					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
-				</div>
-			</div>				</div> <!-- #et-top-navigation -->
-			</div> <!-- .container -->
-
-<div id="inline-search" class="inline-search toggled">
-<div class="inline-search-wrap" style="display:none">
-					<form role="search" method="get" class="search-form" action="/search">
-	<label>
-		<span class="screen-reader-text">Search for:</span>
-		<input type="search" class="search-field" placeholder="Search this site... " value="" name="q" title="Search for:">
-	</label>
-	<div id="search-buttons">
-	<input type="submit" class="search-submit" value="Search">
-	<button id="search-close" aria-label="Close Search Box">X</button>
-	</div>
-</form>				</div>
-</div>
-		</header> <!-- #main-header -->
-			<div id="et-main-area" role="main">
-	
-<div id="main-content">
-
-
-			
-				<article id="post-34529" class="post-34529 page type-page status-publish hentry">
-
-				
-					<div class="entry-content">
-					<div class="et-l et-l--post">
-			<div class="et_builder_inner_content et_pb_gutters3">
-		<div class="et_pb_section et_pb_section_0 et_pb_fullwidth_section et_section_regular" >
-				
-				
-				
-				
-				
-				
-				<div class="et_pb_module et_pb_fullwidth_image et_pb_fullwidth_image_0">
-				
-				
-				
-				
-				<img fetchpriority="high" decoding="async" width="2000" height="420" src="https://www.cs.ucla.edu/wp-content/uploads/cs/samueli_blue.jpg" alt="" title="" srcset="https://www.cs.ucla.edu/wp-content/uploads/cs/samueli_blue.jpg 2000w, https://www.cs.ucla.edu/wp-content/uploads/cs/samueli_blue-150x32.jpg 150w, https://www.cs.ucla.edu/wp-content/uploads/cs/samueli_blue-300x63.jpg 300w, https://www.cs.ucla.edu/wp-content/uploads/cs/samueli_blue-1024x215.jpg 1024w, https://www.cs.ucla.edu/wp-content/uploads/cs/samueli_blue-1080x227.jpg 1080w" sizes="(max-width: 2000px) 100vw, 2000px" class="wp-image-28198" />
-			
-			</div>
-				
-				
-			</div><div class="et_pb_section et_pb_section_1 et_section_regular" >
-				
-				
-				
-				
-				
-				
-				<div class="et_pb_row et_pb_row_0">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				
-				
-				<div class="et_pb_module et_pb_code et_pb_code_0">
-				
-				
-				
-				
-				<div class="et_pb_code_inner"><script>
-main_active_menu = 'ACADEMICS';
-content_type = 'page';
-</script>
-</div>
-			</div><div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_center et_pb_bg_layout_light">
-				
-				
-				
-				
-				<div class="et_pb_text_inner">Graduate Office Notices</div>
-			</div>
-			</div>
-				
-				
-				
-				
-			</div>
-				
-				
-			</div><div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular" >
-				
-				
-				
-				
-				
-				
-				<div class="et_pb_row et_pb_row_1">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				
-				
-				<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
-				
-				
-				
-				
-				<div class="et_pb_text_inner"><h3><strong>All CS Grad Students</strong></h3></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_0 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">UCLA Calendar Links</h5>
-				<div class="et_pb_toggle_content clearfix"><ul>
-<li><a href="https://registrar.ucla.edu/calendars/annual-academic-calendar">UCLA Annual Academic Calendar</a> &#8211; Summary, year-at-a-glance calendar includes term and instruction start and end dates, and school holidays, through 2028-29</li>
-<li><a href="https://registrar.ucla.edu/term-calendar">UCLA Annual Term Calendar</a> -View detailed dates and deadlines by term</li>
-<li><a href="https://registrar.ucla.edu/calendars/summer-session-calendar">UCLA Summer Session Calendar</a> &#8211; Start and end dates of summer sessions A, B, C, and D.</li>
-<li><a href="https://registrar.ucla.edu/fees-residence/course-and-study-list-fees/graduate-student-study-list-deadlines-and-fees">UCLA Graduate Student Study List Deadlines &amp; Fees</a></li>
-<li><a href="https://grad.ucla.edu/academics/calendar/">Department of Graduate Education Academic Calendar &amp; Deadlines</a></li>
-</ul>
-<div></div></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_1 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">CalFresh Initiative</h5>
-				<div class="et_pb_toggle_content clearfix"><div>
-<p><a href="https://www.getcalfresh.org/?source=ucla">CalFresh</a> is California&#8217;s version of SNAP (the Supplemental Nutrition Assistance Program), a federally-funded food assistance program, colloquially known as &#8220;food stamps.&#8221; Many students qualify for CalFresh and can receive up to $250/month to spend on groceries at places like Ralphs, Trader Joe&#8217;s, Whole Foods, Target, and participating Farmers Markets. Once enrolled, participants will receive an EBT (Electronic Benefits Transfer) card in the mail, which is reloaded monthly and functions as a debit card at participating grocery stores.</p>
-<p>For more information/ to see if you qualify please visit: <a href="https://basicneeds.ucla.edu/services/calfresh">https://basicneeds.ucla.edu/services/calfresh</a></p>
-</div></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_2 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">CS Student Welfare Page</h5>
-				<div class="et_pb_toggle_content clearfix"><div></div>
-<div>
-<p>Introducing our new CS Student Welfare Page the link is below:</p>
-<p><strong><a href="https://www.cs.ucla.edu/graduate-student-welfare/">https://www.cs.ucla.edu/graduate-student-welfare/</a></strong></p>
-<p>&nbsp;</p>
-</div>
-<div>
-<div class=""></div>
-</div></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_3 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">CS Graduate Student Groups</h5>
-				<div class="et_pb_toggle_content clearfix"><div> </div>
-<div>
-<p>The Computer Science Department has two graduate student groups:</p>
-<p><strong><em>Computer Science Graduate Student Association (CS GSA)</em></strong></p>
-<p>The <a href="https://sites.google.com/g.ucla.edu/csgsa/home">CS GSA</a> provides a great opportunity to participate and be part of the community of policy makers for graduate students.  CSGSA has a direct link to the Grad Office.</p>
-<div>If you are interested in being part of CS GSA listserv, please email them at gsa@cs.ucla.edu</div>
-<div> </div>
-<div> </div>
-</div>
-<div>
-<div class="">
-<div> </div>
-<div><span style="font-size: large"><b>gWiCS</b></span></div>
-<div>
-<div>We are Graduate Women in Computer Science (gWiCS) and it was great meeting some of you at the CS orientation last week. Below is information on how to join our organization. <b>Anyone is welcome to join</b> and we can&#8217;t wait to see you again! We will be sending out a board interest form to our mailing list within the first few weeks if you are interested in a leadership position.</div>
-<div> </div>
-<div><b>1) <u>Join our mailing list!</u> </b>Fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSdQ07wl9UCLE93dr3JYdPibXJXbcU8IpbGsMRI-UIpCwKb6Kw/viewform?usp=sf_link" target="_blank" rel="noopener"><b>this form</b></a> to join our mailing list if you did not have the chance through the QR code to stay up to date on all our events (we promise not to spam you with unnecessary emails).</div>
-<div><b>2) <u>Keep an eye out for our first Lo-Fi chat!</u> </b>Our biweekly Lo-Fi chats are a great place to connect with other graduate students in the department <u><b>(and there will be snacks)</b></u>.</div>
-</div>
-</div>
-</div></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_4 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">Employment Opportunities</h5>
-				<div class="et_pb_toggle_content clearfix"><div><strong>PSA:</strong> If you receive an email claiming to be from a professor/postdoc/student/org/company offering you a GSR/lab/research/remote/hybrid position and if the job is requiring to you to pay anything upfront or later, it is highly likely a scam and do not click on any links nor reply to it and just delete it.</div>
-<div> </div>
-<div>Below are links to employment opportunities for CS Grad Students:</div>
-<div> </div>
-<ul>
-<li><a href="https://sites.google.com/g.ucla.edu/csgsa/job-postings"><strong>External employment opportunities bulletin board for CS Grad Students</strong></a></li>
-<li><a href="https://grad.ucla.edu/funding/working-at-ucla/ase-gsr-positions/"><strong>TA Marketplace </strong></a>&#8211; The UCLA Division of Graduate Education has created this web group to aid graduate students in finding TA opportunities. Departments that need to fill TA vacancies will post job announcements along with required qualifications and application instructions to the group.</li>
-<li><strong><a href="https://ucla.joinhandshake.com/login">UCLA Handshake</a> &#8211; </strong>UCLA’s platform that connects Bruins with internships, jobs and career opportunities</li>
-</ul></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_5 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">Commencement</h5>
-				<div class="et_pb_toggle_content clearfix"><div> </div>
-<div>
-<p>For CS Grad Students (both MS and PhD students) who are finishing their graduate program this academic year (i.e. Fall 2023, Winter 2024, Spring 2024 and Summer 2024) and wish to participate in the UCLA Engineering Commencement Ceremony taking place in Spring 2024 (there is only one Commencement Ceremony each Academic Year which takes place in Spring) please fill  out the <a href="https://forms.gle/nDKY6Bk3zQZ1zA7F6">Commencement Survey</a> by the deadline March 30, 2024.</p>
-<p>You are welcome to submit multiple entries if information changes.</p>
-<p>For PhD students, information on UCLA Dept of Graduate Education&#8217;s Doctoral Hooding Ceremony (this is a separate ceremony from the School of Engineering Commencement Ceremony) can be found <a href="https://grad.ucla.edu/academics/doctoral-studies/doctoral-hooding-ceremony-information-for-candidates/">HERE.</a></p>
-</div>
-<div>
-<div class=""> </div>
-</div></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_6 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">Enrollment Info</h5>
-				<div class="et_pb_toggle_content clearfix"><div>
-<p><strong>Enrollment for Winter 2024</strong></p>
-<p>Per the <a href="https://registrar.ucla.edu/registration-classes/enrollment-appointments/enrollment-appointments">Registrar&#8217;s website,</a> &#8220;Based on units completed and priority status, appointments are assigned randomly (by the Registrar&#8217;s Office not the department) within pass time periods. Exact enrollment times are available through MyUCLA.&#8221; Enrollment appointment times cannot be changed/modified.</p>
-<p>Graduate pass for enrollment for Winter 2024 starts on November 9th at 9 a.m. PST and the last appointment ends on November 13 at 11 p.m. PST.  It is the student&#8217;s responsibility to check their MyUCLA to check what time your enrollment appointment is. Based on your enrollment appointment time listed on your MyUCLA, CS grad students can only enroll in CS grad courses for 8 units max. This was done to avoid hoarding CS grad classes.</p>
-<p>Once second pass starts for CS grad students (November 16 at 7 a.m. PST), CS grad students should be able to enroll in up to 18 units max. If you are trying to enroll in a course outside of the CS department, first check the class description to see if the class has any restrictions (i.e. only students in that dept can enroll). If it has restrictions then you most likely will not be able to enroll in that course (please email the instructor directly if its still possible to enroll in that course or not). If there are no restrictions, then you should be able to enroll yourself via MyUCLA (remember from Nov 9-15, CS grad students can only enroll in 8 units max) provided there is still open enrollment spots and or it does not conflict with any classes you are enrolled/waitlisted and or you do not exceed 18 units (waitlist classes count towards your unit count during the enrollment period).</p>
-</div>
-<div>
-<p>For more information on UCLA term deadlines please visit: <strong><a href="https://www.registrar.ucla.edu/Term-Calendar">https://www.registrar.ucla.edu/Term-Calendar</a></strong></p>
-<p><strong>CS Undergraduate Courses &#8211; Winter 2024</strong></p>
-<p>The CS Grad Office has been given access to manually enroll CS grad students in CS 201 and CS undergraduate course provided that there is space available (this includes waitlist positions as well provided that there are open waitlist positions available) for W24</p>
-<p>CS 201 is the only course the CS Grad Office can over-enroll students in.</p>
-<p>CS Grad Students are strongly advised to fulfill their Breadth Requirements first and must take Breadth Requirement courses when space is available or audit the course for Breadth Requirement credit.</p>
-<p>It is the student’s responsibility to ask the instructor at the start of the quarter if they will allow them to audit a course for breadth requirement credit. Auditing a course does not always require the student to be enrolled in the course &#8211; please discuss with the instructor first at the start of the quarter on how to go about auditing a course for Breadth Requirement credit and how you will be graded.</p>
-<p>CS Grad Students are only allowed to enroll in CS undergrad courses provided that enrollment/waitlist space is available.</p>
-<p>If any of the CS undergrad courses you wish to enroll in are closed/full we cannot enroll any students.</p>
-<p>CS 111 and CS 180 are offered every quarter including summer.</p>
-<p>If you would like  to enroll you in a CS undergrad courses (provided that there’s space this includes the waitlist) for Winter 2024 please do the following:</p>
-<p>1. Check your Study List (make sure you uncheck your Class Planner when viewing your Study List) to see if there is any conflict with the CS undergrad course and section/discussion/lab that you would like to be enrolled in and check to see If there’s a conflict with any courses and lab/dis/section you are enrolled in as well as those you are currently waitlisted in. If there is a time conflict even in waitlisted courses, the system will not allow me to enroll you so please check before contacting me.. Also the system will not allow us to enroll you in any more courses if adding the course will exceed 18 units (this also includes courses you are waitlisted in).</p>
-<p>2. If there is a class conflict or a class you’d like to drop in exchange for an undergrad course that has open space, please let me know which class(es) you would like for me to drop on your behalf. Please do not drop the course(s) yourself. This is important to ensure if the class is full by the time I access your email, you did not lose the class you were enrolled/waitlisted in.</p>
-<p>if a class is open/waitlist check to see the discussion/lab/section that has the open spots as that means there is only waitlist/enrollment spot for that discussion/lab/section. If you try to switch to a discussion that is closed or waitlisted from a section you are enrolled in you will automatically go from enrolled to the waitlist.</p>
-<p>3. Please  email jalvarez@cs.ucla.edu with your name, UID (no dashes) and class you would like me to drop on your behalf and let me know the course and section/lab/dis (i.e. CS 161 1a &#8211; do not include the time of the class) you would like me to enroll you in.</p>
-<p>4. If a class is closed I cannot enroll students. Please email the instructor directly and ask if they are able to give you a PTE (note instructors are not obligated to do so).</p>
-<p><strong>Enrollment for W24</strong></p>
-<p>Friendly reminder the minimum number of units you should be enrolled in is 12 with the max being 18 (if you have questions, please email jalvarez@cs.ucla.edu). The last day to enroll/add in any course at UCLA without a financial penalty is the end of Week 2 (Jan. 20). If by Week 2 you are still enrolled on a waitlist for any course and were not able to procure a PTE from the instructor, you will automatically be dropped after Week 2 (April 14) so please plan accordingly.</p>
-<p>The Last day for graduate students to add/drop classes with per-class fee through MyUCLA is March 15, 2024. This is also the last date to do a change grade basis for a class if the class description allows for different types of change grade basis (i.e. switching from letter grade to S/U). If the class description says &#8220;letter grade only&#8221; or S/U or P/NP only then you cannot do a change grade basis.</p>
-<p>For more information on UCLA term deadlines please visit: <strong><a href="https://www.registrar.ucla.edu/Term-Calendar">https://www.registrar.ucla.edu/Term-Calendar</a></strong></p>
-<p>For CS research seminars (i.e. CS 298, CS 375, CS 596, CS 597, CS 598) it is the CS grad student&#8217;s responsibility to obtain the instructor/advisor&#8217;s consent first before signing up/enrolling in any of these courses. Friendly reminder, CS 298, CS 375, CS 596 and CS 597 do not count towards the M.S. Program of Study.</p>
-<p>For CS 239 courses which may be taken for variable units (i.e. where students can determine how many units they may enroll in that course), CS grad students must enroll for 4 units total. If you increase the unit count for one the CS 239 course(s), your instructor will need to provide proof as well as put it in writing that the student did over 4 units worth of coursework in addition to the regular coursework. If you sign up for less than 4 units and you are an MS student then this course will not count towards the MS Program of Study requirements therefore please be sure to enroll in the course for 4 units only. The deadline to change unit count for a course is before week 10 of that quarter. To change the units for a course after week 2.  you must fill out the <strong><a href="https://www.registrar.ucla.edu/Forms/Registration-and-Enrollment/Enrollment-Petition">enrollment petition form</a></strong>(the class ID may be found in the<a href="https://sa.ucla.edu/ro/public/soc"><strong> schedule of classes</strong></a>) and requires the instructor&#8217;s signature and email it back to jalvarez@cs.ucla.edu <strong>before the end of week 10. </strong> Please note, Graduate Division believes ten weeks is more than enough time to make this decision to switch units for a course and retroactive petitions (i.e. enrollment petitions submitted after week 10) are very rarely approved for this reason.</p>
-<p>For more information on UCLA term deadlines please visit:<strong><a href="https://www.registrar.ucla.edu/Term-Calendar">https://www.registrar.ucla.edu/Term-Calendar</a></strong></p>
-<p><strong>Friendly reminder, you must be registered and enrolled full-time each quarter continuously unless you apply for a Leave of Absence/In Absentia/Filing Fee for a particular quarter(s). </strong></p>
-</div></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_7 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">Tentative Course Offerings</h5>
-				<div class="et_pb_toggle_content clearfix"><div>To see a list of the tentative CS course offerings for F23-Sp24 (may be subject to change) please click <a href="https://docs.google.com/spreadsheets/d/1conbWT9h19syGSADaGUiERLCnbEpW4cudCQcXbBC0eY/edit#gid=0">HERE.</a></div></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_8 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">Adding/Dropping Courses</h5>
-				<div class="et_pb_toggle_content clearfix"><div>
-<p><strong>Fall 2023</strong></p>
-</div>
-<p>To view the add/drop deadlines and fees associated with it please visit the <a href="https://registrar.ucla.edu/fees-residence/course-and-study-list-fees/graduate-student-study-list-deadlines-and-fees">UCLA Graduate Student Study List Deadlines &amp; Fees</a></p>
-<p>You have until week 10 (December 8th) to add/drop a course without it reflecting on your transcript via MyUCLA.</p>
-<p>If you are unable to add/drop courses via MyUCLA by week 10,  you must fill out the <strong><a href="https://www.registrar.ucla.edu/Forms/Registration-and-Enrollment/Enrollment-Petition">enrollment petition form</a></strong> (the non digit class ID may be found in the<strong><a href="https://sa.ucla.edu/ro/public/soc"> schedule of classes</a></strong>) and requires the instructor&#8217;s signature. The student is responsible for filling out the form completely and obtaining the instructor&#8217;s signature on the form (the “Authorized Approval Signature” and the &#8220;Authorized Departmental Signature&#8221; are something the CS Grad Office can obtain so please leave that part blank on the form).</p>
-<p>Please email the completed form to jalvarez@cs.ucla.edu <strong>before the end of week 10 (March 15)</strong>.</p>
-<p><strong>Please note, The Department of Graduate Education believes ten weeks is more than enough time to make this decision to add/drop courses and retroactive petitions (i.e. enrollment petitions submitted after week 10) are very rarely approved for this reason so please drop the course (via MyUCLA ) no later than December 8th.</strong></p></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_9 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">Auditing Courses/ Lecture 80 Courses</h5>
-				<div class="et_pb_toggle_content clearfix"><div>
-<p><strong>If you wish to audit a course for your Breadth Requirement please note that auditing a course is done between the Faculty/Instructor of that course and the student wishing to audit <u>at the start of the quarter.</u> Friendly reminder, faculty/instructors are not obligated to allow students to audit a course(s). It is completely up to their discretion if they decide to do so and how you will be audited (i.e. project or test, etc). For more information please visit: </strong><a href="https://www.registrar.ucla.edu/Registration-Classes/Enrollment-Policies/Class-Policies/Auditing-Classes"><strong>https://www.registrar.ucla.edu/Registration-Classes/Enrollment-Policies/Class-Policies/Auditing-Classes</strong></a></p>
-<p>Lecture 80 section/discussion (i.e. online courses)<br />Please note any online course that has a lecture 80 means that course is for the MS Online Engineering Program only (i.e. CS grad students cannot take/enroll in these sections/discussions)</p>
-</div>
-<p>Lecture 91 section/discussion(i.e. online courses)<br />Please note any online course that has a lecture 80 means that course is for the Masters of Engineering Program only (i.e. CS grad students cannot take/enroll in these sections/discussions)</p></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_10 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">Week 10 Deadlines</h5>
-				<div class="et_pb_toggle_content clearfix"><div><strong>Fall 2023 Week 10 Deadlines</strong></div>
-<div>
-<p>Friday, December 8, 2023 is the last day for graduate students to:</p>
-<p>·       Make changes to their study lists via MyUCLA with the applicable fee (drop/add courses).<br />
-·       Submit a Graduate Degree Petition to request a change of grading basis for a mandatory graded course by filling out the <strong><a href="https://www.registrar.ucla.edu/Forms/Registration-and-Enrollment/Enrollment-Petition"><em>enrollment petition form</em></a></strong><em><strong> </strong> (course ID can be found on schedule of classes website) and have the instructor sign off where it says “Instructor’s signature”  and turn in the completed form to<strong> </strong></em><strong><a href="mailto:jalvarez@cs.ucla.edu"><em>jalvarez@cs.ucla.edu</em></a><em><strong> </strong>before week 10.</em></strong></p>
-<ul>
-<li>     Submit a Withdrawal Notice for the current quarter.Graduate students receive an official reminder from the Registrar’s Office during third week to check their study lists; they have ten weeks to take the actions listed above.The Graduate Division complies with published deadlines. We recognize exceptional situations may require a retroactive petition. However, retroactive petitions without compelling cause and documentation create an unnecessary and unfair burden and can negatively affect university records. Any retroactive change requests (add/drop courses, change of grading basis) require departmental and instructor signatures as well as a supporting, explanatory memo from the department chair. Please note this is not a guarantee petitions will be approved.</li>
-</ul>
-</div></div>
-			</div><div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
-				
-				
-				
-				
-				<div class="et_pb_text_inner"><h3><strong>CS PhD Students Only</strong></h3>
-<p>Please visit the <a href="https://www.cs.ucla.edu/graduate-student-handbook/">Graduate Student Handbook</a> page for instructions and forms for completing milestones. If you have any questions, please email Helen Tran at <a href="mailto:helen@cs.ucla.edu">helen@cs.ucla.edu</a>.</div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_11 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">WQE - Fall 2023</h5>
-				<div class="et_pb_toggle_content clearfix"><div>
-<p>The deadline to create an account and register your paper at the WQE website is <strong>Thursday, October 26th at 11:59 am</strong>. The deadline to email your WQE cover page and submit your paper to the WQE website is <strong>Friday, October 27th at 11:59 am.</strong> For the WQE website link and detailed formatting requirements, please review the <a href="https://ucla.box.com/s/ymwtvlglpvoop7n88dbibphyta85fsau">WQE instructions</a>. Please note that the Spring 2024 deadlines are tentative and will be confirmed at the start of Spring quarter.</p>
-</div></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_12 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">Ad-Hoc Minor Proposal Deadlines</h5>
-				<div class="et_pb_toggle_content clearfix"><div>
-<p>For instructions on submitting an ad-hoc minor proposal to satisfy the Proposal of Fields requirement, visit the <a href="https://www.cs.ucla.edu/graduate-student-handbook/">Graduate Student Handbook</a> or the<a href="https://ucla.box.com/s/ukijzvdbk5ujryx21tzt0b99u6zpmsp7"> Proposal of Fields form</a> (page 3).</p>
-</div>
-<table style="border-collapse: collapse;width: 36.21988%;height: 116px" border="1">
-<tbody>
-<tr style="height: 23px">
-<td style="width: 39.112949%;height: 23px;text-align: center"><strong>Term</strong></td>
-<td style="width: 88.174695%;height: 23px;text-align: center"><strong>Deadline</strong></td>
-</tr>
-<tr style="height: 23px">
-<td style="width: 39.112949%;height: 23px;text-align: center">Fall 2023</td>
-<td style="width: 88.174695%;height: 23px;text-align: center">November 3, 2023</td>
-</tr>
-<tr style="height: 23px">
-<td style="width: 39.112949%;height: 23px;text-align: center">Winter 2024</td>
-<td style="width: 88.174695%;height: 23px;text-align: center">February 9, 2024</td>
-</tr>
-<tr style="height: 24px">
-<td style="width: 39.112949%;height: 24px;text-align: center">Spring 2024</td>
-<td style="width: 88.174695%;height: 24px;text-align: center">May 3, 2024</td>
-</tr>
-<tr style="height: 23px">
-<td style="width: 39.112949%;height: 23px;text-align: center">Summer 2024</td>
-<td style="width: 88.174695%;height: 23px;text-align: center">Petitions are not reviewed in the summer.</td>
-</tr>
-</tbody>
-</table></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_13 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">Term Calendar 2023-2024</h5>
-				<div class="et_pb_toggle_content clearfix">Bookmark the <a href="https://registrar.ucla.edu/term-calendar">Registrar’s Term Calendar</a> to see dates for enrollment, holidays, fee payment deadlines, instruction, add/drop deadlines, commencement.</div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_14 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">Graduate Student Refunds, Leave of Absence, In Absentia Registration, Filing Fee</h5>
-				<div class="et_pb_toggle_content clearfix">The refund schedules for the year can be found <a href="https://registrar.ucla.edu/registration-classes/registration-and-payment/refunds-and-reductions/refund-schedules">here</a>. Graduate students can find more information about <a href="https://registrar.ucla.edu/registration-classes/registration-and-payment/refunds-and-reductions/graduate-student-refunds-and-reductions">refunds and reduction</a> if they are on a <a href="https://grad.ucla.edu/academics/graduate-study/leave-of-absence-request/">Leave of Absence</a>, <a href="https://grad.ucla.edu/academics/graduate-study/in-absentia-registration-petition-for-graduate-students/">In Absentia Registration</a>, or <a href="https://grad.ucla.edu/academics/graduate-study/filing-fee-application/">Filing Fee</a>. Click the links to find the application deadlines.</div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_15 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">Test of Oral Proficiency (TOP)</h5>
-				<div class="et_pb_toggle_content clearfix">The TOP is required for graduate students whose first language is not English. Students are responsible for checking the TOP website for the exam schedule and registering for the TOP as soon as possible. A student is exempt from this requirement if they have earned a prior undergraduate degree from an institution at which English was the sole language of instruction. Test spots fill extremely quickly so please register as soon as possible.</p>
-<ul>
-<li>For CS graduates you can only take the TOP once a quarter.</li>
-<li>CS requires you to receive a 7.1 minimum score to be eligible to TA in the Department.</li>
-<li>If you receive a Provisional Pass you will be able to take the TOP again due to a special arrangement CS has with TOP.</li>
-</ul></div>
-			</div><div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
-				
-				
-				
-				
-				<div class="et_pb_text_inner"><h3><b>CS MS Students only</b></h3>
-<p>Please visit the <a href="https://www.cs.ucla.edu/graduate-student-handbook/">Graduate Student Handbook</a> page for instructions and forms for completing milestones. If you have any questions, please email Juliana Alvarez at jalvarez@cs.ucla.edu</div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_16 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">CS 596 (CPT)</h5>
-				<div class="et_pb_toggle_content clearfix"><p><strong>CS 596 &#8211; Summer Only</strong></p>
-<p>For CS MS international students who are interning during the summer, students must sign up for one unit for CS 596 but before they sign up they<strong> must obtain their CS faculty advisor&#8217;s (or any CS faculty) consent first to sign up under them via email</strong> (note faculty are not obligated to give their consent and if they do not or if they do not respond, you must ask another cs faculty member). Once you get their consent via email please forward the email to Madelen Hem at madelen@cs.ucla.edu so she can give you a PTE. <strong>Please note do not ask for a PTE anytime before Spring Quarter as the class system for summer will not be live yet. </strong></p>
-<p>Please keep in mind, if you submit an ATC packet this quarter it takes months for ATC to be processed (you will most likely hear back at the end of the quarter) therefore students should sign up for CS 596 for one unit to fulfill their CPT requirement (ATC processing cannot be expedited). For questions on summer session fees/deadlines/etc please visit the summer session website directly: <a href="https://summer.ucla.edu/fees-payment-and-financial-aid/">https://summer.ucla.edu/fees-payment-and-financial-aid/</a></p>
-<p>For questions on CPT (process, deadline, how many units to enroll for CS 596, etc) please contact the <strong><a href="https://internationalcenter.ucla.edu/contact-us">Dashew Center</a></strong> directly as they oversee CPT.</p></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_17 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">Initial Faculty Advisor</h5>
-				<div class="et_pb_toggle_content clearfix"><strong>*Initial Faculty Advisor* </strong></p>
-<p>The initial faculty advisor you were assigned when you first started the CS MS program is your first point of contact re: your Capstone/Thesis. The initial faculty advisor is there to point you in the right direction re: Capstone/Thesis (i.e. they are not automatically your Capstone/Thesis Advisor). As mentioned at the CS MS Orientation as well as in the <strong><a href="https://www.cs.ucla.edu/graduate-student-handbook/">CS Grad Student Handbook</a></strong>,  is up to the CS MS student to find their own Capstone/Thesis Advisor (must be CS faculty) and procure their consent that they are willing to be your Capstone/Thesis Advisor.</p>
-<p>Once a student has found a Capstone/Thesis Advisor who gave their consent to be their Capstone Advisor, the student must fill out the <a href="https://www.cs.ucla.edu/wp-content/uploads/cs/Academic_Advisor_Consent_Form.pdf">Advisor Consent Form</a> and have the Capstone/Thesis  Advisor sign off. If you have any questions regarding this please contact <strong> <a href="mailto:jalvarez@cs.ucla.edu">jalvarez@cs.ucla.edu</a></strong>.</p>
-<p>If you are doing a Capstone, you may switch and/or find an advisor even after you’ve submitted your ATC paper work (as long as you find one before your Capstone). If you are doing a thesis, you may switch advisors after your ATC forms but you will need to reconstitute your committee (please email jalvarez@cs.ucla.edu for further information).</div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_18 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">Advancing to Candidacy + Finishing Capstone/Thesis This Quarter</h5>
-				<div class="et_pb_toggle_content clearfix"><p><strong>Advancing to Candidacy</strong></p>
-<p>If you are about to finish your Breadth Requirement and MS Program of Study courses this quarter, you will be ready to Advance to Candidacy (see the <strong><a href="https://www.cs.ucla.edu/graduate-student-handbook/">CS Grad Student Handbook</a></strong> for more information). Once you are ready to Advance to Candidacy for Winter 2024, please do the following:</p>
-<p>Please submit your <a href="https://grad.ucla.edu/academics/masters-studies/masters-advancement-to-candidacy-petition/"><strong>MS Advancement to Candidacy (ATC) Form</strong> </a> and within the same pdf (no zip files please) please include:</p>
-<ul>
-<li>a copy of your unofficial transcripts with the nine MS Program of Study courses highlighted or asterisked</li>
-<li><a href="https://ucla.app.box.com/s/xkf11fkto3q9d05g6p3tnwywgswk81rx">Breadth Requirement Form</a> with the three CS 201s filled out as well. If you petitioned/audited courses and it was approved please include within the pdf the email showing it was approved.</li>
-<li><a href="https://www.cs.ucla.edu/wp-content/uploads/cs/MS_Proposed_Program_of_Study-9_23_15.pdf">Program of Study Form</a> should be emailed as a pdf (no zip files please)</li>
-</ul>
-<p>An example of the ATC packet can be found <a href="https://www.cs.ucla.edu/wp-content/uploads/cs/ATC-Packet-Example.pdf"><strong>HERE</strong></a>.</p>
-<p>If you were/are an ESAP student about to Advance to Candidacy, you still need to mark and fill out and provide all the forms mentioned above which should be consolidated into one pdf as seen in the ATC packet example above and emailed by the deadline.</p>
-<p>This ATC packet must emailed as a pdf to jalvarez@cs.ucla.edu by <strong><u>Friday, January 19, 2024.</u></strong></p>
-<p>If you submitted your ATC packet by the deadline please note it takes months for both the Registrar&#8217;s Office and Graduate Academic Services office to process ATC&#8217;s and will most likely hear from Academic Services re: ATC status at the end of the quarter. You will be notified via email.</p>
-<p>Please note that you must be registered and enrolled full-time in order to submit your ATC packet.</p>
-<p>Petitioning a Breadth Requirement Course &#8211; if you are petitioning a course that is not on the approved list make sure you provide one pdf that includes the Breadth Req form filled out, a copy of your unofficial transcript with the grade/class highlighted and a copy of the syllabus to <strong><a href="mailto:jalvarez@cs.ucla.edu">jalvarez@cs.ucla.edu</a></strong>. <strong>Please note petitioning courses can only be done in the first quarter of your CS MS program</strong> (see <strong><a href="https://www.cs.ucla.edu/graduate-student-handbook/">CS Grad Student Handbook</a></strong>).</p>
-<p><em>Thesis Route</em></p>
-<p>If you are planning to do the thesis option, please be sure to submit your <a href="https://grad.ucla.edu/gasaa/library/masnomin.pdf"><strong>Nomination of Committee Form.</strong> </a>As mentioned at the CS MS Orientation as well as in the CS Grad Student Handbook, it is the student&#8217;s responsibility to find and obtain the faculty members consent to being on your thesis committee before turning this form in  (advisor/chair must be CS faculty, one other CS faculty must serve on the committee and the third can be a faculty outside the CS department) along with your ATC packet by <strong><u> January 19, 2024</u> You do not need to obtain the Departmental Chair/Authorized Faculty Departmental Advisor&#8217;s signature on the Nomination of MS Committee Form in order to turn it in along with your ATC packet (as long as you have received the consent of your advisor and committee via email that they agree to serve on your thesis committee that will suffice).  If you are doing the thesis route, please be sure to attend an ETD workshop. For information on filing your thesis electronically and the date(s) for the ETD workshop please visit: </strong><a href="https://grad.ucla.edu/academics/calendar/thesis-dissertation-filing-deadlines-and-workshops/"><strong>https://grad.ucla.edu/academics/calendar/thesis-dissertation-filing-deadlines-and-workshops/</strong></a><strong>,</strong></p>
-<p>If you are doing an MS thesis you must upload your thesis and have your committee sign off on it electronically <strong>by Friday, March 22, 2024.</strong></p>
-<p><strong>Finishing the Capstone/Thesis This Quarter</strong></p>
-<p><em>Capstone Route</em></p>
-<p>If you are planning to submit your Capstone this quarter, the  deadline to submit the <strong><a href="https://www.cs.ucla.edu/wp-content/uploads/cs/Capstone-Results-form-updated-Jan-2021.pdf">Capstone Results Form</a></strong> with all the advisor and committee signatures and abstract via email to jalvarez@cs.ucla.edu is <strong><u>Friday, March 22, 2024.</u></strong></p>
-<p>An example of the Capstone Results Form packet can be found <a href="https://www.cs.ucla.edu/wp-content/uploads/cs/Capstone-Project-Packet-Example.pdf"><strong>HERE</strong></a>.</p>
-<p>You should have already advanced to candidacy or be submitting the advancement to candidacy packet this quarter (If you are submitting the advancement to candidacy packet this quarter you must be registered and enrolled). Reminder you cannot advance to candidacy and be on filing fee the same quarter; you must submit your advancement to candidacy packet one quarter prior to the quarter you plan to be on filing fee.</p>
-<p>As mentioned at the CS MS Orientation as well as in the <strong><a href="https://www.cs.ucla.edu/graduate-student-handbook/">CS Grad Student Handbook</a></strong>, it is the student&#8217;s responsibility to find their capstone/thesis advisor (must be CS faculty and make sure to have them sign off on the Advisor Consent Form and email it to jalvarez@cs.ucla.edu) along with one other CS faculty to be on the committee and another faculty member (this faculty member may be outside the CS Department or also could be CS faculty) to review and sign off on their capstone.</p>
-<p>The capstone advisor and committee members may sign off via email but the student must consolidate this into one pdf where the capstone results form is in front (under signature write &#8211; see email), a copy of your abstract (one paragraph long will suffice) and include the email thread where the faculty signed off. They may also have the faculty cc&#8217; jalvarez@cs.ucla.edu when they sign off on their capstone via email.</p>
-<p>The quarter that you are submitting your Capstone or Thesis you must either be registered and enrolled full-time (for Summer you must be enrolled in a minimum of 4 units) or have submitted an <a href="https://grad.ucla.edu/academics/graduate-study/filing-fee-application/">electronic filing fee application</a> by the deadline provided that you meet the qualifications to submit a Filing Fee application.</p>
-<p>Note, if you are finishing in Summer please get your committee and advisor&#8217;s approval in Spring Quarter that they will be available to review/approve your thesis/capstone over the Summer.</p></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_19 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">Filing Fee/Last Quarter in the MS program</h5>
-				<div class="et_pb_toggle_content clearfix"><p><strong>Filing Fee </strong></p>
-<p><strong>Filing fee means that you are about to finish all your course work for the Breadth Requirement as well as the Program of Study by this quarter and need an additional quarter to finish your capstone/thesis (you’re welcome to finish it all the same quarter they finish all their course requirements but some students need extra time). “Filing Fee” for the next quarter (i.e. you have finished taking all the Program of Study/Breadth Req courses and Advance to Candidacy in Winter 2023 and will go on Filing Fee in Spring 2023 to work on the capstone/thesis that you will submit in Winter 2023) as all you need to do is work on and submit your capstone/thesis (you cannot be enrolled in courses when you are on filing fee).</strong></p>
-<p>If you are unsure that you will be able to finish your capstone/MS program and might need more time, <strong>we strongly recommend students register and enroll and not submit an application for filing fee</strong>. If you need more time after filing fee you will need to apply for readmission back into the MS program which is laborious and takes time for both the student and various UCLA offices involved.</p>
-<p><strong>Filing Fee is not required to do and is completely optional</strong> provided that you meet the requirements (i.e. Advance to Candidacy one quarter prior to the quarter you plan on being on Filing Fee) and submit your application by the deadline. Please note the filing fee application is separate from the Advancement to Candidacy petition form.</p>
-<p>If a student is planning/going to apply for filing fee, it is the student&#8217;s responsibility to make sure they read through the <a href="https://grad.ucla.edu/academics/graduate-study/filing-fee-application/">filing fee website</a> as there are important information on what services and access are suspended and be aware of deadlines. One of the many services suspended while on filing fee is access to the UCLA VPN and library. If you are in UCLA Housing, please notify UCLA Housing that you will apply for filing fee and ask if it will impact your Housing or not. For a list of services suspended/impacted while on filing fee please visit the <a href="https://grad.ucla.edu/academics/graduate-study/filing-fee-application/">filing fee website</a>.</p>
-<p>Once you receive the email from the Department of Graduate Education stating that you have successfully Advanced to Candidacy (please note this is separate from emailing your Advancement to Candidacy packet), please fill out the electronic Filing Fee application. To access the filing fee application and for more information on filing fee please visit: <strong><a href="https://grad.ucla.edu/academics/graduate-study/filing-fee-application/">https://grad.ucla.edu/academics/graduate-study/filing-fee-application/</a></strong></p>
-<p>Please note that filing fee is completely optional. If you do filing fee and require another quarter to finish your capstone/thesis, you must apply for readmission into the CS MS program. Please contact jalvarez@cs.ucla.edu for further information.</p>
-<p>If you are not going to be on Filing Fee during your last quarter in the program you must be registered and enrolled full-time.</p>
-<p>If you are finishing in Summer you must be enrolled in a minimum of 4 units + have your advisor/committee&#8217;s consent that they will review your capstone/thesis during the Summer.</p>
-<p>For deadlines on the last day to submit a filing fee application please visit: <a href="https://grad.ucla.edu/ucla/gasaa/filingfeedeadlines.pdf">https://grad.ucla.edu/ucla/gasaa/filingfeedeadlines.pdf</a></p></div>
-			</div>
-			</div>
-				
-				
-				
-				
-			</div>
-				
-				
-			</div><div class="et_pb_section et_pb_section_3 et_section_regular" >
-				
-				
-				
-				
-				
-				
-				<div class="et_pb_row et_pb_row_2 seastab-row et_pb_gutters2">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
-				
-				
-				
-				
-				
-			</div>
-				
-				
-				
-				
-			</div>
-				
-				
-			</div>		</div>
-	</div>
-						</div>
-
-				
-				</article>
-
-			
-
-</div>
-
-
-	<span class="et_pb_scroll_top et-pb-icon"></span>
-
-
-			<footer id="main-footer">
-				
-
-		
-				<div id="footer-bottom">
-					<div class="container clearfix">
-				<div id="footer-logo">
-					<a href="https://samueli.ucla.edu/engineerchange/" target="_blank"><img src="/wp-content/uploads/samueli/engineer-change-tagline.png" alt="Engineer Change." width="200px"></a><br>
-				</div>
-				<ul class="et-social-icons" aria-label="socialmedia-menu">
-
-	<li class="et-social-icon et-social-facebook">
-		<a href="https://www.facebook.com/UCLAComputerScience/" class="icon" aria-label="Link to Facebook" rel="noopener" target="_blank">
-			<span>Facebook</span>
-		</a>
-	</li>
-	<li class="et-social-icon et-social-twitter">
-		<a href="https://twitter.com/UCLAComSci" class="icon" aria-label="X" rel="noopener" target="_blank">
-			<span>X</span>
-		</a>
-	</li>
-	<li class="et-social-icon et-social-instagram">
-		<a href="https://www.instagram.com/uclacomputerscience/" class="icon" aria-label="Instagram" rel="noopener" target="_blank">
-			<span>Instagram</span>
-		</a>
-	</li>
-	<li class="et-social-icon et-social-linkedin">
-		<a href="https://www.linkedin.com/company/ucla-computer-science" class="icon" aria-label="Linkedin" rel="noopener" target="_blank">
-			<span>Linkedin</span>
-		</a>
-	</li>
-
-</ul>
-					</div>	<!-- .container -->
-					<div class="container clearfix">
-					<div id="footer-copyright">
-						&copy; <span style="font-style: italic;">Copyright 2024 UCLA Samueli School Of Engineering</span>
-					</div>	<!-- .container -->
-					<div id="footer-menu-wrapper">
-						<ul class="footer-menu">
-						<li><a aria-label="Contact Us" href="/contact">Contact Us</a></li>
-						<li><a target="_blank" aria-label="Accessibility" rel="noopener" href="http://www.ucla.edu/accessibility">Accessibility</a></li>
-						<li><a target="_blank" aria-label="Terms of Use" rel="noopener" href="https://samueli.ucla.edu/terms-of-use">Terms of Use</a></li>
-						<li><a target="_blank" aria-label="Safety First" rel="noopener" href="https://samueli.ucla.edu/safety-first">Safety First</a></li>
-						<li><a target="_blank" aria-label="UCLA" rel="noopener" href="http://www.ucla.edu">UCLA</a></li>
-						</ul>
-					</div>	<!-- #footer-menu-wrapper -->
-<!-- cookie consent -->
-<!-- cookie consent -->
-			</div>
-			</div>
-
-
-
-
-			</div>
-
-
-			</div>
-					</div>	<!-- .container -->
-				</div>
-			</footer> <!-- #main-footer -->
-		</div> <!-- #et-main-area -->
-
-
-	</div> <!-- #page-container -->
-
-	<link rel='stylesheet' id='wp-block-library-css' href='https://www.cs.ucla.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2' media='none' onload="media='all'" />
-<script src="https://www.cs.ucla.edu/wp-content/plugins/responsive-image-maps/jquery.rwdImageMaps.min.js?ver=1.5" id="jQuery.rwd_image_maps-js"></script>
-<script id="divi-custom-script-js-extra">
-var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
-var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
-var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
-var et_pb_custom = {"ajaxurl":"https:\/\/www.cs.ucla.edu\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.cs.ucla.edu\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.cs.ucla.edu\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"110a308d7a","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"fe59ea305a","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"34529","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https:\/\/www.cs.ucla.edu\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#ffd100","waypoints_options":[]};
-var et_pb_box_shadow_elements = [];
-</script>
-<script src="https://www.cs.ucla.edu/wp-content/themes/Divi/js/scripts.min.js?ver=4.23.1" id="divi-custom-script-js"></script>
-<script src="https://www.cs.ucla.edu/wp-content/themes/Divi/js/smoothscroll.js?ver=4.23.1" id="smoothscroll-js"></script>
-<script src="https://www.cs.ucla.edu/wp-content/plugins/divi_module_timeline/scripts/frontend-bundle.min.js?ver=1.0.0" id="divi_module_timeline-frontend-bundle-js"></script>
-<script src="https://www.cs.ucla.edu/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.6" id="page-links-to-js"></script>
-<script id="heateor_sss_sharing_js-js-before">
-function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'https://www.cs.ucla.edu/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://www.cs.ucla.edu/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://www.cs.ucla.edu/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 1;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")}
-</script>
-<script src="https://www.cs.ucla.edu/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=3.3.56" id="heateor_sss_sharing_js-js"></script>
-<script src="https://www.cs.ucla.edu/wp-content/themes/Divi/core/admin/js/common.js?ver=4.23.1" id="et-core-common-js"></script>
-<script id="divi-accessibility-da11y-js-extra">
-var _da11y = {"version":"2.0.1","active_outline_color":"#2ea3f2"};
-</script>
-<script src="https://www.cs.ucla.edu/wp-content/plugins/divi-accessibility-master/public/js/da11y.js?ver=2.0.1" id="divi-accessibility-da11y-js"></script>
-<script id="divi-accessibility-da11y-js-after">
-jQuery(document).ready(function(e){var n,a;function s(){const n=e(".et_search_form_container");n.hasClass("et_pb_is_animating")||(e(".et_menu_container").removeClass("et_pb_menu_visible et_pb_no_animation").addClass("et_pb_menu_hidden"),n.removeClass("et_pb_search_form_hidden et_pb_no_animation").addClass("et_pb_search_visible et_pb_is_animating"),setTimeout(function(){e(".et_menu_container").addClass("et_pb_no_animation"),n.addClass("et_pb_no_animation").removeClass("et_pb_is_animating")},1e3),n.find("input").focus(),function(){const n=e(".et_search_form_container"),a=e("body");if(n.hasClass("et_pb_search_visible")){const s=e("#main-header").innerHeight(),i=e("#top-menu").width(),t=e("#top-menu li a").css("font-size");n.css({height:s+"px"}),n.find("input").css("font-size",t),a.hasClass("et_header_style_left")?n.find("form").css("max-width",i+60):n.css("max-width",i+60)}}())}e(".menu-item-has-children").find("a")&&(e(".menu-item-has-children").find("a").addClass("da11y-submenu"),e(".menu-item-has-children").find("a").not(".sub-menu a").attr("aria-expanded","false")),e(".da11y-submenu").on("focus",function(){e(this).not(".sub-menu a").attr("aria-expanded","true"),e(this).siblings(".sub-menu").addClass("da11y-submenu-show"),e(this).trigger("mouseenter")}),e("body").on("keydown",".menu-item-has-children a",function(e){n=e.which,a=e.shiftKey}),e(".menu-item-has-children a").on("focusout",function(){9==n&&(a||e(this).parent().not(".menu-item-has-children").is(":last-child")&&e(this).parents(".menu-item-has-children").children(".da11y-submenu").attr("aria-expanded","false").trigger("mouseleave").siblings(".sub-menu").removeClass("da11y-submenu-show"))}),e(this).keyup(function(){e(".et-search-field").focus(function(){s()}).blur(function(){e(".et_search_form_container").hasClass("et_pb_is_animating")||(e(".et_menu_container").removeClass("et_pb_menu_hidden et_pb_no_animation").addClass("et_pb_menu_visible"),e(".et_search_form_container").removeClass("et_pb_search_visible et_pb_no_animation").addClass("et_pb_search_form_hidden et_pb_is_animating"),setTimeout(function(){e(".et_menu_container").addClass("et_pb_no_animation"),e(".et_search_form_container").addClass("et_pb_no_animation").removeClass("et_pb_is_animating")},1e3))})})});
-
-jQuery(document).ready((function(t){!function(e){const n='<a href="'+e+'" class="skip-link da11y-screen-reader-text">Skip to content</a>';t(e).attr("tabindex",-1),t("body").prepend(n)}("#main-content"),t('a[href^="#"]').click((function(){t("#"+t(this).attr("href").slice(1)).focus()}))}));
-jQuery(document).ready((function(e){let n=new Date,o=new Date;e(this).on("focusin",(function(t){e(".keyboard-outline").removeClass("keyboard-outline"),o<n&&e(t.target).addClass("keyboard-outline")})),e(this).on("mousedown",(function(){o=new Date})),e(this).on("keydown",(function(){n=new Date}))}));
-jQuery(document).ready((function(t){t(".et_pb_toggle").each((function(){t(this).attr("tabindex",0)})),t(".et_pb_toggle").on("keydown",(function(t){32===t.which&&t.preventDefault()})),t(document).on("keyup",(function(e){13!==e.which&&32!==e.which||t(".et_pb_toggle:focus .et_pb_toggle_title").trigger("click")}))}));
-jQuery(document).ready((function(e){e(".et-search-field").each((function(t){e(this).attr("id","et_pb_search_module_input_"+t),e("#et_pb_search_module_input_"+t).before('<label class="da11y-screen-reader-text" for="et_pb_search_module_input_'+t+'">Search for...</label>'),e("#et_pb_search_module_input_"+t).after('<button type="submit" class="da11y-screen-reader-text">Search</button>')})),e(".et_pb_s").each((function(t){e(this).attr("id","et_pb_s_module_input_"+t),e("#et_pb_s_module_input_"+t).before('<label class="da11y-screen-reader-text" for="et_pb_s_module_input_'+t+'">Search for...</label>')})),e(".et_pb_contact_form").each((function(){e(this).find(".et_pb_contact_captcha_question").parent().wrap("<label></label>")})),e(".et-social-facebook a.icon span").text("Facebook"),e(".et-social-twitter a.icon span").text("Twitter"),e(".et-social-google-plus a.icon span").text("Google Plus"),e(".et-social-pinterest a.icon span").text("Pinterest"),e(".et-social-linkedin a.icon span").text("LinkedIn"),e(".et-social-tumblr a.icon span").text("Tumblr"),e(".et-social-instagram a.icon span").text("Instagram"),e(".et-social-skype a.icon span").text("Skype"),e(".et-social-flikr a.icon span").text("Flickr"),e(".et-social-myspace a.icon span").text("Myspace"),e(".et-social-dribbble a.icon span").text("Dribble"),e(".et-social-youtube a.icon span").text("YouTube"),e(".et-social-vimeo a.icon span").text("Vimeo"),e(".et-social-rss a.icon span").text("RSS")}));
-jQuery(document).ready((function(t){t(".et_pb_tabs_controls").each((function(){t(this).attr("role","tabList")})),t(".et_pb_tabs_controls li").each((function(){t(this).attr("role","presentation")})),t(".et_pb_tabs_controls a").each((function(){t(this).attr("role","tab")})),t(".et_pb_tab").each((function(){t(this).attr("role","tabpanel")})),t(".et_pb_tabs_controls li:not(.et_pb_tab_active) a").each((function(){t(this).attr({"aria-selected":"false","aria-expanded":"false",tabindex:-1})})),t(".et_pb_tabs_controls li.et_pb_tab_active a").each((function(){t(this).attr({"aria-selected":"true","aria-expanded":"true",tabindex:0})})),t(".et_pb_tabs_controls a").each((function(a){t(this).attr({id:"et_pb_tab_control_"+a,"aria-controls":"et_pb_tab_panel_"+a})})),t(".et_pb_tab").each((function(a){t(this).attr({id:"et_pb_tab_panel_"+a,"aria-labelledby":"et_pb_tab_control_"+a})})),t(".et_pb_tab.et_pb_active_content").each((function(){t(this).attr("aria-hidden","false")})),t(".et_pb_tab:not(.et_pb_active_content)").each((function(){t(this).attr("aria-hidden","true")})),t(".et_pb_tabs").each((function(a){t(this).attr("data-da11y-id","et_pb_tab_module_"+a)})),t(".et_pb_tabs_controls a").on("click",(function(){const a=t(this).attr("id"),e=t(this).closest(".et_pb_tabs").attr("data-da11y-id");t('[data-da11y-id="'+e+'"] .et_pb_tabs_controls a').attr({"aria-selected":"false","aria-expanded":"false",tabindex:-1}),t(this).attr({"aria-selected":"true","aria-expanded":"true",tabindex:0}),t("#"+e+" .et_pb_tab").attr("aria-hidden","true"),t('[aria-labelledby="'+a+'"]').attr("aria-hidden","false")})),t(".et_pb_tabs_controls a").keyup((function(a){const e=t(this).closest(".et_pb_tabs").attr("data-da11y-id"),i=t('[data-da11y-id="'+e+'"]');if(39===a.which){const t=i.find("li.et_pb_tab_active").next();t.length>0?t.find("a").trigger("click"):i.find("li:first a").trigger("click")}else if(37===a.which){const t=i.find("li.et_pb_tab_active").prev();t.length>0?t.find("a").trigger("click"):i.find("li:last a").trigger("click")}t(".et_pb_tabs_controls a").removeClass("keyboard-outline"),i.find("li.et_pb_tab_active a").addClass("keyboard-outline")})),t(".et_pb_search").each((function(a){t(this).attr("data-da11y-id","et_pb_search_module_"+a)})),t('[data-required_mark="required"]').each((function(){t(this).attr("aria-required","true")})),t(".et_pb_contactform_validate_field").attr("type","hidden"),t(".et-pb-contact-message").attr("role","alert"),t("#main-content").attr("role","main"),t(".et_pb_fullwidth_header").each((function(a){t(this).attr("aria-label","Wide Header"+a)})),t("#comment-wrap").attr("aria-label","Comments")}));
-jQuery(document).ready((function(e){e("#et_top_search, .et_close_search_field, .et_pb_main_blurb_image").attr("aria-hidden","true")}));
-jQuery(document).ready((function(e){e(".mobile_menu_bar_toggle").attr({role:"button","aria-expanded":"false","aria-label":"Menu",tabindex:0}),e(".mobile_menu_bar_toggle").on("click",(function(){e(this).hasClass("a11y-mobile-menu-open")?e(this).removeClass("a11y-mobile-menu-open").attr("aria-expanded","false"):e(this).addClass("a11y-mobile-menu-open").attr("aria-expanded","true")})),e(".mobile_menu_bar_toggle").keyup((function(n){13===n.keyCode&&e(".mobile_menu_bar_toggle").click()})),e(document).keyup((function(n){27===n.keyCode&&e("#et_mobile_nav_menu .mobile_nav").hasClass("opened")&&e(".mobile_menu_bar_toggle").click()})),e(this).on("focusin",(function(){e("#et_mobile_nav_menu .mobile_nav").hasClass("opened")&&(e("#et_mobile_nav_menu .et_mobile_menu :focus").length||e("#et_mobile_nav_menu .mobile_menu_bar_toggle").click())}))}));
-</script>
-<script src="https://www.cs.ucla.edu/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.23.1" id="fitvids-js"></script>
-</body>
-</html>
+Graduate Office Notices | CS
+Select Page
+Search for:
+X
+Graduate Office Notices
+All CS Grad Students
+UCLA Calendar Links
+UCLA Annual Academic Calendar
+– Summary, year-at-a-glance calendar includes term and instruction start and end dates, and school holidays, through 2028-29
+UCLA Annual Term Calendar
+-View detailed dates and deadlines by term
+UCLA Summer Session Calendar
+– Start and end dates of summer sessions A, B, C, and D.
+UCLA Graduate Student Study List Deadlines & Fees
+Department of Graduate Education Academic Calendar & Deadlines
+CalFresh Initiative
+CalFresh
+is California’s version of SNAP (the Supplemental Nutrition Assistance Program), a federally-funded food assistance program, colloquially known as “food stamps.” Many students qualify for CalFresh and can receive up to $250/month to spend on groceries at places like Ralphs, Trader Joe’s, Whole Foods, Target, and participating Farmers Markets. Once enrolled, participants will receive an EBT (Electronic Benefits Transfer) card in the mail, which is reloaded monthly and functions as a debit card at participating grocery stores.
+For more information/ to see if you qualify please visit:
+https://basicneeds.ucla.edu/services/calfresh
+CS Student Welfare Page
+Introducing our new CS Student Welfare Page the link is below:
+https://www.cs.ucla.edu/graduate-student-welfare/
+CS Graduate Student Groups
+The Computer Science Department has two graduate student groups:
+Computer Science Graduate Student Association (CS GSA)
+The
+CS GSA
+provides a great opportunity to participate and be part of the community of policy makers for graduate students.  CSGSA has a direct link to the Grad Office.
+If you are interested in being part of CS GSA listserv, please email them at gsa@cs.ucla.edu
+gWiCS
+We are Graduate Women in Computer Science (gWiCS) and it was great meeting some of you at the CS orientation last week. Below is information on how to join our organization.
+Anyone is welcome to join
+and we can’t wait to see you again! We will be sending out a board interest form to our mailing list within the first few weeks if you are interested in a leadership position.
+1)
+Join our mailing list!
+Fill out
+this form
+to join our mailing list if you did not have the chance through the QR code to stay up to date on all our events (we promise not to spam you with unnecessary emails).
+2)
+Keep an eye out for our first Lo-Fi chat!
+Our biweekly Lo-Fi chats are a great place to connect with other graduate students in the department
+(and there will be snacks)
+.
+Employment Opportunities
+PSA:
+If you receive an email claiming to be from a professor/postdoc/student/org/company offering you a GSR/lab/research/remote/hybrid position and if the job is requiring to you to pay anything upfront or later, it is highly likely a scam and do not click on any links nor reply to it and just delete it.
+Below are links to employment opportunities for CS Grad Students:
+External employment opportunities bulletin board for CS Grad Students
+TA Marketplace
+– The UCLA Division of Graduate Education has created this web group to aid graduate students in finding TA opportunities. Departments that need to fill TA vacancies will post job announcements along with required qualifications and application instructions to the group.
+UCLA Handshake
+–
+UCLA’s platform that connects Bruins with internships, jobs and career opportunities
+Commencement
+For CS Grad Students (both MS and PhD students) who are finishing their graduate program this academic year (i.e. Fall 2023, Winter 2024, Spring 2024 and Summer 2024) and wish to participate in the UCLA Engineering Commencement Ceremony taking place in Spring 2024 (there is only one Commencement Ceremony each Academic Year which takes place in Spring) please fill  out the
+Commencement Survey
+by the deadline March 30, 2024.
+You are welcome to submit multiple entries if information changes.
+For PhD students, information on UCLA Dept of Graduate Education’s Doctoral Hooding Ceremony (this is a separate ceremony from the School of Engineering Commencement Ceremony) can be found
+HERE.
+Enrollment Info
+Enrollment for Winter 2024
+Per the
+Registrar’s website,
+“Based on units completed and priority status, appointments are assigned randomly (by the Registrar’s Office not the department) within pass time periods. Exact enrollment times are available through MyUCLA.” Enrollment appointment times cannot be changed/modified.
+Graduate pass for enrollment for Winter 2024 starts on November 9th at 9 a.m. PST and the last appointment ends on November 13 at 11 p.m. PST.  It is the student’s responsibility to check their MyUCLA to check what time your enrollment appointment is. Based on your enrollment appointment time listed on your MyUCLA, CS grad students can only enroll in CS grad courses for 8 units max. This was done to avoid hoarding CS grad classes.
+Once second pass starts for CS grad students (November 16 at 7 a.m. PST), CS grad students should be able to enroll in up to 18 units max. If you are trying to enroll in a course outside of the CS department, first check the class description to see if the class has any restrictions (i.e. only students in that dept can enroll). If it has restrictions then you most likely will not be able to enroll in that course (please email the instructor directly if its still possible to enroll in that course or not). If there are no restrictions, then you should be able to enroll yourself via MyUCLA (remember from Nov 9-15, CS grad students can only enroll in 8 units max) provided there is still open enrollment spots and or it does not conflict with any classes you are enrolled/waitlisted and or you do not exceed 18 units (waitlist classes count towards your unit count during the enrollment period).
+For more information on UCLA term deadlines please visit:
+https://www.registrar.ucla.edu/Term-Calendar
+CS Undergraduate Courses – Winter 2024
+The CS Grad Office has been given access to manually enroll CS grad students in CS 201 and CS undergraduate course provided that there is space available (this includes waitlist positions as well provided that there are open waitlist positions available) for W24
+CS 201 is the only course the CS Grad Office can over-enroll students in.
+CS Grad Students are strongly advised to fulfill their Breadth Requirements first and must take Breadth Requirement courses when space is available or audit the course for Breadth Requirement credit.
+It is the student’s responsibility to ask the instructor at the start of the quarter if they will allow them to audit a course for breadth requirement credit. Auditing a course does not always require the student to be enrolled in the course – please discuss with the instructor first at the start of the quarter on how to go about auditing a course for Breadth Requirement credit and how you will be graded.
+CS Grad Students are only allowed to enroll in CS undergrad courses provided that enrollment/waitlist space is available.
+If any of the CS undergrad courses you wish to enroll in are closed/full we cannot enroll any students.
+CS 111 and CS 180 are offered every quarter including summer.
+If you would like  to enroll you in a CS undergrad courses (provided that there’s space this includes the waitlist) for Winter 2024 please do the following:
+1. Check your Study List (make sure you uncheck your Class Planner when viewing your Study List) to see if there is any conflict with the CS undergrad course and section/discussion/lab that you would like to be enrolled in and check to see If there’s a conflict with any courses and lab/dis/section you are enrolled in as well as those you are currently waitlisted in. If there is a time conflict even in waitlisted courses, the system will not allow me to enroll you so please check before contacting me.. Also the system will not allow us to enroll you in any more courses if adding the course will exceed 18 units (this also includes courses you are waitlisted in).
+2. If there is a class conflict or a class you’d like to drop in exchange for an undergrad course that has open space, please let me know which class(es) you would like for me to drop on your behalf. Please do not drop the course(s) yourself. This is important to ensure if the class is full by the time I access your email, you did not lose the class you were enrolled/waitlisted in.
+if a class is open/waitlist check to see the discussion/lab/section that has the open spots as that means there is only waitlist/enrollment spot for that discussion/lab/section. If you try to switch to a discussion that is closed or waitlisted from a section you are enrolled in you will automatically go from enrolled to the waitlist.
+3. Please  email jalvarez@cs.ucla.edu with your name, UID (no dashes) and class you would like me to drop on your behalf and let me know the course and section/lab/dis (i.e. CS 161 1a – do not include the time of the class) you would like me to enroll you in.
+4. If a class is closed I cannot enroll students. Please email the instructor directly and ask if they are able to give you a PTE (note instructors are not obligated to do so).
+Enrollment for W24
+Friendly reminder the minimum number of units you should be enrolled in is 12 with the max being 18 (if you have questions, please email jalvarez@cs.ucla.edu). The last day to enroll/add in any course at UCLA without a financial penalty is the end of Week 2 (Jan. 20). If by Week 2 you are still enrolled on a waitlist for any course and were not able to procure a PTE from the instructor, you will automatically be dropped after Week 2 (April 14) so please plan accordingly.
+The Last day for graduate students to add/drop classes with per-class fee through MyUCLA is March 15, 2024. This is also the last date to do a change grade basis for a class if the class description allows for different types of change grade basis (i.e. switching from letter grade to S/U). If the class description says “letter grade only” or S/U or P/NP only then you cannot do a change grade basis.
+For more information on UCLA term deadlines please visit:
+https://www.registrar.ucla.edu/Term-Calendar
+For CS research seminars (i.e. CS 298, CS 375, CS 596, CS 597, CS 598) it is the CS grad student’s responsibility to obtain the instructor/advisor’s consent first before signing up/enrolling in any of these courses. Friendly reminder, CS 298, CS 375, CS 596 and CS 597 do not count towards the M.S. Program of Study.
+For CS 239 courses which may be taken for variable units (i.e. where students can determine how many units they may enroll in that course), CS grad students must enroll for 4 units total. If you increase the unit count for one the CS 239 course(s), your instructor will need to provide proof as well as put it in writing that the student did over 4 units worth of coursework in addition to the regular coursework. If you sign up for less than 4 units and you are an MS student then this course will not count towards the MS Program of Study requirements therefore please be sure to enroll in the course for 4 units only. The deadline to change unit count for a course is before week 10 of that quarter. To change the units for a course after week 2.  you must fill out the
+enrollment petition form
+(the class ID may be found in the
+schedule of classes
+) and requires the instructor’s signature and email it back to jalvarez@cs.ucla.edu
+before the end of week 10.
+Please note, Graduate Division believes ten weeks is more than enough time to make this decision to switch units for a course and retroactive petitions (i.e. enrollment petitions submitted after week 10) are very rarely approved for this reason.
+For more information on UCLA term deadlines please visit:
+https://www.registrar.ucla.edu/Term-Calendar
+Friendly reminder, you must be registered and enrolled full-time each quarter continuously unless you apply for a Leave of Absence/In Absentia/Filing Fee for a particular quarter(s).
+Tentative Course Offerings
+To see a list of the tentative CS course offerings for F23-Sp24 (may be subject to change) please click
+HERE.
+Adding/Dropping Courses
+Fall 2023
+To view the add/drop deadlines and fees associated with it please visit the
+UCLA Graduate Student Study List Deadlines & Fees
+You have until week 10 (December 8th) to add/drop a course without it reflecting on your transcript via MyUCLA.
+If you are unable to add/drop courses via MyUCLA by week 10,  you must fill out the
+enrollment petition form
+(the non digit class ID may be found in the
+schedule of classes
+) and requires the instructor’s signature. The student is responsible for filling out the form completely and obtaining the instructor’s signature on the form (the “Authorized Approval Signature” and the “Authorized Departmental Signature” are something the CS Grad Office can obtain so please leave that part blank on the form).
+Please email the completed form to jalvarez@cs.ucla.edu
+before the end of week 10 (March 15)
+.
+Please note, The Department of Graduate Education believes ten weeks is more than enough time to make this decision to add/drop courses and retroactive petitions (i.e. enrollment petitions submitted after week 10) are very rarely approved for this reason so please drop the course (via MyUCLA ) no later than December 8th.
+Auditing Courses/ Lecture 80 Courses
+If you wish to audit a course for your Breadth Requirement please note that auditing a course is done between the Faculty/Instructor of that course and the student wishing to audit
+at the start of the quarter.
+Friendly reminder, faculty/instructors are not obligated to allow students to audit a course(s). It is completely up to their discretion if they decide to do so and how you will be audited (i.e. project or test, etc). For more information please visit:
+https://www.registrar.ucla.edu/Registration-Classes/Enrollment-Policies/Class-Policies/Auditing-Classes
+Lecture 80 section/discussion (i.e. online courses)
+Please note any online course that has a lecture 80 means that course is for the MS Online Engineering Program only (i.e. CS grad students cannot take/enroll in these sections/discussions)
+Lecture 91 section/discussion(i.e. online courses)
+Please note any online course that has a lecture 80 means that course is for the Masters of Engineering Program only (i.e. CS grad students cannot take/enroll in these sections/discussions)
+Week 10 Deadlines
+Fall 2023 Week 10 Deadlines
+Friday, December 8, 2023 is the last day for graduate students to:
+·       Make changes to their study lists via MyUCLA with the applicable fee (drop/add courses).
+·       Submit a Graduate Degree Petition to request a change of grading basis for a mandatory graded course by filling out the
+enrollment petition form
+(course ID can be found on schedule of classes website) and have the instructor sign off where it says “Instructor’s signature”  and turn in the completed form to
+jalvarez@cs.ucla.edu
+before week 10.
+Submit a Withdrawal Notice for the current quarter.Graduate students receive an official reminder from the Registrar’s Office during third week to check their study lists; they have ten weeks to take the actions listed above.The Graduate Division complies with published deadlines. We recognize exceptional situations may require a retroactive petition. However, retroactive petitions without compelling cause and documentation create an unnecessary and unfair burden and can negatively affect university records. Any retroactive change requests (add/drop courses, change of grading basis) require departmental and instructor signatures as well as a supporting, explanatory memo from the department chair. Please note this is not a guarantee petitions will be approved.
+CS PhD Students Only
+Please visit the
+Graduate Student Handbook
+page for instructions and forms for completing milestones. If you have any questions, please email Helen Tran at
+helen@cs.ucla.edu
+.
+WQE - Fall 2023
+The deadline to create an account and register your paper at the WQE website is
+Thursday, October 26th at 11:59 am
+. The deadline to email your WQE cover page and submit your paper to the WQE website is
+Friday, October 27th at 11:59 am.
+For the WQE website link and detailed formatting requirements, please review the
+WQE instructions
+. Please note that the Spring 2024 deadlines are tentative and will be confirmed at the start of Spring quarter.
+Ad-Hoc Minor Proposal Deadlines
+For instructions on submitting an ad-hoc minor proposal to satisfy the Proposal of Fields requirement, visit the
+Graduate Student Handbook
+or the
+Proposal of Fields form
+(page 3).
+Term
+Deadline
+Fall 2023
+November 3, 2023
+Winter 2024
+February 9, 2024
+Spring 2024
+May 3, 2024
+Summer 2024
+Petitions are not reviewed in the summer.
+Term Calendar 2023-2024
+Bookmark the
+Registrar’s Term Calendar
+to see dates for enrollment, holidays, fee payment deadlines, instruction, add/drop deadlines, commencement.
+Graduate Student Refunds, Leave of Absence, In Absentia Registration, Filing Fee
+The refund schedules for the year can be found
+here
+. Graduate students can find more information about
+refunds and reduction
+if they are on a
+Leave of Absence
+,
+In Absentia Registration
+, or
+Filing Fee
+. Click the links to find the application deadlines.
+Test of Oral Proficiency (TOP)
+The TOP is required for graduate students whose first language is not English. Students are responsible for checking the TOP website for the exam schedule and registering for the TOP as soon as possible. A student is exempt from this requirement if they have earned a prior undergraduate degree from an institution at which English was the sole language of instruction. Test spots fill extremely quickly so please register as soon as possible.
+For CS graduates you can only take the TOP once a quarter.
+CS requires you to receive a 7.1 minimum score to be eligible to TA in the Department.
+If you receive a Provisional Pass you will be able to take the TOP again due to a special arrangement CS has with TOP.
+CS MS Students only
+Please visit the
+Graduate Student Handbook
+page for instructions and forms for completing milestones. If you have any questions, please email Juliana Alvarez at jalvarez@cs.ucla.edu
+CS 596 (CPT)
+CS 596 – Summer Only
+For CS MS international students who are interning during the summer, students must sign up for one unit for CS 596 but before they sign up they
+must obtain their CS faculty advisor’s (or any CS faculty) consent first to sign up under them via email
+(note faculty are not obligated to give their consent and if they do not or if they do not respond, you must ask another cs faculty member). Once you get their consent via email please forward the email to Madelen Hem at madelen@cs.ucla.edu so she can give you a PTE.
+Please note do not ask for a PTE anytime before Spring Quarter as the class system for summer will not be live yet.
+Please keep in mind, if you submit an ATC packet this quarter it takes months for ATC to be processed (you will most likely hear back at the end of the quarter) therefore students should sign up for CS 596 for one unit to fulfill their CPT requirement (ATC processing cannot be expedited). For questions on summer session fees/deadlines/etc please visit the summer session website directly:
+https://summer.ucla.edu/fees-payment-and-financial-aid/
+For questions on CPT (process, deadline, how many units to enroll for CS 596, etc) please contact the
+Dashew Center
+directly as they oversee CPT.
+Initial Faculty Advisor
+*Initial Faculty Advisor*
+The initial faculty advisor you were assigned when you first started the CS MS program is your first point of contact re: your Capstone/Thesis. The initial faculty advisor is there to point you in the right direction re: Capstone/Thesis (i.e. they are not automatically your Capstone/Thesis Advisor). As mentioned at the CS MS Orientation as well as in the
+CS Grad Student Handbook
+,  is up to the CS MS student to find their own Capstone/Thesis Advisor (must be CS faculty) and procure their consent that they are willing to be your Capstone/Thesis Advisor.
+Once a student has found a Capstone/Thesis Advisor who gave their consent to be their Capstone Advisor, the student must fill out the
+Advisor Consent Form
+and have the Capstone/Thesis  Advisor sign off. If you have any questions regarding this please contact
+jalvarez@cs.ucla.edu
+.
+If you are doing a Capstone, you may switch and/or find an advisor even after you’ve submitted your ATC paper work (as long as you find one before your Capstone). If you are doing a thesis, you may switch advisors after your ATC forms but you will need to reconstitute your committee (please email jalvarez@cs.ucla.edu for further information).
+Advancing to Candidacy + Finishing Capstone/Thesis This Quarter
+Advancing to Candidacy
+If you are about to finish your Breadth Requirement and MS Program of Study courses this quarter, you will be ready to Advance to Candidacy (see the
+CS Grad Student Handbook
+for more information). Once you are ready to Advance to Candidacy for Winter 2024, please do the following:
+Please submit your
+MS Advancement to Candidacy (ATC) Form
+and within the same pdf (no zip files please) please include:
+a copy of your unofficial transcripts with the nine MS Program of Study courses highlighted or asterisked
+Breadth Requirement Form
+with the three CS 201s filled out as well. If you petitioned/audited courses and it was approved please include within the pdf the email showing it was approved.
+Program of Study Form
+should be emailed as a pdf (no zip files please)
+An example of the ATC packet can be found
+HERE
+.
+If you were/are an ESAP student about to Advance to Candidacy, you still need to mark and fill out and provide all the forms mentioned above which should be consolidated into one pdf as seen in the ATC packet example above and emailed by the deadline.
+This ATC packet must emailed as a pdf to jalvarez@cs.ucla.edu by
+Friday, January 19, 2024.
+If you submitted your ATC packet by the deadline please note it takes months for both the Registrar’s Office and Graduate Academic Services office to process ATC’s and will most likely hear from Academic Services re: ATC status at the end of the quarter. You will be notified via email.
+Please note that you must be registered and enrolled full-time in order to submit your ATC packet.
+Petitioning a Breadth Requirement Course – if you are petitioning a course that is not on the approved list make sure you provide one pdf that includes the Breadth Req form filled out, a copy of your unofficial transcript with the grade/class highlighted and a copy of the syllabus to
+jalvarez@cs.ucla.edu
+.
+Please note petitioning courses can only be done in the first quarter of your CS MS program
+(see
+CS Grad Student Handbook
+).
+Thesis Route
+If you are planning to do the thesis option, please be sure to submit your
+Nomination of Committee Form.
+As mentioned at the CS MS Orientation as well as in the CS Grad Student Handbook, it is the student’s responsibility to find and obtain the faculty members consent to being on your thesis committee before turning this form in  (advisor/chair must be CS faculty, one other CS faculty must serve on the committee and the third can be a faculty outside the CS department) along with your ATC packet by
+January 19, 2024
+You do not need to obtain the Departmental Chair/Authorized Faculty Departmental Advisor’s signature on the Nomination of MS Committee Form in order to turn it in along with your ATC packet (as long as you have received the consent of your advisor and committee via email that they agree to serve on your thesis committee that will suffice).  If you are doing the thesis route, please be sure to attend an ETD workshop. For information on filing your thesis electronically and the date(s) for the ETD workshop please visit:
+https://grad.ucla.edu/academics/calendar/thesis-dissertation-filing-deadlines-and-workshops/
+,
+If you are doing an MS thesis you must upload your thesis and have your committee sign off on it electronically
+by Friday, March 22, 2024.
+Finishing the Capstone/Thesis This Quarter
+Capstone Route
+If you are planning to submit your Capstone this quarter, the  deadline to submit the
+Capstone Results Form
+with all the advisor and committee signatures and abstract via email to jalvarez@cs.ucla.edu is
+Friday, March 22, 2024.
+An example of the Capstone Results Form packet can be found
+HERE
+.
+You should have already advanced to candidacy or be submitting the advancement to candidacy packet this quarter (If you are submitting the advancement to candidacy packet this quarter you must be registered and enrolled). Reminder you cannot advance to candidacy and be on filing fee the same quarter; you must submit your advancement to candidacy packet one quarter prior to the quarter you plan to be on filing fee.
+As mentioned at the CS MS Orientation as well as in the
+CS Grad Student Handbook
+, it is the student’s responsibility to find their capstone/thesis advisor (must be CS faculty and make sure to have them sign off on the Advisor Consent Form and email it to jalvarez@cs.ucla.edu) along with one other CS faculty to be on the committee and another faculty member (this faculty member may be outside the CS Department or also could be CS faculty) to review and sign off on their capstone.
+The capstone advisor and committee members may sign off via email but the student must consolidate this into one pdf where the capstone results form is in front (under signature write – see email), a copy of your abstract (one paragraph long will suffice) and include the email thread where the faculty signed off. They may also have the faculty cc’ jalvarez@cs.ucla.edu when they sign off on their capstone via email.
+The quarter that you are submitting your Capstone or Thesis you must either be registered and enrolled full-time (for Summer you must be enrolled in a minimum of 4 units) or have submitted an
+electronic filing fee application
+by the deadline provided that you meet the qualifications to submit a Filing Fee application.
+Note, if you are finishing in Summer please get your committee and advisor’s approval in Spring Quarter that they will be available to review/approve your thesis/capstone over the Summer.
+Filing Fee/Last Quarter in the MS program
+Filing Fee
+Filing fee means that you are about to finish all your course work for the Breadth Requirement as well as the Program of Study by this quarter and need an additional quarter to finish your capstone/thesis (you’re welcome to finish it all the same quarter they finish all their course requirements but some students need extra time). “Filing Fee” for the next quarter (i.e. you have finished taking all the Program of Study/Breadth Req courses and Advance to Candidacy in Winter 2023 and will go on Filing Fee in Spring 2023 to work on the capstone/thesis that you will submit in Winter 2023) as all you need to do is work on and submit your capstone/thesis (you cannot be enrolled in courses when you are on filing fee).
+If you are unsure that you will be able to finish your capstone/MS program and might need more time,
+we strongly recommend students register and enroll and not submit an application for filing fee
+. If you need more time after filing fee you will need to apply for readmission back into the MS program which is laborious and takes time for both the student and various UCLA offices involved.
+Filing Fee is not required to do and is completely optional
+provided that you meet the requirements (i.e. Advance to Candidacy one quarter prior to the quarter you plan on being on Filing Fee) and submit your application by the deadline. Please note the filing fee application is separate from the Advancement to Candidacy petition form.
+If a student is planning/going to apply for filing fee, it is the student’s responsibility to make sure they read through the
+filing fee website
+as there are important information on what services and access are suspended and be aware of deadlines. One of the many services suspended while on filing fee is access to the UCLA VPN and library. If you are in UCLA Housing, please notify UCLA Housing that you will apply for filing fee and ask if it will impact your Housing or not. For a list of services suspended/impacted while on filing fee please visit the
+filing fee website
+.
+Once you receive the email from the Department of Graduate Education stating that you have successfully Advanced to Candidacy (please note this is separate from emailing your Advancement to Candidacy packet), please fill out the electronic Filing Fee application. To access the filing fee application and for more information on filing fee please visit:
+https://grad.ucla.edu/academics/graduate-study/filing-fee-application/
+Please note that filing fee is completely optional. If you do filing fee and require another quarter to finish your capstone/thesis, you must apply for readmission into the CS MS program. Please contact jalvarez@cs.ucla.edu for further information.
+If you are not going to be on Filing Fee during your last quarter in the program you must be registered and enrolled full-time.
+If you are finishing in Summer you must be enrolled in a minimum of 4 units + have your advisor/committee’s consent that they will review your capstone/thesis during the Summer.
+For deadlines on the last day to submit a filing fee application please visit:
+https://grad.ucla.edu/ucla/gasaa/filingfeedeadlines.pdf
+Facebook
+X
+Instagram
+Linkedin
+©
+Copyright 2024 UCLA Samueli School Of Engineering
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA

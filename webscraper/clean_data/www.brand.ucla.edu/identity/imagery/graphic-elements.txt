@@ -1,522 +1,59 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-
-      	<!-- Google Tag Manager -->
-	  	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-      	})(window,document,'script','dataLayer','GTM-M4CXQ7');</script>
-	  	<!-- End Google Tag Manager -->
-
-        <script src="https://www.youtube.com/iframe_api"></script>
-
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=11">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="format-detection" content="telephone=no">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="google-site-verification" content="QS5gayPg38zC46YsAx4a9c3v4qTBkn-R69g90pQgpB0" />
-
-        <title>Brand Guidelines | Identity | Imagery | Graphic Elements</title>
-        <meta name="description" content="Learn how to use the molecule, one of UCLA&rsquo;s signature graphic elements."/>
-
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-
-		<!-- Main CSS -->
-		<link href="https://www.brand.ucla.edu/css/app.css" rel="stylesheet" type="text/css">
-    </head>
-<body>
-
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4CXQ7"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-
-    <header id="header">
-      <div class="ribbon">
-
-        <div class="logo">
-          <a href="http://ucla.edu" class="gtm-main-nav-logo" target="_blank"><img src="/images/logo-ucla.svg" alt="UCLA logo"></a>
-        </div>
-
-        <div class="log-in">
-				        	<a href="https://www.brand.ucla.edu/login/YToxOntzOjQ6InBhdGgiO3M6MzQ6Ii9pZGVudGl0eS9pbWFnZXJ5L2dyYXBoaWMtZWxlbWVudHMiO30=" class="gtm-main-nav">Log In</a>
-	                </div>
-
-      </div>
-    </header>
-    <nav id="main-nav">
-      <div class="nav-toggle">
-
-        <!-- HAMBURGER NAV -->
-        <input type="checkbox" class="gtm-main-nav-hamburger-icon" aria-label="Hamburger Menu" />
-        <div class="hamburger-icon">
-          <span></span>
-          <span></span>
-          <span></span>
-        </div>
-
-        <!-- MENU -->
-        <ul class="nav">
-          <li class="site-name"><a href="https://www.brand.ucla.edu" class="gtm-main-nav">Brand Guidelines</a></li>
-
-          <!-- FUNDAMENTALS -->
-          <li id="fundamentals-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Fundamentals
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">Who we are</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/brand-defined" class="gtm-main-nav">Brand Defined</a></div>
-                  <p>The UCLA brand, core mission, key message, brand pillars and personality</p>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/brand-protection" class="gtm-main-nav">Brand Protection</a></div>
-                  <p>Policies, permissions and approvals to use UCLA logos and marks</p>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/accessibility" class="gtm-main-nav">Accessibility</a></div>
-                  <p>Creating an inclusive experience for everyone</p>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/edi" class="gtm-main-nav">EDI</a></div>
-                  <p>Learn how to reflect UCLA’s vision for equity, diversity and inclusion and avoid EDI messaging pitfalls with our tips and resources.</p>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <!-- IDENTITY -->
-          <li id="identity-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Identity
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">How we look and talk</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/identity/logos-and-marks" class="gtm-main-nav">Logos and Marks</a></div>
-                  <ul>
-                    <li><a href="/identity/logos-and-marks/campus-logo" class="gtm-main-nav">Campus Logo</a></li>
-                    <li><a href="/identity/department-logos" class="gtm-main-nav">Department Logos</a></li>
-                    <li><a href="/identity/logos-and-marks/script-logo" class="gtm-main-nav">Script Logo</a></li>
-                    <li><a href="/identity/logos-and-marks/seals" class="gtm-main-nav">UCLA Seal</a></li>
-                    <li><a href="/identity/logos-and-marks/historical-logos-and-marks" class="gtm-main-nav">Historical Marks</a></li>
-                  </ul>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/identity/names-and-naming" class="gtm-main-nav">Names and Naming</a></div>
-                  <div class="h5"><a href="/identity/colors" class="gtm-main-nav">Colors</a></div>
-                  <div class="h5"><a href="/identity/typography" class="gtm-main-nav">Typography</a></div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/identity/imagery" class="gtm-main-nav">Imagery</a></div>
-                  <ul>
-                    <li><a href="/identity/imagery/photography-and-videography" class="gtm-main-nav">Photography and Videography</a></li>
-                    <li><a href="/identity/imagery/graphic-elements" class="gtm-main-nav">Graphic Elements</a></li>
-                  </ul>
-                  <div class="h5"><a href="/identity/copy-editorial" class="gtm-main-nav">Copy and Editorial</a></div>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <!-- APPLICATION -->
-          <li id="application-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Application
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">How to apply brand guidelines across channels</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/application/print" class="gtm-main-nav">Print</a></div>
-                  
-                  <div class="h5"><a href="/application/web" class="gtm-main-nav">Web</a></div>
-                    <ul>
-                      
-                      <li><a href="/application/web/design-system" class="gtm-main-nav">Design System</a></li>
-                      <li><a href="/application/web/cms-resources" class="gtm-main-nav">CMS Resources</a></li>
-                      <li><a href="/application/web/best-practices" class="gtm-main-nav">Best Practices</a></li>
-                      
-                    </ul>
-                  
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/application/presentations" class="gtm-main-nav">Presentations</a></div>
-                  
-                  <div class="h5"><a href="/application/email" class="gtm-main-nav">Email</a></div>
-                  <ul>
-                    <li><a href="/application/email/templates" class="gtm-main-nav">Templates</a></li>
-                    <li><a href="/application/email/best-practices" class="gtm-main-nav">Best practices</a></li>                    
-                    <li><a href="/application/email/staff-signature" class="gtm-main-nav">Staff signature</a></li>
-                  </ul> 
-                  
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a class="gtm-main-nav" href="/application/social-media">Social Media</a></div>
-                  <div class="h5"><a href="/application/video" class="gtm-main-nav">Video</a></div>
-                  <ul>
-                    <li><a href="/application/video/elements-and-styles" class="gtm-main-nav">Elements and styles</a></li>
-                    <li><a href="/application/video/best-practices" class="gtm-main-nav">Best practices</a></li>
-                  </ul>
-                  
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <!-- INITIATIVES -->
-          <!-- <li id="initiatives-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Initiatives
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">Major initiatives across campus</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/initiatives/centennial-celebration" class="gtm-main-nav">Centennial Celebration</a></div>
-                    <ul>
-                      <li><a href="/initiatives/centennial-celebration/identity-elements" class="gtm-main-nav">Identity Elements</a></li>
-                      <li><a href="/initiatives/centennial-celebration/templates" class="gtm-main-nav">Templates</a></li>
-                    </ul>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/initiatives/centennial-campaign" class="gtm-main-nav">The Centennial Campaign</a></div>
-                </div>
-                
-                  
-                  
-                
-              </div>
-            </div>
-          </li> -->
-
-          <!-- SEARCH -->
-          <li id="search-nav-item" class="nav-item search">
-            <form id="search-form" class="search-bar">
-              <div class="search-bar__container" id="searchbox">
-                <input id="site-search" class="form-control" aria-label="Search the Site" type="text" placeholder="Search">
-                <button type="button" class="gtm-main-nav-search-submit search-bar__submit btn blue" id="main-navigation-submit" aria-label="Search">
-                  <span class="search-bar__submit__text box-link">Search</span>
-                  </span>
-                </button>
-              </div>
-            </form>
-            <button type="button" class="gtm-main-nav-search-open search-open" id="main-navigation-search">
-              <img class="icon search-icon" src="/images/search-icon.svg" alt="Search button"/>
-            </button>
-          </li>
-        </ul>
-      </div>
-    </nav>
-
-
-<div class="graphic-elements jump-nav">
-
-	<section class="title">
-
-		<div class="grid-wrapper">
-
-			<div class="parent col-1-13">
-				<a href="/identity/imagery/" class="gtm-internal-page-link btn blue">Imagery</a>
-			</div>
-
-			<h1 class="parent col-1-13">Graphic Elements</h1>
-
-			<div class="jump-nav-links col-1-13">
-				<ul>
-					<li><a class="gtm-internal-page-link" href="#molecule">The Molecule</a></li>
-					<li><a class="gtm-internal-page-link" href="#overlay">The Overlay Box</a></li>
-					<li><a class="gtm-internal-page-link" href="#ribbon">The Ribbon Treatment</a></li>
-					<li><a class="gtm-internal-page-link" href="#do-not">Do Not</a></li>
-					<li><a class="gtm-internal-page-link" href="#downloads">Downloads</a></li>
-				</ul>
-			</div>
-
-		</div>
-	</section>
-
-	<section id="molecule" class="element top">
-		<div class="grid-wrapper">
-
-			<h2 class="col-1-13">The Molecule</h2>
-			<p class="col-1-13">The molecule is a unique design element used throughout the UCLA brand. Inspired by California sunshine and natural sunspots captured in photography, the UCLA molecule represents light and energy as well as a spirit of scientific inquiry and discovery. Molecules are most effective when used sparingly.</p>
-
-			<div class="col-1-7">
-				<figure>
-					<img src="/images/identity/graphic-elements/molecules-lens-flare.jpg" alt="UCLA Molecules arranged as a lens flare" />
-				</figure>
-			</div>
-			<div class="col-7-13">
-				<h3>Molecules as lens flares</h3>
-				<p>Transparent molecules can be used to form lens flares. Make sure to arrange molecules in one line across the image, not grouped heavily in clusters.</p>
-			</div>
-
-			<div class="col-1-7">
-				<figure>
-					<img src="/images/identity/graphic-elements/molecules-headline.jpg" alt="UCLA Molecule with headline" />
-				</figure>
-			</div>
-			<div class="col-7-13">
-				<h3>Molecules containing headlines</h3>
-				<p>A large molecule may be used to hold a headline and short sub-headline. Set the type in a contrasting color to ensure legibility. This execution is effective in print pieces only.</p>
-			</div>
-
-			<div class="col-1-7">
-				<figure>
-					<img src="/images/identity/graphic-elements/id-imagery-graphic-4.jpg" alt="UCLA Molecule as container" />
-				</figure>
-			</div>
-			<div class="col-7-13">
-				<h3>Molecules containing factoids or quotes</h3>
-				<p>A large molecule may be used to hold factoids and other small bits of information. An outlined molecule using a 1-point rule may be used on top of or interlaced with a solid molecule to add dimension. Again, be sure to use molecules in this way on print projects only.</p>
-			</div>
-
-			<div class="col-1-7">
-				<figure>
-					<img src="/images/identity/graphic-elements/molecules-graphic-device.jpg" alt="UCLA molecules as small graphic devices" />
-				</figure>
-			</div>
-			<div class="col-7-13">
-				<h3>Molecules as small graphic devices</h3>
-				<p>Three molecules can be used as small graphic devices or accents for headlines.</p>
-			</div>
-
-			<div class="col-1-7">
-				<figure>
-					<img src="/images/identity/imagery/id-imagery-graphic-7.jpg" alt="UCLA molecules as overlapping elements" />
-				</figure>
-			</div>
-			<div class="col-7-13">
-				<h3>Molecules as overlapping elements</h3>
-				<p class="no-bottom-margin">A molecule may be used as an overlapping background element to draw the reader’s eye to a headline or section heading.</p>
-			</div>
-
-		</div>
-	</section>
-
-
-	<section id="overlay" class="element">
-		<div class="grid-wrapper">
-
-			<h2 class="col-1-13">The Overlay Box</h2>
-
-			<div class="col-1-7">
-				<figure>
-					<img src="/images/identity/graphic-elements/overlay.jpg" alt="Overlay box" />
-				</figure>
-			</div>
-
-			<div class="col-7-13">
-				<p class="no-bottom-margin">Another branding element in the UCLA design identity is the overlay box. This gives shape and form to our brand identity. Applied consistently, it can provide instant recognition to your work.</p>
-			</div>
-
-		</div>
-	</section>
-
-
-	<section id="ribbon" class="element">
-		<div class="grid-wrapper">
-
-			<h2 class="col-1-13">The Ribbon Treatment</h2>
-
-			<div class="col-1-7">
-				<figure>
-					<img src="/images/identity/graphic-elements/ribbon.jpg" alt="Ribbon treatment" />
-				</figure>
-			</div>
-
-			<div class="col-7-13">
-				<p class="no-bottom-margin">Ribbon treatments bring emphasis to headlines. When using ribbon treatments over photos, try not to be too wordy. Short, punchy sentences are best because they do not distract from the image.</p>
-			</div>
-
-		</div>
-	</section>
-
-
-	<section id="do-not" class="element grid">
-		<div class="grid-wrapper">
-
-			<h2 class="col-1-13">Do Not</h2>
-
-			<div class="col-1-13 no-padding">
-
-				<div class="grid-3x3">
-					<div>
-						<img src="/images/identity/graphic-elements/graphic-dont-1.jpg" alt="A block of copy within a molecule" />
-						<p>Do not set blocks of copy within a molecule.</p>
-					</div>
-
-					<div>
-						<img src="/images/identity/graphic-elements/graphic-dont-2.jpg" alt="Justified copy within a molecule" />
-						<p>Do not justify copy within a molecule.</p>
-					</div>
-
-					<div>
-						<img src="/images/identity/graphic-elements/graphic-dont-3.jpg" alt="A darkened molecule" />
-						<p>Do not make the molecule too dark.</p>
-					</div>
-
-					<div>
-						<img src="/images/identity/graphic-elements/graphic-dont-4.jpg" alt="A distorted molecule" />
-						<p>Do not distort the molecule.</p>
-					</div>
-
-					<div>
-						<img src="/images/identity/graphic-elements/graphic-dont-5.jpg" alt="A molecule at 100% opacity" />
-						<p>Do not use molecules at 100% opacity.</p>
-					</div>
-
-					<div>
-						<img src="/images/identity/graphic-elements/graphic-dont-7.jpg" alt="Six molecules in a row used as a headline accent" />
-						<p>Do not use more than three molecules at a time for headline accents.</p>
-					</div>
-
-					<div>
-						<img src="/images/identity/graphic-elements/graphic-dont-6.jpg" alt="An image of the Bruin statue within a molecule" />
-						<p>Do not put an image inside a molecule.</p>
-					</div>
-
-				</div>
-			</div>
-
-		</div>
-	</section>
-
-
-	<section id="downloads" class="element download">
-
-		<div class="grid-wrapper">
-			<h2>Downloads</h2>
-			<div class="col-wide col-1-13">
-				<h3>Included in your download:</h3>
-				<ul class="unordered-list no-margin">
-					<li>The molecule (EPS, PNG, SVG)</li>
-					<li>An example of molecules as lens flares (EPS and PNG)</li>
-				</ul>
-
-				<form class="gtm-download-button-zip">
-
-	
-	
-
-			<a class="btn blue  gtm-download-button-zip lock" href="/download/YToyOntzOjQ6InBhdGgiO3M6MzQ6Ii9pZGVudGl0eS9pbWFnZXJ5L2dyYXBoaWMtZWxlbWVudHMiO3M6NDoiZmlsZSI7czo5NzoiaHR0cHM6Ly9icmFuZC51Y2xhLmVkdS51cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9hc3NldHMvaWRlbnRpdHkvdWNsYS1pZGVudGl0eS1ncmFwaGljLWVsZW1lbnRzLnppcCI7fQ==" data-button-name="UCLA Identity Graphic Elements">Download Graphic Elements (ZIP 1 MB)</a>
-	
-</form>
-
-<!-- 
-	<a class="btn blue  gtm-download-button-zip lock" href="/download/YToyOntzOjQ6InBhdGgiO3M6MzQ6Ii9pZGVudGl0eS9pbWFnZXJ5L2dyYXBoaWMtZWxlbWVudHMiO3M6NDoiZmlsZSI7czo5NzoiaHR0cHM6Ly9icmFuZC51Y2xhLmVkdS51cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9hc3NldHMvaWRlbnRpdHkvdWNsYS1pZGVudGl0eS1ncmFwaGljLWVsZW1lbnRzLnppcCI7fQ==" data-button-name="UCLA Identity Graphic Elements">Download Graphic Elements (ZIP 1 MB)</a>
- 
--->
-
-
-
-			</div>
-		</div>
-	</section>
-
-</div>
-
-
-
-
-<footer id="footer">
-			<div class="wrapper">
-				<img class="logo" src="/images/logo-stratcomm.svg" alt="UCLA Strategic Communications logo">
-				<div class="footer-content">
-					<div class="col-1">
-						<p>
-							10889 Wilshire Blvd. | Ste 1400<br>
-							Los Angeles, CA 90024<br>
-						</p>
-						<p class="contact">
-							<ul>
-								<li><a class="gtm-footer-link-phone" href="tel:3108254321">(310) 825-4321</a></li>
-								<li><a class="gtm-footer-link-mailto" href="mailto:brand@stratcomm.ucla.edu">brand@stratcomm.ucla.edu</a></li>
-							</ul>
-						</p>
-					</div>
-					<div class="col-2">
-						<div class="h5">Learn More</div>
-							<ul>
-								<li><a class="gtm-footer-link-internal gtm-download-file-pdf" href="/assets/ucla-brand-glossary.pdf" target="_blank" data-button-name="Glossary Footer">Glossary (PDF 52KB)</a></li>
-								<li><a class="gtm-footer-link-internal" href="/resources">Resources</a></li>
-							</ul>
-					</div>
-					<div class="col-3">
-						<div class="h5">Related Websites</div>
-							<ul>
-								<li><a class="gtm-footer-link-outbound" href="https://www.marks.ucla.edu" target="_blank">Permission to use UCLA Marks</a></li>
-								<li><a class="gtm-footer-link-outbound" href="http://socialmedia.ucla.edu" target="_blank">Social Media at UCLA</a></li>
-								<li><a class="gtm-footer-link-outbound" href="http://identity.uclahealth.org" target="_blank">UCLA Health Identity</a></li>
-								<li><a class="gtm-footer-link-outbound" href="https://asucla.ucla.edu/licensing/" target="_blank">UCLA Trademarks and Licensing</a></li>
-								<li><a class="gtm-footer-link-outbound" href="https://www.adminvc.ucla.edu/marks/report-a-violation" target="_blank">Report improper use of UCLA Marks</a></li>
-							</ul>
-					</div>
-				</div>
-				<div class="sign-up">
-					<div class="blurb">
-						<div class="h5">Stay Informed</div>
-						Join the brand guidelines email list to hear about resources and updates
-					</div>
-
-					<div id="form-messages">
-						<form id="email-signup" method="post" action="/api/newsletter" pageId="22355370" siteId="549861" parentPageId="22355367" autocomplete="off">
-							<div class="field email-field">
-								<input type="text" name="Email" id="control_EMAIL" label="Email" class="textInput defaultText" placeholder="Your Email Address" aria-label="Your Email Address" required>
-								<input type="hidden" name="formSourceName" value="StandardForm"><!-- DO NOT REMOVE HIDDEN FIELD sp_exp --><input type="hidden" name="sp_exp" value="yes">
-							</div>
-							<div class="field submit-field">
-								<input type="submit" class="btn yellow gtm-footer-email-signup" value="Sign Up" aria-label="Sign Up">
-							</div>
-							<p class="warning">Please enter a valid email.</p>
-						</form>
-					</div>
-					<div id="success" class="hide">
-						<img src="/images/outline-check-circle.svg" alt="">
-						<p>Your email was submitted. Please check your inbox to complete your registration.</p>
-					</div>
-
-				</div>
-				<div class="legal">
-					<div id="regents">&copy;2024 Regents of the <a href="https://www.universityofcalifornia.edu" target="_blank">University of California</a></div>
-					<div class="global-links">
-						<a class="gtm-footer-link-outbound" href="http://www.ucla.edu/terms-of-use" target="_blank">Terms of Use</a>
-						<a class="gtm-footer-link-outbound" href="http://www.ucla.edu/accessibility" target="_blank">Accessibility</a>
-						<!--
-						<a class="gtm-footer-link-outbound" href="#">Emergency</a>
-						-->
-					</div>
-				</div>
-			</div>
-		</footer>
-
-		<script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
-		<script src="/vendors/fancybox-master/dist/jquery.fancybox.min.js"></script>
-
-		
-		<script src="https://www.brand.ucla.edu/js/main.js" ></script>
-
-		<script type="text/javascript">
-			$(document).ready( function() {
-				$('a.fancybox').fancybox();
-			});
-
-						</script>
-		<!-- test -->
-	</body>
-</html>
+Brand Guidelines | Identity | Imagery | Graphic Elements
+Log In
+Imagery
+Graphic Elements
+The Molecule
+The Overlay Box
+The Ribbon Treatment
+Do Not
+Downloads
+The Molecule
+The molecule is a unique design element used throughout the UCLA brand. Inspired by California sunshine and natural sunspots captured in photography, the UCLA molecule represents light and energy as well as a spirit of scientific inquiry and discovery. Molecules are most effective when used sparingly.
+Molecules as lens flares
+Transparent molecules can be used to form lens flares. Make sure to arrange molecules in one line across the image, not grouped heavily in clusters.
+Molecules containing headlines
+A large molecule may be used to hold a headline and short sub-headline. Set the type in a contrasting color to ensure legibility. This execution is effective in print pieces only.
+Molecules containing factoids or quotes
+A large molecule may be used to hold factoids and other small bits of information. An outlined molecule using a 1-point rule may be used on top of or interlaced with a solid molecule to add dimension. Again, be sure to use molecules in this way on print projects only.
+Molecules as small graphic devices
+Three molecules can be used as small graphic devices or accents for headlines.
+Molecules as overlapping elements
+A molecule may be used as an overlapping background element to draw the reader’s eye to a headline or section heading.
+The Overlay Box
+Another branding element in the UCLA design identity is the overlay box. This gives shape and form to our brand identity. Applied consistently, it can provide instant recognition to your work.
+The Ribbon Treatment
+Ribbon treatments bring emphasis to headlines. When using ribbon treatments over photos, try not to be too wordy. Short, punchy sentences are best because they do not distract from the image.
+Do Not
+Do not set blocks of copy within a molecule.
+Do not justify copy within a molecule.
+Do not make the molecule too dark.
+Do not distort the molecule.
+Do not use molecules at 100% opacity.
+Do not use more than three molecules at a time for headline accents.
+Do not put an image inside a molecule.
+Downloads
+Included in your download:
+The molecule (EPS, PNG, SVG)
+An example of molecules as lens flares (EPS and PNG)
+Download Graphic Elements (ZIP 1 MB)
+10889 Wilshire Blvd. | Ste 1400
+Los Angeles, CA 90024
+(310) 825-4321
+brand@stratcomm.ucla.edu
+Learn More
+Glossary (PDF 52KB)
+Resources
+Related Websites
+Permission to use UCLA Marks
+Social Media at UCLA
+UCLA Health Identity
+UCLA Trademarks and Licensing
+Report improper use of UCLA Marks
+Stay Informed
+Join the brand guidelines email list to hear about resources and updates
+Please enter a valid email.
+Your email was submitted. Please check your inbox to complete your registration.
+©2024 Regents of the
+University of California
+Terms of Use
+Accessibility

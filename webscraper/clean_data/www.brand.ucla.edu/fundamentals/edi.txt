@@ -1,570 +1,174 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-
-      	<!-- Google Tag Manager -->
-	  	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-      	})(window,document,'script','dataLayer','GTM-M4CXQ7');</script>
-	  	<!-- End Google Tag Manager -->
-
-        <script src="https://www.youtube.com/iframe_api"></script>
-
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=11">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="format-detection" content="telephone=no">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="google-site-verification" content="QS5gayPg38zC46YsAx4a9c3v4qTBkn-R69g90pQgpB0" />
-
-        <title>Brand Guidelines | Fundamentals | Equity, Diversity &amp; Inclusion</title>
-        <meta name="description" content="descrption goes here"/>
-
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-
-		<!-- Main CSS -->
-		<link href="https://www.brand.ucla.edu/css/app.css" rel="stylesheet" type="text/css">
-    </head>
-<body>
-
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4CXQ7"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-
-    <header id="header">
-      <div class="ribbon">
-
-        <div class="logo">
-          <a href="http://ucla.edu" class="gtm-main-nav-logo" target="_blank"><img src="/images/logo-ucla.svg" alt="UCLA logo"></a>
-        </div>
-
-        <div class="log-in">
-				        	<a href="https://www.brand.ucla.edu/login/YToxOntzOjQ6InBhdGgiO3M6MTc6Ii9mdW5kYW1lbnRhbHMvZWRpIjt9" class="gtm-main-nav">Log In</a>
-	                </div>
-
-      </div>
-    </header>
-    <nav id="main-nav">
-      <div class="nav-toggle">
-
-        <!-- HAMBURGER NAV -->
-        <input type="checkbox" class="gtm-main-nav-hamburger-icon" aria-label="Hamburger Menu" />
-        <div class="hamburger-icon">
-          <span></span>
-          <span></span>
-          <span></span>
-        </div>
-
-        <!-- MENU -->
-        <ul class="nav">
-          <li class="site-name"><a href="https://www.brand.ucla.edu" class="gtm-main-nav">Brand Guidelines</a></li>
-
-          <!-- FUNDAMENTALS -->
-          <li id="fundamentals-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Fundamentals
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">Who we are</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/brand-defined" class="gtm-main-nav">Brand Defined</a></div>
-                  <p>The UCLA brand, core mission, key message, brand pillars and personality</p>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/brand-protection" class="gtm-main-nav">Brand Protection</a></div>
-                  <p>Policies, permissions and approvals to use UCLA logos and marks</p>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/accessibility" class="gtm-main-nav">Accessibility</a></div>
-                  <p>Creating an inclusive experience for everyone</p>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/edi" class="gtm-main-nav">EDI</a></div>
-                  <p>Learn how to reflect UCLA’s vision for equity, diversity and inclusion and avoid EDI messaging pitfalls with our tips and resources.</p>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <!-- IDENTITY -->
-          <li id="identity-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Identity
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">How we look and talk</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/identity/logos-and-marks" class="gtm-main-nav">Logos and Marks</a></div>
-                  <ul>
-                    <li><a href="/identity/logos-and-marks/campus-logo" class="gtm-main-nav">Campus Logo</a></li>
-                    <li><a href="/identity/department-logos" class="gtm-main-nav">Department Logos</a></li>
-                    <li><a href="/identity/logos-and-marks/script-logo" class="gtm-main-nav">Script Logo</a></li>
-                    <li><a href="/identity/logos-and-marks/seals" class="gtm-main-nav">UCLA Seal</a></li>
-                    <li><a href="/identity/logos-and-marks/historical-logos-and-marks" class="gtm-main-nav">Historical Marks</a></li>
-                  </ul>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/identity/names-and-naming" class="gtm-main-nav">Names and Naming</a></div>
-                  <div class="h5"><a href="/identity/colors" class="gtm-main-nav">Colors</a></div>
-                  <div class="h5"><a href="/identity/typography" class="gtm-main-nav">Typography</a></div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/identity/imagery" class="gtm-main-nav">Imagery</a></div>
-                  <ul>
-                    <li><a href="/identity/imagery/photography-and-videography" class="gtm-main-nav">Photography and Videography</a></li>
-                    <li><a href="/identity/imagery/graphic-elements" class="gtm-main-nav">Graphic Elements</a></li>
-                  </ul>
-                  <div class="h5"><a href="/identity/copy-editorial" class="gtm-main-nav">Copy and Editorial</a></div>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <!-- APPLICATION -->
-          <li id="application-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Application
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">How to apply brand guidelines across channels</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/application/print" class="gtm-main-nav">Print</a></div>
-                  
-                  <div class="h5"><a href="/application/web" class="gtm-main-nav">Web</a></div>
-                    <ul>
-                      
-                      <li><a href="/application/web/design-system" class="gtm-main-nav">Design System</a></li>
-                      <li><a href="/application/web/cms-resources" class="gtm-main-nav">CMS Resources</a></li>
-                      <li><a href="/application/web/best-practices" class="gtm-main-nav">Best Practices</a></li>
-                      
-                    </ul>
-                  
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/application/presentations" class="gtm-main-nav">Presentations</a></div>
-                  
-                  <div class="h5"><a href="/application/email" class="gtm-main-nav">Email</a></div>
-                  <ul>
-                    <li><a href="/application/email/templates" class="gtm-main-nav">Templates</a></li>
-                    <li><a href="/application/email/best-practices" class="gtm-main-nav">Best practices</a></li>                    
-                    <li><a href="/application/email/staff-signature" class="gtm-main-nav">Staff signature</a></li>
-                  </ul> 
-                  
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a class="gtm-main-nav" href="/application/social-media">Social Media</a></div>
-                  <div class="h5"><a href="/application/video" class="gtm-main-nav">Video</a></div>
-                  <ul>
-                    <li><a href="/application/video/elements-and-styles" class="gtm-main-nav">Elements and styles</a></li>
-                    <li><a href="/application/video/best-practices" class="gtm-main-nav">Best practices</a></li>
-                  </ul>
-                  
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <!-- INITIATIVES -->
-          <!-- <li id="initiatives-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Initiatives
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">Major initiatives across campus</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/initiatives/centennial-celebration" class="gtm-main-nav">Centennial Celebration</a></div>
-                    <ul>
-                      <li><a href="/initiatives/centennial-celebration/identity-elements" class="gtm-main-nav">Identity Elements</a></li>
-                      <li><a href="/initiatives/centennial-celebration/templates" class="gtm-main-nav">Templates</a></li>
-                    </ul>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/initiatives/centennial-campaign" class="gtm-main-nav">The Centennial Campaign</a></div>
-                </div>
-                
-                  
-                  
-                
-              </div>
-            </div>
-          </li> -->
-
-          <!-- SEARCH -->
-          <li id="search-nav-item" class="nav-item search">
-            <form id="search-form" class="search-bar">
-              <div class="search-bar__container" id="searchbox">
-                <input id="site-search" class="form-control" aria-label="Search the Site" type="text" placeholder="Search">
-                <button type="button" class="gtm-main-nav-search-submit search-bar__submit btn blue" id="main-navigation-submit" aria-label="Search">
-                  <span class="search-bar__submit__text box-link">Search</span>
-                  </span>
-                </button>
-              </div>
-            </form>
-            <button type="button" class="gtm-main-nav-search-open search-open" id="main-navigation-search">
-              <img class="icon search-icon" src="/images/search-icon.svg" alt="Search button"/>
-            </button>
-          </li>
-        </ul>
-      </div>
-    </nav>
-
-
-	<div class="jump-nav single-column-section-titles" id="edi">
-
-		<!-- PAGE INTRO -->
-		<section class="title">
-		    <div class="grid-wrapper">
-
-		    	<h1 class="col-1-13">Equity, Diversity & Inclusion</h1>
-
-		    	<div class="jump-nav-links col-1-13">
-			    	<ul>
-				    	<li><a class="gtm-internal-page-link" href="#audience">Audience</a></li>
-				    	<li><a class="gtm-internal-page-link" href="#context">Context</a></li>
-				    	<li><a class="gtm-internal-page-link" href="#content">Content</a></li>
-				    	<li><a class="gtm-internal-page-link" href="#resources">Resources</a></li>
-			    	</ul>
-		    	</div>
-		    </div>
-	    </section>
-
-		<!-- PAGE CONTENT -->
-
-		<div class="page-content">
-			<div class="page-section page-overview">
-				<p>The EDI Content Guide consists of conversation starters to help us better reflect UCLA’s commitments to equity, diversity and inclusion.</p>	
-			</div>
-            <div class="page-section" style="margin-bottom:32px; margin-top:16px;">
-				<p>As communicators we have the opportunity to make UCLA’s public voice more inclusive of the experiences of historically underrepresented groups - people who’ve been excluded by virtue of their race, class, religion, ability, gender, gender expression, ethnicity, sexual orientation and more.</p>	
-                <p>The goal of these guidelines is to calibrate our approach to storytelling and design with the following EDI values in mind. We seek to:</p>
-                <ul class="unordered-list">
-                    <li>intentionally elevate underrepresented voices</li>
-                    <li>account for biases and blind spots that affect our work</li>
-                    <li>reflect the diversity of the communities we serve; and</li>
-                    <li>understand the context of our audience’s lived experience</li>
-                </ul>
-            </div>
-            <div class="page-section">
-                <h3>Perfection is not possible. Progress is.</h3>
-                <p>We understand that conventional wisdom, accepted ideas and language not only vary within and between communities, but also change over time. For instance, concepts like “tolerance” and “color-blindness” might have felt cutting-edge and empowering as responses to the realities of racism 50 years ago, but today may come across as patronizing and insensitive.</p>
-                <p>Our standards must derive from ongoing conversation with one another and deep listening to the diverse populations we represent and to which we are responsible. We all have bias based on our experiences and backgrounds. That is natural. Our EDI strategy is to acknowledge that bias as we continually revisit our practices with curiosity, humility and determination to improve.</p>
-                <p>While the EDI Council is here to support you, and during our normal review process can help you address any potential EDI concerns, we encourage you to work through the guidelines at the beginning of each project.</p>
-                <p>Use these questions to guide the conversation as you develop programs, events, and multimedia content on behalf of UCLA.</p>
-            
-            </div>
-		</div>
-
-		<div id="audience" class="page-content">
-			<div class="page-section">				
-				<h2>Audience</h2>
-				<p>Audiences are not monoliths. While the views of any group of people are not uniform, we need to be aware of how differences in race, class, age,culture, gender and other factors may influence how we approach our work and how diverse audiences will interpret text and image.</p>
-                <ul class="unordered-list">
-                    <li>Who is the primary audience? Who else may see the work beyond that audience?</li>
-                    <li>What do you know about the audiences (demographics, behaviors, abilities, etc.)?</li>
-                    <li>Are there potential sensitivities, stereotypes, positive or negative experiences that someone in the primary or broader audience might associate with your project? (See the Context section for more information)</li>
-                </ul>
-				<p style="margin-top:24px;">Further, our content should be accessible to audiences with differing physical and neurological abilities.</p>
-                <ul class="unordered-list">
-                    <li>Consider how your content might be perceived by people with physical disabilities.</li>
-                    <li>Are videos <a href="https://www.usa.gov/style-guide/accessibility#item-212630">captioned to ADA standards?</a> </li>
-                    <li>Is the color palette ADA compliant?</li>
-                        <ul class="unordered-list">
-                            <li>For further ADA information refer to <a href="https://brand.ucla.edu">Brand Guidelines</a>.</li>
-                        </ul>
-                    <li>Is <a href="https://www.usa.gov/style-guide/accessibility#item-212631">alt-text appropriate and provided</a>?</li>
-                    <li>Are there options to simplify complex language?</li>
-                        <ul class="unordered-list">
-                            <li>Example: Newsroom “Key Takeaways” box.</li>
-                        </ul>
-                </ul>
-            </div>
-		</div>
-		<div id="context" class="page-content">
-			<div class="page-section">
-				<h2>Context</h2>
-				<p>Our work is part of broader cultural and historical narratives. Pausing to consider those contexts is a critical part of creating inclusive, culturally competent content.</p>
-                <p>How might the context in which your work is received affect how it is perceived?</p>
-                <ul class="unordered-list">
-                    <li>What themes or key messages are emphasized in this work?</li>
-                    <li>What is currently happening in the world--local, national, international--that may affect how people interact with your work? Look at the calendar, news cycle, social media trends, what’s happening on campus, etc.</li>
-                    <li>What historical events, experiences or controversies may affect how the primary audience interacts with your work?</li>
-                    <li>Does UCLA have a history with the subject—positive, negative or neutral—that may impact how your work is received?</li>
-                        <ul class="unordered-list">
-                            <li>Example: In 2021, a former UCLA Gymnastics coach and UCLA Athletics administration came under public criticism for mishandling accusations of racism by a team member and failing to ensure a healthy environment for Black athletes. In that context, touting the successes of Black gymnasts at that time could be seen as insensitive and exploitative.</li>
-                        </ul>
-                    <li>Where will the primary audience encounter the work (print or digital; billboard or ad; article or speech?) Does this impact how much context you can provide (i.e. print ad vs. article)? Can you provide enough context to minimize the chance of misunderstanding or misinterpretation?</li>
-                    <li>Is there a colleague, campus partner, or other resource that you can appropriately consult about any of the above?</li>
-                    <li>Have you appropriately given credit to the colleague, campus partner, or resource for their contribution? This could be a verbal or written acknowledgement to those contributors in the right forum, not necessarily on the work itself. This is a powerful equity-and-inclusion practice.</li>
-                </ul>
-            </div>
-		</div>
-		<div id="content" class="page-content">
-			<div class="page-section">
-				<h2>Content</h2>
-				<p>Our work can either reinforce or challenge entrenched hierarchies, norms, stereotypes and narratives. We determine both who is represented and how they are represented. Consider the following questions as you assess whose perspective is centered, leading or normalized and whose is marginal, supporting, or tokenized in your work:</p>
-				<h3>Image Selection</h3>
-				<ul class="unordered-list" style="margin-bottom:24px;">
-					<li>Who is represented? Who is missing?</li>
-					<li>Is there an opportunity to contextually and appropriately include people from underrepresented backgrounds, including people with disabilities?</li>
-					<li>Make a plan for diverse and inclusive casting for images and video. Anticipate and work through the challenges that may arise in that process. (Remember, “diverse” is a term to describe groups, not individuals. Someone from Ethiopia is not more or less diverse than someone from Armenia).</li>
-				</ul>
-				<div class="grid-container">
-					<div class="grid-item">
-							<img src="/images/fundamentals/edi/Grid_img_1.jpg" alt="">
-					</div>
-					<div class="grid-item">
-							<img src="/images/fundamentals/edi/Grid_img_2.jpg" alt="">
-					</div>
-					<div class="grid-item">
-							<img src="/images/fundamentals/edi/Grid_img_3.jpg" alt="">
-					</div>  
-					<div class="grid-item">
-							<img src="/images/fundamentals/edi/Grid_img_4.jpg" alt="">
-					</div>
-				</div>
-				<p><strong>Stereotypes</strong> – We want to ask not just if we are including a diverse range of people but also how we are including people.</p>
-				<ul class="unordered-list">
-					<li>Who is shown leading? Who is listening or following? Who is studying vs. socializing? Who is shown as professional vs. casual?</li>
-					<li>Example: Are men depicted as more authoritative or in positions of power while women are more passive?</li>
-					<li>Think similarly about race. Are BIPOC Bruins shown as intellectual (e.g. researchers, professors) or strictly as physical (e.g., athletes) or strictly as cultural (e.g. performers).</li>
-					<li>Is there an opportunity to counter stereotypes by diversifying image selection?</li>
-					<li>Appropriate to the purpose of the image and setting, are we showing people in the best possible light?</li>
-					<li>Are we unintentionally reinforcing any stereotypes?</li>
-				</ul>
-				<p style="margin-top:24px;">Example: For a UCLA Newsroom story about the Asian American Studies Center (AASC), StratComm staff selected this image to potentially accompany the piece:</p>
-				<figure>
-					<img src="/images/fundamentals/edi/EDI_Image_1.jpg" alt="">
-				</figure>
-				<p>After running the first image below past the AASC, we learned that the qipao-style dress in the photo can come across as fetishizing and stereotyping.</p>
-				<p>Instead we used the second image.</p>
-				<figure>
-					<img src="/images/fundamentals/edi/EDI_Family.jpg" alt="">
-				</figure>
-				<ul class="unordered-list">
-					<li>Is the content meant to be representative or aspirational?</li>
-					<li>If content is meant to encourage participation of underrepresented groups, it might make sense that those groups are somewhat overrepresented in certain outreach material.</li>
-					<li>If content is meant to be representative we should not grossly overrepresent those groups.</li>
-						<ul class="unordered-list">
-							<li>Example: Photos of predominantly Black events, such as Black Bruin Resource Center events, could be used to illustrate Black life on campus. But if used to suggest the average classroom is predominantly Black, this would overrepresent Black students and use their image to misrepresent campus demographics.</li>
-						</ul>
-				</ul>
-				<h3>Language and Text</h3>
-				<ul class="unordered-list" style="margin-bottom:24px;">
-					<li>What is the goal of the text? Agreeing on the goal allows every team member to be explicitly on the same page about priorities and themes of the work.</li>
-					<li>Is the university presented as a “savior” of the community or as a partner with the Community?</li>
-					<li>How have we written about the subject in the past? What did we learn from that Experience?</li>
-					<li>Have we neglected the subject in the past? Is there an opportunity to make an overlooked perspective or community more visible or elevate an underrepresented Voice?</li>
-						<ul class="unordered-list">
-							<li>Example: To center the experiences of those we are celebrating during heritage months, Pride Month, etc the social media team regularly posts student-generated content.</li>
-						</ul>
-				</ul>
-				<h3>Perspective</h3>
-				<ul class="unordered-list" style="margin-bottom:24px;">
-					<li>Whose perspective or experience is centered in the language, imagery or process?</li>
-					<li>Perspective is not always neutral. Unexamined assumptions are often present in language and these can be a reflection of unacknowledged cultural biases. Assumptions made from one person’s limited perspective can be harmful to others.</li>
-						<ul class="unordered-list">
-							<li>Examples:</li>
-								<ul class="unordered-list">
-									<li>“Columbus discovered America” has been often presented as an objective fact. But it has come to be understood as a Euro-centric viewpoint, which erases the presence, experiences and perspectives of indigenous people who already lived here.</li>
-									<li>The U.S. government used the word “internment” to describe the process of detaining and relocating Japanese and Japanese-Americans to camps during World War II. To the communities targeted, the camps were systems of incarceration. We use the term “incarceration camps” rather than “internment camps” in order to center the experience of the most-affected people, rather than the perspective of those who perpetrated the harm.</li>
-									<li>Jewish people traditionally refer to their scriptures as the Hebrew Bible or Torah. To use the term “Old Testament” is to impose a Christian framing on Jewish texts (i.e. that they are outdated or superseded).</li>
-									<li>Language choice can also presume ability status or denigrate those with disabilities. For example, “lame” is used as a term of derision but it is actually a physical disability of the legs, the phrase “the blind leading the blind” suggests the sightless are worthless.</li>
-								</ul>
-						</ul>
-					<li>Are we being respectful by referring to people with the language they prefer?</li>
-						<ul class="unordered-list">
-							<li>Generally, transgender people will prefer to be called by their chosen name and with the gender pronouns that best match their identity. If pronouns are not provided, ask. If pronouns are provided, use them. If gender-neutral pronouns are preferred, use them in the same way you would any other pronoun. For example, “I’ve enjoyed my time as a grad student,” they said.</li>
-							<li>While English-speakers typically use the term “Navajo” many in that Native American community prefer to call themselves “Diné. (Pronounced <a href="https://navajowotd.com/word/dineh/">Din-eh</a>) ”</li>	
-						</ul>
-					<li>Is there an opportunity to counter stereotypes through how we describe people? Are we using words that may be gendered (e.g. shrill) or have other stereotypical usage or even subtle negative connotations associations?</li>
-					<li>Know that there are common words and phrases that may have problematic histories or are outdated.</li>
-						<ul class="unordered-list">
-							<li>Examples:</li>
-								<ul class="unordered-list">
-									<li>The terms “well-spoken” and “articulate” generally are not compliments when applied to people of color. They are, in fact, examples of unconscious bias. They suggest that it is surprising or noteworthy that a person of color is verbally skilled, rather than conveying an expectation that a person of color would have such skill. If you are referring to a person who is particularly eloquent, it is better to use something like “eloquent,” “compelling,” “persuasive” or other more-specific descriptive Language.</li>
-									<li>We should avoid the common phrase “civil discourse.” The call for “civil discourse” can be a way of delegitimizing unpopular views and presumes a colonialist assumption that one party in a conversation, dialogue or issue is “civilized” and another is not. A better option would be simply “respectful dialogue” or “meaningful dialogue.”</li>
-									<li>The phrase “keep the trains running on time” that is often used as a description of efficiency is rooted in reference to Benito Mussolini, Italy's fascist leader and Hitler ally. Post-WWII the phrase “at least Mussolini made the trains run on time” emerged—a phrase that implicitly excuses or justifies racist brutality in the name of efficiency.</li>
-								</ul>
-						</ul>
-				</ul>
-				<h3>Events</h3>
-				<ul class="unordered-list" style="margin-bottom:24px;">
-					<li>Are there cultural events, observances (e.g. religious holidays), or practices (dietary requirements) that will prevent someone from participating or alter how they engage?</li>
-					<li>Is the menu or invitation considerate of all dietary preferences, restrictions, limitations?</li>
-					<li>Do the speakers or panels include diverse cultural, gender, orientation, or ability representation?</li>
-					<li>Are diverse opinions or perspectives represented, if appropriate for the topic?</li>
-					<li>Is the event accessible to people of various physical abilities and limitations, whether virtual or in-person?</li>
-					<li>Is there a cost associated with the event (tickets, parking, etc.)? Are there opportunities to make the event accessible to people of various income levels (i.e. subsidized tickets or access to virtual components of the event)?</li>
-					<li>Is there an opportunity to diversify the guest list? Are there campus partners who can help identify people or groups to include?</li>
-					<li>Is there an opportunity to diversify the vendors we hire?</li>
-						<ul class="unordered-list">
-							<li>UCLA Alumni has a database of alumni-owned vendors,</li>
-							<li>UCLA Procurement has a new <a href="https://purchasing.ucla.edu/small-business-first-program">Small Business First Program</a></li>
-						</ul>
-					<li>Has the <a href="https://docs.google.com/document/d/1iXMXcM2WKPXKZafS2FTPOAhN1hSWzDJZ-6zWT0C25kY/edit">land acknowledgement</a> been appropriately incorporated?</li>
-				</ul>
-				<p>Reference the image and copy section of the content guidelines for all supporting event materials.</p>
-
-			</div>
-		</div>
-		<div id="resources" class="page-content">
-			<div class="page-section">
-				<h2>Resources</h2>
-				<p>These websites contain helpful resources that can also inform our work.</p>
-				<p><strong>UCLA Newsroom Style Guide</strong></p>
-				<p><a href="https://docs.google.com/document/d/13uqABIxFPCxsTi4dZOyhJ4vmgz30ANVemYJT00xcLXc/edit"> https://docs.google.com/document/d/13uqABIxFPCxsTi4dZOyhJ4vmgz30ANVemYJT00xcLXc/edit?usp=sharing</a></p>
-				<p><strong>Campus groups</strong></p>
-				<ul class="unordered-list" style="margin-bottom:24px;">
-					<li><a href="https://www.iac.ucla.edu/">https://www.iac.ucla.edu/</a></li>
-					<li><a href="https://lgbtq.ucla.edu/">https://lgbtq.ucla.edu/</a></li>
-					<li><a href="https://cae.ucla.edu/">https://cae.ucla.edu/</a></li>
-					<li><a href="https://equity.ucla.edu/">https://equity.ucla.edu/</a></li>
-					<li><a href="https://dcp.ucla.edu/">https://dcp.ucla.edu/</a></li>
-				</ul>
-				<p><strong>Glossary of EDI-related language</strong></p>
-				<ul class="unordered-list" style="margin-bottom:24px;">
-					<li><a href="https://www.racialequitytools.org/glossary">https://www.racialequitytools.org/glossary</a></li>
-				</ul>
-				<p><strong>EDI style guidance</strong></p>
-				<ul class="unordered-list" style="margin-bottom:24px;">
-					<li><a href="https://www.diversitystyleguide.com/">https://www.diversitystyleguide.com/</a></li>
-					<li><a href="https://www.raceforward.org/reporting-guide">https://www.raceforward.org/reporting-guide</a></li>
-					<li>https://consciousstyleguide.com/</li>
-					<li>Asian American Journalists Association (<a href="https://www.aaja.org/news-and-resources/guidances/">multiple guides</a>)</li>
-					<li>National Hispanic Journalists Association <a href="https://nahj.org/wp-content/uploads/2021/03/NAHJ-Cultural-Compliance-Handbook-Revised-12-20-2.pdf">Cultural Competence Handbook</a>.</li>
-					<li>Native American Journalists Association <a href="https://najanewsroom.com/wp-content/uploads/2020/10/2020-NAJA-Tribal-Nations-Media-Guide-1.pdf">Tribal Nations Media Guide</a></li>
-					<li><a href="https://transequality.org/issues/resources/fact-sheet-writing-about-transgender-people-and-issues">https://transequality.org/issues/resources/fact-sheet-writing-about-transgender-people-and-issues</a></li>
-					<li><a href="https://www.glaad.org/sites/default/files/GLAAD-Media-Reference-Guide-Tenth-Edition.pdf">https://www.glaad.org/sites/default/files/GLAAD-Media-Reference-Guide-Tenth-Edition.pdf</a></li>
-					<li><a href="https://www.cdrnys.org/disability-writing-journalism-guidelines/">https://www.cdrnys.org/disability-writing-journalism-guidelines/</a></li>
-					<li><a href="https://www.unitedspinal.org/pdf/DisabilityEtiquette.pdf">https://www.unitedspinal.org/pdf/DisabilityEtiquette.pdf</a></li>
-					<li>Examples of “<a href="https://blog.pageproof.com/what-is-inclusive-design-with-best-in-class-examples/?utm_source=CreativePro+Network+List&utm_campaign=e2ffd12a34-sponsored-pageproof2-da11y&utm_medium=email&utm_term=0_98b7b678b4-e2ffd12a34-263156969&mc_cid=e2ffd12a34&mc_eid=5bc2e03bf8">Best-in-Class</a>” inclusive design</li>
-				</ul>
-				<p><strong>For further reading/watching:</strong></p>
-				<ul class="unordered-list" style="margin-bottom:24px;">
-				<li>Check out this <a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1baAZI2tNOw6uYVjUYXr_ZCkcQreOvky92dfeq-E6vGw&font=Default&lang=en&initial_zoom=2&height=650">timeline</a> for information on UCLA repatriation efforts.</li>
-				<li>For a deeper-dive on land-grant institutions read this <a href="https://www.hcn.org/issues/52.4/indigenous-affairs-education-land-grab-universities">High Country News</a> article.</li>
-				<li>Other industry guides:</li>
-					<ul class="unordered-list">
-						<li>We’re not the only ones creating a document like this. Other organizations are taking this seriously.</li>
-							<ul class="unordered-list">
-								<li><a href="https://all-in.withgoogle.com/">Google’s Inclusive Marketing Guide</a></li>
-								<li><a href="https://dei.amazonstudios.com/inclusion-playbook/">Amazon’s Inclusion Playbook</a></li>
-							</ul>
-					</ul>
-				</ul>
-				<button class="btn btn--secondary--lightbg"><a href="/assets/edi/EDI_PDF.pdf" style="text-decoration:none;">Download PDF</a></button>
-			
-			
-			
-			
-			
-			
-			</div>
-		</div>
-
-	</div>
-
-
-
-<footer id="footer">
-			<div class="wrapper">
-				<img class="logo" src="/images/logo-stratcomm.svg" alt="UCLA Strategic Communications logo">
-				<div class="footer-content">
-					<div class="col-1">
-						<p>
-							10889 Wilshire Blvd. | Ste 1400<br>
-							Los Angeles, CA 90024<br>
-						</p>
-						<p class="contact">
-							<ul>
-								<li><a class="gtm-footer-link-phone" href="tel:3108254321">(310) 825-4321</a></li>
-								<li><a class="gtm-footer-link-mailto" href="mailto:brand@stratcomm.ucla.edu">brand@stratcomm.ucla.edu</a></li>
-							</ul>
-						</p>
-					</div>
-					<div class="col-2">
-						<div class="h5">Learn More</div>
-							<ul>
-								<li><a class="gtm-footer-link-internal gtm-download-file-pdf" href="/assets/ucla-brand-glossary.pdf" target="_blank" data-button-name="Glossary Footer">Glossary (PDF 52KB)</a></li>
-								<li><a class="gtm-footer-link-internal" href="/resources">Resources</a></li>
-							</ul>
-					</div>
-					<div class="col-3">
-						<div class="h5">Related Websites</div>
-							<ul>
-								<li><a class="gtm-footer-link-outbound" href="https://www.marks.ucla.edu" target="_blank">Permission to use UCLA Marks</a></li>
-								<li><a class="gtm-footer-link-outbound" href="http://socialmedia.ucla.edu" target="_blank">Social Media at UCLA</a></li>
-								<li><a class="gtm-footer-link-outbound" href="http://identity.uclahealth.org" target="_blank">UCLA Health Identity</a></li>
-								<li><a class="gtm-footer-link-outbound" href="https://asucla.ucla.edu/licensing/" target="_blank">UCLA Trademarks and Licensing</a></li>
-								<li><a class="gtm-footer-link-outbound" href="https://www.adminvc.ucla.edu/marks/report-a-violation" target="_blank">Report improper use of UCLA Marks</a></li>
-							</ul>
-					</div>
-				</div>
-				<div class="sign-up">
-					<div class="blurb">
-						<div class="h5">Stay Informed</div>
-						Join the brand guidelines email list to hear about resources and updates
-					</div>
-
-					<div id="form-messages">
-						<form id="email-signup" method="post" action="/api/newsletter" pageId="22355370" siteId="549861" parentPageId="22355367" autocomplete="off">
-							<div class="field email-field">
-								<input type="text" name="Email" id="control_EMAIL" label="Email" class="textInput defaultText" placeholder="Your Email Address" aria-label="Your Email Address" required>
-								<input type="hidden" name="formSourceName" value="StandardForm"><!-- DO NOT REMOVE HIDDEN FIELD sp_exp --><input type="hidden" name="sp_exp" value="yes">
-							</div>
-							<div class="field submit-field">
-								<input type="submit" class="btn yellow gtm-footer-email-signup" value="Sign Up" aria-label="Sign Up">
-							</div>
-							<p class="warning">Please enter a valid email.</p>
-						</form>
-					</div>
-					<div id="success" class="hide">
-						<img src="/images/outline-check-circle.svg" alt="">
-						<p>Your email was submitted. Please check your inbox to complete your registration.</p>
-					</div>
-
-				</div>
-				<div class="legal">
-					<div id="regents">&copy;2024 Regents of the <a href="https://www.universityofcalifornia.edu" target="_blank">University of California</a></div>
-					<div class="global-links">
-						<a class="gtm-footer-link-outbound" href="http://www.ucla.edu/terms-of-use" target="_blank">Terms of Use</a>
-						<a class="gtm-footer-link-outbound" href="http://www.ucla.edu/accessibility" target="_blank">Accessibility</a>
-						<!--
-						<a class="gtm-footer-link-outbound" href="#">Emergency</a>
-						-->
-					</div>
-				</div>
-			</div>
-		</footer>
-
-		<script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
-		<script src="/vendors/fancybox-master/dist/jquery.fancybox.min.js"></script>
-
-		
-		<script src="https://www.brand.ucla.edu/js/main.js" ></script>
-
-		<script type="text/javascript">
-			$(document).ready( function() {
-				$('a.fancybox').fancybox();
-			});
-
-						</script>
-		<!-- test -->
-	</body>
-</html>
+Brand Guidelines | Fundamentals | Equity, Diversity & Inclusion
+Log In
+Equity, Diversity & Inclusion
+Audience
+Context
+Content
+Resources
+The EDI Content Guide consists of conversation starters to help us better reflect UCLA’s commitments to equity, diversity and inclusion.
+As communicators we have the opportunity to make UCLA’s public voice more inclusive of the experiences of historically underrepresented groups - people who’ve been excluded by virtue of their race, class, religion, ability, gender, gender expression, ethnicity, sexual orientation and more.
+The goal of these guidelines is to calibrate our approach to storytelling and design with the following EDI values in mind. We seek to:
+intentionally elevate underrepresented voices
+account for biases and blind spots that affect our work
+reflect the diversity of the communities we serve; and
+understand the context of our audience’s lived experience
+Perfection is not possible. Progress is.
+We understand that conventional wisdom, accepted ideas and language not only vary within and between communities, but also change over time. For instance, concepts like “tolerance” and “color-blindness” might have felt cutting-edge and empowering as responses to the realities of racism 50 years ago, but today may come across as patronizing and insensitive.
+Our standards must derive from ongoing conversation with one another and deep listening to the diverse populations we represent and to which we are responsible. We all have bias based on our experiences and backgrounds. That is natural. Our EDI strategy is to acknowledge that bias as we continually revisit our practices with curiosity, humility and determination to improve.
+While the EDI Council is here to support you, and during our normal review process can help you address any potential EDI concerns, we encourage you to work through the guidelines at the beginning of each project.
+Use these questions to guide the conversation as you develop programs, events, and multimedia content on behalf of UCLA.
+Audience
+Audiences are not monoliths. While the views of any group of people are not uniform, we need to be aware of how differences in race, class, age,culture, gender and other factors may influence how we approach our work and how diverse audiences will interpret text and image.
+Who is the primary audience? Who else may see the work beyond that audience?
+What do you know about the audiences (demographics, behaviors, abilities, etc.)?
+Are there potential sensitivities, stereotypes, positive or negative experiences that someone in the primary or broader audience might associate with your project? (See the Context section for more information)
+Further, our content should be accessible to audiences with differing physical and neurological abilities.
+Consider how your content might be perceived by people with physical disabilities.
+Are videos
+captioned to ADA standards?
+Is the color palette ADA compliant?
+For further ADA information refer to
+Brand Guidelines
+.
+Is
+alt-text appropriate and provided
+?
+Are there options to simplify complex language?
+Example: Newsroom “Key Takeaways” box.
+Context
+Our work is part of broader cultural and historical narratives. Pausing to consider those contexts is a critical part of creating inclusive, culturally competent content.
+How might the context in which your work is received affect how it is perceived?
+What themes or key messages are emphasized in this work?
+What is currently happening in the world--local, national, international--that may affect how people interact with your work? Look at the calendar, news cycle, social media trends, what’s happening on campus, etc.
+What historical events, experiences or controversies may affect how the primary audience interacts with your work?
+Does UCLA have a history with the subject—positive, negative or neutral—that may impact how your work is received?
+Example: In 2021, a former UCLA Gymnastics coach and UCLA Athletics administration came under public criticism for mishandling accusations of racism by a team member and failing to ensure a healthy environment for Black athletes. In that context, touting the successes of Black gymnasts at that time could be seen as insensitive and exploitative.
+Where will the primary audience encounter the work (print or digital; billboard or ad; article or speech?) Does this impact how much context you can provide (i.e. print ad vs. article)? Can you provide enough context to minimize the chance of misunderstanding or misinterpretation?
+Is there a colleague, campus partner, or other resource that you can appropriately consult about any of the above?
+Have you appropriately given credit to the colleague, campus partner, or resource for their contribution? This could be a verbal or written acknowledgement to those contributors in the right forum, not necessarily on the work itself. This is a powerful equity-and-inclusion practice.
+Content
+Our work can either reinforce or challenge entrenched hierarchies, norms, stereotypes and narratives. We determine both who is represented and how they are represented. Consider the following questions as you assess whose perspective is centered, leading or normalized and whose is marginal, supporting, or tokenized in your work:
+Image Selection
+Who is represented? Who is missing?
+Is there an opportunity to contextually and appropriately include people from underrepresented backgrounds, including people with disabilities?
+Make a plan for diverse and inclusive casting for images and video. Anticipate and work through the challenges that may arise in that process. (Remember, “diverse” is a term to describe groups, not individuals. Someone from Ethiopia is not more or less diverse than someone from Armenia).
+Stereotypes
+– We want to ask not just if we are including a diverse range of people but also how we are including people.
+Who is shown leading? Who is listening or following? Who is studying vs. socializing? Who is shown as professional vs. casual?
+Example: Are men depicted as more authoritative or in positions of power while women are more passive?
+Think similarly about race. Are BIPOC Bruins shown as intellectual (e.g. researchers, professors) or strictly as physical (e.g., athletes) or strictly as cultural (e.g. performers).
+Is there an opportunity to counter stereotypes by diversifying image selection?
+Appropriate to the purpose of the image and setting, are we showing people in the best possible light?
+Are we unintentionally reinforcing any stereotypes?
+Example: For a UCLA Newsroom story about the Asian American Studies Center (AASC), StratComm staff selected this image to potentially accompany the piece:
+After running the first image below past the AASC, we learned that the qipao-style dress in the photo can come across as fetishizing and stereotyping.
+Instead we used the second image.
+Is the content meant to be representative or aspirational?
+If content is meant to encourage participation of underrepresented groups, it might make sense that those groups are somewhat overrepresented in certain outreach material.
+If content is meant to be representative we should not grossly overrepresent those groups.
+Example: Photos of predominantly Black events, such as Black Bruin Resource Center events, could be used to illustrate Black life on campus. But if used to suggest the average classroom is predominantly Black, this would overrepresent Black students and use their image to misrepresent campus demographics.
+Language and Text
+What is the goal of the text? Agreeing on the goal allows every team member to be explicitly on the same page about priorities and themes of the work.
+Is the university presented as a “savior” of the community or as a partner with the Community?
+How have we written about the subject in the past? What did we learn from that Experience?
+Have we neglected the subject in the past? Is there an opportunity to make an overlooked perspective or community more visible or elevate an underrepresented Voice?
+Example: To center the experiences of those we are celebrating during heritage months, Pride Month, etc the social media team regularly posts student-generated content.
+Perspective
+Whose perspective or experience is centered in the language, imagery or process?
+Perspective is not always neutral. Unexamined assumptions are often present in language and these can be a reflection of unacknowledged cultural biases. Assumptions made from one person’s limited perspective can be harmful to others.
+Examples:
+“Columbus discovered America” has been often presented as an objective fact. But it has come to be understood as a Euro-centric viewpoint, which erases the presence, experiences and perspectives of indigenous people who already lived here.
+The U.S. government used the word “internment” to describe the process of detaining and relocating Japanese and Japanese-Americans to camps during World War II. To the communities targeted, the camps were systems of incarceration. We use the term “incarceration camps” rather than “internment camps” in order to center the experience of the most-affected people, rather than the perspective of those who perpetrated the harm.
+Jewish people traditionally refer to their scriptures as the Hebrew Bible or Torah. To use the term “Old Testament” is to impose a Christian framing on Jewish texts (i.e. that they are outdated or superseded).
+Language choice can also presume ability status or denigrate those with disabilities. For example, “lame” is used as a term of derision but it is actually a physical disability of the legs, the phrase “the blind leading the blind” suggests the sightless are worthless.
+Are we being respectful by referring to people with the language they prefer?
+Generally, transgender people will prefer to be called by their chosen name and with the gender pronouns that best match their identity. If pronouns are not provided, ask. If pronouns are provided, use them. If gender-neutral pronouns are preferred, use them in the same way you would any other pronoun. For example, “I’ve enjoyed my time as a grad student,” they said.
+While English-speakers typically use the term “Navajo” many in that Native American community prefer to call themselves “Diné. (Pronounced
+Din-eh
+) ”
+Is there an opportunity to counter stereotypes through how we describe people? Are we using words that may be gendered (e.g. shrill) or have other stereotypical usage or even subtle negative connotations associations?
+Know that there are common words and phrases that may have problematic histories or are outdated.
+Examples:
+The terms “well-spoken” and “articulate” generally are not compliments when applied to people of color. They are, in fact, examples of unconscious bias. They suggest that it is surprising or noteworthy that a person of color is verbally skilled, rather than conveying an expectation that a person of color would have such skill. If you are referring to a person who is particularly eloquent, it is better to use something like “eloquent,” “compelling,” “persuasive” or other more-specific descriptive Language.
+We should avoid the common phrase “civil discourse.” The call for “civil discourse” can be a way of delegitimizing unpopular views and presumes a colonialist assumption that one party in a conversation, dialogue or issue is “civilized” and another is not. A better option would be simply “respectful dialogue” or “meaningful dialogue.”
+The phrase “keep the trains running on time” that is often used as a description of efficiency is rooted in reference to Benito Mussolini, Italy's fascist leader and Hitler ally. Post-WWII the phrase “at least Mussolini made the trains run on time” emerged—a phrase that implicitly excuses or justifies racist brutality in the name of efficiency.
+Events
+Are there cultural events, observances (e.g. religious holidays), or practices (dietary requirements) that will prevent someone from participating or alter how they engage?
+Is the menu or invitation considerate of all dietary preferences, restrictions, limitations?
+Do the speakers or panels include diverse cultural, gender, orientation, or ability representation?
+Are diverse opinions or perspectives represented, if appropriate for the topic?
+Is the event accessible to people of various physical abilities and limitations, whether virtual or in-person?
+Is there a cost associated with the event (tickets, parking, etc.)? Are there opportunities to make the event accessible to people of various income levels (i.e. subsidized tickets or access to virtual components of the event)?
+Is there an opportunity to diversify the guest list? Are there campus partners who can help identify people or groups to include?
+Is there an opportunity to diversify the vendors we hire?
+UCLA Alumni has a database of alumni-owned vendors,
+UCLA Procurement has a new
+Small Business First Program
+Has the
+land acknowledgement
+been appropriately incorporated?
+Reference the image and copy section of the content guidelines for all supporting event materials.
+Resources
+These websites contain helpful resources that can also inform our work.
+UCLA Newsroom Style Guide
+https://docs.google.com/document/d/13uqABIxFPCxsTi4dZOyhJ4vmgz30ANVemYJT00xcLXc/edit?usp=sharing
+Campus groups
+https://www.iac.ucla.edu/
+https://lgbtq.ucla.edu/
+https://cae.ucla.edu/
+https://equity.ucla.edu/
+https://dcp.ucla.edu/
+Glossary of EDI-related language
+https://www.racialequitytools.org/glossary
+EDI style guidance
+https://www.diversitystyleguide.com/
+https://www.raceforward.org/reporting-guide
+https://consciousstyleguide.com/
+Asian American Journalists Association (
+multiple guides
+)
+National Hispanic Journalists Association
+Cultural Competence Handbook
+.
+Native American Journalists Association
+Tribal Nations Media Guide
+https://transequality.org/issues/resources/fact-sheet-writing-about-transgender-people-and-issues
+https://www.glaad.org/sites/default/files/GLAAD-Media-Reference-Guide-Tenth-Edition.pdf
+https://www.cdrnys.org/disability-writing-journalism-guidelines/
+https://www.unitedspinal.org/pdf/DisabilityEtiquette.pdf
+Examples of “
+Best-in-Class
+” inclusive design
+For further reading/watching:
+Check out this
+timeline
+for information on UCLA repatriation efforts.
+For a deeper-dive on land-grant institutions read this
+High Country News
+article.
+Other industry guides:
+We’re not the only ones creating a document like this. Other organizations are taking this seriously.
+Google’s Inclusive Marketing Guide
+Amazon’s Inclusion Playbook
+Download PDF
+10889 Wilshire Blvd. | Ste 1400
+Los Angeles, CA 90024
+(310) 825-4321
+brand@stratcomm.ucla.edu
+Learn More
+Glossary (PDF 52KB)
+Resources
+Related Websites
+Permission to use UCLA Marks
+Social Media at UCLA
+UCLA Health Identity
+UCLA Trademarks and Licensing
+Report improper use of UCLA Marks
+Stay Informed
+Join the brand guidelines email list to hear about resources and updates
+Please enter a valid email.
+Your email was submitted. Please check your inbox to complete your registration.
+©2024 Regents of the
+University of California
+Terms of Use
+Accessibility

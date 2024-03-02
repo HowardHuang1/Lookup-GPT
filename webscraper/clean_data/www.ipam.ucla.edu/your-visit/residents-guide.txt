@@ -1,748 +1,264 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <link rel="shortcut icon" href="https://www.ipam.ucla.edu/wp-content/themes/ipam/favicon.ico" />
-        <script type="text/javascript" src="//use.typekit.net/efo5ibm.js"></script>
-    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-    
-    <link href="https://www.ipam.ucla.edu/wp-content/themes/ipam/stylesheets/bootstrap.min.css" rel="stylesheet">
-    <link href="https://www.ipam.ucla.edu/wp-content/themes/ipam/stylesheets/main.css" rel="stylesheet">
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-	
-		<!-- All in One SEO 4.5.6 - aioseo.com -->
-		<title>Resident’s Guide - IPAM</title>
-		<meta name="description" content="This guide is intended for the use of long program participants who are visiting IPAM for up to three months, but other visitors may find the information helpful as well. If you don’t see the answer to your question on this page, please consult the Program Coordinator for your program." />
-		<meta name="robots" content="max-image-preview:large" />
-		<link rel="canonical" href="https://www.ipam.ucla.edu/your-visit/residents-guide/" />
-		<meta name="generator" content="All in One SEO (AIOSEO) 4.5.6" />
-		<meta property="og:locale" content="en_US" />
-		<meta property="og:site_name" content="IPAM - Institute for Pure &amp; Applied Mathematics" />
-		<meta property="og:type" content="article" />
-		<meta property="og:title" content="Resident’s Guide - IPAM" />
-		<meta property="og:description" content="This guide is intended for the use of long program participants who are visiting IPAM for up to three months, but other visitors may find the information helpful as well. If you don’t see the answer to your question on this page, please consult the Program Coordinator for your program." />
-		<meta property="og:url" content="https://www.ipam.ucla.edu/your-visit/residents-guide/" />
-		<meta property="article:published_time" content="2013-12-08T20:47:37+00:00" />
-		<meta property="article:modified_time" content="2020-10-18T20:09:26+00:00" />
-		<meta name="twitter:card" content="summary_large_image" />
-		<meta name="twitter:title" content="Resident’s Guide - IPAM" />
-		<meta name="twitter:description" content="This guide is intended for the use of long program participants who are visiting IPAM for up to three months, but other visitors may find the information helpful as well. If you don’t see the answer to your question on this page, please consult the Program Coordinator for your program." />
-		<script type="application/ld+json" class="aioseo-schema">
-			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.ipam.ucla.edu\/your-visit\/residents-guide\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.ipam.ucla.edu\/#listItem","position":1,"name":"Home","item":"https:\/\/www.ipam.ucla.edu\/","nextItem":"https:\/\/www.ipam.ucla.edu\/your-visit\/#listItem"},{"@type":"ListItem","@id":"https:\/\/www.ipam.ucla.edu\/your-visit\/#listItem","position":2,"name":"Your Visit","item":"https:\/\/www.ipam.ucla.edu\/your-visit\/","nextItem":"https:\/\/www.ipam.ucla.edu\/your-visit\/residents-guide\/#listItem","previousItem":"https:\/\/www.ipam.ucla.edu\/#listItem"},{"@type":"ListItem","@id":"https:\/\/www.ipam.ucla.edu\/your-visit\/residents-guide\/#listItem","position":3,"name":"Resident's Guide","previousItem":"https:\/\/www.ipam.ucla.edu\/your-visit\/#listItem"}]},{"@type":"Organization","@id":"https:\/\/www.ipam.ucla.edu\/#organization","name":"IPAM","url":"https:\/\/www.ipam.ucla.edu\/"},{"@type":"WebPage","@id":"https:\/\/www.ipam.ucla.edu\/your-visit\/residents-guide\/#webpage","url":"https:\/\/www.ipam.ucla.edu\/your-visit\/residents-guide\/","name":"Resident\u2019s Guide - IPAM","description":"This guide is intended for the use of long program participants who are visiting IPAM for up to three months, but other visitors may find the information helpful as well. If you don\u2019t see the answer to your question on this page, please consult the Program Coordinator for your program.","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/www.ipam.ucla.edu\/#website"},"breadcrumb":{"@id":"https:\/\/www.ipam.ucla.edu\/your-visit\/residents-guide\/#breadcrumblist"},"datePublished":"2013-12-08T20:47:37-08:00","dateModified":"2020-10-18T20:09:26-07:00"},{"@type":"WebSite","@id":"https:\/\/www.ipam.ucla.edu\/#website","url":"https:\/\/www.ipam.ucla.edu\/","name":"IPAM","description":"Institute for Pure & Applied Mathematics","inLanguage":"en-US","publisher":{"@id":"https:\/\/www.ipam.ucla.edu\/#organization"}}]}
-		</script>
-		<!-- All in One SEO -->
-
-
-	<!-- This site is optimized with the Yoast SEO plugin v20.8 - https://yoast.com/wordpress/plugins/seo/ -->
-	<link rel="canonical" href="https://www.ipam.ucla.edu/your-visit/residents-guide/" />
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Resident&#039;s Guide - IPAM" />
-	<meta property="og:description" content="This guide is intended for the use of long program participants who are visiting IPAM for up to three months, but other visitors may find the information helpful as well. If you don’t see the answer to your question on this page, please consult the [&hellip;]" />
-	<meta property="og:url" content="https://www.ipam.ucla.edu/your-visit/residents-guide/" />
-	<meta property="og:site_name" content="IPAM" />
-	<meta property="article:publisher" content="https://www.facebook.com/pages/Institute-for-Pure-and-Applied-Mathematics/212054778822783" />
-	<meta property="article:modified_time" content="2020-10-18T20:09:26+00:00" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:site" content="@ipam_ucla" />
-	<meta name="twitter:label1" content="Est. reading time" />
-	<meta name="twitter:data1" content="11 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.ipam.ucla.edu/your-visit/residents-guide/","url":"https://www.ipam.ucla.edu/your-visit/residents-guide/","name":"Resident's Guide - IPAM","isPartOf":{"@id":"https://www.ipam.ucla.edu/#website"},"datePublished":"2013-12-08T20:47:37+00:00","dateModified":"2020-10-18T20:09:26+00:00","breadcrumb":{"@id":"https://www.ipam.ucla.edu/your-visit/residents-guide/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.ipam.ucla.edu/your-visit/residents-guide/"]}]},{"@type":"BreadcrumbList","@id":"https://www.ipam.ucla.edu/your-visit/residents-guide/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.ipam.ucla.edu/"},{"@type":"ListItem","position":2,"name":"Your Visit","item":"https://www.ipam.ucla.edu/your-visit/"},{"@type":"ListItem","position":3,"name":"Resident&#8217;s Guide"}]},{"@type":"WebSite","@id":"https://www.ipam.ucla.edu/#website","url":"https://www.ipam.ucla.edu/","name":"IPAM","description":"Institute for Pure &amp; Applied Mathematics","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.ipam.ucla.edu/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
-	<!-- / Yoast SEO plugin. -->
-
-
-<link rel="alternate" type="application/rss+xml" title="IPAM &raquo; Resident&#8217;s Guide Comments Feed" href="https://www.ipam.ucla.edu/your-visit/residents-guide/feed/" />
-		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.24.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
-							<script src="//www.googletagmanager.com/gtag/js?id=G-BZ7VSVYE28"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
-			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
-				var mi_version = '8.24.0';
-				var mi_track_user = true;
-				var mi_no_track_reason = '';
-								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/www.ipam.ucla.edu\/your-visit\/residents-guide\/","page_referrer":"https:\/\/www.ipam.ucla.edu"};
-				if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
-					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
-				} else {
-					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
-				}
-
-								var disableStrs = [
-										'ga-disable-G-BZ7VSVYE28',
-									];
-
-				/* Function to detect opted out users */
-				function __gtagTrackerIsOptedOut() {
-					for (var index = 0; index < disableStrs.length; index++) {
-						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
-							return true;
-						}
-					}
-
-					return false;
-				}
-
-				/* Disable tracking if the opt-out cookie exists. */
-				if (__gtagTrackerIsOptedOut()) {
-					for (var index = 0; index < disableStrs.length; index++) {
-						window[disableStrs[index]] = true;
-					}
-				}
-
-				/* Opt-out function */
-				function __gtagTrackerOptout() {
-					for (var index = 0; index < disableStrs.length; index++) {
-						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
-						window[disableStrs[index]] = true;
-					}
-				}
-
-				if ('undefined' === typeof gaOptout) {
-					function gaOptout() {
-						__gtagTrackerOptout();
-					}
-				}
-								window.dataLayer = window.dataLayer || [];
-
-				window.MonsterInsightsDualTracker = {
-					helpers: {},
-					trackers: {},
-				};
-				if (mi_track_user) {
-					function __gtagDataLayer() {
-						dataLayer.push(arguments);
-					}
-
-					function __gtagTracker(type, name, parameters) {
-						if (!parameters) {
-							parameters = {};
-						}
-
-						if (parameters.send_to) {
-							__gtagDataLayer.apply(null, arguments);
-							return;
-						}
-
-						if (type === 'event') {
-														parameters.send_to = monsterinsights_frontend.v4_id;
-							var hookName = name;
-							if (typeof parameters['event_category'] !== 'undefined') {
-								hookName = parameters['event_category'] + ':' + name;
-							}
-
-							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
-								MonsterInsightsDualTracker.trackers[hookName](parameters);
-							} else {
-								__gtagDataLayer('event', name, parameters);
-							}
-							
-						} else {
-							__gtagDataLayer.apply(null, arguments);
-						}
-					}
-
-					__gtagTracker('js', new Date());
-					__gtagTracker('set', {
-						'developer_id.dZGIzZG': true,
-											});
-					if ( MonsterInsightsLocations.page_location ) {
-						__gtagTracker('set', MonsterInsightsLocations);
-					}
-										__gtagTracker('config', 'G-BZ7VSVYE28', {"forceSSL":"true","link_attribution":"true"} );
-															window.gtag = __gtagTracker;										(function () {
-						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
-						/* ga and __gaTracker compatibility shim. */
-						var noopfn = function () {
-							return null;
-						};
-						var newtracker = function () {
-							return new Tracker();
-						};
-						var Tracker = function () {
-							return null;
-						};
-						var p = Tracker.prototype;
-						p.get = noopfn;
-						p.set = noopfn;
-						p.send = function () {
-							var args = Array.prototype.slice.call(arguments);
-							args.unshift('send');
-							__gaTracker.apply(null, args);
-						};
-						var __gaTracker = function () {
-							var len = arguments.length;
-							if (len === 0) {
-								return;
-							}
-							var f = arguments[len - 1];
-							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
-								if ('send' === arguments[0]) {
-									var hitConverted, hitObject = false, action;
-									if ('event' === arguments[1]) {
-										if ('undefined' !== typeof arguments[3]) {
-											hitObject = {
-												'eventAction': arguments[3],
-												'eventCategory': arguments[2],
-												'eventLabel': arguments[4],
-												'value': arguments[5] ? arguments[5] : 1,
-											}
-										}
-									}
-									if ('pageview' === arguments[1]) {
-										if ('undefined' !== typeof arguments[2]) {
-											hitObject = {
-												'eventAction': 'page_view',
-												'page_path': arguments[2],
-											}
-										}
-									}
-									if (typeof arguments[2] === 'object') {
-										hitObject = arguments[2];
-									}
-									if (typeof arguments[5] === 'object') {
-										Object.assign(hitObject, arguments[5]);
-									}
-									if ('undefined' !== typeof arguments[1].hitType) {
-										hitObject = arguments[1];
-										if ('pageview' === hitObject.hitType) {
-											hitObject.eventAction = 'page_view';
-										}
-									}
-									if (hitObject) {
-										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
-										hitConverted = mapArgs(hitObject);
-										__gtagTracker('event', action, hitConverted);
-									}
-								}
-								return;
-							}
-
-							function mapArgs(args) {
-								var arg, hit = {};
-								var gaMap = {
-									'eventCategory': 'event_category',
-									'eventAction': 'event_action',
-									'eventLabel': 'event_label',
-									'eventValue': 'event_value',
-									'nonInteraction': 'non_interaction',
-									'timingCategory': 'event_category',
-									'timingVar': 'name',
-									'timingValue': 'value',
-									'timingLabel': 'event_label',
-									'page': 'page_path',
-									'location': 'page_location',
-									'title': 'page_title',
-									'referrer' : 'page_referrer',
-								};
-								for (arg in args) {
-																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
-										hit[gaMap[arg]] = args[arg];
-									} else {
-										hit[arg] = args[arg];
-									}
-								}
-								return hit;
-							}
-
-							try {
-								f.hitCallback();
-							} catch (ex) {
-							}
-						};
-						__gaTracker.create = newtracker;
-						__gaTracker.getByName = newtracker;
-						__gaTracker.getAll = function () {
-							return [];
-						};
-						__gaTracker.remove = noopfn;
-						__gaTracker.loaded = true;
-						window['__gaTracker'] = __gaTracker;
-					})();
-									} else {
-										console.log("");
-					(function () {
-						function __gtagTracker() {
-							return null;
-						}
-
-						window['__gtagTracker'] = __gtagTracker;
-						window['gtag'] = __gtagTracker;
-					})();
-									}
-			</script>
-				<!-- / Google Analytics by MonsterInsights -->
-		<script type="text/javascript">
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ipam.ucla.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.3"}};
-/*! This file is auto-generated */
-!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
-</script>
-<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 0.07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-	<link rel='stylesheet' id='bootstrap_tab-css' href='https://www.ipam.ucla.edu/wp-content/plugins/easy-responsive-tabs/assets/css/bootstrap_tab.min.css?ver=6.3.3' type='text/css' media='all' />
-<link rel='stylesheet' id='bootstrap_dropdown-css' href='https://www.ipam.ucla.edu/wp-content/plugins/easy-responsive-tabs/assets/css/bootstrap_dropdown.min.css?ver=6.3.3' type='text/css' media='all' />
-<link rel='stylesheet' id='ert_tab_icon_css-css' href='https://www.ipam.ucla.edu/wp-content/plugins/easy-responsive-tabs/assets/css/res_tab_icon.css?ver=6.3.3' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-css' href='https://www.ipam.ucla.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.3.3' type='text/css' media='all' />
-<style id='classic-theme-styles-inline-css' type='text/css'>
-/*! This file is auto-generated */
-.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
-</style>
-<style id='global-styles-inline-css' type='text/css'>
-body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
-.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
-:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
-:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
-.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
-</style>
-<link rel='stylesheet' id='contact-form-7-css' href='https://www.ipam.ucla.edu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.6' type='text/css' media='all' />
-<link rel='stylesheet' id='sedlex_styles-css' href='https://www.ipam.ucla.edu/wp-content/sedlex/inline_styles/6eb86a46dba7b7014c3ca5b60295946fe81eecea.css?ver=20240221' type='text/css' media='all' />
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.24.0' id='monsterinsights-frontend-script-js'></script>
-<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
-var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/www.ipam.ucla.edu","hash_tracking":"false","v4_id":"G-BZ7VSVYE28"};/* ]]> */
-</script>
-<link rel="https://api.w.org/" href="https://www.ipam.ucla.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://www.ipam.ucla.edu/wp-json/wp/v2/pages/149" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ipam.ucla.edu/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 6.3.3" />
-<link rel='shortlink' href='https://www.ipam.ucla.edu/CJCsY' />
-<link rel="alternate" type="application/json+oembed" href="https://www.ipam.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ipam.ucla.edu%2Fyour-visit%2Fresidents-guide%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.ipam.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ipam.ucla.edu%2Fyour-visit%2Fresidents-guide%2F&#038;format=xml" />
-		<style type="text/css" id="wp-custom-css">
-			a.anchor {
-    display: block;
-    position: relative;
-    top: -70px;
-    visibility: hidden;
-}		</style>
-		<style id="wpforms-css-vars-root">
-				:root {
-					--wpforms-field-border-radius: 3px;
---wpforms-field-background-color: #ffffff;
---wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
---wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
---wpforms-label-color: rgba( 0, 0, 0, 0.85 );
---wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
---wpforms-label-error-color: #d63637;
---wpforms-button-border-radius: 3px;
---wpforms-button-background-color: #066aab;
---wpforms-button-text-color: #ffffff;
---wpforms-field-size-input-height: 43px;
---wpforms-field-size-input-spacing: 15px;
---wpforms-field-size-font-size: 16px;
---wpforms-field-size-line-height: 19px;
---wpforms-field-size-padding-h: 14px;
---wpforms-field-size-checkbox-size: 16px;
---wpforms-field-size-sublabel-spacing: 5px;
---wpforms-field-size-icon-size: 1;
---wpforms-label-size-font-size: 16px;
---wpforms-label-size-line-height: 19px;
---wpforms-label-size-sublabel-font-size: 14px;
---wpforms-label-size-sublabel-line-height: 17px;
---wpforms-button-size-font-size: 17px;
---wpforms-button-size-height: 41px;
---wpforms-button-size-padding-h: 15px;
---wpforms-button-size-margin-top: 10px;
-
-				}
-			</style></head>
-
-<body>
-	<div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=340487822771421";
-      fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
-    </script>
-    
-    <div id="mobile-nav">
-        <div class="navbar navbar-default" role="navigation">
-           <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="https://www.ipam.ucla.edu/"> 
-					<img src="https://www.ipam.ucla.edu/wp-content/themes/ipam/img/logo.png" height="60" alt="IPAM logo" />
-				</a>
-            </div>
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav"><li class="dropdown"><a href="https://www.ipam.ucla.edu/programs/" class="dropdown-toggle" data-toggle="dropdown">Programs</a><ul class="dropdown-menu"><li><a href="https://www.ipam.ucla.edu/programs/long-programs/">Long Programs</a></li><li><a href="https://www.ipam.ucla.edu/programs/workshops/">Workshops</a></li><li><a href="https://www.ipam.ucla.edu/programs/public-lectures-events/">Public Lectures</a></li><li><a href="https://www.ipam.ucla.edu/programs/summer-schools/">Summer Schools</a></li><li><a href="https://www.ipam.ucla.edu/programs/special-events-and-conferences/">Special Events and Conferences</a></li><li><a href="https://www.ipam.ucla.edu/programs/student-research-programs/">Student Research Programs</a></li><li><a href="https://www.ipam.ucla.edu/propose-a-program/long-programs-2/">Propose a Program</a></li></ul></li><li class="dropdown"><a href="https://www.ipam.ucla.edu/news-research/" class="dropdown-toggle" data-toggle="dropdown">News &#038; Research</a><ul class="dropdown-menu"><li><a href="https://www.ipam.ucla.edu/news/">News</a></li><li><a href="https://www.ipam.ucla.edu/interviews/">Interviews</a></li><li><a href="https://www.ipam.ucla.edu/research-articles/">Research Articles</a></li><li><a href="https://www.ipam.ucla.edu/ipam-newsletter/">IPAM Newsletter</a></li><li><a href="https://www.ipam.ucla.edu/press-releases/">Press Releases</a></li></ul></li><li class="dropdown"><a href="https://www.ipam.ucla.edu/people/" class="dropdown-toggle" data-toggle="dropdown">People</a><ul class="dropdown-menu"><li><a href="https://www.ipam.ucla.edu/building-directory/">Building Directory</a></li><li><a href="https://www.ipam.ucla.edu/people/directors/">Directors</a></li><li><a href="https://www.ipam.ucla.edu/people/board-of-trustees/">Board of Trustees</a></li><li><a href="https://www.ipam.ucla.edu/people/science-advisory-board/">Science Advisory Board</a></li><li><a href="https://www.ipam.ucla.edu/people/staff/">Staff</a></li><li><a href="https://www.ipam.ucla.edu/people/simons-participants/">Simons Participants</a></li></ul></li><li class="dropdown"><a href="https://www.ipam.ucla.edu/about-ipam/" class="dropdown-toggle" data-toggle="dropdown">About IPAM</a><ul class="dropdown-menu"><li><a href="https://www.ipam.ucla.edu/about-ipam/today-at-ipam/">Today at IPAM</a></li><li><a href="https://www.ipam.ucla.edu/about-ipam/about-ucla/">About UCLA</a></li><li><a href="https://www.ipam.ucla.edu/about-ipam/diversity/">Equity, Diversity, and Inclusion at IPAM</a></li><li><a href="https://www.ipam.ucla.edu/about-ipam/annual-report/">NSF Grants</a></li></ul></li>             </div>
-         </div>
-        <div class="tr">
-                        <script>
-              (function() {
-                var cx = '005565527351693571690:a4uyfgvztxm';
-                var gcse = document.createElement('script');
-                gcse.type = 'text/javascript';
-                gcse.async = true;
-                gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-                    '//www.google.com/cse/cse.js?cx=' + cx;
-                var s = document.getElementsByTagName('script')[0];
-                s.parentNode.insertBefore(gcse, s);
-              })();
-            </script>
-            <gcse:search></gcse:search>
-        </div>
-    </div>
-    
-    
-    <div id="header-holder" class="content w1200">
-        <div class="col-sm-12">
-            <div id="header">
-                <div id="header_left" class="fl">
-                    <a href="https://www.ipam.ucla.edu/">
-                        <img src="https://www.ipam.ucla.edu/wp-content/themes/ipam/img/logo.png" height="80" alt="IPAM logo" style="padding-top:15px;" />
-                    </a>
-                </div>
-                <div id="header_right" class="fr">
-                                        <script>
-                      (function() {
-                        var cx = '008253621426482094189:j92_vvpwrcc';
-                        var gcse = document.createElement('script');
-                        gcse.type = 'text/javascript';
-                        gcse.async = true;
-                        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-                            '//www.google.com/cse/cse.js?cx=' + cx;
-                        var s = document.getElementsByTagName('script')[0];
-                        s.parentNode.insertBefore(gcse, s);
-                      })();
-                    </script>
-                    <gcse:search></gcse:search>
-					<div class="clearfix"></div>
-					<ul id="menu-header-menu" class="fr"><li id="menu-item-396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-396"><a href="https://www.ipam.ucla.edu/programs/">Programs</a>
-<ul class="sub-menu">
-	<li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-programs menu-item-402"><a href="https://www.ipam.ucla.edu/programs/long-programs/">Long Programs</a></li>
-	<li id="menu-item-401" class="menu-item menu-item-type-post_type menu-item-object-programs menu-item-401"><a href="https://www.ipam.ucla.edu/programs/workshops/">Workshops</a></li>
-	<li id="menu-item-398" class="menu-item menu-item-type-post_type menu-item-object-programs menu-item-398"><a href="https://www.ipam.ucla.edu/programs/special-events-and-conferences/">Special Events and Conferences</a></li>
-	<li id="menu-item-399" class="menu-item menu-item-type-post_type menu-item-object-programs menu-item-399"><a href="https://www.ipam.ucla.edu/programs/student-research-programs/">Student Research Programs</a></li>
-	<li id="menu-item-400" class="menu-item menu-item-type-post_type menu-item-object-programs menu-item-400"><a href="https://www.ipam.ucla.edu/programs/summer-schools/">Summer Schools</a></li>
-	<li id="menu-item-11877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11877"><a title="Practicum for Undergraduate MAthematicians (PUMA)" href="https://www.ipam.ucla.edu/practicum-for-undergraduate-mathematicians-puma/">PUMA</a></li>
-	<li id="menu-item-397" class="menu-item menu-item-type-post_type menu-item-object-programs menu-item-397"><a href="https://www.ipam.ucla.edu/programs/public-lectures-events/">Public Lectures</a></li>
-	<li id="menu-item-4509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4509"><a href="https://www.ipam.ucla.edu/about-ipam/green-family-lecture-series/">Green Family Lecture Series</a></li>
-	<li id="menu-item-703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-703"><a href="https://www.ipam.ucla.edu/propose-a-program/long-programs-2/">Propose a program</a></li>
-</ul>
-</li>
-<li id="menu-item-1195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1195"><a href="https://www.ipam.ucla.edu/videos/">Videos</a></li>
-<li id="menu-item-403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-403"><a href="https://www.ipam.ucla.edu/news-research/">News</a>
-<ul class="sub-menu">
-	<li id="menu-item-1509" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1509"><a href="https://www.ipam.ucla.edu/news/">News</a></li>
-	<li id="menu-item-1511" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1511"><a href="https://www.ipam.ucla.edu/research-articles/">Research Articles</a></li>
-	<li id="menu-item-3996" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3996"><a href="https://www.ipam.ucla.edu/reports/">Reports and Whitepapers</a></li>
-	<li id="menu-item-2635" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2635"><a href="https://www.ipam.ucla.edu/press-releases/">Press Releases</a></li>
-	<li id="menu-item-1512" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1512"><a href="https://www.ipam.ucla.edu/ipam-newsletter/">IPAM Newsletter</a></li>
-</ul>
-</li>
-<li id="menu-item-7635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7635"><a href="https://www.ipam.ucla.edu/people/directors/">People</a>
-<ul class="sub-menu">
-	<li id="menu-item-729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-729"><a href="https://www.ipam.ucla.edu/people/directors/">Directors</a></li>
-	<li id="menu-item-410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-410"><a href="https://www.ipam.ucla.edu/people/staff/">Staff</a></li>
-	<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="https://www.ipam.ucla.edu/people/science-advisory-board/">Science Advisory Board</a></li>
-	<li id="menu-item-412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412"><a href="https://www.ipam.ucla.edu/people/board-of-trustees/">Board of Trustees</a></li>
-	<li id="menu-item-9831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9831"><a href="https://www.ipam.ucla.edu/people/simons-participants/">Simons Participants</a></li>
-</ul>
-</li>
-<li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-414"><a href="https://www.ipam.ucla.edu/your-visit/">Your Visit</a>
-<ul class="sub-menu">
-	<li id="menu-item-11533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11533"><a href="https://www.ipam.ucla.edu/community-agreement-page/">Community Agreement</a></li>
-	<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a href="https://www.ipam.ucla.edu/your-visit/policies/">Policies</a></li>
-	<li id="menu-item-416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-416"><a href="https://www.ipam.ucla.edu/your-visit/directions/">Directions</a></li>
-	<li id="menu-item-417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-417"><a href="https://www.ipam.ucla.edu/your-visit/hotels/">Hotels</a></li>
-	<li id="menu-item-418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-418"><a href="https://www.ipam.ucla.edu/your-visit/housing-resources/">Housing Resources</a></li>
-	<li id="menu-item-420" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-149 current_page_item menu-item-420"><a href="https://www.ipam.ucla.edu/your-visit/residents-guide/" aria-current="page">Resident’s Guide</a></li>
-	<li id="menu-item-422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422"><a href="https://www.ipam.ucla.edu/your-visit/transportation/">Transportation</a></li>
-	<li id="menu-item-421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-421"><a href="https://www.ipam.ucla.edu/your-visit/technology/">Technology</a></li>
-	<li id="menu-item-415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-415"><a href="https://www.ipam.ucla.edu/your-visit/child-care/">Child Care Resources</a></li>
-</ul>
-</li>
-<li id="menu-item-423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-423"><a href="https://www.ipam.ucla.edu/about-ipam/">About IPAM</a>
-<ul class="sub-menu">
-	<li id="menu-item-1189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1189"><a href="https://www.ipam.ucla.edu/about-ipam/today-at-ipam/">Today at IPAM</a></li>
-	<li id="menu-item-424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-424"><a href="https://www.ipam.ucla.edu/about-ipam/about-ucla/">About UCLA</a></li>
-	<li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a href="https://www.ipam.ucla.edu/about-ipam/diversity/">Equity, Diversity, and Inclusion at IPAM</a></li>
-	<li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425"><a href="https://www.ipam.ucla.edu/about-ipam/annual-report/">NSF Grants</a></li>
-</ul>
-</li>
-<li id="menu-item-3216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3216"><a href="https://www.ipam.ucla.edu/donate/">Donate</a>
-<ul class="sub-menu">
-	<li id="menu-item-430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-430"><a href="https://www.ipam.ucla.edu/donate/priorities/">Funding Priorities</a></li>
-	<li id="menu-item-428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-428"><a href="https://www.ipam.ucla.edu/donate/corporate-giving/">Corporate Giving</a></li>
-	<li id="menu-item-713" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-713"><a href="https://giving.ucla.edu/Standard/NetDonate.aspx?SiteNum=136">Donate Now</a></li>
-</ul>
-</li>
-<li id="menu-item-432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-432"><a href="https://www.ipam.ucla.edu/contact-us/">Contact Us</a></li>
-</ul>                    <div class="clearfix"></div>
-                </div>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-        <div class="clearfix"></div>
-    </div>
-	
-	
-	
-   
-
-<div id="breadcrumbs" style="background-image: url(https://www.ipam.ucla.edu/wp-content/uploads/2013/12/geometry-wireframe_web-1920x199.jpg);">
-	<div class="content">
-		<div class="vertical-xs">
-											<h1>
-					Your Visit				</h1>
-				<div>
-					<a href="http://www.ipam.ucla.edu/?page_id=137">Your Visit</a>
-										<span>&gt;</span>
-					<span>Resident&#8217;s Guide</span>
-				</div>
-					</div>
-	</div>
-</div>
-
-
-
-<div class="content w1200">
-	
-	<div class="col-md-3">
-		<ul id="sidebar-your-visit">
-																					<li>
-						<a href="https://www.ipam.ucla.edu/your-visit/policies/" class="">
-							Policies						</a>
-					</li>
-														<li>
-						<a href="https://www.ipam.ucla.edu/your-visit/directions/" class="">
-							Directions						</a>
-					</li>
-														<li>
-						<a href="https://www.ipam.ucla.edu/your-visit/hotels/" class="">
-							Hotels						</a>
-					</li>
-														<li>
-						<a href="https://www.ipam.ucla.edu/your-visit/housing-resources/" class="">
-							Housing Resources						</a>
-					</li>
-														<li>
-						<a href="https://www.ipam.ucla.edu/your-visit/residents-guide/" class="active">
-							Resident&#8217;s Guide						</a>
-					</li>
-														<li>
-						<a href="https://www.ipam.ucla.edu/your-visit/transportation/" class="">
-							Transportation						</a>
-					</li>
-														<li>
-						<a href="https://www.ipam.ucla.edu/your-visit/technology/" class="">
-							Technology						</a>
-					</li>
-														<li>
-						<a href="https://www.ipam.ucla.edu/your-visit/child-care/" class="">
-							Child Care Resources						</a>
-					</li>
-													</ul>
-	</div>
-	
-	<div class="col-md-9">
-		<div id="contet-pages" class="content-w-block">
-			<h1>Resident&#8217;s Guide</h1>
-			<div class="des">
-								<p>This guide is intended for the use of long program participants who are visiting IPAM for up to three months, but other visitors may find the information helpful as well. If you don’t see the answer to your question on this page, please consult the Program Coordinator for your program.</p>
-<div class="osc-res-tab tabbable   osc-tabs-left"><div style="clear:both;width: 100%;"><ul class="nav osc-res-nav nav-tabs osc-tabs-left-ul" id="oscitas-restabs-1-residents-guide-47689"><li class="active"><a href="#ert_pane1-0" data-toggle="tab">GENERAL</a></li><li class=""><a href="#ert_pane1-1" data-toggle="tab">SECURITY</a></li><li class=""><a href="#ert_pane1-2" data-toggle="tab">EMERGENCIES</a></li><li class=""><a href="#ert_pane1-3" data-toggle="tab">MEDICAL CARE</a></li><li class=""><a href="#ert_pane1-4" data-toggle="tab">INSURANCE</a></li><li class=""><a href="#ert_pane1-5" data-toggle="tab">UCLA</a></li></ul></div><div style="clear:both;width: 100%;"><ul class="tab-content" id="oscitas-restabcontent-1-residents-guide-47689"><li class="tab-pane active" id="ert_pane1-0"></p>
-<h3>BUILDING POLICIES AND PROCEDURES</h3>
-<p>As much as possible, please refer general questions to the Program Coordinator assigned to your program. The program staff occupies suite 1158. See the <a title="Staff" href="http://ipam.ucla.edu/people/staff/">staff directory</a> for contact information.</p>
-<p><strong>Alcohol</strong>: Please do not consume or store alcohol in the IPAM building unless it is part of an official IPAM event.</p>
-<p><strong>Appliances</strong>: Small electrical appliances, such as coffee makers, irons, hot plates, small refrigerators, or other such appliances are not allowed in offices. The building&#8217;s electrical system was not designed to accommodate them.</p>
-<p><strong>Bicycles</strong>: If you bring your bicycle into the building, please keep it in your office. There are bike racks located on either side of the building. Secure bicycle lockers also available at Lot 2. Ask your Program Coordinator for more information.</p>
-<p><strong>Bulletin Boards</strong>: There are several general purpose bulletin boards in IPAM; please talk to your Program Coordinator if you would like to post something.</p>
-<p><strong>Check in Procedure</strong>: There will typically be an orientation session for new visitors during the first week of a long program. Latecomers will meet with the Program Coordinator upon arrival.</p>
-<p><strong>Check out Procedure</strong>: At the conclusion of your stay at IPAM, please return your key and notify the Program Coordinator of your departure. We also ask that you please make sure to empty your own desk waste bins into the composting, recycling, or landfill bins located in the lobby and kitchen.</p>
-<p><strong>Copier Usage</strong>: All long program participants will be provided with a code for the copier, which is located in the hallway next to the kitchen. This copier also serves as a printer, scanner and fax machine. Please go to a private retailer for large-scale copying.</p>
-<p><strong>Dress Code</strong>: There is no dress code other than to please wear shoes outside of your own office.</p>
-<p><strong>Drug Free Workplace</strong>: IPAM strongly endorses the University position on drugs in the workplace and a zero tolerance policy is in effect at all times.</p>
-<p><strong>Keys</strong>: Residents will be issued a key to their office when they arrive. The finance office will refund the $10 deposit when you return the key.</p>
-<p><strong>Kitchen</strong>: You are welcome to use the refrigerator and the microwave in the kitchen. Please put your name on any items you place in the refrigerator; it will be cleaned out periodically, and items that are not labeled will be discarded. Please be considerate of other users and clean up after yourself. If you use the microwave, please wipe up your spills.</p>
-<p><strong>Mail: </strong>Mail is delivered daily to the administrative suite (1158) in the morning. UPS and Fed-Ex deliver packages to the IPAM administrative suite at any time. Please take outgoing mail to the post office in Ackerman Student Union, level A.</p>
-<p><strong>Office Hours</strong>: IPAM’s administrative offices are open from 8:00 am to 5:00 pm on weekdays.</p>
-<p><strong>Parking Permits:</strong> Please see the Parking Coordinator (finance office) to inquire about monthly parking permits. For parking during workshops or other events, please ask in advance for instructions and information.</p>
-<p><strong>Phones and Phone Usage</strong>: A few of the offices have phones. The phone number appears on the button on the bottom right corner of the base. It is equipped for local service only. If you do not have a phone in your office, you may use the phone in the kitchen for local calls. For long distance and international calls, please use a calling card.</p>
-<p><strong>Recycling and Composting</strong>: IPAM offers both recycling and composting, and asks its visitors to help us work towards zero waste. You will find several recycling (blue) and composting (green) bins throughout IPAM’s lobby. There are two, light blue recycling bins specifically for white paper. Although most items can be recycled or composted, there is one bin for landfill located in the kitchen. Please follow the instructions on the signs, and ask a Program Coordinator if you need assistance.</p>
-<p><strong>Repairs and Maintenance</strong>: Please notify a staff member if you have any problems with heating, air conditioning, leaks, ants, or phones. We will do our best to address the situation, or call for service.</p>
-<p><strong>Room Reservations</strong>: Please see your program coordinator to reserve the lecture hall, classroom, or conference room.</p>
-<p><strong>Schedule</strong>: Detailed schedules for each workshop are posted on the program&#8217;s web page a week or more prior to the start of a workshop. A schedule of seminars and other activities between workshops will be sent to you by email and posted on the long program webpage.</p>
-<p><strong>Smoking</strong>: UCLA campus is tobacco free. Please ask your Program Coordinator where you are permitted to smoke.</p>
-<p><strong>Supplies</strong>: Residents will be provided with basic office supplies upon their arrival at IPAM. Supplies such as paper clips, staples, envelopes, and file folders can be found on the shelves of the storage room; please help yourself. Items that we do not have in stock can be purchased in the campus book store in Ackerman Student Union.</p>
-<p></li><li class="tab-pane " id="ert_pane1-1"></p>
-<h3>BUILDING SECURITY</h3>
-<p>IPAM is locked outside of business hours (8:00 am – 5:00 pm), but we cannot guarantee the security of the building. Please do not prop open any external doors or let anyone not affiliated with IPAM into the building after hours. If you see a suspicious person in the building after hours, please call 9-1-1.</p>
-<p>IPAM residents will receive a code for after-hours access to the building (through rear door). Please keep your code secure, and be sure the door latches behind you. Please carry your Affiliation Letter with you when using the building after hours in case you are asked to show identification.</p>
-<p>Please do not leave valuables unattended, especially in public areas. Some offices have filing cabinets or desk drawers that lock; please ask the finance office if a key is available. When you leave your office, please close and lock the door.</p>
-<p></li><li class="tab-pane " id="ert_pane1-2"></p>
-<h3>EMERGENCIES</h3>
-<p><strong>Emergency procedures will be covered during orientation and will be provided in your orientation packet.</strong></p>
-<p>The emergency number for campus and Los Angeles is 9-1-1.</p>
-<p><strong>Exits:</strong> There are 7 exit doors which are clearly lighted with Exit signs. Please locate the one closest to your office so that you can exit quickly if there is an emergency.</p>
-<p><strong>Evacuation:</strong> In case of an evacuation, meet the IPAM staff on the lawn at the north end of the building, in front of Physics and Astronomy. From there, IPAM staff will escort the group to the official meeting place for our section of campus, if necessary.</p>
-<p><strong>Earthquake:</strong> In case of an earthquake, hide under a desk or table until the tremors cease; do not leave the building until it stops.</p>
-<p><strong>Fire:</strong> There are fire extinguishers throughout the building. Please locate the one nearest to your office.</p>
-<p><strong>Medical Supplies:</strong> Emergency medical supplies, such as bandages and over-the-counter medicines, are located in the kitchen, office supply area and near the entrance to the lecture hall; for inventory purposes, please notify your Program Coordinator if you use any supplies.</p>
-<p></li><li class="tab-pane " id="ert_pane1-3"></p>
-<h3>MEDICAL CARE</h3>
-<p>These numbers are for the UCLA Medical Center in Westwood. For emergency situations, please call 911 for an ambulance or go to the emergency room.</p>
-<table style="width: 90%;" border="1" width="90%">
-<tbody>
-<tr>
-<td width="22%">Emergency Room</td>
-<td width="25%">(310) 825-2111</td>
-<td width="53%">The entrance to the emergency room is at the corner of Charles E. Young Drive and Gayley. <a href="https://www.uclahealth.org/reagan/maps-and-directions">Maps &amp; Directions</a></td>
-</tr>
-<tr>
-<td>Main Operator</td>
-<td>(310) 825-9111</td>
-<td></td>
-</tr>
-<tr>
-<td>Information Desk</td>
-<td>(310) 267-9119 (west)<br />
-(310) 267-9120 (east)</td>
-<td></td>
-</tr>
-<tr>
-<td>Patient Affairs</td>
-<td>(310) 267-9113</td>
-<td>Will help you find the services you need</td>
-</tr>
-<tr>
-<td>Physician Referral Service</td>
-<td>(800) 825-2631</td>
-<td>Will help you find a doctor that accepts your form of insurance</td>
-</tr>
-</tbody>
-</table>
-<h3></li><li class="tab-pane " id="ert_pane1-4"></h3>
-<h3>MEDICAL INSURANCE</h3>
-<p>IPAM long program participants must have health, accident, medical evacuation and repatriation of remains insurance. The insurance policies must cover the scholar and all accompanying dependents. Uninsured dependents may face grave risks, as medical costs in the United States are very expensive and admittance to clinics for uninsured patients is limited.</p>
-<p>J-1 visa holders must have the following coverage, per UCLA policy:</p>
-<ul>
-<li>$100,000 per accident &amp; illness in medical coverage</li>
-<li>A deductible not to exceed $500 per accident or illness</li>
-<li>Coinsurance that does not exceed 25%</li>
-<li>Medical evacuation coverage must be at least $50,000</li>
-<li>Repatriation coverage must be at least $25,000</li>
-<li>Pre-existing conditions must be covered by the insurance policy with a waiting period no longer than 12 months. <strong>Please note:</strong> <em>Policy’s with coverage for only “Acute onset of pre-existing conditions” do not meet this requirement.</em></li>
-<li>Carrier must be at least A- rated or backed by the full faith and credit of the Exchange Visitor&#8217;s government</li>
-</ul>
-<p>The following plans should offer acceptable coverage and are available for international visitors:</p>
-<p><a href="https://clients.garnett-powers.com/vs/ucla/">Garnett-Powers &amp; Associates</a><br />
-Plan: Visiting Scholar Injury and Sickness Insurance Plan (VSISP) available for purchase to UCLA visitors on J-1 visas.<br />
-Phone: (888) 441-3719</p>
-<p><a href="http://www.visitinsurance.com/" target="_blank" rel="noopener noreferrer">VISIT International Health Insurance Program</a><br />
-Plan: ISIS Incoming Health Insurance. Available to visitors who will be in the U.S. less than one year.<br />
-Phone: (800)247-5575</p>
-<p><a href="http://www.gatewayplans.com/" target="_blank" rel="noopener noreferrer">Seabury &amp; Smith, International Student Department</a><br />
-Plan: Medical Insurance for International Students and Scholars. Available to all full time international education program participants.<br />
-Phone: (800)282-4495<br />
-On the Website, select Gateway USA</p>
-<p><a href="http://www.hginsurance.com/" target="_blank" rel="noopener noreferrer">Harbour Group, LLC</a><br />
-Plan: International Student &amp; Scholar Medical Insurance Plan. Available to international students, scholars, and visiting faculty on F and J visas.<br />
-Phone: (800)252-8160.</p>
-<p><a href="https://www.hthtravelinsurance.com/students_plans.cfm" target="_blank" rel="noopener noreferrer">HTH Travel Insurance</a><br />
-Plans: Healthcare Advantage and Preferred Health Plan. Both are available to international students, scholars, and faculty on F and J visas.<br />
-Phone: (888) 350-2002</p>
-<p></li><li class="tab-pane " id="ert_pane1-5"></p>
-<h3>UCLA SERVICES, FACILITIES, AND POINTS OF INTEREST</h3>
-<p><strong><strong>ATMs:</strong></strong> There are several Bank of America, Chase and Wells Fargo ATMs located on level A of Ackerman Union, a short walk from IPAM.</p>
-<p><strong>Bus Passes:</strong> At UCLA&#8217;s Central Ticket Office, you may purchase a monthly pass for the Santa Monica Big Blue Bus, Culver City Bus, the Los Angeles Metro (bus and rail), or an &#8220;EZ Pass&#8221; to use all three bus systems. Ask your Program Coordinator for instructions.</p>
-<p><strong>Campus Escort Service:</strong> UCLA Police provides walking escorts to and from campus buildings and Westwood Village from dusk until 1:00 am every night throughout the year. Van service is also available during the academic year and can transport you to nearby residential areas. Call 310-794-WALK to request an escort; please allow 15-20 minute for your escort to arrive.</p>
-<p><strong>Dining:</strong> UCLA offers a variety of <a href="http://asucla.ucla.edu/restaurants/">on-campus restaurants</a>. Ackerman Union offers the most options for lunch or dinner on campus, including Italian, Mexican, Japanese, Chinese, burgers, fruit smoothies, prepared sandwiches, coffee, and a salad/hot food bar.  Wolfgang Puck Express offers partial table service and sells beer and wine. Kerckhoff Coffee Shop offers prepared sandwiches and salads. The Court of Sciences Student Center offers Subway, Yoshinoya, a bistro, a fusion restaurant, and a coffee shop. The Evelyn &amp; Mo Ostin Music Café offers coffee, drinks, pastries and more.</p>
-<p><strong>Faculty Center:</strong> The <a href="http://facultycenter.ucla.edu/">UCLA Faculty Center</a> is a private club located at 480 Charles E. Young Dr. East, serving lunch every weekday, and dinner on Tuesdays and Thursdays. It offers reciprocal privileges for members of more than one hundred other faculty clubs throughout the U. S., Canada, Europe and Australia. To find out if your faculty club is one of them, go to <a href="http://facultycenter.ucla.edu/membership/reciprocity.aspx">UCLA Reciprocity</a>.</p>
-<p><strong>Fitness Facilities</strong>: Participants of IPAM&#8217;s long programs may purchase a discounted membership to <a href="http://www.recreation.ucla.edu/">UCLA Recreation</a>, which provides access to Wooden Center, Sunset Canyon Recreation Center, Tennis Courts, Marina Aquatic Center, Student Activities Center, Drake Stadium, and the North Pool in Kaufman Hall. Your Program Coordinator will provide you with an &#8220;affiliation letter&#8221; on IPAM stationery stating that you are a departmental scholar at UCLA. Bring your letter and your photo ID to the Wooden Center membership desk, where you may complete the application and sign a waiver. The membership rate for visiting scholars is $50/quarter. You will get a recreation card to swipe upon entering the gym.</p>
-<p><strong>Libraries:</strong> IPAM visitors are welcome to use the <a href="https://www.library.ucla.edu/">UCLA Library System</a>. Most of the mathematics books and journals are located in the Science &amp; Engineering Library&#8217;s Engineering &amp; Math Sciences (SEL/EMS) collection in 8270 Boelter Hall. Depending on the field, some may also be located in the Biomedical Library, Chemistry Library (now including Physics), College Library, or Young Research Library. The Science and Engineering Librarian for the subjects of computer science, mathematics and statistics is <a href="mailto:echeneyl@library.ucla.edu">Elizabeth Cheney</a>.</p>
-<p>If you would like a library card to borrow books, please see your Program Coordinator. He or she will make the arrangements and notify you when you can go to the Circulation Desk at Young Research Library to pick it up. You will need to present your IPAM affiliation letter and a form of photo ID, and they will ask you for your local residential address. You will be able to use the library card at any of the UCLA libraries.</p>
-<p><strong>Vending Machines:</strong> There are vending machines with a variety of snacks and beverages located directly behind the IPAM building and in the breezeway of the Math Sciences Building.</p>
-<p><strong>UCLA Resources and Points of Interest</strong></p>
-<p><a href="http://www.happenings.ucla.edu/">UCLA Happenings</a><br />
-<a href="http://www.ucla.edu/visit/">UCLA Visitor’s Guide</a><br />
-<a href="http://www.ucla.edu/faculty/">New Faculty Guide</a><br />
-<a href="http://www.fowler.ucla.edu/">Fowler Museum</a><br />
-<a href="http://www.hammer.ucla.edu/">Hammer Museum</a><br />
-<a href="http://www.botgard.ucla.edu/">Botanical Gardens</a><br />
-<a href="https://hammer.ucla.edu/collections/franklin-d-murphy-sculpture-garden/">Sculpture Garden</a></p>
-<p></li></ul></div></div>
-				
-								<div class="clearfix"></div>
-			</div>
-		</div>
-	</div>
-
-	<div class="clearfix"></div>
-</div>
-
-	<div id="footer">
-        <div class="content w1085 pl20">
-            <div class="wp39 fl"><h4><a href="https://www.ipam.ucla.edu/programs/">Programs</a></h4><ul><li class="fl wp46""><a href="https://www.ipam.ucla.edu/programs/long-programs/">Long Programs</a></li><li class="fl wp44""><a href="https://www.ipam.ucla.edu/programs/workshops/">Workshops</a></li><li class="fl wp46""><a href="https://www.ipam.ucla.edu/programs/public-lectures-events/">Public Lectures</a></li><li class="fl wp44""><a href="https://www.ipam.ucla.edu/programs/summer-schools/">Summer Schools</a></li><li class="fl wp46""><a href="https://www.ipam.ucla.edu/programs/special-events-and-conferences/">Special Events and Conferences</a></li><li class="fl wp44""><a href="https://www.ipam.ucla.edu/programs/student-research-programs/">Student Research Programs</a></li><li class="fl wp46""><a href="https://www.ipam.ucla.edu/propose-a-program/long-programs-2/">Propose a Program</a></li><div class="clearfix"></div></ul></div><div class="wp22 fl"><h4><a href="https://www.ipam.ucla.edu/news-research/">News &#038; Research</a></h4><ul><li><a href="https://www.ipam.ucla.edu/news/">News</a></li><li><a href="https://www.ipam.ucla.edu/interviews/">Interviews</a></li><li><a href="https://www.ipam.ucla.edu/research-articles/">Research Articles</a></li><li><a href="https://www.ipam.ucla.edu/ipam-newsletter/">IPAM Newsletter</a></li><li><a href="https://www.ipam.ucla.edu/press-releases/">Press Releases</a></li></ul></div><div class="wp24 fl"><h4><a href="https://www.ipam.ucla.edu/people/">People</a></h4><ul><li><a href="https://www.ipam.ucla.edu/building-directory/">Building Directory</a></li><li><a href="https://www.ipam.ucla.edu/people/directors/">Directors</a></li><li><a href="https://www.ipam.ucla.edu/people/board-of-trustees/">Board of Trustees</a></li><li><a href="https://www.ipam.ucla.edu/people/science-advisory-board/">Science Advisory Board</a></li><li><a href="https://www.ipam.ucla.edu/people/staff/">Staff</a></li><li><a href="https://www.ipam.ucla.edu/people/simons-participants/">Simons Participants</a></li></ul></div><div class="wp15 fl"><h4><a href="https://www.ipam.ucla.edu/about-ipam/">About IPAM</a></h4><ul><li><a href="https://www.ipam.ucla.edu/about-ipam/today-at-ipam/">Today at IPAM</a></li><li><a href="https://www.ipam.ucla.edu/about-ipam/about-ucla/">About UCLA</a></li><li><a href="https://www.ipam.ucla.edu/about-ipam/diversity/">Equity, Diversity, and Inclusion at IPAM</a></li><li><a href="https://www.ipam.ucla.edu/about-ipam/annual-report/">NSF Grants</a></li></ul></div><div class="clearfix"></div>			<div class="clearfix"></div>
-			
-            <div id="footer-bottom">
-                <div class="fl left">
-                    																		<a href="http://www.nsf.gov/">
-								<img src="https://www.ipam.ucla.edu/wp-content/uploads/2013/12/nsf.png" alt="" />
-							</a>
-													<a href="http://www.ucla.edu/">
-								<img src="https://www.ipam.ucla.edu/wp-content/uploads/2013/12/ucla-std-gray-rgb-logo-60x28.png" alt="" />
-							</a>
-													<a href="https://www.instagram.com/uclaipam/">
-								<img src="https://www.ipam.ucla.edu/wp-content/uploads/2024/01/new-Instagram-logo-white-glyph-e1705535612483.png" alt="" />
-							</a>
-													<a href="https://twitter.com/ipam_ucla">
-								<img src="https://www.ipam.ucla.edu/wp-content/uploads/2014/11/Twitter_logo_white_px.png" alt="" />
-							</a>
-													<a href="https://www.facebook.com/pages/Institute-for-Pure-and-Applied-Mathematics/212054778822783">
-								<img src="https://www.ipam.ucla.edu/wp-content/uploads/2014/11/facebook-icon.png" alt="" />
-							</a>
-													<a href="https://www.youtube.com/channel/UCGzuiiLdQZu9wxDNJHO_JnA">
-								<img src="https://www.ipam.ucla.edu/wp-content/uploads/2014/11/youtube-icon.png" alt="" />
-							</a>
-													<a href="https://www.linkedin.com/company/instituteforpureandappliedmathematics">
-								<img src="https://www.ipam.ucla.edu/wp-content/uploads/2015/11/In-White-41px-R-e1447781689362.png" alt="" />
-							</a>
-											                    <span>
-                        Copyright. All Rights Reserved.
-                    </span>
-                </div>
-               <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-
-    				<script type="text/javascript">function showhide_toggle(e,t,r,g){var a=jQuery("#"+e+"-link-"+t),s=jQuery("a",a),i=jQuery("#"+e+"-content-"+t),l=jQuery("#"+e+"-toggle-"+t);a.toggleClass("sh-show sh-hide"),i.toggleClass("sh-show sh-hide").toggle(),"true"===s.attr("aria-expanded")?s.attr("aria-expanded","false"):s.attr("aria-expanded","true"),l.text()===r?(l.text(g),a.trigger("sh-link:more")):(l.text(r),a.trigger("sh-link:less")),a.trigger("sh-link:toggle")}</script>
-	<link rel='stylesheet' id='ert_tab_css-css' href='https://www.ipam.ucla.edu/wp-content/plugins/easy-responsive-tabs/assets/css/tabdrop.css?ver=6.3.3' type='text/css' media='all' />
-<link rel='stylesheet' id='ert_css-css' href='https://www.ipam.ucla.edu/wp-content/plugins/easy-responsive-tabs/assets/css/ert_css.php?ver=6.3.3' type='text/css' media='all' />
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/themes/ipam/js/jquery-1.10.2.min.js?ver=6.3.3' id='jquery-js'></script>
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.6' id='swv-js'></script>
-<script type='text/javascript' id='contact-form-7-js-extra'>
-/* <![CDATA[ */
-var wpcf7 = {"api":{"root":"https:\/\/www.ipam.ucla.edu\/wp-json\/","namespace":"contact-form-7\/v1"}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.6' id='contact-form-7-js'></script>
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/themes/ipam/js/bootstrap.min.js?ver=6.3.3' id='bootstrap-js'></script>
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/themes/ipam/js/script.js?ver=6.3.3' id='ipam_custom-js'></script>
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/plugins/easy-responsive-tabs/assets/js/bootstrap-dropdown.js?ver=3.1' id='bootstrap_dropdown-js'></script>
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/plugins/easy-responsive-tabs/assets/js/bootstrap-tab.js?ver=3.1' id='bootstrap_tab-js'></script>
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/plugins/easy-responsive-tabs/assets/js/bootstrap-tabdrop.js?ver=3.1' id='ert_tab_js-js'></script>
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/plugins/easy-responsive-tabs/assets/js/ert_js.php?ver=3.1' id='ert_js-js'></script>
-
-</body>
-</html>
+Resident’s Guide - IPAM
+Programs
+Long Programs
+Workshops
+Public Lectures
+Summer Schools
+Special Events and Conferences
+Student Research Programs
+Propose a Program
+News & Research
+News
+Interviews
+Research Articles
+IPAM Newsletter
+Press Releases
+People
+Building Directory
+Directors
+Board of Trustees
+Science Advisory Board
+Staff
+Simons Participants
+About IPAM
+Today at IPAM
+About UCLA
+Equity, Diversity, and Inclusion at IPAM
+NSF Grants
+Programs
+Long Programs
+Workshops
+Special Events and Conferences
+Student Research Programs
+Summer Schools
+PUMA
+Public Lectures
+Green Family Lecture Series
+Propose a program
+Videos
+News
+News
+Research Articles
+Reports and Whitepapers
+Press Releases
+IPAM Newsletter
+People
+Directors
+Staff
+Science Advisory Board
+Board of Trustees
+Simons Participants
+Your Visit
+Community Agreement
+Policies
+Directions
+Hotels
+Housing Resources
+Resident’s Guide
+Transportation
+Technology
+Child Care Resources
+About IPAM
+Today at IPAM
+About UCLA
+Equity, Diversity, and Inclusion at IPAM
+NSF Grants
+Donate
+Funding Priorities
+Corporate Giving
+Donate Now
+Contact Us
+Your Visit
+Your Visit
+>
+Resident’s Guide
+Policies
+Directions
+Hotels
+Housing Resources
+Resident’s Guide
+Transportation
+Technology
+Child Care Resources
+Resident’s Guide
+This guide is intended for the use of long program participants who are visiting IPAM for up to three months, but other visitors may find the information helpful as well. If you don’t see the answer to your question on this page, please consult the Program Coordinator for your program.
+GENERAL
+SECURITY
+EMERGENCIES
+MEDICAL CARE
+INSURANCE
+UCLA
+BUILDING POLICIES AND PROCEDURES
+As much as possible, please refer general questions to the Program Coordinator assigned to your program. The program staff occupies suite 1158. See the
+staff directory
+for contact information.
+Alcohol
+: Please do not consume or store alcohol in the IPAM building unless it is part of an official IPAM event.
+Appliances
+: Small electrical appliances, such as coffee makers, irons, hot plates, small refrigerators, or other such appliances are not allowed in offices. The building’s electrical system was not designed to accommodate them.
+Bicycles
+: If you bring your bicycle into the building, please keep it in your office. There are bike racks located on either side of the building. Secure bicycle lockers also available at Lot 2. Ask your Program Coordinator for more information.
+Bulletin Boards
+: There are several general purpose bulletin boards in IPAM; please talk to your Program Coordinator if you would like to post something.
+Check in Procedure
+: There will typically be an orientation session for new visitors during the first week of a long program. Latecomers will meet with the Program Coordinator upon arrival.
+Check out Procedure
+: At the conclusion of your stay at IPAM, please return your key and notify the Program Coordinator of your departure. We also ask that you please make sure to empty your own desk waste bins into the composting, recycling, or landfill bins located in the lobby and kitchen.
+Copier Usage
+: All long program participants will be provided with a code for the copier, which is located in the hallway next to the kitchen. This copier also serves as a printer, scanner and fax machine. Please go to a private retailer for large-scale copying.
+Dress Code
+: There is no dress code other than to please wear shoes outside of your own office.
+Drug Free Workplace
+: IPAM strongly endorses the University position on drugs in the workplace and a zero tolerance policy is in effect at all times.
+Keys
+: Residents will be issued a key to their office when they arrive. The finance office will refund the $10 deposit when you return the key.
+Kitchen
+: You are welcome to use the refrigerator and the microwave in the kitchen. Please put your name on any items you place in the refrigerator; it will be cleaned out periodically, and items that are not labeled will be discarded. Please be considerate of other users and clean up after yourself. If you use the microwave, please wipe up your spills.
+Mail:
+Mail is delivered daily to the administrative suite (1158) in the morning. UPS and Fed-Ex deliver packages to the IPAM administrative suite at any time. Please take outgoing mail to the post office in Ackerman Student Union, level A.
+Office Hours
+: IPAM’s administrative offices are open from 8:00 am to 5:00 pm on weekdays.
+Parking Permits:
+Please see the Parking Coordinator (finance office) to inquire about monthly parking permits. For parking during workshops or other events, please ask in advance for instructions and information.
+Phones and Phone Usage
+: A few of the offices have phones. The phone number appears on the button on the bottom right corner of the base. It is equipped for local service only. If you do not have a phone in your office, you may use the phone in the kitchen for local calls. For long distance and international calls, please use a calling card.
+Recycling and Composting
+: IPAM offers both recycling and composting, and asks its visitors to help us work towards zero waste. You will find several recycling (blue) and composting (green) bins throughout IPAM’s lobby. There are two, light blue recycling bins specifically for white paper. Although most items can be recycled or composted, there is one bin for landfill located in the kitchen. Please follow the instructions on the signs, and ask a Program Coordinator if you need assistance.
+Repairs and Maintenance
+: Please notify a staff member if you have any problems with heating, air conditioning, leaks, ants, or phones. We will do our best to address the situation, or call for service.
+Room Reservations
+: Please see your program coordinator to reserve the lecture hall, classroom, or conference room.
+Schedule
+: Detailed schedules for each workshop are posted on the program’s web page a week or more prior to the start of a workshop. A schedule of seminars and other activities between workshops will be sent to you by email and posted on the long program webpage.
+Smoking
+: UCLA campus is tobacco free. Please ask your Program Coordinator where you are permitted to smoke.
+Supplies
+: Residents will be provided with basic office supplies upon their arrival at IPAM. Supplies such as paper clips, staples, envelopes, and file folders can be found on the shelves of the storage room; please help yourself. Items that we do not have in stock can be purchased in the campus book store in Ackerman Student Union.
+BUILDING SECURITY
+IPAM is locked outside of business hours (8:00 am – 5:00 pm), but we cannot guarantee the security of the building. Please do not prop open any external doors or let anyone not affiliated with IPAM into the building after hours. If you see a suspicious person in the building after hours, please call 9-1-1.
+IPAM residents will receive a code for after-hours access to the building (through rear door). Please keep your code secure, and be sure the door latches behind you. Please carry your Affiliation Letter with you when using the building after hours in case you are asked to show identification.
+Please do not leave valuables unattended, especially in public areas. Some offices have filing cabinets or desk drawers that lock; please ask the finance office if a key is available. When you leave your office, please close and lock the door.
+EMERGENCIES
+Emergency procedures will be covered during orientation and will be provided in your orientation packet.
+The emergency number for campus and Los Angeles is 9-1-1.
+Exits:
+There are 7 exit doors which are clearly lighted with Exit signs. Please locate the one closest to your office so that you can exit quickly if there is an emergency.
+Evacuation:
+In case of an evacuation, meet the IPAM staff on the lawn at the north end of the building, in front of Physics and Astronomy. From there, IPAM staff will escort the group to the official meeting place for our section of campus, if necessary.
+Earthquake:
+In case of an earthquake, hide under a desk or table until the tremors cease; do not leave the building until it stops.
+Fire:
+There are fire extinguishers throughout the building. Please locate the one nearest to your office.
+Medical Supplies:
+Emergency medical supplies, such as bandages and over-the-counter medicines, are located in the kitchen, office supply area and near the entrance to the lecture hall; for inventory purposes, please notify your Program Coordinator if you use any supplies.
+MEDICAL CARE
+These numbers are for the UCLA Medical Center in Westwood. For emergency situations, please call 911 for an ambulance or go to the emergency room.
+Emergency Room
+(310) 825-2111
+The entrance to the emergency room is at the corner of Charles E. Young Drive and Gayley.
+Maps & Directions
+Main Operator
+(310) 825-9111
+Information Desk
+(310) 267-9119 (west)
+(310) 267-9120 (east)
+Patient Affairs
+(310) 267-9113
+Will help you find the services you need
+Physician Referral Service
+(800) 825-2631
+Will help you find a doctor that accepts your form of insurance
+MEDICAL INSURANCE
+IPAM long program participants must have health, accident, medical evacuation and repatriation of remains insurance. The insurance policies must cover the scholar and all accompanying dependents. Uninsured dependents may face grave risks, as medical costs in the United States are very expensive and admittance to clinics for uninsured patients is limited.
+J-1 visa holders must have the following coverage, per UCLA policy:
+$100,000 per accident & illness in medical coverage
+A deductible not to exceed $500 per accident or illness
+Coinsurance that does not exceed 25%
+Medical evacuation coverage must be at least $50,000
+Repatriation coverage must be at least $25,000
+Pre-existing conditions must be covered by the insurance policy with a waiting period no longer than 12 months.
+Please note:
+Policy’s with coverage for only “Acute onset of pre-existing conditions” do not meet this requirement.
+Carrier must be at least A- rated or backed by the full faith and credit of the Exchange Visitor’s government
+The following plans should offer acceptable coverage and are available for international visitors:
+Garnett-Powers & Associates
+Plan: Visiting Scholar Injury and Sickness Insurance Plan (VSISP) available for purchase to UCLA visitors on J-1 visas.
+Phone: (888) 441-3719
+VISIT International Health Insurance Program
+Plan: ISIS Incoming Health Insurance. Available to visitors who will be in the U.S. less than one year.
+Phone: (800)247-5575
+Seabury & Smith, International Student Department
+Plan: Medical Insurance for International Students and Scholars. Available to all full time international education program participants.
+Phone: (800)282-4495
+On the Website, select Gateway USA
+Harbour Group, LLC
+Plan: International Student & Scholar Medical Insurance Plan. Available to international students, scholars, and visiting faculty on F and J visas.
+Phone: (800)252-8160.
+HTH Travel Insurance
+Plans: Healthcare Advantage and Preferred Health Plan. Both are available to international students, scholars, and faculty on F and J visas.
+Phone: (888) 350-2002
+UCLA SERVICES, FACILITIES, AND POINTS OF INTEREST
+ATMs:
+There are several Bank of America, Chase and Wells Fargo ATMs located on level A of Ackerman Union, a short walk from IPAM.
+Bus Passes:
+At UCLA’s Central Ticket Office, you may purchase a monthly pass for the Santa Monica Big Blue Bus, Culver City Bus, the Los Angeles Metro (bus and rail), or an “EZ Pass” to use all three bus systems. Ask your Program Coordinator for instructions.
+Campus Escort Service:
+UCLA Police provides walking escorts to and from campus buildings and Westwood Village from dusk until 1:00 am every night throughout the year. Van service is also available during the academic year and can transport you to nearby residential areas. Call 310-794-WALK to request an escort; please allow 15-20 minute for your escort to arrive.
+Dining:
+UCLA offers a variety of
+on-campus restaurants
+. Ackerman Union offers the most options for lunch or dinner on campus, including Italian, Mexican, Japanese, Chinese, burgers, fruit smoothies, prepared sandwiches, coffee, and a salad/hot food bar.  Wolfgang Puck Express offers partial table service and sells beer and wine. Kerckhoff Coffee Shop offers prepared sandwiches and salads. The Court of Sciences Student Center offers Subway, Yoshinoya, a bistro, a fusion restaurant, and a coffee shop. The Evelyn & Mo Ostin Music Café offers coffee, drinks, pastries and more.
+Faculty Center:
+The
+UCLA Faculty Center
+is a private club located at 480 Charles E. Young Dr. East, serving lunch every weekday, and dinner on Tuesdays and Thursdays. It offers reciprocal privileges for members of more than one hundred other faculty clubs throughout the U. S., Canada, Europe and Australia. To find out if your faculty club is one of them, go to
+UCLA Reciprocity
+.
+Fitness Facilities
+: Participants of IPAM’s long programs may purchase a discounted membership to
+UCLA Recreation
+, which provides access to Wooden Center, Sunset Canyon Recreation Center, Tennis Courts, Marina Aquatic Center, Student Activities Center, Drake Stadium, and the North Pool in Kaufman Hall. Your Program Coordinator will provide you with an “affiliation letter” on IPAM stationery stating that you are a departmental scholar at UCLA. Bring your letter and your photo ID to the Wooden Center membership desk, where you may complete the application and sign a waiver. The membership rate for visiting scholars is $50/quarter. You will get a recreation card to swipe upon entering the gym.
+Libraries:
+IPAM visitors are welcome to use the
+UCLA Library System
+. Most of the mathematics books and journals are located in the Science & Engineering Library’s Engineering & Math Sciences (SEL/EMS) collection in 8270 Boelter Hall. Depending on the field, some may also be located in the Biomedical Library, Chemistry Library (now including Physics), College Library, or Young Research Library. The Science and Engineering Librarian for the subjects of computer science, mathematics and statistics is
+Elizabeth Cheney
+.
+If you would like a library card to borrow books, please see your Program Coordinator. He or she will make the arrangements and notify you when you can go to the Circulation Desk at Young Research Library to pick it up. You will need to present your IPAM affiliation letter and a form of photo ID, and they will ask you for your local residential address. You will be able to use the library card at any of the UCLA libraries.
+Vending Machines:
+There are vending machines with a variety of snacks and beverages located directly behind the IPAM building and in the breezeway of the Math Sciences Building.
+UCLA Resources and Points of Interest
+UCLA Happenings
+UCLA Visitor’s Guide
+New Faculty Guide
+Fowler Museum
+Hammer Museum
+Botanical Gardens
+Sculpture Garden
+Programs
+Long Programs
+Workshops
+Public Lectures
+Summer Schools
+Special Events and Conferences
+Student Research Programs
+Propose a Program
+News & Research
+News
+Interviews
+Research Articles
+IPAM Newsletter
+Press Releases
+People
+Building Directory
+Directors
+Board of Trustees
+Science Advisory Board
+Staff
+Simons Participants
+About IPAM
+Today at IPAM
+About UCLA
+Equity, Diversity, and Inclusion at IPAM
+NSF Grants
+Copyright. All Rights Reserved.

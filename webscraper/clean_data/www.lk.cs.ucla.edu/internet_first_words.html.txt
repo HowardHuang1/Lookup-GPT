@@ -1,156 +1,33 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Leonard Kleinrock's Home Page</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="description" content="" /><meta name="keywords" content="" /><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><link rel="stylesheet" href="/css/site.css" type="text/css" /><script type="text/javascript">var PREFIX="/";</script><script type="text/javascript" src="/js/site.js"></script></head><body><div class="min-width"><div class="shapka"><div class="shapka_left"><div class="logo"><a href="/index.html"><img class="logo_image" src="/images/logo.jpeg" title="University of California, Los Angeles (UCLA)" /></a></div></div><div class="shapka_right"><div class="shapka_picture"><img src="/data/images/kleinrock_in_class2.jpg" alt="Leonard Kleinrock" /></div></div></div><div class="menubar"><div class="dotline" /><table class="iehacktable" border="0" width="100%" cellpadding="0" cellspacing="1px" style="margin-top: 5px;"><tr><td class="glink" style="width: 20%"><ul class="menulist" id="menu_24" ><li>
-		<a class="main" href="/press.html" >In the Press</a>
-	
-		<ul>
-		
-				<li>
-		<a  href="/articles.html" >Articles</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/videos.html" >Videos</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/external_links.html" >External links</a>
-	
-		<ul>
-			</ul>
-	</li>
-			</ul>
-	</li>
-</ul></td><td width="5px"><div class="dotcolumn" style="height:25px" /></td><td class="glink" style="width: 20%"><ul class="menulist" id="menu_1" ><li>
-		<a class="main" href="/index.html" >About</a>
-	
-		<ul>
-		
-				<li>
-		<a  href="/awards.html" >Awards</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/profile.html" >Profile</a>
-	
-		<ul>
-			</ul>
-	</li>
-			</ul>
-	</li>
-</ul></td><td width="5px"><div class="dotcolumn" style="height:25px" /></td><td class="glink" style="width: 20%"><ul class="menulist" id="menu_5" ><li>
-		<a class="main" href="/publications.html" >Publications</a>
-	
-		<ul>
-		
-				<li>
-		<a  href="/bibliography-books.html" >Books</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-book_chapters.html" >Book Chapters</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-articles.html" >Journals and Conferences</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-service_reports.html" >Commitee Reports</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-patents.html" >Patents</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-public_reports.html" >Public Reports</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-press_releases.html" >Press Releases</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-white_papers.html" >White Papers</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-tutorials.html" >Tutorials</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-presentations.html" >Presentations</a>
-	
-		<ul>
-			</ul>
-	</li>
-				<li>
-		<a  href="/bibliography-reviews.html" >Reviews</a>
-	
-		<ul>
-			</ul>
-	</li>
-			</ul>
-	</li>
-</ul></td><td width="5px"><div class="dotcolumn" style="height:25px" /></td><td class="glink_s" style="width: 20%"><ul class="menulist" id="menu_6" ><li>
-		<a class="main" href="/internet_first_words.html" >History</a>
-	
-		<ul>
-			</ul>
-	</li>
-</ul></td><td width="5px"><div class="dotcolumn" style="height:25px" /></td><td class="glink" style="width: 20%"><ul class="menulist" id="menu_69" ><li>
-		<a class="main" href="http://twitter.com/kleinrock/" target="_blank"}>Twitter</a>
-	
-		<ul>
-			</ul>
-	</li>
-</ul></td><td width="5px"><div class="dotcolumn" style="height:25px" /></td><td class="glink lastmenu" style="width: 20%"><ul class="menulist" id="menu_7" ><li>
-		<a class="main" href="/students.html" >Students</a>
-	
-		<ul>
-			</ul>
-	</li>
-</ul></td><td class="glink" style="width:100px"><ul class="menulist" id="menuSpecial" ><li></tr></table><div class="dotline" /></div></div></div><div class="body"><table width="100%"><tr><td class="left"><div id='frame_1'> </div><br/><br/></td><td class="right"><div id='frame_0'><h1>
-	The Day the Infant Internet Uttered its First Words</h1>
-<p>
-	Below is a record of the first message ever sent over the ARPANET. It took place at 22:30 hours on October 29, 1969. This record is an excerpt from the &quot;IMP Log&quot; that was kept at UCLA. Professor Kleinrock was supervising his student/programmer Charley Kline (CSK) and they set up a message transmission to go from the UCLA SDS Sigma 7 Host computer to another programmer, Bill Duvall, at the SRI SDS 940 Host computer. The transmission itself was simply to &quot;login&quot; to SRI from UCLA. They succeeded in transmitting the &quot;l&quot; and the &quot;o&quot; and then the system crashed! Hence, the first message on the Internet was <strong>&quot;lo&quot;, </strong>as in &quot;lo and behold!&nbsp;They were able to do the full login about an hour later.</p>
-<p>
-	&nbsp;</p>
-<p>
-	<a class="smoothbox" href="/data/images/history/imp_log.gif"><img alt="Log Picture" src="/data/images/history/imp_log.gif" style="" width="100%" /></a></p>
-<p>
-	&nbsp;</p>
-<p>
-	Below, I have reproduced the page with highlights showing the date and the critical entry.</p>
-<p>
-	<a class="smoothbox" href="/data/images/history/imp_log_highlighted.gif"><img alt="Log Highlights" src="/data/images/history/imp_log_highlighted.gif" style="" width="100%" /></a></p>
-<p>
-	&nbsp;</p>
-<p>
-	Here is a scan of the cover of the UCLA IMP LOG in which the above entry was made:</p>
-<p>
-	<span class="smoothbox"><img alt="IMP Log Cover" src="/data/images/history/imp_log_cover.gif" style="" width="100%" /></span></p>
-</div></td></tr></table></div><div class="footer"><hr /><table width="100%"><tr><td width="33%" align="center">Copyright 2009 Leonard Kleinrock. &nbsp; All rights reserved</td><td width="33%" align="center">Last modified on Apr  6, 2011</td><td width="33%" align="center">Email: <a href="mailto:lk@cs.ucla.edu">lk@cs.ucla.edu</a></td></tr></table><br/><br/></div></div><script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-22803652-1']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script></body></html>
+Leonard Kleinrock's Home Page
+In the Press
+Articles
+Videos
+External links
+About
+Awards
+Profile
+Publications
+Books
+Book Chapters
+Journals and Conferences
+Commitee Reports
+Patents
+Public Reports
+Press Releases
+White Papers
+Tutorials
+Presentations
+Reviews
+History
+Twitter
+Students
+The Day the Infant Internet Uttered its First Words
+Below is a record of the first message ever sent over the ARPANET. It took place at 22:30 hours on October 29, 1969. This record is an excerpt from the "IMP Log" that was kept at UCLA. Professor Kleinrock was supervising his student/programmer Charley Kline (CSK) and they set up a message transmission to go from the UCLA SDS Sigma 7 Host computer to another programmer, Bill Duvall, at the SRI SDS 940 Host computer. The transmission itself was simply to "login" to SRI from UCLA. They succeeded in transmitting the "l" and the "o" and then the system crashed! Hence, the first message on the Internet was
+"lo",
+as in "lo and behold! They were able to do the full login about an hour later.
+Below, I have reproduced the page with highlights showing the date and the critical entry.
+Here is a scan of the cover of the UCLA IMP LOG in which the above entry was made:
+Copyright 2009 Leonard Kleinrock.   All rights reserved
+Last modified on Apr  6, 2011
+Email:
+lk@cs.ucla.edu

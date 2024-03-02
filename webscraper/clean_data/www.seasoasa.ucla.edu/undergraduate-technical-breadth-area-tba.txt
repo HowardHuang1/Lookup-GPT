@@ -1,665 +1,302 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-	<meta charset="UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<link rel="pingback" href="https://www.seasoasa.ucla.edu/xmlrpc.php" />
-
-	<script type="text/javascript">
-		document.documentElement.className = 'js';
-	</script>
-
-	<title>Undergraduate Technical Breadth Area | OASA</title>
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><style id="et-builder-googlefonts-cached-inline">/* Original: https://fonts.googleapis.com/css?family=Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic&#038;subset=latin,latin-ext&#038;display=swap *//* User Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCc.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-v.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-v.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPHA.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwWw.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPHA.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPHA.ttf) format('truetype');}/* User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCQ.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=S6u_w4BMUTPHjxsI9w2_FQfr&skey=8107d606b7e3d38e&v=v24) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-s.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-s.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPHw.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwWA.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPHw.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPHw.woff) format('woff');}/* User Agent: Mozilla/5.0 (Windows NT 6.3; rv:39.0) Gecko/20100101 Firefox/39.0 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCI.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-q.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-q.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPGQ.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwXg.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPGQ.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPGQ.woff2) format('woff2');}</style><meta name='robots' content='max-image-preview:large' />
-<script type="text/javascript">
-			let jqueryParams=[],jQuery=function(r){return jqueryParams=[...jqueryParams,r],jQuery},$=function(r){return jqueryParams=[...jqueryParams,r],$};window.jQuery=jQuery,window.$=jQuery;let customHeadScripts=!1;jQuery.fn=jQuery.prototype={},$.fn=jQuery.prototype={},jQuery.noConflict=function(r){if(window.jQuery)return jQuery=window.jQuery,$=window.jQuery,customHeadScripts=!0,jQuery.noConflict},jQuery.ready=function(r){jqueryParams=[...jqueryParams,r]},$.ready=function(r){jqueryParams=[...jqueryParams,r]},jQuery.load=function(r){jqueryParams=[...jqueryParams,r]},$.load=function(r){jqueryParams=[...jqueryParams,r]},jQuery.fn.ready=function(r){jqueryParams=[...jqueryParams,r]},$.fn.ready=function(r){jqueryParams=[...jqueryParams,r]};</script><link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
-<link rel="alternate" type="application/rss+xml" title="OASA &raquo; Feed" href="https://www.seasoasa.ucla.edu/feed/" />
-<link rel="alternate" type="application/rss+xml" title="OASA &raquo; Comments Feed" href="https://www.seasoasa.ucla.edu/comments/feed/" />
-<meta content="Divi Child for HSSEAS v.4.23.1" name="generator"/><link rel='stylesheet' id='admin-custom-styles-css' href='https://www.seasoasa.ucla.edu/wp-content/plugins/jsoncontentimporterpro3/block/css/jcipro-admin-styles.css?ver=1.0.0' media='all' />
-<style id='admin-custom-styles-inline-css'>
-.menu li.et-hover>ul,.nav li.et-hover>ul{visibility:visible!important;opacity:1!important}.da11y-submenu-show{visibility:visible!important}
-.keyboard-outline{outline-style:solid!important;outline-width:2px!important;-webkit-transition:none!important;transition:none!important}a[role=tab].keyboard-outline,button:active.keyboard-outline,button:focus.keyboard-outline,input:active.keyboard-outline,input:focus.keyboard-outline{outline-offset:-5px}.et-search-form input:focus.keyboard-outline{padding-left:15px;padding-right:15px}.et_pb_tab{-webkit-animation:none!important;animation:none!important}.et_pb_scroll_top.et-visible:focus{outline-width:2px;outline-style:solid;outline-color:Highlight}@media (-webkit-min-device-pixel-ratio:0){.et_pb_scroll_top.et-visible:focus{outline-color:-webkit-focus-ring-color;outline-style:auto}}
-.et_pb_contact_form_label,.et_pb_search .screen-reader-text,.et_pb_social_media_follow_network_name,.widget_search .screen-reader-text{display:block!important}.da11y-screen-reader-text,.et_pb_contact_form_label,.et_pb_search .screen-reader-text,.et_pb_social_media_follow_network_name,.widget_search .screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden;text-shadow:none;text-transform:none;letter-spacing:normal;line-height:normal;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1em;font-weight:600;-webkit-font-smoothing:subpixel-antialiased}.da11y-screen-reader-text:focus{background:#f1f1f1;color:#00547a;-webkit-box-shadow:0 0 2px 2px rgba(0,0,0,.6);box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;display:block;height:auto;left:5px;padding:15px 23px 14px;text-decoration:none;top:7px;width:auto;z-index:1000000}
-</style>
-<style id='wp-block-library-theme-inline-css'>
-.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
-</style>
-<style id='global-styles-inline-css'>
-body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
-.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
-:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
-:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
-.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
-</style>
-<link rel='stylesheet' id='events-manager-css' href='https://www.seasoasa.ucla.edu/wp-content/plugins/events-manager/includes/css/events-manager.min.css?ver=6.4.6.4' media='all' />
-<style id='events-manager-inline-css'>
-body .em { --font-family : inherit; --font-weight : inherit; --font-size : 1em; --line-height : inherit; }
-</style>
-<link rel='stylesheet' id='fontawesome-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.4.2' media='all' />
-<link rel='stylesheet' id='divi-style-parent-css' href='https://www.seasoasa.ucla.edu/wp-content/themes/Divi/style-static.min.css?ver=4.23.1' media='all' />
-<link rel='stylesheet' id='divi-style-css' href='https://www.seasoasa.ucla.edu/wp-content/themes/Divi-child/style.css?ver=4.23.1' media='all' />
-<link rel='stylesheet' id='child-style-css' href='https://www.seasoasa.ucla.edu/wp-content/themes/Divi-child/style.css?ver=4.23.1' media='all' />
-<link rel='stylesheet' id='mobile_style-css' href='https://www.seasoasa.ucla.edu/wp-content/themes/Divi-child/per_site_styles/mobile_style.css?ver=4.23.1' media='all' />
-<script src="https://www.seasoasa.ucla.edu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-<script src="https://www.seasoasa.ucla.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<script id="jquery-js-after">
-jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){var n=String(r);n.replace("$","jQuery");var a=new Function("return "+n)();$(document).ready(a)}});
-</script>
-<script src="https://www.seasoasa.ucla.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
-<script src="https://www.seasoasa.ucla.edu/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2" id="jquery-ui-mouse-js"></script>
-<script src="https://www.seasoasa.ucla.edu/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2" id="jquery-ui-sortable-js"></script>
-<script src="https://www.seasoasa.ucla.edu/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2" id="jquery-ui-datepicker-js"></script>
-<script id="jquery-ui-datepicker-js-after">
-jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
-</script>
-<script src="https://www.seasoasa.ucla.edu/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.2" id="jquery-ui-resizable-js"></script>
-<script src="https://www.seasoasa.ucla.edu/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2" id="jquery-ui-draggable-js"></script>
-<script src="https://www.seasoasa.ucla.edu/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2" id="jquery-ui-controlgroup-js"></script>
-<script src="https://www.seasoasa.ucla.edu/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2" id="jquery-ui-checkboxradio-js"></script>
-<script src="https://www.seasoasa.ucla.edu/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2" id="jquery-ui-button-js"></script>
-<script src="https://www.seasoasa.ucla.edu/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.2" id="jquery-ui-dialog-js"></script>
-<script id="events-manager-js-extra">
-var EM = {"ajaxurl":"https:\/\/www.seasoasa.ucla.edu\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/www.seasoasa.ucla.edu\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"yy-mm-dd","ui_css":"https:\/\/www.seasoasa.ucla.edu\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui\/build.min.css","show24hours":"0","is_ssl":"1","autocomplete_limit":"10","calendar":{"breakpoints":{"small":560,"medium":908,"large":false}},"phone":"","datepicker":{"format":"M j, Y"},"search":{"breakpoints":{"small":650,"medium":850,"full":false}},"url":"https:\/\/www.seasoasa.ucla.edu\/wp-content\/plugins\/events-manager","txt_search":"Search events","txt_searching":"Searching...","txt_loading":"Loading...","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash."};
-</script>
-<script src="https://www.seasoasa.ucla.edu/wp-content/plugins/events-manager/includes/js/events-manager.min.js?ver=6.4.6.4" id="events-manager-js"></script>
-<script src="https://www.seasoasa.ucla.edu/wp-content/themes/Divi-child/js/seas.js?ver=4.23.1" id="seas-js"></script>
-<script src="https://www.seasoasa.ucla.edu/wp-content/themes/Divi-child/js/header_for_mobile.js?ver=4.23.1" id="script-js"></script>
-<script src="https://www.seasoasa.ucla.edu/wp-content/themes/Divi-child/js/jquery.autocomplete.min.js?ver=6.4.2" id="autocomplete-js"></script>
-<script src="https://www.seasoasa.ucla.edu/wp-content/themes/Divi-child/js/autocomplete.js?ver=6.4.2" id="autocomplete-js-js"></script>
-<link rel="https://api.w.org/" href="https://www.seasoasa.ucla.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://www.seasoasa.ucla.edu/wp-json/wp/v2/pages/3660" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.seasoasa.ucla.edu/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 6.4.2" />
-<link rel="canonical" href="https://www.seasoasa.ucla.edu/undergraduate-technical-breadth-area-tba/" />
-<link rel='shortlink' href='https://www.seasoasa.ucla.edu/?p=3660' />
-<link rel="alternate" type="application/json+oembed" href="https://www.seasoasa.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.seasoasa.ucla.edu%2Fundergraduate-technical-breadth-area-tba%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.seasoasa.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.seasoasa.ucla.edu%2Fundergraduate-technical-breadth-area-tba%2F&#038;format=xml" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" /><script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery('img[usemap]').rwdImageMaps();
-	});
-</script>
-<style type="text/css">
-	img[usemap] { max-width: 100%; height: auto; }
-</style>
-<style id="custom-background-css">
-body.custom-background { background-color: #ffffff; }
-</style>
-	<meta name="google-site-verification" content="WNTqZ1-CEdvZ-4cit5QXCHwvwUGPcbu0vUtgKHUKwqw">
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z8M397V5JK"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Z8M397V5JK', {cookie_flags: 'SameSite=None;Secure'});
-</script><style id="et-critical-inline-css">body{color:#2b2b2b}h1,h2,h3,h4,h5,h6{color:#2b2b2b}body{line-height:1.6em}#et_search_icon:hover,.mobile_menu_bar:before,.mobile_menu_bar:after,.et_toggle_slide_menu:after,.et-social-icon a:hover,.et_pb_sum,.et_pb_pricing li a,.et_pb_pricing_table_button,.et_overlay:before,.entry-summary p.price ins,.et_pb_member_social_links a:hover,.et_pb_widget li a:hover,.et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active,.et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active,.et_pb_gallery .et_pb_gallery_pagination ul li a.active,.wp-pagenavi span.current,.wp-pagenavi a:hover,.nav-single a,.tagged_as a,.posted_in a{color:#ffe800}.et_pb_contact_submit,.et_password_protected_form .et_submit_button,.et_pb_bg_layout_light .et_pb_newsletter_button,.comment-reply-link,.form-submit .et_pb_button,.et_pb_bg_layout_light .et_pb_promo_button,.et_pb_bg_layout_light .et_pb_more_button,.et_pb_contact p input[type="checkbox"]:checked+label i:before,.et_pb_bg_layout_light.et_pb_module.et_pb_button{color:#ffe800}.footer-widget h4{color:#ffe800}.et-search-form,.nav li ul,.et_mobile_menu,.footer-widget li:before,.et_pb_pricing li:before,blockquote{border-color:#ffe800}.et_pb_counter_amount,.et_pb_featured_table .et_pb_pricing_heading,.et_quote_content,.et_link_content,.et_audio_content,.et_pb_post_slider.et_pb_bg_layout_dark,.et_slide_in_menu_container,.et_pb_contact p input[type="radio"]:checked+label i:before{background-color:#ffe800}a{color:#0d4481}#main-header,#main-header .nav li ul,.et-search-form,#main-header .et_mobile_menu{background-color:#003b5c}#main-header .nav li ul{background-color:#205296}.nav li ul{border-color:#3284bf}.et_secondary_nav_enabled #page-container #top-header{background-color:#ffe800!important}#et-secondary-nav li ul{background-color:#ffe800}.et_header_style_centered .mobile_nav .select_page,.et_header_style_split .mobile_nav .select_page,.et_nav_text_color_light #top-menu>li>a,.et_nav_text_color_dark #top-menu>li>a,#top-menu a,.et_mobile_menu li a,.et_nav_text_color_light .et_mobile_menu li a,.et_nav_text_color_dark .et_mobile_menu li a,#et_search_icon:before,.et_search_form_container input,span.et_close_search_field:after,#et-top-navigation .et-cart-info{color:#ffffff}.et_search_form_container input::-moz-placeholder{color:#ffffff}.et_search_form_container input::-webkit-input-placeholder{color:#ffffff}.et_search_form_container input:-ms-input-placeholder{color:#ffffff}#top-menu li a{font-size:13px}body.et_vertical_nav .container.et_search_form_container .et-search-form input{font-size:13px!important}#top-menu li.current-menu-ancestor>a,#top-menu li.current-menu-item>a,#top-menu li.current_page_item>a{color:#ffc72c}#main-footer{background-color:rgba(13,68,129,0)}#main-footer .footer-widget h4,#main-footer .widget_block h1,#main-footer .widget_block h2,#main-footer .widget_block h3,#main-footer .widget_block h4,#main-footer .widget_block h5,#main-footer .widget_block h6{color:#ffe800}.footer-widget li:before{border-color:#ffe800}.footer-widget .et_pb_widget div,.footer-widget .et_pb_widget ul,.footer-widget .et_pb_widget ol,.footer-widget .et_pb_widget label{line-height:1.7em}.bottom-nav,.bottom-nav a,.bottom-nav li.current-menu-item a{color:}#et-footer-nav .bottom-nav li.current-menu-item a{color:}#footer-bottom{background-color:rgba(0,0,0,0)}#footer-info,#footer-info a{color:#ffffff}#footer-info{font-size:13px}#footer-bottom .et-social-icon a{color:#ffffff}body .et_pb_button{}body.et_pb_button_helper_class .et_pb_button,body.et_pb_button_helper_class .et_pb_module.et_pb_button{color:#ffffff}body .et_pb_bg_layout_light.et_pb_button:hover,body .et_pb_bg_layout_light .et_pb_button:hover,body .et_pb_button:hover{color:#ffffff!important;border-radius:0px}@media only screen and (min-width:981px){.et_pb_section{padding:0% 0}.et_pb_fullwidth_section{padding:0}.et_header_style_left #et-top-navigation,.et_header_style_split #et-top-navigation{padding:30px 0 0 0}.et_header_style_left #et-top-navigation nav>ul>li>a,.et_header_style_split #et-top-navigation nav>ul>li>a{padding-bottom:30px}.et_header_style_split .centered-inline-logo-wrap{width:60px;margin:-60px 0}.et_header_style_split .centered-inline-logo-wrap #logo{max-height:60px}.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap #logo{height:60px}.et_header_style_centered #top-menu>li>a{padding-bottom:11px}.et_header_style_slide #et-top-navigation,.et_header_style_fullscreen #et-top-navigation{padding:21px 0 21px 0!important}.et_header_style_centered #main-header .logo_container{height:60px}#logo{max-height:60%}.et_pb_svg_logo #logo{height:60%}.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container,.et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header .logo_container{height:10.8px}.et_header_style_left .et-fixed-header #et-top-navigation,.et_header_style_split .et-fixed-header #et-top-navigation{padding:30px 0 0 0}.et_header_style_left .et-fixed-header #et-top-navigation nav>ul>li>a,.et_header_style_split .et-fixed-header #et-top-navigation nav>ul>li>a{padding-bottom:30px}.et_header_style_centered header#main-header.et-fixed-header .logo_container{height:60px}.et_header_style_split #main-header.et-fixed-header .centered-inline-logo-wrap{width:60px;margin:-60px 0}.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{max-height:60px}.et_pb_svg_logo.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{height:60px}.et_header_style_slide .et-fixed-header #et-top-navigation,.et_header_style_fullscreen .et-fixed-header #et-top-navigation{padding:21px 0 21px 0!important}.et_fixed_nav #page-container .et-fixed-header#top-header{background-color:#1e4b87!important}.et_fixed_nav #page-container .et-fixed-header#top-header #et-secondary-nav li ul{background-color:#1e4b87}.et-fixed-header #top-menu a,.et-fixed-header #et_search_icon:before,.et-fixed-header #et_top_search .et-search-form input,.et-fixed-header .et_search_form_container input,.et-fixed-header .et_close_search_field:after,.et-fixed-header #et-top-navigation .et-cart-info{color:#ffffff!important}.et-fixed-header .et_search_form_container input::-moz-placeholder{color:#ffffff!important}.et-fixed-header .et_search_form_container input::-webkit-input-placeholder{color:#ffffff!important}.et-fixed-header .et_search_form_container input:-ms-input-placeholder{color:#ffffff!important}.et-fixed-header #top-menu li.current-menu-ancestor>a,.et-fixed-header #top-menu li.current-menu-item>a,.et-fixed-header #top-menu li.current_page_item>a{color:#ffe800!important}}@media only screen and (min-width:1350px){.et_pb_row{padding:27px 0}.et_pb_section{padding:0px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:81px}.et_pb_fullwidth_section{padding:0}}h1,h1.et_pb_contact_main_title,.et_pb_title_container h1{font-size:25px}h2,.product .related h2,.et_pb_column_1_2 .et_quote_content blockquote p{font-size:21px}h3{font-size:18px}h4,.et_pb_circle_counter h3,.et_pb_number_counter h3,.et_pb_column_1_3 .et_pb_post h2,.et_pb_column_1_4 .et_pb_post h2,.et_pb_blog_grid h2,.et_pb_column_1_3 .et_quote_content blockquote p,.et_pb_column_3_8 .et_quote_content blockquote p,.et_pb_column_1_4 .et_quote_content blockquote p,.et_pb_blog_grid .et_quote_content blockquote p,.et_pb_column_1_3 .et_link_content h2,.et_pb_column_3_8 .et_link_content h2,.et_pb_column_1_4 .et_link_content h2,.et_pb_blog_grid .et_link_content h2,.et_pb_column_1_3 .et_audio_content h2,.et_pb_column_3_8 .et_audio_content h2,.et_pb_column_1_4 .et_audio_content h2,.et_pb_blog_grid .et_audio_content h2,.et_pb_column_3_8 .et_pb_audio_module_content h2,.et_pb_column_1_3 .et_pb_audio_module_content h2,.et_pb_gallery_grid .et_pb_gallery_item h3,.et_pb_portfolio_grid .et_pb_portfolio_item h2,.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2{font-size:15px}h5{font-size:13px}h6{font-size:11px}.et_pb_slide_description .et_pb_slide_title{font-size:38px}.et_pb_gallery_grid .et_pb_gallery_item h3,.et_pb_portfolio_grid .et_pb_portfolio_item h2,.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2,.et_pb_column_1_4 .et_pb_audio_module_content h2{font-size:13px}	h1,h2,h3,h4,h5,h6{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif}body,input,textarea,select{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif}.et_pb_fullwidth_section .et_pb_slide_description{padding-top:32%;padding-bottom:32%}span.mobile_menu_bar:before{color:white!important}.seasnav>li>ul{border-top:2px solid rgb(50,132,191)}*#top-menu>li>ul:before{border-bottom:20px solid rgb(50,132,191)}#main-content a{text-decoration:underline}a.icon,a.et_pb_button,.et_pb_button_module_wrapper a{text-decoration:none!important}</style>
-<link rel="preload" as="style" id="et-core-unified-deferred-3660-cached-inline-styles" href="https://www.seasoasa.ucla.edu/wp-content/uploads/seasoasa/et-cache/3660/et-core-unified-deferred-3660.min.css?ver=1707346315" onload="this.onload=null;this.rel='stylesheet';" /></head>
-<body class="page-template-default page page-id-3660 custom-background et_pb_button_helper_class et_fullwidth_nav et_non_fixed_nav et_show_nav et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns4 et_cover_background et_pb_gutter et_pb_gutters3 et_pb_pagebuilder_layout et_smooth_scroll et_no_sidebar et_divi_theme et-db">
-	<div id="page-container">
-
-	
-	
-			<header id="main-header" data-height-onload="60">
-			<div class="container clearfix et_menu_container">
-											<h1>
-							<div class="logo_container">
-					<span class="logo_helper"></span>
-					<a href="https://www.seasoasa.ucla.edu/">
-						<img src="https://www.seasoasa.ucla.edu/wp-content/uploads/seasoasa/seasoasa-logo.png" alt="OASA" id="logo" data-height-percentage="60" />
-					</a>
-				</div>
-								</h1>
-										<div id="et-top-navigation" data-height="60" data-fixed-height="60">
-											<nav id="top-menu-nav" aria-label="main navigation">
-						<ul id="top-menu" class="nav et_disable_top_tier"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33907"><a target="_blank" rel="noopener" href="http://samueli.ucla.edu/">SAMUELI</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3678"><a href="#">ADMISSION</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3715"><a href="https://www.seasoasa.ucla.edu/undergraduate-admissions/">Undergraduate Admissions</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3720"><a href="https://www.seasoasa.ucla.edu/faqs/">FAQs (Undergraduate Admissions)</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7098"><a href="https://www.seasoasa.ucla.edu/graduate-admissions">Graduate Admissions</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18147"><a href="https://www.seasoasa.ucla.edu/graduate-admissions-special-programs/">Graduate Admissions – Special Programs</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3729"><a href="https://www.seasoasa.ucla.edu/tours/">Engineering Tours</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3717"><a href="https://www.seasoasa.ucla.edu/new-undergraduate-students/">New Undergraduate Students</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27585"><a href="https://www.seasoasa.ucla.edu/readmissions-information/">Readmissions Information</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3728"><a href="https://www.seasoasa.ucla.edu/hsseas-announcements/">HSSEAS Announcements</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43059"><a href="https://www.seasoasa.ucla.edu/enrollment-degree-statistics-new-2/)">Enrollment &amp; Degree Statistics</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3679"><a href="#">FORMS &amp; PETITIONS</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48874"><a href="https://www.seasoasa.ucla.edu/change-of-major/">Change of Major</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48875"><a href="https://www.seasoasa.ucla.edu/enrollment-in-courses/">Enrollment in Research and Internship Courses</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48877"><a href="https://www.seasoasa.ucla.edu/petition-process/">Petition Process</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48876"><a href="https://www.seasoasa.ucla.edu/summer-session-and-transfer-course-equivalence/">Summer Sessions &amp; Transfer Course Equivalence</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-3680"><a href="#">UNDERGRADUATE</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45214"><a href="https://www.seasoasa.ucla.edu/appointments/">Appointments and Drop-In Advising</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3739"><a href="https://www.seasoasa.ucla.edu/counselors-2/">Counselors</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37475"><a href="https://www.seasoasa.ucla.edu/wellness_support/">Counseling and Psychological Services/Wellness</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234935"><a href="https://www.seasoasa.ucla.edu/deadlines-enrollment-policies/">Deadlines Enrollment Policies</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3740"><a href="https://www.seasoasa.ucla.edu/dars/">Degree Audit Reporting System (DARS)</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3747"><a target="_blank" rel="noopener" href="http://www.bpelsg.ca.gov/">EIT (Engineer in Training)</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3736"><a href="https://www.seasoasa.ucla.edu/faculty-advising-for-undergraduates/">Faculty Advising</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3756"><a href="https://www.seasoasa.ucla.edu/faqs-undergraduate-students/">FAQs (Frequently Asked Questions)</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3749"><a href="https://www.seasoasa.ucla.edu/ge-home/">General Education and Writing Requirements</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42570"><a href="https://www.seasoasa.ucla.edu/curricular-requirements-department-information-2021/">Major &amp; Minor Requirements</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3737"><a href="https://www.seasoasa.ucla.edu/new-undergraduate-students/">New Undergraduates</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3660 current_page_item menu-item-3752"><a href="https://www.seasoasa.ucla.edu/undergraduate-technical-breadth-area-tba/" aria-current="page">Technical Breadth Area (TBA)</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3681"><a href="#">SENIORS</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3758"><a href="https://www.seasoasa.ucla.edu/degree-candidate-information/">Degree Candidate Information</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3759"><a href="https://www.seasoasa.ucla.edu/degree-candidate-faqs/">Degree Candidate FAQs</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18148"><a href="https://www.seasoasa.ucla.edu/graduate-admissions-special-programs/">Graduate Admissions – Special Programs</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3760"><a href="https://www.seasoasa.ucla.edu/latin-honors-eligibility/">Latin Honors Eligibility</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43384"><a href="https://commencement.seas.ucla.edu/">Commencement</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3682"><a href="#">GRADUATE</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3766"><a href="https://www.seasoasa.ucla.edu/exceptional-student-admissions-program/">Exceptional Student Admissions Program (ESAP)</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236083"><a href="https://www.seasoasa.ucla.edu/graduate-students-resources/">Graduate Students Resources</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3769"><a href="http://www.msol.ucla.edu">MS Online Program</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43386"><a href="https://commencement.seas.ucla.edu/">Commencement</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3683"><a href="#">OPPORTUNITY</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37472"><a href="https://www.seasoasa.ucla.edu/wellness_support/">Counseling and Psychological Services/Wellness</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3775"><a href="/summer-session-and-transfer-course-equivalence#EAP">Education Abroad Program</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14323"><a target="_blank" rel="noopener" href="https://etransfercenter.seas.ucla.edu">Engineering Transfer Center</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3781"><a href="https://www.seasoasa.ucla.edu/nsf-fellowship-information/">NSF Fellowship Information</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3789"><a href="https://www.seasoasa.ucla.edu/need-tutoring/">Resources &#8211; Support Services</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3776"><a href="https://www.seasoasa.ucla.edu/scholarships-for-undergraduates/">Scholarships for Undergraduates</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12922"><a href="https://www.seasoasa.ucla.edu/student-creativity-center/">Student Creativity Center</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3782"><a target="_blank" rel="noopener" href="http://engineering.ucla.edu/student-clubs/">Student Organizations</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3784"><a href="https://www.seasoasa.ucla.edu/need-tutoring/">Tutoring and Workshops</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3788"><a target="_blank" rel="noopener" href="http://mentorship.seas.ucla.edu/">UCLA Engineering Mentorship Program (MentorSEAS)</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3827"><a href="https://www.seasoasa.ucla.edu/uip/">Undergraduate Internship Program</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13302"><a href="https://www.seasoasa.ucla.edu/urp/">Undergraduate Research Program</a></li>
-</ul>
-</li>
-</ul>						</nav>
-					
-										<button id="seas-search-icon" tabindex="0" aria-label="Open Search Box"></button>
-
-					
-					
-					<div id="et_mobile_nav_menu">
-				<div class="mobile_nav closed">
-					<span class="select_page">Select Page</span>
-					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
-				</div>
-			</div>				</div> <!-- #et-top-navigation -->
-			</div> <!-- .container -->
-
-<div id="inline-search" class="inline-search toggled">
-<div class="inline-search-wrap" style="display:none">
-					<form role="search" method="get" class="search-form" action="/search">
-	<label>
-		<span class="screen-reader-text">Search for:</span>
-		<input type="search" class="search-field" placeholder="Search this site... " value="" name="q" title="Search for:">
-	</label>
-	<div id="search-buttons">
-	<input type="submit" class="search-submit" value="Search">
-	<button id="search-close" aria-label="Close Search Box">X</button>
-	</div>
-</form>				</div>
-</div>
-		</header> <!-- #main-header -->
-			<div id="et-main-area" role="main">
-	
-<div id="main-content">
-
-
-			
-				<article id="post-3660" class="post-3660 page type-page status-publish hentry category-uncategorized">
-
-				
-					<div class="entry-content">
-					<div class="et-l et-l--post">
-			<div class="et_builder_inner_content et_pb_gutters3">
-		<div class="et_pb_section et_pb_section_0 et_section_regular" >
-				
-				
-				
-				
-				
-				
-				<div class="et_pb_row et_pb_row_0">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				
-				
-				<div class="et_pb_module et_pb_post_title et_pb_post_title_0 et_pb_bg_layout_light  et_pb_text_align_center"   >
-				
-				
-				
-				
-				
-				<div class="et_pb_title_container">
-					<h1 class="entry-title">Undergraduate Technical Breadth Area</h1>
-				</div>
-				
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_0 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h2 class="et_pb_toggle_title">Faculty Executive Committee (FEC) Approved Regulations and Policies Outlining the Technical Breadth Requirement (effective Fall 2023 as of 09/25/2023)</h2>
-				<div class="et_pb_toggle_content clearfix"><p><span style="font-size: medium;color: #000000"><span style="text-decoration: underline"><strong>The Technical Breadth Requirement (TBR)</strong></span>  is a 12.0 unit requirement designed to provide a student with the opportunity to gain working knowledge in a<strong> technical</strong> area <em><strong>outside their major department</strong></em>.   For example: students in the Bioengineering major cannot choose a technical breadth area (TBA) in Bioengineering.  Students must take three courses from one area.  </span><span style="color: #000000;font-size: medium">To complete the requirement with three courses, those three courses must add up to at least 12.0 units.  </span><em style="color: #000000;font-size: medium"><span style="color: #e02b20">Courses chosen to satisfy the technical breadth requirement <strong>can not be used to satisfy other degree requirements </strong>and students are responsible for meeting the requisites of courses selected. </span></em></p>
-<p><span style="color: #0c71c3">Exceptions to the above are:</span></p>
-<ol>
-<li><span style="color: #0c71c3"> Students in the Computer Engineering major and the Computer Science and Engineering major are allowed to select any technical breadth area <em>including</em> Electrical and Computer Engineering or Computer Science.   </span></li>
-<li><span style="color: #0c71c3">Students may choose a course offered by their major department IF the course is part of a schoolwide area </span><strong style="font-size: 14px;color: #0c71c3"><em><span style="color: #0c71c3">and not being used to satisfy other degree requi</span>rements</em></strong><span style="font-size: 14px;color: #0c71c3">. For example: CS majors may take COM SCI 112 for the Engineering Mathematics Area, but then may not “double count” that course to fulfill a Major Field Elective as well.</span></li>
-<li><span style="color: #0c71c3">Students may take multiple department listed (M) courses as long as the course chosen is <strong><em>not used to satisfy other degree requirements.</em></strong> For example: CS major can use COM SCI M119 for the ECE TBR because it is also an ECE course but then may not “double count” that course to fulfill a Major Field Elective as well.</span></li>
-<li><span style="color: #0c71c3"> Students may petition, at 6426BH, to use one lower division course to satisfy a technical breadth elective IF that lower division course is a requisite for at least one of the two upper division technical breadth courses that the student takes from the same area (and that lower division course is<strong><em> not being used to satisfy other degree requirements</em></strong>).</span></li>
-<li><span style="color: #0c71c3"> Students are <span style="text-decoration: underline">not allowed</span> to use more than one course from the same subset in meeting degree requirements for any engineering major.  <span style="color: #e02b20"> </span></span><em><span style="color: #e02b20"><strong>Please refer to the SUBSET RESTRICTIONS below before selecting an area and enrolling in courses.</strong></span></em></li>
-</ol></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_1 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h5 class="et_pb_toggle_title">SUBSET RESTRICTIONS </h5>
-				<div class="et_pb_toggle_content clearfix"><h3><strong><span style="color: #e02b20">SUBSET RESTRICTIONS:</span>  IT IS NOT PERMITTED TO USE MORE THAN ONE COURSE FROM THE SAME SUBSET IN MEETING DEGREE REQUIREMENTS FOR ANY ENGINEERING MAJOR.  </strong></h3>
-<ul>
-<li><strong style="font-size: 14px">Subset 1:  </strong><span style="text-decoration: underline">Probability and Statistics</span> (C&amp;EE 110, EC ENGR 131A, ENGR 116, MATH 170A, MATH 170E, STATS 100A)</li>
-<li><strong style="font-size: 14px">Subset 2</strong><span style="font-size: 14px">: <span style="text-decoration: underline">Numerical Computing</span> (C&amp;EE 103, CH ENGR 109, EC ENGR 133A, MATH 151A)</span></li>
-<li><strong style="font-size: 14px">Subset 3a:</strong><strong><span style="font-size: 14px"><span style="text-decoration: underline"> Structural Mechanics (C&amp;EE 108, MECH&amp;AE 156A, MECH&amp;AE 166A) </span></span></strong></li>
-<li><strong style="font-size: 14px">Subset 3b</strong><span style="font-size: 14px">:<span style="text-decoration: underline"> Statics</span>  (C&amp;EE 91, MECH&amp;AE 101)</span></li>
-<li><strong style="font-size: 14px">Subset 3c</strong><span style="font-size: 14px">: <span style="text-decoration: underline">Dynamics </span>(C&amp;EE 102, MECH&amp;AE 102)</span></li>
-<li><strong style="font-size: 14px">Subset 4a</strong><span style="font-size: 14px">: <span style="text-decoration: underline">Introductory Thermodynamics</span> (CH ENGR 102A, MECH&amp;AE 105A)</span></li>
-<li><strong style="font-size: 14px">Subset 4b</strong><span style="font-size: 14px">: <span style="text-decoration: underline">Transport Phenomena</span> (CH ENGR 101B, MECH&amp;AE 105D)</span></li>
-<li><strong style="font-size: 14px">Subset 5a</strong><span style="font-size: 14px">: <span style="text-decoration: underline">Systems </span>(EC ENGR 102, MECH&amp;AE 107)</span></li>
-<li><strong style="font-size: 14px">Subset 5b</strong><span style="font-size: 14px">: <span style="text-decoration: underline">Controls</span> (CH ENGR 107, EC ENGR 141, MECH&amp;AE 171A)</span></li>
-<li><strong style="font-size: 14px">Subset 6</strong><span style="font-size: 14px">: <span style="text-decoration: underline">Circuits</span> (EC ENGR 10, EC ENGR 100) </span></li>
-<li><strong style="font-size: 14px">Subset 7</strong><span style="font-size: 14px">: <span style="text-decoration: underline">Differential Equations</span> (MATH 33B, MECH&amp;AE 82)</span></li>
-<li><span style="font-size: 14px"><strong>Subset 8:</strong><span style="text-decoration: underline"> Entrepreneurship and Venture Initiation</span> (ENGR 160, MGMT 160)</span></li>
-<li><span style="font-size: 14px"><strong>Subset 9:</strong> <span style="text-decoration: underline">Entrepreneurship and New Product Development</span> (ENGR 163, MGMT 163)</span></li>
-</ul></div>
-			</div>
-			</div>
-				
-				
-				
-				
-			</div>
-				
-				
-			</div><div class="et_pb_section et_pb_section_1 et_section_regular" >
-				
-				
-				
-				
-				
-				
-				<div class="et_pb_row et_pb_row_1 et_pb_row_fullwidth">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				
-				
-				<div class="et_pb_module et_pb_divider et_pb_divider_0 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div>
-			</div>
-				
-				
-				
-				
-			</div>
-				
-				
-			</div><div class="et_pb_section et_pb_section_2 et_section_regular" >
-				
-				
-				
-				
-				
-				
-				<div class="et_pb_row et_pb_row_2">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				
-				
-				<div class="et_pb_module et_pb_toggle et_pb_toggle_2 et_pb_toggle_item  et_pb_toggle_open">
-				
-				
-				
-				
-				<h1 class="et_pb_toggle_title">Technical Breadth Areas</h1>
-				<div class="et_pb_toggle_content clearfix"><p style="text-align: left"><strong><br />Students must satisfy a single Technical Breadth Area (minimum 12.0 units and three courses) outside their major&#8217;s department.<br /></strong>Please login to <a href="https://my.engineering.ucla.edu/index.php">MyEngineering</a> to declare your area (left hand side, select About Me).  Allow 24-48 hours for the system to update DARS.</p>
-<p><span style="font-size: 14px">Students are required to read and review the two items above before selecting an area and enrolling in courses:</span></p>
-<ul>
-<li style="text-align: left"><span style="font-size: 14px"><strong>FEC Approved Regulations and Policies Outlining the Technical Breadth Requirements</strong></span></li>
-<li style="text-align: left"><span style="font-size: 14px"><span style="font-size: 14px"><strong>Subset Restrictions</strong> (It is not permitted to use more than one course from the same subset in meeting degree requirements for any engineering major)</span></span></li>
-</ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p></div>
-			</div>
-			</div>
-				
-				
-				
-				
-			</div>
-				
-				
-			</div><div class="et_pb_section et_pb_section_3 et_section_regular" >
-				
-				
-				
-				
-				
-				
-				<div class="et_pb_row et_pb_row_3">
-				<div class="et_pb_column et_pb_column_1_2 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				
-				
-				<div class="et_pb_module et_pb_toggle et_pb_toggle_3 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h2 class="et_pb_toggle_title">Bioengineering</h2>
-				<div class="et_pb_toggle_content clearfix"><p>Designed to provide students with the opportunity to gain working knowledge of a technical field other than his/her major.</p>
-<p><strong>Required Upper Division Courses (12 units)</strong>: select from<br /><em>BIOENGR 100</em> through <em>187</em>. One of the three courses can be substituted by <em>CHEM 20B</em> or <em>LIFESCI 7A </em>if not used to satisfy other degree requirements and additional two courses that are applied to technical breadth area are upper division.</p>
-<p><span style="color: #e02b20"><strong>Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.</strong></span></p>
-<p>&nbsp;</p></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_4 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h2 class="et_pb_toggle_title">Chemical &amp; Biomolecular Engineering</h2>
-				<div class="et_pb_toggle_content clearfix"><p>Designed to provide students with the opportunity to gain working knowledge of a technical field other than his/her major.</p>
-<p><strong>Required Upper Division Courses (12 units)</strong>: select from <em>CH ENGR 100 through 187.</em>   One of the three courses can be substituted by <em>CHEM 20B</em> if not used to satisfy other degree requirements and additional two courses that are applied to technical breadth area are upper division.</p>
-<p><span style="color: #e02b20"><strong>Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.</strong></span></p></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_5 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h2 class="et_pb_toggle_title">Civil &amp; Environmental Engineering</h2>
-				<div class="et_pb_toggle_content clearfix"><p>Designed to provide students with the opportunity to gain working knowledge of a technical field other than his/her major.</p>
-<p><strong>Required Upper Division Courses (12 units)</strong>: select from<em> C&amp;EE 100 through 187</em>.  One of the three courses can be substituted by<em> CHEM 20B</em> if not used to satisfy other degree requirements and additional two courses that are applied to technical breadth area are upper division.</p>
-<p><strong style="color: #e02b20;font-size: 14px;font-family: Lato, Helvetica, Arial, Lucida, sans-serif">Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.</strong></p></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_6 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h2 class="et_pb_toggle_title">Computer Science</h2>
-				<div class="et_pb_toggle_content clearfix"><p>Designed to provide students with the opportunity to gain working knowledge of a technical field other than his/her major.</p>
-<p><strong>Required Courses (12 units)</strong>: select from <em>COM SCI 31, COM SCI 32, COM SCI 33, <strong>COM SCI 35L</strong>, MATH 61, COM SCI 102 through 187.   </em></p>
-<p><span style="color: #e02b20"><strong>Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.</strong></span></p></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_7 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h2 class="et_pb_toggle_title">Electrical &amp; Computer Engineering</h2>
-				<div class="et_pb_toggle_content clearfix"><p>Designed to provide students with the opportunity to gain working knowledge of a technical field other than his/her major.</p>
-<p><strong>Required Courses (12 units):</strong> select from EC ENGR 3, <em>EC ENGR 10, EC ENGR 100 through 187</em> <strong>except</strong> <em>EC ENGR CM182.</em></p>
-<p><strong style="font-size: 14px;font-family: Lato, Helvetica, Arial, Lucida, sans-serif"><span style="color: #e02b20"><strong>Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.</strong></span></strong></p></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_8 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h2 class="et_pb_toggle_title">Materials Science &amp; Engineering</h2>
-				<div class="et_pb_toggle_content clearfix"><p>Designed to provide students with the opportunity to gain working knowledge of a technical field other than his/her major.</p>
-<p><strong>Required Upper Division Courses (12 units)</strong>: select from <em>MAT SCI 100 through 187</em>. One of the three courses can be substituted by <em>CHEM 20B</em> if not used to satisfy other degree requirements and additional two courses that are applied to technical breadth area are upper division.</p>
-<p><span style="color: #e02b20;font-size: 14px"><strong style="font-family: Lato, Helvetica, Arial, Lucida, sans-serif"><strong>Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.</strong></strong></span></p></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_9 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h2 class="et_pb_toggle_title">Mechanical &amp; Aerospace Engineering</h2>
-				<div class="et_pb_toggle_content clearfix"><p>Designed to provide students with the opportunity to gain working knowledge of a technical field other than his/her major.</p>
-<p><strong>Required Upper Division Courses (12 units)</strong>: select from <em>MECH&amp;AE 100 through 187.  </em>One of the three courses can be substituted by<em> CHEM 20B</em> if not used to satisfy other degree requirements and additional two courses that are applied to technical breadth area are upper division.</p>
-<p><span style="color: #e02b20"><strong>Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.</strong></span></p></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_10 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h2 class="et_pb_toggle_title">Computational Genomics</h2>
-				<div class="et_pb_toggle_content clearfix"><p>Designed to provide students with a broad background in Genomics.</p>
-<p><strong>Required Courses (12 unit minimum)</strong>. Select any three courses from:<em> CHEM 20A, EE BIOL 135, HUM GEN C144, LIFESCI 7A,</em><br /><em>LIFESCI 7B, LIFESCI 7C, LIFESCI 107, MCD BIO 144,  MCD BIO 172, MIMG CM156/MCD BIO CM156, PHYSCI 125</em></p>
-<p><span style="font-size: 14px"><strong><em>Enrollment in the following 200 level graduate courses is by an <a href="https://www.seasoasa.ucla.edu/petition-process/">engineering petition</a> and approval is subject to a student meeting course requisites and a minimum 3.000 GPA:</em> </strong> </span><em style="font-size: 14px">BIOMATH M203, BIOMATH M211, BIOSTAT M272, BIOSTAT M278, EE BIOL M231, HUM GEN 236A HUM GEN 236B, STATS M254</em></p>
-<p><span style="color: #e02b20"><strong>Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.</strong></span></p></div>
-			</div>
-			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				
-				
-				<div class="et_pb_module et_pb_toggle et_pb_toggle_11 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h2 class="et_pb_toggle_title">Digital Humanities</h2>
-				<div class="et_pb_toggle_content clearfix"><p>Designed for students who wish to obtain a working knowledge of cutting-edge digital tools and methods applied to fundamental research in the Humanities.  Courses introduce text analysis, data mining, visualization, 3D modeling and simulation, geospatial analysis and mapping, multi-media storytelling, information design, network analysis, interface design, and mark-up, and provide training to apply these tools to humanistic questions.</p>
-<p><strong>Required Upper Division Courses (12 units)</strong>:<em> DGT HUM 101 <span style="text-decoration: underline">(required)*</span>,  an additional two courses (minimum 8 units) selected from </em>DGT HUM 110,  <em><strong>DGT HUM 120</strong></em>, DGT HUM 125, DGT HUM 131, DGT HUM 140, DGT HUM M145<em><strong>,</strong> DGT HUM 150**, DGT HUM 151**</em></p>
-<p>*students who are having issues enrolling in DGT HUM 101 after their 2nd pass enrollment begins for the current term and after contacting the Digital Humanities department please notify us via MyUCLA Message Center (select the Engineering Queue) of your enrollment concerns.</p>
-<p><em>**To receive credit for 150 or 151 a student must file <a href="https://www.seasoasa.ucla.edu/petition-process/">an engineering petition</a> and include the syllabus as these are variable topics, which must be vetted.   DGT HUM 150, 151 may be repeated for credit with different topics.  </em></p>
-<p><strong style="color: #e02b20;font-size: 14px">Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.</strong></p></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_12 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h2 class="et_pb_toggle_title">Energy and the Environment</h2>
-				<div class="et_pb_toggle_content clearfix"><p>Designed to provide students with a broad-background in the science, technology, and policy related to <span class="il">energy</span> production and consumption and its impact on the <span class="il">environment</span> and society.</p>
-<p><strong>Required Upper Division Courses (12 units)</strong>: select from <em>A&amp;O SCI 102, A&amp;O SCI 103, A&amp;O SCI 104, CH ENGR 102A, </em><em>C&amp;EE 150, C&amp;EE 151, C&amp;EE 153, C&amp;EE 154, C&amp;EE C159, C&amp;EE M165, ENVIRON M111, ENVIRON M126, ENVIRON 140, ENVIRON M153, ENVIRON 157, ENVIRON C159, ENVIRON 163, ENVIRON 166, EPS SCI 101, MECH&amp;AE 103, MECH&amp;AE 105A, </em><em>MECH&amp;AE 133A, MECH&amp;AE 135, MECH&amp;AE 136, MECH&amp;AE C137, MECH&amp;AE 150C.</em></p>
-<p><em><strong>Enrollment in the following 200 level graduate courses is by <span style="font-size: 14px">an <a href="https://www.seasoasa.ucla.edu/petition-process/">engineering petition</a> </span>and approval is subject to a student meeting course requisites and a minimum 3.000 GPA:  </strong>CH ENGR 223, </em><em>MAT SCI 252, MAT SCI 298 </em>(specifically Materials Science for Alternative Energy Technologies topic)</p>
-<p><span style="color: #e02b20;font-size: 14px"><strong>Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.</strong></span></p></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_13 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h2 class="et_pb_toggle_title">Engineering Mathematics</h2>
-				<div class="et_pb_toggle_content clearfix"><p>Designed to provide students with the opportunity to gain working knowledge of a technical field other than their major.</p>
-<p><strong>Required Upper Division Courses (12 units)</strong>: select from <em>C&amp;EE 103, C&amp;EE 110, COM SCI 112, COM SCI 170A, COM SCI 180, COM SCI 181, EC ENGR 102, EC ENGR 133A, EC ENGR 131A, MECH&amp;AE 181A, MECH&amp;AE 182B, MECH&amp;AE 182C, MATH 61, MATH 110A, MATH 115A, MATH 131A, MATH 132, MATH 134, MATH 142, MATH 151A, MATH 164, MATH 167, MATH 171, MATH 180, MECH&amp;AE 181A, MECH&amp;AE 182B, MECH&amp;AE 182C.</em></p>
-<p><span style="color: #e02b20"><strong>Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.</strong></span></p></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_14 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h2 class="et_pb_toggle_title">Engineering Science</h2>
-				<div class="et_pb_toggle_content clearfix"><p>Designed to provide students with the opportunity to gain working knowledge of a technical field other than their major.</p>
-<p><strong>Required Courses (12 units)</strong>: select from<em> BIOENGR 100, BIOENGR C101, CH ENGR 100, CH ENGR 102A, </em><em>C&amp;EE 91 (formerly 101), </em><em>C&amp;EE 103</em>, <em>C&amp;EE 108</em>,<em> C&amp;EE 110 or STATS 100A or EC ENGR 131A<strong> or </strong>MATH 170E,<strong> C&amp;EE 153</strong>, COM SCI 31 or MECH&amp;AE M20/C&amp;EE M20, COM SCI 32, EC ENGR 3, EC ENGR 10, EC ENGR 100</em>, <em> EC ENGR 101A</em>, <em>ENGR M101/MAT SCI M105, EC ENGR 102, </em> <em>EC ENGR 133A</em>, <em>MAT SCI 104, MECH&amp;AE 101</em>, <em>MECH&amp;AE 102</em>, <em>MECH&amp;AE 103,  MECH&amp;AE 105A.</em></p>
-<p style="font-weight: bold;color: #e02b20;font-size: 14px">Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.</p>
-<p>&nbsp;</p></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_15 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h2 class="et_pb_toggle_title">Nanotechnology</h2>
-				<div class="et_pb_toggle_content clearfix"><p>Designed to train students with cutting-edge knowledge and skills for their future successes in nano-related fields.</p>
-<p><strong>Required Upper Division Courses (12 units):</strong><em> MAT SCI 105 </em><span style="text-decoration: underline">(required)</span>,  an additional two courses (8 units) selected from <em>C&amp;EE M165/ENGR M103, EC ENGR 128</em>, <em>MECH&amp;AE M183B, MECH&amp;AE C187L.</em></p>
-<p>&nbsp;</p>
-<p><span style="color: #e02b20"><strong>Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.</strong></span></p></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_16 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h2 class="et_pb_toggle_title">Pre-Med</h2>
-				<div class="et_pb_toggle_content clearfix"><p>Designed for engineering undergraduates who are also truly pre-med or pre-health and planning to pursue graduate studies in the medical or health fields.</p>
-<p><strong>Required Courses (12 units):</strong> select from<em> CHEM 30BL, CHEM 30C, CHEM 153A, CHEM 153L, LIFE SCI 7B, LIFESCI 7C , BIOSTATS 100A or STATS 100A.</em></p>
-<p>&nbsp;</p>
-<p><span style="color: #e02b20"><strong>Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.</strong></span></p></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_17 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h2 class="et_pb_toggle_title">Technology Management</h2>
-				<div class="et_pb_toggle_content clearfix"><p>Designed to teach students how technology management works and what drives decision making in start-ups, in venture-backed IPOs and in giant multinationals.</p>
-<p><strong>Required Upper Division Courses (12 units):</strong> select from <em>C&amp;EE 170, ENGR 110, ENGR 111, ENGR 112, ENGR 113, ENGR 160, ENGR 163, ENGR 180, MGMT 108, MGMT 160, MGMT 161, MGMT 162, MGMT 163, MGMT 170<strong>*</strong>,<strong> ECON 1**, ECON 2**</strong></em></p>
-<p>*Students with credit for MGMT 180 (Real Estate Finance and Investment) may not take MGMT 170 for credit.  It is the same course.</p>
-<p>Other <em>MGMT 180 topics will be considered by an <a href="https://www.seasoasa.ucla.edu/petition-process/">engineering petition only.</a>  Please include the syllabus as these topics need to be vetted and reviewed.</em></p>
-<p><em><strong>**ECON 1 may be <a href="https://www.seasoasa.ucla.edu/petition-process/">petitioned </a>for credit.  We recommend students not take ENGR 110 if they use ECON 1 credit due to some content overlap.</strong></em><br /><em><strong> **ECON 2 may be <a href="https://www.seasoasa.ucla.edu/petition-process/">petitioned </a>for credit.  Students approved to use ECON 2 may NOT take ENGR 110 due to significant content overlap.</strong></em></p>
-<p><span style="color: #e02b20"><strong>Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.</strong></span></p></div>
-			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_18 et_pb_toggle_item  et_pb_toggle_close">
-				
-				
-				
-				
-				<h2 class="et_pb_toggle_title">Urban Planning</h2>
-				<div class="et_pb_toggle_content clearfix"><p>Designed to provide students with the opportunity to gain working knowledge of community development, environmental planning, housing, land development, regional and international development, transportation, and urban design.  This area was added by popular demand to supplement the education of C&amp;EE majors, <em>however</em> there is no guarantee of being able to access or enroll in URBN PL or PUB AFF courses.  Students should plan carefully and review enrollment restrictions outlined by the Urban Planning and Public Affairs departments.</p>
-<p><strong>Required Upper Division Courses (12 units):</strong> select courses from<em> C&amp;EE 180, C&amp;EE 181, <strong>C&amp;EE C185</strong>, <strong>C&amp;EE C186</strong>,<strong> PUB AFF 110</strong>, URBN PL M120/PUBAFF M109, URBN PL 121, URBN PL 130, URBN PL CM137, URBN PL 141, URBN PL M150, </em><em>URBN PL CM151/PUBAFF M153, URBN PL M161/PUB AFF M160. </em></p>
-<p><em><strong>Enrollment in the following 200 level graduate courses is by <span style="font-size: 14px">an <a href="https://www.seasoasa.ucla.edu/petition-process/">engineering petition</a> </span>and approval is subject to a student meeting course requisites and a minimum 3.000 GPA:  </strong>URBN PL M206A, URBN PL M250, URBN PL M253, URBN PL 254, URBN PL M255, URBN PL M256, URBN PL M258.</em></p>
-<p><span style="color: #e02b20;font-size: 14px"><strong>Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.</strong></span></p></div>
-			</div>
-			</div>
-				
-				
-				
-				
-			</div>
-				
-				
-			</div><div class="et_pb_section et_pb_section_4 et_section_regular" >
-				
-				
-				
-				
-				
-				
-				<div class="et_pb_row et_pb_row_4 et_pb_row_fullwidth">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				
-				
-				<div class="et_pb_module et_pb_divider et_pb_divider_1 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div>
-			</div>
-				
-				
-				
-				
-			</div>
-				
-				
-			</div><div class="et_pb_section et_pb_section_6 et_section_regular" >
-				
-				
-				
-				
-				
-				
-				
-				
-				
-			</div>		</div>
-	</div>
-						</div>
-
-				
-				</article>
-
-			
-
-</div>
-
-
-	<span class="et_pb_scroll_top et-pb-icon"></span>
-
-
-			<footer id="main-footer">
-				
-
-		
-				<div id="footer-bottom">
-					<div class="container clearfix">
-				<div id="footer-logo">
-					<a href="https://samueli.ucla.edu/engineerchange/" target="_blank"><img src="/wp-content/uploads/samueli/engineer-change-tagline.png" alt="Engineer Change." width="200px"></a><br>
-				</div>
-				<ul class="et-social-icons" aria-label="socialmedia-menu">
-
-	<li class="et-social-icon et-social-twitter">
-		<a href="http://twitter.com/seasoasa" class="icon" aria-label="X" rel="noopener" target="_blank">
-			<span>X</span>
-		</a>
-	</li>
-
-</ul>
-					</div>	<!-- .container -->
-					<div class="container clearfix">
-					<div id="footer-copyright">
-						&copy; <span style="font-style: italic;">Copyright 2024 UCLA Samueli School Of Engineering</span>
-					</div>	<!-- .container -->
-					<div id="footer-menu-wrapper">
-						<ul class="footer-menu">
-						<li><a aria-label="Contact Us" href="/contact">Contact Us</a></li>
-						<li><a target="_blank" aria-label="Accessibility" rel="noopener" href="http://www.ucla.edu/accessibility">Accessibility</a></li>
-						<li><a target="_blank" aria-label="Terms of Use" rel="noopener" href="https://samueli.ucla.edu/terms-of-use">Terms of Use</a></li>
-						<li><a target="_blank" aria-label="Safety First" rel="noopener" href="https://samueli.ucla.edu/safety-first">Safety First</a></li>
-						<li><a target="_blank" aria-label="UCLA" rel="noopener" href="http://www.ucla.edu">UCLA</a></li>
-						</ul>
-					</div>	<!-- #footer-menu-wrapper -->
-<!-- cookie consent -->
-<!-- cookie consent -->
-			</div>
-			</div>
-
-
-
-
-			</div>
-
-
-			</div>
-					</div>	<!-- .container -->
-				</div>
-			</footer> <!-- #main-footer -->
-		</div> <!-- #et-main-area -->
-
-
-	</div> <!-- #page-container -->
-
-	<link rel='stylesheet' id='wp-block-library-css' href='https://www.seasoasa.ucla.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2' media='none' onload="media='all'" />
-<script src="https://www.seasoasa.ucla.edu/wp-content/plugins/responsive-image-maps/jquery.rwdImageMaps.min.js?ver=1.5" id="jQuery.rwd_image_maps-js"></script>
-<script id="divi-custom-script-js-extra">
-var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
-var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
-var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
-var et_pb_custom = {"ajaxurl":"https:\/\/www.seasoasa.ucla.edu\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.seasoasa.ucla.edu\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.seasoasa.ucla.edu\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"110a308d7a","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"fe59ea305a","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"3660","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https:\/\/www.seasoasa.ucla.edu\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#ffe800","waypoints_options":[]};
-var et_pb_box_shadow_elements = [];
-</script>
-<script src="https://www.seasoasa.ucla.edu/wp-content/themes/Divi/js/scripts.min.js?ver=4.23.1" id="divi-custom-script-js"></script>
-<script src="https://www.seasoasa.ucla.edu/wp-content/themes/Divi/js/smoothscroll.js?ver=4.23.1" id="smoothscroll-js"></script>
-<script src="https://www.seasoasa.ucla.edu/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.6" id="page-links-to-js"></script>
-<script src="https://www.seasoasa.ucla.edu/wp-content/themes/Divi/core/admin/js/common.js?ver=4.23.1" id="et-core-common-js"></script>
-<script id="divi-accessibility-da11y-js-extra">
-var _da11y = {"version":"2.0.1","active_outline_color":"#2ea3f2"};
-</script>
-<script src="https://www.seasoasa.ucla.edu/wp-content/plugins/divi-accessibility-master/public/js/da11y.js?ver=2.0.1" id="divi-accessibility-da11y-js"></script>
-<script id="divi-accessibility-da11y-js-after">
-jQuery(document).ready(function(e){var n,a;function s(){const n=e(".et_search_form_container");n.hasClass("et_pb_is_animating")||(e(".et_menu_container").removeClass("et_pb_menu_visible et_pb_no_animation").addClass("et_pb_menu_hidden"),n.removeClass("et_pb_search_form_hidden et_pb_no_animation").addClass("et_pb_search_visible et_pb_is_animating"),setTimeout(function(){e(".et_menu_container").addClass("et_pb_no_animation"),n.addClass("et_pb_no_animation").removeClass("et_pb_is_animating")},1e3),n.find("input").focus(),function(){const n=e(".et_search_form_container"),a=e("body");if(n.hasClass("et_pb_search_visible")){const s=e("#main-header").innerHeight(),i=e("#top-menu").width(),t=e("#top-menu li a").css("font-size");n.css({height:s+"px"}),n.find("input").css("font-size",t),a.hasClass("et_header_style_left")?n.find("form").css("max-width",i+60):n.css("max-width",i+60)}}())}e(".menu-item-has-children").find("a")&&(e(".menu-item-has-children").find("a").addClass("da11y-submenu"),e(".menu-item-has-children").find("a").not(".sub-menu a").attr("aria-expanded","false")),e(".da11y-submenu").on("focus",function(){e(this).not(".sub-menu a").attr("aria-expanded","true"),e(this).siblings(".sub-menu").addClass("da11y-submenu-show"),e(this).trigger("mouseenter")}),e("body").on("keydown",".menu-item-has-children a",function(e){n=e.which,a=e.shiftKey}),e(".menu-item-has-children a").on("focusout",function(){9==n&&(a||e(this).parent().not(".menu-item-has-children").is(":last-child")&&e(this).parents(".menu-item-has-children").children(".da11y-submenu").attr("aria-expanded","false").trigger("mouseleave").siblings(".sub-menu").removeClass("da11y-submenu-show"))}),e(this).keyup(function(){e(".et-search-field").focus(function(){s()}).blur(function(){e(".et_search_form_container").hasClass("et_pb_is_animating")||(e(".et_menu_container").removeClass("et_pb_menu_hidden et_pb_no_animation").addClass("et_pb_menu_visible"),e(".et_search_form_container").removeClass("et_pb_search_visible et_pb_no_animation").addClass("et_pb_search_form_hidden et_pb_is_animating"),setTimeout(function(){e(".et_menu_container").addClass("et_pb_no_animation"),e(".et_search_form_container").addClass("et_pb_no_animation").removeClass("et_pb_is_animating")},1e3))})})});
-
-jQuery(document).ready((function(t){!function(e){const n='<a href="'+e+'" class="skip-link da11y-screen-reader-text">Skip to content</a>';t(e).attr("tabindex",-1),t("body").prepend(n)}("#main-content"),t('a[href^="#"]').click((function(){t("#"+t(this).attr("href").slice(1)).focus()}))}));
-jQuery(document).ready((function(e){let n=new Date,o=new Date;e(this).on("focusin",(function(t){e(".keyboard-outline").removeClass("keyboard-outline"),o<n&&e(t.target).addClass("keyboard-outline")})),e(this).on("mousedown",(function(){o=new Date})),e(this).on("keydown",(function(){n=new Date}))}));
-jQuery(document).ready((function(t){t(".et_pb_toggle").each((function(){t(this).attr("tabindex",0)})),t(".et_pb_toggle").on("keydown",(function(t){32===t.which&&t.preventDefault()})),t(document).on("keyup",(function(e){13!==e.which&&32!==e.which||t(".et_pb_toggle:focus .et_pb_toggle_title").trigger("click")}))}));
-jQuery(document).ready((function(e){e(".et-search-field").each((function(t){e(this).attr("id","et_pb_search_module_input_"+t),e("#et_pb_search_module_input_"+t).before('<label class="da11y-screen-reader-text" for="et_pb_search_module_input_'+t+'">Search for...</label>'),e("#et_pb_search_module_input_"+t).after('<button type="submit" class="da11y-screen-reader-text">Search</button>')})),e(".et_pb_s").each((function(t){e(this).attr("id","et_pb_s_module_input_"+t),e("#et_pb_s_module_input_"+t).before('<label class="da11y-screen-reader-text" for="et_pb_s_module_input_'+t+'">Search for...</label>')})),e(".et_pb_contact_form").each((function(){e(this).find(".et_pb_contact_captcha_question").parent().wrap("<label></label>")})),e(".et-social-facebook a.icon span").text("Facebook"),e(".et-social-twitter a.icon span").text("Twitter"),e(".et-social-google-plus a.icon span").text("Google Plus"),e(".et-social-pinterest a.icon span").text("Pinterest"),e(".et-social-linkedin a.icon span").text("LinkedIn"),e(".et-social-tumblr a.icon span").text("Tumblr"),e(".et-social-instagram a.icon span").text("Instagram"),e(".et-social-skype a.icon span").text("Skype"),e(".et-social-flikr a.icon span").text("Flickr"),e(".et-social-myspace a.icon span").text("Myspace"),e(".et-social-dribbble a.icon span").text("Dribble"),e(".et-social-youtube a.icon span").text("YouTube"),e(".et-social-vimeo a.icon span").text("Vimeo"),e(".et-social-rss a.icon span").text("RSS")}));
-jQuery(document).ready((function(t){t(".et_pb_tabs_controls").each((function(){t(this).attr("role","tabList")})),t(".et_pb_tabs_controls li").each((function(){t(this).attr("role","presentation")})),t(".et_pb_tabs_controls a").each((function(){t(this).attr("role","tab")})),t(".et_pb_tab").each((function(){t(this).attr("role","tabpanel")})),t(".et_pb_tabs_controls li:not(.et_pb_tab_active) a").each((function(){t(this).attr({"aria-selected":"false","aria-expanded":"false",tabindex:-1})})),t(".et_pb_tabs_controls li.et_pb_tab_active a").each((function(){t(this).attr({"aria-selected":"true","aria-expanded":"true",tabindex:0})})),t(".et_pb_tabs_controls a").each((function(a){t(this).attr({id:"et_pb_tab_control_"+a,"aria-controls":"et_pb_tab_panel_"+a})})),t(".et_pb_tab").each((function(a){t(this).attr({id:"et_pb_tab_panel_"+a,"aria-labelledby":"et_pb_tab_control_"+a})})),t(".et_pb_tab.et_pb_active_content").each((function(){t(this).attr("aria-hidden","false")})),t(".et_pb_tab:not(.et_pb_active_content)").each((function(){t(this).attr("aria-hidden","true")})),t(".et_pb_tabs").each((function(a){t(this).attr("data-da11y-id","et_pb_tab_module_"+a)})),t(".et_pb_tabs_controls a").on("click",(function(){const a=t(this).attr("id"),e=t(this).closest(".et_pb_tabs").attr("data-da11y-id");t('[data-da11y-id="'+e+'"] .et_pb_tabs_controls a').attr({"aria-selected":"false","aria-expanded":"false",tabindex:-1}),t(this).attr({"aria-selected":"true","aria-expanded":"true",tabindex:0}),t("#"+e+" .et_pb_tab").attr("aria-hidden","true"),t('[aria-labelledby="'+a+'"]').attr("aria-hidden","false")})),t(".et_pb_tabs_controls a").keyup((function(a){const e=t(this).closest(".et_pb_tabs").attr("data-da11y-id"),i=t('[data-da11y-id="'+e+'"]');if(39===a.which){const t=i.find("li.et_pb_tab_active").next();t.length>0?t.find("a").trigger("click"):i.find("li:first a").trigger("click")}else if(37===a.which){const t=i.find("li.et_pb_tab_active").prev();t.length>0?t.find("a").trigger("click"):i.find("li:last a").trigger("click")}t(".et_pb_tabs_controls a").removeClass("keyboard-outline"),i.find("li.et_pb_tab_active a").addClass("keyboard-outline")})),t(".et_pb_search").each((function(a){t(this).attr("data-da11y-id","et_pb_search_module_"+a)})),t('[data-required_mark="required"]').each((function(){t(this).attr("aria-required","true")})),t(".et_pb_contactform_validate_field").attr("type","hidden"),t(".et-pb-contact-message").attr("role","alert"),t("#main-content").attr("role","main"),t(".et_pb_fullwidth_header").each((function(a){t(this).attr("aria-label","Wide Header"+a)})),t("#comment-wrap").attr("aria-label","Comments")}));
-jQuery(document).ready((function(e){e("#et_top_search, .et_close_search_field, .et_pb_main_blurb_image").attr("aria-hidden","true")}));
-jQuery(document).ready((function(e){e(".mobile_menu_bar_toggle").attr({role:"button","aria-expanded":"false","aria-label":"Menu",tabindex:0}),e(".mobile_menu_bar_toggle").on("click",(function(){e(this).hasClass("a11y-mobile-menu-open")?e(this).removeClass("a11y-mobile-menu-open").attr("aria-expanded","false"):e(this).addClass("a11y-mobile-menu-open").attr("aria-expanded","true")})),e(".mobile_menu_bar_toggle").keyup((function(n){13===n.keyCode&&e(".mobile_menu_bar_toggle").click()})),e(document).keyup((function(n){27===n.keyCode&&e("#et_mobile_nav_menu .mobile_nav").hasClass("opened")&&e(".mobile_menu_bar_toggle").click()})),e(this).on("focusin",(function(){e("#et_mobile_nav_menu .mobile_nav").hasClass("opened")&&(e("#et_mobile_nav_menu .et_mobile_menu :focus").length||e("#et_mobile_nav_menu .mobile_menu_bar_toggle").click())}))}));
-</script>
-</body>
-</html>
+Undergraduate Technical Breadth Area | OASA
+Select Page
+Search for:
+X
+Undergraduate Technical Breadth Area
+Faculty Executive Committee (FEC) Approved Regulations and Policies Outlining the Technical Breadth Requirement (effective Fall 2023 as of 09/25/2023)
+The Technical Breadth Requirement (TBR)
+is a 12.0 unit requirement designed to provide a student with the opportunity to gain working knowledge in a
+technical
+area
+outside their major department
+.   For example: students in the Bioengineering major cannot choose a technical breadth area (TBA) in Bioengineering.  Students must take three courses from one area.
+To complete the requirement with three courses, those three courses must add up to at least 12.0 units.
+Courses chosen to satisfy the technical breadth requirement
+can not be used to satisfy other degree requirements
+and students are responsible for meeting the requisites of courses selected.
+Exceptions to the above are:
+Students in the Computer Engineering major and the Computer Science and Engineering major are allowed to select any technical breadth area
+including
+Electrical and Computer Engineering or Computer Science.
+Students may choose a course offered by their major department IF the course is part of a schoolwide area
+and not being used to satisfy other degree requi
+rements
+. For example: CS majors may take COM SCI 112 for the Engineering Mathematics Area, but then may not “double count” that course to fulfill a Major Field Elective as well.
+Students may take multiple department listed (M) courses as long as the course chosen is
+not used to satisfy other degree requirements.
+For example: CS major can use COM SCI M119 for the ECE TBR because it is also an ECE course but then may not “double count” that course to fulfill a Major Field Elective as well.
+Students may petition, at 6426BH, to use one lower division course to satisfy a technical breadth elective IF that lower division course is a requisite for at least one of the two upper division technical breadth courses that the student takes from the same area (and that lower division course is
+not being used to satisfy other degree requirements
+).
+Students are
+not allowed
+to use more than one course from the same subset in meeting degree requirements for any engineering major.
+Please refer to the SUBSET RESTRICTIONS below before selecting an area and enrolling in courses.
+SUBSET RESTRICTIONS
+SUBSET RESTRICTIONS:
+IT IS NOT PERMITTED TO USE MORE THAN ONE COURSE FROM THE SAME SUBSET IN MEETING DEGREE REQUIREMENTS FOR ANY ENGINEERING MAJOR.
+Subset 1:
+Probability and Statistics
+(C&EE 110, EC ENGR 131A, ENGR 116, MATH 170A, MATH 170E, STATS 100A)
+Subset 2
+:
+Numerical Computing
+(C&EE 103, CH ENGR 109, EC ENGR 133A, MATH 151A)
+Subset 3a:
+Structural Mechanics (C&EE 108, MECH&AE 156A, MECH&AE 166A)
+Subset 3b
+:
+Statics
+(C&EE 91, MECH&AE 101)
+Subset 3c
+:
+Dynamics
+(C&EE 102, MECH&AE 102)
+Subset 4a
+:
+Introductory Thermodynamics
+(CH ENGR 102A, MECH&AE 105A)
+Subset 4b
+:
+Transport Phenomena
+(CH ENGR 101B, MECH&AE 105D)
+Subset 5a
+:
+Systems
+(EC ENGR 102, MECH&AE 107)
+Subset 5b
+:
+Controls
+(CH ENGR 107, EC ENGR 141, MECH&AE 171A)
+Subset 6
+:
+Circuits
+(EC ENGR 10, EC ENGR 100)
+Subset 7
+:
+Differential Equations
+(MATH 33B, MECH&AE 82)
+Subset 8:
+Entrepreneurship and Venture Initiation
+(ENGR 160, MGMT 160)
+Subset 9:
+Entrepreneurship and New Product Development
+(ENGR 163, MGMT 163)
+Technical Breadth Areas
+Students must satisfy a single Technical Breadth Area (minimum 12.0 units and three courses) outside their major’s department.
+Please login to
+MyEngineering
+to declare your area (left hand side, select About Me).  Allow 24-48 hours for the system to update DARS.
+Students are required to read and review the two items above before selecting an area and enrolling in courses:
+FEC Approved Regulations and Policies Outlining the Technical Breadth Requirements
+Subset Restrictions
+(It is not permitted to use more than one course from the same subset in meeting degree requirements for any engineering major)
+Bioengineering
+Designed to provide students with the opportunity to gain working knowledge of a technical field other than his/her major.
+Required Upper Division Courses (12 units)
+: select from
+BIOENGR 100
+through
+187
+. One of the three courses can be substituted by
+CHEM 20B
+or
+LIFESCI 7A
+if not used to satisfy other degree requirements and additional two courses that are applied to technical breadth area are upper division.
+Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.
+Chemical & Biomolecular Engineering
+Designed to provide students with the opportunity to gain working knowledge of a technical field other than his/her major.
+Required Upper Division Courses (12 units)
+: select from
+CH ENGR 100 through 187.
+One of the three courses can be substituted by
+CHEM 20B
+if not used to satisfy other degree requirements and additional two courses that are applied to technical breadth area are upper division.
+Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.
+Civil & Environmental Engineering
+Designed to provide students with the opportunity to gain working knowledge of a technical field other than his/her major.
+Required Upper Division Courses (12 units)
+: select from
+C&EE 100 through 187
+.  One of the three courses can be substituted by
+CHEM 20B
+if not used to satisfy other degree requirements and additional two courses that are applied to technical breadth area are upper division.
+Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.
+Computer Science
+Designed to provide students with the opportunity to gain working knowledge of a technical field other than his/her major.
+Required Courses (12 units)
+: select from
+COM SCI 31, COM SCI 32, COM SCI 33,
+COM SCI 35L
+, MATH 61, COM SCI 102 through 187.
+Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.
+Electrical & Computer Engineering
+Designed to provide students with the opportunity to gain working knowledge of a technical field other than his/her major.
+Required Courses (12 units):
+select from EC ENGR 3,
+EC ENGR 10, EC ENGR 100 through 187
+except
+EC ENGR CM182.
+Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.
+Materials Science & Engineering
+Designed to provide students with the opportunity to gain working knowledge of a technical field other than his/her major.
+Required Upper Division Courses (12 units)
+: select from
+MAT SCI 100 through 187
+. One of the three courses can be substituted by
+CHEM 20B
+if not used to satisfy other degree requirements and additional two courses that are applied to technical breadth area are upper division.
+Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.
+Mechanical & Aerospace Engineering
+Designed to provide students with the opportunity to gain working knowledge of a technical field other than his/her major.
+Required Upper Division Courses (12 units)
+: select from
+MECH&AE 100 through 187.
+One of the three courses can be substituted by
+CHEM 20B
+if not used to satisfy other degree requirements and additional two courses that are applied to technical breadth area are upper division.
+Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.
+Computational Genomics
+Designed to provide students with a broad background in Genomics.
+Required Courses (12 unit minimum)
+. Select any three courses from:
+CHEM 20A, EE BIOL 135, HUM GEN C144, LIFESCI 7A,
+LIFESCI 7B, LIFESCI 7C, LIFESCI 107, MCD BIO 144,  MCD BIO 172, MIMG CM156/MCD BIO CM156, PHYSCI 125
+Enrollment in the following 200 level graduate courses is by an
+engineering petition
+and approval is subject to a student meeting course requisites and a minimum 3.000 GPA:
+BIOMATH M203, BIOMATH M211, BIOSTAT M272, BIOSTAT M278, EE BIOL M231, HUM GEN 236A HUM GEN 236B, STATS M254
+Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.
+Digital Humanities
+Designed for students who wish to obtain a working knowledge of cutting-edge digital tools and methods applied to fundamental research in the Humanities.  Courses introduce text analysis, data mining, visualization, 3D modeling and simulation, geospatial analysis and mapping, multi-media storytelling, information design, network analysis, interface design, and mark-up, and provide training to apply these tools to humanistic questions.
+Required Upper Division Courses (12 units)
+:
+DGT HUM 101
+(required)*
+,  an additional two courses (minimum 8 units) selected from
+DGT HUM 110,
+DGT HUM 120
+, DGT HUM 125, DGT HUM 131, DGT HUM 140, DGT HUM M145
+,
+DGT HUM 150**, DGT HUM 151**
+*students who are having issues enrolling in DGT HUM 101 after their 2nd pass enrollment begins for the current term and after contacting the Digital Humanities department please notify us via MyUCLA Message Center (select the Engineering Queue) of your enrollment concerns.
+**To receive credit for 150 or 151 a student must file
+an engineering petition
+and include the syllabus as these are variable topics, which must be vetted.   DGT HUM 150, 151 may be repeated for credit with different topics.
+Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.
+Energy and the Environment
+Designed to provide students with a broad-background in the science, technology, and policy related to
+energy
+production and consumption and its impact on the
+environment
+and society.
+Required Upper Division Courses (12 units)
+: select from
+A&O SCI 102, A&O SCI 103, A&O SCI 104, CH ENGR 102A,
+C&EE 150, C&EE 151, C&EE 153, C&EE 154, C&EE C159, C&EE M165, ENVIRON M111, ENVIRON M126, ENVIRON 140, ENVIRON M153, ENVIRON 157, ENVIRON C159, ENVIRON 163, ENVIRON 166, EPS SCI 101, MECH&AE 103, MECH&AE 105A,
+MECH&AE 133A, MECH&AE 135, MECH&AE 136, MECH&AE C137, MECH&AE 150C.
+Enrollment in the following 200 level graduate courses is by
+an
+engineering petition
+and approval is subject to a student meeting course requisites and a minimum 3.000 GPA:
+CH ENGR 223,
+MAT SCI 252, MAT SCI 298
+(specifically Materials Science for Alternative Energy Technologies topic)
+Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.
+Engineering Mathematics
+Designed to provide students with the opportunity to gain working knowledge of a technical field other than their major.
+Required Upper Division Courses (12 units)
+: select from
+C&EE 103, C&EE 110, COM SCI 112, COM SCI 170A, COM SCI 180, COM SCI 181, EC ENGR 102, EC ENGR 133A, EC ENGR 131A, MECH&AE 181A, MECH&AE 182B, MECH&AE 182C, MATH 61, MATH 110A, MATH 115A, MATH 131A, MATH 132, MATH 134, MATH 142, MATH 151A, MATH 164, MATH 167, MATH 171, MATH 180, MECH&AE 181A, MECH&AE 182B, MECH&AE 182C.
+Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.
+Engineering Science
+Designed to provide students with the opportunity to gain working knowledge of a technical field other than their major.
+Required Courses (12 units)
+: select from
+BIOENGR 100, BIOENGR C101, CH ENGR 100, CH ENGR 102A,
+C&EE 91 (formerly 101),
+C&EE 103
+,
+C&EE 108
+,
+C&EE 110 or STATS 100A or EC ENGR 131A
+or
+MATH 170E,
+C&EE 153
+, COM SCI 31 or MECH&AE M20/C&EE M20, COM SCI 32, EC ENGR 3, EC ENGR 10, EC ENGR 100
+,
+EC ENGR 101A
+,
+ENGR M101/MAT SCI M105, EC ENGR 102,
+EC ENGR 133A
+,
+MAT SCI 104, MECH&AE 101
+,
+MECH&AE 102
+,
+MECH&AE 103,  MECH&AE 105A.
+Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.
+Nanotechnology
+Designed to train students with cutting-edge knowledge and skills for their future successes in nano-related fields.
+Required Upper Division Courses (12 units):
+MAT SCI 105
+(required)
+,  an additional two courses (8 units) selected from
+C&EE M165/ENGR M103, EC ENGR 128
+,
+MECH&AE M183B, MECH&AE C187L.
+Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.
+Pre-Med
+Designed for engineering undergraduates who are also truly pre-med or pre-health and planning to pursue graduate studies in the medical or health fields.
+Required Courses (12 units):
+select from
+CHEM 30BL, CHEM 30C, CHEM 153A, CHEM 153L, LIFE SCI 7B, LIFESCI 7C , BIOSTATS 100A or STATS 100A.
+Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.
+Technology Management
+Designed to teach students how technology management works and what drives decision making in start-ups, in venture-backed IPOs and in giant multinationals.
+Required Upper Division Courses (12 units):
+select from
+C&EE 170, ENGR 110, ENGR 111, ENGR 112, ENGR 113, ENGR 160, ENGR 163, ENGR 180, MGMT 108, MGMT 160, MGMT 161, MGMT 162, MGMT 163, MGMT 170
+*
+,
+ECON 1**, ECON 2**
+*Students with credit for MGMT 180 (Real Estate Finance and Investment) may not take MGMT 170 for credit.  It is the same course.
+Other
+MGMT 180 topics will be considered by an
+engineering petition only.
+Please include the syllabus as these topics need to be vetted and reviewed.
+**ECON 1 may be
+petitioned
+for credit.  We recommend students not take ENGR 110 if they use ECON 1 credit due to some content overlap.
+**ECON 2 may be
+petitioned
+for credit.  Students approved to use ECON 2 may NOT take ENGR 110 due to significant content overlap.
+Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.
+Urban Planning
+Designed to provide students with the opportunity to gain working knowledge of community development, environmental planning, housing, land development, regional and international development, transportation, and urban design.  This area was added by popular demand to supplement the education of C&EE majors,
+however
+there is no guarantee of being able to access or enroll in URBN PL or PUB AFF courses.  Students should plan carefully and review enrollment restrictions outlined by the Urban Planning and Public Affairs departments.
+Required Upper Division Courses (12 units):
+select courses from
+C&EE 180, C&EE 181,
+C&EE C185
+,
+C&EE C186
+,
+PUB AFF 110
+, URBN PL M120/PUBAFF M109, URBN PL 121, URBN PL 130, URBN PL CM137, URBN PL 141, URBN PL M150,
+URBN PL CM151/PUBAFF M153, URBN PL M161/PUB AFF M160.
+Enrollment in the following 200 level graduate courses is by
+an
+engineering petition
+and approval is subject to a student meeting course requisites and a minimum 3.000 GPA:
+URBN PL M206A, URBN PL M250, URBN PL M253, URBN PL 254, URBN PL M255, URBN PL M256, URBN PL M258.
+Please read the SUBSET RESTRICTIONS before selecting an area and enrolling in courses.
+X
+©
+Copyright 2024 UCLA Samueli School Of Engineering
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA

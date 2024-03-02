@@ -1,1681 +1,418 @@
-<!DOCTYPE html>
-<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" class="html_stretched responsive av-preloader-disabled  html_header_top html_logo_left html_main_nav_header html_menu_right html_custom html_header_sticky_disabled html_header_shrinking_disabled html_header_topbar_active html_mobile_menu_phone html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_av-submenu-hidden html_av-submenu-display-click html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_18836 av-cookies-no-cookie-consent av-no-preview av-default-lightbox html_text_menu_active av-mobile-menu-switch-default">
-<head>
-<meta charset="UTF-8" />
-<meta name="robots" content="index, follow" />
-
-
-<!-- mobile setting -->
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Scripts/CSS and wp_head hook -->
-<title>UCLA College Bruin Bookshelf &#8211; UCLA College</title>
-<meta name='robots' content='max-image-preview:large' />
-<link rel="alternate" type="application/rss+xml" title="UCLA College &raquo; Feed" href="https://www.college.ucla.edu/feed/" />
-<link rel="alternate" type="application/rss+xml" title="UCLA College &raquo; Comments Feed" href="https://www.college.ucla.edu/comments/feed/" />
-		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.19 - Using Analytics tracking - https://www.monsterinsights.com/ -->
-							<script src="//www.googletagmanager.com/gtag/js?id=G-V20GNM4CRS"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
-			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
-				var mi_version = '8.19';
-				var mi_track_user = true;
-				var mi_no_track_reason = '';
-				
-								var disableStrs = [
-										'ga-disable-G-V20GNM4CRS',
-									];
-
-				/* Function to detect opted out users */
-				function __gtagTrackerIsOptedOut() {
-					for (var index = 0; index < disableStrs.length; index++) {
-						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
-							return true;
-						}
-					}
-
-					return false;
-				}
-
-				/* Disable tracking if the opt-out cookie exists. */
-				if (__gtagTrackerIsOptedOut()) {
-					for (var index = 0; index < disableStrs.length; index++) {
-						window[disableStrs[index]] = true;
-					}
-				}
-
-				/* Opt-out function */
-				function __gtagTrackerOptout() {
-					for (var index = 0; index < disableStrs.length; index++) {
-						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
-						window[disableStrs[index]] = true;
-					}
-				}
-
-				if ('undefined' === typeof gaOptout) {
-					function gaOptout() {
-						__gtagTrackerOptout();
-					}
-				}
-								window.dataLayer = window.dataLayer || [];
-
-				window.MonsterInsightsDualTracker = {
-					helpers: {},
-					trackers: {},
-				};
-				if (mi_track_user) {
-					function __gtagDataLayer() {
-						dataLayer.push(arguments);
-					}
-
-					function __gtagTracker(type, name, parameters) {
-						if (!parameters) {
-							parameters = {};
-						}
-
-						if (parameters.send_to) {
-							__gtagDataLayer.apply(null, arguments);
-							return;
-						}
-
-						if (type === 'event') {
-														parameters.send_to = monsterinsights_frontend.v4_id;
-							var hookName = name;
-							if (typeof parameters['event_category'] !== 'undefined') {
-								hookName = parameters['event_category'] + ':' + name;
-							}
-
-							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
-								MonsterInsightsDualTracker.trackers[hookName](parameters);
-							} else {
-								__gtagDataLayer('event', name, parameters);
-							}
-							
-						} else {
-							__gtagDataLayer.apply(null, arguments);
-						}
-					}
-
-					__gtagTracker('js', new Date());
-					__gtagTracker('set', {
-						'developer_id.dZGIzZG': true,
-											});
-										__gtagTracker('config', 'G-V20GNM4CRS', {"forceSSL":"true","link_attribution":"true"} );
-															window.gtag = __gtagTracker;										(function () {
-						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
-						/* ga and __gaTracker compatibility shim. */
-						var noopfn = function () {
-							return null;
-						};
-						var newtracker = function () {
-							return new Tracker();
-						};
-						var Tracker = function () {
-							return null;
-						};
-						var p = Tracker.prototype;
-						p.get = noopfn;
-						p.set = noopfn;
-						p.send = function () {
-							var args = Array.prototype.slice.call(arguments);
-							args.unshift('send');
-							__gaTracker.apply(null, args);
-						};
-						var __gaTracker = function () {
-							var len = arguments.length;
-							if (len === 0) {
-								return;
-							}
-							var f = arguments[len - 1];
-							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
-								if ('send' === arguments[0]) {
-									var hitConverted, hitObject = false, action;
-									if ('event' === arguments[1]) {
-										if ('undefined' !== typeof arguments[3]) {
-											hitObject = {
-												'eventAction': arguments[3],
-												'eventCategory': arguments[2],
-												'eventLabel': arguments[4],
-												'value': arguments[5] ? arguments[5] : 1,
-											}
-										}
-									}
-									if ('pageview' === arguments[1]) {
-										if ('undefined' !== typeof arguments[2]) {
-											hitObject = {
-												'eventAction': 'page_view',
-												'page_path': arguments[2],
-											}
-										}
-									}
-									if (typeof arguments[2] === 'object') {
-										hitObject = arguments[2];
-									}
-									if (typeof arguments[5] === 'object') {
-										Object.assign(hitObject, arguments[5]);
-									}
-									if ('undefined' !== typeof arguments[1].hitType) {
-										hitObject = arguments[1];
-										if ('pageview' === hitObject.hitType) {
-											hitObject.eventAction = 'page_view';
-										}
-									}
-									if (hitObject) {
-										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
-										hitConverted = mapArgs(hitObject);
-										__gtagTracker('event', action, hitConverted);
-									}
-								}
-								return;
-							}
-
-							function mapArgs(args) {
-								var arg, hit = {};
-								var gaMap = {
-									'eventCategory': 'event_category',
-									'eventAction': 'event_action',
-									'eventLabel': 'event_label',
-									'eventValue': 'event_value',
-									'nonInteraction': 'non_interaction',
-									'timingCategory': 'event_category',
-									'timingVar': 'name',
-									'timingValue': 'value',
-									'timingLabel': 'event_label',
-									'page': 'page_path',
-									'location': 'page_location',
-									'title': 'page_title',
-								};
-								for (arg in args) {
-																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
-										hit[gaMap[arg]] = args[arg];
-									} else {
-										hit[arg] = args[arg];
-									}
-								}
-								return hit;
-							}
-
-							try {
-								f.hitCallback();
-							} catch (ex) {
-							}
-						};
-						__gaTracker.create = newtracker;
-						__gaTracker.getByName = newtracker;
-						__gaTracker.getAll = function () {
-							return [];
-						};
-						__gaTracker.remove = noopfn;
-						__gaTracker.loaded = true;
-						window['__gaTracker'] = __gaTracker;
-					})();
-									} else {
-										console.log("");
-					(function () {
-						function __gtagTracker() {
-							return null;
-						}
-
-						window['__gtagTracker'] = __gtagTracker;
-						window['gtag'] = __gtagTracker;
-					})();
-									}
-			</script>
-				<!-- / Google Analytics by MonsterInsights -->
-		<script type="text/javascript">
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.college.ucla.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.3"}};
-/*! This file is auto-generated */
-!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
-</script>
-<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 0.07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-	<link rel='stylesheet' id='avia-grid-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/css/grid.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-base-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/css/base.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-layout-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/css/layout.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-blog-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/blog/blog.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-postslider-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/postslider/postslider.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-button-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons/buttons.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-button-fullwidth-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-comments-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/comments/comments.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-slideshow-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-gallery-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-gridrow-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/grid_row/grid_row.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-heading-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/heading/heading.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-hr-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/hr/hr.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-image-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image/image.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-slideshow-contentpartner-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contentslider/contentslider.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-masonry-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-siteloader-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/css/avia-snippet-site-preloader.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-menu-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-notification-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/notification/notification.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-slideshow-feature-image-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-slideshow-fullsize-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-social-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/social_share/social_share.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-tabsection-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tab_section/tab_section.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-tabs-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-testimonials-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-toggles-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-module-video-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-css' href='https://www.college.ucla.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.2.3' type='text/css' media='all' />
-<style id='global-styles-inline-css' type='text/css'>
-body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--metallic-red: #b02b2c;--wp--preset--color--maximum-yellow-red: #edae44;--wp--preset--color--yellow-sun: #eeee22;--wp--preset--color--palm-leaf: #83a846;--wp--preset--color--aero: #7bb0e7;--wp--preset--color--old-lavender: #745f7e;--wp--preset--color--steel-teal: #5f8789;--wp--preset--color--raspberry-pink: #d65799;--wp--preset--color--medium-turquoise: #4ecac2;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 1rem;--wp--preset--font-size--medium: 1.125rem;--wp--preset--font-size--large: 1.75rem;--wp--preset--font-size--x-large: clamp(1.75rem, 3vw, 2.25rem);--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1130px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-metallic-red-color{color: var(--wp--preset--color--metallic-red) !important;}.has-maximum-yellow-red-color{color: var(--wp--preset--color--maximum-yellow-red) !important;}.has-yellow-sun-color{color: var(--wp--preset--color--yellow-sun) !important;}.has-palm-leaf-color{color: var(--wp--preset--color--palm-leaf) !important;}.has-aero-color{color: var(--wp--preset--color--aero) !important;}.has-old-lavender-color{color: var(--wp--preset--color--old-lavender) !important;}.has-steel-teal-color{color: var(--wp--preset--color--steel-teal) !important;}.has-raspberry-pink-color{color: var(--wp--preset--color--raspberry-pink) !important;}.has-medium-turquoise-color{color: var(--wp--preset--color--medium-turquoise) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-metallic-red-background-color{background-color: var(--wp--preset--color--metallic-red) !important;}.has-maximum-yellow-red-background-color{background-color: var(--wp--preset--color--maximum-yellow-red) !important;}.has-yellow-sun-background-color{background-color: var(--wp--preset--color--yellow-sun) !important;}.has-palm-leaf-background-color{background-color: var(--wp--preset--color--palm-leaf) !important;}.has-aero-background-color{background-color: var(--wp--preset--color--aero) !important;}.has-old-lavender-background-color{background-color: var(--wp--preset--color--old-lavender) !important;}.has-steel-teal-background-color{background-color: var(--wp--preset--color--steel-teal) !important;}.has-raspberry-pink-background-color{background-color: var(--wp--preset--color--raspberry-pink) !important;}.has-medium-turquoise-background-color{background-color: var(--wp--preset--color--medium-turquoise) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-metallic-red-border-color{border-color: var(--wp--preset--color--metallic-red) !important;}.has-maximum-yellow-red-border-color{border-color: var(--wp--preset--color--maximum-yellow-red) !important;}.has-yellow-sun-border-color{border-color: var(--wp--preset--color--yellow-sun) !important;}.has-palm-leaf-border-color{border-color: var(--wp--preset--color--palm-leaf) !important;}.has-aero-border-color{border-color: var(--wp--preset--color--aero) !important;}.has-old-lavender-border-color{border-color: var(--wp--preset--color--old-lavender) !important;}.has-steel-teal-border-color{border-color: var(--wp--preset--color--steel-teal) !important;}.has-raspberry-pink-border-color{border-color: var(--wp--preset--color--raspberry-pink) !important;}.has-medium-turquoise-border-color{border-color: var(--wp--preset--color--medium-turquoise) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
-.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
-:where(.wp-block-columns.is-layout-flex){gap: 2em;}
-.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
-</style>
-<link rel='stylesheet' id='cntctfrm_form_style-css' href='https://www.college.ucla.edu/wp-content/plugins/contact-form-plugin/css/form_style.css?ver=4.2.6' type='text/css' media='all' />
-<link rel='stylesheet' id='events-manager-css' href='https://www.college.ucla.edu/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.99912' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-scs-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/css/shortcodes.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-fold-unfold-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/css/avia-snippet-fold-unfold.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-popup-css-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/js/aviapopup/magnific-popup.min.css?ver=5.6.8' type='text/css' media='screen' />
-<link rel='stylesheet' id='avia-lightbox-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/css/avia-snippet-lightbox.css?ver=5.6.8' type='text/css' media='screen' />
-<link rel='stylesheet' id='avia-widget-css-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/css/avia-snippet-widget.css?ver=5.6.8' type='text/css' media='screen' />
-<link rel='stylesheet' id='avia-dynamic-css' href='https://www.college.ucla.edu/wp-content/uploads/dynamic_avia/enfold_child.css?ver=656fab7265f1d' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-custom-css' href='https://www.college.ucla.edu/wp-content/themes/enfold/css/custom.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-style-css' href='https://www.college.ucla.edu/wp-content/themes/enfold-child/style.css?ver=5.6.8' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-single-post-18836-css' href='https://www.college.ucla.edu/wp-content/uploads/dynamic_avia/avia_posts_css/post-18836.css?ver=ver-1707954213' type='text/css' media='all' />
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.19' id='monsterinsights-frontend-script-js'></script>
-<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
-var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/www.college.ucla.edu","hash_tracking":"false","v4_id":"G-V20GNM4CRS"};/* ]]> */
-</script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2' id='jquery-ui-mouse-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2' id='jquery-ui-sortable-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2' id='jquery-ui-datepicker-js'></script>
-<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
-jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
-</script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2' id='jquery-ui-menu-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca' id='wp-dom-ready-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
-<script type='text/javascript' id='wp-i18n-js-after'>
-wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
-</script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664' id='wp-a11y-js'></script>
-<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
-/* <![CDATA[ */
-var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.2' id='jquery-ui-autocomplete-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.2' id='jquery-ui-resizable-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2' id='jquery-ui-draggable-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2' id='jquery-ui-controlgroup-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2' id='jquery-ui-checkboxradio-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2' id='jquery-ui-button-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.2' id='jquery-ui-dialog-js'></script>
-<script type='text/javascript' id='events-manager-js-extra'>
-/* <![CDATA[ */
-var EM = {"ajaxurl":"https:\/\/www.college.ucla.edu\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/www.college.ucla.edu\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"dd\/mm\/yy","ui_css":"https:\/\/www.college.ucla.edu\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.min.css","show24hours":"0","is_ssl":"1","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash."};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.99912' id='events-manager-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/js/avia-js.js?ver=5.6.8' id='avia-js-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/js/avia-compat.js?ver=5.6.8' id='avia-compat-js'></script>
-<link rel="https://api.w.org/" href="https://www.college.ucla.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://www.college.ucla.edu/wp-json/wp/v2/pages/18836" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.college.ucla.edu/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.college.ucla.edu/wp-includes/wlwmanifest.xml" />
-<meta name="generator" content="WordPress 6.2.3" />
-<link rel="canonical" href="https://www.college.ucla.edu/bruin-bookshelf" />
-<link rel='shortlink' href='https://www.college.ucla.edu/?p=18836' />
-<link rel="alternate" type="application/json+oembed" href="https://www.college.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.college.ucla.edu%2Fbruin-bookshelf" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.college.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.college.ucla.edu%2Fbruin-bookshelf&#038;format=xml" />
-<style>
-		#category-posts-2-internal ul {padding: 0;}
-#category-posts-2-internal .cat-post-item img {max-width: initial; max-height: initial; margin: initial;}
-#category-posts-2-internal .cat-post-author {margin-bottom: 0;}
-#category-posts-2-internal .cat-post-thumbnail {margin: 5px 10px 5px 0;}
-#category-posts-2-internal .cat-post-item:before {content: ""; clear: both;}
-#category-posts-2-internal .cat-post-excerpt-more {display: inline-block;}
-#category-posts-2-internal .cat-post-item {list-style: none; margin: 3px 0 10px; padding: 3px 0;}
-#category-posts-2-internal .cat-post-current .cat-post-title {font-weight: bold; text-transform: uppercase;}
-#category-posts-2-internal [class*=cat-post-tax] {font-size: 0.85em;}
-#category-posts-2-internal [class*=cat-post-tax] * {display:inline-block;}
-#category-posts-2-internal .cat-post-item:after {content: ""; display: table;	clear: both;}
-#category-posts-2-internal .cat-post-item .cat-post-title {overflow: hidden;text-overflow: ellipsis;white-space: initial;display: -webkit-box;-webkit-line-clamp: 2;-webkit-box-orient: vertical;padding-bottom: 0 !important;}
-#category-posts-2-internal .cat-post-item:after {content: ""; display: table;	clear: both;}
-#category-posts-2-internal .cat-post-thumbnail {display:block; float:left; margin:5px 10px 5px 0;}
-#category-posts-2-internal .cat-post-crop {overflow:hidden;display:block;}
-#category-posts-2-internal p {margin:5px 0 0 0}
-#category-posts-2-internal li > div {margin:5px 0 0 0; clear:both;}
-#category-posts-2-internal .dashicons {vertical-align:middle;}
-#category-posts-2-internal .cat-post-thumbnail .cat-post-crop img {object-fit: cover; max-width: 100%; display: block;}
-#category-posts-2-internal .cat-post-thumbnail .cat-post-crop-not-supported img {width: 100%;}
-#category-posts-2-internal .cat-post-thumbnail {max-width:100%;}
-#category-posts-2-internal .cat-post-item img {margin: initial;}
-</style>
-		<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fjalla+One&family=Oswald:wght@200;300;400;500;600;700&family=Roboto+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200;0,8..60,300;0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;0,8..60,800;0,8..60,900;1,8..60,200;1,8..60,300;1,8..60,400;1,8..60,500;1,8..60,600;1,8..60,700;1,8..60,800;1,8..60,900&display=swap" rel="stylesheet">
-<script type="text/javascript">
-
-	    jQuery(function ()
-        {
-			jQuery(window).scroll(function() {
-    if (jQuery(this).scrollTop()) {
-        jQuery('#toTop').fadeIn();
-    } else {
-        jQuery('#toTop').fadeOut();
-    }
-});
-var check = function() {
-	return jQuery(window).width() <= 767
-}
-if (check()) {
-	jQuery('p').each(function() {
-    const $this = jQuery(this);
-    if($this.html().replace(/\s|<br>/g, '').length === 0)
-        $this.remove();
-});
-}
-jQuery("#toTop").click(function() {
-    jQuery("html, body").animate({scrollTop: 0}, 1000);
- });
-      jQuery(".magazine-wrapper").mouseenter(function () {
-               $this = jQuery(this);
-              $this.find(".hover").css("display", "block");
-        }).mouseleave(function ()
-        {
-            $this = jQuery(this);
-            $this.find(".hover").hide();
-
-        });
-});
-	
-	
-</script>
-<!-- Matomo -->
-
-
-<script>
-  var _paq = window._paq = window._paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//matomolsc.lsnet.ucla.edu/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '34']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<!-- End Matomo Code -->
-<link rel="profile" href="http://gmpg.org/xfn/11" />
-<link rel="alternate" type="application/rss+xml" title="UCLA College RSS2 Feed" href="https://www.college.ucla.edu/feed/" />
-<link rel="pingback" href="https://www.college.ucla.edu/xmlrpc.php" />
-
-<style type='text/css' media='screen'>
- #top #header_main > .container, #top #header_main > .container .main_menu  .av-main-nav > li > a, #top #header_main #menu-item-shop .cart_dropdown_link{ height:100px; line-height: 100px; }
- .html_top_nav_header .av-logo-container{ height:100px;  }
- .html_header_top.html_header_sticky #top #wrap_all #main{ padding-top:130px; } 
-</style>
-<!--[if lt IE 9]><script src="https://www.college.ucla.edu/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
-
-		<style type="text/css" id="wp-custom-css">
-			.av-masonry .av-js-disabled .av-masonry-entry {visibility: visible; opacity: 1;}
-.magazine-wrapper { width: 120px; float:left; margin-right:1rem; position: relative; }
-
-.hover { position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 110px;
-    background-color: rgba(255, 255, 255, 0.5);
-    padding-top: 45px; }
-
-.hover a { 
-	
-	width: 100%;
-    height: 28px;
-    display: inline-block;
-    text-transform: uppercase;
-    text-decoration: none;
-    color: #fff;
-    font-size: 13px;
-    font-size: 0.8125rem;
-    letter-spacing: 0.03rem;
-    line-height: 1.85rem;
-    margin-bottom: 12px;
-    background-color: #000;
-    border-bottom: none;
-	text-align: center;
-}
-
-.magazine-title { display: block;
-    text-align: center;
-    font-size: 0.75rem;
-    color: #686868;
-    margin-top: -0.5rem;
-    text-transform: uppercase;
-    pointer-events: none; }
-/* New Homepage */
-/* full slider on mobile */
-
-#top div .caption_center .slideshow_caption {
-    left: auto;
-    width: 50%;
-    text-align: 
-			;
-}
-#avia_feature_image_slider_1 > div > ul > li > div > div > div {
-left: auto;
-    width: 50%;
-    text-align: center;
-}
-#avia_feature_image_slider_1 > div > ul > li > div > div > div { right: 0; left: auto; width: 50%; top: 40% }
-
-@media (max-width: 1130px) {
-	#avia_feature_image_slider_1 > div > ul > li > div > div > div { width: 100% !important; top: 50%; }
-
-}
-@media (min-width: 1310px) {
-	#avia_feature_image_slider_1 > div > ul { height: 70vh !important;}
-}
-
-@media (max-width: 768px) {
-	#avia_feature_image_slider_1 > div > ul { height: 45vh !important;}
-}
-
-.slideshow_inner_caption { height: auto !important; }
-#avia_feature_image_slider_1 > div > ul > li > div > div > div > div { background-color: #fff; padding: 20px; }
-
-#avia_feature_image_slider_1 > div > ul > li > div > div > div > div > div > h2 { color: #0d7bb6; text-align: left; line-height: 1.2em;text-shadow: 0px 0px 0px !important; font-family: 'karbonmedium','karbonsemibold',sans-serif; }
-
-#top .frontpage-slider .avia-button.avia-color-light {
-    color: #0d7bb6;
-    border: 3px solid #0d7bb6;
-    background: transparent;
-	margin-top: 0px;
-}
-#top div .caption_center .slideshow_caption {
-    text-align: left !important;
-}
-#main > div > div > main > article > div > header > span > span.blog-author.minor-meta { display: none; }
-
-#main > div > div > main > article > div > header > span > span.text-sep.text-sep-cat { display: none; }
-
-/* 100 Reasons Why */
-.magazine_heading { font-family: 'Oswald', sans-serif; 
-background: -webkit-linear-gradient(1turn, rgb(26,73,148) 0%, rgb(0,136,198) 25%, rgb(155,139,189) 50%);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color:transparent; 
-}
-
-h1.magazine_header { font-family: 'Oswald', sans-serif; margin-top: 125px; margin-bottom: 30px;  font-size: 100px; line-height: 0.95em; letter-spacing: -3px !important; 
-background: -webkit-linear-gradient(1turn, rgb(26,73,148) 0%, rgb(0,136,198) 15%, rgb(155,139,189) 25%);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color:transparent; 
-}
-
-h2.magazine_header {
-	font-family: 'Roboto Condensed', sans-serif;
-	margin-bottom: 30px; 
-	font-size: 22px;
-	color: #157cb8; 
-	letter-spacing: -1px !important;
-}
-#magazine_hero { background-size: 60%;
-/* we set transition to 'all' properies - but you can use it just for background image either - by default the time is set to 1 second, you can change it yourself*/
-  transition: linear all 1s;
-  /* if you don't use delay , background will disapear and transition will start from a white background - you have to set the transition-delay the same as transition time OR more , so there won't be any problems */
-  -webkit-transition-delay: 0s;/* Safari */
-  transition-delay: 0s;
-}
-
-.magazine_header_paragraph { width: 40%;}
-
-#magazine_100reasonswhy_tabs > div > div.tab { 
-	font-family: 'Roboto Condensed', sans-serif;
-	font-size: 1.75em; 
-	letter-spacing: -1px !important;
-background: -webkit-linear-gradient(1turn, rgb(26,73,148) 0%, rgb(0,136,198) 50%);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color:transparent; 
-}
-
-.tab_titles {
-    text-align: center !important;
-}
-
-.tab_titles .tab {
-    display: inline-block !important;
-    float: none !important;
-}
-div .main_color .tabcontainer .active_tab_content, div .main_color .tabcontainer .active_tab { background-color: transparent; }
-
-.tabcontainer .tab.active_tab {  font-size: 2.5em !important; }
-
-/* Cool Timelines Pro */
-
-.ctl-wrapper .ctl-vertical-wrapper .ctl-timeline:before { background-color: #c6dcf2; }
-
-.ctl-wrapper .ctl-vertical-wrapper.ctl-design-6 .ctl-story .ctl-arrow {
-    background: #c6dcf2 !important;
-}
-
-.ctl-icondot { border-color: #c6dcf2 !important; box-shadow: none !important; border-width: 0px !important; background: url('https://wp-misc.lifesci.ucla.edu/wp-content/uploads/2023/11/molecule.png') !important; background-size: contain !important; transform: none !important; }
-
-.ctl-wrapper .light-skin {
-	--ctw-cbx-des-background: transparent;
-	--ctw-line-bg: #c6dcf2;
-}
-.ctl-story, .ctl-content, .ctl-title, .ctl-description { background-color: transparent !important; } 
-
-.ctl-title { color: #0e7bb5 !important; font-family: Helvetica, Arial, sans-serif !important; text-align: left !important; }
-
-.ctl-media:after, .ctl-media:before, .ctp-media-slider:before, .ctl-content > .full-width:before {
-	width: 0px !important;
-}
-
-.ctl-arrow { display: none; }
-
-.ctl-wrapper .ctl-vertical-wrapper.ctl-design-6:not(.ctl-comapct-wrapper,.ctl-one-sided) .ctl-story .ctl-content .ctl-media.full img {
-    height: auto !important;
-}
-
-/* Sidebars */ 
-
-h2.sidebar-title { font-family: 'Roboto Condensed', sans-serif; margin-top: 125px; color: #0e7bb5; font-size: 2.75em; letter-spacing: -1px !important; }
-
-span.sidebar-description { color: #0e7bb5; font-size: 1.2em; }
-
-div.slide-entry-wrap.next-active-slide.active-slide > div.slide-entry, div.slide-entry-wrap.next-active-slide.active-slide > div.slide-entry,div.slide-entry-wrap.next-active-slide.active-slide > div.slide-entry > div.slide-loop-2 {
-	padding: 50px 0px !important;
-	   border-style: dashed;
-    border-width: 0 1px 0 0px;
-    border-color: #0e7bb5;
-    border-radius: 0 0 0 0;
-    box-shadow: none;
-}
-
-div.slide-entry-wrap.next-active-slide.active-slide > div.slide-entry, div.slide-entry-wrap.next-active-slide.active-slide > div.slide-entry,div.slide-entry-wrap.next-active-slide.active-slide > div.slide-entry > div.slide-loop-1 {
-	padding: 30px 0px !important;
-	   border-style: dashed;
-    border-width: 0 0px 0 1px;
-    border-color: #0e7bb5;
-    border-radius: 0 0 0 0;
-    box-shadow: none;
-}
-.avia-slideshow-arrows { border-color: #0e7bb5 !important; padding-bottom: 20px;}
-.avia-slideshow-arrows a:before { color: #0e7bb5 !important; border-color: #0e7bb5 !important; }
-
-/* Memory Gallery */
-h2.memory-gallery-heading { 
-	font-family: 'Oswald', sans-serif;
-	letter-spacing: -1px !important;
-	font-size: 70px;
- -webkit-text-fill-color: transparent;
-	-webkit-text-stroke-width: 3px;
-	-webkit-text-stroke-color: white;
-
-}
-
-.align-left { text-align: left; padding: 0rem 1rem; }
-.align-right { text-align: right; padding: 0rem 1rem; }
-
-#magazine_hero { background-size: 65% !important; }
-
-/* 100 Years of Wisdom */
-.magazine100-gradient-heading { font-family: 'Oswald', sans-serif; letter-spacing: -1px !important; 
-background: -webkit-linear-gradient(1turn, rgb(26,73,148) 0%, rgb(0,136,198) 20%, rgb(155,139,189) 90%);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color:transparent; 
-}
-
-/* 100 and Me */
-#magazine-100andme-menu { padding-top: 55px; }
-#magazine-100andme-menu li.menu-item { 
-border: 2px solid #0e7bb5;
-padding: 3px 0px;
-	margin: 0 10px;
-}
-#magazine-100andme-menu .av-subnav-menu > li > a { padding: 0px 7px; 
-	color: #0e7bb5; border-left-width: 0px; }
-#magazine-100andme-menu span.avia-menu-text { 
-	font-size: 1.25em;
-	font-weight: bold;
-}
-#magazine-100andme-menu .av-subnav-menu > li.current-menu-item { background-color: #0e7bb5; 
-}
-#magazine-100andme-menu .av-subnav-menu > li.current-menu-item > a { color: #ffffff !important; background-color: #0e7bb5; }
-
-.magazine-100me-separator .hr-inner { 
-	border-color: #0e7bb5;
-	border-width: 1.75px; 
-	 border-style: solid;
-  border-image: linear-gradient(to right, rgb(37,64,143),rgb(0,139,200), rgb(177,139,185)) 1;
-}
-
-h2.magazine-100andme--decade {
-	font-family: 'Oswald', sans-serif;
-	text-transform: none !important;
-	font-size: 2.5em;
-	letter-spacing: -1px !important;
-	background: -webkit-linear-gradient(1turn, rgb(26,73,148) 0%, rgb(0,136,198) 15%, rgb(155,139,189) 25%);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color:transparent; 
-}
-
-h3.magazine-100andme--title { 
-	font-family: 'Oswald', sans-serif;
-	text-transform: uppercase;
-	font-size: 4.5em;
-	letter-spacing: 1px !important;
-	 background: -webkit-linear-gradient(0deg, rgb(37,64,143) 0%, rgb(0,139,200) 35%, rgb(177,139,185) 25%);
-  -webkit-background-clip: text;
-  -webkit-text-stroke: 4px transparent;
-  color: #FFFFFF;
-	margin-bottom: 1rem;
-	padding-left:0.02em;
-
-}
-
-h5.magazine-100andme--profile { 
-background: #0e7bb5;
-color: #ffffff;
-	padding: 0.75rem 0px 0.5rem 20px;
-	text-transform: uppercase;
-	margin: 1rem 0;
-}
-
-
-
-h4.magazine-100andme--quote { 
-color: #0e7bb5; 
-font-weight: 600;
-}
-
-#after_submenu_1 > div > div > div > div > div > section > div > p > span { 
-color: #696a6c;
-}
-
-#bruin-spotlight-gallery .av-inner-masonry-content {
-background-color: rgba(15,123,182,0.77) !important;
-}
-
-#bruin-spotlight-gallery h3.av-masonry-entry-title {
-	text-transform: uppercase;
-	font-size: 1.25em !important;
-}
-
-/* Copyright Image */
-
-.ctl-wrapper .ctl-vertical-wrapper.ctl-design-6:not(.ctl-compact-wrapper,.ctl-one-sided) .ctl-story {
-    min-height: 400px !important; 
-}
-
-small.avia-copyright {
-    display: block;
-	text-align: left;
-    color: #000000;
-    height: 25px;
-	  margin-top: 15px;
-}
-
-.magazine_header_paragraph p, .ctl-description p { font-size: 1.2em !important;
-line-height: 1.4em !important;
-font-family: Helvetica, Arial, sans-serif !important;
-	letter-spacing: -0.2px;
--webkit-font-smoothing: antialiased;
--moz-osx-font-smoothing: grayscale;}
-
-.ctl-title { 
-	font-size: 30px !important; 
-	line-height: 40px !important;
-	text-align: left !important;
-	font-family: 'Oswald', sans-serif; letter-spacing: -1px !important; 
-	background: -webkit-linear-gradient(1turn, rgb(26,73,148) 0%, rgb(0,136,198) 20%, rgb(155,139,189) 90%) !important;
-	-webkit-background-clip: text !important;
-	-webkit-text-fill-color:transparent !important; 
-}
-
-/* Bunche Sidebar */
-.timeline-featured-box { 
-background: #DAEBFE; 
-	padding: 30px;
-	font-family: 'Source Serif 4', Helvetica, Arial, sans-serif;
-	color: #555;
-	line-height: 1.5em;
-margin-top: 1em;
-	margin-bottom: 1em;
-	-webkit-font-smoothing: antialiased;
-	border-radius: 25px; 
-}
-
-/* The Next 100 */
-.next-100 p { 
-font-size: 1.2em !important;
-font-weight: 300; 
-letter-spacing: -0.1px;
--webkit-font-smoothing: antialiased; }
-/* 100 Magazine Homepage */
-#magazine-100featurevideo { 
-	width: 67%;
-margin: 0 auto;
-}
-
-/* Magazine tablet fixes */
-@media (max-width: 767px) {
-	
-	#magazine-100featurevideo { 
-	width: 100%; 
-	}
-	
-	h3.magazine-100andme--title {
-		width: 100%;
-		font-size: 2.5em;
-		word-break: break-word;
-	}
-	
-	h5.magazine-100andme--profile {
-		padding-right: 0.75rem;
-	}
-	
-	#menu-100-and-me li.menu-item {
-		margin: 10px;
-	}
-	
-	h1.av-special-heading-tag { margin: 1em 0 0 0 !important; }
-
-	.magazine_header_paragraph {
-		width: 100%; 
-	}
-	#magazine_hero {
-		background-size: 100% !important;
-		background-position: top right;
-	}
-	
-	h1.magazine_header { margin-top: 70%; font-size: 4.5em;}
-	
-	.responsive .tabcontainer .tab_content {
-		padding: 0;
-	}
-	
-	.ctl-wrapper .ctl-vertical-wrapper.light-skin.ctl-design-6 {
-		--ctw-arw-bg: #ffffff !important;
-	}
-	
-	.responsive #top .main_color .active_tab_content {
-		background-color: #ffffff !important;
-	}
-	
-	.ctl-story {
-		margin-top: 0 !important;
-	}
-	
-	.tab.fullsize-tab {
-		font-size: 2.5em;
-		font-weight: 800;
-		background: #347bad;
-		color: #ffffff !important;
-	}
-	
-	small.avia-copyright {
-		margin-top: 0px;
-		line-height: 1em;
-	}
-	
-	p > small { line-height: 1em !important; }
-	
-	h1.magazine_header { font-size: 4em; }
-}
-
-/* responsive fixes for phones */
-@media (max-width: 480px) {
-	#after_section_1 > div.container { 
-		width: 100% !important;
-		max-width: 100% !important;
-		margin: 0px !important;
-	}
-	#after_section_1 > div > div > div > div > section > div > p { padding: 0 20px; }
-	.ctl-description p {
-		font-size: 1em !important; 
-		margin-top: 1em !important;
-	}
-	
-	#magazine-100andme-menu { 
-	padding-top: 0px; }
-	
-	#main > div.main_color.container_wrap_first.container_wrap.fullsize > div > main > div > div > div > section.av_textblock_section > div > 	h2 { font-size: 4em !important; line-height: 1em !important; }
-
-	#menu-item-search > a { display: none;}
-	.next-100 { padding: 0 !important; }
-	
-	.next-100 > div > div > div > div > div.flex_column { padding: 0; }
-	
-	h5.magazine-100andme--profile { width: 100% !important; }
-	
-	#after_full_slider_1 > div > div > div > div > section.av_textblock_section > div > h2 {
-		font-size: 4em !important;
-		line-height: 1em !important;
-	}
-	.content { padding: 0px; }
-	
-	h1.magazine_header { font-size: 75px; }
-	
-	h2.memory-gallery-heading { font-size: 40px; 
-		padding: 10px;
-		text-align: center;
-		letter-spacing: 0.5px !important;
-	-webkit-text-stroke-width: 1px;}
-}
-
-
-#toTop {
-	padding: 5px; 
-	background: #2774ae;
-	width: 150px;
-	color: #ffffff;
-	margin: 0 auto;
-	border-radius: 25px;
-	cursor: pointer;
-}
-
-/* Homepage Slider */
-
-#ucla-hero-slider .avia-inner-caption {
-	background: #ffffff;
-	border: 0px solid black;
-	padding: 20px;
-}
-
-#ucla-hero-slider .avia-caption .avia-caption-title, #ucla-hero-slider .avia-caption .avia-caption-content p { background: transparent;
-	color: #187cb8;
-}
-@media (min-width: 1121px) {
-	#ucla-hero-slider li img {
-		width: 85%;
-		margin: 0;
-	}
-	
-	#ucla-hero-slider .avia-caption {
-	width: 50%;
-		position: absolute;
-    z-index: 10;
-    bottom: 30%;
-    left: unset;
-		right: -20px;
-    border-radius: 0px;
-	}
-}
-
-@media (max-width: 1120px) and (min-width: 992px) {
-	#ucla-hero-slider li img {
-		width: 85%;
-		margin: 0;
-	}
-	
-	#ucla-hero-slider .avia-caption {
-	width: 50%;
-		position: absolute;
-    z-index: 10;
-    bottom: 25%;
-    left: unset;
-		right: -20px;
-    border-radius: 0px;
-	}
-}
-
-@media (max-width: 822px) {
-	#ucla-hero-slider .avia-slide-wrap {
-		display: flex;
-		flex-direction: column;
-	}
-	#ucla-hero-slider .avia-slide-wrap img {
-		order: 1;
-		width: 100%;
-		height: auto;
-		margin: 0;
-		position: relative;
-	}
-	
-	#ucla-hero-slider .avia-caption {
-	width: 100%;
-		order: 2;
-		position: relative;
-    bottom: unset;
-    left: unset;
-		right: unset;
-		margin-top: -50px;
-    border-radius: 0px;
-	}
-}
-
-/* Home Featured Image Slider */
-.frontpage-slider > div > ul > li { background-position: top left !important; }		</style>
-		<style type="text/css">
-		@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal; font-display: auto;
-		src: url('https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff2') format('woff2'),
-		url('https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff') format('woff'),
-		url('https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf') format('truetype'),
-		url('https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg'),
-		url('https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot'),
-		url('https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype');
-		} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
-		</style>
-<!-- START - Open Graph and Twitter Card Tags 3.3.2 -->
- <!-- Facebook Open Graph -->
-  <meta property="og:locale" content="en_US"/>
-  <meta property="og:site_name" content="UCLA College"/>
-  <meta property="og:title" content="UCLA College Bruin Bookshelf"/>
-  <meta property="og:url" content="https://www.college.ucla.edu/bruin-bookshelf"/>
-  <meta property="og:type" content="article"/>
-  <meta property="article:publisher" content="https://www.facebook.com/uclacollege"/>
- <!-- Google+ / Schema.org -->
- <!-- Twitter Cards -->
-  <meta name="twitter:title" content="UCLA College Bruin Bookshelf"/>
-  <meta name="twitter:url" content="https://www.college.ucla.edu/bruin-bookshelf"/>
-  <meta name="twitter:description" content="UCLA College Bruin Bookshelf"/>
-  <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:site" content="@uclacollege"/>
- <!-- SEO -->
- <!-- Misc. tags -->
- <!-- is_singular -->
-<!-- END - Open Graph and Twitter Card Tags 3.3.2 -->
-	
-
-
-<!--
-Debugging Info for Theme support: 
-
-Theme: Enfold
-Version: 5.6.8
-Installed: enfold
-AviaFramework Version: 5.6
-AviaBuilder Version: 5.3
-aviaElementManager Version: 1.0.1
-- - - - - - - - - - -
-ChildTheme: Enfold Child
-ChildTheme Version: 1.0.0
-ChildTheme Installed: enfold
-
-- - - - - - - - - - -
-ML:128-PU:105-PLA:23
-WP:6.2.3
-Compress: CSS:disabled - JS:disabled
-Updates: disabled
-PLAu:22
--->
-</head>
-
-<body id="top" class="page-template-default page page-id-18836 stretched rtl_columns av-curtain-numeric helvetica-websave helvetica  avia-responsive-images-support" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
-
-	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
-	<div id='wrap_all'>
-
-	
-<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_custom av_header_sticky_disabled av_header_shrinking_disabled av_header_stretch_disabled av_mobile_menu_phone av_header_searchicon av_header_unstick_top_disabled av_bottom_nav_disabled  av_header_border_disabled' data-av_shrink_factor='50' role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
-
-		<div id='header_meta' class='container_wrap container_wrap_meta  av_phone_active_right av_extra_header_active av_entry_id_18836'>
-
-			      <div class='container'>
-			      <div class='phone-info '><div><a href="https://giveto.ucla.edu/school/college-of-letters-and-science/" target="_blank"><img alt="Give Now" style="width: 150px; position:absolute; top: 0; right: 0; z-index: 9999" src="https://www.college.ucla.edu/wp-content/uploads/2019/08/GiveNowButton-BG_2x.png"></a></div></div>			      </div>
-		</div>
-
-		<div  id='header_main' class='container_wrap container_wrap_logo'>
-
-        <div class='container av-logo-container'><div class='inner-container'><span class='logo avia-standard-logo'><a href='https://www.college.ucla.edu/' class='' aria-label='Uxd_Blk_College-e1557344896161' title='Uxd_Blk_College-e1557344896161'><img src="https://www.college.ucla.edu/wp-content/uploads/2019/07/Uxd_Blk_College-e1557344896161.png" srcset="https://www.college.ucla.edu/wp-content/uploads/2019/07/Uxd_Blk_College-e1557344896161.png 718w, https://www.college.ucla.edu/wp-content/uploads/2019/07/Uxd_Blk_College-e1557344896161-705x269.png 705w, https://www.college.ucla.edu/wp-content/uploads/2019/07/Uxd_Blk_College-e1557344896161-710x270.png 710w, https://www.college.ucla.edu/wp-content/uploads/2019/07/Uxd_Blk_College-e1557344896161-450x172.png 450w" sizes="(max-width: 718px) 100vw, 718px" height="100" width="300" alt='UCLA College' title='Uxd_Blk_College-e1557344896161' /></a></span><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul role="menu" class="menu av-main-nav" id="avia-menu"><li role="menuitem" id="menu-item-9441" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-top-level menu-item-top-level-1"><a itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">About</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
-
-
-<ul class="sub-menu">
-	<li role="menuitem" id="menu-item-18950" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.college.ucla.edu/about/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">The College</span></a></li>
-	<li role="menuitem" id="menu-item-130" class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Leadership" href="https://www.college.ucla.edu/leadership/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Leadership</span></a></li>
-	<li role="menuitem" id="menu-item-19438" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item"><a href="https://www.college.ucla.edu/bruin-bookshelf" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Bruin Bookshelf</span></a></li>
-</ul>
-</li>
-<li role="menuitem" id="menu-item-18948" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-2"><a href="https://www.college.ucla.edu/academics/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Academics</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
-<li role="menuitem" id="menu-item-19275" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-top-level menu-item-top-level-3"><a itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Admissions</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
-
-
-<ul class="sub-menu">
-	<li role="menuitem" id="menu-item-19276" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://admission.ucla.edu/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Undergraduate Admissions</span></a></li>
-	<li role="menuitem" id="menu-item-19277" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://grad.ucla.edu/admissions/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Graduate Admissions</span></a></li>
-</ul>
-</li>
-<li role="menuitem" id="menu-item-23241" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-4"><a href="https://www.college.ucla.edu/magazine" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Magazine</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
-<li role="menuitem" id="menu-item-1210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5"><a href="https://www.college.ucla.edu/stories/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Stories</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
-<li role="menuitem" id="menu-item-11832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-6"><a href="https://www.college.ucla.edu/upcoming-events/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Events</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
-<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special" role="menuitem"><a aria-label="Search" href="?s=" rel="nofollow" data-avia-search-tooltip="
-
-&lt;form role=&quot;search&quot; action=&quot;https://www.college.ucla.edu/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
-	&lt;div&gt;
-		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
-		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;
-			&lt;/div&gt;
-&lt;/form&gt;
-" aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Search</span></a></li><li class="av-burger-menu-main menu-item-avia-special " role="menuitem">
-	        			<a href="#" aria-label="Menu" aria-hidden="false">
-							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
-								<span class="av-hamburger-box">
-						          <span class="av-hamburger-inner"></span>
-						          <strong>Menu</strong>
-								</span>
-							</span>
-							<span class="avia_hidden_link_text">Menu</span>
-						</a>
-	        		   </li></ul></div></nav></div> </div> 
-		<!-- end container_wrap-->
-		</div>
-<div class="header_bg"></div>
-<!-- end header -->
-</header>
-
-	<div id='main' class='all_colors' data-scroll-offset='0'>
-
-	<div   class='main_color container_wrap_first container_wrap fullsize'  ><div class='container av-section-cont-open' ><main  role="main" itemprop="mainContentOfPage"  class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-18836'><div class='entry-content-wrapper clearfix'><div  class='avia-slideshow av-lau9jj6c-d7d24fb670bc3fea7b7d62b7c5bf6587 avia-slideshow-featured_large av_slideshow avia-slide-slider  avia-builder-el-0  el_before_av_one_full  avia-builder-el-first  av-slideshow-ui av-control-default av-slideshow-manual av-loop-once av-loop-manual-endless av-default-height-applied avia-slideshow-1' data-slideshow-options="{&quot;animation&quot;:&quot;slide&quot;,&quot;autoplay&quot;:false,&quot;loop_autoplay&quot;:&quot;once&quot;,&quot;interval&quot;:5,&quot;loop_manual&quot;:&quot;manual-endless&quot;,&quot;autoplay_stopper&quot;:false,&quot;noNavigation&quot;:false,&quot;bg_slider&quot;:false,&quot;keep_padding&quot;:false,&quot;hoverpause&quot;:false,&quot;show_slide_delay&quot;:0}"  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" ><ul class='avia-slideshow-inner ' style='padding-bottom: 52%;'><li  class='avia-slideshow-slide av-lau9jj6c-d7d24fb670bc3fea7b7d62b7c5bf6587__0  av-single-slide slide-1 slide-odd'><div data-rel='slideshow-1' class='avia-slide-wrap '   ><img decoding="async" class="wp-image-24237 avia-img-lazy-loading-not-24237"  src="https://www.college.ucla.edu/wp-content/uploads/2024/02/bruin-bookshelfbanner-1000-520.png" width="1000" height="520" title='bruin bookshelfbanner-1000-520' alt=''  itemprop="thumbnailUrl" srcset="https://www.college.ucla.edu/wp-content/uploads/2024/02/bruin-bookshelfbanner-1000-520.png 1000w, https://www.college.ucla.edu/wp-content/uploads/2024/02/bruin-bookshelfbanner-1000-520-768x399.png 768w, https://www.college.ucla.edu/wp-content/uploads/2024/02/bruin-bookshelfbanner-1000-520-450x234.png 450w" sizes="(max-width: 1000px) 100vw, 1000px" /></div></li></ul></div>
-<div  class='flex_column av-41pj9o-a38ba230ff05e553c24e396505cc717e av_one_full  avia-builder-el-1  el_after_av_slideshow  el_before_av_hr  first flex_column_div  '     ><section  class='av_textblock_section av-12zs68c-53fa6a11cddf50df5ffd3a36a0de375e '   itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><div class="user-markup" role="article">
-<div>
-<p><strong>UCLA College faculty, students, alumni and staff publish award-winning books spanning the liberal arts and sciences, from poetry to philosophy, history to politics and beyond. </strong>Click the menu below to explore selected College Bruin publications.</p>
-</div>
-</div>
-<p>To share news of a publication, please <a href="https://app.smartsheet.com/b/form/503ef82487e2409686dd7d458d8d597e" target="_blank" rel="noopener">fill out the form here</a>.</p>
-<hr />
-</div></section>
-<div  class='togglecontainer av-lk8zgstg-29d96f461f586a8e6866aa58e1ca1f59 av-minimal-toggle  avia-builder-el-3  el_after_av_textblock  avia-builder-el-last  toggle_close_all' >
-<section class='av_toggle_section av-lqzstjok-4e49d9e56b63defd6151f55d1faaeae8'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div role="tablist" class="single_toggle" data-tags="{All} "  ><p data-fake-id='#toggle-id-1' class='toggler  activeTitle av-inherit-font-color hasCustomColor av-inherit-border-color'  itemprop="headline"  role='tab' tabindex='0' aria-controls='toggle-id-1'>2024<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p><div id='toggle-id-1' class='toggle_wrap  active_tc' style='display:block;' ><div class='toggle_content invers-color av-inherit-font-color hasCustomColor av-inherit-border-color'  itemprop="text" ><p><span style="font-size: 20px; text-align: left;"><strong><img decoding="async" class="size-full wp-image-23622 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/aaakbm-125-200.png" alt="Arya Khanna’s Bollywood Moment " width="125" height="200" /><a href="https://www.arushiavachat.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Arushi Avachat</span></a> (English and Political Science) </strong><br />
-<a href="https://us.macmillan.com/books/9781250895134/aryakhannasbollywoodmoment" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Arya Khanna&#8217;s Bollywood Moment</em></span></a><br />
-Wednesday Books 2024</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23791 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/Dream-Town-125-188-true.png" alt="Dream Town book cover " width="125" height="188" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://leegoldberg.com/portfolio/dream-town/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Lee Goldberg</span></a> (Communication Studies) (Alumni) </strong><br />
-<a href="https://www.brilliancepublishing.com/Title/95627" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Dream Town</em></span></a><br />
-Thomas &#038; Mercer 2024</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23958 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/kill-her-twice-125-188.png" alt="'Kill Her Twice' book cover" width="125" height="188" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><span style="text-decoration: underline;"><a href="https://www.staceyhlee.com/" target="_blank" rel="noopener">Stacey Lee</a></span> (Psychology) (Alumni) </strong><br />
-<a href="https://www.penguinrandomhouse.com/books/709586/kill-her-twice-by-stacey-lee/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Kill Her Twice</em></span></a><br />
-G.P. Putnam’s Sons Books for Young Readers 2024</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23792 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/ethics-of-the-algorithm-125-190.png" alt="Ethics of the Algorithm: Digital Humanities and Holocaust Memory" width="125" height="190" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://elts.ucla.edu/person/todd-presner/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Todd Presner</span></a> (European Languages and Transcultural Studies)</strong><br />
-<a href="https://press.princeton.edu/books/hardcover/9780691258966/ethics-of-the-algorithm" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Ethics of the Algorithm: Digital Humanities and Holocaust Memory</em></span></a><br />
-Princeton University Press 2024</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23624 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/fixers-book-cover-125-185.png" alt="Fixers: Agency, Translation, and the Early Global History of Literature book cover" width="125" height="185" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://elts.ucla.edu/person/zrinka-stahuljak/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Zrinka Stahuljak</span></a> (Comparative Literature and European Languages &#038; Transcultural Studies) </strong><br />
-<a href="https://press.uchicago.edu/ucp/books/book/chicago/F/bo208343235.html#:~:text=A%20new%20history%20of%20early" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Fixers: Agency, Translation, and the Early Global History of Literature</em></span></a><br />
-University of Chicago Press 2024 </span></p>
-<hr />
-</div></div></div></section>
-<section class='av_toggle_section av-kbufbo-ae5b314b16ec119288779474f07d63b5'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div role="tablist" class="single_toggle" data-tags="{All} "  ><p data-fake-id='#toggle-id-2' class='toggler   av-inherit-font-color hasCustomColor av-inherit-border-color'  itemprop="headline"  role='tab' tabindex='0' aria-controls='toggle-id-2'>2023<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p><div id='toggle-id-2' class='toggle_wrap  '  ><div class='toggle_content invers-color av-inherit-font-color hasCustomColor av-inherit-border-color'  itemprop="text" ><p style="text-align: left;"><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.monasimpson.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><img decoding="async" loading="lazy" class="size-full wp-image-19179 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/freedom_moves_125_190.png" alt="Freedom Moves: Hip Hop Knowledges, Pedagogies, and Futures book cover" width="125" height="190" /></span></a></strong></span></p>
-<p style="text-align: left;"><span style="font-size: 20px; text-align: left;"><strong><a href="https://anthro.ucla.edu/person/h-samy-alim/" target="_blank" rel="noopener"><span style="text-decoration: underline;">H. Samy Alim</span></a> (Anthropology) </strong><br />
-<a href="https://www.ucpress.edu/book/9780520382800/freedom-moves" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Freedom Moves: Hip Hop Knowledges, Pedagogies, and Futures</em></span></a><br />
-University of California Press 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19192 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Baker_125_138.png" alt="Longing On the Afterlife of Photography book cover" width="125" height="138" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://arthistory.ucla.edu/faculty-profiles/george-baker/" target="_blank" rel="noopener"><span style="text-decoration: underline;">George Baker</span></a> (Art History) </strong><br />
-<a href="https://press.uchicago.edu/ucp/books/book/chicago/L/bo176400711.html#:~:text=Lateness%20and%20Longing%20presents%20the,signifiers%20of%20older%20models%20of" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Lateness and Longing: On the Afterlife of Photography</em></span></a><br />
-University of Chicago Press 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19451 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/baldwin-2-125-183.png" alt="" width="125" height="183" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://history.ucla.edu/faculty/peter-baldwin" target="_blank" rel="noopener"><span style="text-decoration: underline;">Peter Baldwin</span></a> (History) </strong><br />
-<a href="https://mitpress.mit.edu/9780262048002/athena-unbound/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Athena Unbound: Why and How Scholarly Knowledge Should Be Free for All</em></span></a><br />
-MIT Press 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-19211 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Hospital-125-190.png" alt="Hospital book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://michael-berry.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Michael Berry</span></a> (Asian Languages &#038; Cultures) </strong><br />
-<a href="https://www.amazon.com/gp/product/B09SYSD8VH?notRedirectToSDP=1&#038;ref_=dbs_mng_calw_0&#038;storeType=ebooks" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Hospital (translation)</em></span></a><br />
-Amazon Crossing 2023</span></p>
-<hr />
-<p style="text-align: left;"><img decoding="async" loading="lazy" class="size-full wp-image-19212 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/e-125-190.png" alt="Exorcism book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://michael-berry.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Michael Berry</span></a> (Asian Languages &#038; Cultures) </strong><br />
-<a href="https://www.amazon.com/Exorcism-Hospital-Book-Han-Song-ebook/dp/B0BS76QYHT/?_encoding=UTF8&#038;pd_rd_w=Mdu3Q&#038;content-id=amzn1.sym.ed85217c-14c9-4aa0-b248-e47393e2ce12&#038;pf_rd_p=ed85217c-14c9-4aa0-b248-e47393e2ce12&#038;pf_rd_r=132-0707379-8796801&#038;pd_rd_wg=mwuNz&#038;pd_rd_r=ab8c801a-b4cd-46a3-a104-e149a306c7ce&#038;ref_=aufs_ap_sc_dsk" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Exorcism (translation)</em></span></a><br />
-Amazon Crossing 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19183 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Undesirables_125_175.png" alt="Undesirables: A Holocaust Journey to North Africa book cover" width="125" height="175" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://anthro.ucla.edu/person/aomar-boum/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Aomar Boum</span></a> (Anthropology) </strong><br />
-<a href="https://www.sup.org/books/title/?id=35024" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Undesirables: A Holocaust Journey to North Africa</em></span></a><br />
-Stanford University Press 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19546 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/09/the-odds-125-190.png" alt="Overcoming the Odds The Benefits of Completing College for Unlikely Graduates book cover " width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="http://www.profjenniebrand.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Jennie Brand</span></a> (Sociology and Statistics) </strong><br />
-<a href="https://www.russellsage.org/publications/overcoming-odds" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Overcoming the Odds: The Benefits of Completing College for Unlikely Graduates</em></span></a><br />
-Russell Sage Foundation 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19191 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Bristow_125_190.png" alt="Extraordinary Aesthetes: Decadents, New Women, and Fin-de-Siècle Culture book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://english.ucla.edu/people-faculty/bristow-joseph/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Joseph Bristow</span></a> (English)</strong><br />
-<a href="https://utorontopress.com/9781487546090/extraordinary-aesthetes/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em><span style="font-size: 20px;"><u>Extraordinary Aesthetes: Decadents, New Women, and Fin-de-Siècle Culture</u></span></em></span></a><br />
-University of Toronto Press 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-19193 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/jewish_childhood_125_190.png" alt="A Jewish Childhood in the Muslim Mediterranean book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><span style="text-decoration: underline;"><a href="https://elts.ucla.edu/person/lia-brozgal/" target="_blank" rel="noopener">Lia Brozgal</a> and <a href="https://epic.ucla.edu/person/rebecca-glasberg/" target="_blank" rel="noopener">Rebecca Glasber</a>, eds.</span> (European Languages and Transcultural Studies)</strong><br />
-<a href="https://www.ucpress.edu/book/9780520393394/a-jewish-childhood-in-the-muslim-mediterranean#:~:text=About%20the%20Book&#038;text=A%20Jewish%20Childhood%20in%20the%20Muslim%20Mediterranean%20brings%20together%20the,of%20the%20French%20imperial%20project." target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>A Jewish Childhood in the Muslim Mediterranean</em></span></a><br />
-University of California Press 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23681 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/stacie-cassarino-125-185.png" alt="Each Luminous Thing book cover" width="125" height="185" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.staciecassarino.com/" target="_blank" rel="noopener">Stacie Cassarino</a> (English) (Alumni)</strong><br />
-<a href="https://www.perseabooks.com/each-luminous-thing" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Each Luminous Thing</em></span></a><br />
-Persea Books 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-24086 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/02/the-reformatory-125-188.png" alt="The Reformatory: A Novel book cover " width="125" height="188" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://afam.ucla.edu/person/tananarive-due/" target="_blank" rel="noopener">Tananarive Due</a> (African American Studies)</strong><br />
-<a href="https://www.simonandschuster.com/books/The-Reformatory/Tananarive-Due/9781982188344?utm_source=author_post&#038;utm_medium=author_social&#038;utm_campaign=the_reformatory&#038;utm_content=" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>The Reformatory: A Novel</em></span></a><br />
-Gallery/Saga Press 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-19617 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/09/falcone-manager-125-190.png" alt="The First-Time Manager: Leading Through Crisis book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.paulfalconehr.com/" target="_blank" rel="noopener">Paul Falcone</a> (Germanic Languages) (Alumni)</strong><br />
-<a href="https://www.harpercollinsleadership.com/9781400242306/the-first-time-manager-leading-through-crisis/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>The First-Time Manager: Leading Through Crisis</em></span></a><br />
-HarperCollins Leadership 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-19619 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/09/fittante-ethnopolitical-125-190.png" alt="Ethnopolitical Entrepreneurs: Outsiders inside Armenian Los Angeles book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.sh.se/english/sodertorn-university/contact/researchers/daniel-fittante" target="_blank" rel="noopener"><span style="text-decoration: underline;">Daniel Fittante</span></a> (Near Eastern Languages and Cultures) (Alumni)</strong><br />
-<a href="https://www.cornellpress.cornell.edu/book/9781501771477/ethnopolitical-entrepreneurs/#bookTabs=4" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Ethnopolitical Entrepreneurs: Outsiders inside Armenian Los Angeles</em></span></a><br />
-Cornell University Press 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23684 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/Faunalia-Alice-Fulmer-125-188.png" alt="Faunalia book cover" width="125" height="188" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://alicefulmer.com/" target="_blank" rel="noopener">Alice Grace Fulmer</a> (English) (Alumni)</strong><br />
-<a href="https://abeautifulresistance.org/faunalia" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Faunalia</em></span></a><br />
-Gods &#038; Radicals/Ritona Press 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23787 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/sorry-for-your-loss-book-cover-125-185.png" alt="So Sorry For Your Loss: How I Learned to Live with Grief, and Other Grave Concerns book cover " width="125" height="185" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.dinagachmanwrites.com/" target="_blank" rel="noopener">Dina Gachman</a> (English) (Alumni)</strong><br />
-<a href="https://www.unionsquareandco.com/9781454947608/so-sorry-for-your-loss-by-dina-gachman/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>So Sorry for Your Loss: How I Learned to Live with Greif, and Other Grace Concerns</em></span></a><br />
-Union Square &#038; Co. 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19214 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/m-a_cover.png" alt="MELANCHOLY ACTS DEFEAT AND CULTURAL CRITIQUE IN THE ARAB WORLD Book cover" width="125" height="190" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://complit.ucla.edu/person/nouri-gana/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Nouri Gana</span></a> (Comparative Literature)</strong><br />
-<span style="text-decoration: underline;"><a href="https://www.fordhampress.com/9781531503505/melancholy-acts/#:~:text=Defeat%20and%20Cultural%20Critique%20in%20the%20Arab%20World&#038;text=Melancholy%20Acts%20offers%20richly%20nuanced,military%20defeat%20of%20Arab%20armies." target="_blank" rel="noopener"><em>Melancholy Acts: Defeat and Cultural Critique in the Arab World</em></a></span><br />
-Fordham University Press 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-19621 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/09/Garica-el-curso-de-la-raza-125-190.png" alt="El Curso de la Raza: The Education of Aurelio Manuel Montemayor book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.thomasraygarcia.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Thomas Ray Garcia</span></a> (English) (Alumni)</strong><br />
-<span style="text-decoration: underline;"><a href="https://www.tamupress.com/book/9781648431272/el-curso-de-la-raza/" target="_blank" rel="noopener"><em>El Curso de la Raza: The Education of Aurelio Manuel Montemayor</em></a></span><br />
-Texas A&#038;M University Press 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19623 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/09/Garcia-the-river-runs-125-185.png" alt="The River Runs: Stories book cover" width="125" height="185" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.thomasraygarcia.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Thomas Ray Garcia</span></a> (English) (Alumni)</strong><br />
-<span style="text-decoration: underline;"><a href="https://www.pricklypearpublishing.com/shop/ocmzzx06vgjhm5gj4z1zyhkswb4rpn" target="_blank" rel="noopener"><em>The River Runs: Stories</em></a></span><br />
-Prickly Pear Publishing 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19894 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/10/Force-of-Nature-125-192.png" alt="Force of Nature: Three Women Tackle The John Muir Trail book cover" width="125" height="192" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.joangriffin.us/book" target="_blank" rel="noopener">Joan M. Griffin</a> (Psychobiology) (Alumni)</strong><br />
-<a href="https://www.blackrosewriting.com/biographymemoir/forceofnature?rq=Force" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Force of Nature: Three Women Tackle the John Muir Trail</em></span></a><br />
-Black Rose Writing 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23788 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/hotel-laguna-125-190.png" alt="Hotel Laguna: A Novel book cover" width="125" height="190" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.nicolaharrison.com/" target="_blank" rel="noopener">Nicola Harrison</a> (English) (Alumni)</strong><br />
-<a href="https://us.macmillan.com/books/9781250277381/hotellaguna" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Hotel Laguna: A Novel</em></span></a><br />
-St. Martin&#8217;s Press 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23786 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/my-father-the-panda-killer-125-188.png" alt="My Father, The Panda Killer book cover " width="125" height="188" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.heyjamie.com/" target="_blank" rel="noopener">Jamie Jo Hoang</a> (English) (Alumni)</strong><br />
-<a href="https://www.penguinrandomhouse.com/books/714148/my-father-the-panda-killer-by-jamie-jo-hoang/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>My Father, the Panda Killer</em></span></a><br />
-‎Crown Books for Young Readers 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23686 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/tara-ison-125-185.png" alt="At the Hour Between Dog and Wolf book cover" width="125" height="185" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://taraison.com/" target="_blank" rel="noopener">Tara Ison</a> (English) (Alumni)</strong><br />
-<a href="https://www.igpub.com/at-the-hour-between-dog-and-wolf/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>At the Hour Between Dog and Wolf</em></span></a><br />
-Ig Publishing 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="wp-image-19318 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Divine-Demonic-Seven-Book-Cover.png" alt="The Divine/Demonic Seven and the Place of Demons in Mesopotamia book cover" width="125" height="188" srcset="https://www.college.ucla.edu/wp-content/uploads/2023/08/Divine-Demonic-Seven-Book-Cover.png 944w, https://www.college.ucla.edu/wp-content/uploads/2023/08/Divine-Demonic-Seven-Book-Cover-683x1030.png 683w, https://www.college.ucla.edu/wp-content/uploads/2023/08/Divine-Demonic-Seven-Book-Cover-768x1159.png 768w, https://www.college.ucla.edu/wp-content/uploads/2023/08/Divine-Demonic-Seven-Book-Cover-450x679.png 450w" sizes="(max-width: 125px) 100vw, 125px" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://nelc.ucla.edu/person/gina-konstantopoulos/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Gina Konstantopoulos</span></a> (Near Eastern Languages and Cultures)</strong><br />
-<span style="text-decoration: underline;"><a href="https://brill.com/display/title/36238" target="_blank" rel="noopener"><em>The Divine/Demonic Seven and the Place of Demons in Mesopotamia </em></a></span><br />
-Brill 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-19195 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Stoddard_cover_125_190.png" alt="For the Pleasure of His Company An Affair of the Misty City, Thrice Told book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><span style="text-decoration: underline;"><a href="https://english.ucla.edu/people-faculty/looby-christopher/" target="_blank" rel="noopener">Christopher Looby</a></span> (English)</strong><br />
-<a href="https://www.pennpress.org/9781512823875/for-the-pleasure-of-his-company/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>For the Pleasure of His Company: An Affair of the Misty City, Thrice Told</em></span></a><br />
-University of Pennsylvania Press 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23688 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/kimberly-mac-125-170.png" alt="Living Colour's Time's Up book cover" width="125" height="170" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://kimberlymack.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Kimberly Mack</span></a> (English) (Alumni)</strong><br />
-<a href="https://www.bloomsbury.com/us/living-colours-times-up-9781501377518/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Living Colour&#8217;s Time&#8217;s Up</em></span></a><br />
-Bloomsbury 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-19196 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Art_and_street_politics_125_190.png" alt="Art and Street Politics in the Global 1960s Yoshio Nakajima and the Global Avant-Garde book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://history.ucla.edu/marotti" target="_blank" rel="noopener"><span style="text-decoration: underline;">William Marotti</span></a> (History)</strong><br />
-<a href="https://www.routledge.com/Art-and-Street-Politics-in-the-Global-1960s-Yoshio-Nakajima-and-the-Global/Marotti/p/book/9780367710675" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Art and Street Politics in the Global 1960s: Yoshio Nakajima and the Global Avant-Garde</em></span></a><br />
-Routledge 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-19198 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/onthewall-125-190-1.png" alt="The Writing on the Wall Signs of Faith against Fascism book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://religion.ucla.edu/person/eric-martin/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Eric Martin</span></a> (Center for the Study of Religion)</strong><br />
-<a href="https://wipfandstock.com/9781666759099/the-writing-on-the-wall/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>The Writing on the Wall: Signs of Faith against Freedom</em></span></a><br />
-Wipf and Stock Publishers 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-19200 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Anti-racist-shakespeare-125-175.png" alt="Anti-Racist Shakespeare book cover" width="125" height="175" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong style="font-size: 20px;"><a href="https://wp.ucla.edu/person/nedda-mehdizadeh/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Nedda Mehdiadeh</span></a> (Writing Programs)</strong><br />
-<a href="https://www.cambridge.org/core/elements/antiracist-shakespeare/0080516708B8D05F8B927C5A8B087129" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Anti-Racist </em></span><span style="font-size: 20px;"><i><u>Shakespeare</u></i></span></a><br />
-<span style="font-size: 20px;">Cambridge University Press 2023</span></span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-19201 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Ancient_methedone_125_165.png" alt="Ancient Methone Book Cover" width="125" height="165" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><span style="text-decoration: underline;"><a href="https://classics.ucla.edu/person/sarah-morris/" target="_blank" rel="noopener">Sarah Morris</a> and </span><a href="https://classics.ucla.edu/person/john-k-papadopoulos/" target="_blank" rel="noopener"><span style="text-decoration: underline;">John Papadopoulos</span></a> (Classics and Cotsen Institute of Archaeology)</strong><br />
-<a href="https://www.amazon.com/Ancient-Methone-2003-2013-Athanassiadou-archaeologica/dp/195044628X" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Ancient Methone, 2003-2013</em></span></a><br />
-Cotsen Institute of Archaeology 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-19203 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Open_Leaves_125_190-1.png" alt="Open Leaves / poems from earth book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><span style="text-decoration: underline;"><a href="https://english.ucla.edu/people-faculty/mullen-harryette-r/" target="_blank" rel="noopener">Harryette Mullen</a></span> (English)</strong><br />
-<a href="https://english.ucla.edu/people-faculty/mullen-harryette-r/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Open Leaves / poems from earth</em></span></a><br />
-Black Sunflowers Poetry Press 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19452 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/food-125-97.png" alt="Food &#038; Drink: Modernist Cuisine Photography book cover" width="125" height="97" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://nathanmyhrvold.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Nathan Myhrvold</span></a> (Geophysics/Space Physics) (Mathematics) (Alumni)</strong><br />
-<em><a href="https://modernistcuisine.com/books/food-drink-modernist-cuisine-photography/" target="_blank" rel="noopener">Food &#038; Drink: Modernist Cuisine Photography</a></em><br />
-The Cooking Lab 2023<br />
-</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23789 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/you-bet-your-heart-125-188.png" alt="You Bet Your Heart book cover " width="125" height="188" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://danielleparkerbooks.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Danielle Parker</span></a> (English) (Alumni)</strong><br />
-<a href="https://www.penguinrandomhouse.com/books/707746/you-bet-your-heart-by-danielle-parker/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>You Bet Your Heart</em></span></a><br />
-Joy Revolution 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-19626 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/09/Patt-mind-money-125-183.png" alt="Mind Your Own Money - A Young Adult's Guide to Personal Finance book cover" width="125" height="183" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.atalafinancial.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Shawn Patt</span></a> (Pyschology)</strong><br />
-<a href="https://www.amazon.com/dp/B0C9S3G68L?ref_=cm_sw_r_cp_ud_dp_0C401YJPVP5MX4PN42SE" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Mind Your Own Money &#8211; A Young Adult&#8217;s Guide to Personal Finance</em></span></a><br />
-independently published 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19627 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/09/Patt-compass-125-175.png" alt="The Wealth Compass - Your Guide to Financial Prosperity" width="125" height="175" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.atalafinancial.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Shawn Patt</span></a> (Pyschology)</strong><br />
-<a href="https://www.amazon.com/dp/B0CH292BTK?ref_=cm_sw_r_cp_ud_dp_ASS205R49W95197VJ2CG" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>The Wealth Compass &#8211; Your Guide to Financial Prosperity</em></span></a><br />
-independently published 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19895 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/10/bsbc-125-190.png" alt="The Wingsnappers: Lessons from an Exuberant Tropical Bird book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.ibp.ucla.edu/faculty/barnett-schlinger/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Barney A. Schlinger</span></a> (Integrative Biology and Physiology)</strong><br />
-<a href="https://yalebooks.co.uk/book/9780300269413/the-wingsnappers/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>The Wingsnappers: Lessons from an Exuberant Tropical Bird</em></span></a><br />
-Yale University Press 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignleft wp-image-19076" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/9780593319277-302x430.jpg" alt="" width="125" height="178" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.monasimpson.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Mona Simpson</span></a> (English)</strong><br />
-<a href="https://www.penguinrandomhouse.com/books/670307/commitment-by-mona-simpson/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Commitment: A Novel</em></span></a><br />
-Knopf 2023</span><br />
-<span style="font-size: 20px; text-align: left;"><br />
-</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignleft wp-image-19123 size-full" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/The-Power-of-Nature.jpg" alt="The Power of Nature book cover" width="125" height="187" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://anthro.ucla.edu/person/monica-l-smith/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Monica L. Smith</span></a> (Anthropology)</strong><br />
-<a href="https://upcolorado.com/university-press-of-colorado/item/6263-the-power-of-nature" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>The Power of Nature: Archaeology and Human-Environmental Dynamics</em></span></a><br />
-University Press of Colorado 2023<br />
-</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignleft wp-image-19088 size-full" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/8e8e4z-front-shortedge-384-1.jpg" alt="" width="125" height="202" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://dss-edit.com/about/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Danny Snelson and students</span></a> (English)</strong><br />
-<a href="https://www.lulu.com/shop/danny-snelson-and-3-faculty-and-1-bot-and-84-students/prompt-into-comics/paperback/product-8e8e4z.html?page=1&#038;pageSize=4" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Prompt into Comics</em></span></a><br />
-Lulu 2023<br />
-</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignleft wp-image-19125 size-full" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Stefanovska.png" alt="Sevdah: Elegy for a South Imagined book cover" width="125" height="176" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://elts.ucla.edu/person/malina-stefanovska/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Malina Stefanovska</span></a> (European Languages and Transcultural Studies)</strong><br />
-<a href="https://www.amazon.com/dp/9403638230" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Sevdah: Elegy for a South Imagined</em></span></a><br />
-University Press of the South 2023<br />
-</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19294 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/for-small-things-125-1.jpg" alt="For Trapped Things book cover" width="125" height="159" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://arras.net/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Brian Kim Stefans</span></a> (English)</strong><br />
-<a href="https://www.roofbooks.com/for-trapped-things" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>For Trapped Things</em></span></a><br />
-Roof Books 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-19204 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Stevenson_125_190.png" alt="What Sorrows Labour in My Parent's Breast? A History of the Enslaved Black Family book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.drbrendastevenson.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Brenda E. Stevenson</span></a> (History)</strong><br />
-<a href="https://rowman.com/ISBN/9781442252165/What-Sorrows-Labour-in-My-Parent%27s-Breast-A-History-of-the-Enslaved-Black-Family" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>What Sorrows Labour in my Parent&#8217;s Breast: A History of the Enslaved Black Family</em></span></a><br />
-Rowman &#038; Littlefield 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-19205 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Tobin_125_175.png" alt="Vision, Technology, and Subjectivity in Mexican Cyberpunk Literature book cover" width="125" height="175" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://spanport.ucla.edu/person/steven-tobin/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Stephen C. Tobin</span></a> (Spanish and Portuguese)</strong><br />
-<a href="https://link.springer.com/book/10.1007/978-3-031-31156-7" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Vision, Technology, and Subjectivity in Mexican Cyberpunk Literature</em></span></a><br />
-Palgrave Macmillan 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19206 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Torres_125_190.png" alt="Blackouts: A Novel book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://justin-torres.com/about/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Justin Torres</span></a> (English)</strong><br />
-<a href="https://us.macmillan.com/books/9780374716677/blackouts" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Blackouts: A Novel</em></span></a><br />
-Farrar, Straus &#038; Giroux 2023</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19208 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Wang_empire_125_190.png" alt="Boundless Winds of Empire Rhetoric and Ritual in Early Chosŏn Diplomacy with Ming China book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.alc.ucla.edu/person/sixiang-wang/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Sixiang Wang</span></a> (Asian Languages and Cultures)</strong><br />
-<a href="http://cup.columbia.edu/book/boundless-winds-of-empire/9780231556019" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Boundless Winds of Empire: Rhetoric and Ritual in Early Chosŏn Diplomacy with Ming China</em></span></a><br />
-Columbia University Press 2023</span></p>
-<hr />
-</div></div></div></section>
-<section class='av_toggle_section av-mnwtxw-2bd5f3669b50968bd2eb3f9b9719397d'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div role="tablist" class="single_toggle" data-tags="{All} "  ><p data-fake-id='#toggle-id-3' class='toggler   av-inherit-font-color hasCustomColor av-inherit-border-color'  itemprop="headline"  role='tab' tabindex='0' aria-controls='toggle-id-3'>2022<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p><div id='toggle-id-3' class='toggle_wrap  '  ><div class='toggle_content invers-color av-inherit-font-color hasCustomColor av-inherit-border-color'  itemprop="text" ><p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-19630 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/09/Agnew-geopolitics-125-183.png" alt="Hidden Geopolitics: Governance in a Globalized World book cover" width="125" height="183" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://geog.ucla.edu/person/john-agnew/" target="_blank" rel="noopener"><span style="text-decoration: underline;">John Agnew</span></a> (Geography) </strong><br />
-<a href="https://rowman.com/ISBN/9781538158630/Hidden-Geopolitics-Governance-in-a-Globalized-World" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Hidden Geopolitics: Governance in a Globalized World</em></span></a><br />
-Rowman and Littlefield 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-19632 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/09/Avidly-reads-125-210.png" alt="Avidly Reads Poetry book cover" width="125" height="210" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://hass.ugresearch.ucla.edu/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Jacquelyn Ardam</span></a> (Undergraduate Research Center for the Humanities, Arts, and Social Sciences) </strong><br />
-<a href="https://nyupress.org/9781479813551/avidly-reads-poetry/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Avidly Reads Poetry</em></span></a><br />
-NYU Press 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19216 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Oscar-Wilde-On-Trial-Cover-125-190.png" alt="" width="125" height="190" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://english.ucla.edu/people-faculty/bristow-joseph/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Joseph Bristow</span></a> (English) </strong><br />
-<a href="https://yalebooks.yale.edu/book/9780300222722/oscar-wilde-on-trial/#:~:text=Oscar%20Wilde%20on%20Trial%20assembles,both%20legal%20and%20cultural%20history." target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Oscar Wilde on Trial</em></span></a><br />
-Yale University Press 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23782 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/facing-the-mountain-125-190.png" alt="Facing the Mountain: An Inspiring Story of Japanese American Patriots in World War II book cover " width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.danieljamesbrown.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Daniel James Brown</span></a> (English) (Alumni)</strong><br />
-<a href="https://www.penguinrandomhouse.com/books/563930/facing-the-mountain-by-daniel-james-brown-foreword-by-tom-ikeda-executive-director-of-densho/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Facing the Mountain: An Inspiring Story of the Japanese American Patriots of World War II</em></span></a><br />
-Penguin Books 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19631 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/09/Budak-changemaker-125-190.png" alt="Becoming a Changemaker book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.alexbudak.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Alex Budak</span></a> (Geography &#038; Political Science) </strong><br />
-<a href="https://www.hachettebookgroup.com/titles/alex-budak/becoming-a-changemaker/9781538707760/?lens=balance" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Becoming a Changemaker</em></span></a><br />
-Hachette (Grand Central Publishing Balance) 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19217 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Burge_125_180.png" alt="Burge Book Cover" width="125" height="180" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://philosophy.ucla.edu/person/tyler-burge/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Tyler Burge</span></a> (Philosophy) </strong><br />
-<a href="https://global.oup.com/academic/product/perception-first-form-of-mind-9780198871002?cc=us&#038;lang=en&#038;" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Perception: First Form of Mind</em></span></a><br />
-Oxford University Press 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23783 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/30-minute-instant-pot-cookbook-125-153.png" alt="30-Minute Instant Pot Cookbook book cover " width="125" height="153" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://fabeveryday.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Ramona Cruz-Peters</span></a> (Sociology) (Alumni)</strong><br />
-<a href="https://www.simonandschuster.com/books/30-Minute-Instant-Pot-Cookbook/Ramona-Cruz-Peters/9781638076766" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>30-Minute Instant Pot Cookbook</em></span></a><br />
-Rockridge Press 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-19218 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Archipelago-of-Resettlement-125-190.png" alt="Archipelago of Resettlement Vietnamese Refugee Settlers and Decolonization across Guam and Israel-Palestine book cover" width="125" height="190" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://asianam.ucla.edu/person/evyn-le-espiritu-gandhi/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Evyn Lê Espiritu Gandhi</span></a> (Asian American Studies) </strong><br />
-<a href="https://www.ucpress.edu/book/9780520379657/archipelago-of-resettlement#about-book" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Archipelago of Resettlement: Vietnamese Refugee Settlers and Decolonization across Guam and Israel-Palestine</em></span></a><br />
-University of California Press 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23784 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/awaken-your-inner-goddess-a-journal-125-139.png" alt="Awaken Your Inner Goddess: A Journal book cover" width="125" height="139" /><span style="font-size: 20px; text-align: left;"><strong><a href="http://phoenixrisingsun.com" target="_blank" rel="noopener"><span style="text-decoration: underline;">Dara Goldberg</span></a> (Classics) </strong><br />
-<a href="https://www.simonandschuster.com/books/Awaken-Your-Inner-Goddess-A-Journal/Dara-Goldberg/9781685397272" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Awaken Your Inner Goddess: A Journal</em></span></a><br />
-Rockridge Press 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19219 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Terence-andria-125-195.png" alt="Terence: Andria book cover" width="125" height="195" /><span style="font-size: 20px; text-align: left;"><strong><span style="text-decoration: underline;"><a href="https://classics.ucla.edu/person/sander-goldberg/" target="_blank" rel="noopener">Sander Goldberg</a></span> (Classics) </strong><br />
-<a href="https://www.cambridge.org/us/universitypress/subjects/classical-studies/classical-literature/terence-andria?format=HB&#038;isbn=9781009200653" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Terence: Andria </em></span></a><br />
-Cambridge University Press 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23781 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/every-day-we-get-more-illegal-125-160.png" alt="Every Day We Get More Illegal book cover" width="125" height="160" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://optimism.ucla.edu/profiles/herrera/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Juan Felipe Herrera</span></a> (Social Anthropology) (Alumni)</strong><br />
-<a href="https://citylights.com/general-poetry/every-day-we-get-more-illegal/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Every Day We Get More Illegal</em></span></a><br />
-City Lights Books 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-22315 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/11/nbkbookcover-125-190.png" alt="Herodotus and Imperial Greek Literature book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://classics.ucla.edu/person/bryant-kirkland/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Bryant Kirkland</span></a> (Classics) </strong><br />
-<a href="https://global.oup.com/academic/product/herodotus-and-imperial-greek-literature-9780197583517?cc=us&#038;lang=en&#038;" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Herodotus and Imperial Greek Literature: Criticism, Imitation, Reception</em></span></a><br />
-Oxford University Press 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19220 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Bad-Mexicans-125-189.png" alt="Bad Mexicans Race, Empire, and Revolution in the Borderlands book cover" width="125" height="189" /><span style="font-size: 20px; text-align: left;"><strong><span style="text-decoration: underline;"><a href="https://history.ucla.edu/faculty/kelly-lytle-hernandez" target="_blank" rel="noopener"><b>Kelly Lytle Hernández </b></a></span>(History) </strong><br />
-<a href="https://wwnorton.com/books/9781324004370/about-the-book/product-details" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Bad Mexicans: Race, Empire, and Revolution in the Borderlands</em></span></a><br />
-W. W. Norton &#038; Company 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-22316 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/11/por-si-un-dia-todo-falla-125-160.png" alt="Por Si Un Día Todo Falla book cover" width="125" height="160" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.spanport.ucla.edu/person/nylsa-martinez/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><b>Nylsa Martínez</b></span></a><b> </b>(Spanish and Portuguese) </strong><br />
-<a href="https://libros.buap.mx/cuento/2938-por-si-un-dia-todo-falla-9786075259215.html" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Por Si Un Día Todo Falla</em></span></a><br />
-Benemérita Universidad Autónoma De Puebla 2022 (Mexico)</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19892 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/10/The-Secret-Syllabus-125-192.png" alt="The Secret Syllabus book cover" width="125" height="192" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><span style="text-decoration: underline;"><a href="https://secretsyllabus.com/#tve-jump-18042d8da96" target="_blank" rel="noopener"><b>Jay Phelan </b></a></span>(Biology) (Alumni)</strong><br />
-<a href="http://secretsyllabus.com" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>The Secret Syllabus: A Guide to the Unwritten Rules of College Success</em></span></a><br />
-Princeton University Press 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19221 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/paratexts-of-the-bible-125-190-2.png" alt="Paratexts of the English Bible, 1525-1611 book cover" width="125" height="190" /><span style="font-size: 20px; text-align: left;"><strong><span style="text-decoration: underline;"><a href="https://english.ucla.edu/people-faculty/shuger-debora-k/" target="_blank" rel="noopener"><b>Debora K. Shuger </b></a></span>(English) </strong><br />
-<a href="https://global.oup.com/academic/product/paratexts-of-the-english-bible-1525-1611-9780192843579?cc=us&#038;lang=en&#038;#" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Paratexts of the English Bible, 1525-1611</em></span></a><br />
-Oxford University Press 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19222 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Rebeldita_125_170.png" alt="Rebeldita the Fearless in Ogreland" width="125" height="170" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.orielmariasiu.com/" target="_blank" rel="noopener"><b><span style="text-decoration: underline;">Oriel María Siu </span></b></a>(Spanish and Portuguese) (Alumni)</strong><br />
-<a href="https://www.orielmariasiu.com/rebeldita" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Rebeldita the Fearless in Ogreland</em></span></a><br />
-Rebeldita the Fearless 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19223 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/wartime-north-africa-125-190.png" alt="Wartime North Africa A Documentary History, 1934–1950 book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><b><a href="https://www.history.ucla.edu/faculty/sarah-abrevaya-stein" target="_blank" rel="noopener"><span style="text-decoration: underline;">Sarah Stein</span></a><span style="text-decoration: underline;"> and <a href="https://anthro.ucla.edu/person/aomar-boum/" target="_blank" rel="noopener">Aomar Boum </a></span></b>(History and Anthropology) </strong><br />
-<a href="https://www-sup.stanford.edu/books/cite/?id=32119" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Wartime North Africa: A Documentary History, 1934-1950</em></span></a><br />
-Stanford Press 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19224 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/bitter-end-125-190.png" alt="The Bitter End: The 2020 Presidential Campaign and the Challenge to American Democracy book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><b><a href="https://polisci.ucla.edu/person/chris-tausanovitch/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Chris Tausanovitch</span></a><span style="text-decoration: underline;"> and <a href="https://polisci.ucla.edu/person/lynn-vavreck/" target="_blank" rel="noopener">Lynn Vavreck</a></span> </b>(Political Science) </strong><br />
-<a href="https://press.princeton.edu/books/hardcover/9780691213453/the-bitter-end" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>The Bitter End: The 2020 Presidential Campaign and the Challenge to American Democracy</em></span></a><br />
-Princeton University Press 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-19653 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/09/tetreault-castle-method-125-182.png" alt="The C.A.S.T.L.E. Method: Building a Family Foundation on Compassion, Acceptance, Security, Trust, Love, Expectations plus Education book cover" width="125" height="182" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.donnatetreault.com/#section-2-book-3" target="_blank" rel="noopener"><b><span style="text-decoration: underline;">Donna Tetreault </span></b></a>(English) (Alumni)</strong><br />
-<a href="https://www.familius.com/book/the-castle-method/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>The C.A.S.T.L.E. Method: Building a Family Foundation on Compassion, Acceptance, Security, Trust, Love, Expectations plus Education</em></span></a><br />
-Familius 2022</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19225 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Turner_125_190.png" alt="Trash Talk Anti-Obama Lore and Race in the Twenty-First Century book cover" width="125" height="190" /><span style="font-size: 20px; text-align: left;"><strong><a href="https://www.patriciaaturner.com/" target="_blank" rel="noopener"><b><span style="text-decoration: underline;">Patricia A. Turner </span></b></a>(African American Studies) </strong><br />
-<a href="https://www.ucpress.edu/book/9780520389243/trash-talk" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Trash Talk: Anti-Obama Lore and Race in the Twenty-First Century </em></span></a><br />
-University of California Press 2022</span></p>
-<hr />
-</div></div></div></section>
-<section class='av_toggle_section av-1ttlm6s-ac5e5e9b650a3d26e72588c562bada09'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div role="tablist" class="single_toggle" data-tags="{All} "  ><p data-fake-id='#toggle-id-4' class='toggler   av-inherit-font-color hasCustomColor av-inherit-border-color'  itemprop="headline"  role='tab' tabindex='0' aria-controls='toggle-id-4'>2021<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p><div id='toggle-id-4' class='toggle_wrap  '  ><div class='toggle_content invers-color av-inherit-font-color hasCustomColor av-inherit-border-color'  itemprop="text" ><p><img decoding="async" loading="lazy" class="size-full wp-image-19450 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/baldwin-125-195.png" alt="Fighting the First Wave: Why the Coronavirus Was Tackled So Differently Across the Globe book cover" width="125" height="195" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://history.ucla.edu/faculty/peter-baldwin" target="_blank" rel="noopener"><span style="text-decoration: underline;">Peter Baldwin</span></a> (History) </strong><br />
-<em><a href="https://www.cambridge.org/core/books/fighting-the-first-wave/DFEA8CF02743D2A642C3F9BBA0709D1C" target="_blank" rel="noopener">Fighting the First Wave: Why the Coronavirus Was Tackled So Differently Across the Globe</a></em><br />
-Cambridge University Press 2021<br />
-</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19227 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/the-good-kings-125-190.png" alt="The Good Kings book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong><a href="https://nelc.ucla.edu/person/kara-cooney/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Kara Cooney</span></a> (Near Eastern Languages &#038; Cultures) </strong><br />
-<a href="https://www.penguinrandomhouse.com/books/729538/the-good-kings-by-kara-cooney/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>The Good Kings</em></span></a><br />
-Penguin Random House 2021</span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23779 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/the-bohemians-125-192.png" alt="The Bohemians: A Novel book cover" width="125" height="192" /><span style="font-size: 20px; text-align: left;"><a href="https://jasmindarznik.com/bohemians" target="_blank" rel="noopener"><span style="text-decoration: underline;"><b style="font-size: 20px;">Jasmin Darznik</b></span></a><b style="font-size: 20px;"> </b><b style="font-size: 20px;">(English) (Alumni)</b><br />
-<a href="https://www.randomhousebooks.com/books/610560/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>The Bohemians: A Novel</em></span></a><br />
-<span style="font-size: 20px;">Ballantine Books 2021</span></span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19229 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Eat-the-Mouth-that-Feeds-You-125-190.png" alt="" width="125" height="190" /><span style="font-size: 20px; text-align: left;"><span style="text-decoration: underline;"><a href="http://carribeanfragoza.com/" target="_blank" rel="noopener"><span style="font-size: 20px;"><b>Carribean</b></span><b style="font-size: 20px;"> Fragoza </b></a></span><b style="font-size: 20px;">(Chicana and Chicano Studies and Comparative Literature) (Alumni)</b><br />
-<a href="https://citylights.com/general-fiction/eat-the-mouth-that-feeds-you/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Eat the Mouth that Feeds You</em></span></a><br />
-<span style="font-size: 20px;">Penguin Random House 2021</span></span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-20479 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/11/cpsgbc-125-190.png" alt="Conquering Peace: From the Enlightenment to the European Union book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong style="font-size: 20px;"><a href="https://history.ucla.edu/faculty/stella-ghervas" target="_blank" rel="noopener"><span style="text-decoration: underline;">Stella Ghervas</span></a> (History) </strong><br />
-<a href="https://www.hup.harvard.edu/catalog.php?isbn=9780674975262" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em><span style="font-size: 20px;"><u>Conquering Peace: From the Enlightenment to the European Union</u></span></em></span></a><br />
-<span style="font-size: 20px;">Harvard University Press 2021</span></span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19242 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Why-Were-Polarized-125-190.png" alt="Why We're Polarized book cover" width="125" height="190" /><span style="font-size: 20px; text-align: left;"><strong style="font-size: 20px;"><span style="text-decoration: underline;"><a href="https://en.wikipedia.org/wiki/Ezra_Klein" target="_blank" rel="noopener">Ezra Klein</a></span> (Political Science) (Alumni)</strong><br />
-<a href="https://www.simonandschuster.com/books/Why-Were-Polarized/Ezra-Klein/9781476700366" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em><span style="font-size: 20px;"><u>Why We&#8217;re Polarized</u></span></em></span></a><br />
-<span style="font-size: 20px;">Avid Reader Press / Simon &#038; Schuster 2021</span></span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23959 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/the-downstairs-girl.png" alt="'The Downstairs Girl' book cover. " width="125" height="188" /><span style="font-size: 20px; text-align: left;"><strong style="font-size: 20px;"><a href="https://www.staceyhlee.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Stacey Lee</span></a> (Psychology) (Alumni)</strong><br />
-<a href="https://www.penguinrandomhouse.com/books/557384/the-downstairs-girl-by-stacey-lee/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em><span style="font-size: 20px;"><u>The Downstairs Girl </u></span></em></span></a><br />
-<span style="font-size: 20px;">G.P. Putnam’s Sons Books for Young Readers 2021</span></span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19231 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Ogre_125-165-1.png" alt="Christopher the Ogre Cologre, It's Over! book cover" width="125" height="165" /><span style="font-size: 20px; text-align: left;"><b style="font-size: 20px;"><strong><span style="text-decoration: underline;"><a href="https://www.orielmariasiu.com/" target="_blank" rel="noopener"><b>Oriel María Siu </b></a></span>(Spanish and Portuguese) (Alumni)</strong></b><br />
-<a href="https://www.orielmariasiu.com/theogrecologre" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Christopher the Ogre Cologre, It&#8217;s Over!</em></span></a><br />
-<span style="font-size: 20px;">Rebeldita the Fearless 2021</span></span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19233 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Spin-Dictators-125-190.png" alt="Spin Dictators: The Changing Face of Tyranny in the 21st Century book cover" width="125" height="190" /></p>
-<p><span style="font-size: 20px; text-align: left;"><span style="font-size: 20px;"><span style="text-decoration: underline;"><a href="https://www.danieltreisman.org/" target="_blank" rel="noopener"><b style="font-size: 20px; font-weight: bold;">Daniel Treisman </b></a></span><span style="font-size: 20px;"><b>(Political Science) </b></span></span><br />
-<a href="https://press.princeton.edu/books/hardcover/9780691211411/spin-dictators" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>Spin Dictators: The Changing Face of Tyranny in the 21st Century </em></span></a><br />
-<span style="font-size: 20px;">Princeton University Press 2021</span></span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19235 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Venkat_125-190.png" alt="At the Limits of Cure book cover" width="125" height="190" /><span style="font-size: 20px; text-align: left;"><span style="font-size: 20px;"><a href="https://socgen.ucla.edu/people/bharat-venkat/" target="_blank" rel="noopener"><b style="font-size: 20px; font-weight: bold;"><span style="text-decoration: underline;">Bharat Jayram Venkat</span> </b></a><b>(Institute for Society &#038; Genetics, History, and Anthropology) </b></span><br />
-<a href="https://www.dukeupress.edu/at-the-limits-of-cure" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em>At the Limits of Cure</em></span></a><br />
-<span style="font-size: 20px;">Duke University Pr</span></span><span style="font-size: 20px; text-align: left;"><span style="font-size: 20px;">ess 2021</span></span></p>
-<hr />
-</div></div></div></section>
-<section class='av_toggle_section av-qqwr78-9bccd0ecd60cda852f1f0505b3553b63'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div role="tablist" class="single_toggle" data-tags="{All} "  ><p data-fake-id='#toggle-id-5' class='toggler   av-inherit-font-color hasCustomColor av-inherit-border-color'  itemprop="headline"  role='tab' tabindex='0' aria-controls='toggle-id-5'>2020<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p><div id='toggle-id-5' class='toggle_wrap  '  ><div class='toggle_content invers-color av-inherit-font-color hasCustomColor av-inherit-border-color'  itemprop="text" ><p><img decoding="async" loading="lazy" class="size-full wp-image-23776 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/power-to-the-transfer-125-178.png" alt="Power to the Transfer: Critical Race Theory and a Transfer Receptive Culture book cover " width="125" height="178" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong style="font-size: 20px;"><a href="https://www.aap.ucla.edu/units/cccp/#meet-the-team" target="_blank" rel="noopener">Santiago Bernal Melendez</a> and <a href="https://newsroom.ucla.edu/releases/celebrating-alfred-herrera-work-with-transfer-students" target="_blank" rel="noopener">Alfred Herrera</a> (Center for Community College Partnerships) (Alumni) (Staff)</strong><br />
-<a href="https://msupress.org/9781611863437/power-to-the-transfer/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em><span style="font-size: 20px;"><u>Power to the Transfer: Critical Race Theory and a Transfer Receptive Culture</u></span></em></span></a><br />
-<span style="font-size: 20px;">Michigan State University Press 2020</span></span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19237 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/fear-125-190.png" alt="The Nature of Fear Survival Lessons from the Wild book cover" width="125" height="190" /><span style="font-size: 20px; text-align: left;"><strong style="font-size: 20px;"><a href="https://blumsteinlab.eeb.ucla.edu/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Daniel T. Blumstein</span></a> (Ecology and Evolutionary Biology) </strong><br />
-<a href="https://www.hup.harvard.edu/catalog.php?isbn=9780674916487" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em><span style="font-size: 20px;"><u>The Nature of Fear: Survival Lessons from the Wild</u></span></em></span></a><br />
-<span style="font-size: 20px;">Harvard University Press 2020</span></span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23777 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/pressure-cookbook-for-beginners-125-153.png" alt="Pressure Cooker Cookbook for Beginners" width="125" height="153" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong style="font-size: 20px;"><a href="https://fabeveryday.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Ramona Cruz-Peters</span></a> (Sociology) (Alumni) </strong><br />
-<a href="https://www.simonandschuster.com/books/Pressure-Cooker-Cookbook-for-Beginners/Ramona-Cruz-Peters/9781646110155" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em><span style="font-size: 20px;"><u>Pressure Cooker Cookbook for Beginners</u></span></em></span></a><br />
-<span style="font-size: 20px;">Rockridge Press 2020</span></span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19239 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Suffrage-125-190.png" alt="Suffrage Women's Long Battle for the Vote book cover" width="125" height="190" /><span style="font-size: 20px; text-align: left;"><strong style="font-size: 20px;"><a href="https://en.wikipedia.org/wiki/Ellen_DuBois" target="_blank" rel="noopener"><span style="text-decoration: underline;">Ellen Carol DuBois</span></a> (History) </strong><br />
-<a href="https://www.simonandschuster.com/books/Suffrage/Ellen-Carol-DuBois/9781501165184" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em><span style="font-size: 20px;"><u><span style="font-size: 20px;">Suffrage: Women&#8217;s Long Battle for the Vote</span></u></span></em></span></a><br />
-<span style="font-size: 20px;">Simon and Schuster 2020</span></span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-23778 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2024/01/awaken-your-inner-goddess-125-188.png" alt="Awaken Your Inner Goddess, Awaken Your Inner Goddess" width="125" height="188" /></p>
-<p><span style="font-size: 20px; text-align: left;"><strong style="font-size: 20px;"><a href="https://phoenixrisingsun.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Dara Goldberg</span></a> (Philosophy) (Alumni) </strong><br />
-<a href="https://www.simonandschuster.com/books/Awaken-Your-Inner-Goddess/Dara-Goldberg/9781647391140" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em><span style="font-size: 20px;"><u>Awaken Your Inner Goddess, Awaken Your Inner Goddess</u></span></em></span></a><br />
-<span style="font-size: 20px;">Rockridge Press 2020</span></span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19240 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Hieronymi_125-190.png" alt="Freedom, Resentment, and the Metaphysics of Morals book cover" width="125" height="190" /><span style="font-size: 20px; text-align: left;"><strong style="font-size: 20px;"><a href="https://hieronymi.humspace.ucla.edu/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Pamela Hieronymi</span></a> (Philosophy) </strong><br />
-<a href="https://press.princeton.edu/books/hardcover/9780691194035/freedom-resentment-and-the-metaphysics-of-morals" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em><span style="font-size: 20px;"><u>Freedom, Resentment, and the Metaphysics of Morals</u></span></em></span></a><br />
-<span style="font-size: 20px;">Princeton University Press 2020</span></span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="wp-image-19244 size-full alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/language-trump-125-190.png" alt="Language in the Trump Era Scandals and Emergencies book cover" width="125" height="190" /><span style="font-size: 20px; text-align: left;"><strong style="font-size: 20px;"><a href="https://www.norma-mendoza-denton.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Norma Mendoza-Denton</span></a> (Anthropology) </strong><br />
-<a href="https://www.cambridge.org/core/books/language-in-the-trump-era/DD75FE0F40DE2156DFAEC7E36F6F82CE" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em><span style="font-size: 20px;"><u>Language in the Trump Era: Scandals and Emergencies</u></span></em></span></a><br />
-<span style="font-size: 20px;">Cambridge University Press 2020</span></span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19245 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/saguy-125-190.png" alt="Come Out, Come Out, Whoever You Are book cover" width="125" height="190" /><span style="font-size: 20px; text-align: left;"><strong style="font-size: 20px;"><a href="https://soc.ucla.edu/person/abigail-saguy/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Abigail C. Saguy</span></a> (Sociology) </strong><br />
-<a href="https://global.oup.com/academic/product/come-out-come-out-whoever-you-are-9780190931650?cc=us&#038;lang=en&#038;" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em><span style="font-size: 20px;"><u>Come Out, Come Out, Whoever You Are</u></span></em></span></a><br />
-<span style="font-size: 20px;">Oxford University Press 2020</span></span></p>
-<hr />
-<p><img decoding="async" loading="lazy" class="size-full wp-image-19256 alignleft" src="https://www.college.ucla.edu/wp-content/uploads/2023/08/Zyda_125-190.png" alt="The Storm: One Voice from the AIDS Generation book cover" width="125" height="190" /><span style="font-size: 20px; text-align: left;"><strong style="font-size: 20px;"><a href="https://www.czyda.com/" target="_blank" rel="noopener"><span style="text-decoration: underline;">Christopher Zyda</span></a> (English) (Alumni)</strong><br />
-<a href="https://rarebirdlit.com/the-storm-one-voice-from-the-aids-generation-signed-by-christopher-zyda/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><em><span style="font-size: 20px;"><u>The Storm: One Voice from the AIDS Generation</u></span></em></span></a><br />
-<span style="font-size: 20px;">Rare Bird 2020</span></span></p>
-<hr />
-</div></div></div></section>
-</div></div>
-<div  class='hr av-lau9hh9q-91fb42d3093d2af0390cf0b2392a3bea hr-custom  avia-builder-el-4  el_after_av_one_full  el_before_av_one_half  hr-center hr-icon-no'><span class='hr-inner inner-border-av-border-thin'><span class="hr-inner-style"></span></span></div>
-<div  class='flex_column av-1a9ie6s-007fc305536182c2ad4749a94e1cf14e av_one_half  avia-builder-el-5  el_after_av_hr  el_before_av_one_full  first flex_column_div av-zero-column-padding  '     ></div>
-<div  class='flex_column av-kh0wac-81f3cedc4042b39f2447528f70cbce8c av_one_full  avia-builder-el-6  el_after_av_one_half  avia-builder-el-last  first flex_column_div av-zero-column-padding  column-top-margin'     ></div>
-</div></div></main><!-- close content main element --> <!-- section close by builder template -->		</div><!--end builder template--></div><!-- close default .container_wrap element -->				<div class='container_wrap footer_color' id='footer'>
-
-					<div class='container'>
-
-						<div class='flex_column av_one_fifth  first el_before_av_one_fifth'><section id="text-3" class="widget clearfix widget_text">			<div class="textwidget"><p><img decoding="async" loading="lazy" class="alignnone wp-image-6734" src="https://www.college.ucla.edu/wp-content/uploads/2019/07/logo-white.png" alt="" width="209" height="46" srcset="https://www.college.ucla.edu/wp-content/uploads/2019/07/logo-white.png 718w, https://www.college.ucla.edu/wp-content/uploads/2019/07/logo-white-710x158.png 710w, https://www.college.ucla.edu/wp-content/uploads/2019/07/logo-white-705x155.png 705w, https://www.college.ucla.edu/wp-content/uploads/2019/07/logo-white-450x99.png 450w" sizes="(max-width: 209px) 100vw, 209px" /></p>
-<p>Los Angeles, CA 90095</p>
-<p>(310) 206-1953</p>
-</div>
-		<span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fifth  el_after_av_one_fifth el_before_av_one_fifth '><section id="nav_menu-2" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">UCLA College</h3><div class="menu-footer-column-2-container"><ul id="menu-footer-column-2" class="menu"><li id="menu-item-11808" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11808"><a href="https://www.college.ucla.edu/the-college/">About</a></li>
-<li id="menu-item-11794" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11794"><a href="https://www.college.ucla.edu/stories/">Stories</a></li>
-<li id="menu-item-11795" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11795"><a href="https://www.college.ucla.edu/magazine/">Magazine</a></li>
-<li id="menu-item-11796" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11796"><a href="https://www.college.ucla.edu/commencement/">Commencement</a></li>
-<li id="menu-item-11797" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11797"><a href="https://giveto.ucla.edu/school/college-of-letters-and-science/">Giving</a></li>
-</ul></div><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fifth  el_after_av_one_fifth el_before_av_one_fifth '><section id="nav_menu-3" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">Related Sites</h3><div class="menu-footer-column-3-container"><ul id="menu-footer-column-3" class="menu"><li id="menu-item-11815" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11815"><a href="https://equity.ucla.edu">Equity, Diversity &#038; Inclusion</a></li>
-<li id="menu-item-15888" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15888"><a href="https://www.college.ucla.edu/cfr/">Corporate &#038; Foundation Relations</a></li>
-<li id="menu-item-11806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11806"><a href="https://lettherebe.ucla.edu">Centennial Campaign</a></li>
-<li id="menu-item-11807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11807"><a href="https://www.college.ucla.edu/seniorsurvey/">Senior Survey</a></li>
-<li id="menu-item-11805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11805"><a href="https://www.college.ucla.edu/philanthropyimpact/">Impact of Philanthropy</a></li>
-</ul></div><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fifth  el_after_av_one_fifth el_before_av_one_fifth '><section id="nav_menu-4" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">Connect</h3><div class="menu-footer-column-4-container"><ul id="menu-footer-column-4" class="menu"><li id="menu-item-6755" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6755"><a target="_blank" rel="noopener" href="https://alumni.ucla.edu/">Alumni</a></li>
-<li id="menu-item-6756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6756"><a target="_blank" rel="noopener" href="https://admission.ucla.edu/apply">Prospective Students</a></li>
-<li id="menu-item-6757" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6757"><a target="_blank" rel="noopener" href="https://www.studentaffairs.ucla.edu/student-services">Current Students</a></li>
-<li id="menu-item-6758" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6758"><a target="_blank" rel="noopener" href="https://alumni.ucla.edu/parents/">Parents &#038; Families</a></li>
-<li id="menu-item-6759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6759"><a target="_blank" rel="noopener" href="https://www.apo.ucla.edu/">Faculty</a></li>
-<li id="menu-item-6760" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6760"><a target="_blank" rel="noopener" href="https://www.campusservices.ucla.edu/">Staff</a></li>
-</ul></div><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fifth  el_after_av_one_fifth el_before_av_one_fifth '><section id="nav_menu-5" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">Information</h3><div class="menu-footer-column-5-container"><ul id="menu-footer-column-5" class="menu"><li id="menu-item-11802" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11802"><a href="https://hr.mycareer.ucla.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1645218011250">Careers</a></li>
-<li id="menu-item-11800" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11800"><a href="http://www.directory.ucla.edu">Directory</a></li>
-<li id="menu-item-11801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11801"><a href="https://registrar.ucla.edu/calendars/annual-academic-calendar">Academic Calendar</a></li>
-<li id="menu-item-11842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11842"><a href="https://newsroom.ucla.edu">UCLA Newsroom</a></li>
-<li id="menu-item-11803" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11803"><a href="https://newsroom.ucla.edu/media-contacts-at-ucla">Media &#038; Journalists</a></li>
-<li id="menu-item-11838" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11838"><a href="https://www.transportation.ucla.edu">Parking &#038; Transportation</a></li>
-<li id="menu-item-11839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11839"><a href="https://map.ucla.edu">Maps &#038; Directions</a></li>
-<li id="menu-item-11840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11840"><a href="https://www.bso.ucla.edu">Emergency</a></li>
-<li id="menu-item-17374" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17374"><a href="https://covid-19.ucla.edu">COVID-19</a></li>
-</ul></div><span class="seperator extralight-border"></span></section></div>
-					</div>
-
-				<!-- ####### END FOOTER CONTAINER ####### -->
-				</div>
-
-	
-
-	
-				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
-                    <div class='container'>
-
-                        <span class='copyright'></span>
-
-                        <ul class='noLightbox social_bookmarks icon_count_5'><li class='social_bookmarks_facebook av-social-link-facebook social_icon_1'><a target="_blank" aria-label="Link to Facebook" href='https://facebook.com/uclacollege' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Facebook' rel="noopener"><span class='avia_hidden_link_text'>Facebook</span></a></li><li class='social_bookmarks_twitter av-social-link-twitter social_icon_2'><a target="_blank" aria-label="Link to Twitter" href='https://twitter.com/uclacollege' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Twitter' rel="noopener"><span class='avia_hidden_link_text'>Twitter</span></a></li><li class='social_bookmarks_linkedin av-social-link-linkedin social_icon_3'><a target="_blank" aria-label="Link to LinkedIn" href='https://www.linkedin.com/school/uclacollege/' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='LinkedIn' rel="noopener"><span class='avia_hidden_link_text'>LinkedIn</span></a></li><li class='social_bookmarks_instagram av-social-link-instagram social_icon_4'><a target="_blank" aria-label="Link to Instagram" href='https://www.instagram.com/uclacollege/' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Instagram' rel="noopener"><span class='avia_hidden_link_text'>Instagram</span></a></li><li class='social_bookmarks_youtube av-social-link-youtube social_icon_5'><a target="_blank" aria-label="Link to Youtube" href='http://youtube.com/uclacollege' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Youtube' rel="noopener"><span class='avia_hidden_link_text'>Youtube</span></a></li></ul>
-                    </div>
-
-	            <!-- ####### END SOCKET CONTAINER ####### -->
-				</footer>
-
-
-					<!-- end main -->
-		</div>
-
-		<!-- end wrap_all --></div>
-
-<a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' tabindex='-1'><span class="avia_hidden_link_text">Scroll to top</span></a>
-
-<div id="fb-root"></div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function() {
-		console.log("loaded js");
-		var imageUrl20s = "https://www.college.ucla.edu/wp-content/uploads/2023/11/100ReasonsWhy_Banner_20s.png";
-		var imageUrl30s = "https://www.college.ucla.edu/wp-content/uploads/2023/11/100ReasonsWhy_Banner_30s-1.png";
-		var imageUrl40s = "https://www.college.ucla.edu/wp-content/uploads/2023/11/100ReasonsWhy_Banner_40s-1.png";
-		var imageUrl50s = "https://www.college.ucla.edu/wp-content/uploads/2023/11/100ReasonsWhy_Banner_50s-1.png";
-		var imageUrl60s = "https://www.college.ucla.edu/wp-content/uploads/2023/11/100ReasonsWhy_Banner_60s.png";
-		var imageUrl70s = "https://www.college.ucla.edu/wp-content/uploads/2023/11/100ReasonsWhy_Banner_70s.png";
-		var imageUrl80s = "https://www.college.ucla.edu/wp-content/uploads/2023/11/100ReasonsWhy_Banner_80s.png";
-		var imageUrl90s = "https://www.college.ucla.edu/wp-content/uploads/2023/11/100ReasonsWhy_Banner_90ss.png";
-		var imageUrl00s = "https://www.college.ucla.edu/wp-content/uploads/2023/11/100ReasonsWhy_Banner_00s.png";
-		var imageUrl10s = "https://www.college.ucla.edu/wp-content/uploads/2023/11/100ReasonsWhy_Banner_10s.png";
-		var imageUrl2020s = "https://www.college.ucla.edu/wp-content/uploads/2023/11/100ReasonsWhy_Banner_2020s.png";
-		jQuery(window).on('hashchange', function(e) {
-			jQuery(".tab_counter_0").click(function() {
-				console.log("clicked 1920 tab");
-				jQuery("#magazine_hero").css("background-image", "url(" + imageUrl20s + ")");
-			})
-			jQuery(".tab_counter_1").click(function() {
-				console.log("clicked 1930 tab");
-        		jQuery("#magazine_hero").css("background-image", "url(" + imageUrl30s + ")");
-			});
-			jQuery(".tab_counter_2").click(function() {
-				console.log("clicked 1940 tab");
-        		jQuery("#magazine_hero").css("background-image", "url(" + imageUrl40s + ")");
-			});
-			jQuery(".tab_counter_3").click(function() {
-				console.log("clicked 1950 tab");
-        		jQuery("#magazine_hero").css("background-image", "url(" + imageUrl50s + ")");
-			});
-			jQuery(".tab_counter_4").click(function() {
-				console.log("clicked 1960 tab");
-        		jQuery("#magazine_hero").css("background-image", "url(" + imageUrl60s + ")");
-			});
-			jQuery(".tab_counter_5").click(function() {
-				console.log("clicked 1970 tab");
-        		jQuery("#magazine_hero").css("background-image", "url(" + imageUrl70s + ")");
-			});
-			jQuery(".tab_counter_6").click(function() {
-				console.log("clicked 1980 tab");
-        		jQuery("#magazine_hero").css("background-image", "url(" + imageUrl80s + ")");
-			});
-			jQuery(".tab_counter_7").click(function() {
-				console.log("clicked 1990 tab");
-        		jQuery("#magazine_hero").css("background-image", "url(" + imageUrl90s + ")");
-			});
-			jQuery(".tab_counter_8").click(function() {
-				console.log("clicked 2000 tab");
-        		jQuery("#magazine_hero").css("background-image", "url(" + imageUrl00s + ")");
-			});
-			jQuery(".tab_counter_9").click(function() {
-				console.log("clicked 2010 tab");
-        		jQuery("#magazine_hero").css("background-image", "url(" + imageUrl10s + ")");
-			});
-			jQuery(".tab_counter_10").click(function() {
-				console.log("clicked 2020 tab");
-        		jQuery("#magazine_hero").css("background-image", "url(" + imageUrl2020s + ")");
-			});
-		});
-	});
-	// prevent title from showing up on hover text
-	jQuery(window).on('load', function(){
-		jQuery('#magazine-100featurevideo').removeClass('flex_column');
-		jQuery("img").attr("title", function() {
-      return "";
-});
-	});
-</script>			<script type="text/javascript">function showhide_toggle(e,t,r,g){var a=jQuery("#"+e+"-link-"+t),s=jQuery("a",a),i=jQuery("#"+e+"-content-"+t),l=jQuery("#"+e+"-toggle-"+t);a.toggleClass("sh-show sh-hide"),i.toggleClass("sh-show sh-hide").toggle(),"true"===s.attr("aria-expanded")?s.attr("aria-expanded","false"):s.attr("aria-expanded","true"),l.text()===r?(l.text(g),a.trigger("sh-link:more")):(l.text(r),a.trigger("sh-link:less")),a.trigger("sh-link:toggle")}</script>
-	
- <script type='text/javascript'>
- /* <![CDATA[ */  
-var avia_framework_globals = avia_framework_globals || {};
-    avia_framework_globals.frameworkUrl = 'https://www.college.ucla.edu/wp-content/themes/enfold/framework/';
-    avia_framework_globals.installedAt = 'https://www.college.ucla.edu/wp-content/themes/enfold/';
-    avia_framework_globals.ajaxurl = 'https://www.college.ucla.edu/wp-admin/admin-ajax.php';
-/* ]]> */ 
-</script>
- 
- <script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/js/waypoints/waypoints.min.js?ver=5.6.8' id='avia-waypoints-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/js/avia.js?ver=5.6.8' id='avia-default-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/js/shortcodes.js?ver=5.6.8' id='avia-shortcodes-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.js?ver=5.6.8' id='avia-module-gallery-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.js?ver=5.6.8' id='avia-module-slideshow-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/isotope.min.js?ver=5.6.8' id='avia-module-isotope-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.js?ver=5.6.8' id='avia-module-masonry-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.js?ver=5.6.8' id='avia-module-menu-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/notification/notification.js?ver=5.6.8' id='avia-module-notification-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow-video.js?ver=5.6.8' id='avia-module-slideshow-video-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tab_section/tab_section.js?ver=5.6.8' id='avia-module-tabsection-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.js?ver=5.6.8' id='avia-module-tabs-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.js?ver=5.6.8' id='avia-module-testimonials-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.js?ver=5.6.8' id='avia-module-toggles-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.js?ver=5.6.8' id='avia-module-video-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/js/avia-snippet-hamburger-menu.js?ver=5.6.8' id='avia-hamburger-menu-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/js/avia-snippet-parallax.js?ver=5.6.8' id='avia-parallax-support-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/js/avia-snippet-fold-unfold.js?ver=5.6.8' id='avia-fold-unfold-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=5.6.8' id='avia-popup-js-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/js/avia-snippet-lightbox.js?ver=5.6.8' id='avia-lightbox-activation-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/js/avia-snippet-megamenu.js?ver=5.6.8' id='avia-megamenu-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/js/avia-snippet-footer-effects.js?ver=5.6.8' id='avia-footer-effects-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/js/avia-snippet-widget.js?ver=5.6.8' id='avia-widget-js-js'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/wp-content/themes/enfold/config-gutenberg/js/avia_blocks_front.js?ver=5.6.8' id='avia_blocks_front_script-js'></script>
-</body>
-</html>
+UCLA College Bruin Bookshelf – UCLA College
+UCLA College faculty, students, alumni and staff publish award-winning books spanning the liberal arts and sciences, from poetry to philosophy, history to politics and beyond.
+Click the menu below to explore selected College Bruin publications.
+To share news of a publication, please
+fill out the form here
+.
+2024
+Arushi Avachat
+(English and Political Science)
+Arya Khanna’s Bollywood Moment
+Wednesday Books 2024
+Lee Goldberg
+(Communication Studies) (Alumni)
+Dream Town
+Thomas & Mercer 2024
+Stacey Lee
+(Psychology) (Alumni)
+Kill Her Twice
+G.P. Putnam’s Sons Books for Young Readers 2024
+Todd Presner
+(European Languages and Transcultural Studies)
+Ethics of the Algorithm: Digital Humanities and Holocaust Memory
+Princeton University Press 2024
+Zrinka Stahuljak
+(Comparative Literature and European Languages & Transcultural Studies)
+Fixers: Agency, Translation, and the Early Global History of Literature
+University of Chicago Press 2024
+2023
+H. Samy Alim
+(Anthropology)
+Freedom Moves: Hip Hop Knowledges, Pedagogies, and Futures
+University of California Press 2023
+George Baker
+(Art History)
+Lateness and Longing: On the Afterlife of Photography
+University of Chicago Press 2023
+Peter Baldwin
+(History)
+Athena Unbound: Why and How Scholarly Knowledge Should Be Free for All
+MIT Press 2023
+Michael Berry
+(Asian Languages & Cultures)
+Hospital (translation)
+Amazon Crossing 2023
+Michael Berry
+(Asian Languages & Cultures)
+Exorcism (translation)
+Amazon Crossing 2023
+Aomar Boum
+(Anthropology)
+Undesirables: A Holocaust Journey to North Africa
+Stanford University Press 2023
+Jennie Brand
+(Sociology and Statistics)
+Overcoming the Odds: The Benefits of Completing College for Unlikely Graduates
+Russell Sage Foundation 2023
+Joseph Bristow
+(English)
+Extraordinary Aesthetes: Decadents, New Women, and Fin-de-Siècle Culture
+University of Toronto Press 2023
+Lia Brozgal
+and
+Rebecca Glasber
+, eds.
+(European Languages and Transcultural Studies)
+A Jewish Childhood in the Muslim Mediterranean
+University of California Press 2023
+Stacie Cassarino
+(English) (Alumni)
+Each Luminous Thing
+Persea Books 2023
+Tananarive Due
+(African American Studies)
+The Reformatory: A Novel
+Gallery/Saga Press 2023
+Paul Falcone
+(Germanic Languages) (Alumni)
+The First-Time Manager: Leading Through Crisis
+HarperCollins Leadership 2023
+Daniel Fittante
+(Near Eastern Languages and Cultures) (Alumni)
+Ethnopolitical Entrepreneurs: Outsiders inside Armenian Los Angeles
+Cornell University Press 2023
+Alice Grace Fulmer
+(English) (Alumni)
+Faunalia
+Gods & Radicals/Ritona Press 2023
+Dina Gachman
+(English) (Alumni)
+So Sorry for Your Loss: How I Learned to Live with Greif, and Other Grace Concerns
+Union Square & Co. 2023
+Nouri Gana
+(Comparative Literature)
+Melancholy Acts: Defeat and Cultural Critique in the Arab World
+Fordham University Press 2023
+Thomas Ray Garcia
+(English) (Alumni)
+El Curso de la Raza: The Education of Aurelio Manuel Montemayor
+Texas A&M University Press 2023
+Thomas Ray Garcia
+(English) (Alumni)
+The River Runs: Stories
+Prickly Pear Publishing 2023
+Joan M. Griffin
+(Psychobiology) (Alumni)
+Force of Nature: Three Women Tackle the John Muir Trail
+Black Rose Writing 2023
+Nicola Harrison
+(English) (Alumni)
+Hotel Laguna: A Novel
+St. Martin’s Press 2023
+Jamie Jo Hoang
+(English) (Alumni)
+My Father, the Panda Killer
+‎Crown Books for Young Readers 2023
+Tara Ison
+(English) (Alumni)
+At the Hour Between Dog and Wolf
+Ig Publishing 2023
+Gina Konstantopoulos
+(Near Eastern Languages and Cultures)
+The Divine/Demonic Seven and the Place of Demons in Mesopotamia
+Brill 2023
+Christopher Looby
+(English)
+For the Pleasure of His Company: An Affair of the Misty City, Thrice Told
+University of Pennsylvania Press 2023
+Kimberly Mack
+(English) (Alumni)
+Living Colour’s Time’s Up
+Bloomsbury 2023
+William Marotti
+(History)
+Art and Street Politics in the Global 1960s: Yoshio Nakajima and the Global Avant-Garde
+Routledge 2023
+Eric Martin
+(Center for the Study of Religion)
+The Writing on the Wall: Signs of Faith against Freedom
+Wipf and Stock Publishers 2023
+Nedda Mehdiadeh
+(Writing Programs)
+Anti-Racist
+Shakespeare
+Cambridge University Press 2023
+Sarah Morris
+and
+John Papadopoulos
+(Classics and Cotsen Institute of Archaeology)
+Ancient Methone, 2003-2013
+Cotsen Institute of Archaeology 2023
+Harryette Mullen
+(English)
+Open Leaves / poems from earth
+Black Sunflowers Poetry Press 2023
+Nathan Myhrvold
+(Geophysics/Space Physics) (Mathematics) (Alumni)
+Food & Drink: Modernist Cuisine Photography
+The Cooking Lab 2023
+Danielle Parker
+(English) (Alumni)
+You Bet Your Heart
+Joy Revolution 2023
+Shawn Patt
+(Pyschology)
+Mind Your Own Money – A Young Adult’s Guide to Personal Finance
+independently published 2023
+Shawn Patt
+(Pyschology)
+The Wealth Compass – Your Guide to Financial Prosperity
+independently published 2023
+Barney A. Schlinger
+(Integrative Biology and Physiology)
+The Wingsnappers: Lessons from an Exuberant Tropical Bird
+Yale University Press 2023
+Mona Simpson
+(English)
+Commitment: A Novel
+Knopf 2023
+Monica L. Smith
+(Anthropology)
+The Power of Nature: Archaeology and Human-Environmental Dynamics
+University Press of Colorado 2023
+Danny Snelson and students
+(English)
+Prompt into Comics
+Lulu 2023
+Malina Stefanovska
+(European Languages and Transcultural Studies)
+Sevdah: Elegy for a South Imagined
+University Press of the South 2023
+Brian Kim Stefans
+(English)
+For Trapped Things
+Roof Books 2023
+Brenda E. Stevenson
+(History)
+What Sorrows Labour in my Parent’s Breast: A History of the Enslaved Black Family
+Rowman & Littlefield 2023
+Stephen C. Tobin
+(Spanish and Portuguese)
+Vision, Technology, and Subjectivity in Mexican Cyberpunk Literature
+Palgrave Macmillan 2023
+Justin Torres
+(English)
+Blackouts: A Novel
+Farrar, Straus & Giroux 2023
+Sixiang Wang
+(Asian Languages and Cultures)
+Boundless Winds of Empire: Rhetoric and Ritual in Early Chosŏn Diplomacy with Ming China
+Columbia University Press 2023
+2022
+John Agnew
+(Geography)
+Hidden Geopolitics: Governance in a Globalized World
+Rowman and Littlefield 2022
+Jacquelyn Ardam
+(Undergraduate Research Center for the Humanities, Arts, and Social Sciences)
+Avidly Reads Poetry
+NYU Press 2022
+Joseph Bristow
+(English)
+Oscar Wilde on Trial
+Yale University Press 2022
+Daniel James Brown
+(English) (Alumni)
+Facing the Mountain: An Inspiring Story of the Japanese American Patriots of World War II
+Penguin Books 2022
+Alex Budak
+(Geography & Political Science)
+Becoming a Changemaker
+Hachette (Grand Central Publishing Balance) 2022
+Tyler Burge
+(Philosophy)
+Perception: First Form of Mind
+Oxford University Press 2022
+Ramona Cruz-Peters
+(Sociology) (Alumni)
+30-Minute Instant Pot Cookbook
+Rockridge Press 2022
+Evyn Lê Espiritu Gandhi
+(Asian American Studies)
+Archipelago of Resettlement: Vietnamese Refugee Settlers and Decolonization across Guam and Israel-Palestine
+University of California Press 2022
+Dara Goldberg
+(Classics)
+Awaken Your Inner Goddess: A Journal
+Rockridge Press 2022
+Sander Goldberg
+(Classics)
+Terence: Andria
+Cambridge University Press 2022
+Juan Felipe Herrera
+(Social Anthropology) (Alumni)
+Every Day We Get More Illegal
+City Lights Books 2022
+Bryant Kirkland
+(Classics)
+Herodotus and Imperial Greek Literature: Criticism, Imitation, Reception
+Oxford University Press 2022
+Kelly Lytle Hernández
+(History)
+Bad Mexicans: Race, Empire, and Revolution in the Borderlands
+W. W. Norton & Company 2022
+Nylsa Martínez
+(Spanish and Portuguese)
+Por Si Un Día Todo Falla
+Benemérita Universidad Autónoma De Puebla 2022 (Mexico)
+Jay Phelan
+(Biology) (Alumni)
+The Secret Syllabus: A Guide to the Unwritten Rules of College Success
+Princeton University Press 2022
+Debora K. Shuger
+(English)
+Paratexts of the English Bible, 1525-1611
+Oxford University Press 2022
+Oriel María Siu
+(Spanish and Portuguese) (Alumni)
+Rebeldita the Fearless in Ogreland
+Rebeldita the Fearless 2022
+Sarah Stein
+and
+Aomar Boum
+(History and Anthropology)
+Wartime North Africa: A Documentary History, 1934-1950
+Stanford Press 2022
+Chris Tausanovitch
+and
+Lynn Vavreck
+(Political Science)
+The Bitter End: The 2020 Presidential Campaign and the Challenge to American Democracy
+Princeton University Press 2022
+Donna Tetreault
+(English) (Alumni)
+The C.A.S.T.L.E. Method: Building a Family Foundation on Compassion, Acceptance, Security, Trust, Love, Expectations plus Education
+Familius 2022
+Patricia A. Turner
+(African American Studies)
+Trash Talk: Anti-Obama Lore and Race in the Twenty-First Century
+University of California Press 2022
+2021
+Peter Baldwin
+(History)
+Fighting the First Wave: Why the Coronavirus Was Tackled So Differently Across the Globe
+Cambridge University Press 2021
+Kara Cooney
+(Near Eastern Languages & Cultures)
+The Good Kings
+Penguin Random House 2021
+Jasmin Darznik
+(English) (Alumni)
+The Bohemians: A Novel
+Ballantine Books 2021
+Carribean
+Fragoza
+(Chicana and Chicano Studies and Comparative Literature) (Alumni)
+Eat the Mouth that Feeds You
+Penguin Random House 2021
+Stella Ghervas
+(History)
+Conquering Peace: From the Enlightenment to the European Union
+Harvard University Press 2021
+Ezra Klein
+(Political Science) (Alumni)
+Why We’re Polarized
+Avid Reader Press / Simon & Schuster 2021
+Stacey Lee
+(Psychology) (Alumni)
+The Downstairs Girl
+G.P. Putnam’s Sons Books for Young Readers 2021
+Oriel María Siu
+(Spanish and Portuguese) (Alumni)
+Christopher the Ogre Cologre, It’s Over!
+Rebeldita the Fearless 2021
+Daniel Treisman
+(Political Science)
+Spin Dictators: The Changing Face of Tyranny in the 21st Century
+Princeton University Press 2021
+Bharat Jayram Venkat
+(Institute for Society & Genetics, History, and Anthropology)
+At the Limits of Cure
+Duke University Pr
+ess 2021
+2020
+Santiago Bernal Melendez
+and
+Alfred Herrera
+(Center for Community College Partnerships) (Alumni) (Staff)
+Power to the Transfer: Critical Race Theory and a Transfer Receptive Culture
+Michigan State University Press 2020
+Daniel T. Blumstein
+(Ecology and Evolutionary Biology)
+The Nature of Fear: Survival Lessons from the Wild
+Harvard University Press 2020
+Ramona Cruz-Peters
+(Sociology) (Alumni)
+Pressure Cooker Cookbook for Beginners
+Rockridge Press 2020
+Ellen Carol DuBois
+(History)
+Suffrage: Women’s Long Battle for the Vote
+Simon and Schuster 2020
+Dara Goldberg
+(Philosophy) (Alumni)
+Awaken Your Inner Goddess, Awaken Your Inner Goddess
+Rockridge Press 2020
+Pamela Hieronymi
+(Philosophy)
+Freedom, Resentment, and the Metaphysics of Morals
+Princeton University Press 2020
+Norma Mendoza-Denton
+(Anthropology)
+Language in the Trump Era: Scandals and Emergencies
+Cambridge University Press 2020
+Abigail C. Saguy
+(Sociology)
+Come Out, Come Out, Whoever You Are
+Oxford University Press 2020
+Christopher Zyda
+(English) (Alumni)
+The Storm: One Voice from the AIDS Generation
+Rare Bird 2020
+Los Angeles, CA 90095
+(310) 206-1953
+UCLA College
+About
+Stories
+Magazine
+Commencement
+Giving
+Related Sites
+Equity, Diversity & Inclusion
+Corporate & Foundation Relations
+Centennial Campaign
+Senior Survey
+Impact of Philanthropy
+Connect
+Alumni
+Prospective Students
+Current Students
+Parents & Families
+Faculty
+Staff
+Information
+Careers
+Directory
+Academic Calendar
+UCLA Newsroom
+Media & Journalists
+Parking & Transportation
+Maps & Directions
+Emergency
+COVID-19
+Facebook
+Twitter
+LinkedIn
+Instagram
+Youtube
+Scroll to top

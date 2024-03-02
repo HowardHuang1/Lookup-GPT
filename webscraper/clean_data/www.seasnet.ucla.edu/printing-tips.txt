@@ -18,7 +18,8 @@ Printing costs for all other lab printers are listed on the other SEASnet lab pr
 To print from the Lab PCs to all other non Wepa lab printer’s, make sure that you have selected the correct printer: Select the program Menu bar and then File –> Print (
 select the room’s printer
 )
-To print from UNIX: lpr –P<printer name> <filename(s)>. For example: lpr –Ppr3760 homework1.ps
+To print from UNIX: lpr –P
+. For example: lpr –Ppr3760 homework1.ps
 For printing stations outside of the SEASnet labs, see
 BruinPrint
 Printing PDF file

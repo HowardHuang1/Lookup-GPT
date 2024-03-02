@@ -1,904 +1,236 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <title>UCLA Astronomy Division</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800" rel="stylesheet">
-
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-
-    <link rel="stylesheet" href="css/magnific-popup.css">
-
-
-    <link rel="stylesheet" href="fonts/ionicons/css/ionicons.min.css">
-    <link rel="stylesheet" href="fonts/fontawesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="fonts/flaticons/font/flaticon.css">
-    <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
-
-    <!-- Theme Style -->
-    <link rel="stylesheet" href="css/style.css">
-    
-    
-  </head>
-  <body>
-    
-    <header role="banner">
-      <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-        <div class="container">
-          <a class="navbar-brand" href="index.php">UCLA Division of <br /> Astronomy & Astrophysics</a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-
-          <div class="collapse navbar-collapse" id="navbarsExample05">
-            <ul class="navbar-nav ml-auto pl-lg-5 pl-0">
-              <li class="nav-item">
-                <a class="nav-link active" href="index.php">Home</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="research-areas.html">Research</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="academics.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Academics</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="graduate-studies.html">Graduate</a>
-                  <a class="dropdown-item" href="undergraduate-program.html">Undergraduate</a>
-                  <a class="dropdown-item" href="about-our-faculty.html">About our faculty</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="outreach.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Outreach</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="astronomy-live.html">Astronomy Live!</a>
-                  <a class="dropdown-item" href="planetarium.html">UCLA Planetarium</a>
-                  <a class="dropdown-item" href="https://planets.ucla.edu/">iPlex</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="events.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Events</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <!--a class="dropdown-item" href="http://pritha.astro.ucla.edu/~abhimat/astrocoffee/">Astro Coffee</a>-->
-                  <a class="dropdown-item" href="astrophysics-colloquium.html">Astrophysics Colloquium</a>
-                  <a class="dropdown-item" href="tuesday-lunch-talks.html">Tuesday Lunch Talks</a>
-                  <a class="dropdown-item" href="meetings.html">Meetings</a>
-                  <a class="dropdown-item" href="diversity-resources.html">Diversity Events</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="people.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">People</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="faculty.html">Faculty</a>
-                  <a class="dropdown-item" href="researchers.html">Researchers</a>
-                  <a class="dropdown-item" href="lecturers.html">Lecturers</a>
-                  <a class="dropdown-item" href="postdocs.html">Postdocs</a>
-                  <a class="dropdown-item" href="grad-students.html">Graduate Students</a>
-                  <a class="dropdown-item" href="staff.html">Staff</a>
-                  <a class="dropdown-item" href="facilities.html">Facilities</a>
-                  <a class="dropdown-item" href="graduate-program-alumni.html">Graduate Program Alumni</a>
-                  <a class="dropdown-item" href="postdoc-alumni.html">Postdoc Alumni</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="events.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="contact-alice-shapley.html">Contact the Division Chair</a>
-                  <a class="dropdown-item" href="https://www.pa.ucla.edu/graduate-admissions.html">Graduate Student Admissions</a>
-                  <a class="dropdown-item" href="https://www.pa.ucla.edu/undergraduate-program.html">Undergraduate Program</a>
-                  <a class="dropdown-item" href="http://computing.pa.ucla.edu/">Computing and IT Support</a>
-                </div>
-              </li>
-            </ul>
-
-            <!--<ul class="navbar-nav ml-auto">
-              <li class="nav-item cta-btn">
-                <a class="nav-link" href="contact.html">Contact Us</a>
-              </li>
-            </ul>-->
-            
-          </div>
-        </div>
-      </nav>
-    </header>
-    <!-- END header -->    
-    <section class="home-slider-loop-false  inner-page owl-carousel">
-      <div class="slider-item" style="background-image: url('img/whitedwarf-slide-3.jpg');">
-        
-        <div class="container">
-          <div class="row slider-text align-items-center justify-content-center">
-            <div class="col-md-8 text-center col-sm-12 element-animate">
-              <h1>People</h1>
-              <p>Division of Astronomy & Astrophysics Graduate Students</p>
-              
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-    </section>
-    
-    <div class="section container">
-        <div class="row">
-          <div class="col-lg-4">
-          <h3>Personnel directory</h3>
-            <p>
-            <ul>
-            	<li><a href="faculty.html">Faculty</a></li>
-            	<li><a href="researchers.html">Researchers</a></li>
-            	<li><a href="postdocs.html">Postdocs</a></li>
-            	<li><a href="graduate-students.html">Graduate students</a></li>
-            	<li><a href="staff.html">Staff</a></li>
-            	<li><a href="facilities.html">Facilities</a></li>
-            </ul>	
-            </p>
-          </div>
-          
-          <div class="col-lg-8 pl-2 pl-lg-5">
-            <h2>Graduate Students</h2>
-            <table class="table table-borderless" >
-  <thead>
-    <!-- Commented out code below to remove table header -->
-    <!--<tr>
-      <th scope="col"></th>
-    </tr>-->
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="grad-student-images/isabel2.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Isabel Angelo</h5>
-      <p>Advisor: Naoz, Petigura<br />
-      Office: PAB 3-534<br />
-      Email: <script language="JavaScript"> 
-		var name = "isabelangelo";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~ciurlo/">Website</a>--></p>
-      </td>
-    </tr> 
-    <tr>
-      <td>
-      <h5>Peyton Benac</h5>
-      <p>Advisor: N/A<br />
-      Office: N/A<br />
-      Email: <script language="JavaScript"> 
-		var name = "pbenac";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~ciurlo/">Website</a>--></p>
-      </td>
-    </tr> 
-    <tr>
-      <td><img src="grad-student-images/bentley.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Rory Bentley</h5>
-      <p>Advisor: Ghez<br />
-      Office: PAB 3-540<br />
-      Email: <script language="JavaScript"> 
-		var name = "rbentley";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~dxh/">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-      <h5>Benjamin Calvin</h5>
-      <p>Advisor: N/A<br />
-      Office: N/A<br />
-      Email: <script language="JavaScript"> 
-		var name = "bcalvin";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~ciurlo/">Website</a>--></p>
-      </td>
-    </tr> 
-    <tr>
-      <td><!--<img src="grad-student-images/bentley.jpg" width="150px" class="image1 float-left" hspace="15px" alt="...">-->
-      <h5>Zhuo Chen</h5>
-      <p>Advisor: Ghez<br />
-      Office: Knudsen 3-145X<br />
-      Email: <script language="JavaScript"> 
-		var name = "zhuochen";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~dxh/">Website</a>--></p>
-      </td>
-    </tr>  
-    <tr>
-      <td><img src="grad-student-images/veronica-dike.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Veronica Dike</h5>
-      <p>Advisor: Treu<br />
-      Office: Knudsen 3-145F<br />
-      Email: <script language="JavaScript"> 
-		var name = "vdike";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~kleinb">Website</a>--></p>
-      </td>
-    </tr>  
-    <tr>
-      <td><!--<img src="postdoc-images/sean-quinn-postdocs.png" width="150px" class="image1 float-left" hspace="15px" alt="...">-->
-      <h5>Thea Faridani</h5>
-      <p>Advisor: Naoz<br />
-      Office: PAB 3-534<br />
-      Email: <script language="JavaScript"> 
-		var name = "thfaridani";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~mwhosek/index.html">Website</a></p>-->
-      </td>
-    </tr>
-    <tr>
-      <td>
-      <h5>Nicholas Ferraro</h5>
-      <p>Advisor: N/A<br />
-      Office: N/A<br />
-      Email: <script language="JavaScript"> 
-		var name = "nferraro";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~ciurlo/">Website</a>--></p>
-      </td>
-    </tr>  
-    <tr>
-      <td>
-      <h5>Luke Finnerty</h5>
-      <p>Advisor: N/A<br />
-      Office: N/A<br />
-      Email: <script language="JavaScript"> 
-		var name = "lfinnerty";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~ciurlo/">Website</a>--></p>
-      </td>
-    </tr>    
-    <tr>
-      <td><img src="grad-student-images/gibbs.png" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Aidan Gibbs</h5>
-      <p>Advisor: Fitzgerald<br />
-      Office: PAB 3-534<br />
-      <!--Phone: 310-825-0344<br />-->
-      Email: <script language="JavaScript"> 
-		var name = "agibbs";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr> 
-    <tr>
-      <td><!--<img src="postdoc-images/ruoyu-shang-postdocs.jpg" width="150px" class="image1 float-left" hspace="15px" alt="...">-->
-      <h5>Daniel Gilman</h5>
-      <p>Office: PAB 2-429<br />
-      <!--Phone: 310-825-0344<br />-->
-      Email: <script language="JavaScript"> 
-		var name = "gilmanda";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      Website: <a href="http://www.astro.ucla.edu/~gilmanda/">http://www.astro.ucla.edu/~gilmanda</a></p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-      <h5>Zoe Haggard</h5>
-      <p>Advisor: N/A<br />
-      Office: N/A<br />
-      Email: <script language="JavaScript"> 
-		var name = "zohaggard";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~ciurlo/">Website</a>--></p>
-      </td>
-    </tr> 
-    <tr>
-      <td><img src="grad-student-images/kevin.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Kevin Hayakawa | He/Him/His</h5>
-      <p>Advisor: Hansen<br />
-      Office: PAB 3-441<br />
-      <!--Phone: 310-825-0344<br />-->
-      Email: <script language="JavaScript"> 
-		var name = "kevinhayakawa";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      Website: <a href="http://astro.ucla.edu/~hayakawa">http://astro.ucla.edu/~hayakawa</a></p>
-      </td>
-    </tr> 
-    <tr>
-      <td>
-      <h5>Sahil Hegde</h5>
-      <p>Advisor: N/A<br />
-      Office: N/A<br />
-      Email: <script language="JavaScript"> 
-		var name = "sahil";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~ciurlo/">Website</a>--></p>
-      </td>
-    </tr> 
-    <tr>
-      <td><img src="grad-student-images/bao.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Bao-Minh Hoang</h5>
-      <p>Advisor: Naoz<br />
-      Office: Knudsen 3-145S<br />
-      <!--Phone: 310-825-0344<br />-->
-      Email: <script language="JavaScript"> 
-		var name = "bmhoang";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      Website: <a href="http://astro.ucla.edu/~bmhoang/">http://astro.ucla.edu/~bmhoang/</a></p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-      <h5>Liz Holzknecht</h5>
-      <p>Advisor: Smadar Naoz<br />
-      Office: N/A<br />
-      Email: <script language="JavaScript"> 
-		var name = "lizholz1";
-		var domain = "g.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~ciurlo/">Website</a>--></p>
-      </td>
-    </tr> 
-    <tr>
-      <td><!--<img src="grad-student-images/gibbs.png" width="100px" class="image1 float-left" hspace="15px" alt="...">-->
-      <h5>Evan Jones</h5>
-      <p>Advisor: Do<br />
-      Office: PAB 3-540<br />
-      <!--Phone: 310-825-0344<br />-->
-      Email: <script language="JavaScript"> 
-		var name = "evan.jones";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td><!--<img src="grad-student-images/gibbs.png" width="100px" class="image1 float-left" hspace="15px" alt="...">-->
-      <h5>Helen Kim</h5>
-      <p>Advisor: Malkan<br />
-      Office: Knudsen 3-145P<br />
-      Phone: 310-825-2925<br />
-      Email: <script language="JavaScript"> 
-		var name = "hkim";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr> 
-    <tr>
-      <td>
-      <h5>Yoojung Kim</h5>
-      <p>Advisor: N/A<br />
-      Office: N/A<br />
-      Email: <script language="JavaScript"> 
-		var name = "yjkim";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~ciurlo/">Website</a>--></p>
-      </td>
-    </tr> 
-    <tr>
-      <td>
-      <h5>Shawn Knabel</h5>
-      <p>Advisor: N/A<br />
-      Office: N/A<br />
-      Email: <script language="JavaScript"> 
-		var name = "shawnknabel";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~ciurlo/">Website</a>--></p>
-      </td>
-    </tr> 
-    <tr>
-      <td>
-      <h5>Rebecca Lewis</h5>
-      <p>Advisor: N/A<br />
-      Office: N/A<br />
-      Email: <script language="JavaScript"> 
-		var name = "rlewis";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~ciurlo/">Website</a>--></p>
-      </td>
-    </tr>  
-    <!--<tr>
-      <td><img src="grad-student-images/briley.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Briley Lewis</h5>
-      <p>Advisor: Fitzgerald<br />
-      Office: PAB 3-540<br />
-      Email: <script language="JavaScript"> 
-		var name = "blewis";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      Website: <a href="http://www.briley-lewis.com/">http://www.briley-lewis.com/</a></p>
-      </td>
-    </tr>-->
-    <tr>
-      <td><!--<img src="grad-student-images/gibbs.png" width="100px" class="image1 float-left" hspace="15px" alt="...">-->
-      <h5>Jonathan Lin</h5>
-      <p>Office: PAB 3-530<br />
-      Email: <script language="JavaScript"> 
-		var name = "jon880";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="grad-student-images/lopez.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Ronald A. Lopez</h5>
-      <p>Advisor: Fitzgerald<br />
-      Office: PAB 3-540<br />
-      Email: <script language="JavaScript"> 
-		var name = "rlopez";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="grad-student-images/macdougall.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Mason MacDougall</h5>
-      <p>Advisor: Fitzgerald<br />
-      Office: PAB 3-540<br />
-      Email: <script language="JavaScript"> 
-		var name = "macdougall";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="grad-student-images/melchor.jpeg" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Denyz Melchor</h5>
-      <p>Advisor: N/A<br />
-      Office: N/A<br />
-      Email: <script language="JavaScript"> 
-		var name = "denyzamelchor";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-      <h5>Wenmeng Ning</h5>
-      <p>Advisor: N/A<br />
-      Office: N/A<br />
-      Email: <script language="JavaScript"> 
-		var name = "wning";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="grad-student-images/kosmo.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Kelly Kosmo O'Neil</h5>
-      <p>Advisor: Ghez<br />
-      Office: Knudsen 3-145X<br />
-      Email: <script language="JavaScript"> 
-		var name = "kkosmo";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr> 
-    <tr>
-      <td><img src="grad-student-images/pahl.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Anthony Pahl</h5>
-      <p>Advisor: Shapley<br />
-      Office: PAB 3-540<br />
-      Email: <script language="JavaScript"> 
-		var name = "pahl";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="grad-student-images/rose.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Sanaea Rose</h5>
-      <p>Advisor: Naoz<br />
-      Office: PAB 3-540<br />
-      Email: <script language="JavaScript"> 
-		var name = "srose";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>  
-    <tr>
-      <td><img src="grad-student-images/runco.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Jordan Runco</h5>
-      <p>Advisor: Shapley<br />
-      Office: Knudsen 3-145N<br />
-      Email: <script language="JavaScript"> 
-		var name = "jrunco";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr> 
-    <tr>
-      <td><!--<img src="grad-student-images/runco.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">-->
-      <h5>James Ryan</h5>
-      <p>Advisor: Ong<br />
-      Office: Knudsen 3-145G<br />
-      Phone: 310-825-2925<br />
-      Email: <script language="JavaScript"> 
-		var name = "jryan";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr> 
-    <tr>
-      <td><!--<img src="grad-student-images/runco.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">-->
-      <h5>Lynnie Saade</h5>
-      <p>Advisor: Furlanetto, Stern (JPL)<br />
-      Office: PAB 3-443<br />
-      Phone: 310-825-2925<br />
-      Email: <script language="JavaScript"> 
-		var name = "mlsaade";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td><!--<img src="grad-student-images/runco.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">-->
-      <h5>Jesus Salas</h5>
-      <p>Advisor: Morris<br />
-      Office: Knudsen 3-145B<br />
-      Phone: 310-794-5582<br />
-      Email: <script language="JavaScript"> 
-		var name = "jesusms";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td><!--<img src="grad-student-images/runco.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">-->
-      <h5>Thomas Schmidt</h5>
-      <p>Advisor: Treu<br />
-      Office: PAB 3-534<br />
-      Email: <script language="JavaScript"> 
-		var name = "thomas";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="grad-student-images/adam-trapp.png" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Adam Trapp</h5>
-      <p>Advisor: Steven Furlanetto<br />
-      Office: PAB 3-145E<br />
-      Email: <script language="JavaScript"> 
-		var name = "atrapp";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      Website: <a href="https://adamtrapp.com/">https://adamtrapp.com/</a>
-      </td>
-    </tr> 
-    <tr>
-      <td><!--<img src="grad-student-images/runco.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">-->
-      <h5>Isabella Trierweiler</h5>
-      <p>Advisor: Schlichting<br />
-      Office: PAB 3-540<br />
-      Email: <script language="JavaScript"> 
-		var name = "isabella.trierweiler";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="grad-student-images/tyler.jpeg" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Dakotah Tyler</h5>
-      <p>Advisor: N/A<br />
-      Office: PAB N/A<br />
-      Email: <script language="JavaScript"> 
-		var name = "dakotahtyler";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="grad-student-images/vanzandt.png" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Judah Van Zandt</h5>
-      <p>Advisor: Petigura<br />
-      Office: PAB 3-534<br />
-      Email: <script language="JavaScript"> 
-		var name = "judahvz";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="grad-student-images/lizvette.jpeg" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Lizvette Villafana</h5>
-      <p>Advisor: N/A<br />
-      Office: PAB N/A<br />
-      Email: <script language="JavaScript"> 
-		var name = "lvillafana";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td><!--<img src="grad-student-images/runco.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">-->
-      <h5>Grant Weldon</h5>
-      <p>Advisor: N/A<br />
-      Office: N/A<br />
-      Email: <script language="JavaScript"> 
-		var name = "gweldon";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td><!--<img src="grad-student-images/runco.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">-->
-      <h5>Claire Williams</h5>
-      <p>Advisor: N/A<br />
-      Office: N/A<br />
-      Email: <script language="JavaScript"> 
-		var name = "clairewilliams";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="grad-student-images/devon-williams.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">
-      <h5>Devon Williams | He/Him</h5>
-      <p>Advisor: N/A<br />
-      Office: N/A<br />
-      Email: <script language="JavaScript"> 
-		var name = "devon";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <a href="https://www.astro.ucla.edu/~devon/index.html">Website</a></p>
-      </td>
-    </tr>
-    <tr>
-      <td><!--<img src="grad-student-images/runco.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">-->
-      <h5>Peter Williams</h5>
-      <p>Advisor: Treu<br />
-      Office: Knudsen 3-145G<br />
-      Phone: 310-825-2925<br />
-      Email: <script language="JavaScript"> 
-		var name = "pwilliams";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td><!--<img src="grad-student-images/runco.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">-->
-      <h5>Zeyuan Xuan</h5>
-      <p>Advisor: Smadar Naoz<br />
-      Office: N/A<br />
-      Email: <script language="JavaScript"> 
-		var name = "zeyuan.xuan";
-		var domain = "physics.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-    <tr>
-      <td><!--<img src="grad-student-images/runco.jpg" width="100px" class="image1 float-left" hspace="15px" alt="...">-->
-      <h5>Tze Yeung (Mathew) Yu</h5>
-      <p>Advisor: Hansen<br />
-      Office: PAB 3-441<br />
-      Email: <script language="JavaScript"> 
-		var name = "tzeyu";
-		var domain = "astro.ucla.edu";
-		document.write('<a href=\"mailto:' + name + '@' + domain + '\">'); 
-		document.write(name + '@' + domain);
-		</script></a><br />
-      <!--<a href="http://www.astro.ucla.edu/~guidorb">Website</a>--></p>
-      </td>
-    </tr>
-            
-    
-    </tbody>
-</table>
-          </div>
-        </div>
-      </div>
-
-    </section>
-
-
-    
-    
-
-    
-            
-              
-          </div>
-          <!-- END slider -->
-          </div>
-        </div>
-      
-    </section> <!-- .section -->
-
-
-
-    <footer class="site-footer" role="contentinfo">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-md-3 mb-5">
-            <h3>Announcements</h3>
-            <ul class="list-unstyled footer-link">
-              	<li><a href="https://www.pa.ucla.edu/open-positions.html">Open academic positions</a></li>
-              	<li><a href="https://www.pa.ucla.edu/annual-report.html">Annual reports and newsletters</a></li>
-              	<li><a href="http://newsroom.ucla.edu/">UCLA Newsroom</a></li>
-              	<li><a href="http://www.sexualviolence.ucla.edu/">UCLA policies on sexual harassment & violence</a></li>
-              	<li><a href="https://diversity.ucla.edu/">Diversity @ UCLA</li>
-            </ul>
-
-          </div>
-          <div class="col-md-3 mb-5">
-            <div class="mb-5">
-              <h3>Academic Resources</h3>
-              <ul class="list-unstyled footer-link">
-              	<li><a href="https://registrar.ucla.edu/calendars/annual-academic-calendar">Academic calendar</a></li>
-              	<li><a href="https://sa.ucla.edu/ro/public/soc">Schedule of classes</a></li>
-              	<li><a href="https://my.ucla.edu/">MyUCLA</a></li>
-              	<li><a href="http://bruinlearn.ucla.edu/">BruinLearn</a></li>
-              	<li><a href="https://www.lmstransformation.ucla.edu/">LMS Transformation</a></li>
-              	<li><a href="https://ucla.service-now.com/support?id=home">UCLA IT Services</a></li>
-            </ul>
-            </div>
-          </div>
-          <div class="col-md-3 mb-5">
-            <h3>General Resources</h3>
-            <ul class="list-unstyled footer-link">
-              <li><a href="observing-facilities.html">Observing facilities</a></li>
-              <li><a href="http://irlab.astro.ucla.edu/">Infrared Laboratory</a></li>
-              <li><a href="https://www.pa.ucla.edu/financial-services.html">Financial Services</a></li>
-              <li><a href="http://iff.pa.ucla.edu/">Machine Shop</a></li>
-              <li><a href="https://www.pa.ucla.edu/research-store.html">Research Store</a></li>
-              <li><a href="https://webmail.astro.ucla.edu/">Astronomy Zimbra Email</a></li>
-              <li><a href="http://computing.pa.ucla.edu/">Computing & IT Support</li>
-            </ul>
-        </div>
-        <div class="col-md-3 mb-5">
-            <h3>Visiting UCLA</h3>
-            <ul class="list-unstyled footer-link">
-              <li><a href="#">UCLA interactive map</a></li>
-              <li><a href="#">Directions and parking</a></li>
-              <li><a href="#">Planetarium directions</a></li>
-              <li><a href="#">UCLA campus shuttle</a></li>
-              <li><a href="#">Local accommodations</a></li>
-              <li><a href="#">Giving to the Astro Division</a></li>
-            </ul>
-          </div>
-        <div class="row">
-          <div class="col-12 text-md-center text-left">
-            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-        Copyright &copy;<script>document.write(new Date().getFullYear());</script> UCLA Division of Astronomy & Astrophysics, 475 Portola Plaza, Los Angeles, CA 90095-1547
-310-825-3440 | A <a href="https://colorlib.com" target="_blank" >Colorlib</a> template.
-        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-          </div>
-        </div>
-      </div>
-    </footer>
-    <!-- END footer -->
-    <!-- loader -->
-    <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#cf1d16"/></svg></div>
-
-    <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/jquery.waypoints.min.js"></script>
-
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/magnific-popup-options.js"></script>
-    
-
-    <script src="js/main.js"></script>
-  </body>
-</html>
+UCLA Astronomy Division
+People
+Division of Astronomy & Astrophysics Graduate Students
+Personnel directory
+Faculty
+Researchers
+Postdocs
+Graduate students
+Staff
+Facilities
+Graduate Students
+Isabel Angelo
+Advisor: Naoz, Petigura
+Office: PAB 3-534
+Email:
+Peyton Benac
+Advisor: N/A
+Office: N/A
+Email:
+Rory Bentley
+Advisor: Ghez
+Office: PAB 3-540
+Email:
+Benjamin Calvin
+Advisor: N/A
+Office: N/A
+Email:
+Zhuo Chen
+Advisor: Ghez
+Office: Knudsen 3-145X
+Email:
+Veronica Dike
+Advisor: Treu
+Office: Knudsen 3-145F
+Email:
+Thea Faridani
+Advisor: Naoz
+Office: PAB 3-534
+Email:
+Nicholas Ferraro
+Advisor: N/A
+Office: N/A
+Email:
+Luke Finnerty
+Advisor: N/A
+Office: N/A
+Email:
+Aidan Gibbs
+Advisor: Fitzgerald
+Office: PAB 3-534
+Email:
+Daniel Gilman
+Office: PAB 2-429
+Email:
+Website:
+http://www.astro.ucla.edu/~gilmanda
+Zoe Haggard
+Advisor: N/A
+Office: N/A
+Email:
+Kevin Hayakawa | He/Him/His
+Advisor: Hansen
+Office: PAB 3-441
+Email:
+Website:
+http://astro.ucla.edu/~hayakawa
+Sahil Hegde
+Advisor: N/A
+Office: N/A
+Email:
+Bao-Minh Hoang
+Advisor: Naoz
+Office: Knudsen 3-145S
+Email:
+Website:
+http://astro.ucla.edu/~bmhoang/
+Liz Holzknecht
+Advisor: Smadar Naoz
+Office: N/A
+Email:
+Evan Jones
+Advisor: Do
+Office: PAB 3-540
+Email:
+Helen Kim
+Advisor: Malkan
+Office: Knudsen 3-145P
+Phone: 310-825-2925
+Email:
+Yoojung Kim
+Advisor: N/A
+Office: N/A
+Email:
+Shawn Knabel
+Advisor: N/A
+Office: N/A
+Email:
+Rebecca Lewis
+Advisor: N/A
+Office: N/A
+Email:
+Jonathan Lin
+Office: PAB 3-530
+Email:
+Ronald A. Lopez
+Advisor: Fitzgerald
+Office: PAB 3-540
+Email:
+Mason MacDougall
+Advisor: Fitzgerald
+Office: PAB 3-540
+Email:
+Denyz Melchor
+Advisor: N/A
+Office: N/A
+Email:
+Wenmeng Ning
+Advisor: N/A
+Office: N/A
+Email:
+Kelly Kosmo O'Neil
+Advisor: Ghez
+Office: Knudsen 3-145X
+Email:
+Anthony Pahl
+Advisor: Shapley
+Office: PAB 3-540
+Email:
+Sanaea Rose
+Advisor: Naoz
+Office: PAB 3-540
+Email:
+Jordan Runco
+Advisor: Shapley
+Office: Knudsen 3-145N
+Email:
+James Ryan
+Advisor: Ong
+Office: Knudsen 3-145G
+Phone: 310-825-2925
+Email:
+Lynnie Saade
+Advisor: Furlanetto, Stern (JPL)
+Office: PAB 3-443
+Phone: 310-825-2925
+Email:
+Jesus Salas
+Advisor: Morris
+Office: Knudsen 3-145B
+Phone: 310-794-5582
+Email:
+Thomas Schmidt
+Advisor: Treu
+Office: PAB 3-534
+Email:
+Adam Trapp
+Advisor: Steven Furlanetto
+Office: PAB 3-145E
+Email:
+Website:
+https://adamtrapp.com/
+Isabella Trierweiler
+Advisor: Schlichting
+Office: PAB 3-540
+Email:
+Dakotah Tyler
+Advisor: N/A
+Office: PAB N/A
+Email:
+Judah Van Zandt
+Advisor: Petigura
+Office: PAB 3-534
+Email:
+Lizvette Villafana
+Advisor: N/A
+Office: PAB N/A
+Email:
+Grant Weldon
+Advisor: N/A
+Office: N/A
+Email:
+Claire Williams
+Advisor: N/A
+Office: N/A
+Email:
+Devon Williams | He/Him
+Advisor: N/A
+Office: N/A
+Email:
+Website
+Peter Williams
+Advisor: Treu
+Office: Knudsen 3-145G
+Phone: 310-825-2925
+Email:
+Zeyuan Xuan
+Advisor: Smadar Naoz
+Office: N/A
+Email:
+Tze Yeung (Mathew) Yu
+Advisor: Hansen
+Office: PAB 3-441
+Email:
+Announcements
+Open academic positions
+Annual reports and newsletters
+UCLA Newsroom
+UCLA policies on sexual harassment & violence
+Diversity @ UCLA
+Academic Resources
+Academic calendar
+Schedule of classes
+MyUCLA
+BruinLearn
+LMS Transformation
+UCLA IT Services
+General Resources
+Observing facilities
+Infrared Laboratory
+Financial Services
+Machine Shop
+Research Store
+Astronomy Zimbra Email
+Computing & IT Support
+Visiting UCLA
+UCLA interactive map
+Directions and parking
+Planetarium directions
+UCLA campus shuttle
+Local accommodations
+Giving to the Astro Division
+Copyright ©
+UCLA Division of Astronomy & Astrophysics, 475 Portola Plaza, Los Angeles, CA 90095-1547
+310-825-3440 | A
+Colorlib
+template.

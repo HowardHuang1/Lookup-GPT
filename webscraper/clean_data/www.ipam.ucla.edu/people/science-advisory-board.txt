@@ -1,1113 +1,248 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Science Advisory Board - IPAM</title>
-    <link rel="shortcut icon" href="https://www.ipam.ucla.edu/wp-content/themes/ipam/favicon.ico" />
-        <script type="text/javascript" src="//use.typekit.net/efo5ibm.js"></script>
-    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-    
-    <link href="https://www.ipam.ucla.edu/wp-content/themes/ipam/stylesheets/bootstrap.min.css" rel="stylesheet">
-    <link href="https://www.ipam.ucla.edu/wp-content/themes/ipam/stylesheets/main.css" rel="stylesheet">
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-	
-		<!-- All in One SEO 4.5.6 - aioseo.com -->
-		<meta name="robots" content="max-image-preview:large" />
-		<link rel="canonical" href="https://www.ipam.ucla.edu/people/science-advisory-board/" />
-		<meta name="generator" content="All in One SEO (AIOSEO) 4.5.6" />
-		<meta property="og:locale" content="en_US" />
-		<meta property="og:site_name" content="IPAM - Institute for Pure &amp; Applied Mathematics" />
-		<meta property="og:type" content="article" />
-		<meta property="og:title" content="Science Advisory Board - IPAM" />
-		<meta property="og:url" content="https://www.ipam.ucla.edu/people/science-advisory-board/" />
-		<meta property="article:published_time" content="2013-12-08T19:03:21+00:00" />
-		<meta property="article:modified_time" content="2023-09-14T18:45:17+00:00" />
-		<meta name="twitter:card" content="summary_large_image" />
-		<meta name="twitter:title" content="Science Advisory Board - IPAM" />
-		<script type="application/ld+json" class="aioseo-schema">
-			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.ipam.ucla.edu\/people\/science-advisory-board\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.ipam.ucla.edu\/#listItem","position":1,"name":"Home","item":"https:\/\/www.ipam.ucla.edu\/","nextItem":"https:\/\/www.ipam.ucla.edu\/people\/#listItem"},{"@type":"ListItem","@id":"https:\/\/www.ipam.ucla.edu\/people\/#listItem","position":2,"name":"People","item":"https:\/\/www.ipam.ucla.edu\/people\/","nextItem":"https:\/\/www.ipam.ucla.edu\/people\/science-advisory-board\/#listItem","previousItem":"https:\/\/www.ipam.ucla.edu\/#listItem"},{"@type":"ListItem","@id":"https:\/\/www.ipam.ucla.edu\/people\/science-advisory-board\/#listItem","position":3,"name":"Science Advisory Board","previousItem":"https:\/\/www.ipam.ucla.edu\/people\/#listItem"}]},{"@type":"Organization","@id":"https:\/\/www.ipam.ucla.edu\/#organization","name":"IPAM","url":"https:\/\/www.ipam.ucla.edu\/"},{"@type":"WebPage","@id":"https:\/\/www.ipam.ucla.edu\/people\/science-advisory-board\/#webpage","url":"https:\/\/www.ipam.ucla.edu\/people\/science-advisory-board\/","name":"Science Advisory Board - IPAM","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/www.ipam.ucla.edu\/#website"},"breadcrumb":{"@id":"https:\/\/www.ipam.ucla.edu\/people\/science-advisory-board\/#breadcrumblist"},"datePublished":"2013-12-08T19:03:21-08:00","dateModified":"2023-09-14T11:45:17-07:00"},{"@type":"WebSite","@id":"https:\/\/www.ipam.ucla.edu\/#website","url":"https:\/\/www.ipam.ucla.edu\/","name":"IPAM","description":"Institute for Pure & Applied Mathematics","inLanguage":"en-US","publisher":{"@id":"https:\/\/www.ipam.ucla.edu\/#organization"}}]}
-		</script>
-		<!-- All in One SEO -->
-
-
-	<!-- This site is optimized with the Yoast SEO plugin v20.8 - https://yoast.com/wordpress/plugins/seo/ -->
-	<link rel="canonical" href="https://www.ipam.ucla.edu/people/science-advisory-board/" />
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Science Advisory Board - IPAM" />
-	<meta property="og:url" content="https://www.ipam.ucla.edu/people/science-advisory-board/" />
-	<meta property="og:site_name" content="IPAM" />
-	<meta property="article:publisher" content="https://www.facebook.com/pages/Institute-for-Pure-and-Applied-Mathematics/212054778822783" />
-	<meta property="article:modified_time" content="2023-09-14T18:45:17+00:00" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:site" content="@ipam_ucla" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.ipam.ucla.edu/people/science-advisory-board/","url":"https://www.ipam.ucla.edu/people/science-advisory-board/","name":"Science Advisory Board - IPAM","isPartOf":{"@id":"https://www.ipam.ucla.edu/#website"},"datePublished":"2013-12-08T19:03:21+00:00","dateModified":"2023-09-14T18:45:17+00:00","breadcrumb":{"@id":"https://www.ipam.ucla.edu/people/science-advisory-board/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.ipam.ucla.edu/people/science-advisory-board/"]}]},{"@type":"BreadcrumbList","@id":"https://www.ipam.ucla.edu/people/science-advisory-board/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.ipam.ucla.edu/"},{"@type":"ListItem","position":2,"name":"People","item":"https://www.ipam.ucla.edu/people/"},{"@type":"ListItem","position":3,"name":"Science Advisory Board"}]},{"@type":"WebSite","@id":"https://www.ipam.ucla.edu/#website","url":"https://www.ipam.ucla.edu/","name":"IPAM","description":"Institute for Pure &amp; Applied Mathematics","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.ipam.ucla.edu/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
-	<!-- / Yoast SEO plugin. -->
-
-
-<link rel="alternate" type="application/rss+xml" title="IPAM &raquo; Science Advisory Board Comments Feed" href="https://www.ipam.ucla.edu/people/science-advisory-board/feed/" />
-		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.24.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
-							<script src="//www.googletagmanager.com/gtag/js?id=G-BZ7VSVYE28"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
-			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
-				var mi_version = '8.24.0';
-				var mi_track_user = true;
-				var mi_no_track_reason = '';
-								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/www.ipam.ucla.edu\/people\/science-advisory-board\/","page_referrer":"https:\/\/www.ipam.ucla.edu"};
-				if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
-					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
-				} else {
-					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
-				}
-
-								var disableStrs = [
-										'ga-disable-G-BZ7VSVYE28',
-									];
-
-				/* Function to detect opted out users */
-				function __gtagTrackerIsOptedOut() {
-					for (var index = 0; index < disableStrs.length; index++) {
-						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
-							return true;
-						}
-					}
-
-					return false;
-				}
-
-				/* Disable tracking if the opt-out cookie exists. */
-				if (__gtagTrackerIsOptedOut()) {
-					for (var index = 0; index < disableStrs.length; index++) {
-						window[disableStrs[index]] = true;
-					}
-				}
-
-				/* Opt-out function */
-				function __gtagTrackerOptout() {
-					for (var index = 0; index < disableStrs.length; index++) {
-						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
-						window[disableStrs[index]] = true;
-					}
-				}
-
-				if ('undefined' === typeof gaOptout) {
-					function gaOptout() {
-						__gtagTrackerOptout();
-					}
-				}
-								window.dataLayer = window.dataLayer || [];
-
-				window.MonsterInsightsDualTracker = {
-					helpers: {},
-					trackers: {},
-				};
-				if (mi_track_user) {
-					function __gtagDataLayer() {
-						dataLayer.push(arguments);
-					}
-
-					function __gtagTracker(type, name, parameters) {
-						if (!parameters) {
-							parameters = {};
-						}
-
-						if (parameters.send_to) {
-							__gtagDataLayer.apply(null, arguments);
-							return;
-						}
-
-						if (type === 'event') {
-														parameters.send_to = monsterinsights_frontend.v4_id;
-							var hookName = name;
-							if (typeof parameters['event_category'] !== 'undefined') {
-								hookName = parameters['event_category'] + ':' + name;
-							}
-
-							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
-								MonsterInsightsDualTracker.trackers[hookName](parameters);
-							} else {
-								__gtagDataLayer('event', name, parameters);
-							}
-							
-						} else {
-							__gtagDataLayer.apply(null, arguments);
-						}
-					}
-
-					__gtagTracker('js', new Date());
-					__gtagTracker('set', {
-						'developer_id.dZGIzZG': true,
-											});
-					if ( MonsterInsightsLocations.page_location ) {
-						__gtagTracker('set', MonsterInsightsLocations);
-					}
-										__gtagTracker('config', 'G-BZ7VSVYE28', {"forceSSL":"true","link_attribution":"true"} );
-															window.gtag = __gtagTracker;										(function () {
-						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
-						/* ga and __gaTracker compatibility shim. */
-						var noopfn = function () {
-							return null;
-						};
-						var newtracker = function () {
-							return new Tracker();
-						};
-						var Tracker = function () {
-							return null;
-						};
-						var p = Tracker.prototype;
-						p.get = noopfn;
-						p.set = noopfn;
-						p.send = function () {
-							var args = Array.prototype.slice.call(arguments);
-							args.unshift('send');
-							__gaTracker.apply(null, args);
-						};
-						var __gaTracker = function () {
-							var len = arguments.length;
-							if (len === 0) {
-								return;
-							}
-							var f = arguments[len - 1];
-							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
-								if ('send' === arguments[0]) {
-									var hitConverted, hitObject = false, action;
-									if ('event' === arguments[1]) {
-										if ('undefined' !== typeof arguments[3]) {
-											hitObject = {
-												'eventAction': arguments[3],
-												'eventCategory': arguments[2],
-												'eventLabel': arguments[4],
-												'value': arguments[5] ? arguments[5] : 1,
-											}
-										}
-									}
-									if ('pageview' === arguments[1]) {
-										if ('undefined' !== typeof arguments[2]) {
-											hitObject = {
-												'eventAction': 'page_view',
-												'page_path': arguments[2],
-											}
-										}
-									}
-									if (typeof arguments[2] === 'object') {
-										hitObject = arguments[2];
-									}
-									if (typeof arguments[5] === 'object') {
-										Object.assign(hitObject, arguments[5]);
-									}
-									if ('undefined' !== typeof arguments[1].hitType) {
-										hitObject = arguments[1];
-										if ('pageview' === hitObject.hitType) {
-											hitObject.eventAction = 'page_view';
-										}
-									}
-									if (hitObject) {
-										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
-										hitConverted = mapArgs(hitObject);
-										__gtagTracker('event', action, hitConverted);
-									}
-								}
-								return;
-							}
-
-							function mapArgs(args) {
-								var arg, hit = {};
-								var gaMap = {
-									'eventCategory': 'event_category',
-									'eventAction': 'event_action',
-									'eventLabel': 'event_label',
-									'eventValue': 'event_value',
-									'nonInteraction': 'non_interaction',
-									'timingCategory': 'event_category',
-									'timingVar': 'name',
-									'timingValue': 'value',
-									'timingLabel': 'event_label',
-									'page': 'page_path',
-									'location': 'page_location',
-									'title': 'page_title',
-									'referrer' : 'page_referrer',
-								};
-								for (arg in args) {
-																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
-										hit[gaMap[arg]] = args[arg];
-									} else {
-										hit[arg] = args[arg];
-									}
-								}
-								return hit;
-							}
-
-							try {
-								f.hitCallback();
-							} catch (ex) {
-							}
-						};
-						__gaTracker.create = newtracker;
-						__gaTracker.getByName = newtracker;
-						__gaTracker.getAll = function () {
-							return [];
-						};
-						__gaTracker.remove = noopfn;
-						__gaTracker.loaded = true;
-						window['__gaTracker'] = __gaTracker;
-					})();
-									} else {
-										console.log("");
-					(function () {
-						function __gtagTracker() {
-							return null;
-						}
-
-						window['__gtagTracker'] = __gtagTracker;
-						window['gtag'] = __gtagTracker;
-					})();
-									}
-			</script>
-				<!-- / Google Analytics by MonsterInsights -->
-		<script type="text/javascript">
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ipam.ucla.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.3"}};
-/*! This file is auto-generated */
-!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
-</script>
-<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 0.07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-	<link rel='stylesheet' id='bootstrap_tab-css' href='https://www.ipam.ucla.edu/wp-content/plugins/easy-responsive-tabs/assets/css/bootstrap_tab.min.css?ver=6.3.3' type='text/css' media='all' />
-<link rel='stylesheet' id='bootstrap_dropdown-css' href='https://www.ipam.ucla.edu/wp-content/plugins/easy-responsive-tabs/assets/css/bootstrap_dropdown.min.css?ver=6.3.3' type='text/css' media='all' />
-<link rel='stylesheet' id='ert_tab_icon_css-css' href='https://www.ipam.ucla.edu/wp-content/plugins/easy-responsive-tabs/assets/css/res_tab_icon.css?ver=6.3.3' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-css' href='https://www.ipam.ucla.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.3.3' type='text/css' media='all' />
-<style id='classic-theme-styles-inline-css' type='text/css'>
-/*! This file is auto-generated */
-.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
-</style>
-<style id='global-styles-inline-css' type='text/css'>
-body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
-.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
-:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
-:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
-.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
-</style>
-<link rel='stylesheet' id='contact-form-7-css' href='https://www.ipam.ucla.edu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.6' type='text/css' media='all' />
-<link rel='stylesheet' id='sedlex_styles-css' href='https://www.ipam.ucla.edu/wp-content/sedlex/inline_styles/6eb86a46dba7b7014c3ca5b60295946fe81eecea.css?ver=20240221' type='text/css' media='all' />
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.24.0' id='monsterinsights-frontend-script-js'></script>
-<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
-var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/www.ipam.ucla.edu","hash_tracking":"false","v4_id":"G-BZ7VSVYE28"};/* ]]> */
-</script>
-<link rel="https://api.w.org/" href="https://www.ipam.ucla.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://www.ipam.ucla.edu/wp-json/wp/v2/pages/99" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ipam.ucla.edu/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 6.3.3" />
-<link rel='shortlink' href='https://www.ipam.ucla.edu/czXL7' />
-<link rel="alternate" type="application/json+oembed" href="https://www.ipam.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ipam.ucla.edu%2Fpeople%2Fscience-advisory-board%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.ipam.ucla.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ipam.ucla.edu%2Fpeople%2Fscience-advisory-board%2F&#038;format=xml" />
-		<style type="text/css" id="wp-custom-css">
-			a.anchor {
-    display: block;
-    position: relative;
-    top: -70px;
-    visibility: hidden;
-}		</style>
-		<style id="wpforms-css-vars-root">
-				:root {
-					--wpforms-field-border-radius: 3px;
---wpforms-field-background-color: #ffffff;
---wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
---wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
---wpforms-label-color: rgba( 0, 0, 0, 0.85 );
---wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
---wpforms-label-error-color: #d63637;
---wpforms-button-border-radius: 3px;
---wpforms-button-background-color: #066aab;
---wpforms-button-text-color: #ffffff;
---wpforms-field-size-input-height: 43px;
---wpforms-field-size-input-spacing: 15px;
---wpforms-field-size-font-size: 16px;
---wpforms-field-size-line-height: 19px;
---wpforms-field-size-padding-h: 14px;
---wpforms-field-size-checkbox-size: 16px;
---wpforms-field-size-sublabel-spacing: 5px;
---wpforms-field-size-icon-size: 1;
---wpforms-label-size-font-size: 16px;
---wpforms-label-size-line-height: 19px;
---wpforms-label-size-sublabel-font-size: 14px;
---wpforms-label-size-sublabel-line-height: 17px;
---wpforms-button-size-font-size: 17px;
---wpforms-button-size-height: 41px;
---wpforms-button-size-padding-h: 15px;
---wpforms-button-size-margin-top: 10px;
-
-				}
-			</style></head>
-
-<body>
-	<div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=340487822771421";
-      fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
-    </script>
-    
-    <div id="mobile-nav">
-        <div class="navbar navbar-default" role="navigation">
-           <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="https://www.ipam.ucla.edu/"> 
-					<img src="https://www.ipam.ucla.edu/wp-content/themes/ipam/img/logo.png" height="60" alt="IPAM logo" />
-				</a>
-            </div>
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav"><li class="dropdown"><a href="https://www.ipam.ucla.edu/programs/" class="dropdown-toggle" data-toggle="dropdown">Programs</a><ul class="dropdown-menu"><li><a href="https://www.ipam.ucla.edu/programs/long-programs/">Long Programs</a></li><li><a href="https://www.ipam.ucla.edu/programs/workshops/">Workshops</a></li><li><a href="https://www.ipam.ucla.edu/programs/public-lectures-events/">Public Lectures</a></li><li><a href="https://www.ipam.ucla.edu/programs/summer-schools/">Summer Schools</a></li><li><a href="https://www.ipam.ucla.edu/programs/special-events-and-conferences/">Special Events and Conferences</a></li><li><a href="https://www.ipam.ucla.edu/programs/student-research-programs/">Student Research Programs</a></li><li><a href="https://www.ipam.ucla.edu/propose-a-program/long-programs-2/">Propose a Program</a></li></ul></li><li class="dropdown"><a href="https://www.ipam.ucla.edu/news-research/" class="dropdown-toggle" data-toggle="dropdown">News &#038; Research</a><ul class="dropdown-menu"><li><a href="https://www.ipam.ucla.edu/news/">News</a></li><li><a href="https://www.ipam.ucla.edu/interviews/">Interviews</a></li><li><a href="https://www.ipam.ucla.edu/research-articles/">Research Articles</a></li><li><a href="https://www.ipam.ucla.edu/ipam-newsletter/">IPAM Newsletter</a></li><li><a href="https://www.ipam.ucla.edu/press-releases/">Press Releases</a></li></ul></li><li class="dropdown"><a href="https://www.ipam.ucla.edu/people/" class="dropdown-toggle" data-toggle="dropdown">People</a><ul class="dropdown-menu"><li><a href="https://www.ipam.ucla.edu/building-directory/">Building Directory</a></li><li><a href="https://www.ipam.ucla.edu/people/directors/">Directors</a></li><li><a href="https://www.ipam.ucla.edu/people/board-of-trustees/">Board of Trustees</a></li><li><a href="https://www.ipam.ucla.edu/people/science-advisory-board/">Science Advisory Board</a></li><li><a href="https://www.ipam.ucla.edu/people/staff/">Staff</a></li><li><a href="https://www.ipam.ucla.edu/people/simons-participants/">Simons Participants</a></li></ul></li><li class="dropdown"><a href="https://www.ipam.ucla.edu/about-ipam/" class="dropdown-toggle" data-toggle="dropdown">About IPAM</a><ul class="dropdown-menu"><li><a href="https://www.ipam.ucla.edu/about-ipam/today-at-ipam/">Today at IPAM</a></li><li><a href="https://www.ipam.ucla.edu/about-ipam/about-ucla/">About UCLA</a></li><li><a href="https://www.ipam.ucla.edu/about-ipam/diversity/">Equity, Diversity, and Inclusion at IPAM</a></li><li><a href="https://www.ipam.ucla.edu/about-ipam/annual-report/">NSF Grants</a></li></ul></li>             </div>
-         </div>
-        <div class="tr">
-                        <script>
-              (function() {
-                var cx = '005565527351693571690:a4uyfgvztxm';
-                var gcse = document.createElement('script');
-                gcse.type = 'text/javascript';
-                gcse.async = true;
-                gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-                    '//www.google.com/cse/cse.js?cx=' + cx;
-                var s = document.getElementsByTagName('script')[0];
-                s.parentNode.insertBefore(gcse, s);
-              })();
-            </script>
-            <gcse:search></gcse:search>
-        </div>
-    </div>
-    
-    
-    <div id="header-holder" class="content w1200">
-        <div class="col-sm-12">
-            <div id="header">
-                <div id="header_left" class="fl">
-                    <a href="https://www.ipam.ucla.edu/">
-                        <img src="https://www.ipam.ucla.edu/wp-content/themes/ipam/img/logo.png" height="80" alt="IPAM logo" style="padding-top:15px;" />
-                    </a>
-                </div>
-                <div id="header_right" class="fr">
-                                        <script>
-                      (function() {
-                        var cx = '008253621426482094189:j92_vvpwrcc';
-                        var gcse = document.createElement('script');
-                        gcse.type = 'text/javascript';
-                        gcse.async = true;
-                        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-                            '//www.google.com/cse/cse.js?cx=' + cx;
-                        var s = document.getElementsByTagName('script')[0];
-                        s.parentNode.insertBefore(gcse, s);
-                      })();
-                    </script>
-                    <gcse:search></gcse:search>
-					<div class="clearfix"></div>
-					<ul id="menu-header-menu" class="fr"><li id="menu-item-396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-396"><a href="https://www.ipam.ucla.edu/programs/">Programs</a>
-<ul class="sub-menu">
-	<li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-programs menu-item-402"><a href="https://www.ipam.ucla.edu/programs/long-programs/">Long Programs</a></li>
-	<li id="menu-item-401" class="menu-item menu-item-type-post_type menu-item-object-programs menu-item-401"><a href="https://www.ipam.ucla.edu/programs/workshops/">Workshops</a></li>
-	<li id="menu-item-398" class="menu-item menu-item-type-post_type menu-item-object-programs menu-item-398"><a href="https://www.ipam.ucla.edu/programs/special-events-and-conferences/">Special Events and Conferences</a></li>
-	<li id="menu-item-399" class="menu-item menu-item-type-post_type menu-item-object-programs menu-item-399"><a href="https://www.ipam.ucla.edu/programs/student-research-programs/">Student Research Programs</a></li>
-	<li id="menu-item-400" class="menu-item menu-item-type-post_type menu-item-object-programs menu-item-400"><a href="https://www.ipam.ucla.edu/programs/summer-schools/">Summer Schools</a></li>
-	<li id="menu-item-11877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11877"><a title="Practicum for Undergraduate MAthematicians (PUMA)" href="https://www.ipam.ucla.edu/practicum-for-undergraduate-mathematicians-puma/">PUMA</a></li>
-	<li id="menu-item-397" class="menu-item menu-item-type-post_type menu-item-object-programs menu-item-397"><a href="https://www.ipam.ucla.edu/programs/public-lectures-events/">Public Lectures</a></li>
-	<li id="menu-item-4509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4509"><a href="https://www.ipam.ucla.edu/about-ipam/green-family-lecture-series/">Green Family Lecture Series</a></li>
-	<li id="menu-item-703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-703"><a href="https://www.ipam.ucla.edu/propose-a-program/long-programs-2/">Propose a program</a></li>
-</ul>
-</li>
-<li id="menu-item-1195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1195"><a href="https://www.ipam.ucla.edu/videos/">Videos</a></li>
-<li id="menu-item-403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-403"><a href="https://www.ipam.ucla.edu/news-research/">News</a>
-<ul class="sub-menu">
-	<li id="menu-item-1509" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1509"><a href="https://www.ipam.ucla.edu/news/">News</a></li>
-	<li id="menu-item-1511" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1511"><a href="https://www.ipam.ucla.edu/research-articles/">Research Articles</a></li>
-	<li id="menu-item-3996" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3996"><a href="https://www.ipam.ucla.edu/reports/">Reports and Whitepapers</a></li>
-	<li id="menu-item-2635" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2635"><a href="https://www.ipam.ucla.edu/press-releases/">Press Releases</a></li>
-	<li id="menu-item-1512" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1512"><a href="https://www.ipam.ucla.edu/ipam-newsletter/">IPAM Newsletter</a></li>
-</ul>
-</li>
-<li id="menu-item-7635" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-7635"><a href="https://www.ipam.ucla.edu/people/directors/">People</a>
-<ul class="sub-menu">
-	<li id="menu-item-729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-729"><a href="https://www.ipam.ucla.edu/people/directors/">Directors</a></li>
-	<li id="menu-item-410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-410"><a href="https://www.ipam.ucla.edu/people/staff/">Staff</a></li>
-	<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-99 current_page_item menu-item-409"><a href="https://www.ipam.ucla.edu/people/science-advisory-board/" aria-current="page">Science Advisory Board</a></li>
-	<li id="menu-item-412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412"><a href="https://www.ipam.ucla.edu/people/board-of-trustees/">Board of Trustees</a></li>
-	<li id="menu-item-9831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9831"><a href="https://www.ipam.ucla.edu/people/simons-participants/">Simons Participants</a></li>
-</ul>
-</li>
-<li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-414"><a href="https://www.ipam.ucla.edu/your-visit/">Your Visit</a>
-<ul class="sub-menu">
-	<li id="menu-item-11533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11533"><a href="https://www.ipam.ucla.edu/community-agreement-page/">Community Agreement</a></li>
-	<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a href="https://www.ipam.ucla.edu/your-visit/policies/">Policies</a></li>
-	<li id="menu-item-416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-416"><a href="https://www.ipam.ucla.edu/your-visit/directions/">Directions</a></li>
-	<li id="menu-item-417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-417"><a href="https://www.ipam.ucla.edu/your-visit/hotels/">Hotels</a></li>
-	<li id="menu-item-418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-418"><a href="https://www.ipam.ucla.edu/your-visit/housing-resources/">Housing Resources</a></li>
-	<li id="menu-item-420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-420"><a href="https://www.ipam.ucla.edu/your-visit/residents-guide/">Resident’s Guide</a></li>
-	<li id="menu-item-422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422"><a href="https://www.ipam.ucla.edu/your-visit/transportation/">Transportation</a></li>
-	<li id="menu-item-421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-421"><a href="https://www.ipam.ucla.edu/your-visit/technology/">Technology</a></li>
-	<li id="menu-item-415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-415"><a href="https://www.ipam.ucla.edu/your-visit/child-care/">Child Care Resources</a></li>
-</ul>
-</li>
-<li id="menu-item-423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-423"><a href="https://www.ipam.ucla.edu/about-ipam/">About IPAM</a>
-<ul class="sub-menu">
-	<li id="menu-item-1189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1189"><a href="https://www.ipam.ucla.edu/about-ipam/today-at-ipam/">Today at IPAM</a></li>
-	<li id="menu-item-424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-424"><a href="https://www.ipam.ucla.edu/about-ipam/about-ucla/">About UCLA</a></li>
-	<li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a href="https://www.ipam.ucla.edu/about-ipam/diversity/">Equity, Diversity, and Inclusion at IPAM</a></li>
-	<li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425"><a href="https://www.ipam.ucla.edu/about-ipam/annual-report/">NSF Grants</a></li>
-</ul>
-</li>
-<li id="menu-item-3216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3216"><a href="https://www.ipam.ucla.edu/donate/">Donate</a>
-<ul class="sub-menu">
-	<li id="menu-item-430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-430"><a href="https://www.ipam.ucla.edu/donate/priorities/">Funding Priorities</a></li>
-	<li id="menu-item-428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-428"><a href="https://www.ipam.ucla.edu/donate/corporate-giving/">Corporate Giving</a></li>
-	<li id="menu-item-713" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-713"><a href="https://giving.ucla.edu/Standard/NetDonate.aspx?SiteNum=136">Donate Now</a></li>
-</ul>
-</li>
-<li id="menu-item-432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-432"><a href="https://www.ipam.ucla.edu/contact-us/">Contact Us</a></li>
-</ul>                    <div class="clearfix"></div>
-                </div>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-        <div class="clearfix"></div>
-    </div>
-	
-	
-	
-   
-
-
-<div id="breadcrumbs"  style="background-image: url(https://www.ipam.ucla.edu/wp-content/uploads/2013/12/figure_people_web-1920x199.jpg);">
-	<div class="content">
-		<div class="vertical-xs">
-			<h1> 
-				People			</h1>
-		</div>
-	</div>
-</div>
-
-<div class="content w1200">
-	<div class="col-sm-12">
-		<div class="content-w-block standard-block">
-			<div class="col-sm-12">
-				<div class="des">
-					IPAM carries out its mission with the assistance and support of many people in a variety of roles.  The IPAM community consists of the directorate, staff, Science Advisory Board, Board of Trustees, and of course, program organizers, speakers, and participants, which are unique to each program.
+Science Advisory Board - IPAM
+Programs
+Long Programs
+Workshops
+Public Lectures
+Summer Schools
+Special Events and Conferences
+Student Research Programs
+Propose a Program
+News & Research
+News
+Interviews
+Research Articles
+IPAM Newsletter
+Press Releases
+People
+Building Directory
+Directors
+Board of Trustees
+Science Advisory Board
+Staff
+Simons Participants
+About IPAM
+Today at IPAM
+About UCLA
+Equity, Diversity, and Inclusion at IPAM
+NSF Grants
+Programs
+Long Programs
+Workshops
+Special Events and Conferences
+Student Research Programs
+Summer Schools
+PUMA
+Public Lectures
+Green Family Lecture Series
+Propose a program
+Videos
+News
+News
+Research Articles
+Reports and Whitepapers
+Press Releases
+IPAM Newsletter
+People
+Directors
+Staff
+Science Advisory Board
+Board of Trustees
+Simons Participants
+Your Visit
+Community Agreement
+Policies
+Directions
+Hotels
+Housing Resources
+Resident’s Guide
+Transportation
+Technology
+Child Care Resources
+About IPAM
+Today at IPAM
+About UCLA
+Equity, Diversity, and Inclusion at IPAM
+NSF Grants
+Donate
+Funding Priorities
+Corporate Giving
+Donate Now
+Contact Us
+People
+IPAM carries out its mission with the assistance and support of many people in a variety of roles.  The IPAM community consists of the directorate, staff, Science Advisory Board, Board of Trustees, and of course, program organizers, speakers, and participants, which are unique to each program.
 
 You can read about current members of the directorate and staff below.  Openings for associate director will be posted on this site every two or three years; staff openings are advertised on UCLA Campus Human Resources.
 
 The Science Advisory Board approves all scientific programs sponsored by IPAM.  The Board of Trustees approves the budget and plans for the upcoming year. Each board meets once a year and communicates with the Director regularly. Members serve four year terms. IPAM's directors are ex-officio members.
 
-The building directory includes all directors, staff and participants of the current long program with offices at IPAM.				</div>
-			</div>
-			<div class="clearfix"></div>
-		</div>
-	</div>
-	<div class="clearfix"></div>
-</div>
-
-
-<div id="people-tabs" class="content w1200">
-	<div class="col-md-12">
-		<div class="top-tabs content-w-block">
-			<ul class="nav nav-justified">
-			   										<li class="">
-						<a href="https://www.ipam.ucla.edu/people/directors/">
-							<span style="padding-left:0;">Directors</span>
-						</a>
-					</li>
-														<li class="">
-						<a href="https://www.ipam.ucla.edu/people/staff/">
-							<span style="padding-left:0;">Staff</span>
-						</a>
-					</li>
-														<li class="active">
-						<a href="https://www.ipam.ucla.edu/people/science-advisory-board/">
-							<span style="padding-left:0;">Science Advisory Board</span>
-						</a>
-					</li>
-														<li class="">
-						<a href="https://www.ipam.ucla.edu/people/board-of-trustees/">
-							<span style="padding-left:0;">Board of Trustees</span>
-						</a>
-					</li>
-														<li class="">
-						<a href="https://www.ipam.ucla.edu/people/simons-participants/">
-							<span style="padding-left:0;">Simons Participants</span>
-						</a>
-					</li>
-								 
-			</ul>
-		</div>
-	</div>
-</div>
-
-<div id="navigationfixed" style="display:none;">
-	<div class="content w1200">
-		<div class="col-md-12">
-			<div class="top-tabs content-w-block">
-				<ul class="nav nav-justified">
-																	<li class="">
-							<a href="https://www.ipam.ucla.edu/people/directors/">
-								<span>Directors</span>
-							</a>
-						</li>
-																	<li class="">
-							<a href="https://www.ipam.ucla.edu/people/staff/">
-								<span>Staff</span>
-							</a>
-						</li>
-																	<li class="active">
-							<a href="https://www.ipam.ucla.edu/people/science-advisory-board/">
-								<span>Science Advisory Board</span>
-							</a>
-						</li>
-																	<li class="">
-							<a href="https://www.ipam.ucla.edu/people/board-of-trustees/">
-								<span>Board of Trustees</span>
-							</a>
-						</li>
-																	<li class="">
-							<a href="https://www.ipam.ucla.edu/people/simons-participants/">
-								<span>Simons Participants</span>
-							</a>
-						</li>
-														</ul>
-			</div>
-		</div>
-	</div>
-</div>
-
-<div class="content w1200">
-	<div class="col-sm-12">
-
-		
-	<div id="people" class="content-w-block">
-									<h2>Science Advisory Board</h2>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2013/12/Brenner-Michael-photo-104x120.png" alt="Michael Brenner" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Michael Brenner</h3>
-						<div class="director-href fl">
-															<a href="mailto:brenner@seas.harvard.edu" class="contact">Contact</a>
-																						<a href="http://www.seas.harvard.edu/directory/brenner" class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Michael P. Brenner is the Glover Professor of Applied Mathematics and Applied Physics and a Harvard College Professor in the School of Engineering and Applied Sciences at Harvard University. His research uses methods and ideas of applied mathematics to address a variety of problems in science and engineering, ranging from understanding the shapes of whale flippers, bird beaks, and fungal spores to developing ideas for creating materials that spontaneously assemble themselves. Brenner did his undergraduate work at the University of Pennsylvania <!--more-->and received his PhD from the University of Chicago in 1994. Before moving to Harvard in 2001, he was a faculty member in the Department of Mathematics at MIT.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2022/11/Emery-N.-Brown-photo-v3-104x120.jpg" alt="Emery Brown" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Emery Brown</h3>
-						<div class="director-href fl">
-															<a href="mailto:enb@neurostat.mit.edu" class="contact">Contact</a>
-																						<a href="https://imes.mit.edu/people/faculty/brown-emery/" class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Emery N. Brown is the Edward Hood Taplin Professor of Medical Engineering and Computational Neuroscience at MIT, the Warren M. Zapol Professor of Anesthesia at Harvard Medical School and an anesthesiologist at Massachusetts General Hospital. His experimental research studies how anesthesia works. His statistics research develops point process, state-space and spectral analysis methods to characterize how the brain represents and transmits information. He served on the NIH BRAIN Initiative Working Group and is the recipient of an NIH <!--more-->Pioneer Award, the National Institute of Statistical Sciences Sacks Award, the American Society of Anesthesiologists Excellence in Research Award and a Guggenheim Fellowship in Applied Mathematics. He is a Fellow of the American Academy of Arts and Sciences and the National Academy of Inventors. He is a member of the National Academy of Medicine, National Academy of Sciences and National Academy of Engineering.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2023/01/Kieron-Burke-104x120.jpg" alt="Kieron Burke " />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Kieron Burke </h3>
-						<div class="director-href fl">
-															<a href="mailto:kieron@uci.edu" class="contact">Contact</a>
-																						<a href="https://www.chem.uci.edu/people/kieron-burke " class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Kieron Burke is a distinguished professor in both the chemistry and physics departments at UC Irvine. His research focuses on developing a theory of quantum mechanics called density functional theory. Density functional theory is a way of solving the equations of quantum mechanics for the electrons in any substance. Because DFT equations can be solved relatively quickly on modern computers, DFT has become a very popular tool in many branches of science, especially chemistry and materials science. Last year, at least 30,000 scientific papers used DFT. For example, hydrogen sulphide was predicted by DFT calculations to have a high superconducting temperature under pressure, and a year later, it was tested and became the world-record holder, at 203K. <!--more--><br />
-Prof Burke works on developing all aspects of DFT: formalism, extensions to new areas, new approximations, and simplifications. His work is heavily used in materials science, chemistry, matter under extreme conditions (such as planetary interiors or fusion reactors), magnetic materials, molecular electronics, and so on. He has given talks in theoretical chemistry, condensed matter physics, applied mathematics, computer science, and even organic chemistry. His graduate students and postdocs usually come from either the chemistry or physics departments, but his undergraduate researchers also come from math, computer science, and engineering. He believes that the most impactful advance in 20th century physics was the development of quantum mechanics, without which we cannot understand chemistry and materials. He also believes that there are few problems in theoretical science whose solution has more immediate impact than the improvement of DFT. The more accurate, reliable, and widespread DFT calculations become, the sooner we will have novel materials and drugs, and the more we will understand both our own planet and others.<br />
-Prof Burke is also a fellow of the American Physical Society, the British Royal Society for Chemistry, and the American Association for the Advancement of Science, and a member of the International Academy of Quantum Molecular Sciences. He is known around the world for his many educational and outreach activities. According to Google scholar, his work has been cited over 200,000 times.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2013/12/Emmanuel-Candes-photo-104x120.jpg" alt="Emmanuel Candès" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Emmanuel Candès</h3>
-						<div class="director-href fl">
-															<a href="mailto:Candès@stanford.edu" class="contact">Contact</a>
-																						<a href="http://www-stat.stanford.edu/~candes/" class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Emmanuel Candès is the Barnum-Simons Chair in Mathematics and Statistics and a Professor of Electrical Engineering (by courtesy) at Stanford University. He received his PhD in statistics from Stanford in 1998. His research interests include computational harmonic analysis, statistics, information theory, signal processing and mathematical optimization. He has received several awards including the McArthur Fellowship and the Alan T. Waterman Award from NSF.  He is an elected member of the National Academy of Sciences (2014) and of the <!--more-->American Academy of Arts and Sciences (2014). He has given over 60 plenary lectures at major international conferences including the International Congress of Mathematicians (2014).</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2013/12/Clementi_New-104x120.jpg" alt="Cecilia Clementi" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Cecilia Clementi</h3>
-						<div class="director-href fl">
-															<a href="mailto:c.clementi@fu-berlin.de" class="contact">Contact</a>
-																						<a href="https://www.physik.fu-berlin.de/einrichtungen/ag/ag-clementi" class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Cecilia Clementi is Einstein Professor of Physics at Freie Universität (FU) in Berlin, Germany. She joined the faculty of FU in June 2020 after 19 years as a Professor of Chemistry at Rice University in Houston, Texas. Clementi research focuses on the development and application of methods for the modeling of complex biophysical processes at multiple length and time scales, by means of molecular dynamics, statistical mechanics, coarse-grained models, experimental data, and machine learning.  Her work has been recognized with an NSF Career award (2004) and the Welch Foundation Norman Hackerman Award in <!--more--> Chemical Research (2009). Clementi received her B.S. in Physics from the University of Florence, and her M.Sc. and Ph.D. in Physics from the International School for Advanced Studies (SISSA). She was a postdoctoral fellow at the University of California, San Diego, where she was part of the La Jolla Interfaces in Science program.<br />
-Since 2016 she is also a co-Director of the National Science Foundation Molecular Sciences Software Institute.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2013/12/image002-104x120.jpg" alt="Cynthia Dwork" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Cynthia Dwork</h3>
-						<div class="director-href fl">
-															<a href="mailto:dwork@seas.harvard.edu" class="contact">Contact</a>
-																						<a href="https://www.seas.harvard.edu/directory/dwork" class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Cynthia Dwork is the Gordon McKay Professor of Computer Science at Harvard’s Paulson School of Engineering and Applied Sciences. Formerly a Distinguished Scientist at Microsoft Research, Dwork is renowned for placing privacy-preserving data analysis on a mathematically rigorous foundation. A cornerstone of this work is differential privacy, a strong privacy guarantee frequently permitting highly accurate data analysis. Dr. Dwork has also made seminal contributions in cryptography and distributed computing, and is a recipient of the <!--more-->Edsger W. Dijkstra Prize, recognizing some of her earliest work establishing the pillars on which every fault-tolerant system has been built for decades. She is a member of the National Academy of Engineering and a Fellow of the American Association for the Advancement of Science. She was elected to the National Academy of Sciences in 2014.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2013/12/Jordan-Ellenberg-104x120.jpg" alt="Jordan Ellenberg" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Jordan Ellenberg</h3>
-						<div class="director-href fl">
-															<a href="mailto:ellenber@math.wisc.edu" class="contact">Contact</a>
-																						<a href="http://www.math.wisc.edu/~ellenber/" class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Jordan Ellenberg is the John D. MacArthur Professor of Mathematics at the University of Wisconsin at Madison, specializing in number theory and algebraic geometry, with related interests in algebraic topology, combinatorics, and data science.  Ellenberg has held an NSF-CAREER grant, an Alfred P. Sloan Fellowship, and a Guggenheim Fellowship, and in 2013 he was named one of the inaugural class of Fellows of the American Mathematical Society.  He is also a popularizer of mathematics; his journalism has appeared in the <em>New York Times</em>, the <em>Wall Street </em><!--more--><em>Journal</em>, the <em>Washington Post</em>, <em>Wired</em>, <em>The Believer</em>, and the<em> Boston Globe, </em>and is the author of the New York Times bestseller <em>How Not To Be Wrong:  The Power of Mathematical Thinking. </em>(Photo courtesy of Mats Rudels.)</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2021/01/Hittinger-crop-104x120.jpg" alt="Jeffrey Hittinger" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Jeffrey Hittinger</h3>
-						<div class="director-href fl">
-															<a href="mailto:hittinger1@llnl.gov" class="contact">Contact</a>
-																						<a href="https://people.llnl.gov/hittinger1 " class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Jeffrey Hittinger is the Director of the Center for Applied Scientific Computing at Lawrence Livermore National Laboratory. His research addresses the development and application of advanced discretization methods for partial differential equations underlying multiphysics numerical simulations, particularly for plasma physics and including high-order finite-difference and finite-volume methods, parallel computing strategies, adaptive mesh refinement techniques, a posteriori error estimation, and finite precision floating-point representations. <!--more-->He was a recipient of the Department of Energy Computational Science Graduate Fellowship and of a National Science Foundation Graduate Research Fellowship, and he was one of the first recipients of the Frederick A. Howes Scholar in Computational Science award. Hittinger earned his PhD from the University of Michigan in 2000 and received his undergraduate education at Lehigh University.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2023/02/Kiran-Kedlaya-104x120.jpg" alt="Kiran Kedlaya" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Kiran Kedlaya</h3>
-						<div class="director-href fl">
-															<a href="mailto:kkedlaya@ucsd.edu" class="contact">Contact</a>
-																				</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Kiran S. Kedlaya is the Stefan E. Warschawski Professor of Mathematics at University of California San Diego. His research interests are in number theory and algebraic geometry, including computational/experimental aspects and other interactions with computer science. Kedlaya has been an NSF PECASE awardee, a Sloan Fellow, an ICM invited speaker, and a Guggenheim Fellow.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2013/12/kenyon-104x120.jpg" alt="Richard Kenyon" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Richard Kenyon</h3>
-						<div class="director-href fl">
-															<a href="mailto:richard.kenyon@yale.edu" class="contact">Contact</a>
-																						<a href="https://math.yale.edu/people/richard-kenyon" class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Richard W. Kenyon is the Erastus L. DeForest Professor of Mathematics at Yale University. He received his PhD in 1990 at Princeton University under the direction of William Thurston. Kenyon held postdoctoral positions at the Institut des Hautes Études Scientifiques and then a position at CNRS in Grenoble, Lyon, and Paris. In 2004 he held a Canada Research Chair at the University of British Columbia. From 2005 to 2017 he was full professor at Brown University. He won a CNRS bronze medal in 1999, the Rollo Davidson prize in 2001, and the Loeve prize in probability in 2007. His research interests are in statistical mechanics, combinatorics, and discrete geometry.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2017/08/lin_sab-104x120.jpg" alt="Xihong Lin" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Xihong Lin</h3>
-						<div class="director-href fl">
-															<a href="mailto:xlin@hsph.harvard.edu" class="contact">Contact</a>
-																						<a href="https://www.hsph.harvard.edu/xihong-lin/" class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Xihong Lin is the Henry Pickering Walcott Professor and Chair of the Department of Biostatistics, and Coordinating Director of the Program in Quantitative Genomics at Harvard T H Chan School of Public Health. Her research focuses on the development and application of statistical and computational methods to analyze high-throughput genetic and genomic data in epidemiological, environmental and clinical studies, and to analyze complex exposure and phenotype data in observational studies. <!--more-->Her methodological work was previously supported by the MERIT award from the National Cancer Institute (NCI), and is currently supported by an NCI Outstanding Investigator Award<strong>. </strong>Lin is a fellow of the American Statistical Association and the Institute of Mathematical Statistics, and an elected member of the International Statistical Institute. She has received the Presidents&#8217; Award from the Committee of Presidents of Statistical Societies (COPSS), the COPSS FN David Award, and the Spiegelman award of the outstanding health statistician from the American Public Health Association.  Lin earned her PhD in biostatistics from the University of Washington in 1994.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2023/03/Svitlana-Mayboroda_cropped-104x120.jpg" alt="Svitlana Mayboroda" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Svitlana Mayboroda</h3>
-						<div class="director-href fl">
-															<a href="mailto:svitlana@umn.edu" class="contact">Contact</a>
-																				</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Svitlana Mayboroda is the McKnight Presidential Professor of Mathematics at the University of Minnesota. Her work lies at the interface between partial differential equations, analysis, and geometric measure theory, and has enjoyed wide ranging applications in condensed matter physics, cold atoms systems, research and engineering of organic and nonorganic semiconductor materials and devices. Her work has been recognized by Alfred P. Sloan Research Fellowship, NSF CAREER award, AWM-Sadosky Prize in Analysis. She was an ICM speaker in 2018 and is a Fellow of the American Mathematical Society.  She is the founder and the Director of the Simons Collaboration on Localization of Waves.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2023/02/Meila_Marina-104x120.jpg" alt="Marina Meila" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Marina Meila</h3>
-						<div class="director-href fl">
-															<a href="mailto:mmp2@uw.edu" class="contact">Contact</a>
-																				</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Marina Meila is Professor of Statistics at the University of Washington and Senior Fellow of the University of Washington&#8217;s eScience Institute. Her long term interest is in statistical learning, particularly the discovery of geometric and combinatorial structure in data, efficient algorithms, and developing guarantees and validation methods for unsupervised learning with minimal or no assumptions about the data generating process. She has collaborated with scientists in applied inverse problems, materials science and theoretical chemistry. Meila holds a MS degree in Electrical Engineering from the Polytechnic Institute of Bucharest, and a PhD in Computer Science and Electrical Engineering from the Massachusetts Institute of Technology.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2021/01/Lauren-Meyers-Photo-Game-Changers-104x120.jpg" alt="Lauren Ancel Meyers " />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Lauren Ancel Meyers </h3>
-						<div class="director-href fl">
-															<a href="mailto:laurenmeyers@austin.utexas.edu" class="contact">Contact</a>
-																						<a href="http://www.bio.utexas.edu/research/meyers/LaurenM/index.html " class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Dr. Meyers is the Cooley Centennial Professor in biology and statistics at the University of Texas at Austin. For over 20 years, Dr. Meyers has pioneered the application of network theory, data-driven models, and machine learning to improve the detection, forecasting and control of emerging viral threats. She is the founding director of the <a href="http://covid-19.tacc.utexas.edu/">UT COVID-19 Modeling Consortium</a>, which has provided global leadership throughout the pandemic though multiple COVID-19 forecasting dashboards and critical analyses to support pandemic surveillance, response, testing and school opening strategies nationwide. <!--more--> Dr. Meyers received her BA in mathematics and philosophy at Harvard University and PhD in biology at Stanford University. She was named as one of the top 100 global innovators under age 35 by the MIT Technology Review in 2004 and received the Joseph Lieberman Award for Significant Contributions to Science in 2017.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2013/12/Mueller-v2-104x120.jpg" alt="Klaus-Robert Müller" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Klaus-Robert Müller</h3>
-						<div class="director-href fl">
-															<a href="mailto:klaus-robert.mueller@tu-berlin.de" class="contact">Contact</a>
-																						<a href="https://www.ml.tu-berlin.de/menue/members/klaus-robert_mueller/" class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Klaus-Robert Müller is chair of the machine learning group at TU Berlin, directs the Berlin Center for Machine Learning, co-directs the Berlin Big Data Center, and holds a distinguished professorship at Korea University in Seoul. In 1999, he received the Olympus Award from the German pattern recognition society DAGM; in 2006, the SEL Alcatel communication award; in 2014, the Science Prize of Berlin awarded by the Governing Mayor of Berlin; and in 2017, the Vodafone Innovations Award. He is member of the German National Academy of Sciences Leopoldina <!--more-->and the Berlin Brandenburg Academy of Sciences, and external scientific member of the Max Planck Society (MPII). He serves on various editorial boards of Computational Statistics, IEEE Transactions on {Biomedical Engineering, Information Theory and Neural Networks and Learning Systems}, and Journal of Machine Learning Research, and on organization committees of various international conferences. His research areas include statistical learning theory for neural networks, support vector machines and ensemble learning techniques. He contributed to the field of signal processing working on time-series analysis, statistical denoising methods and blind source separation. His application interests also include brain computer interfacing, genomic data analysis, computational chemistry and atomistic simulations.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2023/02/Jelani-Nelson.jpg" alt="Jelani Nelson " />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Jelani Nelson </h3>
-						<div class="director-href fl">
-															<a href="mailto:minilek@eecs.berkeley.edu" class="contact">Contact</a>
-																				</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Jelani Nelson is a Professor of Electrical Engineering and Computer Sciences at UC Berkeley, interested in randomized algorithms, sketching and streaming algorithms, dimensionality reduction, and differential privacy. He is a recipient of the Presidential Early Career Award for Scientist and Engineers (PECASE), and a Sloan Research Fellowship. He is also Founder and President of AddisCoder, Inc., a nonprofit that provides algorithms training to high school students in Ethiopia and Jamaica.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2013/12/Pablo-Parrilo-104x120.jpg" alt="Pablo Parrilo" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Pablo Parrilo</h3>
-						<div class="director-href fl">
-															<a href="mailto:parrilo@mit.edu" class="contact">Contact</a>
-																						<a href="http://www.mit.edu/~parrilo/" class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Pablo A. Parrilo is a Professor of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology, and Associate Director of the Laboratory for Information and Decision Systems (LIDS). His research interests include systems and control theory, mathematical optimization, and computational algebraic geometry. Prof. Parrilo has received  the Donald P. Eckman Award, the SIAM SIAG/CST Prize, the IEEE Antonio Ruberti Young Researcher Prize, and the INFORMS Farkas Prize.  He became a SIAM fellow in 2018. He received a PhD <!--more-->in Control and Dynamical Systems from the California Institute of Technology.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2014/01/Terence-Tao-photo-104x120.jpg" alt="Terence Tao" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Terence Tao</h3>
-						<div class="director-href fl">
-															<a href="mailto:tao@math.ucla.edu" class="contact">Contact</a>
-																						<a href="http://www.math.ucla.edu/~tao/" class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Terence Tao is a Professor of Mathematics and James and Carol Collins Chair at UCLA. Tao&#8217;s areas of research include harmonic analysis, PDE, combinatorics, and number theory. He has received a number of awards, including the Fields Medal in 2006, the MacArthur Fellowship in 2007, and the Crafoord prize in 2012. Tao is a Fellow of the Royal Society, Australian Academy of Sciences (corresponding member), National Academy of Sciences (foreign member), and American Academy of Arts and Sciences.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2021/01/Tchetgen-Photo1-104x120.jpg" alt="Eric Tchetgen Tchetgen " />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Eric Tchetgen Tchetgen </h3>
-						<div class="director-href fl">
-															<a href="mailto:ett@wharton.upenn.edu" class="contact">Contact</a>
-																						<a href="https://statistics.wharton.upenn.edu/profile/ett/" class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Dr. Tchetgen Tchetgen is Luddy Family President’s Distinguished Professor and Professor of Statistics in the Department of Statistics at The Wharton School of the University of Pennsylvania. He is also Adjunct Professor of Biostatistics and Epidemiologic Methods at Harvard University where he spent ten years as faculty prior to joining Wharton; and an Amazon Scholar, actively collaborating with Amazon scientists on challenging business applications at the intersection of causal inference and machine learning. <!--more--> Dr. Tchetgen Tchetgen has distinguished himself as a leading statistical scientist, having made numerous influential contributions to the development and application of statistical methods for missing data, causal inference, and semiparametric methods with applications in social, genetic and infectious disease epidemiology. In addition to his myriad of research accomplishments, Dr. Tchetgen Tchetgen is a dedicated teacher and mentor who has published over 200 papers in top statistical, epidemiological and Medical journals, produced an impressive record of grant funding for collaborative interdisciplinary research projects, and has generously and tirelessly served the statistical profession, both nationally and internationally.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2021/01/jlt_science_fest-104x120.jpg" alt="Jean-Luc Thiffeault " />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Jean-Luc Thiffeault </h3>
-						<div class="director-href fl">
-															<a href="mailto:jeanluc@math.wisc.edu" class="contact">Contact</a>
-																						<a href="https://www.math.wisc.edu/~jeanluc/ " class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Jean-Luc Thiffeault is a Professor of Mathematics at the University of Wisconsin &#8211; Madison. He received his PhD in Physics from the University of Texas &#8211; Austin in 1998. His research interests include transport and mixing in fluid dynamics, topology and dynamical systems, and microswimmers as active matter. He has given the AMS Invited Address at the SIAM annual meeting, as well as plenary talks at AMS, SIAM, and APS-Division of Fluid Dynamics meetings.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2013/12/ryan-104x120.jpg" alt="Ryan Tibshirani" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Ryan Tibshirani</h3>
-						<div class="director-href fl">
-															<a href="mailto:ryantibs@cmu.edu" class="contact">Contact</a>
-																						<a href="http://www.stat.cmu.edu/~ryantibs/index.html" class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Ryan Tibshirani is a Professor of Statistics at the University of California, Berkeley. From 2011-2022, he was a Professor of Statistics and Machine Learning at Carnegie Mellon University. He did his Ph.D. in 2011 in Statistics at Stanford University, and B.S. in 2007 in Mathematics also at Stanford University. His research interests lie broadly in statistics, machine learning, and optimization. A major applied focus is on tracking and forecasting epidemics, which he does as a Principal Investigator of the Delphi group. He is also an Amazon Scholar in AWS AI Labs. He has held various editorial and professional service positions, including Editor-in-Chief of Foundations and Trends in Machine Learning, and is the recipient of various awards and honors, such as the Mortimer Spiegelman award in 2022, and IMS Fellowship in 2022.<br />
-<!--more--></p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2013/12/Trevisan-104x120.jpg" alt="Luca Trevisan" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Luca Trevisan</h3>
-						<div class="director-href fl">
-															<a href="mailto:luca@berkeley.edu" class="contact">Contact</a>
-																						<a href=" https://people.eecs.berkeley.edu/~luca/" class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Luca Trevisan is a professor of electrical engineering and computer sciences and of mathematics at UC Berkeley and a senior scientist at the Simons Institute for the Theory of Computing. Luca studied at the Sapienza University of Rome, was a postdoc at MIT and at DIMACS, and was on the faculty of Columbia University, UC Berkeley, and Stanford, before returning to Berkeley in 2014. Luca&#8217;s research is in theoretical computer <!--more-->science, and it is focused on computational complexity and graph algorithms. He received the Oberwolfach Prize and a Sloan Fellowship, and was an invited speaker at the 2006 International Congress of Mathematicians in Madrid.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2023/07/Rachel_Ward_2022_378x200-104x120.jpg" alt="Rachel Ward" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Rachel Ward</h3>
-						<div class="director-href fl">
-															<a href="mailto:rward@math.utexas.edu" class="contact">Contact</a>
-																						<a href="https://www.rachelward.site/" class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Rachel Ward is the W.A. &#8220;Tex&#8221; Moncrief Distinguished Professor in Computational Engineering and Sciences — Data Science and Professor of Mathematics at UT Austin. She is recognized for her contributions to stochastic gradient descent, compressive sensing, and randomized linear embeddings. From 2017-2018, Dr. Ward was a visiting researcher at Facebook AI Research. Prior to joining UT Austin in 2011, Dr. Ward received the PhD in Computational and Applied Mathematics at Princeton in 2009 and was a Courant Instructor at the Courant Institute, NYU, from 2009-2011. Among her awards are the Sloan research fellowship, NSF CAREER award, 2016 IMA prize in mathematics and its applications, 2020 Simons fellowship in mathematics. She was also an invited speaker at the 2022 International Congress of Mathematicians.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2013/12/Amie-Wilkinson1-104x120.jpg" alt="Amie Wilkinson" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Amie Wilkinson</h3>
-						<div class="director-href fl">
-															<a href="mailto:amie.wilkinson@gmail.com" class="contact">Contact</a>
-																						<a href="http://math.uchicago.edu/~wilkinso/" class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position">Chair</div>
-						<div class="des">
-							<p>Amie Wilkinson<strong> </strong>is a Professor of Mathematics at the University of Chicago working in ergodic theory and smooth dynamical systems.  Wilkinson was the recipient of the 2011 Satter Prize in Mathematics. She gave an invited talk at the International Congress of Mathematicians 2010 in Hyderabad. In 2013 she became a fellow of the AMS.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-												<div class="people-item">
-					<div class="col-sm-2">
-																				<img src="https://www.ipam.ucla.edu/wp-content/uploads/2019/08/witten-104x120.jpg" alt="Daniela Witten" />
-											</div>
-					<div class="col-sm-10">
-						<h3 class="fl">Daniela Witten</h3>
-						<div class="director-href fl">
-															<a href="mailto:dwitten@uw.edu" class="contact">Contact</a>
-																						<a href="https://www.biostat.washington.edu/people/daniela-witten" class="website">Website</a>
-													</div>
-					<div class="clearfix"></div>
-						<div class="position"></div>
-						<div class="des">
-							<p>Daniela Witten is Professor of Statistics and Biostatistics at University of Washington, and the Dorothy Gilford Endowed Chair in Mathematical Statistics. She develops statistical machine learning methods for high-dimensional data, with a focus on unsupervised learning. Witten is the recipient of an NIH Director&#8217;s Early Independence Award, a Sloan Research Fellowship, an NSF CAREER Award, a Simons Investigator Award, a David Byar Award, a Gertrude Cox Scholarship, an NDSEG Research Fellowship, and the 2019 Spiegelman Award from the APHA. She is also co-author of the popular textbook Introduction to Statistical Learning. Witten received her BS in Math and Biology at Stanford University in 2005, and a PhD in Statistics at Stanford in 2010.</p>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-						</div>
-		
-					
-	</div>
-	<div class="clearfix"></div>
- </div>
-
-	<div id="footer">
-        <div class="content w1085 pl20">
-            <div class="wp39 fl"><h4><a href="https://www.ipam.ucla.edu/programs/">Programs</a></h4><ul><li class="fl wp46""><a href="https://www.ipam.ucla.edu/programs/long-programs/">Long Programs</a></li><li class="fl wp44""><a href="https://www.ipam.ucla.edu/programs/workshops/">Workshops</a></li><li class="fl wp46""><a href="https://www.ipam.ucla.edu/programs/public-lectures-events/">Public Lectures</a></li><li class="fl wp44""><a href="https://www.ipam.ucla.edu/programs/summer-schools/">Summer Schools</a></li><li class="fl wp46""><a href="https://www.ipam.ucla.edu/programs/special-events-and-conferences/">Special Events and Conferences</a></li><li class="fl wp44""><a href="https://www.ipam.ucla.edu/programs/student-research-programs/">Student Research Programs</a></li><li class="fl wp46""><a href="https://www.ipam.ucla.edu/propose-a-program/long-programs-2/">Propose a Program</a></li><div class="clearfix"></div></ul></div><div class="wp22 fl"><h4><a href="https://www.ipam.ucla.edu/news-research/">News &#038; Research</a></h4><ul><li><a href="https://www.ipam.ucla.edu/news/">News</a></li><li><a href="https://www.ipam.ucla.edu/interviews/">Interviews</a></li><li><a href="https://www.ipam.ucla.edu/research-articles/">Research Articles</a></li><li><a href="https://www.ipam.ucla.edu/ipam-newsletter/">IPAM Newsletter</a></li><li><a href="https://www.ipam.ucla.edu/press-releases/">Press Releases</a></li></ul></div><div class="wp24 fl"><h4><a href="https://www.ipam.ucla.edu/people/">People</a></h4><ul><li><a href="https://www.ipam.ucla.edu/building-directory/">Building Directory</a></li><li><a href="https://www.ipam.ucla.edu/people/directors/">Directors</a></li><li><a href="https://www.ipam.ucla.edu/people/board-of-trustees/">Board of Trustees</a></li><li><a href="https://www.ipam.ucla.edu/people/science-advisory-board/">Science Advisory Board</a></li><li><a href="https://www.ipam.ucla.edu/people/staff/">Staff</a></li><li><a href="https://www.ipam.ucla.edu/people/simons-participants/">Simons Participants</a></li></ul></div><div class="wp15 fl"><h4><a href="https://www.ipam.ucla.edu/about-ipam/">About IPAM</a></h4><ul><li><a href="https://www.ipam.ucla.edu/about-ipam/today-at-ipam/">Today at IPAM</a></li><li><a href="https://www.ipam.ucla.edu/about-ipam/about-ucla/">About UCLA</a></li><li><a href="https://www.ipam.ucla.edu/about-ipam/diversity/">Equity, Diversity, and Inclusion at IPAM</a></li><li><a href="https://www.ipam.ucla.edu/about-ipam/annual-report/">NSF Grants</a></li></ul></div><div class="clearfix"></div>			<div class="clearfix"></div>
-			
-            <div id="footer-bottom">
-                <div class="fl left">
-                    																		<a href="http://www.nsf.gov/">
-								<img src="https://www.ipam.ucla.edu/wp-content/uploads/2013/12/nsf.png" alt="" />
-							</a>
-													<a href="http://www.ucla.edu/">
-								<img src="https://www.ipam.ucla.edu/wp-content/uploads/2013/12/ucla-std-gray-rgb-logo-60x28.png" alt="" />
-							</a>
-													<a href="https://www.instagram.com/uclaipam/">
-								<img src="https://www.ipam.ucla.edu/wp-content/uploads/2024/01/new-Instagram-logo-white-glyph-e1705535612483.png" alt="" />
-							</a>
-													<a href="https://twitter.com/ipam_ucla">
-								<img src="https://www.ipam.ucla.edu/wp-content/uploads/2014/11/Twitter_logo_white_px.png" alt="" />
-							</a>
-													<a href="https://www.facebook.com/pages/Institute-for-Pure-and-Applied-Mathematics/212054778822783">
-								<img src="https://www.ipam.ucla.edu/wp-content/uploads/2014/11/facebook-icon.png" alt="" />
-							</a>
-													<a href="https://www.youtube.com/channel/UCGzuiiLdQZu9wxDNJHO_JnA">
-								<img src="https://www.ipam.ucla.edu/wp-content/uploads/2014/11/youtube-icon.png" alt="" />
-							</a>
-													<a href="https://www.linkedin.com/company/instituteforpureandappliedmathematics">
-								<img src="https://www.ipam.ucla.edu/wp-content/uploads/2015/11/In-White-41px-R-e1447781689362.png" alt="" />
-							</a>
-											                    <span>
-                        Copyright. All Rights Reserved.
-                    </span>
-                </div>
-               <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-
-    				<script type="text/javascript">function showhide_toggle(e,t,r,g){var a=jQuery("#"+e+"-link-"+t),s=jQuery("a",a),i=jQuery("#"+e+"-content-"+t),l=jQuery("#"+e+"-toggle-"+t);a.toggleClass("sh-show sh-hide"),i.toggleClass("sh-show sh-hide").toggle(),"true"===s.attr("aria-expanded")?s.attr("aria-expanded","false"):s.attr("aria-expanded","true"),l.text()===r?(l.text(g),a.trigger("sh-link:more")):(l.text(r),a.trigger("sh-link:less")),a.trigger("sh-link:toggle")}</script>
-	<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/themes/ipam/js/jquery-1.10.2.min.js?ver=6.3.3' id='jquery-js'></script>
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.6' id='swv-js'></script>
-<script type='text/javascript' id='contact-form-7-js-extra'>
-/* <![CDATA[ */
-var wpcf7 = {"api":{"root":"https:\/\/www.ipam.ucla.edu\/wp-json\/","namespace":"contact-form-7\/v1"}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.6' id='contact-form-7-js'></script>
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/themes/ipam/js/bootstrap.min.js?ver=6.3.3' id='bootstrap-js'></script>
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/themes/ipam/js/script.js?ver=6.3.3' id='ipam_custom-js'></script>
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/plugins/easy-responsive-tabs/assets/js/bootstrap-dropdown.js?ver=3.1' id='bootstrap_dropdown-js'></script>
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/plugins/easy-responsive-tabs/assets/js/bootstrap-tab.js?ver=3.1' id='bootstrap_tab-js'></script>
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/plugins/easy-responsive-tabs/assets/js/bootstrap-tabdrop.js?ver=3.1' id='ert_tab_js-js'></script>
-<script type='text/javascript' src='https://www.ipam.ucla.edu/wp-content/plugins/easy-responsive-tabs/assets/js/ert_js.php?ver=3.1' id='ert_js-js'></script>
-
-</body>
-</html>
+The building directory includes all directors, staff and participants of the current long program with offices at IPAM.
+Directors
+Staff
+Science Advisory Board
+Board of Trustees
+Simons Participants
+Directors
+Staff
+Science Advisory Board
+Board of Trustees
+Simons Participants
+Science Advisory Board
+Michael Brenner
+Contact
+Website
+Michael P. Brenner is the Glover Professor of Applied Mathematics and Applied Physics and a Harvard College Professor in the School of Engineering and Applied Sciences at Harvard University. His research uses methods and ideas of applied mathematics to address a variety of problems in science and engineering, ranging from understanding the shapes of whale flippers, bird beaks, and fungal spores to developing ideas for creating materials that spontaneously assemble themselves. Brenner did his undergraduate work at the University of Pennsylvania
+and received his PhD from the University of Chicago in 1994. Before moving to Harvard in 2001, he was a faculty member in the Department of Mathematics at MIT.
+Emery Brown
+Contact
+Website
+Emery N. Brown is the Edward Hood Taplin Professor of Medical Engineering and Computational Neuroscience at MIT, the Warren M. Zapol Professor of Anesthesia at Harvard Medical School and an anesthesiologist at Massachusetts General Hospital. His experimental research studies how anesthesia works. His statistics research develops point process, state-space and spectral analysis methods to characterize how the brain represents and transmits information. He served on the NIH BRAIN Initiative Working Group and is the recipient of an NIH
+Pioneer Award, the National Institute of Statistical Sciences Sacks Award, the American Society of Anesthesiologists Excellence in Research Award and a Guggenheim Fellowship in Applied Mathematics. He is a Fellow of the American Academy of Arts and Sciences and the National Academy of Inventors. He is a member of the National Academy of Medicine, National Academy of Sciences and National Academy of Engineering.
+Kieron Burke
+Contact
+Website
+Kieron Burke is a distinguished professor in both the chemistry and physics departments at UC Irvine. His research focuses on developing a theory of quantum mechanics called density functional theory. Density functional theory is a way of solving the equations of quantum mechanics for the electrons in any substance. Because DFT equations can be solved relatively quickly on modern computers, DFT has become a very popular tool in many branches of science, especially chemistry and materials science. Last year, at least 30,000 scientific papers used DFT. For example, hydrogen sulphide was predicted by DFT calculations to have a high superconducting temperature under pressure, and a year later, it was tested and became the world-record holder, at 203K.
+Prof Burke works on developing all aspects of DFT: formalism, extensions to new areas, new approximations, and simplifications. His work is heavily used in materials science, chemistry, matter under extreme conditions (such as planetary interiors or fusion reactors), magnetic materials, molecular electronics, and so on. He has given talks in theoretical chemistry, condensed matter physics, applied mathematics, computer science, and even organic chemistry. His graduate students and postdocs usually come from either the chemistry or physics departments, but his undergraduate researchers also come from math, computer science, and engineering. He believes that the most impactful advance in 20th century physics was the development of quantum mechanics, without which we cannot understand chemistry and materials. He also believes that there are few problems in theoretical science whose solution has more immediate impact than the improvement of DFT. The more accurate, reliable, and widespread DFT calculations become, the sooner we will have novel materials and drugs, and the more we will understand both our own planet and others.
+Prof Burke is also a fellow of the American Physical Society, the British Royal Society for Chemistry, and the American Association for the Advancement of Science, and a member of the International Academy of Quantum Molecular Sciences. He is known around the world for his many educational and outreach activities. According to Google scholar, his work has been cited over 200,000 times.
+Emmanuel Candès
+Contact
+Website
+Emmanuel Candès is the Barnum-Simons Chair in Mathematics and Statistics and a Professor of Electrical Engineering (by courtesy) at Stanford University. He received his PhD in statistics from Stanford in 1998. His research interests include computational harmonic analysis, statistics, information theory, signal processing and mathematical optimization. He has received several awards including the McArthur Fellowship and the Alan T. Waterman Award from NSF.  He is an elected member of the National Academy of Sciences (2014) and of the
+American Academy of Arts and Sciences (2014). He has given over 60 plenary lectures at major international conferences including the International Congress of Mathematicians (2014).
+Cecilia Clementi
+Contact
+Website
+Cecilia Clementi is Einstein Professor of Physics at Freie Universität (FU) in Berlin, Germany. She joined the faculty of FU in June 2020 after 19 years as a Professor of Chemistry at Rice University in Houston, Texas. Clementi research focuses on the development and application of methods for the modeling of complex biophysical processes at multiple length and time scales, by means of molecular dynamics, statistical mechanics, coarse-grained models, experimental data, and machine learning.  Her work has been recognized with an NSF Career award (2004) and the Welch Foundation Norman Hackerman Award in
+Chemical Research (2009). Clementi received her B.S. in Physics from the University of Florence, and her M.Sc. and Ph.D. in Physics from the International School for Advanced Studies (SISSA). She was a postdoctoral fellow at the University of California, San Diego, where she was part of the La Jolla Interfaces in Science program.
+Since 2016 she is also a co-Director of the National Science Foundation Molecular Sciences Software Institute.
+Cynthia Dwork
+Contact
+Website
+Cynthia Dwork is the Gordon McKay Professor of Computer Science at Harvard’s Paulson School of Engineering and Applied Sciences. Formerly a Distinguished Scientist at Microsoft Research, Dwork is renowned for placing privacy-preserving data analysis on a mathematically rigorous foundation. A cornerstone of this work is differential privacy, a strong privacy guarantee frequently permitting highly accurate data analysis. Dr. Dwork has also made seminal contributions in cryptography and distributed computing, and is a recipient of the
+Edsger W. Dijkstra Prize, recognizing some of her earliest work establishing the pillars on which every fault-tolerant system has been built for decades. She is a member of the National Academy of Engineering and a Fellow of the American Association for the Advancement of Science. She was elected to the National Academy of Sciences in 2014.
+Jordan Ellenberg
+Contact
+Website
+Jordan Ellenberg is the John D. MacArthur Professor of Mathematics at the University of Wisconsin at Madison, specializing in number theory and algebraic geometry, with related interests in algebraic topology, combinatorics, and data science.  Ellenberg has held an NSF-CAREER grant, an Alfred P. Sloan Fellowship, and a Guggenheim Fellowship, and in 2013 he was named one of the inaugural class of Fellows of the American Mathematical Society.  He is also a popularizer of mathematics; his journalism has appeared in the
+New York Times
+, the
+Wall Street
+Journal
+, the
+Washington Post
+,
+Wired
+,
+The Believer
+, and the
+Boston Globe,
+and is the author of the New York Times bestseller
+How Not To Be Wrong:  The Power of Mathematical Thinking.
+(Photo courtesy of Mats Rudels.)
+Jeffrey Hittinger
+Contact
+Website
+Jeffrey Hittinger is the Director of the Center for Applied Scientific Computing at Lawrence Livermore National Laboratory. His research addresses the development and application of advanced discretization methods for partial differential equations underlying multiphysics numerical simulations, particularly for plasma physics and including high-order finite-difference and finite-volume methods, parallel computing strategies, adaptive mesh refinement techniques, a posteriori error estimation, and finite precision floating-point representations.
+He was a recipient of the Department of Energy Computational Science Graduate Fellowship and of a National Science Foundation Graduate Research Fellowship, and he was one of the first recipients of the Frederick A. Howes Scholar in Computational Science award. Hittinger earned his PhD from the University of Michigan in 2000 and received his undergraduate education at Lehigh University.
+Kiran Kedlaya
+Contact
+Kiran S. Kedlaya is the Stefan E. Warschawski Professor of Mathematics at University of California San Diego. His research interests are in number theory and algebraic geometry, including computational/experimental aspects and other interactions with computer science. Kedlaya has been an NSF PECASE awardee, a Sloan Fellow, an ICM invited speaker, and a Guggenheim Fellow.
+Richard Kenyon
+Contact
+Website
+Richard W. Kenyon is the Erastus L. DeForest Professor of Mathematics at Yale University. He received his PhD in 1990 at Princeton University under the direction of William Thurston. Kenyon held postdoctoral positions at the Institut des Hautes Études Scientifiques and then a position at CNRS in Grenoble, Lyon, and Paris. In 2004 he held a Canada Research Chair at the University of British Columbia. From 2005 to 2017 he was full professor at Brown University. He won a CNRS bronze medal in 1999, the Rollo Davidson prize in 2001, and the Loeve prize in probability in 2007. His research interests are in statistical mechanics, combinatorics, and discrete geometry.
+Xihong Lin
+Contact
+Website
+Xihong Lin is the Henry Pickering Walcott Professor and Chair of the Department of Biostatistics, and Coordinating Director of the Program in Quantitative Genomics at Harvard T H Chan School of Public Health. Her research focuses on the development and application of statistical and computational methods to analyze high-throughput genetic and genomic data in epidemiological, environmental and clinical studies, and to analyze complex exposure and phenotype data in observational studies.
+Her methodological work was previously supported by the MERIT award from the National Cancer Institute (NCI), and is currently supported by an NCI Outstanding Investigator Award
+.
+Lin is a fellow of the American Statistical Association and the Institute of Mathematical Statistics, and an elected member of the International Statistical Institute. She has received the Presidents’ Award from the Committee of Presidents of Statistical Societies (COPSS), the COPSS FN David Award, and the Spiegelman award of the outstanding health statistician from the American Public Health Association.  Lin earned her PhD in biostatistics from the University of Washington in 1994.
+Svitlana Mayboroda
+Contact
+Svitlana Mayboroda is the McKnight Presidential Professor of Mathematics at the University of Minnesota. Her work lies at the interface between partial differential equations, analysis, and geometric measure theory, and has enjoyed wide ranging applications in condensed matter physics, cold atoms systems, research and engineering of organic and nonorganic semiconductor materials and devices. Her work has been recognized by Alfred P. Sloan Research Fellowship, NSF CAREER award, AWM-Sadosky Prize in Analysis. She was an ICM speaker in 2018 and is a Fellow of the American Mathematical Society.  She is the founder and the Director of the Simons Collaboration on Localization of Waves.
+Marina Meila
+Contact
+Marina Meila is Professor of Statistics at the University of Washington and Senior Fellow of the University of Washington’s eScience Institute. Her long term interest is in statistical learning, particularly the discovery of geometric and combinatorial structure in data, efficient algorithms, and developing guarantees and validation methods for unsupervised learning with minimal or no assumptions about the data generating process. She has collaborated with scientists in applied inverse problems, materials science and theoretical chemistry. Meila holds a MS degree in Electrical Engineering from the Polytechnic Institute of Bucharest, and a PhD in Computer Science and Electrical Engineering from the Massachusetts Institute of Technology.
+Lauren Ancel Meyers
+Contact
+Website
+Dr. Meyers is the Cooley Centennial Professor in biology and statistics at the University of Texas at Austin. For over 20 years, Dr. Meyers has pioneered the application of network theory, data-driven models, and machine learning to improve the detection, forecasting and control of emerging viral threats. She is the founding director of the
+UT COVID-19 Modeling Consortium
+, which has provided global leadership throughout the pandemic though multiple COVID-19 forecasting dashboards and critical analyses to support pandemic surveillance, response, testing and school opening strategies nationwide.
+Dr. Meyers received her BA in mathematics and philosophy at Harvard University and PhD in biology at Stanford University. She was named as one of the top 100 global innovators under age 35 by the MIT Technology Review in 2004 and received the Joseph Lieberman Award for Significant Contributions to Science in 2017.
+Klaus-Robert Müller
+Contact
+Website
+Klaus-Robert Müller is chair of the machine learning group at TU Berlin, directs the Berlin Center for Machine Learning, co-directs the Berlin Big Data Center, and holds a distinguished professorship at Korea University in Seoul. In 1999, he received the Olympus Award from the German pattern recognition society DAGM; in 2006, the SEL Alcatel communication award; in 2014, the Science Prize of Berlin awarded by the Governing Mayor of Berlin; and in 2017, the Vodafone Innovations Award. He is member of the German National Academy of Sciences Leopoldina
+and the Berlin Brandenburg Academy of Sciences, and external scientific member of the Max Planck Society (MPII). He serves on various editorial boards of Computational Statistics, IEEE Transactions on {Biomedical Engineering, Information Theory and Neural Networks and Learning Systems}, and Journal of Machine Learning Research, and on organization committees of various international conferences. His research areas include statistical learning theory for neural networks, support vector machines and ensemble learning techniques. He contributed to the field of signal processing working on time-series analysis, statistical denoising methods and blind source separation. His application interests also include brain computer interfacing, genomic data analysis, computational chemistry and atomistic simulations.
+Jelani Nelson
+Contact
+Jelani Nelson is a Professor of Electrical Engineering and Computer Sciences at UC Berkeley, interested in randomized algorithms, sketching and streaming algorithms, dimensionality reduction, and differential privacy. He is a recipient of the Presidential Early Career Award for Scientist and Engineers (PECASE), and a Sloan Research Fellowship. He is also Founder and President of AddisCoder, Inc., a nonprofit that provides algorithms training to high school students in Ethiopia and Jamaica.
+Pablo Parrilo
+Contact
+Website
+Pablo A. Parrilo is a Professor of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology, and Associate Director of the Laboratory for Information and Decision Systems (LIDS). His research interests include systems and control theory, mathematical optimization, and computational algebraic geometry. Prof. Parrilo has received  the Donald P. Eckman Award, the SIAM SIAG/CST Prize, the IEEE Antonio Ruberti Young Researcher Prize, and the INFORMS Farkas Prize.  He became a SIAM fellow in 2018. He received a PhD
+in Control and Dynamical Systems from the California Institute of Technology.
+Terence Tao
+Contact
+Website
+Terence Tao is a Professor of Mathematics and James and Carol Collins Chair at UCLA. Tao’s areas of research include harmonic analysis, PDE, combinatorics, and number theory. He has received a number of awards, including the Fields Medal in 2006, the MacArthur Fellowship in 2007, and the Crafoord prize in 2012. Tao is a Fellow of the Royal Society, Australian Academy of Sciences (corresponding member), National Academy of Sciences (foreign member), and American Academy of Arts and Sciences.
+Eric Tchetgen Tchetgen
+Contact
+Website
+Dr. Tchetgen Tchetgen is Luddy Family President’s Distinguished Professor and Professor of Statistics in the Department of Statistics at The Wharton School of the University of Pennsylvania. He is also Adjunct Professor of Biostatistics and Epidemiologic Methods at Harvard University where he spent ten years as faculty prior to joining Wharton; and an Amazon Scholar, actively collaborating with Amazon scientists on challenging business applications at the intersection of causal inference and machine learning.
+Dr. Tchetgen Tchetgen has distinguished himself as a leading statistical scientist, having made numerous influential contributions to the development and application of statistical methods for missing data, causal inference, and semiparametric methods with applications in social, genetic and infectious disease epidemiology. In addition to his myriad of research accomplishments, Dr. Tchetgen Tchetgen is a dedicated teacher and mentor who has published over 200 papers in top statistical, epidemiological and Medical journals, produced an impressive record of grant funding for collaborative interdisciplinary research projects, and has generously and tirelessly served the statistical profession, both nationally and internationally.
+Jean-Luc Thiffeault
+Contact
+Website
+Jean-Luc Thiffeault is a Professor of Mathematics at the University of Wisconsin – Madison. He received his PhD in Physics from the University of Texas – Austin in 1998. His research interests include transport and mixing in fluid dynamics, topology and dynamical systems, and microswimmers as active matter. He has given the AMS Invited Address at the SIAM annual meeting, as well as plenary talks at AMS, SIAM, and APS-Division of Fluid Dynamics meetings.
+Ryan Tibshirani
+Contact
+Website
+Ryan Tibshirani is a Professor of Statistics at the University of California, Berkeley. From 2011-2022, he was a Professor of Statistics and Machine Learning at Carnegie Mellon University. He did his Ph.D. in 2011 in Statistics at Stanford University, and B.S. in 2007 in Mathematics also at Stanford University. His research interests lie broadly in statistics, machine learning, and optimization. A major applied focus is on tracking and forecasting epidemics, which he does as a Principal Investigator of the Delphi group. He is also an Amazon Scholar in AWS AI Labs. He has held various editorial and professional service positions, including Editor-in-Chief of Foundations and Trends in Machine Learning, and is the recipient of various awards and honors, such as the Mortimer Spiegelman award in 2022, and IMS Fellowship in 2022.
+Luca Trevisan
+Contact
+Website
+Luca Trevisan is a professor of electrical engineering and computer sciences and of mathematics at UC Berkeley and a senior scientist at the Simons Institute for the Theory of Computing. Luca studied at the Sapienza University of Rome, was a postdoc at MIT and at DIMACS, and was on the faculty of Columbia University, UC Berkeley, and Stanford, before returning to Berkeley in 2014. Luca’s research is in theoretical computer
+science, and it is focused on computational complexity and graph algorithms. He received the Oberwolfach Prize and a Sloan Fellowship, and was an invited speaker at the 2006 International Congress of Mathematicians in Madrid.
+Rachel Ward
+Contact
+Website
+Rachel Ward is the W.A. “Tex” Moncrief Distinguished Professor in Computational Engineering and Sciences — Data Science and Professor of Mathematics at UT Austin. She is recognized for her contributions to stochastic gradient descent, compressive sensing, and randomized linear embeddings. From 2017-2018, Dr. Ward was a visiting researcher at Facebook AI Research. Prior to joining UT Austin in 2011, Dr. Ward received the PhD in Computational and Applied Mathematics at Princeton in 2009 and was a Courant Instructor at the Courant Institute, NYU, from 2009-2011. Among her awards are the Sloan research fellowship, NSF CAREER award, 2016 IMA prize in mathematics and its applications, 2020 Simons fellowship in mathematics. She was also an invited speaker at the 2022 International Congress of Mathematicians.
+Amie Wilkinson
+Contact
+Website
+Chair
+Amie Wilkinson
+is a Professor of Mathematics at the University of Chicago working in ergodic theory and smooth dynamical systems.  Wilkinson was the recipient of the 2011 Satter Prize in Mathematics. She gave an invited talk at the International Congress of Mathematicians 2010 in Hyderabad. In 2013 she became a fellow of the AMS.
+Daniela Witten
+Contact
+Website
+Daniela Witten is Professor of Statistics and Biostatistics at University of Washington, and the Dorothy Gilford Endowed Chair in Mathematical Statistics. She develops statistical machine learning methods for high-dimensional data, with a focus on unsupervised learning. Witten is the recipient of an NIH Director’s Early Independence Award, a Sloan Research Fellowship, an NSF CAREER Award, a Simons Investigator Award, a David Byar Award, a Gertrude Cox Scholarship, an NDSEG Research Fellowship, and the 2019 Spiegelman Award from the APHA. She is also co-author of the popular textbook Introduction to Statistical Learning. Witten received her BS in Math and Biology at Stanford University in 2005, and a PhD in Statistics at Stanford in 2010.
+Programs
+Long Programs
+Workshops
+Public Lectures
+Summer Schools
+Special Events and Conferences
+Student Research Programs
+Propose a Program
+News & Research
+News
+Interviews
+Research Articles
+IPAM Newsletter
+Press Releases
+People
+Building Directory
+Directors
+Board of Trustees
+Science Advisory Board
+Staff
+Simons Participants
+About IPAM
+Today at IPAM
+About UCLA
+Equity, Diversity, and Inclusion at IPAM
+NSF Grants
+Copyright. All Rights Reserved.

@@ -1,428 +1,72 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
-  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-<html lang="en" dir="ltr"
-  xmlns:og="http://ogp.me/ns#"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/terms/"
-  xmlns:foaf="http://xmlns.com/foaf/0.1/"
-  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xmlns:sioc="http://rdfs.org/sioc/ns#"
-  xmlns:sioct="http://rdfs.org/sioc/types#"
-  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-<head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortcut icon" href="https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
-<meta name="description" content="Unlock inclusive education at UCLA&#039;s Center for Prehospital Care. Our commitment to equal access ensures personalized accommodations for qualified students with disabilities. From learning challenges to mobility difficulties, our ADA-compliant services include extended exam time, note-taking support, and distraction-reduced testing environments. Submit your accommodation" />
-<meta name="abstract" content="Discover inclusive learning at UCLA&#039;s Center for Prehospital Care with personalized accommodations for students living with disabilities. Committed to equal access, our ADA-compliant services cover diverse needs, from learning challenges to mobility difficulties. Accommodations include extended exam time, note-taking support, and distraction-reduced testing environments. Request accommodations by submitting documentation at least 2-3 weeks before the course. Our dedicated team ensures confidential review and swift responses, notifying both students and instructors. For current students, approved accommodations need not be resubmitted unless three years old. Elevate your education with accessibility—join UCLA&#039;s inclusive community today." />
-<meta name="keywords" content="UCLA Center for Prehospital Care, Student Accommodations, Disability Services, ADA, ADAAA, Learning Challenges, Cognitive Issues, Hearing Impairment, Vision Loss, Mobility Difficulties, Accommodation Types, Extended Exam Time, Note-Taking Support, Testing Environment, Equal Access, Accessible Education, Request for Accommodations, Verification of Disability, Accommodation Eligibility, Confidentiality, Current Students, Medical Documentation, Inclusive Learning, NREMT, EMS Agencies." />
-<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
-<link rel="canonical" href="https://www.cpc.mednet.ucla.edu/services/students-with-disabilities" />
-<link rel="shortlink" href="https://www.cpc.mednet.ucla.edu/node/64" />
-<meta property="og:site_name" content="UCLA CPC" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.cpc.mednet.ucla.edu/services/students-with-disabilities" />
-<meta property="og:title" content="Accommodations for Students with Disabilities" />
-<meta property="og:description" content="We Are Here for You. The Center for Prehospital Care is committed to providing equal access to all programs and co-curricular activities for qualified applicants and students living with permanent or temporary disabilities. Definition of “Disability” As stated in the Americans with Disabilities Act Amendment Act (ADAAA), a disability is defined as a physical or mental impairment that substantially limits one or more major life activities. This includes people who have a record of such an impairment, even if they do not currently have a disability." />
-<meta property="og:updated_time" content="2023-11-13T15:12:44-08:00" />
-<meta property="article:published_time" content="2014-10-15T16:28:45-07:00" />
-<meta property="article:modified_time" content="2023-11-13T15:12:44-08:00" />
-  <title>Accommodations for Students with Disabilities | UCLA CPC</title>
-  <style>
-@import url("https://www.cpc.mednet.ucla.edu/modules/system/system.base.css?s8lm5r");
-</style>
-<style>
-@import url("https://www.cpc.mednet.ucla.edu/modules/field/theme/field.css?s8lm5r");
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/filebrowser/css/filebrowser_style.css?s8lm5r");
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/views/css/views.css?s8lm5r");
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ckeditor/css/ckeditor.css?s8lm5r");
-</style>
-<style>
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ctools/css/ctools.css?s8lm5r");
-</style>
-<link type="text/css" rel="stylesheet" href="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.css?s8lm5r" media="all" />
-<style>
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/css/style.css?s8lm5r");
-</style>
-  <!-- HTML5 element support for IE6-8 -->
-  <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_YndZxdyT8-8LUpZC5MssOCg5j7KN4UJGOzCX7A0hGKI.js"></script>
-<script src="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.js?s8lm5r"></script>
-<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_sGFJ0aln9SHwpHdKSzoE8Cdcd6RIMEIfIGrifGaUeBw.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cpc_bootstrap","theme_token":"MJhsCilvuQ3FwHwTJJOElMjxM7g1idPE0EMKc_fyIos","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"https:\/\/code.jquery.com\/jquery-3.7.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/contrib\/popup\/popup.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/cpc_bootstrap\/cpc_js.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/filebrowser\/css\/filebrowser_style.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/popup\/popup.css":1,"sites\/all\/themes\/cpc_bootstrap\/css\/style.css":1}},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":250,"delay":0},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
-      </head>
-<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-64 node-type-cpc-page" >
-  <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-  </div>
-    
-
-<style>
-.navbar-default {
-    background-color: #000000;
-}
-.navbar-default .navbar-nav > li > a:hover,
-.navbar-default .navbar-nav > li > a:focus {
-  color: #ffb300;
-  background-color: transparent;
-}
-.login-header, .login-header a
-	{ color: white; }
-.login-header a:hover, .login-header a:active, .login-header a:visited
-	{ color: #ffffff; }
-.msg-button, .msg-button a
-	{ color: white; }
-.msg-button a:hover, .msg-button a:active, .msg-button a:visited
-	{ color: #ffffff; }
-.hp_quicklinks {
-	color: #00a5e5;
-	}
-.hp_quicklinks a, .hp_quicklinks a:hover, .hp_quicklinks a:active, .hp_quicklinks a:visited {
-	color: #ffb300;
-}
-.row div.featureslot {
-	padding:2em;
-}
-.node-cpc-page div.content {
-  overflow: visible;
-}
-@media (max-width: 768px) {
-  .row div.featureslot {
-	padding-top:1em;
-	padding-bottom:1em;
-  }
-}
-</style>
-<header id="navbar" role="banner">
-	<div class="container containerlogin">
-		<div class="row" style="margin-top:0px; margin-bottom:0px; background-color: #666666;">
-			<div class="login-header pull-right" style="display: inline; background-color: #00a5e5; padding:10px;">
-				<!-- AJAX Replaces here	-->
-				[ Login / Register ] <span class="glyphicon glyphicon-shopping-cart"></span> 0  items in cart
-			</div>
-			<div class="pull-left hp_quicklinks" style="display: inline; padding:10px;"><p>
-	&nbsp; &nbsp;</p>
-</div>
-		</div>
-	</div>
-  <div class="containernavbar container navbar-default">
-    <div class="navbar-header">
-      				<a class="logo navbar-btn pull-left" href="/" title="Home">
-					<img src="https://www.cpc.mednet.ucla.edu/sites/default/files/images/cpc_logo-323x32.png" alt="Home" id="logo" class="img-responsive" />
-				</a>
-      
-      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-    </div>
-
-          <div class="navbar-collapse collapse">
-        <nav role="navigation">
-                      <ul class="menu nav navbar-nav"><li class="first expanded dropdown"><a href="/cpc/course-listings" title="Our Courses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Courses <span class="caret"></span></a><ul class="dropdown-menu"><li class="first collapsed"><a href="/emt-courses">EMT</a></li>
-<li class="collapsed"><a href="/paramedic-courses">Paramedic</a></li>
-<li class="leaf"><a href="/content/licensed-phlebotomist-course">Licensed Phlebotomist</a></li>
-<li class="expanded"><a href="/aha-courses">BLS, ACLS &amp; PALS</a></li>
-<li class="expanded"><a href="/cpr-first-aid-courses">CPR &amp; First Aid</a></li>
-<li class="last collapsed"><a href="/trauma-courses">Trauma &amp; NAEMT Courses</a></li>
-</ul></li>
-<li class="expanded active-trail dropdown"><a href="/students" class="active-trail dropdown-toggle" data-target="#" data-toggle="dropdown">Students <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/services/payment-methods">Payment Methods</a></li>
-<li class="leaf"><a href="/services/payment-plan">Payment Plan</a></li>
-<li class="leaf"><a href="/services/refunds-transfers">Refunds &amp; Transfers</a></li>
-<li class="leaf"><a href="/services/transcripts">Transcripts</a></li>
-<li class="leaf"><a href="/services/financial-aid">Scholarships</a></li>
-<li class="leaf"><a href="/veterans">Veteran&#039;s Assistance Benefits</a></li>
-<li class="leaf active-trail active"><a href="/services/students-with-disabilities" class="active-trail active">Educational Accommodations</a></li>
-<li class="last leaf"><a href="/services/college-credit">College Credit &amp; CEUs</a></li>
-</ul></li>
-<li class="expanded dropdown"><a href="/services" title="Services for agencies, hospitals, and businesses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/fdqi" title="node/572">Fire Department Quality Improvement</a></li>
-<li class="last leaf"><a href="/international">International</a></li>
-</ul></li>
-<li class="last expanded dropdown"><a href="/content/about-us" data-target="#" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/about/contact">Contact Us</a></li>
-<li class="leaf"><a href="/giving">Giving</a></li>
-<li class="leaf"><a href="/content/ucla-center-prehospital-care-strategic-plan">Strategic Plan</a></li>
-<li class="leaf"><a href="/about/leadership">Leadership</a></li>
-<li class="leaf"><a href="/diversity-resources">Equity, Diversity &amp; Inclusion</a></li>
-<li class="leaf"><a href="/about/history">Our History</a></li>
-<li class="leaf"><a href="/about/employment">Jobs at the Center</a></li>
-<li class="last leaf"><a href="https://www.uclahealth.org/privacy-practices" title="">Privacy Practices</a></li>
-</ul></li>
-</ul>                                      </nav>
-      </div>
-      </div>
-	
-<!--
-	<div class="container">
-		<ol class="breadcrumb"><li class="first"><a href="/students" class="active-trail">Students</a></li>
-<li class="active last">Accommodations for Students with Disabilities</li>
-</ol>	</div>
--->
-	</header>
-
-<div class="main-container container">
-
-  <header role="banner" id="page-header">
-    
-      </header> <!-- /#page-header -->
-
-  <div class="row">
-
-    <div class="col-sm-9 xcol-sm-push-3 col-md-float-right">
-            <a id="main-content"></a>
-            <!--
-			        <h1 class="page-header">Accommodations for Students with Disabilities</h1>
-      			-->
-			<!--------------------->
-							<h1 class="page-header">Accommodations for Students with Disabilities</h1>
-					<!--–– SECTION HIDDEN UNIVERSAL INFO AREA ––-->
-				<!--------------------->
-
-	                                      		</div>
-		
-          <div class="col-sm-3 xcol-sm-pull-9 col-md-float-left" role="complementary">
-          <div class="region region-sidebar-first">
-    <div id="block-menu-block-6" class="block block-menu-block">
-
-    <h2 class="block-title">Students</h2>
-  
-  <div class="content">
-    <div class="menu-block-wrapper menu-block-6 menu-name-main-menu parent-mlid-4771 menu-level-1">
-  <ul class="menu nav"><li class="first leaf menu-mlid-864"><a href="/services/payment-methods">Payment Methods</a></li>
-<li class="leaf menu-mlid-3896"><a href="/services/payment-plan">Payment Plan</a></li>
-<li class="leaf menu-mlid-1473"><a href="/services/refunds-transfers">Refunds &amp; Transfers</a></li>
-<li class="leaf menu-mlid-1475"><a href="/services/transcripts">Transcripts</a></li>
-<li class="leaf menu-mlid-865"><a href="/services/financial-aid">Scholarships</a></li>
-<li class="leaf menu-mlid-1474"><a href="/veterans">Veteran&#039;s Assistance Benefits</a></li>
-<li class="leaf active-trail active menu-mlid-1478 active"><a href="/services/students-with-disabilities" class="active-trail active">Educational Accommodations</a></li>
-<li class="last leaf menu-mlid-1479"><a href="/services/college-credit">College Credit &amp; CEUs</a></li>
-</ul></div>
-  </div>
-</div>
-  </div>
-      </div>  <!-- /#sidebar-first -->
-    		
-    <div class="col-sm-9 xcol-sm-push-3 col-md-float-right">
-        <div class="region region-content">
-    <div id="block-system-main" class="block block-system">
-
-    
-  <div class="content">
-    <div id="node-64" class="node node-cpc-page clearfix" about="/services/students-with-disabilities" typeof="sioc:Item foaf:Document">
-
-	<!--
-  	-->
-      <span property="dc:title" content="Accommodations for Students with Disabilities" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
-  <div class="content">
-    
-		<!--
-					<h1 class="page-header">Accommodations for Students with Disabilities</h1>
-				-->
-		
-		<!--
-This file is not used by Drupal core, which uses theme functions instead.
-See http://api.drupal.org/api/function/theme_field/7 for details.
-After copying this file to your theme's folder and customizing it, remove this
-HTML comment.
--->
-          <h3>
-	We Are Here for You.</h3>
-<p>
-	The Center for Prehospital Care is committed to providing equal access to all programs and co-curricular activities for qualified applicants and students living with permanent or temporary disabilities.&nbsp;</p>
-<h3>
-	Definition of “Disability”</h3>
-<p>
-	As stated in the Americans with Disabilities Act Amendment Act (ADAAA), a disability is defined as a physical or mental impairment that substantially limits one or more major life activities. This includes people who have a record of such an impairment, even if they do not currently have a disability.</p>
-<div class="row" style="margin-bottom:0em; margin-top:0px; background-color: #eeeeee;">
-<div class="col-sm-12 clearfix" style="padding:1em">
-<p>
-			General examples of disability categories include, but are not limited to:</p>
-</div>
-</div>
-<div class="row" style="margin-bottom:0em; background-color: #eeeeee; padding-bottom:1em">
-<div class="col-sm-12 clearfix" style="padding:.5em">
-<ul class="list-group list-group-flush">
-<li class="list-group-item">
-				<span aria-hidden="true" class="glyphicon glyphicon-ok">&nbsp;</span>Learning challenges</li>
-<li class="list-group-item">
-				<span aria-hidden="true" class="glyphicon glyphicon-ok">&nbsp;</span>Cognitive issues (e.g., ADHD, traumatic brain injury)</li>
-<li class="list-group-item">
-				<span aria-hidden="true" class="glyphicon glyphicon-ok">&nbsp;</span>Hearing or vision loss/impairment</li>
-<li class="list-group-item">
-				<span aria-hidden="true" class="glyphicon glyphicon-ok">&nbsp;</span>Mobility difficulties</li>
-</ul>
-</div>
-</div>
-<h3>
-	Types of Accommodations</h3>
-<p>
-	Accommodations are personalized to meet the needs of each student based on the information specified in their current, verifiable medical documentation.</p>
-<div class="row" style="margin-bottom:0em; margin-top:0px; background-color: #eeeeee;">
-<div class="col-sm-12 clearfix" style="padding:1em">
-<p>
-			Examples of accommodations include but are not limited to:</p>
-</div>
-</div>
-<div class="row" style="margin-bottom:1em; background-color: #eeeeee; padding-bottom:.5em;">
-<div class="col-sm-12 clearfix" style="padding:.5em">
-<ul class="list-group list-group-flush">
-<li class="list-group-item">
-				<span aria-hidden="true" class="glyphicon glyphicon-ok">&nbsp;</span>Extended time for exams and quizzes</li>
-<li class="list-group-item">
-				<span aria-hidden="true" class="glyphicon glyphicon-ok">&nbsp;</span>Note taking support</li>
-<li class="list-group-item">
-				<span aria-hidden="true" class="glyphicon glyphicon-ok">&nbsp;</span>Distraction reduced testing environment</li>
-</ul>
-</div>
-</div>
-<div class="row" style="margin-bottom:0em; margin-top:0px; background-color: #eeeeee;">
-<div class="col-sm-12 clearfix" style="padding:1em">
-<p>
-			Any accommodation granted by UCLA is strictly for activities within the control of UCLA and may or may not be honored by other agencies, such as NREMT, or hospitals/EMS agencies with whom the student performs a clinical or field rotation.</p>
-</div>
-</div>
-<div class="row" style="margin-bottom:2em; margin-top:1px; background-color: #ffffff; border: 1px solid #dddddd;<br />
- border-radius: 10px !important"><br />
-<div class="col-sm-12 clearfix" style="padding:1em">
-<h3 style="margin-top:0">
-			New Requests</h3>
-<p>
-			To request accommodations, the following should be submitted to <a href="mailto:dkarim@mednet.ucla.edu">dkarim@mednet.ucla.edu</a> at least 2-3 weeks before the start of the course. Please be advised that accommodations are not retroactive and not guaranteed if submitted late.&nbsp;</p>
-<ul>
-<li>
-				<a href="https://www.cpc.mednet.ucla.edu/sites/default/files/attached_files/Glendon%20Ave%20Address%20-CPC%20Accomodation%20Request%20and%20Disability%20Verification%20Forms%20083022%20%281%29.pdf">Request for Accommodations and Verification of Disability</a></li>
-</ul>
-<p>
-			Your request and documentation will be reviewed by team members from the Center for Prehospital Care and the UCLA Center for Accessible Education to determine your eligibility for services.</p>
-<p>
-			You will receive notification from the Center for Prehospital Care once a decision has been made—typically within 2-3 weeks, provided all documentation submitted is complete.</p>
-<p>
-			The Center for Prehospital Care will subsequently notify your instructor(s) of all approved accommodations. Details of your medical documentation are held in strictest confidence and will not be shared with the instructors or staff members.</p>
-<h3>
-			For Current Students</h3>
-<p>
-			If you have received an approved accommodation that is less than three years old, it is not necessary to resubmit medical documentation for each course, unless your documentation will be three-years-old by your next enrollment. Contact our office at <a href="mailto:dkarim@mednet.ucla.edu">dkarim@mednet.ucla.edu</a> with your full name and UCLA student ID if you have questions regarding the status of your documentation.</p>
-</div>
-</div>
-    		
-  </div>
-
-    		
-</div>
-  </div>
-</div>
-  </div>
-    </div>
-
-    
-  </div>
-</div>
-<footer class="footer container">
-	
-	<div class="col-sm-3">
-      <div class="region region-footer-left">
-    <div id="block-block-2" class="block block-block">
-
-    
-  <div class="content">
-    <ul class="footer-menu footer-menu-left">
-<li>
-		<span style="color:#00a5e5;">Resources</span></li>
-<li>
-		<a href="https://www.cpc.mednet.ucla.edu/pcrf/">PCRF</a></li>
-<li>
-		<a href="/about/contact">Contact</a></li>
-<li>
-		<a href="https://vipcpc1.ad.medctr.ucla.edu/portal">Portal</a></li>
-<li>
-		<a href="https://www.cpc.mednet.ucla.edu/SRRS/Staff/StaffMain.aspx">SRRS Staff Page</a></li>
-<li>
-		<a href="/associates">Associate Resources</a></li>
-</ul>
-  </div>
-</div>
-  </div>
-	</div>
-	<div class="col-sm-6">
-      <div class="region region-footer-middle">
-    <div id="block-block-1" class="block block-block">
-
-    
-  <div class="content">
-    <ul class="footer-menu footer-menu-center-left">
-<li>
-		<a href="/courses">Courses</a></li>
-<li>
-		<a href="/emt">EMT</a></li>
-<li>
-		<a href="/paramedic">Paramedic</a></li>
-<li>
-		<a href="/lifesupport">CPR, ACLS, PALS</a></li>
-<li>
-		<a href="/course/phlebotomy">Phlebotomy</a></li>
-<li>
-		<a href="/course/phtls">Trauma</a></li>
-</ul>
-<ul class="footer-menu footer-menu-center-center">
-<li>
-		<a href="/students">Students</a></li>
-<li>
-		<a href="/services/payment-methods">Payment Methods</a></li>
-<li>
-		<a href="/services/financial-aid">Financial Aid</a></li>
-<li>
-		<a href="/services/books">Books</a></li>
-<li>
-		<a href="/services/transcripts">Transcripts</a></li>
-</ul>
-<ul class="footer-menu footer-menu-center-right">
-<li>
-		<a href="/about">About Us</a></li>
-<li>
-		<a href="/about/contact">Contact</a></li>
-<li>
-		<a href="/giving">Giving</a></li>
-<li>
-		<a href="/about/leadership">Leadership</a></li>
-<li>
-		<a href="/diversity-resources">Equity, Diversity<br />
-		&amp; Inclusion</a></li>
-<li>
-		<a href="/about/history">Our History</a></li>
-<li>
-		<a href="/about/employment">Jobs at CPC</a></li>
-<li>
-		<a href="https://www.uclahealth.org/privacy-notice">Privacy Practices</a></li>
-</ul>
-  </div>
-</div>
-  </div>
-	</div>
-	<div class="col-sm-3">
-      <div class="region region-footer-right">
-    <div id="block-block-4" class="block block-block">
-
-    
-  <div class="content">
-    <div style="width:185px; xmargin:20px auto;">
-	<a href="http://www.facebook.com/uclacpc"><img class="img-responsive" src="/sites/all/themes/cpc_bootstrap/theme_images/facebookIcon-240.png" style="display: inline-block; margin: 5px; max-width:120px;" /></a><!--<img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-FB.png" style="display: inline-block; margin: 5px;" /> <img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-LI.png" style="display: inline-block; margin: 5px;" /><img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-YT.png" style="display: inline-block; margin: 5px;" /> --> <a href="https://www.instagram.com/uclacpc/" target="_blank"><img src="/sites/default/files/icons/instagram_glyph_color.png" style="display: inline-block; max-height: 40px; max-width: 40px; " /></a></div>
-  </div>
-</div>
-  </div>
-	</div>
-	<div class="col-sm-12 footer-bottom">
-		<div style="text-align: center; border-top: 1px solid #777;display:none;">
-		<a href="">Privacy</a> | <a href="">Terms</a>
-		</div>
-	</div>
-</footer>
-  	  <script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
-<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=17&cb=1960156739" async></script></body>
-</html>
+Accommodations for Students with Disabilities | UCLA CPC
+Skip to main content
+[ Login / Register ]
+0  items in cart
+Toggle navigation
+Accommodations for Students with Disabilities
+Students
+Payment Methods
+Payment Plan
+Refunds & Transfers
+Transcripts
+Scholarships
+Veteran's Assistance Benefits
+Educational Accommodations
+College Credit & CEUs
+We Are Here for You.
+The Center for Prehospital Care is committed to providing equal access to all programs and co-curricular activities for qualified applicants and students living with permanent or temporary disabilities.
+Definition of “Disability”
+As stated in the Americans with Disabilities Act Amendment Act (ADAAA), a disability is defined as a physical or mental impairment that substantially limits one or more major life activities. This includes people who have a record of such an impairment, even if they do not currently have a disability.
+General examples of disability categories include, but are not limited to:
+Learning challenges
+Cognitive issues (e.g., ADHD, traumatic brain injury)
+Hearing or vision loss/impairment
+Mobility difficulties
+Types of Accommodations
+Accommodations are personalized to meet the needs of each student based on the information specified in their current, verifiable medical documentation.
+Examples of accommodations include but are not limited to:
+Extended time for exams and quizzes
+Note taking support
+Distraction reduced testing environment
+Any accommodation granted by UCLA is strictly for activities within the control of UCLA and may or may not be honored by other agencies, such as NREMT, or hospitals/EMS agencies with whom the student performs a clinical or field rotation.
+New Requests
+To request accommodations, the following should be submitted to
+dkarim@mednet.ucla.edu
+at least 2-3 weeks before the start of the course. Please be advised that accommodations are not retroactive and not guaranteed if submitted late.
+Request for Accommodations and Verification of Disability
+Your request and documentation will be reviewed by team members from the Center for Prehospital Care and the UCLA Center for Accessible Education to determine your eligibility for services.
+You will receive notification from the Center for Prehospital Care once a decision has been made—typically within 2-3 weeks, provided all documentation submitted is complete.
+The Center for Prehospital Care will subsequently notify your instructor(s) of all approved accommodations. Details of your medical documentation are held in strictest confidence and will not be shared with the instructors or staff members.
+For Current Students
+If you have received an approved accommodation that is less than three years old, it is not necessary to resubmit medical documentation for each course, unless your documentation will be three-years-old by your next enrollment. Contact our office at
+dkarim@mednet.ucla.edu
+with your full name and UCLA student ID if you have questions regarding the status of your documentation.
+Resources
+PCRF
+Contact
+Portal
+SRRS Staff Page
+Associate Resources
+Courses
+EMT
+Paramedic
+CPR, ACLS, PALS
+Phlebotomy
+Trauma
+Students
+Payment Methods
+Financial Aid
+Books
+Transcripts
+About Us
+Contact
+Giving
+Leadership
+Equity, Diversity
+& Inclusion
+Our History
+Jobs at CPC
+Privacy Practices
+Privacy
+|
+Terms

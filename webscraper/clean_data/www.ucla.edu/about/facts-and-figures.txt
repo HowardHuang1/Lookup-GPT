@@ -1,1089 +1,254 @@
-<!doctype html>
-<html class="no-js" lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <!-- Google Tag Manager -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-PHDTBTH');</script>
-  <!-- End Google Tag Manager -->
-  <script src="https://www.youtube.com/iframe_api"></script>
-
-  <title> Our University’s Facts and Figures at a Glance | UCLA |   UCLA</title>
-  <meta name="description" content="Get a feel for our diverse student body by looking at our facts and figures here.">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-  
-  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
-  
-  <!-- Place favicon.ico in the root directory -->
-  <link rel="icon" href="/favicon.ico">
-
-  <!-- Main CSS -->
-  <link rel="stylesheet" type="text/css" href="https://cdn.webcomponents.ucla.edu/1.0.0-beta.15/css/ucla-lib.min.css">
-  <link href="/css/app.css?ver=020924" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.6/jquery.fancybox.min.css"/></head>
-<body  id="about-facts-and-figures"  class="internal">
-
-	<div id="skip-nav" class="skip-nav" role="navigation" aria-label="Skip navigation">
-  <button class="button skip-nav__desktop-nav">Skip to Navigation</button>
-	<button class="button skip-nav__mobile-nav">Skip to Navigation</button>
-  <button class="button skip-nav__desktop-search">Skip to Search</button>
-	<button class="button skip-nav__mobile-search">Skip to Search</button>
-  <a class="button" href="#main-content">Skip to Main Content</a>
-	<a class="button" href="#footer">Skip to Footer Links</a>
-</div>
-
-	<!-- Google Tag Manager (noscript) -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PHDTBTH"
-	height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager" aria-hidden="true"></iframe></noscript>
-	<!-- End Google Tag Manager (noscript) -->
-
-	<!--[if lte IE 9]>
-	<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-	<![endif]-->
-
-
-	
-	
-	<header id="header">
-
-		<div id="header-wrap">
-
-			<div class="university-logo">
-				<a href="/"><img src="/img/logo-ucla.svg" alt="UCLA Logo"></a>
-			</div>
-
-      <div class="header-components">
-        <div class="header-components__weather">
-          
-
-          <a class="btn btn--tertiary header-components__button" href="https://community.ucla.edu">
-            Events
-          </a>
-          <a class="btn btn--tertiary header-components__button" href="https://newsroom.ucla.edu">
-            Newsroom
-          </a>
-          <a class="btn btn--tertiary header-components__button" href="https://newsroom.ucla.edu/magazine">
-            Magazine
-          </a>
-          <a class="btn btn--tertiary header-components__button" href="https://alumni.ucla.edu/">
-            Alumni
-          </a>
-          <a class="btn btn--tertiary header-components__button" href="https://goarts.ucla.edu/">
-            Arts
-          </a>
-          <a class="btn btn--tertiary header-components__button" href="/careers">
-            Careers
-          </a>
-          <a class="btn btn--lightbg header-components__button give" href="https://giveto.ucla.edu">
-            Give
-          </a>
-        </div>
-
-  			<button id="hamburger" class="ham" aria-expanded="false" aria-label="Open mobile menu">
-  				<div class="ham__middle"></div>
-  			</button>
-      </div>
-
-		</div>
-
-    <nav id="main-nav" class="primary-nav" aria-label="Main navigation">
-
-	<div class="primary-nav__wrap">
-
-		<ul class="primary-nav__top-level" tabindex="-1">
-
-			<li id="search-li" class="primary-nav__top-level-li"><div id="searchbox-mobile">
-
-	<script>
-		var adaSearchFix = function() {
-			$('img.gsc-branding-img').attr("alt", "Google Custom Search Branding");
-			$('input.gsc-search-button').attr('alt', "Google Custom Search Button");
-			$( '<label for="gsc-i-id1" class="ada-hidden">Search ucla.edu</label>' ).insertBefore( "input.gsc-input" );
-		};
-		window.__gcse = {
-			callback: adaSearchFix
-		};
-		(function() {
- 			var cx = '007055646345973409059:8hr0gvmjar8';
- 			var gcse = document.createElement('script');
-			gcse.type = 'text/javascript';
-			gcse.async = true;
-			gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-			var s = document.getElementsByTagName('script')[0];
-			s.parentNode.insertBefore(gcse, s);
-		})();
-
-		document.addEventListener('DOMContentLoaded', function() {
-			setTimeout(function() {
-				var $gscEl = $('#gsc-i-id1');
-
-				if ($gscEl.length) {
-				    $gscEl.attr({
-					    role: 'search',
-                        type: 'search'
-					});
-				}
-			}, 500);
-		});
-
-		window.onload = function() {
-			var search_mobile =  document.getElementById("gsc-i-id1");
-			search_mobile.placeholder="Search for...";
-			search_mobile.title="Search";
-
-			var search_desktop =  document.getElementById("gsc-i-id2");
-			search_desktop.placeholder="Search for...";
-			search_desktop.title="Search";
-		}
-
-
-	</script>
-	<gcse:searchbox-only enableAutoComplete="false" resultsUrl="/search" ></gcse:searchbox-only>
-
-</div>
-</li>
-
-			<!-- ABOUT START -->
-			<li class="primary-nav__top-level-li  select ">
-				<a id="about-menu" href="/about" class="primary-nav__top-level-link">About</a>
-
-				<ul class="primary-nav__second-level-nav" tabindex="-1">
-					<li class="primary-nav__go-back">About</li>
-					<li class="primary-nav__overview-li"><a href="/about" class="primary-nav__second-level-link">About Overview</a></li>
-					<li class="primary-nav__stack-holder">
-						<div class="primary-nav__stack-holder-wrap">
-							<ul class="primary-nav__menu-stack" tabindex="-1">
-								<li class="primary-nav__sub-title">General Info</li>
-								<li><a href="/about/facts-and-figures" class="primary-nav__second-level-link">Facts &amp; Figures</a></li>
-								<li><a href="/about/leadership" class="primary-nav__second-level-link">Leadership</a></li>
-								<li><a href="https://www.senate.ucla.edu" class="primary-nav__second-level-link">Academic Senate</a></li>
-								<li><a href="/about/rankings" class="primary-nav__second-level-link">Rankings</a></li>
-								<li><a href="https://alumni.ucla.edu/uclas-story" class="primary-nav__second-level-link">History</a></li>
-							</ul>
-							<ul class="primary-nav__menu-stack" tabindex="-1">
-								<li class="primary-nav__sub-title miss-value-li">Mission &amp; Values</li>
-								<li class="miss-value-li"><a href="/about/mission-and-values" class="primary-nav__second-level-link">Mission &amp; Values</a></li>
-								<li class="miss-value-li"><a href="https://strategic-plan.ucla.edu/" class="primary-nav__second-level-link">Strategic Plan</a></li>
-								<li class="miss-value-li"><a href="https://equity.ucla.edu/" class="primary-nav__second-level-link">Equity, Diversity and Inclusion</a></li>
-								<li class="primary-nav__sub-title impact-li">Impact</li>
-								<li class="impact-li"><a href="https://100.ucla.edu/timeline?mode=time&nodeID=XL5AnBAAAB4A9_2N" class="primary-nav__second-level-link">Contributions &amp; Discoveries</a></li>
-								<!-- <li class="impact-li"><a href="/economic-impact" class="primary-nav__second-level-link external-link--blue">Local &amp; Economic Impact</a></li> -->
-								<li class="impact-li"><a href="https://www.global.ucla.edu/home" class="primary-nav__second-level-link">Global Engagement</a></li>
-							</ul>
-							<ul class="primary-nav__menu-stack last-mobile" tabindex="-1">
-								<li class="primary-nav__sub-title recognition-li">Recognition</li>
-								<li class="recognition-li"><a href="/about/awards-and-honors/" class="primary-nav__second-level-link">Awards & Honors</a></li>
-								<li class="recognition-li"><a href="/about/athletics-championships-and-medals" class="primary-nav__second-level-link">Athletic Championships &amp; Medals</a></li>
-								<li class="recognition-li"><a href="https://optimism.ucla.edu/profiles/" class="primary-nav__second-level-link">Notable Alumni</a></li>
-							</ul>
-							<ul class="primary-nav__menu-stack" tabindex="-1">
-								<li class="menu-image-item">
-									<a class="stack-img-link" href="/about/rankings">
-										<img src="/img/nav-cta-about-janns.png" alt="Jann's Steps">
-										<span>UCLA Ranked No. 1 Public University</span>
-									</a>
-									<p class="blurb">UCLA tops all public universities in the 2021 <em>U.S. News &amp; World Report</em> rankings.</p>
-								</li>
-							</ul>
-						</div>
-					</li>
-				</ul>
-			</li>
-
-			<!-- ADMISSION START -->
-			<li class="primary-nav__top-level-li ">
-				<a id="admission-menu" href="/admission" class="primary-nav__top-level-link">Admission</a>
-
-				<ul class="primary-nav__second-level-nav" tabindex="-1">
-					<li class="primary-nav__go-back admission-li">Admission</li>
-					<li class="primary-nav__overview-li"><a href="/admission" class="primary-nav__second-level-link">Admission Overview</a></li>
-					<li class="primary-nav__stack-holder">
-						<div class="primary-nav__stack-holder-wrap">
-							<ul class="primary-nav__menu-stack" tabindex="-1">
-								<li class="primary-nav__sub-title">Undergraduate</li>
-								<li><a href="https://admission.ucla.edu/" class="primary-nav__second-level-link">Undergraduate Admission</a></li>
-								<li><a href="https://admission.ucla.edu/tuition-aid/tuition-fees" class="primary-nav__second-level-link">Undergraduate Tuition & Fees</a></li>
-								<li><a href="https://admission.ucla.edu/tuition-aid/financial-aid-and-scholarships" class="primary-nav__second-level-link">Undergraduate Financial Aid</a></li>
-								<li><a href="https://admission.ucla.edu/tours.htm" class="primary-nav__second-level-link">Undergraduate Tours</a></li>
-							</ul>
-							<ul class="primary-nav__menu-stack" tabindex="-1">
-								<li class="primary-nav__sub-title">Graduate</li>
-								<li><a href="/admission/graduate-admission" class="primary-nav__second-level-link">Graduate Admission</a></li>
-								<li><a href="https://grad.ucla.edu/funding/tuition" class="primary-nav__second-level-link">Graduate Tuition & Fees</a></li>
-								<li><a href="https://grad.ucla.edu" class="primary-nav__second-level-link">Graduate Funding</a></li>
-								<li><a href="https://grad.ucla.edu/admissions/visiting-ucla" class="primary-nav__second-level-link">Graduate Tours</a></li>
-
-							</ul>
-							<ul class="primary-nav__menu-stack last-mobile" tabindex="-1">
-								<li class="primary-nav__sub-title">Additional Information</li>
-								<li><a href="/admission/international-applicants" class="primary-nav__second-level-link">International Applicants</a></li>
-								<li><a href="https://www.uclaextension.edu/student-services/enrollment-services-support" class="primary-nav__second-level-link">Extension Program</a></li>
-								<li><a href="https://summer.ucla.edu" class="primary-nav__second-level-link">Summer Sessions</a></li>
-							</ul>
-						</div>
-					</li>
-				</ul>
-			</li>
-
-			<!-- ACADEMICS START -->
-			<li class="primary-nav__top-level-li  ">
-				<a href="/academics" class="primary-nav__top-level-link">Academics</a>
-
-				<ul class="primary-nav__second-level-nav" tabindex="-1">
-					<li class="primary-nav__go-back">Academics</li>
-					<li class="primary-nav__overview-li"><a href="/academics" class="primary-nav__second-level-link">Academics Overview</a></li>
-					<li class="primary-nav__stack-holder">
-						<div class="primary-nav__stack-holder-wrap">
-							<ul class="primary-nav__menu-stack" tabindex="-1">
-								<li class="primary-nav__sub-title">Explore</li>
-								<li><a href="/academics/programs-and-majors" class="primary-nav__second-level-link">Degree Programs & Majors</a></li>
-								<li><a href="/academics/college-and-schools" class="primary-nav__second-level-link">College & Professional Schools</a></li>
-							</ul>
-							<ul class="primary-nav__menu-stack" tabindex="-1">
-								<li class="primary-nav__sub-title">Education</li>
-								<li><a href="/academics/undergraduate-education" class="primary-nav__second-level-link">Undergraduate Education</a></li>
-								<li><a href="/academics/graduate-and-professional-education" class="primary-nav__second-level-link">Graduate & Professional Education</a></li>
-								<li><a href="https://www.uclaextension.edu/" class="primary-nav__second-level-link">Extension Courses & Certificates</a></li>
-								<li><a href="https://summer.ucla.edu/" class="primary-nav__second-level-link">Summer Sessions</a></li>
-								<li><a href="https://ieo.ucla.edu/" class="primary-nav__second-level-link">Study Abroad</a></li>
-								<li><a href="/academics/continuing-education" class="primary-nav__second-level-link">Continuing Education</a></li>
-							</ul>
-							<ul class="primary-nav__menu-stack" tabindex="-1">
-								<li class="primary-nav__sub-title">Support</li>
-								<li><a href="https://career.ucla.edu" class="primary-nav__second-level-link">Career Preparation</a></li>
-								<li><a href="https://www.registrar.ucla.edu/Academics/Academic-Counseling" class="primary-nav__second-level-link">Academic Advising</a></li>
-								<li><a href="https://firsttogo.ucla.edu/" class="primary-nav__second-level-link">First Generation</a></li>
-								<li><a href="https://newstudents.ucla.edu/" class="primary-nav__second-level-link">New Student Programs</a></li>
-								<li><a href="http://www.honors.ucla.edu" class="primary-nav__second-level-link">Honors & Advanced Study</a></li>
-								<li><a href="/academics/support/entrepreneurship" class="primary-nav__second-level-link">Entrepreneurship Hub</a></li>
-							</ul>
-							<ul class="primary-nav__menu-stack last-mobile" tabindex="-1">
-								<li class="primary-nav__sub-title">Resources</li>
-								<li><a href="/academics/libraries" class="primary-nav__second-level-link">Libraries</a></li>
-								<li><a href="https://registrar.ucla.edu/calendars/academic-calendar" class="primary-nav__second-level-link">Academic Calendar</a></li>
-								<li><a href="https://sa.ucla.edu/ro/public/soc" class="primary-nav__second-level-link">Course Schedule</a></li>
-								<li><a href=" https://catalog.registrar.ucla.edu/" class="primary-nav__second-level-link">Course Catalogue</a></li>
-							</ul>
-						</div>
-					</li>
-				</ul>
-			</li>
-
-			<!-- RESEARCH START -->
-			<li class="primary-nav__top-level-li ">
-				<a href="/research" class="primary-nav__top-level-link">Research</a>
-
-				<ul class="primary-nav__second-level-nav" tabindex="-1">
-					<li class="primary-nav__go-back">Research</li>
-					<li class="primary-nav__overview-li"><a href="/research" class="primary-nav__second-level-link">Research</a></li>
-					<li class="primary-nav__stack-holder">
-						<div class="primary-nav__stack-holder-wrap">
-							<ul class="primary-nav__menu-stack" tabindex="-1">
-								<li class="primary-nav__sub-title">Campus Resources</li>
-								<li><a href="https://research.ucla.edu/about/campus" class="primary-nav__second-level-link">Research Across Campus</a></li>
-								<li><a href="https://tdg.ucla.edu/" class="primary-nav__second-level-link">Technology & Innovation</a></li>
-								<li><a href="https://research.ucla.edu/entrepreneurship" class="primary-nav__second-level-link">Investments & Partnerships</a></li>
-								<li><a href="/academics/libraries" class="primary-nav__second-level-link">Libraries</a></li>
-							</ul>
-							<ul class="primary-nav__menu-stack last-mobile" tabindex="-1">
-								<li class="primary-nav__sub-title">Student Research</li>
-								<li><a href="https://grad.ucla.edu/academics/research/" class="primary-nav__second-level-link">Graduate Research</a></li>
-								<li><a href="https://admission.ucla.edu/explore/research" class="primary-nav__second-level-link">Undergraduate Research</a></li>
-							</ul>
-						</div>
-					</li>
-				</ul>
-			</li>
-
-			<!-- CAMPUS LIFE START -->
-			<li class="primary-nav__top-level-li ">
-				<a id="campus-life-menu" href="/campus-life" class="primary-nav__top-level-link">Campus Life</a>
-
-				<ul class="primary-nav__second-level-nav" tabindex="-1">
-					<li class="primary-nav__go-back">Campus Life</li>
-					<li class="primary-nav__overview-li"><a href="/campus-life" class="primary-nav__second-level-link">Campus Life Overview</a></li>
-					<li class="primary-nav__stack-holder">
-						<div class="primary-nav__stack-holder-wrap">
-							<ul class="primary-nav__menu-stack" tabindex="-1">
-								<li class="primary-nav__sub-title">Campus</li>
-								<li><a href="https://portal.housing.ucla.edu" class="primary-nav__second-level-link">Housing</a></li>
-								<li><a href="https://reslife.ucla.edu/" class="primary-nav__second-level-link">Residential Life</a></li>
-								<li><a href="https://housing.ucla.edu/dining-services/overview" class="primary-nav__second-level-link">Dining</a></li>
-								<li><a href="https://www.studenthealth.ucla.edu/" class="primary-nav__second-level-link">Health & Wellness</a></li>
-								<li><a href="https://www.sustain.ucla.edu/" class="primary-nav__second-level-link">Sustainability</a></li>
-							</ul>
-							<ul class="primary-nav__menu-stack last-mobile" tabindex="-1">
-								<li class="primary-nav__sub-title">Student Life</li>
-								<li><a href="/campus-life/clubs-organizations-and-recreation" class="primary-nav__second-level-link">Clubs & Organizations</a></li>
-								<li><a href="https://www.recreation.ucla.edu/" class="primary-nav__second-level-link">Sports & Recreation</a></li>
-								<li><a href="/campus-life/arts-and-performance" class="primary-nav__second-level-link">Arts & Performance</a></li>
-								<li><a href="https://volunteer.ucla.edu/" class="primary-nav__second-level-link">Volunteering & Service</a></li>
-                                <li><a href="https://bewellbruin.ucla.edu/" class="primary-nav__second-level-link">Be Well Bruin</a></li>
-							</ul>
-						</div>
-					</li>
-				</ul>
-			</li>
-
-			<li class="primary-nav__top-level-mobile-li mt-8"><a href="https://directory.ucla.edu/" id="directory-menu" class="primary-nav__top-level-mobile-link">Directory</a></li>
-			<li class="primary-nav__top-level-mobile-li"><a href="https://www.registrar.ucla.edu/Calendars/Annual-Academic-Calendar" class="primary-nav__top-level-mobile-link">Academic Calendar</a></li>
-			<li class="primary-nav__top-level-mobile-li"><a href="https://map.ucla.edu/" class="primary-nav__top-level-mobile-link">Maps & Directions</a></li>
-			<li class="primary-nav__top-level-mobile-li"><a href="https://www.transportation.ucla.edu/campus-parking" class="primary-nav__top-level-mobile-link">Parking</a></li>
-			<li class="primary-nav__top-level-mobile-li"><a href="https://transportation.ucla.edu/getting-around-campus/bruinbus" class="primary-nav__top-level-mobile-link">Campus Shuttles</a></li>
-			<li class="primary-nav__top-level-mobile-li primary-nav__public-transit-li"><a href="https://transportation.ucla.edu/getting-to-ucla/public-transit" id="public-transit-menu" class="primary-nav__top-level-mobile-link">Public Transit</a></li>
-			<li class="primary-nav__top-level-mobile-li"><a href="https://newsroom.ucla.edu/" class="primary-nav__top-level-mobile-link">Newsroom</a></li>
-			<li class="primary-nav__top-level-mobile-li"><a href="https://newsroom.ucla.edu/magazine" class="primary-nav__top-level-mobile-link">Magazine</a></li>
-			<li class="primary-nav__top-level-mobile-li"><a href="https://alumni.ucla.edu/" class="primary-nav__top-level-mobile-link">Alumni</a></li>
-			<li class="primary-nav__top-level-mobile-li"><a href="https://goarts.ucla.edu/" class="primary-nav__top-level-mobile-link">Arts</a></li>
-			<li class="primary-nav__top-level-mobile-li"><a href="/careers" class="primary-nav__top-level-mobile-link">Careers</a></li>
-			<li class="primary-nav__top-level-mobile-li"><a class="btn btn--lightbg mx-24 give " href="https://giveto.ucla.edu/?utm_campaign=UCLA-Gateway&utm_source=Gateway-Header&utm_medium=website&utm_content=Give+Now+Button&_ga=2.113305351.1621921878.1573682885-1712134942.1573682885" class="give-btn" id="give-btn">Give</a></li>
-			<li id="search-menu" class="primary-nav__top-level-li desktop-tools" data-submenu="search">
-
-				<button id="search-button" class="search_button" type="button" aria-label="Open Search Menu" aria-expanded="false">
-					<span class="visuallyhidden">Open Search</span>
-				</button>
-
-				<ul class="primary-nav__second-level-nav desktop-searches" tabindex="-1">
-					<li>
-						<div id="searchbox-desktop">
-
-	<script>
-		var adaSearchFix = function() {
-			$('img.gsc-branding-img').attr("alt", "Google Custom Search Branding");
-			$('input.gsc-search-button').attr('alt', "Google Custom Search Button");
-			$( '<label for="gsc-i-id1" class="ada-hidden">Search ucla.edu</label>' ).insertBefore( "input.gsc-input" );
-		};
-		window.__gcse = {
-			callback: adaSearchFix
-		};
-		(function() {
- 			var cx = '007055646345973409059:8hr0gvmjar8';
- 			var gcse = document.createElement('script');
-			gcse.type = 'text/javascript';
-			gcse.async = true;
-			gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-			var s = document.getElementsByTagName('script')[0];
-			s.parentNode.insertBefore(gcse, s);
-		})();
-		window.onload = function() {
-			var search_mobile =  document.getElementById("gsc-i-id1");
-			search_mobile.placeholder="Search for...";
-			search_mobile.title="Search";
-
-			var search_desktop =  document.getElementById("gsc-i-id2");
-			search_desktop.placeholder="Search for...";
-			search_desktop.title="Search";
-		}
-	</script>
-	<gcse:searchbox-only enableAutoComplete="false" resultsUrl="/search" ></gcse:searchbox-only>
-
-</div>
-					</li>
-				</ul>
-			</li>
-
-		</ul>
-	</div>
-
-</nav>
-
-	</header>
-
-	<main id="main-content">
-<div class="ucla campus">
-  	<nav aria-label="breadcrumb">
-  		<ol class="breadcrumb">
-
-  			<li class="breadcrumb__item"><a href="/">Home</a></li>
-
-  			
-  			
-  				  					<li class="breadcrumb__item"><a href="/about">About</a></li>
-  				
-  				
-  			
-  				  					<!-- Hide current page in breadcrumb nav -->
-  					<li class="breadcrumb__item--active" aria-current="page">Facts &amp; Figures</li>
-  				
-  				
-  			
-
-  		</ol>
-  	</nav>
-  </div>
-
-
-
-<div class="section-wrapper">
-	<div class="ucla campus intro">
-
-		<div class="col span_8_of_12">
-
-			<h1>Facts & Figures</h1>
-
-			<p class="p--lead-in">An overview of the data that makes UCLA unique</p>
-			<p class="pb-24">One of our greatest values as a university lies in our ability to positively impact society by bringing together diverse minds from around the world and celebrating different points of view.</p>
-			<p class="pb-24">Here, we take pride in providing opportunity, regardless of socioeconomic background. We also cherish the <a href="https://equity.ucla.edu/">diversity</a> of our community, an inclusive environment that welcomes and values people from all walks of life and prepares students to be successful in today’s global society.</p>
-			<p class="pb-24">The following statistics and facts illustrate the range and depth of the University of California, Los Angeles.</p>
-		</div>
-
-	</div>
-</div>
-
-<div class="section-wrapper">
-  <div class="ucla campus">
-
-	<div class="stat-set span_10_of_12 mb-24">
-    <aside class="stat-wrapper clearfix">
-      <div class="stat-tout">
-        <span class="stat-tout__number">32,423</span>
-        <div class="stat-tout__info-wrap">
-          <span class="stat-tout__label">Undergraduate Students</span>
-        </div>
-      </div>
-    </aside>
-
-    <aside class="stat-wrapper clearfix">
-      <div class="stat-tout">
-        <span class="stat-tout__number">14,007</span>
-        <div class="stat-tout__info-wrap">
-          <span class="stat-tout__label">Graduate Students</span>
-        </div>
-      </div>
-    </aside>
-	</div>
-
-	<div class="stat-set span_10_of_12 mb-24">
-    <aside class="stat-wrapper clearfix">
-      <div class="stat-tout">
-        <span class="stat-tout__number">5,247</span>
-        <div class="stat-tout__info-wrap">
-          <span class="stat-tout__label">International Students</span>
-        </div>
-      </div>
-    </aside>
-
-    <aside class="stat-wrapper clearfix">
-      <div class="stat-tout">
-        <span class="stat-tout__number">7,941</span>
-        <div class="stat-tout__info-wrap">
-          <span class="stat-tout__label">Faculty Members</span>
-        </div>
-      </div>
-    </aside>
-	</div>
-
-	<div class="stat-set span_10_of_12 mb-24">
-    <aside class="stat-wrapper clearfix">
-      <div class="stat-tout">
-        <span class="stat-tout__number">106</span>
-        <div class="stat-tout__info-wrap">
-          <span class="stat-tout__label">Countries Represented by Students</span>
-        </div>
-      </div>
-    </aside>
-
-    <aside class="stat-wrapper clearfix">
-      <div class="stat-tout">
-        <span class="stat-tout__number">29%</span>
-        <div class="stat-tout__info-wrap">
-          <span class="stat-tout__label">First-Generation Undergraduates</span>
-        </div>
-      </div>
-    </aside>
-	</div>
-
-	<div class="stat-set span_10_of_12">
-    <aside class="stat-wrapper clearfix">
-      <div class="stat-tout">
-        <span class="stat-tout__number">9%</span>
-        <div class="stat-tout__info-wrap">
-          <span class="stat-tout__label">International Undergraduates</span>
-        </div>
-      </div>
-    </aside>
-
-    <aside class="stat-wrapper clearfix">
-      <div class="stat-tout">
-        <span class="stat-tout__number">27%</span>
-        <div class="stat-tout__info-wrap">
-          <span class="stat-tout__label">Undergraduates Receive Pell Grants</span>
-        </div>
-      </div>
-    </aside>
-	</div>
-  </div>
-</div>
-
-<div class="section-wrapper">
-	<div class="ucla campus tables">
-
-		<div class="col span_11_of_12">
-				<h2>Diversity</h2>
-
-				<div class="fixed-table mb-6">
-                 <h3 class="h4">Student Diversity by Ethnicity</h4>
-			 	  <div class="fixed-table__scroller">
-
-						<table class="fixed-table__wrapper">
-							<caption class="visuallyhidden">Ethnicity among undergraduate and graduate students</caption>
-							<thead>
-								<tr>
-									<th class="fixed-table__sticky-col"><span class="table-span">Ethnicity</span></th>
-									<th class="align-right">Undergraduate</th>
-									<th class="align-right">Graduate</th>
-								</tr>
-							</thead>
-
-							<tbody>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">African American</span></td>
-									<td class="align-right">6%</td>
-									<td class="align-right">6%</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">American Indian &amp; Alaska Native</span></td>
-									<td class="align-right">&lt;1%</td>
-									<td class="align-right">&lt;1%</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Asian &amp; Pacific Islander</span></td>
-									<td class="align-right">35%</td>
-									<td class="align-right">21%</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Hispanic</span></td>
-									<td class="align-right">21%</td>
-									<td class="align-right">13%</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">White</span></td>
-									<td class="align-right">26%</td>
-									<td class="align-right">27%</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Other Domestic or Unknown</span></td>
-									<td class="align-right">4%</td>
-									<td class="align-right">5%</td>
-								</tr>
-							</tbody>
-						</table>
-					</div>
-				</div>
-
-				<div class="fixed-table mb-6">
-			     <h3 class="h4">Student Diversity by Residency</h4>
-				  <div class="fixed-table__scroller">
-						<table class="fixed-table__wrapper">
-							<caption class="visuallyhidden">Residency among undergraduate and graduate students</caption>
-							<thead>
-								<tr>
-									<th class="fixed-table__sticky-col"><span class="table-span">Residency</span></th>
-									<th class="align-right">Undergraduate</th>
-									<th class="align-right">Graduate</th>
-								</tr>
-							</thead>
-
-							<tbody>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">CA Residents</span></td>
-									<td class="align-right">78%</td>
-									<td class="align-right">45%</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Domestic Non-Residents</span></td>
-									<td class="align-right">13%</td>
-									<td class="align-right">9%</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">International Non-Residents</span></td>
-									<td class="align-right">9%</td>
-									<td class="align-right">17%</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Unknown</span></td>
-									<td class="align-right"></td>
-									<td class="align-right">28%</td>
-								</tr>
-							</tbody>
-						</table>
-					</div>
-				</div>
-
-				<div class="fixed-table mb-6">
-				 <h3 class="h4">Student Diversity by Gender</h4>
-				  <div class="fixed-table__scroller">
-						<table class="fixed-table__wrapper">
-							<caption class="visuallyhidden">Gender among undergraduate and graduate students</caption>
-							<thead>
-								<tr>
-									<th class="fixed-table__sticky-col"><span class="table-span">Gender</span></th>
-									<th class="align-right">Undergraduate</th>
-									<th class="align-right">Graduate</th>
-								</tr>
-							</thead>
-
-							<tbody>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Male</span></td>
-									<td class="align-right">39%</td>
-									<td class="align-right">49%</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Female</span></td>
-									<td class="align-right">60%</td>
-									<td class="align-right">49%</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Non-Binary</span></td>
-									<td class="align-right">1%</td>
-									<td class="align-right">2%</td>
-								</tr>
-							</tbody>
-						</table>
-					</div>
-				</div>
-
-
-
-				<h2 class="enrollment-h2">Enrollment</h2>
-				<div class="fixed-table mb-6">
-				 <h3 class="h4">Student Enrollment in the College</h4>
-				  <div class="fixed-table__scroller">
-						<table class="fixed-table__wrapper">
-							<caption class="visuallyhidden">College of Letters and Science enrollment among undergraduate and graduate students</caption>
-							<thead>
-								<tr>
-									<th class="fixed-table__sticky-col"><span class="table-span">College of Letters and Science</th>
-									<th class="align-right">Undergraduate</th>
-									<th class="align-right">Graduate</th>
-									<th class="align-right">Total</th>
-								</tr>
-							</thead>
-
-							<tbody>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Humanities</span></td>
-									<td class="align-right">2,184</td>
-									<td class="align-right">448</td>
-									<td class="align-right">2,632</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Life Sciences</span></td>
-									<td class="align-right">9,248</td>
-									<td class="align-right">607</td>
-									<td class="align-right">9,855</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Physical Sciences</span></td>
-									<td class="align-right">4,315</td>
-									<td class="align-right">951</td>
-									<td class="align-right">5,266</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Social Sciences</span></td>
-									<td class="align-right">8,589</td>
-									<td class="align-right">915</td>
-									<td class="align-right">9,504</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Institute of the Environment</span></td>
-									<td class="align-right">404</td>
-									<td class="align-right">33</td>
-									<td class="align-right">437</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">International Institute</span></td>
-									<td class="align-right">441</td>
-									<td class="align-right">38</td>
-									<td class="align-right">479</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">General</span></td>
-									<td class="align-right">291</td>
-									<td class="align-right">-</td>
-									<td class="align-right">291</td>
-								</tr>
-							</tbody>
-							<tfoot>
-								<tr class="blue-total">
-									<td class="fixed-table__sticky-col"><span class="table-span">Total</span></td>
-									<td class="align-right">25,473</td>
-									<td class="align-right">2,991</td>
-									<td class="align-right">28,464</td>
-								</tr>
-							</tfoot>
-						</table>
-					</div>
-				</div>
-
-
-				<div class="fixed-table mb-6">
-				 <h3 class="h4">Student Enrollment in Professional Schools</h4>
-				  <div class="fixed-table__scroller">
-						<table class="fixed-table__wrapper">
-							<caption class="visuallyhidden">Professional schools enrollment among undergraduate and graduate students</caption>
-							<thead>
-								<tr>
-									<th class="fixed-table__sticky-col"><span class="table-span">Professional Schools</span></th>
-									<th class="align-right">Undergraduate</th>
-									<th class="align-right">Graduate</th>
-									<th class="align-right">Total</th>
-								</tr>
-							</thead>
-
-							<tbody>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Arts and Architecture</span></td>
-									<td class="align-right">592</td>
-									<td class="align-right">282</td>
-									<td class="align-right">874</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Education &amp; Information Studies</span></td>
-									<td class="align-right">6</td>
-									<td class="align-right">745</td>
-									<td class="align-right">751</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Engineering</span></td>
-									<td class="align-right">3,923</td>
-									<td class="align-right">2,185</td>
-									<td class="align-right">6,108</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Law</span></td>
-									<td class="align-right">-</td>
-									<td class="align-right">1,086</td>
-									<td class="align-right">1,086</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Management</span></td>
-									<td class="align-right">-</td>
-									<td class="align-right">2,250</td>
-									<td class="align-right">2,250</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Music</span></td>
-									<td class="align-right">347</td>
-									<td class="align-right">144</td>
-									<td class="align-right">491</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Public Affairs</span></td>
-									<td class="align-right">154</td>
-									<td class="align-right">525</td>
-									<td class="align-right">679</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Theater, Film and Television</span></td>
-									<td class="align-right">347</td>
-									<td class="align-right">316</td>
-									<td class="align-right">663</td>
-								</tr>
-							</tbody>
-							<tfoot>
-								<tr class="blue-total">
-									<td class="fixed-table__sticky-col"><span class="table-span">Total</span></td>
-									<td class="align-right">5,368</td>
-									<td class="align-right">7,532</td>
-									<td class="align-right">12,900</td>
-								</tr>
-							</tfoot>
-						</table>
-					</div>
-				</div>
-
-				<div class="fixed-table mb-6">
-				 <h3 class="h4">Total Student Enrollment in the College and Professional Schools</h4>
-				  <div class="fixed-table__scroller">
-						<table class="fixed-table__wrapper">
-							<caption class="visuallyhidden">General campus enrollment among undergraduate and graduate students</caption>
-							<thead>
-								<tr>
-									<th class="fixed-table__sticky-col"><span class="table-span">General Campus</span></th>
-									<th class="align-right">Undergraduate</th>
-									<th class="align-right">Graduate</th>
-									<th class="align-right">Total</th>
-								</tr>
-							</thead>
-
-							<tfoot>
-								<tr class="blue-total">
-									<td class="fixed-table__sticky-col"><span class="table-span">Total College and Professional Schools</span></td>
-									<td class="align-right">30,841</td>
-									<td class="align-right">10,523</td>
-									<td class="align-right">41,364</td>
-								</tr>
-							</tfoot>
-						</table>
-					</div>
-				</div>
-
-				<div class="fixed-table mb-6">
-				 <h3 class="h4">Student Enrollment in Health Sciences</h4>
-				  <div class="fixed-table__scroller">
-						<table class="fixed-table__wrapper">
-							<caption class="visuallyhidden">Health sciences enrollment among undergraduate and graduate students</caption>
-							<thead>
-								<tr>
-									<th class="fixed-table__sticky-col"><span class="table-span">Health Sciences</span></th>
-									<th class="align-right">Undergraduate</th>
-									<th class="align-right">Graduate</th>
-									<th class="align-right">Total</th>
-								</tr>
-							</thead>
-
-							<tbody>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Biomedical</span></td>
-									<td class="align-right">595</td>
-									<td class="align-right">-</td>
-									<td class="align-right">595</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Dentistry</span></td>
-									<td class="align-right">-</td>
-									<td class="align-right">498</td>
-									<td class="align-right">498</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Medicine</span></td>
-									<td class="align-right">-</td>
-									<td class="align-right">991</td>
-									<td class="align-right">991</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Nursing</span></td>
-									<td class="align-right">199</td>
-									<td class="align-right">416</td>
-									<td class="align-right">614</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Public Health</span></td>
-									<td class="align-right">-</td>
-									<td class="align-right">607</td>
-									<td class="align-right">607</td>
-								</tr>
-								<tr>
-									<td class="fixed-table__sticky-col"><span class="table-span">Interns and Residents</span></td>
-									<td class="align-right">-</td>
-									<td class="align-right">1,330</td>
-									<td class="align-right">1,330</td>
-								</tr>
-							</tbody>
-							<tfoot>
-								<tr class="blue-total">
-									<td class="fixed-table__sticky-col"><span class="table-span">Total Professional Schools</span></td>
-									<td class="align-right">794</td>
-									<td class="align-right">3,842</td>
-									<td class="align-right">4,636</td>
-								</tr>
-							</tfoot>
-						</table>
-					</div>
-				</div>
-
-
-				<div class="fixed-table">
-				 <h3 class="h4">Total Student Enrollment at UCLA</h4>
-				  <div class="fixed-table__scroller">
-						<table class="fixed-table__wrapper">
-							<caption class="visuallyhidden">Total enrollment among undergraduate and graduate students</caption>
-							<tfoot>
-								<tr class="yellow-total">
-									<td class="fixed-table__sticky-col"><span class="table-span">UCLA Total Enrollment</span></td>
-									<td class="align-right">32,423</td>
-									<td class="align-right">14,007</td>
-									<td class="align-right">46,430</td>
-								</tr>
-							</tfoot>
-						</table>
-					</div>
-				</div>
-
-				<p><br>If you’d like to dig deeper into the numbers, the statistics on this page were sourced here: <a href="https://www.universityofcalifornia.edu/infocenter/fall-enrollment-glance">University of California Fall Statistics</a>, <a href="https://apb.ucla.edu/campus-statistics/enrollment">UCLA Campus Statistics</a>, and <a href="https://apb.ucla.edu/campus-statistics/faculty">UCLA Faculty and Staff</a>.</p>
-
-		</div>
-	</div>
-</div>
-
-<div class="section-wrapper">
-	<div class="ucla campus related-links">
-		<h2 class="pb-2">Related</h2>
-
-		<ul class="list">
-			<li><a href="https://admission.ucla.edu/apply/freshman/freshman-profile">Profile of Admitted Freshmen</a></li>
-			<li><a href="https://admission.ucla.edu/apply/transfer/transfer-profile">Profile of Admitted Transfers</a></li>
-			<li><a href="https://www.apb.ucla.edu/campus-statistics/undergraduate-profile">Undergraduate Profiles by Year</a></li>
-			<li><a href="https://www.apb.ucla.edu/campus-statistics/overview">Academic Statistics</a></li>
-		</ul>
-
-	</div>
-</div>
-
-<script type="application/ld+json">
-{
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Facts & Figures",
-    "description": "An overview of the data that makes UCLA unique. We take pride in diversity and in providing opportunity.",
-    "breadcrumb": "About > Facts & Figures",
-    "url": "https://ucla.edu/about/facts-and-figures"
-}
-</script>
-
-
-</main>
-
-<footer id="footer">
-
-    
-    <div class="has-background-ucla-blue has-white-text">
-  <div class="ucla campus pt-32">
-
-    <div class="department">
-      <img class="department__logo mb-24 mr-md-24" src="/img/logo_UCLA_white.svg" alt="UCLA">
-      <p class="department__contact">Los Angeles 90095<span class="department__contact phone"><a href="tel:+1-310-825-4321">(310) 825-4321</a></span></p>
-    </div>
-
-    <nav class="li-links mt-24 mt-md-8" aria-label="Footer links">
-
-      <div class="li-links__container">
-        <h5 class="li-links__header">Contact</h5>
-        <ul class="li-links__list">
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://directory.ucla.edu/">Directory</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://registrar.ucla.edu/calendars/academic-calendar">Academic <br class="li-links__mobile-break">Calendar</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="/careers">Careers</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="/contact">Contact Us</a></li>
-          <!-- <li class="li-links__list-item"><a class="li-links__list-link--dark" href="#">Website Feedback</a></li> -->
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://newsroom.ucla.edu/media-contacts-at-ucla">Media &amp; <br class="li-links__mobile-break">Journalists</a></li>
-        </ul>
-      </div>
-
-      <div class="li-links__container">
-        <h5 class="li-links__header">Campus</h5>
-        <ul class="li-links__list">
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://map.ucla.edu">Campus Map</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://transportation.ucla.edu/campus-parking">Parking</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://transportation.ucla.edu/getting-around-campus/bruinbus">Campus Shuttles</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://transportation.ucla.edu/getting-to-ucla/public-transit">Public Transit</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://covid-19.ucla.edu/">COVID-19</a></li>
-        </ul>
-      </div>
-
-      <div class="li-links__container">
-        <h5 class="li-links__header">Community</h5>
-        <ul class="li-links__list">
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://alumni.ucla.edu/">Alumni</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://alumni.ucla.edu/parents/">Parents &amp; <br class="li-links__mobile-break">Families</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://apo.ucla.edu/">Faculty</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://campusservices.ucla.edu/">Staff</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://errc.ucla.edu">Emeriti &amp; Retirees</a></li>
-        </ul>
-      </div>
-
-      <div class="li-links__container">
-        <h5 class="li-links__header">Venue &amp; Events</h5>
-        <ul class="li-links__list">
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://luskinconferencecenter.ucla.edu/">Conference Center &amp; Hotel</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://events.ucla.edu/filming-at-ucla/commercial-external-filming">Film Production</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://events.ucla.edu/">Event Planning</a></li>
-        </ul>
-      </div>
-
-      <div class="li-links__container">
-        <h5 class="li-links__header">Related Sites</h5>
-        <ul class="li-links__list">
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://uclabruins.com/">Athletics</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://www.uclaextension.edu/">Extension</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://www.uclahealth.org/?utm_source=ucla.edu">Health</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://www.uclastore.com">Store</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://giveto.ucla.edu/">Giving</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://100.ucla.edu/">Centennial</a></li>
-        </ul>
-      </div>
-
-      <div class="li-links__container">
-        <h5 class="li-links__header">The Arts</h5>
-        <ul class="li-links__list">
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://goarts.ucla.edu/">Campus Arts Offerings</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://hammer.ucla.edu/">Hammer Museum</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://fowler.ucla.edu/">Fowler Museum</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://cap.ucla.edu/">Center for the Art of Performance</a></li>
-          <li class="li-links__list-item"><a class="li-links__list-link--dark" href="https://www.cinema.ucla.edu/">Film & Television Archive</a></li>
-        </ul>
-      </div>
-
-    </nav>
-
-  </div>
-</div>
-    <!-- Global Footer -->
-<div class="ucla campus global-foot">
-
-  <div class="social-links-container mt-24">
-    <a class="social-icon" href="https://www.facebook.com/UCLA/"><span class="social-icon--facebook"></span><span class="visuallyhidden">Facebook</span></a>
-    <a href="https://www.instagram.com/ucla/"><span class="social-icon--instagram"></span><span class="visuallyhidden">Instagram</span></a>
-    <a href="https://www.linkedin.com/school/ucla"><span class="social-icon--linkedin"></span><span class="visuallyhidden">Linked</span></a>
-    <a href="https://twitter.com/ucla"><span class="social-icon--twitter"></span><span class="visuallyhidden">X</span></a>
-    <a href="https://www.youtube.com/user/UCLA"><span class="social-icon--youtube"></span><span class="visuallyhidden">Youtube</span></a>
-    <a href="https://www.tiktok.com/@ucla?lang=en"><span class="social-icon--tiktok"></span><span class="visuallyhidden">TikTok</span></a>
-    <a href="https://www.threads.net/@ucla"><span class="social-icon--threads"></span><span class="visuallyhidden">Threads</span></a>
-  </div>
-
-  <div class="global-foot__legal">
-
-    <p class="global-foot__legal--copyright mt-32">&copy; 2024 Regents of the <a class="copy__link-a dark" href="http://www.universityofcalifornia.edu/">University of California</a></p>
-
-    <ul class="global-foot__legal--list mt-lg-24">
-      <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="https://www.bso.ucla.edu/">Emergency</a></li>
-      <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="/accessibility">Accessibility</a></li>
-      <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="https://ucla-gme-advocate.symplicity.com/public_report/index.php/pid031251">Report Misconduct</a></li>
-      <!-- <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="#">Communication Preferences</a></li> -->
-      <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="/terms-of-use/">Privacy &amp; Terms of Use</a></li>
-    </ul>
-
-  </div>
-</div>
-    <section id="cookie-policy" aria-labelledby="cookie-policy-heading">
-    <div class="cookie">
-        <h2 id="cookie-policy-heading" class="visuallyhidden">Cookie Policy</h2>
-        <p class="cookie__copy">We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent; however, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and revised
-            <a class="cookie__link light" href="/terms-of-use/">Privacy Policy</a>.
-        </p>
-        <button class="cookie__btn--accept" type="button" id="cookie-policy-btn">I&nbsp;Accept</button>
-    </div>
-</section>
-
-</footer>
-<div id="holiday-container"></div>
-
-<script type="text/javascript" src="/js/vendor/jquery.min.js" ></script>
-<script type="text/javascript" src="https://s3-us-west-1.amazonaws.com/webcomponents.ucla.edu/public/1.0.0-beta.15/js/ucla-lib-scripts.min.js"></script>
-<script type="text/javascript" src="/js/vendor/jquery.hideseek.min.js" ></script>
-<script type="text/javascript" src="/js/vendor/stupidtable.min.js" ></script>
-<script type="text/javascript" src="/js/vendor/jquery.scrollTo.min.js"></script>
-<script type="text/javascript" src="/js/vendor/masonry.pkgd.min.js" ></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.6/jquery.fancybox.min.js"></script>
-<script type="text/javascript" src="/js/vendor/lazyload.min.js"></script>
-<script type="text/javascript" src="/js/main.js?ver=121222"></script>
-
-<script type="text/javascript">
-  var $ = jQuery.noConflict();
-  $('.fancybox').fancybox();
-</script>
-
-<script
-  async
-  src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.8.3/dist/lazyload.min.js"
-></script>
-</body>
-
-</html>
+Our University’s Facts and Figures at a Glance | UCLA |   UCLA
+Skip to Navigation
+Skip to Navigation
+Skip to Search
+Skip to Search
+Skip to Main Content
+Skip to Footer Links
+Events
+Newsroom
+Magazine
+Alumni
+Arts
+Careers
+Give
+Facts & Figures
+An overview of the data that makes UCLA unique
+One of our greatest values as a university lies in our ability to positively impact society by bringing together diverse minds from around the world and celebrating different points of view.
+Here, we take pride in providing opportunity, regardless of socioeconomic background. We also cherish the
+diversity
+of our community, an inclusive environment that welcomes and values people from all walks of life and prepares students to be successful in today’s global society.
+The following statistics and facts illustrate the range and depth of the University of California, Los Angeles.
+32,423
+Undergraduate Students
+14,007
+Graduate Students
+5,247
+International Students
+7,941
+Faculty Members
+106
+Countries Represented by Students
+29%
+First-Generation Undergraduates
+9%
+International Undergraduates
+27%
+Undergraduates Receive Pell Grants
+Diversity
+Student Diversity by Ethnicity
+Ethnicity among undergraduate and graduate students
+Ethnicity
+Undergraduate
+Graduate
+African American
+6%
+6%
+American Indian & Alaska Native
+<1%
+<1%
+Asian & Pacific Islander
+35%
+21%
+Hispanic
+21%
+13%
+White
+26%
+27%
+Other Domestic or Unknown
+4%
+5%
+Student Diversity by Residency
+Residency among undergraduate and graduate students
+Residency
+Undergraduate
+Graduate
+CA Residents
+78%
+45%
+Domestic Non-Residents
+13%
+9%
+International Non-Residents
+9%
+17%
+Unknown
+28%
+Student Diversity by Gender
+Gender among undergraduate and graduate students
+Gender
+Undergraduate
+Graduate
+Male
+39%
+49%
+Female
+60%
+49%
+Non-Binary
+1%
+2%
+Enrollment
+Student Enrollment in the College
+College of Letters and Science enrollment among undergraduate and graduate students
+College of Letters and Science
+Undergraduate
+Graduate
+Total
+Humanities
+2,184
+448
+2,632
+Life Sciences
+9,248
+607
+9,855
+Physical Sciences
+4,315
+951
+5,266
+Social Sciences
+8,589
+915
+9,504
+Institute of the Environment
+404
+33
+437
+International Institute
+441
+38
+479
+General
+291
+-
+291
+Total
+25,473
+2,991
+28,464
+Student Enrollment in Professional Schools
+Professional schools enrollment among undergraduate and graduate students
+Professional Schools
+Undergraduate
+Graduate
+Total
+Arts and Architecture
+592
+282
+874
+Education & Information Studies
+6
+745
+751
+Engineering
+3,923
+2,185
+6,108
+Law
+-
+1,086
+1,086
+Management
+-
+2,250
+2,250
+Music
+347
+144
+491
+Public Affairs
+154
+525
+679
+Theater, Film and Television
+347
+316
+663
+Total
+5,368
+7,532
+12,900
+Total Student Enrollment in the College and Professional Schools
+General campus enrollment among undergraduate and graduate students
+General Campus
+Undergraduate
+Graduate
+Total
+Total College and Professional Schools
+30,841
+10,523
+41,364
+Student Enrollment in Health Sciences
+Health sciences enrollment among undergraduate and graduate students
+Health Sciences
+Undergraduate
+Graduate
+Total
+Biomedical
+595
+-
+595
+Dentistry
+-
+498
+498
+Medicine
+-
+991
+991
+Nursing
+199
+416
+614
+Public Health
+-
+607
+607
+Interns and Residents
+-
+1,330
+1,330
+Total Professional Schools
+794
+3,842
+4,636
+Total Student Enrollment at UCLA
+Total enrollment among undergraduate and graduate students
+UCLA Total Enrollment
+32,423
+14,007
+46,430
+If you’d like to dig deeper into the numbers, the statistics on this page were sourced here:
+University of California Fall Statistics
+,
+UCLA Campus Statistics
+, and
+UCLA Faculty and Staff
+.
+Related
+Profile of Admitted Freshmen
+Profile of Admitted Transfers
+Undergraduate Profiles by Year
+Academic Statistics
+Los Angeles 90095
+(310) 825-4321
+Facebook
+Instagram
+Linked
+X
+Youtube
+TikTok
+Threads
+© 2024 Regents of the
+University of California
+Emergency
+Accessibility
+Report Misconduct
+Privacy & Terms of Use
+Cookie Policy
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent; however, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and revised
+Privacy Policy
+.
+I Accept

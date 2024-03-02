@@ -1,68 +1,32 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
-  <meta http-equiv="content-type"
- content="text/html; charset=ISO-8859-1">
-  <title>FLAPPS</title>
-</head>
-<body
- style="background-image: url(file:///Users/jjmartin/Desktop/FLAPPS.html); color: rgb(0, 0, 0); background-color: rgb(0, 0, 153);"
- link="#000099" vlink="#990099" alink="#000099">
-<br>
-<hr
- style="width: 100%; font-weight: bold; height: 5px; color: rgb(255, 255, 204);"><big
- style="font-style: italic;"><br>
-</big>
-<div
- style="text-align: center; font-family: helvetica,arial,sans-serif; color: rgb(255, 255, 204);"><big><big><span
- style="font-weight: bold; font-style: italic;"><font size="+1"><big>FLAPPS
-<br>
-A Forwarding Layer for Application-Level Peer-to-Peer Services</big></font></span><br>
-</big></big></div>
-<big style="color: rgb(255, 255, 204);"><span style="font-weight: bold;"><font
- size="+1"><span style="font-family: helvetica,arial,sans-serif;"><br>
-</span></font></span></big>
-<div style="text-align: center; color: rgb(255, 255, 204);"><big
- style="font-family: helvetica,arial,sans-serif;"><span
- style="font-weight: bold;">DARPA Contract N66001-02-1-8906</span></big><br
- style="font-family: helvetica,arial,sans-serif;">
-<big><span style="font-weight: bold;"><span
- style="font-family: helvetica,arial,sans-serif;">January 2001 to
-January 2004</span><br style="font-family: helvetica,arial,sans-serif;">
-<span style="font-family: helvetica,arial,sans-serif;">Principal
-Investigator: Scott Michel</span><br>
-<br>
-</span></big>
-<hr style="width: 100%; height: 5px;"><big><span
- style="font-weight: bold;"><br>
-</span></big></div>
-<font size="+2"
- style="font-family: helvetica,arial,sans-serif; color: rgb(255, 255, 204);"><span
- style="font-weight: bold;">Project Summary</span></font><br
- style="color: rgb(255, 255, 204);">
-<br style="color: rgb(255, 255, 204);">
-<span style="font-weight: bold; color: rgb(255, 255, 204);">The FLAPPS
+FLAPPS
+FLAPPS
+A Forwarding Layer for Application-Level Peer-to-Peer Services
+DARPA Contract N66001-02-1-8906
+January 2001 to
+January 2004
+Principal
+Investigator: Scott Michel
+Project Summary
+The FLAPPS
 project investigated the use of a toolkit approach to building peer
-networks for various purposes.&nbsp; The FLAPPS toolkit eases the
+networks for various purposes.  The FLAPPS toolkit eases the
 development of overlay peer networks by treating the problem of
-communcations among peers as an issue of routing.&nbsp; Thus, the
-toolkit assist<big>s</big> in the building of peer topologies, running
+communcations among peers as an issue of routing.  Thus, the
+toolkit assist
+s
+in the building of peer topologies, running
 routing protocols among the peers, and forwarding messages from peer to
 peer in a manner suited for the particular needs of individual peer
-networks.&nbsp; Since any given peer network may have its own special
+networks.  Since any given peer network may have its own special
 requirements in any of these areas, FLAPPS allows customization of
-topology construction, routing protocols and forwarding behaviors.</span><br
- style="font-weight: bold; color: rgb(255, 255, 204);">
-<br style="font-weight: bold; color: rgb(255, 255, 204);">
-<span style="font-weight: bold; color: rgb(255, 255, 204);">Peer
+topology construction, routing protocols and forwarding behaviors.
+Peer
 networks open new possibilities for DDoS attacks, particularly since
 each message sent in such a network typically requires much more
-handling than a simple IP packet.&nbsp; Thus, participation in a peer
+handling than a simple IP packet.  Thus, participation in a peer
 network gives attackers a mechanism to amplify the effects of every
-attack packet they send to a machine.&nbsp; FLAPPS can be used to
-counteract this effect.&nbsp; It can spread traffic through the entire
+attack packet they send to a machine.  FLAPPS can be used to
+counteract this effect.  It can spread traffic through the entire
 peer network, filter traffic, validate the source of the traffic,
 construct topologies less susceptible to DDoS attack, and use routing
-protocol features to speed recovery from attacks.&nbsp; </span><br>
-</body>
-</html>
+protocol features to speed recovery from attacks.

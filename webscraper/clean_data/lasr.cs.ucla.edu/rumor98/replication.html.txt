@@ -1,44 +1,15 @@
-<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
-<html>
-<head>
-  <meta http-equiv="Content-Type"
- content="text/html; charset=iso-8859-1">
-  <meta name="GENERATOR"
- content="Mozilla/4.79 [en] (X11; U; Linux 2.4.18-3smp i686) [Netscape]">
-  <title>Rumor: Replication for Mobile Computers</title>
-  <link rel="stylesheet" type="text/css" href="style.css"
- title="1.5 spacing">
-</head>
-<body
- style="color: rgb(128, 0, 128); background-color: rgb(255, 255, 255);"
- link="#40e0d0" vlink="#00bfff" alink="#000000">
-<center></center>
-<center>
-<table width="600">
-  <tbody>
-    <tr height="15">
-      <td>
-      <div
- style="text-align: center; font-family: brush script mt; color: rgb(153, 51, 153);">
-      <big><big><font size="+2"><big><big><span
- style="font-weight: bold;">RUMOR</span></big></big></font></big></big><br>
-      </div>
-      <br
- style="font-family: brush script mt; color: rgb(153, 51, 153);">
-      <div style="text-align: center;"><big style="font-weight: bold;"><big
- style="color: rgb(153, 51, 153);"><big
- style="font-family: brush script mt;"><big>Replication for Mobile
-Computers</big></big></big><br style="color: rgb(153, 51, 153);">
-      <br>
-      </big> </div>
-      </td>
-    </tr>
-    <tr>
-      <td><font size="+1">The <b><i><a
- href="http://www.lasr.cs.ucla.edu/travler98/welcomeframe.html">Travler
-project</a></i></b> developed several mobile data replication services.
-The most mature of these was <b><i>Rumor</i></b>.&nbsp;</font>
-      <p><font size="+1">Rumor is a file replication system that can be
+Rumor: Replication for Mobile Computers
+RUMOR
+Replication for Mobile
+Computers
+The
+Travler
+project
+developed several mobile data replication services.
+The most mature of these was
+Rumor
+.
+Rumor is a file replication system that can be
 used to
 keep multiple copies of files consistent. Rumor is especially useful
 for
@@ -57,82 +28,52 @@ permits
 any accessible replica to be updated, thus allowing disconnected
 portable
 computers to not only read, but also write, their local file
-replicas.&nbsp;</font></p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</center>
-<p>
-</p>
-<hr width="600">
-<center>
-<table width="600">
-  <tbody>
-    <tr>
-      <td><img src="rumor-icon-small-transparent.gif"
- alt="The Rumor icon appears here." align="right">
-      <center><br>
-      </center>
-      <p><font size="+1">Rumor is a portable optimistic replicated file
+replicas.
+Rumor is a portable optimistic replicated file
 service
 built as a wrapper around an existing file system. A Linux version of
 Rumor
-is up and running, with a <a href="http://www.lasr.cs.ucla.edu/rumor">beta
-release </a>available on the web. <a
- href="http://www.lasr.cs.ucla.edu/travler/rumor_portability.html">Rumor
-portability</a> is achieved by dividing the system's functionality into
+is up and running, with a
+beta
+release
+available on the web.
+Rumor
+portability
+is achieved by dividing the system's functionality into
 a larger system independent replication service and a smaller system
 dependent
-service.&nbsp;</font> </p>
-      <p><font size="+1">Rumor uses important algorithms and data
+service.
+Rumor uses important algorithms and data
 structures originally
-built for <a href="../ficus/ficus_summary.html">Ficus</a>. Ficus is
+built for
+Ficus
+. Ficus is
 a
-successful in-kernel replication service based on SunOS 4.1.1.&nbsp;</font>
-      </p>
-      <p><font size="+1">Since Rumor is a user-level system, it can be
+successful in-kernel replication service based on SunOS 4.1.1.
+Since Rumor is a user-level system, it can be
 installed
-and maintained by normal users. No root privileges are required.&nbsp;</font>
-      </p>
-      <p><font size="+1">Rumor's optimistic replication strategy will
+and maintained by normal users. No root privileges are required.
+Rumor's optimistic replication strategy will
 permit concurrent
 updates which can lead to inconsistent replicas of a single file. Rumor
 detects such inconsistencies and applies automated mechanisms to
 resolve
-them.&nbsp;</font> </p>
-      <p><font size="+1">We are currently working on other replication
+them.
+We are currently working on other replication
 solutions
 to mobile computing problems, including a file hoarding service for
 portable
-computers (<a href="http://www.lasr.cs.ucla.edu/seer/seer_new.html">Seer</a>)
+computers (
+Seer
+)
 and a file replication service capable of supporting hundreds of
 writable
-replicas.&nbsp;</font></p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</center>
-<p>
-</p>
-<hr width="600">
-<center>
-<table width="600">
-  <tbody>
-    <tr>
-      <td><a href="er98wmda.pdf">The primary Rumor paper </a>was
+replicas.
+The primary Rumor paper
+was
 presented
-at the ER'98 Workshop on Mobile Data Access.&nbsp;
-      <p><a href="/travler/rumor_position_paper.html">A position paper
-on Rumor </a>was presented in the SIGCOMM Workshop on Middleware. <br>
-      <br>
-Last modified: September 2005<br>
-      </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</center>
-</body>
-</html>
+at the ER'98 Workshop on Mobile Data Access.
+A position paper
+on Rumor
+was presented in the SIGCOMM Workshop on Middleware.
+Last modified: September 2005

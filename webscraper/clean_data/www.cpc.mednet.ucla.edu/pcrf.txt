@@ -1,616 +1,121 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
-  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-<html lang="en" dir="ltr"
-  xmlns:og="http://ogp.me/ns#"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/terms/"
-  xmlns:foaf="http://xmlns.com/foaf/0.1/"
-  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xmlns:sioc="http://rdfs.org/sioc/ns#"
-  xmlns:sioct="http://rdfs.org/sioc/types#"
-  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-<head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortcut icon" href="https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
-<meta name="description" content="Elevate your EMS research journey with UCLA&#039;s Center for Prehospital Care. Explore cutting-edge resources, participate in the renowned ESO/PCRF Research Forum, and engage in high-impact educational webinars. Join a community dedicated to advancing prehospital care. Apply now for the upcoming Research Workshop!" />
-<meta name="abstract" content="Discover a world of opportunities in EMS research at UCLA&#039;s Center for Prehospital Care. Immerse yourself in the ESO/PCRF Research Forum, where front-line clinicians connect with mentors and statisticians to accelerate projects. Dive into educational webinars and explore abstracts from international scientific symposiums. Join us in shaping the future of prehospital care." />
-<meta name="keywords" content="EMS Research, Prehospital Care, ESO/PCRF Research Forum, Educational Webinars, EMS World EXPO, International Scientific Symposium, Clinical Mentorship, Statistician Support, Evidence-Based Practice, EMS Research Workshop, Prehospital Emergency Care, Journal Club, Abstracts, Research Symposiums, EMS Education, Pediatric Transport, Prehospital Care Resources, UCLA Center for Prehospital Care" />
-<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
-<link rel="canonical" href="https://www.cpc.mednet.ucla.edu/pcrf" />
-<link rel="shortlink" href="https://www.cpc.mednet.ucla.edu/node/110" />
-<meta property="og:site_name" content="UCLA CPC" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.cpc.mednet.ucla.edu/pcrf" />
-<meta property="og:title" content="Prehospital Care Research Forum" />
-<meta property="og:description" content="2024 Call for Abstracts Submissions are now open for 2024 abstracts. Abstracts are due June 30, 2024. 2024 Call for Abstracts  2024 Call for Abstracts! Submissions are now open for 2024 abstracts. The best clinical research for 2024 will receive $500 USD cash award and a travel grant of up to $,2000 USD to present your research at an over-seas international conference." />
-<meta property="og:updated_time" content="2024-02-15T18:48:05-08:00" />
-<meta property="article:published_time" content="2016-02-10T16:40:28-08:00" />
-<meta property="article:modified_time" content="2024-02-15T18:48:05-08:00" />
-  <title>Prehospital Care Research Forum | UCLA CPC</title>
-  <style>
-@import url("https://www.cpc.mednet.ucla.edu/modules/system/system.base.css?s8lm5r");
-</style>
-<style>
-@import url("https://www.cpc.mednet.ucla.edu/modules/field/theme/field.css?s8lm5r");
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/filebrowser/css/filebrowser_style.css?s8lm5r");
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/views/css/views.css?s8lm5r");
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ckeditor/css/ckeditor.css?s8lm5r");
-</style>
-<style>
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ctools/css/ctools.css?s8lm5r");
-</style>
-<link type="text/css" rel="stylesheet" href="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.css?s8lm5r" media="all" />
-<style>
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/css/style.css?s8lm5r");
-</style>
-  <!-- HTML5 element support for IE6-8 -->
-  <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_YndZxdyT8-8LUpZC5MssOCg5j7KN4UJGOzCX7A0hGKI.js"></script>
-<script src="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.js?s8lm5r"></script>
-<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_sGFJ0aln9SHwpHdKSzoE8Cdcd6RIMEIfIGrifGaUeBw.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cpc_bootstrap","theme_token":"DxIwkPgxc2kqJ8_YjyRaBLU8JMk-K4iLv18O05K4f6k","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"https:\/\/code.jquery.com\/jquery-3.7.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/contrib\/popup\/popup.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/cpc_bootstrap\/cpc_js.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/filebrowser\/css\/filebrowser_style.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/popup\/popup.css":1,"sites\/all\/themes\/cpc_bootstrap\/css\/style.css":1}},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":250,"delay":0},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
-      </head>
-<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-110 node-type-pcrf-page" >
-  <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-  </div>
-    <header id="navbar" role="banner">
-	<div class="container containerlogin">
-		<div class="login-header">
-			Welcome [Student Login / Register] 
-			<span class="glyphicon glyphicon-shopping-cart"></span>
-			0 Cart items
-		</div>
-	</div>
-
-  <div class="containernavbar container navbar-default">
-    <div class="navbar-header">
-      				<a class="logo navbar-btn pull-left" href="/" title="Home">
-					<img src="https://www.cpc.mednet.ucla.edu/sites/default/files/images/cpc_logo-323x32.png" alt="Home" id="logo" class="img-responsive" />
-				</a>
-      
-      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-    </div>
-	
-	<!--
-          <div class="navbar-collapse collapse">
-        <nav role="navigation">
-                      <ul class="menu nav navbar-nav"><li class="first expanded dropdown"><a href="/cpc/course-listings" title="Our Courses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Courses <span class="caret"></span></a><ul class="dropdown-menu"><li class="first collapsed"><a href="/emt-courses">EMT</a></li>
-<li class="collapsed"><a href="/paramedic-courses">Paramedic</a></li>
-<li class="leaf"><a href="/content/licensed-phlebotomist-course">Licensed Phlebotomist</a></li>
-<li class="expanded"><a href="/aha-courses">BLS, ACLS &amp; PALS</a></li>
-<li class="expanded"><a href="/cpr-first-aid-courses">CPR &amp; First Aid</a></li>
-<li class="last collapsed"><a href="/trauma-courses">Trauma &amp; NAEMT Courses</a></li>
-</ul></li>
-<li class="expanded dropdown"><a href="/students" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Students <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/services/payment-methods">Payment Methods</a></li>
-<li class="leaf"><a href="/services/payment-plan">Payment Plan</a></li>
-<li class="leaf"><a href="/services/refunds-transfers">Refunds &amp; Transfers</a></li>
-<li class="leaf"><a href="/services/transcripts">Transcripts</a></li>
-<li class="leaf"><a href="/services/financial-aid">Scholarships</a></li>
-<li class="leaf"><a href="/veterans">Veteran&#039;s Assistance Benefits</a></li>
-<li class="leaf"><a href="/services/students-with-disabilities">Educational Accommodations</a></li>
-<li class="last leaf"><a href="/services/college-credit">College Credit &amp; CEUs</a></li>
-</ul></li>
-<li class="expanded dropdown"><a href="/services" title="Services for agencies, hospitals, and businesses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/fdqi" title="node/572">Fire Department Quality Improvement</a></li>
-<li class="last leaf"><a href="/international">International</a></li>
-</ul></li>
-<li class="last expanded dropdown"><a href="/content/about-us" data-target="#" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/about/contact">Contact Us</a></li>
-<li class="leaf"><a href="/giving">Giving</a></li>
-<li class="leaf"><a href="/content/ucla-center-prehospital-care-strategic-plan">Strategic Plan</a></li>
-<li class="leaf"><a href="/about/leadership">Leadership</a></li>
-<li class="leaf"><a href="/diversity-resources">Equity, Diversity &amp; Inclusion</a></li>
-<li class="leaf"><a href="/about/history">Our History</a></li>
-<li class="leaf"><a href="/about/employment">Jobs at the Center</a></li>
-<li class="last leaf"><a href="https://www.uclahealth.org/privacy-practices" title="">Privacy Practices</a></li>
-</ul></li>
-</ul>                                      </nav>
-      </div>
-    	-->
-  </div>
-	
-<!--
-	<div class="container">
-			</div>
--->
-	</header>
-
-<div class="main-container container">
-
-  <header role="banner" id="page-header">
-    
-      </header> <!-- /#page-header -->
-
-  <div class="row">
-
-    <div class="col-sm-9 xcol-sm-push-3 col-md-float-right">
-            <a id="main-content"></a>
-            <!--
-			        <h1 class="page-header">Prehospital Care Research Forum</h1>
-      			-->
-			<!-----------.---------->
-							<div class="page-header-image">
-					<img class="img-responsive header-image" src="https://www.cpc.mednet.ucla.edu/sites/default/files/pcrf_images/page_image_pcrf.jpg">
-					<h1 class="page-header onimage">Prehospital Care Research Forum</h1>
-				</div>
-						<!--------------------->
-			                                      		</div>
-		
-          <div class="col-sm-3 xcol-sm-pull-9 col-md-float-left" role="complementary">
-          <div class="region region-sidebar-first">
-    <div id="block-block-7" class="block block-block">
-
-    
-  <div class="content">
-    <p>
-	<a href="/pcrf"><img src="/sites/default/files/pcrf_images/pcrf_logo-220x150-fullname.png" style="width:220px;height:60px;border:none" /></a></p>
-  </div>
-</div>
-<div id="block-menu-block-11" class="block block-menu-block">
-
-    
-  <div class="content">
-    <div class="menu-block-wrapper menu-block-11 menu-name-menu-pcrf-menu parent-mlid-0 menu-level-1">
-  <ul class="menu nav"><li class="first leaf active-trail active menu-mlid-2072 active"><a href="/pcrf" title="" class="active-trail active">PCRF Home</a></li>
-<li class="leaf menu-mlid-2211"><a href="/researchforum/online-education" title="">Education &amp; Podcasts</a></li>
-<li class="leaf menu-mlid-2089"><a href="/pcrf/workshops" title="">Host a Workshop</a></li>
-<li class="leaf menu-mlid-2090"><span title="" class="nolink" tabindex="0">Resources</span></li>
-<li class="leaf menu-mlid-2080"><a href="/pcrf/articles" title="">Articles</a></li>
-<li class="leaf menu-mlid-2085"><a href="/pcrf/links" title="">External Resources</a></li>
-<li class="leaf menu-mlid-3825"><a href="https://info.psglearning.com/fisdap-research-101" title="">Research 101 Online Course</a></li>
-<li class="leaf menu-mlid-3183"><a href="/pcrf/guide-to-evidence-based-practice" title="">Guide to Evidence Based Practice</a></li>
-<li class="leaf menu-mlid-3248"><a href="/pcrf/irb-guide" title="">IRB Guide</a></li>
-<li class="leaf menu-mlid-2092"><a href="https://www.cpc.mednet.ucla.edu/pcrf-abs/abstracts.asp" title="">Search PCRF Abstracts</a></li>
-<li class="leaf menu-mlid-2283"><a href="https://www.cpc.mednet.ucla.edu/pcrf-abs/login.shtml" title="">Reviewer Login</a></li>
-<li class="leaf menu-mlid-2091"><span title="" class="nolink" tabindex="0">About</span></li>
-<li class="leaf menu-mlid-2087"><a href="/pcrf/mission" title="">Mission</a></li>
-<li class="leaf menu-mlid-2082"><a href="/pcrf/committees" title="">Committees &amp; Members</a></li>
-<li class="leaf menu-mlid-2088"><a href="/pcrf/partners" title="">Partners</a></li>
-<li class="leaf menu-mlid-2083"><a href="/pcrf/join" title="">How to Join</a></li>
-<li class="last leaf menu-mlid-2076"><a href="/pcrf/contact" title="">Contact PCRF</a></li>
-</ul></div>
-  </div>
-</div>
-  </div>
-      </div>  <!-- /#sidebar-first -->
-    		
-    <div class="col-sm-9 xcol-sm-push-3 col-md-float-right">
-        <div class="region region-content">
-    <div id="block-system-main" class="block block-system">
-
-    
-  <div class="content">
-    <div id="node-110" class="node node-pcrf-page clearfix" about="/pcrf" typeof="sioc:Item foaf:Document">
-
-	<!--
-  	-->
-      <span property="dc:title" content="Prehospital Care Research Forum" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
-  <div class="content">
-    
-		<!--
-					<div class="page-header-image">
-				<img class="img-responsive header-image" src="https://www.cpc.mednet.ucla.edu/sites/default/files/pcrf_images/page_image_pcrf.jpg">
-				<h1 class="page-header onimage">Prehospital Care Research Forum</h1>
-			</div>
-				-->
-		
-		<!--
-This file is not used by Drupal core, which uses theme functions instead.
-See http://api.drupal.org/api/function/theme_field/7 for details.
-After copying this file to your theme's folder and customizing it, remove this
-HTML comment.
--->
-          <style type="text/css">.equal {
-  display: flex;
-  display: -webkit-flex;
-  flex-wrap: wrap;
-}
-.row .hpgrid {
-    margin-left: -4px;
-    margin-right: -4px;
-}
-.row .hpgrid div.gridslot{
-    padding-right:4px;
-    padding-left:4px;
-    background-clip: content-box !important;
-}
-.row .hpgrid div.gridslot a, .row .hpgrid div.gridslot img, .row .hpgrid div img{
-    display: flex;
-    display: -webkit-flex;
-    align-self: flex-end;
-}
-.row div.featureslot {
-	padding:2em;
-}
-p.leadsmall {
-	font-size:16px;
-	color:#c8c8c8;
-}
-button.webform-submit {
-	text-align:center;
-	display: inline-block;
-	float:right;
-	margin-top: 20px;
-	margin-bottom: 20px;
-	min-width:30%;
-}
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: "Roboto-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: 400;
-}
-.hpbluebox a {
-	color: #000;
-}
-.hpbluebox h2 {
-	font-size:36px;
-}
-@media (max-width: 768px) {
-  .hpbluebox h2 {
-    font-size: 4vw !important;
-    line-height: 4vw !important;
-  }
-  .hpgrid h2, .tagline h2, .tagline h3 {
-    font-size: 4vw !important;
-    line-height: 4vw !important;
-  }
-  .row div.featureslot {
-	padding-top:1em;
-	padding-bottom:1em;
-  }
-  .row div.featureslot.xs-nopad-bottom {
-	padding-bottom:0px;
-  }
-  .row div.featureslot.xs-nopad-top {
-	padding-top:0px;
-  }
-}
-</style><div class="row hide" style="margin-bottom:20px;">
-<h3>
-		2024 Call for Abstracts</h3>
-<p>
-		Submissions are now open for 2024 abstracts. <b>Abstracts are due June 30, 2024.</b> <a class="btn btn-primary btn-md rtecenter" href="/pcrf/callforabstracts" role="button">2024 Call for Abstracts</a></p>
-</div>
-<!---- CALL FOR ABSTRACTS ----><div class="row show" style="margin-bottom:20px; background-color: #666666; padding-bottom:0em;">
-<div class="col-md-5" style="padding:0em; background-color: #000000;">
-		<a href="/pcrf/callforabstracts"><img alt="" class="img-responsive" src="/sites/default/files/pcrf_attached_files/PCRF-HP-Call-Abstracts-Image_1.jpg" /></a></div>
-<div class="col-md-7 clearfix" style="padding:0em;">
-<div style="background-color:#00A5E5; padding:15px;">
-<h3 style="color:#FFF;margin-top:20px;">
-				2024 Call for Abstracts!</h3>
-<p style="color:#FFF;margin-top:20px;">
-				Submissions are now open for 2024 abstracts. The best clinical research for 2024 will receive $500 USD cash award and a travel grant of up to $,2000 USD to present your research at an over-seas international conference.</p>
-</div>
-<div class="rtecenter" style="padding:15px; background-color: #666666;">
-<p>
-				<a class="btn btn-primary btn-md rtecenter" href="/pcrf/callforabstracts" role="button">Call for Abstracts</a></p>
-</div>
-</div>
-</div>
-<!-- UPCOMING 3-DAY WEINMANN WEBINAR BOX --><div class="row hide" style="margin-bottom:20px; margin-top:20px; background-color: #666666; padding-bottom:0em;clear:both;">
-<div class="col-md-7 clearfix" style="padding:0em;">
-<div style="background-color:#00A5E5; padding:15px;">
-<h3 style="color:#FFF;margin-top:20px;">
-				PCRF/WEINMANN Emergency<br />
-				Utah Ventilation Research Summit</h3>
-<p style="color:#FFF;margin-top:10px;">
-				<strong>February 8-10 | Applications Due November 1, 2023</strong></p>
-<p style="color:#FFF;margin-top:20px;">
-				The PCRF/WEINMANN Emergency Utah Ventilation Research Summit is ideal for front-line clinicians and clinical leaders with innate curiosity and an itch to launch their next (or first!) EMS research project. The Research Summit matches participants with clinical mentors, methodologists, and statisticians to accelerate EMS research. This workshop is focused on concepts around breathing and ventilation.</p>
-<p style="color:#FFF;margin-top:20px;">
-				Learn the basics of EMS research, explore required data elements, work with a clinical mentor and statistician, start to develop a research abstract for submission, and more.</p>
-</div>
-<div class="rtecenter" style="padding:15px; background-color: #666666;">
-<p>
-				<a class="btn btn-primary btn-md enabled rtecenter" href="https://forms.gle/hx3aPFF4Acine1vj9" role="button">Apply Now</a></p>
-</div>
-</div>
-<div class="col-md-5" style="padding:0em; background-color: #000000;">
-		<img alt="Research Forum Workshop" class="img-responsive" src="/sites/default/files/pcrf_attached_files/Weinmann-PCRF-Research_0.jpg" /></div>
-</div>
-<!-- UPCOMING 3-DAY ESO WEBINAR BOX --><div class="row hide" style="margin-bottom:20px; margin-top:20px; background-color: #666666; padding-bottom:0em;clear:both;">
-<div class="col-md-5" style="padding:0em; background-color: #000000;">
-		<img alt="Research Forum Workshop" class="img-responsive" src="/sites/default/files/pcrf_attached_files/Research-Forum-Basics-FINAL-v1.jpg" /></div>
-<div class="col-md-7 clearfix" style="padding:0em;">
-<div style="background-color:#00A5E5; padding:15px;">
-<h3 style="color:#FFF;margin-top:20px;">
-				3-Day PCRF/ESO Research Workshop: Jump-start Your EMS Research</h3>
-<p style="color:#FFF;margin-top:10px;">
-				<strong>May 21 - 23 | Applications Due December 31, 2023</strong></p>
-<p style="color:#FFF;margin-top:20px;">
-				The ESO/PCRF Research Forum is ideal for front-line clinicians and clinical leaders with innate curiosity and an itch to launch their next (or first!) EMS research project. The Forum matches participants with clinical mentors, methodologists, and statisticians to accelerate EMS research.</p>
-<p style="color:#FFF;margin-top:20px;">
-				Learn the basics of EMS research, explore required data elements, work with a clinical mentor and statistician, start to develop a research abstract for submission, and more.</p>
-</div>
-<div class="rtecenter" style="padding:15px; background-color: #666666;">
-<p>
-				<a class="btn btn-primary btn-md enabled rtecenter" href="https://www.eso.com/events/research-forum-pcrf/" role="button">Apply Now</a></p>
-</div>
-</div>
-</div>
-<!--–– JOURNAL CLUB SECTION HEADER --><div class="row clearfix" style="margin-bottom:0px; margin-top:0px; background-color: #d7d7d7; border-top: 1px solid #ccc;">
-<div class="col-md-11 clearfix" style="padding:15px;">
-<h3 style="margin-top:0; margin-bottom:0">
-			Upcoming Journal Club Webinars and Podcasts!</h3>
-</div>
-<div class="col-md-1 clearfix">
-		&nbsp;</div>
-</div>
-<!--–– JOURNAL CLUB SWAP for FEATURES 01 CLINICAL --><div class="row hide" style="margin-bottom:0px; margin-top:0px; background-color: #ffffff; padding-bottom:0em; border-top: 7px solid #00A5E5; border-bottom: 7px solid #00A5E5;">
-<div class="col-md-3" style="padding:0em; background-color: #000000;">
-		<img alt="Featured Upcoming Journal Club Webinar" class="img-responsive" search="" src="/sites/default/files/pcrf_attached_files/PCRF-2024-Feb12-V1.png" /></div>
-<div class="col-md-9 clearfix" style="padding:15px;">
-<p style="margin-bottom:0px;">
-			<b>Next Journal Club Clinical Webinar - February 12, 2024</b></p>
-<h3 style="margin-top:3px;">
-			To Treat or Not to Treat: Atrial Fibrillation</h3>
-<p style="margin-top:10px;">
-			While most cardiac dysrhythmias fit nicely into a treatment algorithm, atrial fibrillation stands out as lacking clear-cut treatment guidelines. Concerns over patient outcome, and further cardiac damage leave many agencies favoring rapid transport and limited treatment.</p>
-<p style="margin-top:10px;">
-			Join this month's PCRF Journal Club to discuss a landmark paper that evaluates treating atrial fibrillation in the prehospital setting. <a href="#jc-sched">Register now!</a></p>
-</div>
-</div>
-<!--–– JOURNAL CLUB SWAP for FEATURES 02 EDUCATION --><div class="row show" style="margin-bottom:0px; margin-top:0px; background-color: #eeeeee; padding-bottom:0em; border-top: 1px solid #ccc;">
-<div class="col-md-3" style="padding:0em; background-color: #000000;">
-		<img alt="Featured Upcoming Journal Club Webinar" class="img-responsive" search="" src="/sites/default/files/pcrf_attached_files/PCRF-2024-Feb23-V2.png" /></div>
-<div class="col-md-9 clearfix" style="padding:15px;">
-<p style="margin-bottom:0px;">
-			<b>Next Journal Club Education Webinar - February 23, 2024</b></p>
-<h3 style="margin-top:3px;">
-			The ABCs: More Than a Mnemonic</h3>
-<p style="margin-top:10px;">
-			Checklists have become a part of every EMS provider’s day. We use them to check in our ambulances, ensure we have all our equipment, and help us prepare for low-frequency skills. However, can a checklist help us perform better in the field?</p>
-<p style="margin-top:10px;">
-			Join this month’s Education Journal Club as we review a study that evaluated if using an easy-to-remember checklist can improve cardiac arrest management. <a href="#jc-sched">Register now!</a></p>
-</div>
-</div>
-<!-- 2x MONTHLY PODCAST/WEBINAR FEATURE BOX and ENCORE WEBINAR BOX --><div class="row clearfix" id="jc-sched" style="margin-bottom:0px; margin-top:0px; background-color: #eee; border-top: 1px solid #ccc; border-bottom: 1px solid #ccc;">
-<div class="col-md-8 clearfix" style="padding:15px;">
-<h3 style="margin-top:0">
-			Join us for Two Live Monthly Webinars</h3>
-<p>
-			<a href="/researchforum/online-education"><strong>WEBINAR DETAILS &amp; ARCHIVES</strong></a></p>
-<!-- hr / --><div class="row">
-<div class="col-xs-6 clearfix">
-<p>
-					<b>PCRF Journal Club:<br />
-					Clinical Research</b><br />
-					Second Monday, noon CST<br />
-					Next date: March 11, 2024</p>
-<p style="text-align:center">
-					<a class="btn btn-primary btn-sm rtecenter enabled" href="https://us06web.zoom.us/webinar/register/6016813297555/WN_MUzpeLINSEGMp-hqNiQ0wg" role="button" style="line-height:.9;"><span aria-hidden="true" class="glyphicon glyphicon-calendar">&nbsp;</span>Register Now</a></p>
-</div>
-<div class="col-xs-6 clearfix" style="border-left: 1px solid #ccc;">
-<p>
-					<b>PCRF Journal Club:<br />
-					Education Research</b><br />
-					Fourth Friday, noon CST<br />
-					Next date: February 23, 2024</p>
-<p style="text-align:center">
-					<a class="btn btn-primary btn-sm rtecenter enabled" href="https://us06web.zoom.us/webinar/register/4516695699425/WN_t-2Bn_0-QJOo-i2CVAStBg" role="button" style="line-height:.9;"><span aria-hidden="true" class="glyphicon glyphicon-calendar">&nbsp;</span>Register Now</a></p>
-</div>
-</div>
-</div>
-<!-- ENCORE REPLAY WEBINAR WEEKLY UPDATE --><div class="col-md-4 clearfix" style="padding:0px;background-color:#cccccc;">
-		<a href="https://youtu.be/vXfqIMtcOFE" style="text-align: center;" target="_blank"><img alt="Journal Club Encore" class="img-responsive" src="/sites/default/files/pcrf_attached_files/PCRF-Journal-Club-Encore-HP-Thumb22.jpg " /></a></div>
-</div>
-<!--–– PODCAST LINKS --><div class="row clearfix" style="margin-bottom:20px; margin-top:0px; background-color: #d7d7d7; border-bottom: 1px solid #ccc;">
-<div class="col-xs-2 clearfix" style="padding:15px; text-align:right;">
-		<span aria-hidden="true" class="glyphicon glyphicon-headphones">&nbsp;</span>Webinar <a href="/researchforum/online-education">Archives</a>:</div>
-<div class="col-xs-2 clearfix" style="padding:15px; padding-left:0px">
-<div style="border-left: 1px solid #bbb; padding-left: 15px;">
-			<a href="https://www.youtube.com/@PCRFatUCLA" target="_blank"><img alt="Research Forum Workshop" class="img-responsive" src="/sites/default/files/pcrf_attached_files/YouTube-Podcasts.png" /></a></div>
-</div>
-<div class="col-xs-2 clearfix" style="padding:15px; padding-left:0px">
-<div style="border-left: 1px solid #bbb; padding-left: 15px;">
-			<a href="https://rss.com/podcasts/prehospitalcareresearchforum/" target="_blank"><img alt="Research Forum Workshop" class="img-responsive" src="/sites/default/files/pcrf_attached_files/RSS-Feed.png" /></a></div>
-</div>
-<div class="col-xs-2 clearfix" style="padding:15px; padding-left:0px">
-<div style="border-left: 1px solid #bbb; padding-left: 15px;">
-			<a href="https://podcasts.apple.com/us/podcast/prehospital-care-research-forum/id1667136316" target="_blank"><img alt="Apple" class="img-responsive" src="/sites/default/files/pcrf_attached_files/Apple-Podcasts.png" /></a></div>
-</div>
-<div class="col-xs-2 clearfix" style="padding:15px; padding-left:0px">
-<div style="border-left: 1px solid #bbb; padding-left: 15px;">
-			<a href="https://open.spotify.com/show/3MtHxlfl8zImgGAm1IHmjj" target="_blank"><img alt="Research Forum Workshop" class="img-responsive" src="/sites/default/files/pcrf_attached_files/Spotify.png" /></a></div>
-</div>
-<div class="col-xs-2 clearfix" style="padding:15px; padding-left:0px">
-<div style="border-left: 1px solid #bbb; padding-left: 15px;">
-			<a href="https://music.amazon.com/podcasts/91eaaab2-1bd3-4d0f-9f5d-13fd2aba91de" target="_blank"><img alt="Research Forum Workshop" class="img-responsive" src="/sites/default/files/pcrf_attached_files/Amazon-Music.png" /></a></div>
-</div>
-</div>
-<!-- 2023 ABSTRACTS ARTICLE BOX --><div class="row" style="margin-bottom:20px; margin-top:20px; background-color: #666666; padding-bottom:0em;clear:both;">
-<div class="col-md-7" style="padding:0em;">
-<div style="background-color:#00A5E5; padding:15px;">
-<h3 style="color:#FFF;margin-top:20px;">
-				2023 Abstracts Published</h3>
-<p style="color:#FFF;margin-top:20px;">
-				The Prehospital Care Research Forum (PCRF) at UCLA is pleased to present 37 abstracts from the International Scientific EMS Symposium held in September 2023 during the EMS World EXPO conference in New Orleans. Submissions scored by experts in prehospital care.</p>
-</div>
-<div class="rtecenter" style="padding:15px; background-color: #666666;">
-<p>
-				<a class="btn btn-primary btn-md rtecenter" href="https://www.tandfonline.com/doi/full/10.1080/10903127.2023.2277214" role="button">2023 Abstracts</a></p>
-</div>
-</div>
-<div class="col-md-5" style="padding:0em; background-color: #000000;">
-		<a href="https://www.tandfonline.com/doi/full/10.1080/10903127.2023.2277214" style="text-align:center;" target="_blank"><img alt="Article on Abstracts" class="img-responsive" src="/sites/default/files/pcrf_attached_files/Abstract-Montage-HP-Third-v2_0.jpg" /></a></div>
-</div>
-<!-- 2022 SYMPOSIUM GLOBAL CONFERENCE AND ABSTRACTS NEW --><div class="row clearfix" style="margin-bottom:20px; margin-top:10px; background-color: #eee; border-top: 1px solid #ccc; border-bottom: 1px solid #ccc;">
-<div class="col-sm-5 clearfix" style="padding:15px;">
-		<img alt="Abstracts" class="img-responsive" src="/sites/default/files/pcrf_attached_files/PCRF-ISS-Web-Thumbnail-22_0.jpg" /></div>
-<div class="col-sm-7 clearfix" style="padding:15px;">
-<h3 style="margin-top:0">
-			International Scientific Symposium 2022 - Orlando</h3>
-<p>
-			October 10, 2022 to October 14, 2022</p>
-<p>
-			The International Scientific EMS Symposium was held in October 2022 during the EMS World EXPO conference in Orlando. All submissions were reviewed and scored by experts in prehospital care, education, and research. Invited speakers presented and discussed the best research submitted to the Prehospital Care Research Forum this year. All abstracts are published and available.</p>
-<p>
-			<a class="btn btn-primary btn-md rtecenter hide disabled" href="" role="button"><span aria-hidden="true" class="glyphicon glyphicon-align-justify">&nbsp;</span>2022 Agenda</a> <a class="btn btn-primary btn-md rtecenter" href="/content/abstracts-list-view-2022" role="button"><span aria-hidden="true" class="glyphicon glyphicon-chevron-right">&nbsp;</span>2022 Abstracts</a></p>
-</div>
-</div>
-<!-- 2021 GLOBAL RESERCH CONFERENCE --><div class="row clearfix" style="margin-bottom:20px; margin-top:10px; background-color: #eee; border-top: 1px solid #ccc; border-bottom: 1px solid #ccc;">
-<div class="col-sm-5 clearfix" style="padding:15px;">
-		<img alt="Abstracts" class="img-responsive" src="/sites/default/files/pcrf_attached_files/PCRF-VC-Web-Thumbnail-21_0.jpg" /></div>
-<div class="col-sm-7 clearfix" style="padding:15px;">
-<h3 style="margin-top:0">
-			Did you miss it?<br />
-			International Research Conference 2021: Global Developments in EMS Research</h3>
-<p>
-			November 30, 2021 &amp; December 1, 2021</p>
-<p>
-			Panels and invited speakers presented and discussed more than 40 original research projects spanning topics of worldwide interest including current diseases, ethics, technology, and cultural competence in paramedicine. All 42 PCRF abstracts are now published and available at EMS World.</p>
-<p>
-			<a class="btn btn-primary btn-md rtecenter" href="/sites/default/files/pcrf_attached_files/international_conference_2021-211124-final.pdf" role="button" target="_blank"><span aria-hidden="true" class="glyphicon glyphicon-align-justify">&nbsp;</span>2021 Agenda</a> <a class="btn btn-primary btn-md rtecenter" href="https://www.hmpgloballearningnetwork.com/site/emsworld/original-contribution/pcrf-2021-research-abstracts" role="button"><span aria-hidden="true" class="glyphicon glyphicon-chevron-right">&nbsp;</span>2021 Abstracts</a></p>
-</div>
-</div>
-<!-- 2020 SYMPOSIUM --><div class="row clearfix" style="margin-bottom:20px; margin-top:10px; background-color: #eee; border-top: 1px solid #ccc; border-bottom: 1px solid #ccc;">
-<div class="col-sm-5 clearfix" style="padding:15px;">
-		<img alt="Abstracts" class="img-responsive" src="/sites/default/files/pcrf_attached_files/PCRF-ISS-Web-Thumbnail-20_0.jpg" /></div>
-<div class="col-sm-7 clearfix" style="padding:15px;">
-<h3 style="margin-top:0">
-			Did you miss it?<br />
-			International Scientific Symposium 2020 - Virtual</h3>
-<p>
-			November 20, 2020</p>
-<p>
-			On November 20, 2020, we took the International Scientific Symposium virtual for the year, with a day dedicated to the current state of EMS research, and the&nbsp;best research submitted to the Prehospital Care Research Forum this year.</p>
-<p>
-			<a class="btn btn-primary btn-md rtecenter" href="/pcrf_2020_iss" role="button"><span aria-hidden="true" class="glyphicon glyphicon-align-justify">&nbsp;</span>2020 Agenda</a> <a class="btn btn-primary btn-md rtecenter" href="/content/pcrf-abstracts" role="button"><span aria-hidden="true" class="glyphicon glyphicon-chevron-right">&nbsp;</span>2020 Abstracts</a></p>
-</div>
-</div>
-<!-- SOCIAL MEDIA LINKS --><div class="row" style="margin-bottom:2em; margin-top: 15px; padding-bottom:0em;">
-<div class="col-sm-12 clearfix" style="padding:2em;">
-<p>
-			<a href="http://www.facebook.com/Prehospital-Care-Research-Forum-at-UCLA-983045605122650/" target="_blank"><img alt="" src="/sites/default/files/images/like-us-on-facebook-button-300.png" style="width: 150px; height: 57px; border-width: 0px; display:block; margin-left: auto; margin-right: auto;" /></a></p>
-<p style="text-align:center">
-			Find PCRFatUCLA on<br />
-			<a href="https://www.facebook.com/PCRFatUCLA/" target="_blank">Facebook</a> and <a href="https://twitter.com/pcrfatucla" target="_blank">Twitter</a>.</p>
-</div>
-</div>
-<p>
-	&nbsp;</p>
-    		
-  </div>
-
-    		
-</div>
-  </div>
-</div>
-  </div>
-    </div>
-
-    
-  </div>
-</div>
-<footer class="footer container">
-	
-	<div class="col-sm-3">
-      <div class="region region-footer-left">
-    <div id="block-block-2" class="block block-block">
-
-    
-  <div class="content">
-    <ul class="footer-menu footer-menu-left">
-<li>
-		<span style="color:#00a5e5;">Resources</span></li>
-<li>
-		<a href="https://www.cpc.mednet.ucla.edu/pcrf/">PCRF</a></li>
-<li>
-		<a href="/about/contact">Contact</a></li>
-<li>
-		<a href="https://vipcpc1.ad.medctr.ucla.edu/portal">Portal</a></li>
-<li>
-		<a href="https://www.cpc.mednet.ucla.edu/SRRS/Staff/StaffMain.aspx">SRRS Staff Page</a></li>
-<li>
-		<a href="/associates">Associate Resources</a></li>
-</ul>
-  </div>
-</div>
-  </div>
-	</div>
-	<div class="col-sm-6">
-      <div class="region region-footer-middle">
-    <div id="block-block-1" class="block block-block">
-
-    
-  <div class="content">
-    <ul class="footer-menu footer-menu-center-left">
-<li>
-		<a href="/courses">Courses</a></li>
-<li>
-		<a href="/emt">EMT</a></li>
-<li>
-		<a href="/paramedic">Paramedic</a></li>
-<li>
-		<a href="/lifesupport">CPR, ACLS, PALS</a></li>
-<li>
-		<a href="/course/phlebotomy">Phlebotomy</a></li>
-<li>
-		<a href="/course/phtls">Trauma</a></li>
-</ul>
-<ul class="footer-menu footer-menu-center-center">
-<li>
-		<a href="/students">Students</a></li>
-<li>
-		<a href="/services/payment-methods">Payment Methods</a></li>
-<li>
-		<a href="/services/financial-aid">Financial Aid</a></li>
-<li>
-		<a href="/services/books">Books</a></li>
-<li>
-		<a href="/services/transcripts">Transcripts</a></li>
-</ul>
-<ul class="footer-menu footer-menu-center-right">
-<li>
-		<a href="/about">About Us</a></li>
-<li>
-		<a href="/about/contact">Contact</a></li>
-<li>
-		<a href="/giving">Giving</a></li>
-<li>
-		<a href="/about/leadership">Leadership</a></li>
-<li>
-		<a href="/diversity-resources">Equity, Diversity<br />
-		&amp; Inclusion</a></li>
-<li>
-		<a href="/about/history">Our History</a></li>
-<li>
-		<a href="/about/employment">Jobs at CPC</a></li>
-<li>
-		<a href="https://www.uclahealth.org/privacy-notice">Privacy Practices</a></li>
-</ul>
-  </div>
-</div>
-  </div>
-	</div>
-	<div class="col-sm-3">
-      <div class="region region-footer-right">
-    <div id="block-block-4" class="block block-block">
-
-    
-  <div class="content">
-    <div style="width:185px; xmargin:20px auto;">
-	<a href="http://www.facebook.com/uclacpc"><img class="img-responsive" src="/sites/all/themes/cpc_bootstrap/theme_images/facebookIcon-240.png" style="display: inline-block; margin: 5px; max-width:120px;" /></a><!--<img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-FB.png" style="display: inline-block; margin: 5px;" /> <img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-LI.png" style="display: inline-block; margin: 5px;" /><img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-YT.png" style="display: inline-block; margin: 5px;" /> --> <a href="https://www.instagram.com/uclacpc/" target="_blank"><img src="/sites/default/files/icons/instagram_glyph_color.png" style="display: inline-block; max-height: 40px; max-width: 40px; " /></a></div>
-  </div>
-</div>
-  </div>
-	</div>
-	<div class="col-sm-12 footer-bottom">
-		<div style="text-align: center; border-top: 1px solid #777;display:none;">
-		<a href="">Privacy</a> | <a href="">Terms</a>
-		</div>
-	</div>
-</footer>
-  	  <script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
-<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=35&cb=1634240505" async></script></body>
-</html>
+Prehospital Care Research Forum | UCLA CPC
+Skip to main content
+Welcome [Student Login / Register]
+0 Cart items
+Toggle navigation
+Prehospital Care Research Forum
+PCRF Home
+Education & Podcasts
+Host a Workshop
+Resources
+Articles
+External Resources
+Research 101 Online Course
+Guide to Evidence Based Practice
+IRB Guide
+Search PCRF Abstracts
+Reviewer Login
+About
+Mission
+Committees & Members
+Partners
+How to Join
+Contact PCRF
+2024 Call for Abstracts
+Submissions are now open for 2024 abstracts.
+Abstracts are due June 30, 2024.
+2024 Call for Abstracts
+2024 Call for Abstracts!
+Submissions are now open for 2024 abstracts. The best clinical research for 2024 will receive $500 USD cash award and a travel grant of up to $,2000 USD to present your research at an over-seas international conference.
+Call for Abstracts
+PCRF/WEINMANN Emergency
+Utah Ventilation Research Summit
+February 8-10 | Applications Due November 1, 2023
+The PCRF/WEINMANN Emergency Utah Ventilation Research Summit is ideal for front-line clinicians and clinical leaders with innate curiosity and an itch to launch their next (or first!) EMS research project. The Research Summit matches participants with clinical mentors, methodologists, and statisticians to accelerate EMS research. This workshop is focused on concepts around breathing and ventilation.
+Learn the basics of EMS research, explore required data elements, work with a clinical mentor and statistician, start to develop a research abstract for submission, and more.
+Apply Now
+3-Day PCRF/ESO Research Workshop: Jump-start Your EMS Research
+May 21 - 23 | Applications Due December 31, 2023
+The ESO/PCRF Research Forum is ideal for front-line clinicians and clinical leaders with innate curiosity and an itch to launch their next (or first!) EMS research project. The Forum matches participants with clinical mentors, methodologists, and statisticians to accelerate EMS research.
+Learn the basics of EMS research, explore required data elements, work with a clinical mentor and statistician, start to develop a research abstract for submission, and more.
+Apply Now
+Upcoming Journal Club Webinars and Podcasts!
+Next Journal Club Clinical Webinar - February 12, 2024
+To Treat or Not to Treat: Atrial Fibrillation
+While most cardiac dysrhythmias fit nicely into a treatment algorithm, atrial fibrillation stands out as lacking clear-cut treatment guidelines. Concerns over patient outcome, and further cardiac damage leave many agencies favoring rapid transport and limited treatment.
+Join this month's PCRF Journal Club to discuss a landmark paper that evaluates treating atrial fibrillation in the prehospital setting.
+Register now!
+Next Journal Club Education Webinar - February 23, 2024
+The ABCs: More Than a Mnemonic
+Checklists have become a part of every EMS provider’s day. We use them to check in our ambulances, ensure we have all our equipment, and help us prepare for low-frequency skills. However, can a checklist help us perform better in the field?
+Join this month’s Education Journal Club as we review a study that evaluated if using an easy-to-remember checklist can improve cardiac arrest management.
+Register now!
+Join us for Two Live Monthly Webinars
+WEBINAR DETAILS & ARCHIVES
+PCRF Journal Club:
+Clinical Research
+Second Monday, noon CST
+Next date: March 11, 2024
+Register Now
+PCRF Journal Club:
+Education Research
+Fourth Friday, noon CST
+Next date: February 23, 2024
+Register Now
+Webinar
+Archives
+:
+2023 Abstracts Published
+The Prehospital Care Research Forum (PCRF) at UCLA is pleased to present 37 abstracts from the International Scientific EMS Symposium held in September 2023 during the EMS World EXPO conference in New Orleans. Submissions scored by experts in prehospital care.
+2023 Abstracts
+International Scientific Symposium 2022 - Orlando
+October 10, 2022 to October 14, 2022
+The International Scientific EMS Symposium was held in October 2022 during the EMS World EXPO conference in Orlando. All submissions were reviewed and scored by experts in prehospital care, education, and research. Invited speakers presented and discussed the best research submitted to the Prehospital Care Research Forum this year. All abstracts are published and available.
+2022 Agenda
+2022 Abstracts
+Did you miss it?
+International Research Conference 2021: Global Developments in EMS Research
+November 30, 2021 & December 1, 2021
+Panels and invited speakers presented and discussed more than 40 original research projects spanning topics of worldwide interest including current diseases, ethics, technology, and cultural competence in paramedicine. All 42 PCRF abstracts are now published and available at EMS World.
+2021 Agenda
+2021 Abstracts
+Did you miss it?
+International Scientific Symposium 2020 - Virtual
+November 20, 2020
+On November 20, 2020, we took the International Scientific Symposium virtual for the year, with a day dedicated to the current state of EMS research, and the best research submitted to the Prehospital Care Research Forum this year.
+2020 Agenda
+2020 Abstracts
+Find PCRFatUCLA on
+Facebook
+and
+Twitter
+.
+Resources
+PCRF
+Contact
+Portal
+SRRS Staff Page
+Associate Resources
+Courses
+EMT
+Paramedic
+CPR, ACLS, PALS
+Phlebotomy
+Trauma
+Students
+Payment Methods
+Financial Aid
+Books
+Transcripts
+About Us
+Contact
+Giving
+Leadership
+Equity, Diversity
+& Inclusion
+Our History
+Jobs at CPC
+Privacy Practices
+Privacy
+|
+Terms

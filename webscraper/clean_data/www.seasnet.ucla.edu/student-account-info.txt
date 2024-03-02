@@ -49,7 +49,8 @@ Save all your work on the [Z:] drive ONLY. This is the same as your Linux home d
 You can customize your Windows environment by adding shortcuts, changing backgrounds, etc. Your customization will be saved in your personal profile and restored the next time you logon.
 ALWAYS logoff from your account when you are done by pressing CTRL+ALT+DEL and clicking Log Off.
 LINUX LAB ENVIRONMENT FAQ
-If you have questions about anything in Linux, try the online manuals by typing man <command> or man –k <keyword>
+If you have questions about anything in Linux, try the online manuals by typing man
+or man –k
 ALWAYS logout from your account when you are done by typing logout or exit
 Some basic Linux commands can be found at:
 www.seasnet.ucla.edu/how-to-use-basic-unix-commands

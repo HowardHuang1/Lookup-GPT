@@ -1,66 +1,15 @@
-<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
-<html>
-<head>
-  <meta http-equiv="Content-Type"
- content="text/html; charset=iso-8859-1">
-  <meta name="GENERATOR"
- content="Mozilla/4.79 [en] (X11; U; Linux 2.4.18-3smp i686) [Netscape]">
-  <title>Roam: A Replication System for Mobile Environments</title>
-  <link rel="stylesheet" type="type/css" href="spacing.css">
-</head>
-<body
- style="color: rgb(154, 50, 205); background-color: rgb(102, 204, 204);"
- link="#0000ff" vlink="#008000" alink="#800080">
-<center style="color: rgb(51, 0, 0);"><img src="RoamTitle.gif"
- height="100" width="510" style="color: rgb(0, 0, 102);"><img
- src="ARoam.GIF" height="100" width="100"></center>
-<center style="color: rgb(51, 0, 0);">
-<table width="650">
-  <tbody>
-    <tr align="center" width="700">
-      <td style="color: rgb(0, 0, 102);"><a href="#Description">A Brief
-Description</a></td>
-      <td width="5"><br>
-      </td>
-      <td><a href="#ExistingSystems">Why Aren't Existing Systems Good
-Enough?</a></td>
-      <td width="5"><br>
-      </td>
-      <td><a href="#Roam">What Does Roam Provide?</a></td>
-    </tr>
-  </tbody>
-</table>
-</center>
-<center style="color: rgb(51, 0, 0);">
-<table width="530">
-  <tbody>
-    <tr align="center">
-      <td><br>
-      </td>
-      <td><a href="#PublishedPapers">Published Papers</a></td>
-      <td><br>
-      </td>
-      <td><a href="#CurrentStatus">Current Status</a></td>
-      <td><br>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</center>
-<center style="color: rgb(51, 0, 0);">
-<table width="610">
-  <caption>
-  <center><a name="Description"></a></center>
-  </caption> <tbody>
-    <tr>
-      <td><br>
-      </td>
-    </tr>
-    <tr>
-      <td><!--HEADER--><b style="color: rgb(0, 0, 102);"><font size="+2">A
+Roam: A Replication System for Mobile Environments
+A Brief
+Description
+Why Aren't Existing Systems Good
+Enough?
+What Does Roam Provide?
+Published Papers
+Current Status
+A
 Brief
-Description</font></b>
-      <p style="color: rgb(0, 0, 102);"><b><font size="+1">Replication
+Description
+Replication
 is extremely important in
 mobile environments
 because nomadic users require local copies of important data.
@@ -72,8 +21,8 @@ high
 price for a degraded network connection. While the stationary user has
 fast, cheap, and easy access to off-machine resources, the mobile user
 does not, and therefore needs to have important data replicated
-locally.&nbsp;</font></b> </p>
-      <p style="color: rgb(0, 0, 102);"><b><font size="+1">However,
+locally.
+However,
 today's replication systems are
 not "mobile-ready."
 Instead of improving the mobile user's environment, current replication
@@ -83,17 +32,21 @@ for stationary environments, replication services do not and cannot
 provide
 mobile users with the capabilities they require. Instead, they often
 force
-users to behave <i>as if</i> they were stationary, requiring the user
+users to behave
+as if
+they were stationary, requiring the user
 to
 make expensive, long-distance phone calls over low bandwidth links to
 synchronize
-data with the server back home.&nbsp;</font></b> </p>
-      <p style="color: rgb(0, 0, 102);"><b><font size="+1">Consider,
+data with the server back home.
+Consider,
 for example, the case of two
 businesspeople
 who travel from Los Angeles to New York for a meeting. In their hotel
 rooms,
-they would like to and <i>should</i> be able to directly synchronize
+they would like to and
+should
+be able to directly synchronize
 data
 on each of their laptops. However, existing client-server solutions
 require
@@ -106,30 +59,29 @@ enable such direct communication, but suffers from dramatic scaling
 problems
 in the number of replicas, limiting the number of overall users and
 impacting
-performance.&nbsp;</font></b> </p>
-      <p><b style="color: rgb(0, 0, 102);"><font size="+1">Replication
+performance.
+Replication
 in mobile environments requires
 fundamentally
 different solutions than those previously proposed, because nomadicity
-presents a fundamentally new and different computing paradigm. <i>Roam</i>
-is a system designed to meet those requirements.&nbsp;</font></b><span
- style="color: rgb(0, 0, 102);"> </span><br>
-&nbsp; <br>
-&nbsp; </p>
-      <p><!--HEADER--><a name="ExistingSystems"></a><b
- style="color: rgb(0, 0, 102);"><font size="+2">Why
-Aren't Existing Systems Good Enough?</font></b> </p>
-      <p style="color: rgb(0, 0, 102);"><b><font size="+1">There are
+presents a fundamentally new and different computing paradigm.
+Roam
+is a system designed to meet those requirements.
+Why
+Aren't Existing Systems Good Enough?
+There are
 numerous examples, like the one
 above, that
-illustrate scenarios in which mobile users would <i>like </i>to work
+illustrate scenarios in which mobile users would
+like
+to work
 but
 cannot, given the restraints of the replication system. In general, one
 main reason for this disparity is that many of the replication systems
 and underlying algorithms were designed without considering mobile
 computing
-and the strains mobility places on the system.&nbsp;</font></b> </p>
-      <p><b style="color: rgb(0, 0, 102);"><font size="+1">Before
+and the strains mobility places on the system.
+Before
 mobile computing was a feasible
 reality, software
 designers simply didn't design their systems to be mobile-enabled.
@@ -141,19 +93,18 @@ case of mobile-IP. When the Internet Protocol (IP) was developed,
 mobility
 was not feasible, and therefore was not considered in the design. Now
 that
-mobility <i>is</i> a reality, many researchers are trying to fix or
+mobility
+is
+a reality, many researchers are trying to fix or
 redesign
 IP to support real mobility. Like the mobile-IP case, the replication
 system
-software must also be redesigned to account for mobile computing.&nbsp;</font></b><span
- style="color: rgb(0, 0, 102);"> </span><br
- style="color: rgb(0, 0, 102);">
-      <span style="color: rgb(0, 0, 102);">&nbsp; </span><br>
-&nbsp; </p>
-      <p><!--HEADER--><a name="Roam"></a><b
- style="color: rgb(0, 0, 102);"><font size="+2">What
-Does <i>Roam</i> Provide?</font></b> </p>
-      <p style="color: rgb(0, 0, 102);"><b><font size="+1"><i>Roam</i>
+software must also be redesigned to account for mobile computing.
+What
+Does
+Roam
+Provide?
+Roam
 is built using the Ward
 Model---a new replication
 architecture that has been designed especially with mobility in mind,
@@ -162,199 +113,120 @@ of course it applies equally well to stationary environments. The Ward
 Model provides a new replication paradigm that is neither strictly peer
 nor client-server; rather, it is a hybrid model of the two that allows
 everyone to be effectively a peer while maintaining good scalability in
-the number of replicas.&nbsp;</font></b> </p>
-      <p style="color: rgb(0, 0, 102);"><b><font size="+1">Additionally,
-      <i>Roam</i> provides a
+the number of replicas.
+Additionally,
+Roam
+provides a
 number of new
-distributed algorithms. For instance, <i>Roam</i> contains new and
+distributed algorithms. For instance,
+Roam
+contains new and
 improved
 distributed algorithms for garbage collection (the deallocation of disk
 space occupied by unnameable files) and for dynamic management of the
 version
 vector, the main data structure behind most optimistic replication
-systems.&nbsp;</font></b> </p>
-      <p style="color: rgb(0, 0, 102);"><b><font size="+1">Overall,
-therefore, <i>Roam</i>
-provides:&nbsp;</font></b></p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</center>
-<center style="color: rgb(51, 0, 0);">
-<table width="580">
-  <tbody>
-    <tr>
-      <td valign="top"><img src="blueball.gif" vspace="6" align="top"></td>
-      <td style="color: rgb(0, 0, 102);"><b><font size="+1">An
+systems.
+Overall,
+therefore,
+Roam
+provides:
+An
 optimistic replication system capable
 of supporting
-both stationary and mobile users&nbsp;</font></b></td>
-    </tr>
-    <tr>
-      <td valign="top"><img src="blueball.gif" vspace="6" align="top"></td>
-      <td style="color: rgb(0, 0, 102);"><b><font size="+1">The ability
+both stationary and mobile users
+The ability
 for any-to-any communication
 and synchronization
-between any two replicas in the entire system&nbsp;</font></b></td>
-    </tr>
-    <tr>
-      <td valign="top"><img src="blueball.gif" vspace="6" align="top"></td>
-      <td style="color: rgb(0, 0, 102);"><b><font size="+1">The ability
+between any two replicas in the entire system
+The ability
 to become mobile at any time
 without advance
-warning or required "pre-motion" operations&nbsp;</font></b></td>
-    </tr>
-    <tr>
-      <td valign="top"><img src="blueball.gif" vspace="6" align="top"></td>
-      <td style="color: rgb(0, 0, 102);"><b><font size="+1">An
+warning or required "pre-motion" operations
+An
 architecture that scales well (hundreds
 of read-write
-replicas)&nbsp;</font></b></td>
-    </tr>
-    <tr>
-      <td valign="top"><img src="blueball.gif" vpace="6" align="top"></td>
-      <td style="color: rgb(0, 0, 102);"><b><font size="+1">Algorithms
+replicas)
+Algorithms
 for as-fast-as-possible garbage
 collection
 of user data while still maintaining understandable semantics and
 guaranteeing
 that user data will never be accidently lost due to hypothetical
 scenarios
-involving dynamic naming and communication delays&nbsp;</font></b></td>
-    </tr>
-    <tr>
-      <td valign="top"><img src="blueball.gif" vspace="6" align="top"></td>
-      <td style="color: rgb(0, 0, 102);"><b><font size="+1">Algorithms
+involving dynamic naming and communication delays
+Algorithms
 for the dynamic maintenance of
 version
-vectors, allowing the version vector itself to scale much better&nbsp;</font></b></td>
-    </tr>
-    <tr>
-      <td valign="top"><img src="blueball.gif" vspace="6" align="top"></td>
-      <td style="color: rgb(0, 0, 102);"><b><font size="+1">A solution
+vectors, allowing the version vector itself to scale much better
+A solution
 that runs entirely at the
 application level
-with no kernel hooks or support, making it extremely portable&nbsp;</font></b></td>
-    </tr>
-  </tbody>
-</table>
-</center>
-<center style="color: rgb(51, 0, 0);">
-<table width="610">
-  <tbody>
-    <tr style="color: rgb(0, 0, 102);">
-      <td><!--HEADER--><a name="PublishedPapers"></a><b><font size="+2">Published
-Papers</font></b></td>
-    </tr>
-    <tr style="color: rgb(0, 0, 102);">
-      <td><b><font size="+1">There are a number of published papers on <i>Roam</i>
+with no kernel hooks or support, making it extremely portable
+Published
+Papers
+There are a number of published papers on
+Roam
 and its subsystems. A complete listing of LASR publications can be
 found
-on the<a href="http://www.lasr.cs.ucla.edu">
+on the
 LASR
 home
-page</a>. Here
-is a listing of some of the <i>Roam</i>-specific publications:&nbsp;</font></b></td>
-    </tr>
-  </tbody>
-</table>
-</center>
-<center style="color: rgb(51, 0, 0);">
-<table style="width: 580px;">
-  <tbody>
-    <tr>
-      <td valign="top"><img src="blueball.gif" vspace="6" align="top"></td>
-      <td
- style="background-color: rgb(102, 204, 204); color: rgb(0, 0, 102);"><b><font
- size="+1">D. Ratner, P. Reiher, G.J. Popek and R.
-Guy. <i>Peer
-Replication with Selective Control.</i> First International Conference
+page
+. Here
+is a listing of some of the
+Roam
+-specific publications:
+D. Ratner, P. Reiher, G.J. Popek and R.
+Guy.
+Peer
+Replication with Selective Control.
+First International Conference
 on Mobile Data Access, December
 16-17, 1999, Hong Kong. To appear in Lecture Notes on Computer Science.
-Available in <a
- href="http://www.lasr.cs.ucla.edu/lasr-members/ratner/papers/mda99.ps.gz">postscript</a>
-format.&nbsp;</font></b></td>
-    </tr>
-    <tr>
-      <td valign="top"><img src="blueball.gif" vspace="6" align="top"></td>
-      <td
- style="color: rgb(0, 0, 102); background-color: rgb(102, 204, 204);"><b><font
- size="+1">D. Ratner, P. Reiher, G.J. Popek, and G.H.
-Kuenning. <i>Replication
-Requirements in Mobile Environments.</i> Dial
+Available in
+postscript
+format.
+D. Ratner, P. Reiher, G.J. Popek, and G.H.
+Kuenning.
+Replication
+Requirements in Mobile Environments.
+Dial
 M for Mobility: 1st International Workshop on Discrete Algorithms
 and
 Methods for Mobile Computing and Communications, October 1st, 1997,
 Budapest
-Hungar.&nbsp; Held in conjuction with ACM/IEEE MobiCom'97.
-To appear in <i>Mobile Networks and Applications</i>. Available in <a
- href="http://www.lasr.cs.ucla.edu/lasr-members/ratner/papers/dialm.ps.gz">postscript</a>
-format.&nbsp;</font></b></td>
-    </tr>
-    <tr>
-      <td valign="top"><img src="blueball.gif" vspace="6" align="top"></td>
-      <td
- style="background-color: rgb(102, 204, 204); color: rgb(0, 0, 102);"><b><font
- size="+1">D. Ratner, P. Reiher, and G. Popek, <i>Dynamic
+Hungar.  Held in conjuction with ACM/IEEE MobiCom'97.
+To appear in
+Mobile Networks and Applications
+. Available in
+postscript
+format.
+D. Ratner, P. Reiher, and G. Popek,
+Dynamic
 Version
-Vector Maintenance</i>. UCLA Technical Report CSD-970022. June, 1997.
+Vector Maintenance
+. UCLA Technical Report CSD-970022. June, 1997.
 Available
-via <a href="ftp://ftp.cs.ucla.edu/tech-report/97-reports/970022.ps.Z">ftp</a>.&nbsp;</font></b></td>
-    </tr>
-    <tr>
-      <td valign="top"><img src="blueball.gif" vspace="6" align="top"></td>
-      <td
- style="background-color: rgb(102, 204, 204); color: rgb(0, 0, 102);"><b><font
- size="+1">D. Ratner, G. Popek, and P. Reiher, <i>The
+via
+ftp
+.
+D. Ratner, G. Popek, and P. Reiher,
+The
 Ward Model:
-A Scalable Replication Architecture for Mobility.</i> Workshop on
+A Scalable Replication Architecture for Mobility.
+Workshop on
 Object
-Replication and Mobile Computing, October 1996.&nbsp; Available as <a
- href="http://lasr.cs.ucla.edu/lasr-members/reiher/papers/wardworkshop.ps">wardworkshop.ps.</a><br>
-      </font></b></td>
-    </tr>
-  </tbody>
-</table>
-</center>
-<center style="color: rgb(51, 0, 0);">
-<table width="610">
-  <caption>
-  <center><!--HEADER--><a name="CurrentStatus"></a></center>
-  </caption> <tbody>
-    <tr>
-      <td><b style="color: rgb(0, 0, 102);"><font size="+2">Current
-Status</font></b>
-      <p><b><font size="+1"><span style="color: rgb(0, 0, 102);">Roam
+Replication and Mobile Computing, October 1996.  Available as
+wardworkshop.ps.
+Current
+Status
+Roam
 is currently demo-able software. It is
 the culmination
-of Dave Ratner's Ph.D. research.</span><br>
-      </font></b></p>
-      </td>
-    </tr>
-    <tr height="10">
-      <td><br>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</center>
-<center style="color: rgb(51, 0, 0);">
-<hr width="610"></center>
-<center style="color: rgb(51, 0, 0);">
-<table width="610">
-  <tbody>
-    <tr>
-      <td><b style="color: rgb(0, 0, 102);">Back to: <a
- href="http://www.lasr.cs.ucla.edu/travler98/welcomeframe.html">Travler</a>
-main page&nbsp;</b><span style="color: rgb(0, 0, 102);"> </span><br
- style="color: rgb(0, 0, 102);">
-      <b><span style="color: rgb(0, 0, 102);">Last modified:&nbsp; June
-2006</span><br>
-      </b></td>
-    </tr>
-  </tbody>
-</table>
-</center>
-</body>
-</html>
+of Dave Ratner's Ph.D. research.
+Back to:
+Travler
+main page
+Last modified:  June
+2006

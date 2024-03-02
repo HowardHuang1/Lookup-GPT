@@ -1,85 +1,43 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html><head>
-<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>Publications- Global Biotraits Database</title>
-
-<style type="text/css">
-a:link {
-color: black;
-}
-a:visited {
-color: black;
-}
-a:hover {
-color: #3366ff;
-}
-</style></head>
-<body style="color: rgb(0, 0, 0); background-color: white; background-image: url(pattern_brillant.png);" alink="#000099" link="#000099" vlink="#990099">
-<table style="background-color: white; width: 800px; height: 100%; text-align: left; margin-left: auto; margin-right: auto; font-family: Calibri;" border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td style="width: 1050px;" colspan="1">
-<table style="text-align: left; width: 800px; height: 226px;" border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td style="height: 103px; width: 100%; background-color: white; text-align: center;">&nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; <br>
-&nbsp; <a href="index.php"><img style="border: 0px solid ; width: 561px; height: 182px;" alt="logo" src="text4060.png"></a>
-<br>
-<br>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr>
-<td style="width: 1050px; height: 44px;">
-<table style="text-align: left; background-color: white; width: 800px; height: 30px;" border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr><td style="background-color: rgb(255, 204, 51); text-align: center; width: 90px; font-style: italic;"><small><a style="text-decoration: none;" href="index.php">HOME</a></small></td><td style="color: black; background-color: rgb(255, 204, 51); text-align: center; width: 98px; font-style: italic;"><small><a style="text-decoration: none;" href="people.php">PEOPLE</a></small></td><td style="text-align: center; background-color: rgb(255, 204, 51); width: 129px; font-style: italic;"><a style="text-decoration: none;" href="file:///C:/Users/Will/Desktop/Biotraits/Images/publications.php"><small>PUBLICATIONS</small></a></td><td style="color: black; background-color: rgb(255, 204, 51); text-align: center; width: 119px; font-style: italic;"><font size="-1"><a style="text-decoration: none;" href="opportunities.php">OPPORTUNITIES</a></font></td><td style="font-weight: bold; text-align: center; width: 134px; color: black; background-color: rgb(255, 204, 51); font-style: italic;"><small><small><small><big><big><small><small><big><big><small><small><big><big><small><a style="text-decoration: none;" href="search.php"><small><big><big>SEARCH</big></big></small></a></small></big></big></small></small></big></big></small></small></big></big></small></small></small></td><td style="font-weight: bold; text-align: center; width: 129px; color: black; background-color: rgb(255, 204, 51); font-style: italic;"><small><small><small><big><big><small><small><big><big><small><a style="text-decoration: none;" href="add.php"><small><big><big>UPLOAD</big></big></small></a><a style="text-decoration: none;" href="add.php"><small><big><big><br></big></big></small></a></small></big></big></small></small></big></big></small></small></small></td></tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr>
-<td style="width: 1050px; background-color: rgb(250, 255, 204); text-align: left;">
-<table style="text-align: left; width: 100%; height: 100%;" border="0" cellpadding="10" cellspacing="0">
-<tbody>
-<tr>
-<td style="width: 519px; background-color: white; vertical-align: top;"><span style="color: black;"></span><table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2"><tbody><tr><td><span style="font-weight: bold;">Published Papers</span><a name="publishedpapers"></a></td></tr><tr><td>Dell, A.I., S. Pawar, V.M. Savage. 2013. The thermal dependence of biological traits. <span style="font-style: italic;">Ecology</span> <span style="font-weight: bold;">94</span>: 1205. <a href="http://www.esajournals.org/doi/abs/10.1890/12-2060.1" target="_blank">link</a><br><br>Pawar, S., A.I. Dell, V.M. Savage. 2012. Dimensionality of
-consumer search space drives trophic interaction strengths. <span style="font-style: italic;">Nature</span> <span style="font-weight: bold;">486</span>: 485&#8211;489. <a href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature11131.html" target="_blank">link</a><br><br>Dell,
+Publications- Global Biotraits Database
+HOME
+PEOPLE
+PUBLICATIONS
+OPPORTUNITIES
+SEARCH
+UPLOAD
+Published Papers
+Dell, A.I., S. Pawar, V.M. Savage. 2013. The thermal dependence of biological traits.
+Ecology
+94
+: 1205.
+link
+Pawar, S., A.I. Dell, V.M. Savage. 2012. Dimensionality of
+consumer search space drives trophic interaction strengths.
+Nature
+486
+: 485–489.
+link
+Dell,
 A.I., S. Pawar, V.M. Savage. 2011. Systematic variation in the thermal
-dependence of physiological and ecological traits. <span style="font-style: italic;">Proceedings of the
-National Academy of Sciences</span>, USA <span style="font-weight: bold;">108</span>(26): 10591-10596. <a href="http://www.pnas.org/content/early/2011/05/18/1015178108.abstract" target="_blank">link</a><br><br><br></td></tr><tr><td><span style="font-weight: bold;">How to Cite the Global Biotraits Database<a name="citebiotraits"></a><br></span><span style="font-weight: bold;"></span></td></tr><tr><td>Publications using data from the Global Biotraits Database should cite our 2013 Ecology paper.&nbsp;</td></tr><tr><td><br><br><br></td></tr><tr><td><span style="font-weight: bold;"><a name="acknowledgments"></a>Acknowledgments</span> </td></tr><tr><td>Publications
+dependence of physiological and ecological traits.
+Proceedings of the
+National Academy of Sciences
+, USA
+108
+(26): 10591-10596.
+link
+How to Cite the Global Biotraits Database
+Publications using data from the Global Biotraits Database should cite our 2013 Ecology paper.
+Acknowledgments
+Publications
 should acknowledge UCLA Department of Biomathematics, UCLA
 Department of Ecology and Evolutionary Biology, as well as the primary
-granting agencies that currently support the Global Biotraits Database: <a href="http://nsf.gov/awardsearch/showAward.do?AwardNumber=1021010&amp;WT.z_pims_id=503634" target="_blank">NSF Award #1021010</a></td></tr></tbody></table><br><br><br><br><br></td>
-
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr><td style="width: 1050px; background-color: rgb(255, 204, 51); text-align: center;"><small><a style="text-decoration: none;" href="index.php">home</a> &nbsp;&nbsp;&nbsp;- &nbsp;&nbsp;&nbsp; <a style="text-decoration: none;" href="sitemap.php">site map</a>&nbsp;&nbsp; - &nbsp;&nbsp; <span style="text-decoration: none;"><a style="text-decoration: none;" href="mailto:biotraitsdatabase@gmail.com">contact</a> &nbsp; - &nbsp; <a style="text-decoration: none;" href="publications.php#citebiotraits">citation</a> &nbsp;</span></small></td></tr>
-<tr align="center">
-<td style="background-color: white;">
-<table style="text-align: left; width: 100%;" border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td style="width: 20%; text-align: center;">&nbsp;
-<a href="http://www.ucla.edu/" target="_blank"><img style="border: 0px solid ; width: 171px; height: 79px;" alt="ucla_logo" src="ucla_cw125.gif"></a></td>
-<td style="width: 60%; text-align: center;"><br>
-<img style="width: 270px; height: 70px;" alt="meerkat_family" src="meerkat%20family.png"></td>
-<td style="width: 20%; text-align: center;"><a href="http://www.nsf.gov/" target="_blank"><img style="border: 0px solid ; width: 91px; height: 92px;" alt="NSF_logo" src="nsf1.gif"></a></td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-
-</tbody>
-</table>
-<br style="font-family: Calibri;">
-<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1963032865" async></script></body></html>
+granting agencies that currently support the Global Biotraits Database:
+NSF Award #1021010
+home
+-
+site map
+-
+contact
+-
+citation

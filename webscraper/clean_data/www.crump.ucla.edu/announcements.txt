@@ -1,319 +1,58 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-
-<title>The Crump Institute for Molecular Imaging | News</title>
-
-
-      <!-- Favicons -->
-      <link rel="apple-touch-icon" sizes="57x57" href="/crump/favicons/apple-icon-57x57.png">
-      <link rel="apple-touch-icon" sizes="60x60" href="/crump/favicons/apple-icon-60x60.png">
-      <link rel="apple-touch-icon" sizes="72x72" href="/crump/favicons/apple-icon-72x72.png">
-      <link rel="apple-touch-icon" sizes="76x76" href="/crump/favicons/apple-icon-76x76.png">
-      <link rel="apple-touch-icon" sizes="114x114" href="/crump/favicons/apple-icon-114x114.png">
-      <link rel="apple-touch-icon" sizes="120x120" href="/crump/favicons/apple-icon-120x120.png">
-      <link rel="apple-touch-icon" sizes="144x144" href="/crump/favicons/apple-icon-144x144.png">
-      <link rel="apple-touch-icon" sizes="152x152" href="/crump/favicons/apple-icon-152x152.png">
-      <link rel="apple-touch-icon" sizes="180x180" href="/crump/favicons/apple-icon-180x180.png">
-      <link rel="icon" type="image/png" sizes="192x192"  href="/crump/favicons/android-icon-192x192.png">
-      <link rel="icon" type="image/png" sizes="32x32" href="/crump/favicons/favicon-32x32.png">
-      <link rel="icon" type="image/png" sizes="96x96" href="/crump/favicons/favicon-96x96.png">
-      <link rel="icon" type="image/png" sizes="16x16" href="/crump/favicons/favicon-16x16.png">
-      <link rel="manifest" href="/crump/favicons/manifest.json">
-      <meta name="msapplication-TileColor" content="#ffffff">
-      <meta name="msapplication-TileImage" content="/crump/favicons/ms-icon-144x144.png">
-      <meta name="theme-color" content="#ffffff">
-      <!-- End Favicons --> 
-
-    <meta http-equiv="content-style-type" content="text/css">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta name="generator" content="OpenACS version 5.10.1b2">
-    <link rel="stylesheet" href="/resources/acs-subsite/site-master.css" type="text/css" media="all">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" type="text/css" media="all">
-    <link rel="stylesheet" href="/resources/openacs-bootstrap3-theme/css/main.css" type="text/css" media="all">
-    <link rel="stylesheet" href="/resources/openacs-bootstrap3-theme/css/color/blue.css" type="text/css" media="all">
-    <link rel="stylesheet" href="/resources/acs-templating/forms.css" type="text/css" media="all">
-    <link rel="stylesheet" href="/resources/acs-templating/lists.css" type="text/css" media="all">
-    <link rel="stylesheet" href="/crump/resources/styles-crump.css?v=52" type="text/css" media="all">
-   <script type="text/javascript" src="/resources/openacs-bootstrap3-theme/js/jquery-1.11.3.min.js" nonce="F81F8797F93D2949A1ABBB68D8CEFD159F810693"></script>
-   <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js" nonce="F81F8797F93D2949A1ABBB68D8CEFD159F810693"></script>
-   <script type="text/javascript" src="//www.googletagmanager.com/gtag/js?id=UA-75729505-1" nonce="F81F8797F93D2949A1ABBB68D8CEFD159F810693"></script>
-   <script type="text/javascript" nonce="F81F8797F93D2949A1ABBB68D8CEFD159F810693">window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-75729505-1');</script>
-
-</head>
-<body>
-  
-
-
-<!--  Header  -->
-<div class="container-fluid hdr">
-   <div class="container">
-         <div class="col-sm-3"></div>
-         <div class="col-sm-6 hdr-crump" align="center">
-         <!--  Subsite Logos  -->
-         <img src="/crump/files/view/images/2015crump_logo.png" class="img-responsive" />
-         </div>
-         <div class="col-sm-3"></div>
-   </div>
-</div>
-<!--  Nav, Content  -->
-<div class="container">
-   <div class="row">
-      <div class="col-sm-2" style="margin:0;padding:0;">
-          
-              <!--  Crump Main Navigation  -->
-              <nav class="navbar navbar-default" role="navigation">
-                  <!-- Brand and toggle get grouped for better mobile display -->
-                  <div class="navbar-header">
-                      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".crump">
-                          <span class="sr-only">Toggle navigation</span>
-                          <span class="icon-bar"></span>
-                          <span class="icon-bar"></span>
-                          <span class="icon-bar"></span>
-                      </button>
-                  </div>
-                  <!-- Collect the nav links, forms, and other content for toggling -->
-                  <div class="collapse navbar-collapse crump">
-                      <ul class="nav navbar-nav">
-                          <li role="presentation"><strong>About</strong></li>
-                          <li role="presentation"><a href="/crump/"><span class="glyphicon glyphicon-home"></span> Homepage</a></li>
-                          <li role="presentation"><a href="/crump/pages/director">From Our Director</a></li>
-                          <li role="presentation"><a href="/crump/pages/history">History</a></li>
-                          <li role="presentation"><a href="/crump/pages/vision">Vision</a></li>
-                          <li role="presentation"><a href="/crump/pages/home">Our Home</a></li>
-                          <li role="presentation"><a href="/crump/pages/rap">Research Program Areas</a></li>
-                          <li role="presentation"><a href="/crump/pages/techcenters">Technology Centers</a></li>
-                          <li role="presentation"><strong>Research</strong></li>
-                          <li role="presentation"><a href="/crump/pages/faculty">Faculty</a></li>
-                          <li role="presentation"><a href="/crump/pages/laboratories">Laboratories</a></li>
-                          <li role="presentation"><a href="/crump/pages/training">Training &amp; Education</a></li>
-                          <li role="presentation"><a href="/crump/pages/university">University-Industry Technology Transfer</a></li>
-                          <li role="presentation"><a href="/crump/pages/collaborations">Collaborations</a></li>
-                          <li role="presentation"><strong>Information</strong></li>
-                          <li role="presentation"><a href="/crump/announcements/">Announcements</a></li>
-                          <li><a href="/crump/pages/opportunities">Opportunities</a></li>
-                          <li role="presentation"><a href="/crump/pages/contact">Contact Us</a></li>
-                      </ul>
-                  </div><!-- /.navbar-collapse -->
-              </nav>
-
-          
-      </div>
-      <div class="col-sm-10">
-
-         
-<div class="container-fluid">
-  <h1>Announcements</h1>
-  <!-- COMMENT DEFAULT INDEX START -->
-  
-  <!-- COMMENT DEFAULT INDEX END -->
-  <div class="clearfix"></div>
-  <div style="margin-top:5px;" class="table-responsive">
-    <table class="table table-striped table-hover" cellpadding="5" cellspacing="0">
-   
-           <tr>
-               <td style="border-bottom:1px solid #cccccc;"></td>
-               <td style="border-bottom:1px solid #cccccc;">October 15, 2020</td>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <a href="item?item_id=119582">UCLA researchers’ efforts to combat melanoma gets $13M boost from NIH</a>
-               </td>
-               <td style="border-bottom:1px solid #cccccc;">Understanding the mechanisms of treatment resistance lays the groundwork for developing new and improved combination therapies. Dr. Antoni Ribas, Thomas Graeber and Dr. Roger Lo, who have been collaborating on cancer research for more than a decade.</td>
-           </tr>
-       
-           <tr>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <img style="max-height:100px;" class="img-responsive" src="/crump/files/download/image_60305_60307.jpg?version_id=83588" style="padding: 5px">
-               </td>
-               <td style="border-bottom:1px solid #cccccc;">April 18, 2018</td>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <a href="item?item_id=60305">Dr. Thomas Graeber's team discovers 4 subtypes of melanoma pointing to new treatment approaches</a>
-               </td>
-               <td style="border-bottom:1px solid #cccccc;"> </td>
-           </tr>
-       
-           <tr>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <img style="max-height:100px;" class="img-responsive" src="/crump/files/download/image_20267_20269.jpg?version_id=83590" style="padding: 5px">
-               </td>
-               <td style="border-bottom:1px solid #cccccc;">October 18, 2017</td>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <a href="item?item_id=20267">Thomas Graeber is honored for research into why cancer cells respond to therapies</a>
-               </td>
-               <td style="border-bottom:1px solid #cccccc;"></td>
-           </tr>
-       
-           <tr>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <img style="max-height:100px;" class="img-responsive" src="/crump/files/download/image_20270_20272.jpg?version_id=83592" style="padding: 5px">
-               </td>
-               <td style="border-bottom:1px solid #cccccc;">May 26, 2016</td>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <a href="item?item_id=20270">Register Today - Preclinical Imaging Symposium, CNSI at UCLA, Friday, June 10, 2016, "Imaging Biology and Therapeutics"</a>
-               </td>
-               <td style="border-bottom:1px solid #cccccc;"></td>
-           </tr>
-       
-           <tr>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <img style="max-height:100px;" class="img-responsive" src="/crump/files/download/image_20273_20275.jpg?version_id=83594" style="padding: 5px">
-               </td>
-               <td style="border-bottom:1px solid #cccccc;">April 26, 2016</td>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <a href="item?item_id=20273">Murphy and van Dam labs complete the first fully-automated synthesis of 18F-FDHT on the ELIXYS radiosynthesizer</a>
-               </td>
-               <td style="border-bottom:1px solid #cccccc;"></td>
-           </tr>
-       
-           <tr>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <img style="max-height:100px;" class="img-responsive" src="/crump/files/download/image_20276_20278.jpg?version_id=83596" style="padding: 5px">
-               </td>
-               <td style="border-bottom:1px solid #cccccc;">October 09, 2015</td>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <a href="item?item_id=20276">Anna M. Wu will be featured as a Keynote Speaker at the December, 2015 Antibody Engineering & Therapeutics meeting in San Diego</a>
-               </td>
-               <td style="border-bottom:1px solid #cccccc;"></td>
-           </tr>
-       
-           <tr>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <img style="max-height:100px;" class="img-responsive" src="/crump/files/download/image_20279_20281.jpg?version_id=83598" style="padding: 5px">
-               </td>
-               <td style="border-bottom:1px solid #cccccc;">March 13, 2015</td>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <a href="item?item_id=20279">UCLA Crump Professor, Anna Wu, Past President of World Molecular Imaging Society (WMIS), named WMIS Fellow</a>
-               </td>
-               <td style="border-bottom:1px solid #cccccc;"></td>
-           </tr>
-       
-           <tr>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <img style="max-height:100px;" class="img-responsive" src="/crump/files/download/image_20282_20284.jpg?version_id=83600" style="padding: 5px">
-               </td>
-               <td style="border-bottom:1px solid #cccccc;">April 29, 2014</td>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <a href="item?item_id=20282">Obituary: Marjorie Eloise Lund Crump, 89, of Trumbull</a>
-               </td>
-               <td style="border-bottom:1px solid #cccccc;"></td>
-           </tr>
-       
-           <tr>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <img style="max-height:100px;" class="img-responsive" src="/crump/files/download/image_20285_20287.gif?version_id=83602" style="padding: 5px">
-               </td>
-               <td style="border-bottom:1px solid #cccccc;">March 11, 2014</td>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <a href="item?item_id=20285">Work from Professor Chatziioannous lab makes The Institute Of Physics list of top publications from 2013</a>
-               </td>
-               <td style="border-bottom:1px solid #cccccc;"></td>
-           </tr>
-       
-           <tr>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <img style="max-height:100px;" class="img-responsive" src="/crump/files/download/image_20288_20290.gif?version_id=83604" style="padding: 5px">
-               </td>
-               <td style="border-bottom:1px solid #cccccc;">June 14, 2010</td>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <a href="item?item_id=20288">UCLA Professor Receives 2010 Benedict Cassen Prize for Research in Nuclear Medicine</a>
-               </td>
-               <td style="border-bottom:1px solid #cccccc;"></td>
-           </tr>
-       
-           <tr>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <img style="max-height:100px;" class="img-responsive" src="/crump/files/download/image_20291_20293.jpg?version_id=83606" style="padding: 5px">
-               </td>
-               <td style="border-bottom:1px solid #cccccc;">December 15, 2008</td>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <a href="item?item_id=20291">Crump Institute researchers receive major stem cell grants</a>
-               </td>
-               <td style="border-bottom:1px solid #cccccc;"></td>
-           </tr>
-       
-           <tr>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <img style="max-height:100px;" class="img-responsive" src="/crump/files/download/image_20294_20296.jpg?version_id=83608" style="padding: 5px">
-               </td>
-               <td style="border-bottom:1px solid #cccccc;">May 08, 2007</td>
-               <td style="border-bottom:1px solid #cccccc;">
-                   <a href="item?item_id=20294">Mike van Dam Joins Crump Faculty</a>
-               </td>
-               <td style="border-bottom:1px solid #cccccc;"></td>
-           </tr>
-       
-</table>
-  </div>
-</div>
-
-
-      </div>
-   </div>
-<!--  Footer  -->
-  <div class="footer">
-   <div class="row" style="margin:0;padding:0;">
-      <div style="display:none;">
-         <span class="footer-sections">About</span>
-         <ul>
-         <li><a href="/crump/">Homepage</a></li>
-         <li><a href="/crump/pages/directors">From Our Director</a></li>
-         <li><a href="/crump/pages/history">History</a></li>
-         <li><a href="/crump/pages/vision">Vision</a></li>
-         <li><a href="/crump/pages/home">Our Home</a></li>
-         <li><a href="/crump/pages/rap">Research Program Areas</a></li>
-         <li><a href="/crump/pages/techcenters">Technology Centers</a></li>
-         </ul>
-         <span class="footer-sections">Research</span>
-         <ul>
-         <li><a href="https://fdb5.ctrl.ucla.edu/crump/institution/personnel-list/">Faculty</a></li>
-         <li><a href="/crump/pages/laboratories">Laboratories</a></li>
-         <li><a href="/crump/pages/training">Training &amp; Education</a></li>
-         <li><a href="/crump/pages/university">University-Industry Technology Transfer</a></li>
-         <li><a href="/crump/pages/collaborations">Collaborations</a></li>
-         </ul>
-         <span class="footer-sections">Information</span>
-         <ul>
-         <li><a href="/crump/pages/highlights">Highlights</a></li>
-         <li><a href="/crump/pages/opportunities">Opportunities</a></li>
-         <li><a href="/crump/pages/contact">Contact Us</a></li>
-         </ul>
-      </div>
-
-      <div class="col-xs-12">
-         <span class="footer-sections">Contact Information:</span>
-            <address><small>Crump Institute for Molecular Imaging &nbsp;<span style="color:#cccccc;">|</span>&nbsp;
-            University of California, Los Angeles &nbsp;<span style="color:#cccccc;">|</span>&nbsp;
-            570 Westwood Plaza &nbsp;<span style="color:#cccccc;">|</span>&nbsp;
-            Los Angeles, CA 90095-1770</small>
-             <br />
-            <div style="display:none;"><span class="glyphicon glyphicon-earphone"></span> <abbr title="Telephone">Tel:</abbr> 310-825-4903 &nbsp;
-            <span class="glyphicon glyphicon-print"></span> <abbr title="Facsimile">Fax:</abbr> 310-206-8975 <br /></div>
-         </address>
-      </div>
-   </div>
-  </div>
-
-      <div class="row">
-          <div class="col-xs-12">
-              <ul class="center-block compact">
-                  <li>
-                      Not logged in |
-                  </li>
-                  
-              </ul>
-          </div>
-      </div>
-
-   </div>
-</div>
-
-  
-    <script type="text/javascript" src="/resources/acs-subsite/core.js" nonce="F81F8797F93D2949A1ABBB68D8CEFD159F810693"></script>
-
-
-<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=30&cb=1071869476" async nonce="F81F8797F93D2949A1ABBB68D8CEFD159F810693"></script></body>
-</html>
+The Crump Institute for Molecular Imaging | News
+Announcements
+October 15, 2020
+UCLA researchers’ efforts to combat melanoma gets $13M boost from NIH
+Understanding the mechanisms of treatment resistance lays the groundwork for developing new and improved combination therapies. Dr. Antoni Ribas, Thomas Graeber and Dr. Roger Lo, who have been collaborating on cancer research for more than a decade.
+April 18, 2018
+Dr. Thomas Graeber's team discovers 4 subtypes of melanoma pointing to new treatment approaches
+October 18, 2017
+Thomas Graeber is honored for research into why cancer cells respond to therapies
+May 26, 2016
+Register Today - Preclinical Imaging Symposium, CNSI at UCLA, Friday, June 10, 2016, "Imaging Biology and Therapeutics"
+April 26, 2016
+Murphy and van Dam labs complete the first fully-automated synthesis of 18F-FDHT on the ELIXYS radiosynthesizer
+October 09, 2015
+Anna M. Wu will be featured as a Keynote Speaker at the December, 2015 Antibody Engineering & Therapeutics meeting in San Diego
+March 13, 2015
+UCLA Crump Professor, Anna Wu, Past President of World Molecular Imaging Society (WMIS), named WMIS Fellow
+April 29, 2014
+Obituary: Marjorie Eloise Lund Crump, 89, of Trumbull
+March 11, 2014
+Work from Professor Chatziioannous lab makes The Institute Of Physics list of top publications from 2013
+June 14, 2010
+UCLA Professor Receives 2010 Benedict Cassen Prize for Research in Nuclear Medicine
+December 15, 2008
+Crump Institute researchers receive major stem cell grants
+May 08, 2007
+Mike van Dam Joins Crump Faculty
+About
+Homepage
+From Our Director
+History
+Vision
+Our Home
+Research Program Areas
+Technology Centers
+Research
+Faculty
+Laboratories
+Training & Education
+University-Industry Technology Transfer
+Collaborations
+Information
+Highlights
+Opportunities
+Contact Us
+Contact Information:
+Crump Institute for Molecular Imaging
+|
+University of California, Los Angeles
+|
+570 Westwood Plaza
+|
+Los Angeles, CA 90095-1770
+Tel:
+310-825-4903
+Fax:
+310-206-8975
+Not logged in |

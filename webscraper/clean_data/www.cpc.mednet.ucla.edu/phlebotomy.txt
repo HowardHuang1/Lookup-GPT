@@ -1,495 +1,76 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
-  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-<html lang="en" dir="ltr"
-  xmlns:og="http://ogp.me/ns#"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/terms/"
-  xmlns:foaf="http://xmlns.com/foaf/0.1/"
-  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xmlns:sioc="http://rdfs.org/sioc/ns#"
-  xmlns:sioct="http://rdfs.org/sioc/types#"
-  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-<head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortcut icon" href="https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
-<meta name="description" content="Launch your healthcare career with UCLA&#039;s Center for Prehospital Care – home to the Licensed Phlebotomist Course boasting a remarkable 99% Board Exam First-Time Pass Rate! Explore our comprehensive schedule, affordable finances, and eligibility criteria. Join an upcoming info session, enroll in our six-week program with clinical rotations at prestigious sites, and embrace a" />
-<meta name="abstract" content="Embark on a rewarding healthcare journey with UCLA&#039;s Center for Prehospital Care – your gateway to success as a Licensed Phlebotomist. Experience a stellar 99% Board Exam First-Time Pass Rate, dynamic in-person and clinical learning, and flexible payment plans. Attend a free info session, discover our schedule, finances, and eligibility requirements. Enroll in our six-week program, explore clinical rotations at UCLA hospitals, and equip yourself for success in the medical field." />
-<meta name="keywords" content="Licensed Phlebotomist Course, Board Exam Pass Rate, Phlebotomy Program, Schedule, Finances, Eligibility, Materials, FAQs, Info Session, Clinical Sites, Healthcare Career, Enroll Today, Upcoming Courses, Required Materials, Payment Plans, UCLA Center for Prehospital Care." />
-<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
-<link rel="canonical" href="https://www.cpc.mednet.ucla.edu/content/licensed-phlebotomist-course" />
-<link rel="shortlink" href="https://www.cpc.mednet.ucla.edu/node/516" />
-<meta property="og:site_name" content="UCLA CPC" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.cpc.mednet.ucla.edu/content/licensed-phlebotomist-course" />
-<meta property="og:title" content="Licensed Phlebotomist Course" />
-<meta property="og:description" content="Start Your Medical Career with UCLA’s Phlebotomy Course Becoming a phlebotomist is a great way to start your career in healthcare, build experience and learn skills to work in a variety of healthcare settings. LEARN MORE  Free Info Session – February 20 @ 6:30 PM Join an online information session with our Phlebotomy faculty to determine if our Phlebotomy program is right for you! RSVP TODAY  Phlebotomy Course Format: The course consists of in person didactic (lectures), skills lab instruction and clinical rotations. Didactic instruction takes place over six weeks." />
-<meta property="og:updated_time" content="2024-01-11T16:02:30-08:00" />
-<meta property="article:published_time" content="2021-03-16T18:46:49-07:00" />
-<meta property="article:modified_time" content="2024-01-11T16:02:30-08:00" />
-  <title>Licensed Phlebotomist Course | UCLA CPC</title>
-  <style>
-@import url("https://www.cpc.mednet.ucla.edu/modules/system/system.base.css?s8lm5r");
-</style>
-<style>
-@import url("https://www.cpc.mednet.ucla.edu/modules/field/theme/field.css?s8lm5r");
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/filebrowser/css/filebrowser_style.css?s8lm5r");
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/views/css/views.css?s8lm5r");
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ckeditor/css/ckeditor.css?s8lm5r");
-</style>
-<style>
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ctools/css/ctools.css?s8lm5r");
-</style>
-<link type="text/css" rel="stylesheet" href="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.css?s8lm5r" media="all" />
-<style>
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/css/style.css?s8lm5r");
-</style>
-  <!-- HTML5 element support for IE6-8 -->
-  <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_YndZxdyT8-8LUpZC5MssOCg5j7KN4UJGOzCX7A0hGKI.js"></script>
-<script src="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.js?s8lm5r"></script>
-<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_sGFJ0aln9SHwpHdKSzoE8Cdcd6RIMEIfIGrifGaUeBw.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cpc_bootstrap","theme_token":"sGlSo5N7j0SMY6atOhWQk7Z72Sk9Rs7mpv7tyYyO94k","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"https:\/\/code.jquery.com\/jquery-3.7.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/contrib\/popup\/popup.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/cpc_bootstrap\/cpc_js.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/filebrowser\/css\/filebrowser_style.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/popup\/popup.css":1,"sites\/all\/themes\/cpc_bootstrap\/css\/style.css":1}},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":250,"delay":0},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
-      </head>
-<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-516 node-type-cpc-mega-page" >
-  <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-  </div>
-    <style>
-	div#field-slideshow-1-pager {display:none;}
-.navbar-default {
-    background-color: #000000;
-}
-.navbar-default .navbar-nav > li > a:hover,
-.navbar-default .navbar-nav > li > a:focus {
-  color: #ffb300;
-  background-color: transparent;
-}
-@media (max-width: 768px) {
-}
-.login-header, .login-header a
-	{ color: white; }
-.login-header a:hover, .login-header a:active, .login-header a:visited
-	{ color: #ffffff; }
-.msg-button, .msg-button a
-	{ color: white; }
-.msg-button a:hover, .msg-button a:active, .msg-button a:visited
-	{ color: #ffffff; }
-.hp_quicklinks {
-	color: #00a5e5;
-	}
-.hp_quicklinks a, .hp_quicklinks a:hover, .hp_quicklinks a:active, .hp_quicklinks a:visited {
-	color: #ffb300;
-}
-.equal {
-  display: flex;
-  display: -webkit-flex;
-  flex-wrap: wrap;
-}
-.row .hubgrid div img{
-    display: flex;
-    display: -webkit-flex;
-    align-self: flex-end;
-}
-.row div.featureslot {
-	padding:2em;
-}
-p.leadsmall {
-	font-size:16px;
-	color:#c8c8c8;
-}
-button.webform-submit {
-	text-align:center;
-	display: inline-block;
-	float:right;
-	margin-top: 20px;
-	margin-bottom: 20px;
-	min-width:30%;
-}
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: "Roboto-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: 400;
-}
-.node-type-cpc-mega-page h1.onimage {
-    left: auto;
-    right: 0;
-    padding-right: 10px;
-	color: #00A5E5;
-}
-.node-type-cpc-mega-page h1.onimage .megasubhead {
-	color: #FFFFFF;
-	font-family: "Roboto-Bold","Helvetica Neue",Helvetica,Arial,sans-serif;
-	font-size: 28px;
-	font-weight: 400;
-}
-@media (max-width: 768px) {
-  .hubgrid h2, .tagline h2, .tagline h3 {
-    font-size: 4vw !important;
-    line-height: 4vw !important;
-  }
-  .row div.featureslot {
-	padding-top:1em;
-	padding-bottom:1em;
-  }
-  .row div.featureslot.xs-nopad-bottom {
-	padding-bottom:0px;
-  }
-  .row div.featureslot.xs-nopad-top {
-	padding-top:0px;
-  }
-}
-</style>
-<header id="navbar" role="banner">
-	<div class="container containerlogin">
-		<div class="row" style="margin-top:0px; margin-bottom:0px; background-color: #666666;">
-			<div class="login-header pull-right" style="display: inline; background-color: #00a5e5; padding:10px;">
-				<!-- AJAX Replaces here	-->
-				[ Login / Register ] <span class="glyphicon glyphicon-shopping-cart"></span> 0  items in cart
-			</div>
-			<div class="pull-left hp_quicklinks" style="display: inline; padding:10px;"><p>
-	&nbsp; &nbsp;</p>
-</div>
-		</div>
-	</div>
-	<div class="containernavbar container navbar-default">
-    <div class="navbar-header">
-      				<a class="logo navbar-btn pull-left" href="/" title="Home">
-					<img src="https://www.cpc.mednet.ucla.edu/sites/default/files/images/cpc_logo-323x32.png" alt="Home" id="logo" class="img-responsive" />
-				</a>
-      
-      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-    </div>
-
-          <div class="navbar-collapse collapse">
-        <nav role="navigation">
-                      <ul class="menu nav navbar-nav"><li class="first expanded active-trail dropdown"><a href="/cpc/course-listings" title="Our Courses" class="active-trail dropdown-toggle" data-target="#" data-toggle="dropdown">Courses <span class="caret"></span></a><ul class="dropdown-menu"><li class="first collapsed"><a href="/emt-courses">EMT</a></li>
-<li class="collapsed"><a href="/paramedic-courses">Paramedic</a></li>
-<li class="leaf active-trail active"><a href="/content/licensed-phlebotomist-course" class="active-trail active">Licensed Phlebotomist</a></li>
-<li class="expanded"><a href="/aha-courses">BLS, ACLS &amp; PALS</a></li>
-<li class="expanded"><a href="/cpr-first-aid-courses">CPR &amp; First Aid</a></li>
-<li class="last collapsed"><a href="/trauma-courses">Trauma &amp; NAEMT Courses</a></li>
-</ul></li>
-<li class="expanded dropdown"><a href="/students" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Students <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/services/payment-methods">Payment Methods</a></li>
-<li class="leaf"><a href="/services/payment-plan">Payment Plan</a></li>
-<li class="leaf"><a href="/services/refunds-transfers">Refunds &amp; Transfers</a></li>
-<li class="leaf"><a href="/services/transcripts">Transcripts</a></li>
-<li class="leaf"><a href="/services/financial-aid">Scholarships</a></li>
-<li class="leaf"><a href="/veterans">Veteran&#039;s Assistance Benefits</a></li>
-<li class="leaf"><a href="/services/students-with-disabilities">Educational Accommodations</a></li>
-<li class="last leaf"><a href="/services/college-credit">College Credit &amp; CEUs</a></li>
-</ul></li>
-<li class="expanded dropdown"><a href="/services" title="Services for agencies, hospitals, and businesses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/fdqi" title="node/572">Fire Department Quality Improvement</a></li>
-<li class="last leaf"><a href="/international">International</a></li>
-</ul></li>
-<li class="last expanded dropdown"><a href="/content/about-us" data-target="#" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/about/contact">Contact Us</a></li>
-<li class="leaf"><a href="/giving">Giving</a></li>
-<li class="leaf"><a href="/content/ucla-center-prehospital-care-strategic-plan">Strategic Plan</a></li>
-<li class="leaf"><a href="/about/leadership">Leadership</a></li>
-<li class="leaf"><a href="/diversity-resources">Equity, Diversity &amp; Inclusion</a></li>
-<li class="leaf"><a href="/about/history">Our History</a></li>
-<li class="leaf"><a href="/about/employment">Jobs at the Center</a></li>
-<li class="last leaf"><a href="https://www.uclahealth.org/privacy-practices" title="">Privacy Practices</a></li>
-</ul></li>
-</ul>                                      </nav>
-      </div>
-      </div>
-	
-<!--
-	<div class="container">
-		<ol class="breadcrumb"><li class="first"><a href="/cpc/course-listings" title="Our Courses" class="active-trail">Courses</a></li>
-<li class="active last">Licensed Phlebotomist Course</li>
-</ol>	</div>
--->
-	</header>
-
-<div class="main-container container">
-
-  <header role="banner" id="page-header">
-    
-      </header> <!-- /#page-header -->
-
-  <div class="row">
-
-    <div class="col-sm-12">
-            <a id="main-content"></a>
-      			<!--------------------->
-							<div class="page-header-image">
-					<img class="img-responsive header-image" src="https://www.cpc.mednet.ucla.edu/sites/default/files/page_images/header-phlebotomist-2023_1.jpg">
-					<h1 class="page-header onimage">Licensed Phlebotomist Course<br /><span class="megasubhead"><p>99% Board Exam First-Time Pass Rate</p>
-</span></h1>
-				</div>
-					
-		<!--–– SECTION SPECIFIC LINKS ––-->
-		
-				
-		<div class="row" style="margin-top:0px; margin-bottom:0px; background-color: #FFFFFFF;">
-			<div class="msg-button pull-right" style="display: inline; background-color: #00a5e5; padding:10px;">
-				<a aria-controls="collapseUpdate" aria-expanded="false" data-toggle="collapse" href="#collapseUpdate">
-	COVID UPDATE</a></div>
-
-			<div class="pull-left" style="display: inline; padding:10px;">
-				<p>
-	<strong>Licensed Phlebotomist</strong> | <a href="/phlebotomy/schedule">Schedule</a> | <a href="/course/phlebotomy-finance">Finances</a> | <a href="/course/phlebotomy/eligibility">Eligibility</a>&nbsp;| <a href="/course/phlebotomy/materials">Materials</a> | <a href="/course/phlebotomy/faq">FAQs</a></p>
-</div>
-		</div>
-		<!--–– SECTION HIDDEN UNIVERSAL INFO AREA ––-->
-				
-		<div class="row hubgrid collapse " id="collapseUpdate" style="margin-bottom:8px; background-color: #ccedfa; ">
-			<div class="col-sm-12 clearfix featureslot">
-				<p>
-	<strong>Masks:</strong> UCLA recommends well-fitting masks in all&nbsp;facilities. Outdoor masking is optional for all.<br />
-	&nbsp;<br />
-	<strong>COVID-19 Vaccination Requirement:</strong> The University of California requires all students to be fully vaccinated against COVID-19, including a booster dose to access University facilities and programs. Students who cannot provide proof of COVID-19 vaccination may experience delays in clinical or field placement, extended completion times and the inability to meet course requirements for certification. Limited allowance for medical and religious exemption is reviewed with supporting documentation.<br />
-	&nbsp;<br />
-	Students are asked to only attend class if they are healthy and will complete a UCLA Health Symptom Survey for each day they are on-site.</p>
-			</div>
-		</div>
-		<!--------------------->
-		
-			                                      		</div>
-		
-    		
-    <div class="col-sm-12">
-        <div class="region region-content">
-    <div id="block-system-main" class="block block-system">
-
-    
-  <div class="content">
-    <div id="node-516" class="node node-cpc-mega-page clearfix" about="/content/licensed-phlebotomist-course" typeof="sioc:Item foaf:Document">
-
-	<!--
-  	-->
-      <span property="dc:title" content="Licensed Phlebotomist Course" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
-  <div class="content">
-    
-		
-		<!--
-This file is not used by Drupal core, which uses theme functions instead.
-See http://api.drupal.org/api/function/theme_field/7 for details.
-After copying this file to your theme's folder and customizing it, remove this
-HTML comment.
--->
-          <!--–– SECTION Overview ––--><div class="row hubgrid equal" style="margin-bottom:8px; background-color: #eee; ">
-<div class="col-xs-9 clearfix featureslot">
-<h2 style="margin-top:0;">
-			Start Your Medical Career with UCLA’s Phlebotomy Course</h2>
-<p>
-			Becoming a phlebotomist is a great way to start your career in healthcare, build experience and learn skills to work in a variety of healthcare settings.</p>
-<p>
-			<a class="btn btn-primary" href="/phlebotomist-career-path" role="button" target="_blank">LEARN MORE</a></p>
-</div>
-<div class="col-xs-3 clearfix equal" style="padding:0em">
-		<a href="/phlebotomist-career-path" target="_blank"><img alt="Search and rescue officer" class="img-responsive" src="/sites/default/files/attached_files/cpc_hybrid_third_fem_pleb3_0.jpg" /></a></div>
-</div>
-<p><!--–– INFO SESSION ----></p>
-<div class="row hubgrid equal" style="margin-bottom:8px; background-color: #000000; padding-bottom:0em;">
-<div class="col-xs-8 clearfix featureslot">
-<h2 style="color:#00A5E5;margin-top:0;">
-			Free Info Session – February 20 @ 6:30 PM</h2>
-<p class="leadsmall">
-			Join an online information session with our Phlebotomy faculty to determine if our Phlebotomy program is right for you!</p>
-<p>
-			<a class="btn btn-primary" href="https://www.eventbrite.com/e/ucla-phlebotomy-student-information-session-february-20-tickets-796439681527" role="button" target="_blank">RSVP TODAY</a></p>
-</div>
-<div class="col-xs-4 clearfix equal" style="padding:0em">
-		<img alt="Search and rescue officer" class="img-responsive" src="/sites/default/files/attached_files/IMG_1789-phlebotomist_front-388x250.jpg" /></div>
-</div>
-<!--–– NEW PHLEBOTOMY INFOGRAPHIC CLINICAL SITES ----><div class="row hubgrid equal" style="margin-bottom:0em; background-color: #000000; padding-bottom:0em;">
-<div class="col-xs-12 clearfix equal" style="padding:0em">
-		<img alt="Clinical Sites" class="img-responsive" src="/sites/default/files/attached_files/Clinical-SitesV6.png" /></div>
-</div>
-<!--–– COURSE FORMAT ––--><div class="row hubgrid" style="margin-top:8px; background-color: #ffffff; ">
-<div class="col-sm-12 clearfix featureslot">
-<h3 style="margin-top:0;">
-			Phlebotomy Course Format:</h3>
-<p>
-			The course consists of in person&nbsp;didactic (lectures), skills lab instruction and clinical rotations. Didactic instruction takes place over six&nbsp;weeks. Clinical rotations will begin after passing the Skills Practice and Skills Final Exam usually after Week 5 and may continue as long as two months depending on your availability and availability of shifts.</p>
-</div>
-</div>
-<div class="row equal">
-<div class="col-xs-2" style="display: flex; align-items: center;">
-		<img class="img-responsive center-block" src="/sites/default/files/attached_files/cpc_icon_calendar.png" style="margin-right: 0px; max-width:70%;" /></div>
-<div class="col-xs-4 clearfix" style="padding-left: 0px; display: flex; align-items: center;">
-<div>
-<p>
-				<strong>Duration: 6 weeks lecture plus clinical</strong></p>
-</div>
-</div>
-<div class="col-xs-2" style="display: flex; align-items: center;">
-		<img class="img-responsive center-block" src="/sites/default/files/attached_files/cpc_icon_instruct.png" style="margin-right: 0px; max-width:70%;" /></div>
-<div class="col-xs-4 clearfix" style="padding-left: 0px; display: flex; align-items: center;">
-<div>
-<p>
-				<strong>Lectures:</strong><br />
-				Tu &amp; Th 6PM-10PM<br />
-				<strong>Skills lab:</strong><br />
-				Sat or Sun 8AM-6PM</p>
-</div>
-</div>
-</div>
-<div class="row" style="margin-bottom:8px; background-color: #ffffff; ">
-<div class="col-sm-12 clearfix featureslot">
-<p>
-			Available clinical shifts may include day and weekend shifts. In the clinical phase, you will be rotated through UCLA hospitals and affiliated community clinics.</p>
-</div>
-</div>
-<!--–– FEATURE SPOT ENROLL - USES AJAX AT BOTTOM ––--><div class="row hubgrid" style="margin-top:8px;margin-bottom:8px; background-color: #eee; ">
-<div class="col-sm-12 clearfix featureslot">
-<h2 style="margin:0;">
-			Enroll Today</h2>
-</div>
-</div>
-<div class="row hubgrid">
-<div class="col-sm-6 clearfix featureslot" style="padding-top: 0px; padding-bottom: 0px;">
-<p>
-			<strong>Upcoming Courses</strong><br />
-			Course fee: $2,275 • Nonrefundable: $200</p>
-<div class="enrollmentblock" data-pgmid="21">
-			CLASSES HERE</div>
-</div>
-<!---- Right column next to enrollment ----><div class="col-sm-6 clearfix featureslot" style="padding-top: 0px; padding-bottom: 0px;">
-<p>
-			&nbsp;</p>
-<p>		<b>Required Materials:</b><br />
-		The textbook and fees for Complio compliance tracking are not included in the course fee. Please see the Required Materials page for these costs. Phlebotomy students must have access to a stable internet connection and a tablet or laptop computer (Windows or Mac) for testing purposes.</div>
-</div>
-<!--–– FEATURE SPOT - PAYMENT PLAN ––--><div class="row hubgrid" style="margin-bottom:8px; margin-top:8px; background-color: #eee; ">
-<div class="col-sm-4 clearfix featureslot xs-nopad-bottom">
-<h2>
-			Payment Plans</h2>
-</div>
-<div class="col-sm-8 clearfix featureslot xs-nopad-top">
-<p>
-			You can enroll in a payment plan for eligible courses and secure your seat with a down payment.</p>
-<p>
-			<a class="btn btn-primary" href="/services/payment-plan" role="button">LEARN MORE</a></p>
-</div>
-</div>
-<!--–– END ––-->    		
-  </div>
-
-	
-</div>
-
-
-  </div>
-</div>
-  </div>
-    </div>
-
-    
-  </div>
-</div>
-<footer class="footer container">
-	
-	<div class="col-sm-3">
-      <div class="region region-footer-left">
-    <div id="block-block-2" class="block block-block">
-
-    
-  <div class="content">
-    <ul class="footer-menu footer-menu-left">
-<li>
-		<span style="color:#00a5e5;">Resources</span></li>
-<li>
-		<a href="https://www.cpc.mednet.ucla.edu/pcrf/">PCRF</a></li>
-<li>
-		<a href="/about/contact">Contact</a></li>
-<li>
-		<a href="https://vipcpc1.ad.medctr.ucla.edu/portal">Portal</a></li>
-<li>
-		<a href="https://www.cpc.mednet.ucla.edu/SRRS/Staff/StaffMain.aspx">SRRS Staff Page</a></li>
-<li>
-		<a href="/associates">Associate Resources</a></li>
-</ul>
-  </div>
-</div>
-  </div>
-	</div>
-	<div class="col-sm-6">
-      <div class="region region-footer-middle">
-    <div id="block-block-1" class="block block-block">
-
-    
-  <div class="content">
-    <ul class="footer-menu footer-menu-center-left">
-<li>
-		<a href="/courses">Courses</a></li>
-<li>
-		<a href="/emt">EMT</a></li>
-<li>
-		<a href="/paramedic">Paramedic</a></li>
-<li>
-		<a href="/lifesupport">CPR, ACLS, PALS</a></li>
-<li>
-		<a href="/course/phlebotomy">Phlebotomy</a></li>
-<li>
-		<a href="/course/phtls">Trauma</a></li>
-</ul>
-<ul class="footer-menu footer-menu-center-center">
-<li>
-		<a href="/students">Students</a></li>
-<li>
-		<a href="/services/payment-methods">Payment Methods</a></li>
-<li>
-		<a href="/services/financial-aid">Financial Aid</a></li>
-<li>
-		<a href="/services/books">Books</a></li>
-<li>
-		<a href="/services/transcripts">Transcripts</a></li>
-</ul>
-<ul class="footer-menu footer-menu-center-right">
-<li>
-		<a href="/about">About Us</a></li>
-<li>
-		<a href="/about/contact">Contact</a></li>
-<li>
-		<a href="/giving">Giving</a></li>
-<li>
-		<a href="/about/leadership">Leadership</a></li>
-<li>
-		<a href="/diversity-resources">Equity, Diversity<br />
-		&amp; Inclusion</a></li>
-<li>
-		<a href="/about/history">Our History</a></li>
-<li>
-		<a href="/about/employment">Jobs at CPC</a></li>
-<li>
-		<a href="https://www.uclahealth.org/privacy-notice">Privacy Practices</a></li>
-</ul>
-  </div>
-</div>
-  </div>
-	</div>
-	<div class="col-sm-3">
-      <div class="region region-footer-right">
-    <div id="block-block-4" class="block block-block">
-
-    
-  <div class="content">
-    <div style="width:185px; xmargin:20px auto;">
-	<a href="http://www.facebook.com/uclacpc"><img class="img-responsive" src="/sites/all/themes/cpc_bootstrap/theme_images/facebookIcon-240.png" style="display: inline-block; margin: 5px; max-width:120px;" /></a><!--<img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-FB.png" style="display: inline-block; margin: 5px;" /> <img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-LI.png" style="display: inline-block; margin: 5px;" /><img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-YT.png" style="display: inline-block; margin: 5px;" /> --> <a href="https://www.instagram.com/uclacpc/" target="_blank"><img src="/sites/default/files/icons/instagram_glyph_color.png" style="display: inline-block; max-height: 40px; max-width: 40px; " /></a></div>
-  </div>
-</div>
-  </div>
-	</div>
-	<div class="col-sm-12 footer-bottom">
-		<div style="text-align: center; border-top: 1px solid #777;display:none;">
-		<a href="">Privacy</a> | <a href="">Terms</a>
-		</div>
-	</div>
-</footer>
-  	  <script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
-<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=32&cb=1795359478" async></script></body>
-</html>
+Licensed Phlebotomist Course | UCLA CPC
+Skip to main content
+[ Login / Register ]
+0  items in cart
+Toggle navigation
+Licensed Phlebotomist Course
+99% Board Exam First-Time Pass Rate
+COVID UPDATE
+Licensed Phlebotomist
+|
+Schedule
+|
+Finances
+|
+Eligibility
+|
+Materials
+|
+FAQs
+Masks:
+UCLA recommends well-fitting masks in all facilities. Outdoor masking is optional for all.
+COVID-19 Vaccination Requirement:
+The University of California requires all students to be fully vaccinated against COVID-19, including a booster dose to access University facilities and programs. Students who cannot provide proof of COVID-19 vaccination may experience delays in clinical or field placement, extended completion times and the inability to meet course requirements for certification. Limited allowance for medical and religious exemption is reviewed with supporting documentation.
+Students are asked to only attend class if they are healthy and will complete a UCLA Health Symptom Survey for each day they are on-site.
+Start Your Medical Career with UCLA’s Phlebotomy Course
+Becoming a phlebotomist is a great way to start your career in healthcare, build experience and learn skills to work in a variety of healthcare settings.
+LEARN MORE
+Free Info Session – February 20 @ 6:30 PM
+Join an online information session with our Phlebotomy faculty to determine if our Phlebotomy program is right for you!
+RSVP TODAY
+Phlebotomy Course Format:
+The course consists of in person didactic (lectures), skills lab instruction and clinical rotations. Didactic instruction takes place over six weeks. Clinical rotations will begin after passing the Skills Practice and Skills Final Exam usually after Week 5 and may continue as long as two months depending on your availability and availability of shifts.
+Duration: 6 weeks lecture plus clinical
+Lectures:
+Tu & Th 6PM-10PM
+Skills lab:
+Sat or Sun 8AM-6PM
+Available clinical shifts may include day and weekend shifts. In the clinical phase, you will be rotated through UCLA hospitals and affiliated community clinics.
+Enroll Today
+Upcoming Courses
+Course fee: $2,275 • Nonrefundable: $200
+CLASSES HERE
+Required Materials:
+The textbook and fees for Complio compliance tracking are not included in the course fee. Please see the Required Materials page for these costs. Phlebotomy students must have access to a stable internet connection and a tablet or laptop computer (Windows or Mac) for testing purposes.
+Payment Plans
+You can enroll in a payment plan for eligible courses and secure your seat with a down payment.
+LEARN MORE
+Resources
+PCRF
+Contact
+Portal
+SRRS Staff Page
+Associate Resources
+Courses
+EMT
+Paramedic
+CPR, ACLS, PALS
+Phlebotomy
+Trauma
+Students
+Payment Methods
+Financial Aid
+Books
+Transcripts
+About Us
+Contact
+Giving
+Leadership
+Equity, Diversity
+& Inclusion
+Our History
+Jobs at CPC
+Privacy Practices
+Privacy
+|
+Terms

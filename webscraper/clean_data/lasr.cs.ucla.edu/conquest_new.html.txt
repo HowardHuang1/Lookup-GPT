@@ -1,238 +1,248 @@
-<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
-<html>
-<head>
-  <meta http-equiv="Content-Type"
- content="text/html; charset=iso-8859-1">
-  <meta name="GENERATOR"
- content="Mozilla/4.79 [en] (X11; U; Linux 2.4.18-3smp i686) [Netscape]">
-  <title>Conquest File System</title>
-</head>
-<body
- style="color: rgb(255, 255, 255); background-color: rgb(102, 51, 102);"
- link="#ffff00" vlink="#33ccff" alink="#ffff00">
-<blockquote>
-  <h1>
-  <hr width="100%"></h1>
-  <h1> <font color="#ffff00"><i>Conquest</i> File System</font></h1>
-  <font size="+1">NSF grant CCR-0098363</font>
-  <p><a href="http://www.cs.fsu.edu/%7Eawang">An-I Andy Wang </a> <br>
-  <i>Florida State University</i> </p>
-  <p><a href="http://lasr.cs.ucla.edu/geoff">Geoffrey H. Kuenning</a> <br>
-  <i>Harvey Mudd College</i> </p>
-  <p>RuGang Xu, <a
- href="http://www.lasr.cs.ucla.edu/reiher.new/index2.html">Peter
-Reiher</a>, and <a href="http://lasr.cs.ucla.edu/popek">Gerald
+Conquest File System
+Conquest
+File System
+NSF grant CCR-0098363
+An-I Andy Wang
+Florida State University
+Geoffrey H. Kuenning
+Harvey Mudd College
+RuGang Xu,
+Peter
+Reiher
+, and
+Gerald
 J.
-Popek</a> <br>
-  <i>UCLA, The Laboratory for Advanced Systems Research</i> </p>
-  <center>
-  <hr width="100%"></center>
-  <p>The rapidly declining cost of persistent RAM technologies prompts
+Popek
+UCLA, The Laboratory for Advanced Systems Research
+The rapidly declining cost of persistent RAM technologies prompts
 the
 question of when, not whether, such memory will become the preferred
 storage
-medium for many computers.&nbsp; In anticipation of that development,
+medium for many computers.  In anticipation of that development,
 we
-present <i>Conquest</i>, a file system that provides a transition from
-disk to persistent RAM as the primary storage medium. <i>Conquest</i>
+present
+Conquest
+, a file system that provides a transition from
+disk to persistent RAM as the primary storage medium.
+Conquest
 is
 incrementally deployable and realizes most of the benefits of
 persistent
-RAM as it becomes cheaply abundant.&nbsp; As of October 2001, <i>Conquest</i>
-can be used effectively for a hardware cost of below $200. </p>
-  <p>We compare <i>Conquest</i>'s performance to <i>ext2, reiserfs,
-SGI XFS,</i>
-and <i>ramfs,</i> using popular benchmarks.&nbsp; Our measurements
+RAM as it becomes cheaply abundant.  As of October 2001,
+Conquest
+can be used effectively for a hardware cost of below $200.
+We compare
+Conquest
+'s performance to
+ext2, reiserfs,
+SGI XFS,
+and
+ramfs,
+using popular benchmarks.  Our measurements
 show
-that <i>Conquest</i> incurs little overhead compared to <i>ramfs</i>.&nbsp;
-Compared to disk-based file systems, <i>Conquest</i> achieves 24% to
+that
+Conquest
+incurs little overhead compared to
+ramfs
+. 
+Compared to disk-based file systems,
+Conquest
+achieves 24% to
 1900%
 faster performance for working sets that fit in memory, and 43% to 96%
-faster performance with working sets larger than the memory size. </p>
-  <center>
-  <hr width="100%"></center>
-  <h2> <font color="#ffff00"><i>Conquest</i> Architecture</font></h2>
-  <hr width="100%">
-  <p><i>Conquest </i>uses memory to store all metadata, small files
+faster performance with working sets larger than the memory size.
+Conquest
+Architecture
+Conquest
+uses memory to store all metadata, small files
 (currently
 based on a size threshold), executables, and shared libraries, leaving
-only the content of large files on disk.&nbsp; All accesses to in-core
+only the content of large files on disk.  All accesses to in-core
 data and metadata incur no data duplication or disk-related overhead,
 and
-executions are in-place.&nbsp; For the large-file-only disk storage, we
-use a larger access granularity to reduce the seek-time overhead.&nbsp;
+executions are in-place.  For the large-file-only disk storage, we
+use a larger access granularity to reduce the seek-time overhead. 
 Because most accesses to large files are sequential, we can relax many
 historical disk design constraints, such as complex layout heuristics
 intended
-to reduce fragmentation or average seek times. <br>
-&nbsp; <br>
-&nbsp; <br>
-  <br>
-  </p>
-  <center>
-  <p><img src="conquest6.jpg" height="370" width="508"></p>
-  </center>
-</blockquote>
-<blockquote>
-  <hr width="100%">
-  <h2><font color="#ffff00">Publications</font></h2>
-  <hr width="100%">
-  <dl>
-    <dt>Wang03b</dt>
-    <dd>An-I Andy Wang, Geoffrey H. Kuenning, Peter Reiher, Gerald J.
-Popek. <a href="//lasr.cs.ucla.edu/awang/papers/spects2003a.html">The
-Effects of Memory-Rich Environments on File System Microbenchmarks</a>.
-      <i>Proceedings of the 2003 International Symposium on Performance
-Evaluation of Computer and Telecommunication Systems (SPECTS)</i>,
-Montreal, July 2003.&lt;<a
- href="//lasr.cs.ucla.edu/awang/papers/spects2003a.html">http://lasr.cs.ucla.edu/awang/papers/spects2003a.html</a>&gt;</dd>
-    <dt>Wang03a</dt>
-    <dd>An-I Andy Wang. <a
- href="//lasr.cs.ucla.edu/awang/papers/dissertation.ps">The <i>Conquest</i>
+to reduce fragmentation or average seek times.
+Publications
+Wang03b
+An-I Andy Wang, Geoffrey H. Kuenning, Peter Reiher, Gerald J.
+Popek.
+The
+Effects of Memory-Rich Environments on File System Microbenchmarks
+.
+Proceedings of the 2003 International Symposium on Performance
+Evaluation of Computer and Telecommunication Systems (SPECTS)
+,
+Montreal, July 2003.<
+http://lasr.cs.ucla.edu/awang/papers/spects2003a.html
+>
+Wang03a
+An-I Andy Wang.
+The
+Conquest
 File System: A Disk/Persistent-RAM Hybrid Design for Better Performance
-and Simpler Data Paths</a>. Ph.D. Dissertation. Computer Science
-Department, University of California, Los Angeles, March 2003.&lt;<a
- href="//lasr.cs.ucla.edu/awang/papers/dissertation2003a.html">http://lasr.cs.ucla.edu/awang/papers/dissertation2003a.html</a>&gt;</dd>
-    <dt>Wang02b</dt>
-    <dd>An-I Andy Wang, Geoffrey H. Kuenning, Peter Reiher, Gerald J.
-Popek. <a href="//lasr.cs.ucla.edu/awang/papers/usenix2002.ps"><i>Conquest</i>:
-Better Performance Through a Disk/Persistent-RAM Hybrid File System. </a><i>Proceedings
-of the 2002 USENIX Annual Technical Conference</i>, Monterey, June
+and Simpler Data Paths
+. Ph.D. Dissertation. Computer Science
+Department, University of California, Los Angeles, March 2003.<
+http://lasr.cs.ucla.edu/awang/papers/dissertation2003a.html
+>
+Wang02b
+An-I Andy Wang, Geoffrey H. Kuenning, Peter Reiher, Gerald J.
+Popek.
+Conquest
+:
+Better Performance Through a Disk/Persistent-RAM Hybrid File System.
+Proceedings
+of the 2002 USENIX Annual Technical Conference
+, Monterey, June
 2002.
-&lt;<a href="//lasr.cs.ucla.edu/awang/papers/usenix2002a.html">http://lasr.cs.ucla.edu/awang/papers/usenix2002a.html</a>&gt;</dd>
-    <dt>Wang02a</dt>
-    <dd>An-I Andy Wang, Geoffrey H. Kuenning, Peter Reiher, Gerald J.
+<
+http://lasr.cs.ucla.edu/awang/papers/usenix2002a.html
+>
+Wang02a
+An-I Andy Wang, Geoffrey H. Kuenning, Peter Reiher, Gerald J.
 Popek. Work-in-Progress
-Report: <i>Conquest</i>: Better Performance Through a
+Report:
+Conquest
+: Better Performance Through a
 Disk/Persistent-RAM
-Hybrid File System. <i>On-Line Proceedings of the First USENIX
+Hybrid File System.
+On-Line Proceedings of the First USENIX
 Conference
-on File and Storage Technologies (FAST)</i>, Monterey, January 2002.</dd>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a
- href="http://lasr.cs.ucla.edu/awang/papers/fast2002a.html">
-http://lasr.cs.ucla.edu/awang/papers/fast2002a.html</a>&gt;<br>
-    <dt>&nbsp;Wang01a</dt>
-    <dd>An-I Andy Wang, Geoffrey H. Kuenning, Peter Reiher, Gerald J.
+on File and Storage Technologies (FAST)
+, Monterey, January 2002.
+<
+http://lasr.cs.ucla.edu/awang/papers/fast2002a.html
+>
+Wang01a
+An-I Andy Wang, Geoffrey H. Kuenning, Peter Reiher, Gerald J.
 Popek. Position
-Summary: The <i>Conquest</i> File System--Life after Disks. <i>Proceedings
-of the 8th IEEE Workshop on Hot Topics in Operating Systems (HotOS VIII)</i>,
-Schloss Elmau, Germany, May 2001.</dd>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a
- href="http://lasr.cs.ucla.edu/awang/papers/hotos2001.html">
-http://lasr.cs.ucla.edu/awang/papers/hotos2001.html</a>&gt;
-  </dl>
-  <hr width="100%">
-  <h2><font color="#ffff00">Presentations</font></h2>
-  <hr width="100%"> <br>
-  <p
- style="margin-top: 0in; margin-bottom: 0in; margin-left: 0.5in; text-indent: -0.5in;">RuGang
-Xu. <a href="//www.cs.fsu.edu/%7Eawang/papers/sospwip2003.pdf"><i>Conquest</i>:
+Summary: The
+Conquest
+File System--Life after Disks.
+Proceedings
+of the 8th IEEE Workshop on Hot Topics in Operating Systems (HotOS VIII)
+,
+Schloss Elmau, Germany, May 2001.
+<
+http://lasr.cs.ucla.edu/awang/papers/hotos2001.html
+>
+Presentations
+RuGang
+Xu.
+Conquest
+:
 Combining Battery-Backed RAM and Threshold-Based Storage Scheme to
-Conserve Power</a>.&nbsp;
-Presented at the <i>19th Symposium on Operating Systems Principles
-(SOSP)</i>, New York, October 2003. <br>
-&nbsp; </p>
-  <p
- style="margin-top: 0in; margin-bottom: 0in; margin-left: 0.5in; text-indent: -0.5in;">Geoffrey
-H. Kuenning. <a href="../../conquest/ghk_colloquium_web">The Disk is
-Dead! Long Live the Disk!</a>.&nbsp;
+Conserve Power
+. 
+Presented at the
+19th Symposium on Operating Systems Principles
+(SOSP)
+, New York, October 2003.
+Geoffrey
+H. Kuenning.
+The Disk is
+Dead! Long Live the Disk!
+. 
 Presented at the Computer Science Colloquium, Harvey Mudd College,
-Claremont, April 2003. <br>
-&nbsp; </p>
-  <p
- style="margin-top: 0in; margin-bottom: 0in; margin-left: 0.5in; text-indent: -0.5in;">An-I
-Andy Wang. <a href="../../conquest/cs239-10-24-2002.ppt"><i>Conquest</i>:&nbsp;
-Preparing for Life After Disks</a>.&nbsp;
+Claremont, April 2003.
+An-I
+Andy Wang.
+Conquest
+: 
+Preparing for Life After Disks
+. 
 Presented at the University of California,
 Los Angeles, Advanced Operating Systems Lecture, Los Angeles, October
-2002. <br>
-&nbsp; </p>
-  <p
- style="margin-top: 0in; margin-bottom: 0in; margin-left: 0.5in; text-indent: -0.5in;">An-I
-Andy Wang. <a href="../../conquest/usenix2002.ppt"><i>Conquest</i>:&nbsp;
-Better Performance Through a Disk/Persistent-RAM Hybrid File System</a>.&nbsp;
-Presented at the <i>2002 USENIX Annual Technical Conference</i>,
+2002.
+An-I
+Andy Wang.
+Conquest
+: 
+Better Performance Through a Disk/Persistent-RAM Hybrid File System
+. 
+Presented at the
+2002 USENIX Annual Technical Conference
+,
 Monterey,
-June 2002. <br>
-&nbsp; </p>
-  <p
- style="margin-top: 0in; margin-bottom: 0in; margin-left: 0.5in; text-indent: -0.5in;">An-I
-Andy Wang. <a href="../../conquest/conquest.ppt">The <i>Conquest</i>
-File System:&nbsp; Life After Disks</a>.&nbsp; Poster presented at the
+June 2002.
+An-I
+Andy Wang.
+The
+Conquest
+File System:  Life After Disks
+.  Poster presented at the
 UCLA Computer Science Department Annual Research Review, UCLA, Los
 Angeles,
-April 2002. <br>
-&nbsp; </p>
-  <p
- style="margin-top: 0in; margin-bottom: 0in; margin-left: 0.5in; text-indent: -0.5in;">An-I
-Andy Wang. <i>Conquest</i>:&nbsp;
+April 2002.
+An-I
+Andy Wang.
+Conquest
+: 
 Better Performance Through a Disk/Persistent-RAM Hybrid File
-System.&nbsp;
-Presented at the <i>First USENIX Conference on File and Storage
+System. 
+Presented at the
+First USENIX Conference on File and Storage
 Technologies
-(FAST)</i>, Monterey, January 2002. <br>
-&nbsp; </p>
-  <p
- style="margin-top: 0in; margin-bottom: 0in; margin-left: 0.5in; text-indent: -0.5in;">An-I
-Andy Wang. <i>Conquest</i>:&nbsp;
-RAM as Storage; Disks as Tapes.&nbsp; Presented at the University of
+(FAST)
+, Monterey, January 2002.
+An-I
+Andy Wang.
+Conquest
+: 
+RAM as Storage; Disks as Tapes.  Presented at the University of
 California,
 Los Angeles, Advanced Operating Systems Lecture, Los Angeles, November
-2001. <br>
-&nbsp; </p>
-  <p
- style="margin-top: 0in; margin-bottom: 0in; margin-left: 0.5in; text-indent: -0.5in;">An-I
-Andy Wang.&nbsp; The <i>Conquest</i>
-File System:&nbsp; Life after Disks.&nbsp; Poster presented at the UCLA
+2001.
+An-I
+Andy Wang.  The
+Conquest
+File System:  Life after Disks.  Poster presented at the UCLA
 Computer Science Department Annual Research Review, UCLA, Los Angeles,
-April 2001. <br>
-&nbsp; </p>
-  <p
- style="margin-top: 0in; margin-bottom: 0in; margin-left: 0.5in; text-indent: -0.5in;">An-I
+April 2001.
+An-I
 Andy Wang. Integration
-of Memory and File System Services via Persistent RAM.&nbsp; Presented
+of Memory and File System Services via Persistent RAM.  Presented
 at the Computer Science Colloquium, Harvey Mudd College, Claremont,
 October
-1999. </p>
-  <hr width="100%">
-  <h2><font color="#ffff00">Press Coverage</font></h2>
-  <hr width="100%"> <br>
-  <p
- style="margin-top: 0in; margin-bottom: 0in; margin-left: 0.5in; text-indent: -0.5in;"><a
- href="http://developers.slashdot.org/developers/03/04/21/151229.shtml?tid=198&amp;tid=137"><i>Conquest</i>
-FS: The Disk is Dead</a>, <i>Slashdot</i>, April 21 2003. <br>
-&nbsp; </p>
-  <p
- style="margin-top: 0in; margin-bottom: 0in; margin-left: 0.5in; text-indent: -0.5in;">Eugenia
-Loli-Queru. <a href="http://www.osnews.com/topic.php?icon=31">Learning
-About the <i>Conquest</i> File System</a>, <i>OS News</i>, April 21
-2003. <br>
-  <br>
-  </p>
-Shawn Harty. Not Your Father's File System, <span
- style="font-style: italic;">hartys.net::the blog</span>, April 21,
-2003.<br>
-  <p
- style="margin-top: 0in; margin-bottom: 0in; margin-left: 0.5in; text-indent: -0.5in;">&nbsp;<br>
-  </p>
-  <p
- style="margin-top: 0in; margin-bottom: 0in; margin-left: 0.5in; text-indent: -0.5in;"
- margin-top="" 0in="" margin-bottom="" margin-left="" 0.5in=""
- text-indent="" -0.5in="">H. Baltazar&nbsp; <a
- href="http://www.eweek.com/article2/0,3959,1076,00.asp">DAFS, <i>Conquest</i>
-May Pave Way for Future File Systems</a>, <i>eWeek</i>, Ziff Davis
+1999.
+Press Coverage
+Conquest
+FS: The Disk is Dead
+,
+Slashdot
+, April 21 2003.
+Eugenia
+Loli-Queru.
+Learning
+About the
+Conquest
+File System
+,
+OS News
+, April 21
+2003.
+Shawn Harty. Not Your Father's File System,
+hartys.net::the blog
+, April 21,
+2003.
+H. Baltazar
+DAFS,
+Conquest
+May Pave Way for Future File Systems
+,
+eWeek
+, Ziff Davis
 Media,
-June 17 2002. <br>
-&nbsp; </p>
-  <p
- style="margin-top: 0in; margin-bottom: 0in; margin-left: 0.5in; text-indent: -0.5in;"><i>Conquest</i>
-File System.&nbsp; <i>LisoLeg: Linux Source Learning Group</i>, 2000. </p>
-  <hr width="100%">
-  <center>You are visitor number&nbsp;<img
- src="/cgi-bin/awang/Count.cgi?df=conquest.dat" align="middle">
-since November 11, 2001.</center>
-  <address> <a href="mailto:awang@cs.fsu.edu">awang@cs.fsu.edu</a></address>
-  <br>
-Last modified:&nbsp; July 2006</blockquote>
-</body>
-</html>
+June 17 2002.
+Conquest
+File System.
+LisoLeg: Linux Source Learning Group
+, 2000.
+You are visitor number
+since November 11, 2001.
+awang@cs.fsu.edu
+Last modified:  July 2006

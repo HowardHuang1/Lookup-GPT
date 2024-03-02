@@ -1,655 +1,87 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-
-      	<!-- Google Tag Manager -->
-	  	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-      	})(window,document,'script','dataLayer','GTM-M4CXQ7');</script>
-	  	<!-- End Google Tag Manager -->
-
-        <script src="https://www.youtube.com/iframe_api"></script>
-
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=11">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="format-detection" content="telephone=no">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="google-site-verification" content="QS5gayPg38zC46YsAx4a9c3v4qTBkn-R69g90pQgpB0" />
-
-        <title>Brand Guidelines | Identity | Imagery | Photography and Videography</title>
-        <meta name="description" content="Learn how to create and source photography and videography that communicate and complement the UCLA brand."/>
-
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-
-		<!-- Main CSS -->
-		<link href="https://www.brand.ucla.edu/css/app.css" rel="stylesheet" type="text/css">
-    </head>
-<body>
-
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4CXQ7"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-
-    <header id="header">
-      <div class="ribbon">
-
-        <div class="logo">
-          <a href="http://ucla.edu" class="gtm-main-nav-logo" target="_blank"><img src="/images/logo-ucla.svg" alt="UCLA logo"></a>
-        </div>
-
-        <div class="log-in">
-				        	<a href="https://www.brand.ucla.edu/login/YToxOntzOjQ6InBhdGgiO3M6NDU6Ii9pZGVudGl0eS9pbWFnZXJ5L3Bob3RvZ3JhcGh5LWFuZC12aWRlb2dyYXBoeSI7fQ==" class="gtm-main-nav">Log In</a>
-	                </div>
-
-      </div>
-    </header>
-    <nav id="main-nav">
-      <div class="nav-toggle">
-
-        <!-- HAMBURGER NAV -->
-        <input type="checkbox" class="gtm-main-nav-hamburger-icon" aria-label="Hamburger Menu" />
-        <div class="hamburger-icon">
-          <span></span>
-          <span></span>
-          <span></span>
-        </div>
-
-        <!-- MENU -->
-        <ul class="nav">
-          <li class="site-name"><a href="https://www.brand.ucla.edu" class="gtm-main-nav">Brand Guidelines</a></li>
-
-          <!-- FUNDAMENTALS -->
-          <li id="fundamentals-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Fundamentals
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">Who we are</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/brand-defined" class="gtm-main-nav">Brand Defined</a></div>
-                  <p>The UCLA brand, core mission, key message, brand pillars and personality</p>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/brand-protection" class="gtm-main-nav">Brand Protection</a></div>
-                  <p>Policies, permissions and approvals to use UCLA logos and marks</p>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/accessibility" class="gtm-main-nav">Accessibility</a></div>
-                  <p>Creating an inclusive experience for everyone</p>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/fundamentals/edi" class="gtm-main-nav">EDI</a></div>
-                  <p>Learn how to reflect UCLA’s vision for equity, diversity and inclusion and avoid EDI messaging pitfalls with our tips and resources.</p>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <!-- IDENTITY -->
-          <li id="identity-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Identity
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">How we look and talk</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/identity/logos-and-marks" class="gtm-main-nav">Logos and Marks</a></div>
-                  <ul>
-                    <li><a href="/identity/logos-and-marks/campus-logo" class="gtm-main-nav">Campus Logo</a></li>
-                    <li><a href="/identity/department-logos" class="gtm-main-nav">Department Logos</a></li>
-                    <li><a href="/identity/logos-and-marks/script-logo" class="gtm-main-nav">Script Logo</a></li>
-                    <li><a href="/identity/logos-and-marks/seals" class="gtm-main-nav">UCLA Seal</a></li>
-                    <li><a href="/identity/logos-and-marks/historical-logos-and-marks" class="gtm-main-nav">Historical Marks</a></li>
-                  </ul>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/identity/names-and-naming" class="gtm-main-nav">Names and Naming</a></div>
-                  <div class="h5"><a href="/identity/colors" class="gtm-main-nav">Colors</a></div>
-                  <div class="h5"><a href="/identity/typography" class="gtm-main-nav">Typography</a></div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/identity/imagery" class="gtm-main-nav">Imagery</a></div>
-                  <ul>
-                    <li><a href="/identity/imagery/photography-and-videography" class="gtm-main-nav">Photography and Videography</a></li>
-                    <li><a href="/identity/imagery/graphic-elements" class="gtm-main-nav">Graphic Elements</a></li>
-                  </ul>
-                  <div class="h5"><a href="/identity/copy-editorial" class="gtm-main-nav">Copy and Editorial</a></div>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <!-- APPLICATION -->
-          <li id="application-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Application
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">How to apply brand guidelines across channels</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/application/print" class="gtm-main-nav">Print</a></div>
-                  
-                  <div class="h5"><a href="/application/web" class="gtm-main-nav">Web</a></div>
-                    <ul>
-                      
-                      <li><a href="/application/web/design-system" class="gtm-main-nav">Design System</a></li>
-                      <li><a href="/application/web/cms-resources" class="gtm-main-nav">CMS Resources</a></li>
-                      <li><a href="/application/web/best-practices" class="gtm-main-nav">Best Practices</a></li>
-                      
-                    </ul>
-                  
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/application/presentations" class="gtm-main-nav">Presentations</a></div>
-                  
-                  <div class="h5"><a href="/application/email" class="gtm-main-nav">Email</a></div>
-                  <ul>
-                    <li><a href="/application/email/templates" class="gtm-main-nav">Templates</a></li>
-                    <li><a href="/application/email/best-practices" class="gtm-main-nav">Best practices</a></li>                    
-                    <li><a href="/application/email/staff-signature" class="gtm-main-nav">Staff signature</a></li>
-                  </ul> 
-                  
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a class="gtm-main-nav" href="/application/social-media">Social Media</a></div>
-                  <div class="h5"><a href="/application/video" class="gtm-main-nav">Video</a></div>
-                  <ul>
-                    <li><a href="/application/video/elements-and-styles" class="gtm-main-nav">Elements and styles</a></li>
-                    <li><a href="/application/video/best-practices" class="gtm-main-nav">Best practices</a></li>
-                  </ul>
-                  
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <!-- INITIATIVES -->
-          <!-- <li id="initiatives-nav-item" class="nav-item">
-            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Initiatives
-              <span class="arrow-down"></span>
-            </a>
-            <div aria-label="submenu">
-              <div class="dropdown">
-                <div class="nav-item-blurb">
-                  <div class="h5">Major initiatives across campus</div>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/initiatives/centennial-celebration" class="gtm-main-nav">Centennial Celebration</a></div>
-                    <ul>
-                      <li><a href="/initiatives/centennial-celebration/identity-elements" class="gtm-main-nav">Identity Elements</a></li>
-                      <li><a href="/initiatives/centennial-celebration/templates" class="gtm-main-nav">Templates</a></li>
-                    </ul>
-                </div>
-                <div class="nav-column">
-                  <div class="h5"><a href="/initiatives/centennial-campaign" class="gtm-main-nav">The Centennial Campaign</a></div>
-                </div>
-                
-                  
-                  
-                
-              </div>
-            </div>
-          </li> -->
-
-          <!-- SEARCH -->
-          <li id="search-nav-item" class="nav-item search">
-            <form id="search-form" class="search-bar">
-              <div class="search-bar__container" id="searchbox">
-                <input id="site-search" class="form-control" aria-label="Search the Site" type="text" placeholder="Search">
-                <button type="button" class="gtm-main-nav-search-submit search-bar__submit btn blue" id="main-navigation-submit" aria-label="Search">
-                  <span class="search-bar__submit__text box-link">Search</span>
-                  </span>
-                </button>
-              </div>
-            </form>
-            <button type="button" class="gtm-main-nav-search-open search-open" id="main-navigation-search">
-              <img class="icon search-icon" src="/images/search-icon.svg" alt="Search button"/>
-            </button>
-          </li>
-        </ul>
-      </div>
-    </nav>
-
-
-    <div class="photo-and-videography jump-nav" >
-
-	    <section class="title" style="clear:both;">
-
-		    <div class="grid-wrapper">
-
-			    <div class="parent col-1-13">
-			    	<a href="/identity/imagery/" class="btn blue">Imagery</a>
-			    </div>
-
-		    	<h1 class="parent col-1-13">Photography and Videography</h1>
-				<!--
-		    	<div class="hero col-1-13">
-		    		<img src="/images/identity/imagery/photo-and-videography/id-imagery-photovideo-1.jpg" alt="A view of Powell Library and the sky above">
-		    	</div>
-				-->
-
-		    	<div class="jump-nav-links col-1-13">
-			    	<ul>
-				    	<li><a class="gtm-internal-page-link" href="#art-direction">Art Direction</a></li>
-				    	<li><a class="gtm-internal-page-link" href="#campus">Campus and Los Angeles</a></li>
-				    	<li><a class="gtm-internal-page-link" href="#people-undergrad">People: Undergraduates</a></li>
-				    	<li><a class="gtm-internal-page-link" href="#people-grad">People: Graduates / Professionals / Alumni</a></li>
-				    	<li><a class="gtm-internal-page-link" href="#historical">Historical Photographs</a></li>
-				    	<li><a class="gtm-internal-page-link" href="#do-not">Do Not</a></li>
-				    	<li><a class="gtm-internal-page-link" href="#image-library">Image Library</a></li>
-						<li><a class="gtm-internal-page-link" href="#permits">Photo and Video Shoot Permits</a></li>
-						<li><a class="gtm-internal-page-link" href="#specs">Photo and Video Specs</a></li>
-			    	</ul>
-		    	</div>
-
-		    </div>
-	    </section>
-
-
-
-	    <section id="art-direction" class="element top">
-		    <div class="grid-wrapper">
-
-			    <h2 class="col-1-13">Art Direction</h2>
-
-			    <div class="col-1-7">
-						<figure>
-							<img src="/images/identity/imagery/photo-and-videography/id-imagery-photovideo-2.jpg" alt="UCLA undergrads walking on campus">
-						</figure>
-
-						<figure>
-							<img src="/images/identity/imagery/photo-and-videography/id-imagery-photovideo-3.jpg" alt="A UCLA student and professor working together in the lab">
-						</figure>
-		    	</div>
-
-		    	<div class="col-7-13">
-			    	<p>
-				    	Imagery should capture UCLA&rsquo;s unique personality, conveying warmth, energy and the feeling that anything is possible. To that end, photos and videos should feel bright and inspirational, with light playing a central role. The sky and the sun represent the brand&rsquo;s themes as well as the characteristic weather, light and location of campus. Natural light is essential, and plentiful sunshine, natural washouts and sun flares are welcome.
-			    	</p>
-
-		    	</div>
-
-		    </div>
-	    </section>
-
-
-
-	    <section id="campus" class="element">
-		    <div class="grid-wrapper">
-
-			    <h2 class="col-1-13">Campus and Los Angeles</h2>
-
-			    <div class="col-1-7">
-						<figure>
-							<img src="/images/identity/imagery/photo-and-videography/id-imagery-photovideo-4.jpg" alt="UCLA undergrads walking on campus">
-						</figure>
-
-						<figure>
-							<img src="/images/identity/imagery/photo-and-videography/id-imagery-photovideo-5.jpg" alt="A view of the front of Saxon Suites">
-						</figure>
-		    	</div>
-
-		    	<div class="col-7-13">
-			    	<p>
-				    	The sky plays a key role in UCLA&rsquo;s imagery &mdash; it conveys a feeling of possibility and opportunity. When taking photos of campus and Los Angeles, keep as much sky present in the photo as possible. Photos may also be taken from directly below to create dramatic crops of campus and Los Angeles, but this should be used sparingly. Nighttime imagery should be kept to a minimum, but when necessary, lights (city lights, street lights, etc.) should be prominent.
-			    	</p>
-
-		    	</div>
-
-		    </div>
-	    </section>
-
-
-
-	    <section id="people-undergrad" class="element">
-		    <div class="grid-wrapper">
-
-			    <h2 class="col-1-13">People: Undergraduates</h2>
-
-			    <div class="col-1-7">
-						<figure>
-							<img src="/images/identity/imagery/photo-and-videography/id-imagery-photovideo-6.jpg" alt="A UCLA undergraduate laughing">
-						</figure>
-
-						<figure>
-							<img src="/images/identity/imagery/photo-and-videography/id-imagery-photovideo-7.jpg" alt="Two medical students working together">
-						</figure>
-
-					<!--
-			    	<span class="image-caption no-bottom-margin">
-			    		This Diagram shows how the width of the letter &ldquo;U&rdquo; can be used to determine the needed clear space around the logo.
-			    	</span>
-					-->
-		    	</div>
-
-		    	<div class="col-7-13">
-			    	<p>
-				    	Images of undergraduates should be captured in a photojournalistic style, capturing natural smiles and real interactions. Imagery will vary depending on audience, but in general, undergraduate images should take on a more youthful and vibrant style &mdash; aspirational, boundless and open to what&rsquo;s possible. When shooting indoors, the subject should be well lit, and always avoid using a heavy flash.
-			    	</p>
-
-		    	</div>
-
-		    </div>
-	    </section>
-
-
-
-	    <section id="people-grad" class="element">
-		    <div class="grid-wrapper">
-
-			    <h2 class="col-1-13">People: Graduates / Professionals / Alumni</h2>
-
-			    <div class="col-1-7">
-						<figure>
-							<img src="/images/identity/imagery/photo-and-videography/id-imagery-photovideo-8.jpg" alt="Anastasia Loukaitou-Sideris, Associate Dean, Luskin School of Public Affairs">
-						</figure>
-
-						<figure>
-							<img src="/images/identity/imagery/photo-and-videography/id-imagery-photovideo-9.jpg" alt="Abel Valenzuela Jr., Professor, Chicana/o Studies and Urban Planning">
-						</figure>
-
-			    	<!--
-					<span class="image-caption no-bottom-margin">
-			    		These diagrams show the minimum sizes for the unboxed and boxed campus logo.
-			    	</span>
-					-->
-		    	</div>
-
-		    	<div class="col-7-13">
-			    	<p>
-				    	For professional or institutional audiences, photos and videos should feel bold and bright, but take on a more sophisticated style. Staged portraiture should feel refined and graceful, not aggressive or provocative. Sun and natural light should feel present at all times, but not as directly as in undergraduate images.
-			    	</p>
-
-		    	</div>
-
-		    </div>
-	    </section>
-
-		<section id="historical" class="element">
-		    <div class="grid-wrapper">
-
-			    <h2 class="col-1-13">Historical Photographs</h2>
-
-			    <div class="col-1-7">
-						<figure>
-							<img src="/images/identity/imagery/photo-and-videography/id-imagery-photovideo-10.jpg" alt="Historical image">
-						</figure>
-
-						<figure>
-							<img src="/images/identity/imagery/photo-and-videography/id-imagery-photovideo-11.jpg" alt="Historical image">
-						</figure>
-
-			    	<!--
-					<span class="image-caption no-bottom-margin">
-			    		These diagrams show the minimum sizes for the unboxed and boxed campus logo.
-			    	</span>
-					-->
-		    	</div>
-
-		    	<div class="col-7-13">
-			    	<p>
-				    	The use of black and white and historical photos &mdash; whether it&rsquo;s alumni, campus or key moments in UCLA history &mdash; is encouraged. Obviously, different guidelines apply to the use images than contemporary images. Whether an image dates back to 1919 or 1979, embrace the visual look and feel of the era. UCLA has accomplished a lot in our first 100 years, and these images help provide a sense of our rich history.
-			    	</p>
-
-		    	</div>
-
-		    </div>
-	    </section>
-
-
-
-	    <section id="do-not" class="element">
-		    <div class="grid-wrapper">
-
-			    <h2 class="col-1-13">Do Not</h2>
-
-				<div class="col-1-13 no-padding">
-					<div class="grid-3x3">
-					    <div>
-						    <img src="/images/identity/imagery/photo-and-videography/id-imagery-photovideo-dont-1.jpg" alt="A zoomed-in photo of a building" >
-						    <p>Do not focus too heavily on buildings.</p>
-					    </div>
-
-					    <div>
-						    <img src="/images/identity/imagery/photo-and-videography/id-imagery-photovideo-dont-2.jpg" alt="Cropped image of an undergraduate">
-						    <p>Do not crop an image so severely that the subject and emotion are compromised.</p>
-					    </div>
-
-					    <div>
-						    <img src="/images/identity/imagery/photo-and-videography/id-imagery-photovideo-dont-3.jpg" alt="A photo of a man using a dark blue colored filter">
-						    <p>Do not use colorizing or other dramatic filters.</p>
-					    </div>
-
-					    <div>
-						    <img src="/images/identity/imagery/photo-and-videography/id-imagery-photovideo-dont-4.jpg" alt="A photo of a faculty member using flash lighting">
-						    <p>Do not use flash photography to supplement or replace natural light.</p>
-					    </div>
-
-					    <div>
-						    <img src="/images/identity/imagery/photo-and-videography/id-imagery-photovideo-dont-5.jpg" alt="A faculty member photo staged in a studio">
-						    <p>Do not stage portraits in a studio. Capture your subject in his or her natural surroundings.</p>
-					    </div>
-
-					    <div>
-						    <img src="/images/identity/imagery/photo-and-videography/id-imagery-photovideo-dont-6.jpg" alt="Nine undergrads posing and smiling together">
-						    <p>Do not use overly staged photography.</p>
-					    </div>
-					</div>
-
-					<!--
-					<div class="caption">
-				    	<span class="image-caption no-bottom-margin">
-				    		<strong>Note:</strong> All of these examples were created to illustrate a point. They are not the work of any campus unit.
-				    	</span>
-			    	</div>
-					-->
-			    </div>
-		    </div>
-	    </section>
-
-
-	    <!--
-	    <section id="downloads" class="element download">
-
-		    <form name="download">
-			    <div class="wrapper">
-
-				    <h2>Image Library</h2>
-
-				    <div class="col-two-thirds">
-
-					    <label for="color">Select your download</label>
-
-					    <select id="color" name="color">
-						    <option value="">White logo in UCLA Blue box</option>
-					    </select>
-
-					    <input type="checkbox" name="agree" id="agree" value="agree">
-					    <label for="agree">By downloading artwork I am agreeing to use the Campus Logo only as specified in Policy 110 and this Brand Guidelines site.</label>
-
-					    <br/>
-
-					    <input class="btn blue lrg" type="button" name="download" value="Download">
-				    </div>
-
-			    </div>
-		    </form>
-	    </section>
-	    -->
-
-		<section id="image-library" class="element">
-		    <div class="grid-wrapper">
-
-			    <h2 class="col-1-13">Image Library</h2>
-
-			    <div class="col-1-9">
-
-				    <!--<p>
-				    	The <a href="http://images.ucla.edu" target="_blank">UCLA Image Library</a> is available for marketing, communications and development professionals across campus. To obtain access to the Image Library, please follow the instructions below. Images are for business use only, and not for personal or professional use.
-				    </p>-->
-				    <ul class="unordered-list">	
-				    	<li>To gain access to the image library, please email: <a href="mailto:images@ucla.edu">images@ucla.edu</a>.</li>
-						<li>In the body of the email, please provide your name, campus unit/department, and cc your Marketing Communications lead. <strong>*Your request will not be answered without this information.</strong> </li>
-				    	<li>Once the email has been received, a training session will be scheduled prior to access.</li>
-				    	<li>After the scheduled training session, you will then be provided access to view assets in the Library and download images with watermarks for FPO use.</li>
-						<li>For hi-res images and Brand fonts, submit an asset request with details on <strong>how</strong> and <strong>where</strong> you intend to use the asset in the “comments section.” &lpar;If the information is not provided, your request will not be approved&rpar;.</li>
-				    	<li>Once approved, you will receive an email notification from Canto to download requested assets.</li>
-						<li>Should you have any additional questions, please email: <a href="mailto:images@ucla.edu">images@ucla.edu.</a></li>
-				    </ul>	
-				    <br/>
-					<p>
-				    	The UCLA Daily Bruin is also an excellent source for photos of campus events. A licensing fee is charged. See the <a href="https://dailybruin.com/contact/" target="_blank">Daily Bruin Contact Us page</a> “Request a print or digital copy of a photograph…” section.
-				    </p>
-						<p>
-				    	<a href="https://www.asuclaphotography.com/index" target="_blank">ASUCLA Photography</a> is also an extensive resource for historical photos.
-				    </p>
-
-			    </div>
-		    </div>
-	    </section>
-
-		<section id="permits" class="element">
-		    <div class="grid-wrapper">
-
-			    <h2 class="col-1-13">Photo and Video Shoot Permits</h2>
-
-			    <div class="col-1-9">
-
-				    <p>
-				    	If you are shooting outside your own department, you need a permit from the Events Office. <a href="http://uclaevents.com/filming-and-photography/how-to-film-at-ucla/" target="_blank">Request a permit via UCLA Events here</a>. See Section B. parts 1 &amp; 2 of <a href="http://www.adminpolicies.ucla.edu/APP/Number/863.0" target="_blank">Policy 863</a>.
-				    </p>
-						<p>
-				    	If you hire an outside photographer or videographer, you need to work with purchasing to ensure the individual has appropriate liability insurance. You should engage the photographer on a work-for-hire basis, or obtain a written agreement that UCLA will have unlimited usage rights to the photography or videography.
-				    </p>
-
-			    </div>
-		    </div>
-	    </section>
-
-		<section id="specs" class="element">
-		    <div class="grid-wrapper">
-
-			    <h2 class="col-1-13">Photo and Video Specs</h2>
-
-			    <div class="col-1-9">
-
-				    <h3>Alt Text</h3>
-						<p>
-				    	Image alt text (alternative text) is used within HTML code to describe the appearance and function of an image on a web page. Alt text is a central principle of web accessibility. Visually impaired people using screen readers read alt text to better understand the image, and it also provides context to search engines, helping them to index an image properly. When writing alt text, describe the image as specifically as possible, but keep it short &mdash; the most popular screen readers cut off alt text at around 125 characters.
-				    </p>
-					<h3>File Sizes and Specs</h3>
-
-					<dl>
-			    	<dt><strong>Print images:</strong></dt> <dd>CMYK color format, TIFF, PSD, or JPEG at 300 dpi</dd>
-			    	<dt><strong>Web/digital images:</strong></dt> <dd>RGB Color format, JPEG or PNG ranging from 72 dpi to 300 dpi</dd>
-		    	</dl>
-
-			    </div>
-		    </div>
-	    </section>
-
-
-    </div>
-
-
-
-<footer id="footer">
-			<div class="wrapper">
-				<img class="logo" src="/images/logo-stratcomm.svg" alt="UCLA Strategic Communications logo">
-				<div class="footer-content">
-					<div class="col-1">
-						<p>
-							10889 Wilshire Blvd. | Ste 1400<br>
-							Los Angeles, CA 90024<br>
-						</p>
-						<p class="contact">
-							<ul>
-								<li><a class="gtm-footer-link-phone" href="tel:3108254321">(310) 825-4321</a></li>
-								<li><a class="gtm-footer-link-mailto" href="mailto:brand@stratcomm.ucla.edu">brand@stratcomm.ucla.edu</a></li>
-							</ul>
-						</p>
-					</div>
-					<div class="col-2">
-						<div class="h5">Learn More</div>
-							<ul>
-								<li><a class="gtm-footer-link-internal gtm-download-file-pdf" href="/assets/ucla-brand-glossary.pdf" target="_blank" data-button-name="Glossary Footer">Glossary (PDF 52KB)</a></li>
-								<li><a class="gtm-footer-link-internal" href="/resources">Resources</a></li>
-							</ul>
-					</div>
-					<div class="col-3">
-						<div class="h5">Related Websites</div>
-							<ul>
-								<li><a class="gtm-footer-link-outbound" href="https://www.marks.ucla.edu" target="_blank">Permission to use UCLA Marks</a></li>
-								<li><a class="gtm-footer-link-outbound" href="http://socialmedia.ucla.edu" target="_blank">Social Media at UCLA</a></li>
-								<li><a class="gtm-footer-link-outbound" href="http://identity.uclahealth.org" target="_blank">UCLA Health Identity</a></li>
-								<li><a class="gtm-footer-link-outbound" href="https://asucla.ucla.edu/licensing/" target="_blank">UCLA Trademarks and Licensing</a></li>
-								<li><a class="gtm-footer-link-outbound" href="https://www.adminvc.ucla.edu/marks/report-a-violation" target="_blank">Report improper use of UCLA Marks</a></li>
-							</ul>
-					</div>
-				</div>
-				<div class="sign-up">
-					<div class="blurb">
-						<div class="h5">Stay Informed</div>
-						Join the brand guidelines email list to hear about resources and updates
-					</div>
-
-					<div id="form-messages">
-						<form id="email-signup" method="post" action="/api/newsletter" pageId="22355370" siteId="549861" parentPageId="22355367" autocomplete="off">
-							<div class="field email-field">
-								<input type="text" name="Email" id="control_EMAIL" label="Email" class="textInput defaultText" placeholder="Your Email Address" aria-label="Your Email Address" required>
-								<input type="hidden" name="formSourceName" value="StandardForm"><!-- DO NOT REMOVE HIDDEN FIELD sp_exp --><input type="hidden" name="sp_exp" value="yes">
-							</div>
-							<div class="field submit-field">
-								<input type="submit" class="btn yellow gtm-footer-email-signup" value="Sign Up" aria-label="Sign Up">
-							</div>
-							<p class="warning">Please enter a valid email.</p>
-						</form>
-					</div>
-					<div id="success" class="hide">
-						<img src="/images/outline-check-circle.svg" alt="">
-						<p>Your email was submitted. Please check your inbox to complete your registration.</p>
-					</div>
-
-				</div>
-				<div class="legal">
-					<div id="regents">&copy;2024 Regents of the <a href="https://www.universityofcalifornia.edu" target="_blank">University of California</a></div>
-					<div class="global-links">
-						<a class="gtm-footer-link-outbound" href="http://www.ucla.edu/terms-of-use" target="_blank">Terms of Use</a>
-						<a class="gtm-footer-link-outbound" href="http://www.ucla.edu/accessibility" target="_blank">Accessibility</a>
-						<!--
-						<a class="gtm-footer-link-outbound" href="#">Emergency</a>
-						-->
-					</div>
-				</div>
-			</div>
-		</footer>
-
-		<script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
-		<script src="/vendors/fancybox-master/dist/jquery.fancybox.min.js"></script>
-
-		
-		<script src="https://www.brand.ucla.edu/js/main.js" ></script>
-
-		<script type="text/javascript">
-			$(document).ready( function() {
-				$('a.fancybox').fancybox();
-			});
-
-						</script>
-		<!-- test -->
-	</body>
-</html>
+Brand Guidelines | Identity | Imagery | Photography and Videography
+Log In
+Imagery
+Photography and Videography
+Art Direction
+Campus and Los Angeles
+People: Undergraduates
+People: Graduates / Professionals / Alumni
+Historical Photographs
+Do Not
+Image Library
+Photo and Video Shoot Permits
+Photo and Video Specs
+Art Direction
+Imagery should capture UCLA’s unique personality, conveying warmth, energy and the feeling that anything is possible. To that end, photos and videos should feel bright and inspirational, with light playing a central role. The sky and the sun represent the brand’s themes as well as the characteristic weather, light and location of campus. Natural light is essential, and plentiful sunshine, natural washouts and sun flares are welcome.
+Campus and Los Angeles
+The sky plays a key role in UCLA’s imagery — it conveys a feeling of possibility and opportunity. When taking photos of campus and Los Angeles, keep as much sky present in the photo as possible. Photos may also be taken from directly below to create dramatic crops of campus and Los Angeles, but this should be used sparingly. Nighttime imagery should be kept to a minimum, but when necessary, lights (city lights, street lights, etc.) should be prominent.
+People: Undergraduates
+Images of undergraduates should be captured in a photojournalistic style, capturing natural smiles and real interactions. Imagery will vary depending on audience, but in general, undergraduate images should take on a more youthful and vibrant style — aspirational, boundless and open to what’s possible. When shooting indoors, the subject should be well lit, and always avoid using a heavy flash.
+People: Graduates / Professionals / Alumni
+For professional or institutional audiences, photos and videos should feel bold and bright, but take on a more sophisticated style. Staged portraiture should feel refined and graceful, not aggressive or provocative. Sun and natural light should feel present at all times, but not as directly as in undergraduate images.
+Historical Photographs
+The use of black and white and historical photos — whether it’s alumni, campus or key moments in UCLA history — is encouraged. Obviously, different guidelines apply to the use images than contemporary images. Whether an image dates back to 1919 or 1979, embrace the visual look and feel of the era. UCLA has accomplished a lot in our first 100 years, and these images help provide a sense of our rich history.
+Do Not
+Do not focus too heavily on buildings.
+Do not crop an image so severely that the subject and emotion are compromised.
+Do not use colorizing or other dramatic filters.
+Do not use flash photography to supplement or replace natural light.
+Do not stage portraits in a studio. Capture your subject in his or her natural surroundings.
+Do not use overly staged photography.
+Image Library
+To gain access to the image library, please email:
+images@ucla.edu
+.
+In the body of the email, please provide your name, campus unit/department, and cc your Marketing Communications lead.
+*Your request will not be answered without this information.
+Once the email has been received, a training session will be scheduled prior to access.
+After the scheduled training session, you will then be provided access to view assets in the Library and download images with watermarks for FPO use.
+For hi-res images and Brand fonts, submit an asset request with details on
+how
+and
+where
+you intend to use the asset in the “comments section.” &lpar;If the information is not provided, your request will not be approved&rpar;.
+Once approved, you will receive an email notification from Canto to download requested assets.
+Should you have any additional questions, please email:
+images@ucla.edu.
+The UCLA Daily Bruin is also an excellent source for photos of campus events. A licensing fee is charged. See the
+Daily Bruin Contact Us page
+“Request a print or digital copy of a photograph…” section.
+ASUCLA Photography
+is also an extensive resource for historical photos.
+Photo and Video Shoot Permits
+If you are shooting outside your own department, you need a permit from the Events Office.
+Request a permit via UCLA Events here
+. See Section B. parts 1 & 2 of
+Policy 863
+.
+If you hire an outside photographer or videographer, you need to work with purchasing to ensure the individual has appropriate liability insurance. You should engage the photographer on a work-for-hire basis, or obtain a written agreement that UCLA will have unlimited usage rights to the photography or videography.
+Photo and Video Specs
+Alt Text
+Image alt text (alternative text) is used within HTML code to describe the appearance and function of an image on a web page. Alt text is a central principle of web accessibility. Visually impaired people using screen readers read alt text to better understand the image, and it also provides context to search engines, helping them to index an image properly. When writing alt text, describe the image as specifically as possible, but keep it short — the most popular screen readers cut off alt text at around 125 characters.
+File Sizes and Specs
+Print images:
+CMYK color format, TIFF, PSD, or JPEG at 300 dpi
+Web/digital images:
+RGB Color format, JPEG or PNG ranging from 72 dpi to 300 dpi
+10889 Wilshire Blvd. | Ste 1400
+Los Angeles, CA 90024
+(310) 825-4321
+brand@stratcomm.ucla.edu
+Learn More
+Glossary (PDF 52KB)
+Resources
+Related Websites
+Permission to use UCLA Marks
+Social Media at UCLA
+UCLA Health Identity
+UCLA Trademarks and Licensing
+Report improper use of UCLA Marks
+Stay Informed
+Join the brand guidelines email list to hear about resources and updates
+Please enter a valid email.
+Your email was submitted. Please check your inbox to complete your registration.
+©2024 Regents of the
+University of California
+Terms of Use
+Accessibility

@@ -1,861 +1,190 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Health Insurance | UCLA Student Health</title>
-<link rel="stylesheet" href="/themes/custom/ucla_sa/fonts/proximanova.css?v=20240220144912">
-<link rel="stylesheet" href="/themes/custom/ucla_sa/css/ucla_sa.css??v=20240220144912">
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120085288-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() {
-    dataLayer.push(arguments);
-  }
-  gtag('js', new Date());
-  gtag('config', 'UA-120085288-1');
-</script>
-<style type="text/css">
-.full-bleed-text{
-     padding:6%;
-}
-@media only screen and (min-width:990px){
-     .full-bleed-bg{
-         background: url(/media/487);
-         height:640px;
-         background-repeat: no-repeat;
-         background-size: 100%;
-         padding: 2rem;
-         margin-right: -24px;
-         margin-left: -24px;
-    }
-    .full-bleed-bg img{
-         display:none;
-    }
-    .full-bleed-text h2{
-         font-size: 3rem;
-         line-height: 3.375rem;
-         padding-bottom:2%;
-    }
-    .full-bleed-text p, .full-bleed-text ul{
-         font-size:16pt;
-         line-height: 1.4;
-    }
-}
-@media only screen and (max-width:1024px){
-     .full-bleed-text{
-         padding: 4% 
-    }
-}
-
-
-
-.button-with-bg{
-  text-align: center;
-  background-image: linear-gradient(#003B5C, #2774AE);
-  margin: 0 -24px -4px -24px;
-  padding: 2rem;
-}
-
-.button-with-bg h2 {
- color:#fff;
- font-weight:normal;
-}
-
-.bg-button a {
- background-color: var(--ucla-gold);
- border-color: var(--ucla-gold);
- color: #000000;
-}
-
-.bg-button a:hover, .bg-button a:focus {
- background-color: var(--yellow);
- border-color: var(--yellow);
-color: #000000;
-}
-
-.ashe-floor-1 {
-  width: 109px;
-  height: 280px;
-  background-image: url('/file/d631dcd5-329a-4cc3-aa13-95a622d717ed');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.ashe-floor-2 {
-  width: 187px;
-  height: 280px;
-  background-image: url('/file/6bf4b8aa-1230-499b-89a5-174dfb6f55f8');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.ashe-floor-3 {
-  width: 136px;
-  height: 280px;
-  background-image: url('/file/b3e196ae-bd4f-4cc3-895b-6a0c9db975d0');
- background-repeat: no-repeat;
-  background-size: cover;
-}
-.ashe-floor-4 {
-  width: 163px;
-  height: 280px;
-  background-image: url('/file/5d544f8b-240f-4524-b511-91bc6344ac9b');
-  background-repeat: no-repeat;
-  background-size: cover;
-
-}
-.ashe-floor-descriptions {
-  display: inline-block;
-  vertical-align: top;
-  margin-right: 1rem;
-}
-.ashe-floor-descriptions p {
-  display: inline-block; 
-   vertical-align: top;
-}
-.ashe-room-radiology {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/d4e70fd1-2fab-48e6-9ff8-744627eaca9b');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-womens {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/5ad53dc9-c564-46dc-9edd-22c3aaeb737b');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-acupuncture {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/793e100d-14a8-4aab-b56e-585721bfd304');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-scheduling {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/40ed8066-6720-452c-890b-3283e5b417ce');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-2-clinic {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/0f600fff-520f-42bf-b32e-22abb9c4c9e2');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-dental {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/1abd9f51-be51-4fb5-9d40-b2cd429a6e83');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-nursing {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/afdea2af-83c4-4add-b611-c3aa88eac7af');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-immune {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/6d25268e-2d10-4517-98c2-fe2f6b38b606');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-physical-therapy {
-  width: 57px;
-  height: 57px;
-  background-image: url('file/3985052e-3b2d-45d7-b961-8c37c9734d85');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-records {
-  width: 57px;
-  height: 57px;
-  background-image: url('file/0510707f-0eef-4615-882e-4dbefd38861f');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-insurance {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/c0eaeffc-1b38-43d8-8735-8a807eb4dd69');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-@media (max-width:768px) {
-  .ashe-floor-descriptions {
-      margin-top: 2rem;
-  }
-}
-img {
-display: block;
-}
-.tables-col-4 th, .tables-col-4 td {
-    width: 25%;
-}
-.tables-col-5 th, .tables-col-5 td {
-    width: 20%;
-}
-</style>
-<script type="text/javascript">
-"use strict";
-async function covidFAQ() {
-    var node = document.querySelector('[data-ucla=covid-faq]');
-    if(typeof(node) == undefined || node == null) {
-        return;
-    }
-    var before = `${node.innerHTML}`;
-    node.innerText = 'Loading FAQs...';
-    var r = await fetch('https://www.uclahealth.org/ucla-campus-faq-feed.cfm?smajax=true');
-    var data = await r.json();
-    node.innerHTML = '';
-    var toc = document.createElement('div');
-    toc.classList.add('table-of-contents');
-    node.parentNode.insertBefore(toc, node);
-    console.log(node.parentNode.parentNode);
-    var activeCategory = '';
-    for(var i=0; i<data.length; i++) {
-        var item = data[i];
-        if(activeCategory != item.category) {
-            var h2 = document.createElement('h2');
-            h2.innerHTML = item.category;
-            activeCategory = `${item.category}`;
-            node.appendChild(h2);
-        }
-        var h3 = document.createElement('h3');
-        h3.innerHTML = item.question;
-
-        var div = document.createElement('div');
-        div.innerHTML = item.answer;
-
-        for(var ul of div.querySelectorAll('ul')) {
-            ul.classList.add('bullet');
-        }
-        for(var a of div.querySelectorAll('a')) {
-            if(!a.getAttribute('href').match(/http/)) {
-                a.setAttribute('href', `https:///www.uclahealth.org/${a.getAttribute('href')}`);
-            }
-        }
-
-        node.appendChild(h3);
-        node.appendChild(div);
-    }
-
-var tocs = document.querySelectorAll('.table-of-contents');
-for(var i=0; i < tocs.length; i++) {
-    generateTableOfContents(tocs[i]);
-}
-
- 
-
-
-function generateTableOfContents(toc) {
-    var parent = document.querySelector('.page-content');
-    toc.innerHTML = '';
-    var currentLevel = 2;
-    var ulForLevel = {
-        2: document.createElement('ul'),
-        3: null
-    }
-    toc.appendChild(ulForLevel[2]);
-    console.log(ulForLevel);
-    var tocFound = false;
-    var items = parent.querySelectorAll('h2, h3');
-    console.log(items);
-    for(var i=0; i < items.length; i++) {
-        var item = items[i];
-        console.log(item);
-        var key = item.textContent.replace(/ /g, '_').replace(/[^a-zA-Z0-9_]/g, '').toLowerCase();
-        item.id = key;
-        var li = document.createElement('li');        
-        var a = document.createElement('a');
-        a.href = '#' + key;
-        a.innerText = item.innerText;
-        li.appendChild(a);
-        var level = parseInt(item.nodeName.replace('H', ''));
-        if(currentLevel > level) {
-            ulForLevel[currentLevel] = null;
-        } else if(level == NaN) {
-        	level = 2;
-        }
-        if(ulForLevel[level] != null) {
-            ulForLevel[level].appendChild(li);           
-        } else {
-            ulForLevel[level] = document.createElement('ul');
-            console.log( ulForLevel[level - 1], item, level);
-            ulForLevel[level - 1].querySelector(':scope > li:last-child').appendChild(ulForLevel[level]);
-            ulForLevel[level].appendChild(li);
-        }
-        currentLevel = level;
-    }
-}
-
-}
-
-if (document.readyState === "complete" || document.readyState === "interactive") {
-    // Document is already ready to go.
-    setTimeout(covidFAQ, 1);
-} else {
-    document.addEventListener('DOMContentLoaded', function (event) {
-        covidFAQ();
-    });
-}
-</script>
-</head>
-<body
-    data-ucla-ref="load/insurance"
-    data-ucla-path="/insurance"
-    data-ucla-origin="https://www.studenthealth.ucla.edu"
-    class="no-js"
->
-<script>document.body.classList.remove('no-js'); document.body.classList.add('js');</script>
-<header class="header">
-    <div class="skip-to-main">
-    <a href="#main">Skip to Main Content</a>
-    </div>
-            <div class="nav-topbar desktop-only">
-    <nav aria-label="Secondary Top" class="nav-secondary container">
-    <ul>
-  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
-  <li><a href="https://www.immunizationrequirement.ucla.edu/">Immunization Requirements</a></li>
-  <li><a href="/afterhours">AfterHours</a></li>
-  <li><a href="/careers">Careers</a></li>
-  <li class="topbar-yellow-button"><strong><a href="/portal">PATIENT PORTAL</a></strong></li>
-</ul>
-    </nav>
-    </div>
-    <div class="headerbar container">
-          <a href="/" class="site-name"><img src="/sites/default/files/UCLA_Logo_AsheCenter.fw_.png" height="70" width="780" alt="UCLA Arthur Ashe Student Health &amp; Wellness Center"></a>
-          <div class="header-right">
-      <button class="mobile-only" aria-haspopup="true" aria-controls="menus" aria-expanded="false" aria-label="Main Menus"></button>
-      <form action="https://www.ucla.edu/search" method="GET" class="site-search desktop-only">
-      <label for="header-search-headerbar">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-headerbar"><button type="submit">Search</button>
-      </form>
-      </div>
-    </div>
-    <div id="menus">
-    <form action="https://www.ucla.edu/search" method="GET" class="site-search mobile-only">
-      <label for="header-search-mobile-only">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-mobile-only"><button type="submit">Search</button>
-    </form>
-    <nav aria-label="Main" class="nav-main container">
-    <ul>
-  <li><a href="/services">Services</a></li>
-  <li><a href="/insurance">Insurance</a></li>
-  <li><a href="/fees">Fees</a></li>
-  <li><a href="/about">About</a></li>
-  <li><a href="/contact">Contact</a></li>
-</ul>
-    </nav>
-    <nav aria-label="Secondary Menu" class="nav-secondary container mobile-only">
-    <ul>
-  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
-  <li><a href="https://www.immunizationrequirement.ucla.edu/">Immunization Requirements</a></li>
-  <li><a href="/afterhours">AfterHours</a></li>
-  <li><a href="/careers">Careers</a></li>
-  <li class="topbar-yellow-button"><strong><a href="/portal">PATIENT PORTAL</a></strong></li>
-</ul>
-    </nav>
-    </div>
-</header>
-<main id="main">
-  <div class="container">
-        <div class="page">
-<div class="page-header">
-  <div id="block-system-messages">
-<div data-drupal-messages-fallback class="hidden"></div>
-</div>
-<div id="block-breadcrumbs">
-  
-    
-        <nav aria-labelledby="system-breadcrumb">
-    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
-    <ol>
-          <li>
-                            <a href="https://www.studenthealth.ucla.edu/">Home</a>
-                        </li>
-          <li>
-                            <a href="https://www.studenthealth.ucla.edu/insurance">Insurance</a>
-                        </li>
-        </ol>
-  </nav>
-
-  </div>
-<div id="block-ucla-sa-page-title">
-  
-    
-      
-  <h1>Health Insurance</h1>
-
-
-  </div>
-
-
-</div>
-<div class="page-content">
-  <div id="block-mainpagecontent">
-  
-    
-      <div data-ucla-node-id="6" data-repeat-body_content-max-count="0">
-
-
-
-
-
-<div class="body-content body--section">
-
-<p class="lead">Health Insurance is mandatory for all UCLA registered students. All students are automatically enrolled in UC Student Health Insurance Plan (UC SHIP) and may <a href="/insurance/benefits/waiving-uc-ship">waive enrollment</a> if they already have health insurance.</p> <h2>UC Student Health Insurance Plan (UCSHIP)</h2> <p><strong>UCSHIP</strong> is a systemwide plan providing enhanced health benefits to all enrolled students. All registered students are automatically enrolled in UCSHIP, but if you have comparable insurance and you do not want to keep UCSHIP as dual coverage, you must submit a request to waive enrollment by the specified deadline. We have simplified the waiver process.</p> <h2>Insurance Office Announcements</h2> <section class="columns columns-2 columns-2-5050"> <section class="column column-1"> <h3>Academic HealthPlans (AHP)</h3> <p>The new plan administrator for UCSHIP that processes all <a href="https://www.studenthealth.ucla.edu/insurance/benefits/non-registered-students">Voluntary UC SHIP &amp; Dependent Care</a> enrollment requests</p> <h3><strong>1095 Forms and UCSHIP</strong></h3> <p>Form 1095-B is an Internal Revenue Service (IRS) document that may be used as proof that a person had qualifying health care coverage that counts as Minimum Essential Coverage (MEC) during a tax year.</p> <p class="button"><a href="/file/bb648f18-0047-40fb-9aed-29312a117f7b">How to Access your 1095-B</a></p> <h3> NEW! MyUCSHIP Launch</h3> <p>Visit the new MyUCSHIP website designed specifically for UCLA SHIP students that includes information on getting care, benefits coverage, waiver info, forms/documents, and more.</p> <p class="button"><a href="https://myucship.org/uc-los-angeles/">MyUCSHIP Website for UCLA Students</a></p> <h3>UCSHIP COVID Update</h3> <p>Learn the benefits of maintaining UCSHIP during the COVID-19 pandemic, then decide if the plan is right for you.</p> <p class="button"><a href="/insurance-details/ucship-covid-19-update">Accessing care during COVID-19 pandemic</a></p> <h3>Upcoming Deadlines</h3> <div data-custom-embed-id="120" data-custom-embed-title="Community Cal: Insurance">
-
-<div data-ucla="calendar" data-ucla-calendar-heading-start="2" data-ucla-calendar-path="/program/ashe/insurance" data-ucla-calendar-max-events="1" data-ucla-calendar-template="cards"> <p>Loading events...</p></div>
-
-</div>
-
-</section> <section class="column column-2"> <section class="callout"> <h2>UCSHIP Waivers</h2> <p>For information about the waiver process, including academic calendars, waiver criteria, and the waiver application link.</p> <p class="button"><a href="https://www.studenthealth.ucla.edu/insurance/benefits/waiving-uc-ship">Information on Waiving UCSHIP</a></p></section> <h3>Understanding Health Insurance<br> <em>Video by <a href="https://www.coveredca.com/get-started/">Covered California</a></em></h3> <p class="youtube-embed-container">
-<a href="https://www.youtube.com/watch?v=Ljo2T-6aFow" class="youtube-embed">
-<img src="https://img.youtube.com/vi/Ljo2T-6aFow/maxresdefault.jpg" alt="Health Insurance Terms Defined by Covered California">
-<span class="youtube-play">Video</span>
-</a>
-</p>
- <p>CoveredCA.com is sponsored by Covered California and the Department of Health Care Services, which work together to help Californians get the coverage and care that are right for them.</p></section></section>
-
-</div>
-
-  <div class="cards-theme-resources paragraph--type--cards paragraph--section cards" data-section-title="UCSHIP Quick Links">
-          <h2>
+Health Insurance | UCLA Student Health
+Skip to Main Content
+Search Website
+Search
+Search Website
+Search
+Health Insurance
+Health Insurance is mandatory for all UCLA registered students. All students are automatically enrolled in UC Student Health Insurance Plan (UC SHIP) and may
+waive enrollment
+if they already have health insurance.
+UC Student Health Insurance Plan (UCSHIP)
+UCSHIP
+is a systemwide plan providing enhanced health benefits to all enrolled students. All registered students are automatically enrolled in UCSHIP, but if you have comparable insurance and you do not want to keep UCSHIP as dual coverage, you must submit a request to waive enrollment by the specified deadline. We have simplified the waiver process.
+Insurance Office Announcements
+Academic HealthPlans (AHP)
+The new plan administrator for UCSHIP that processes all
+Voluntary UC SHIP & Dependent Care
+enrollment requests
+1095 Forms and UCSHIP
+Form 1095-B is an Internal Revenue Service (IRS) document that may be used as proof that a person had qualifying health care coverage that counts as Minimum Essential Coverage (MEC) during a tax year.
+How to Access your 1095-B
+NEW! MyUCSHIP Launch
+Visit the new MyUCSHIP website designed specifically for UCLA SHIP students that includes information on getting care, benefits coverage, waiver info, forms/documents, and more.
+MyUCSHIP Website for UCLA Students
+UCSHIP COVID Update
+Learn the benefits of maintaining UCSHIP during the COVID-19 pandemic, then decide if the plan is right for you.
+Accessing care during COVID-19 pandemic
+Upcoming Deadlines
+Loading events...
+UCSHIP Waivers
+For information about the waiver process, including academic calendars, waiver criteria, and the waiver application link.
+Information on Waiving UCSHIP
+Understanding Health Insurance
+Video by
+Covered California
+Video
+CoveredCA.com is sponsored by Covered California and the Department of Health Care Services, which work together to help Californians get the coverage and care that are right for them.
 UCSHIP Quick Links
-</h2>
-      
-      <div class="cards-container">
-      
-  <a href="/portals/27/documents/insurance/2020/2021_a_uc_ship_benefit_highlight_summary.pdf"  class="card">
-          <span class="card-title">
 Medical Plan Highlights (2023-24)
-</span>
-      <span class="card-summary">
-<p class="summary">Benefit summary sheet and premium fees for this year.</p>
-</span>
-      </a>
-
-  <a href="https://www.ucop.edu/ucship/"  class="card">
-          <span class="card-title">
+Benefit summary sheet and premium fees for this year.
 UCOP Guide to UCSHIP
-</span>
-      <span class="card-summary">
-<p class="summary">How UCSHIP works, coverage benefits, plan docs, and more.</p>
-</span>
-      </a>
-
-  <a href="https://www.anthem.com/member-resources/sydney-app"  class="card">
-          <span class="card-title">
+How UCSHIP works, coverage benefits, plan docs, and more.
 Digital Insurance Card
-</span>
-      <span class="card-summary">
-<p class="summary">Download the Sydney Health app to access your ID card, find care and learn about benefits.</p>
-</span>
-      </a>
-
-  <a href="https://www.studenthealth.ucla.edu/file/44419cba-90be-46bb-a5d1-7573b474177b"  class="card">
-          <span class="card-title">
+Download the Sydney Health app to access your ID card, find care and learn about benefits.
 UCSHIP Plan Brochure (2023-24)
-</span>
-      <span class="card-summary">
-<p class="summary">Welcome to the UC SHIP family! Explore to learn more.</p>
-</span>
-      </a>
-
-
-      </div>
-      </div>
-
-  <div class="body-content paragraph--section" data-section-title="The Ashe Center is UCSHIP Students&#039; Medical Home">
-          <h2>
-The Ashe Center is UCSHIP Students&#039; Medical Home
-</h2>
-      
-<p>&nbsp;</p>
-
-<section class="columns columns-2 columns-2-5050">
-<section class="column column-1">
-<p><strong>The Ashe Center&nbsp;</strong>serves as every UC SHIP student's&nbsp;<em>medical home</em>. Medical services must be initiated at The Ashe Center and&nbsp;a referral&nbsp;are required for all non-emergent services outside of Ashe. Claims will not be considered nor paid by Anthem Blue Cross without a valid Ashe Center referral.<br>
-<br>
-Before seeking medical or mental health treatment anywhere outside of the Ashe Center or CAPS (e.g. out of state/out of country)&nbsp;you must receive a referral.</p>
-
-<p>Mental health/substance abuse services must be initiated at&nbsp;<a href="https://www.counseling.ucla.edu/contact-us">UCLA Counseling and Psychological Services (CAPS)</a>&nbsp;and continued care may be referred to UCLA Behavioral Health Services or other appropriate resources.</p>
-
-<p class="button"><a href="https://www.studenthealth.ucla.edu/insurance/benefits/referrals">Learn About Referrals</a></p>
-</section>
-
-<section class="column column-2">
-<section class="callout">
-<h3>Waiving UCSHIP? Consider BruinCare!</h3>
-
-<p>The Ashe Center wants all UCLA students to feel comfortable accessing all of their medical needs through our facility, which is why we developed BruinCare. While many students waive UCSHIP, these students are likely to still utilize Ashe services because of our center's convenience and central location. All registered students can utilize The Ashe Center. BruinCare is a program that gives students who have waived UCSHIP prepaid access to certain services at The Ashe Center. By purchasing BruinCare during the waiver process, you eliminate the $25 visit fee, and more.</p>
-
-<p class="button"><a href="/insurance/bruincare">Learn more about BruinCare</a></p>
-</section>
-</section>
-</section>
-
-<h3>Watch these quick videos to find out how the plan works and why UC SHIP may be the best plan for you:</h3>
-
-<section class="columns columns-2 columns-2-5050">
-<section class="column column-1">
-<p class="youtube-embed-container">
-<a href="https://www.youtube.com/watch?v=mDLAufmeDK4" class="youtube-embed">
-  <img loading="eager" src="/sites/default/files/styles/resize_16_9/public/2022-09/coverage_UCShip.PNG?itok=sHsTgPBb" width="800" height="450" alt="UCSHIP">
-
-
-
-<span class="youtube-play">Video</span>
-</a>
-</p>
-
-</section>
-
-<section class="column column-2">
-<p class="youtube-embed-container">
-<a href="https://www.youtube.com/watch?v=sUjW31EUHFc" class="youtube-embed">
-  <img loading="eager" src="/sites/default/files/styles/resize_16_9/public/2022-09/coverage_affordable.PNG?itok=7LS4-X-I" width="800" height="450" alt="Affordable Quality Comprehensive">
-
-
-
-<span class="youtube-play">Video</span>
-</a>
-</p>
-
-</section>
-</section>
-
-      </div>
-
-  <div class="body-content paragraph--section" data-section-title="UC SHIP Premiums &amp; Coverage Periods">
-          <h2>
-UC SHIP Premiums &amp; Coverage Periods
-</h2>
-      
-<section class="columns columns-2 columns-2-7030">
-<section class="column column-1">
-<p>Each academic term, the UCSHIP health fee is billed through BruinBill along with other UCLA fees.</p>
-
-<h3>Early Start Programs</h3>
-
-<div data-custom-embed-id="138" data-custom-embed-title="UC SHIP Coverage &amp; Premium Rates - Early Start Programs">
-
-<table> <thead> <tr> <th scope="col">Early Start Programs</th> <th scope="col">Health Fee/per term</th> <th scope="col">Summer Coverage</th> <th scope="col">Fall Coverage</th></tr></thead> <tbody> <tr> <th scope="row">CSI, FSP, TSP</th> <td>$436.35</td> <td>07/31/23 – 09/24/23</td> <td>See Undergraduate</td></tr> <tr> <th scope="row">MBA (1st Year)</th> <td>$736.41</td> <td>07/31/23 – 09/24/23</td> <td>See Graduate</td></tr> <tr> <th scope="row">MSAUD (1st Year)</th> <td>$747.93</td> <td>08/07/23 – 09/24/23</td> <td>See Graduate</td></tr></tbody></table>
-
-</div>
-
-
-
-<h3>Undergraduates &amp; Graduates</h3>
-
-<div data-custom-embed-id="139" data-custom-embed-title="Coverage and Premium Rates - Programs Undergraduate and Graduate">
-
-<table> <thead> <tr> <th scope="col">Program</th> <th scope="col">Health Fee/per term</th> <th scope="col">Fall Coverage</th> <th scope="col">Winter Coverage</th> <th scope="col">Spring Coverage</th></tr></thead> <tbody> <tr> <th scope="row">Undergraduates</th> <td>$1,067.49</td> <td>09/25/23 – 01/02/24</td> <td>01/03/24 – 03/26/24</td> <td>03/27/24 – 09/22/24</td></tr> <tr> <th scope="row">Graduates</th> <td>$1,857.11</td> <td>09/25/23 – 01/02/24</td> <td>01/03/24 – 03/26/24</td> <td>03/27/24 – 09/22/24</td></tr> <tr> <th scope="row">FEMBA (1st Year)</th> <td>$2,284.51</td> <td>08/28/23 – 01/05/24</td> <td>01/06/24 – 03/31/24</td> <td>04/01/24 – 09/25/24</td></tr> <tr> <th scope="row">FEMBA (2nd &amp; 3rd Year)</th> <td>$1,857.11</td> <td>09/25/23 – 01/05/24</td> <td>01/06/24 – 03/31/24</td> <td>04/01/24 – 09/25/24</td></tr></tbody></table>
-
-</div>
-
-
-
-<h3>School of Law</h3>
-
-<div data-custom-embed-id="140" data-custom-embed-title="UC SHIP Coverage &amp; Premium Rates - School of Law">
-
-<table> <thead> <tr> <th scope="col">Program</th> <th scope="col">Health Fee/per term</th> <th scope="col">Fall Coverage</th> <th scope="col">Spring Coverage</th></tr></thead> <tbody> <tr> <th scope="row">LLM</th> <td>$2,785.66</td> <td>08/09/23 – 01/02/24</td> <td>01/03/24 – 08/13/24*</td></tr> <tr> <th scope="row">MLS (1st Year)</th> <td>$2,785.66</td> <td>08/14/23 – 01/02/24</td> <td>01/03/24 – 08/25/24*</td></tr> <tr> <th scope="row">JD (1st Year)</th> <td>$2,785.66</td> <td>08/10/23 – 01/15/24</td> <td>01/16/24 – 08/25/24*</td></tr> <tr> <th scope="row">JD (2L &amp; 3L), MLS, &amp; SJD</th> <td>$2,785.66</td> <td>08/21/23 – 01/02/24</td> <td>01/03/24 – 08/25/24*</td></tr></tbody></table>
-
-</div>
-
-
-
-<h3>School of Medicine</h3>
-
-<div data-custom-embed-id="141" data-custom-embed-title="UC SHIP Coverage &amp; Premium Rates - School of Medicine">
-
-<table> <thead> <tr> <th scope="col">Program</th> <th scope="col">Health Fee/per term</th> <th scope="col">Fall Coverage</th> <th scope="col">Spring Coverage</th></tr></thead> <tbody> <tr> <th scope="row">1st Year</th> <td>$2,785.66</td> <td>08/14/23 – 01/07/24</td> <td>01/08/24 – 09/15/24</td></tr> <tr> <th scope="row">2nd Year</th> <td>$2,785.66</td> <td>09/18/23 – 01/07/24</td> <td>01/08/24 – 09/15/24</td></tr> <tr> <th scope="row">3rd Year</th> <td>$2,785.66</td> <td>09/18/23 – 01/07/24</td> <td>01/08/24 – 08/18/24</td></tr> <tr> <th scope="row">4th Year</th> <td>$2,785.66</td> <td>07/03/23 – 01/02/24</td> <td>01/03/24 – 08/18/24</td></tr></tbody></table>
-
-</div>
-
-
-
-<p>*Coverage End Date subject to change based on availability of 2024-25 Academic Calendars.&nbsp;</p>
-</section>
-
-<section class="column column-2">
-<h3>UCSHIP Academic Calendar</h3>
-
-<p>Includes Coverage Dates, Waiver Periods and Fee Payment deadlines</p>
-
-<p class="button"><a data-entity-substitution="canonical" data-entity-type="media" data-entity-uuid="a2ca9285-fa2f-49a6-9179-a33d621197d5" href="/file/a2ca9285-fa2f-49a6-9179-a33d621197d5">2022-23 UCSHIP Academic Calendar</a></p>
-
-<p class="button"><a data-entity-substitution="canonical" data-entity-type="media" data-entity-uuid="f2cf1fe5-14b1-49f2-92f3-0c91c0ec8953" href="/file/f2cf1fe5-14b1-49f2-92f3-0c91c0ec8953">2023-24 UCSHIP Academic Calendar</a></p>
-</section>
-</section>
-
-      </div>
-
-  <div class="cards-theme-services cards paragraph--section" data-section-title="UC SHIP Benefits">
-          <h2>
+Welcome to the UC SHIP family! Explore to learn more.
+The Ashe Center is UCSHIP Students' Medical Home
+The Ashe Center
+serves as every UC SHIP student's
+medical home
+. Medical services must be initiated at The Ashe Center and a referral are required for all non-emergent services outside of Ashe. Claims will not be considered nor paid by Anthem Blue Cross without a valid Ashe Center referral.
+Before seeking medical or mental health treatment anywhere outside of the Ashe Center or CAPS (e.g. out of state/out of country) you must receive a referral.
+Mental health/substance abuse services must be initiated at
+UCLA Counseling and Psychological Services (CAPS)
+and continued care may be referred to UCLA Behavioral Health Services or other appropriate resources.
+Learn About Referrals
+Waiving UCSHIP? Consider BruinCare!
+The Ashe Center wants all UCLA students to feel comfortable accessing all of their medical needs through our facility, which is why we developed BruinCare. While many students waive UCSHIP, these students are likely to still utilize Ashe services because of our center's convenience and central location. All registered students can utilize The Ashe Center. BruinCare is a program that gives students who have waived UCSHIP prepaid access to certain services at The Ashe Center. By purchasing BruinCare during the waiver process, you eliminate the $25 visit fee, and more.
+Learn more about BruinCare
+Watch these quick videos to find out how the plan works and why UC SHIP may be the best plan for you:
+Video
+Video
+UC SHIP Premiums & Coverage Periods
+Each academic term, the UCSHIP health fee is billed through BruinBill along with other UCLA fees.
+Early Start Programs
+Early Start Programs
+Health Fee/per term
+Summer Coverage
+Fall Coverage
+CSI, FSP, TSP
+$436.35
+07/31/23 – 09/24/23
+See Undergraduate
+MBA (1st Year)
+$736.41
+07/31/23 – 09/24/23
+See Graduate
+MSAUD (1st Year)
+$747.93
+08/07/23 – 09/24/23
+See Graduate
+Undergraduates & Graduates
+Program
+Health Fee/per term
+Fall Coverage
+Winter Coverage
+Spring Coverage
+Undergraduates
+$1,067.49
+09/25/23 – 01/02/24
+01/03/24 – 03/26/24
+03/27/24 – 09/22/24
+Graduates
+$1,857.11
+09/25/23 – 01/02/24
+01/03/24 – 03/26/24
+03/27/24 – 09/22/24
+FEMBA (1st Year)
+$2,284.51
+08/28/23 – 01/05/24
+01/06/24 – 03/31/24
+04/01/24 – 09/25/24
+FEMBA (2nd & 3rd Year)
+$1,857.11
+09/25/23 – 01/05/24
+01/06/24 – 03/31/24
+04/01/24 – 09/25/24
+School of Law
+Program
+Health Fee/per term
+Fall Coverage
+Spring Coverage
+LLM
+$2,785.66
+08/09/23 – 01/02/24
+01/03/24 – 08/13/24*
+MLS (1st Year)
+$2,785.66
+08/14/23 – 01/02/24
+01/03/24 – 08/25/24*
+JD (1st Year)
+$2,785.66
+08/10/23 – 01/15/24
+01/16/24 – 08/25/24*
+JD (2L & 3L), MLS, & SJD
+$2,785.66
+08/21/23 – 01/02/24
+01/03/24 – 08/25/24*
+School of Medicine
+Program
+Health Fee/per term
+Fall Coverage
+Spring Coverage
+1st Year
+$2,785.66
+08/14/23 – 01/07/24
+01/08/24 – 09/15/24
+2nd Year
+$2,785.66
+09/18/23 – 01/07/24
+01/08/24 – 09/15/24
+3rd Year
+$2,785.66
+09/18/23 – 01/07/24
+01/08/24 – 08/18/24
+4th Year
+$2,785.66
+07/03/23 – 01/02/24
+01/03/24 – 08/18/24
+*Coverage End Date subject to change based on availability of 2024-25 Academic Calendars.
+UCSHIP Academic Calendar
+Includes Coverage Dates, Waiver Periods and Fee Payment deadlines
+2022-23 UCSHIP Academic Calendar
+2023-24 UCSHIP Academic Calendar
 UC SHIP Benefits
-</h2>
-      
-      <div class="cards-container">
-      
-  <a href="/insurance/benefits/medical-plan"  class="card">
-          <span class="card-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2021-07/medical%20plan.png?itok=Om75ml2D" width="900" height="600" alt="Icon of a heart inside a shield" />
-
-
-
-</span>
-      <span class="card-title">
 Medical Plan
-</span>
-      <span class="card-summary">
-<p class="summary">Hospital Services &amp; Prescriptions</p>
-</span>
-      </a>
-
-  <a href="/insurance/benefits/dental-plan"  class="card">
-          <span class="card-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2021-07/dental%20plan.png?itok=1GGtWaYc" width="900" height="600" alt="Icon of a tooth inside of a shield" />
-
-
-
-</span>
-      <span class="card-title">
+Hospital Services & Prescriptions
 Dental Plan
-</span>
-      <span class="card-summary">
-<p class="summary">by Delta Dental PPO</p>
-</span>
-      </a>
-
-  <a href="/insurance/benefits/vision-plan"  class="card">
-          <span class="card-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2021-07/vision%20plan.png?itok=ahDEQ3ww" width="900" height="600" alt="Icon of an eye inside of a shield" />
-
-
-
-</span>
-      <span class="card-title">
+by Delta Dental PPO
 Vision Plan
-</span>
-      <span class="card-summary">
-<p class="summary">by Anthem Blue View Vision</p>
-</span>
-      </a>
-
-  <a href="/insurance/benefits/mental-health-plan"  class="card">
-          <span class="card-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2021-07/mental%20health%20plan.png?itok=himNhKHH" width="900" height="600" alt="Icon of a heart inside of a person&#039;s head" />
-
-
-
-</span>
-      <span class="card-title">
+by Anthem Blue View Vision
 Mental Health Plan
-</span>
-      <span class="card-summary">
-<p class="summary">Start at UCLA CAPS</p>
-</span>
-      </a>
-
-  <a href="/insurance/benefits/referrals"  class="card">
-          <span class="card-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2021-07/referrals.png?itok=ditOLbZn" width="900" height="600" alt="Icon of a hand holding a contract with a pen" />
-
-
-
-</span>
-      <span class="card-title">
+Start at UCLA CAPS
 Referrals
-</span>
-      <span class="card-summary">
-<p class="summary">Referrals Information</p>
-</span>
-      </a>
-
-  <a href="/insurance/benefits/international-travelers"  class="card">
-          <span class="card-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2021-07/international.png?itok=AUQnZtYL" width="900" height="600" alt="Icon of four people inside of shields surrounding a globe" />
-
-
-
-</span>
-      <span class="card-title">
+Referrals Information
 International Travelers
-</span>
-      <span class="card-summary">
-<p class="summary">365 days of worldwide coverage</p>
-</span>
-      </a>
-
-  <a href="/insurance/benefits/non-registered-students"  class="card">
-          <span class="card-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2021-07/uc%20ship.png?itok=CWNNBA9P" width="900" height="600" alt="Icon of three people underneath an umbrella" />
-
-
-
-</span>
-      <span class="card-title">
-Voluntary UC SHIP, Dependent Care &amp; Qualifying Life Events
-</span>
-      <span class="card-summary">
-<p class="summary">For registered and non-registered students</p>
-</span>
-      </a>
-
-  <a href="/insurance/benefits/urgentcare-emergency"  class="card">
-          <span class="card-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2021-07/urgent%20care.png?itok=qeFi7Lsc" width="900" height="600" alt="Icon of an ambulance" />
-
-
-
-</span>
-      <span class="card-title">
-Urgent Care &amp; Emergency Room
-</span>
-      <span class="card-summary">
-<p class="summary">When the Ashe Center is closed...</p>
-</span>
-      </a>
-
-  <a href="/insurance/benefits/forms-flyer-library"  class="card">
-          <span class="card-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2021-07/forms.png?itok=gZNUFnzf" width="900" height="600" alt="Icon of a folder with a cross" />
-
-
-
-</span>
-      <span class="card-title">
-Forms &amp; Flyers Library
-</span>
-      <span class="card-summary">
-<p class="summary">Download Available Forms &amp; Flyers</p>
-</span>
-      </a>
-
-
-      </div>
-      </div>
-
-  <div class="cards-theme-resources paragraph--type--cards paragraph--section cards" data-section-title="Optional Benefits">
-          <h2>
+365 days of worldwide coverage
+Voluntary UC SHIP, Dependent Care & Qualifying Life Events
+For registered and non-registered students
+Urgent Care & Emergency Room
+When the Ashe Center is closed...
+Forms & Flyers Library
+Download Available Forms & Flyers
 Optional Benefits
-</h2>
-      
-      <div class="cards-container">
-      
-  <a href="/insurance/bruincare"  class="card">
-          <span class="card-title">
 BruinCare Program
-</span>
-      <span class="card-summary">
-<p class="summary">Waiving UCSHIP? Consider BruinCare</p>
-</span>
-      </a>
-
-  <a href="/insurance/medical-assistance-fund"  class="card">
-          <span class="card-title">
+Waiving UCSHIP? Consider BruinCare
 Medical Assistance Fund
-</span>
-      <span class="card-summary">
-<p class="summary">Campus Medical Care Assistance Fund offering from UCLA</p>
-</span>
-      </a>
-
-
-      </div>
-      </div>
-
-  <div class="body-content paragraph--section" data-section-title="Bruin Family Insights Podcast: UCSHIP Discussion, and more">
-          <h2>
+Campus Medical Care Assistance Fund offering from UCLA
 Bruin Family Insights Podcast: UCSHIP Discussion, and more
-</h2>
-      
-<div data-custom-embed-id="112" data-custom-embed-title="Spotify: All About Ashe Student Health with Geno Mehalik">
-
-<p><iframe title="All About Ashe Student Health with Geno Mehalik" frameborder="0" height="232" src="https://open.spotify.com/embed/episode/202bibIiFzAo0cxyxWEeDZ" width="100%"></iframe></p>
-
-</div>
-
-
-
-      </div>
-
-
-
-
-
-
-</div>
-  </div>
-
-
-</div>
-</div>
-
-
-        <div class="page-footer-container page-footer-2-column" role="contentinfo">
-<div class="page-footer-box">
-<h2 class="h3">Contact Ashe Center</h2>
-<p>
-    <a href="https://goo.gl/maps/xLvHX7pY6TzVduS37">221 Westwood Plaza<br>
-    Los Angeles, CA 90095</a><br>
-    <a href="tel:+13108254073">310-825-4073</a><br>
-    Fax: (310) 206-8012<br>
-    <a href="/contact">Contact</a>
-</p>
-</div>
-<div class="page-footer-box">
-<h2 class="h3">Stay in the know</h2>
-<div class="social-links-container">
-  <a href="https://www.facebook.com/uclastudenthealth/"><span class="social-link-label">Facebook @uclastudenthealth</span></a>
-  <a href="https://www.instagram.com/uclaashecenter"><span class="social-link-label">Instagram @uclaashecenter</span></a>
-  <a href="https://www.linkedin.com/company/ucla-ashe-student-health-center/"><span class="social-link-label">LinkedIn @ucla-ashe-student-health-center</span></a>
-</div>
-<p>
-  <a href="/services/sydney-health-mobile-app">Sydney Health Mobile App</a>
-</p>
-</div>
-</div>
-      </div>
-</main>
-<footer>
-<div class="container">
-<nav class="nav-footer" aria-label="Footer">
-  <ul>\n  <li><a href="https://www.ucla.edu/accessibility" class="icon-ada">Accessibility</a></li>\n  <li><a href="https://www.ucla.edu/">UCLA</a></li>\n  <li><a href="https://www.studentaffairs.ucla.edu/">Student Affairs</a></li>\n  <li><a href="https://www.transportation.ucla.edu/campus-parking">Maps, Directions, Parking</a></li>\n  <li><a href="https://registrar.ucla.edu/calendars">Academic Calendar</a></li>\n  <li><a href="https://www.universityofcalifornia.edu/">University of California</a></li>\n  <li><a href="https://www.ucla.edu/terms-of-use">Terms of Use</a></li>\n</ul>
-
-</nav>
-</div>
-</footer>
-<script src="/themes/custom/ucla_sa/js/ucla_sa.js?v=a20240220144912" async></script>
-<script type="text/javascript">
-(function() {
-  if(document.querySelector('[data-ucla]')) {
-    var embed = document.createElement('script'); embed.type = 'text/javascript'; embed.async = true;
-    embed.src = '/themes/custom/ucla_sa/js/ucla_embed.js?v=20240220144912';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(embed, s);
-  }
-})();
-</script>
-</body>
-</html>
+Contact Ashe Center
+221 Westwood Plaza
+Los Angeles, CA 90095
+310-825-4073
+Fax: (310) 206-8012
+Contact
+Stay in the know
+Facebook @uclastudenthealth
+Instagram @uclaashecenter
+LinkedIn @ucla-ashe-student-health-center
+Sydney Health Mobile App

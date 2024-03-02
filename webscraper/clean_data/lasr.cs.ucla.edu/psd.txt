@@ -1,34 +1,8 @@
-<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
-<html>
-<head>
-   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-   <meta name="GENERATOR" content="Mozilla/4.79 [en] (X11; U; Linux 2.4.18-3smp i686) [Netscape]">
-   <title> Personal Security Devices for Protecting Legacy Mobile Medical Devices</title>
-</head>
-<body text="#FFFFFF" bgcolor="#000099" link="#FFFF00" vlink="#999999" alink="#FF0000">
-&nbsp;
-<table BORDER=0 WIDTH="100%" >
-<tr width="100%">
-<td ALIGN=LEFT><IMG SRC="http://www.lasr.cs.ucla.edu/lasr/lasr_logo.cropped.gif" height=63 width=168></td>
-
-<td ALIGN=RIGHT VALIGN=BOTTOM WIDTH="80%"><font face="Arial,Helvetica"><font size=+4>Personal Security Devices
-For</font></font></td>
-</tr>
-
-<tr width="100%">
-<td ALIGN=RIGHT WIDTH="20%"></td>
-
-<td ALIGN=RIGHT WIDTH="100%"><font face="Arial,Helvetica"><font size=+4>Protecting Legacy</font></font></td>
-</tr>
-
-<tr width="100%">
-<td ALIGN=RIGHT WIDTH="20%"></td>
-
-<td ALIGN=RIGHT WIDTH="100%"><font face="Arial,Helvetica"><font size=+4>Mobile Medical Devices</font></font></td>
-</tr>
-</table>
-
-<p><font face="Arial,Helvetica">
+Personal Security Devices for Protecting Legacy Mobile Medical Devices
+Personal Security Devices
+For
+Protecting Legacy
+Mobile Medical Devices
 Millions of people use mobile medical devices - more every day. But our 
 understanding of device security and privacy for such devices is incomplete. 
 Many forms of attacks on existing devices have been demonstrated, and surely
@@ -39,15 +13,13 @@ and other computing and communications capabilties are already in use.
 Frequently, such devices have poor security built in, and often little or no
 ability to perform upgrades to their software.  Something must be done to 
 protect such devices.
-<P>
 Further, experience has shown that almost all deployed software will have some
 security problems.  Often it has proven difficult to get good patches to 
 remedy such problems, resulting in yet more deployed devices that have known 
 vulnerabilities.  In some cases, the nature of a medical device makes alteration
 of its internal software risky, even if it theoretically has the capability of
 installing updates.  Consider a pacemaker embedded in a patient's chest, for
-example.  Halting the device to install a new update may be inadvisable. 
-<P>
+example.  Halting the device to install a new update may be inadvisable.
 In response to these difficulties, we are investigating another approach to 
 provide a higher degree of security for legacy devices that cannot be easily 
 upgraded to fix their security problems and for devices that, for whatever 
@@ -61,58 +33,50 @@ and problems of those devices.  The PSD will have the ability to observe
 wireless interactions involving the medical devices and will be able to signal
 possible attacks and often take remedial actions to limit or counteract such
 attacks.
-<P>
 We are currently developing prototype versions of the PSD.  An initial prototype
 was built on a laptop computer, while a second prototype used an Android smart
 phone.  We are in the process of building a PSD prototype that is closer to 
-the original vision of the project.  Here is <A HREF="http://www.lasr.cs.ucla.edu/psd/PSD.jpg"
->a picture of the prototype</A>, which is based around an Arduino microcontroller.
+the original vision of the project.  Here is
+a picture of the prototype
+, which is based around an Arduino microcontroller.
 We are also working on investigations of
 security flaws in commonly used medical devices and defense approaches that
 the PSD could use to remedy those flaws.
-<P>
 Examples of legacy wireless medical devices we have worked with include:
-<UL>
-<LI>
 The Noni Onyx II 9550 fingertip pulse oximeter
-<LI>
 The A&D Medical UA-767PBT blood pressure monitor
-</UL>
-<P>
-As part of this project, we did a 
-<A HREF="http://www.lasr.cs.ucla.edu/psd/wireless_medical_devices_survey.xls">
-survey</A> of wireless medical devices on the
+As part of this project, we did a
+survey
+of wireless medical devices on the
 market, concentrating on security-related aspects of the devices.  This survey 
 was done in 2012.
-<P>
-We implemented the PSD using an Arduino controller as a base device.  Here is a <A HREF="http://www.lasr.cs.ucla.edu/psd/PSD_description.pdf">description of the basic Arduino PSD device</A>.  Here 
-is a <A HREF="http://www.lasr.cs.ucla.edu/psd/AES_on_arduino.pdf">report on running AES on the
-PSD Arduino</A>.
-<P>  
+We implemented the PSD using an Arduino controller as a base device.  Here is a
+description of the basic Arduino PSD device
+.  Here 
+is a
+report on running AES on the
+PSD Arduino
+.
 The project is jointly led by
-<p><font face="Arial,Helvetica"><a href="http://www.lasr.cs.ucla.edu/reiher">Dr.
-Peter Reiher</a>, an adjunct professor at UCLA
-<P>
+Dr.
+Peter Reiher
+, an adjunct professor at UCLA
 and
-<p><font face="Arial,Helvetica"><a href="http://www.cs.ucla.edu/~majid/">Dr.
-Majid Sarrafzadeh</A>, a professor in the Computer Science Department at
-UCLA and head of the <A HREF="http://www.wirelesshealth.ucla.edu/">UCLA Wireless Health Institute</A>.
-</font>
-<P>
+Dr.
+Majid Sarrafzadeh
+, a professor in the Computer Science Department at
+UCLA and head of the
+UCLA Wireless Health Institute
+.
 This project is funded by the National Science Foundation grant CNS-1116371.
-<P>
 Publications related to this grant include:
-<font face="Arial,Helvetica">&nbsp;
-<a href="http://www.lasr.cs.ucla.edu/reiher/papers/mobihealth12.pdf">
-Securing Legacy Mobile Medical Devices</a>, Vahab Pournaghshband, Majid
-Sarrafzadeh, and Peter Reiher, Mobihealth 2012. [<a href="http://lasr.cs.ucla.edu/vahab/resources/mobihealth12_slides.pdf">Slides</a>]
-<P>
+Securing Legacy Mobile Medical Devices
+, Vahab Pournaghshband, Majid
+Sarrafzadeh, and Peter Reiher, Mobihealth 2012. [
+Slides
+]
 Adrasteia: A Smartphone App for Securing Legacy Mobile Medical Devices, Vahab Pournaghshband,
 David Meyer, Michael Holyland, Majid Sarrafzadeh, and Peter Reiher, to appear in the IEEE
 Workshop on Usable Mobile Security, December 2014.
-<P>
-<br>&nbsp;
-<p>
-<p><b><i><font face="Arial,Helvetica">For further information contact reiher@lasr.cs.ucla.edu</font></i></b>
-<br><b><font face="Arial,Helvetica">Last modified: December&nbsp; 3, 2014</font></b>
-</html>
+For further information contact reiher@lasr.cs.ucla.edu
+Last modified: December  3, 2014

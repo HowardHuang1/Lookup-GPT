@@ -1,342 +1,64 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
-  <head>
-    <meta charset="utf-8" />
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-45095774-9"></script>
-<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-45095774-9", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path","allow_ad_personalization_signals":false});gtag("config", "G-4W4DXY7BMB", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location","allow_ad_personalization_signals":false});</script>
-<meta name="description" content="Visit the UCLA Finance Support Portal for streamlined Travel Accounting and T&amp;E card support! Quickly search dozens of knowledge articles and easily access case forms when you need additional assistance. ADDRESS 10920 Wilshire Blvd., 5th Floor Los Angeles, CA 90024-6541 Mail Code: 143348 Phone: (310) 206-2639 or (800) 235-UCLA (8252) CST# 2046415-70" />
-<link rel="canonical" href="https://travel.ucla.edu/travel-services-directory" />
-<meta property="og:site_name" content="Travel Services" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://travel.ucla.edu/travel-services-directory" />
-<meta property="og:title" content="Travel Services Directory" />
-<meta property="og:description" content="Visit the UCLA Finance Support Portal for streamlined Travel Accounting and T&amp;E card support! Quickly search dozens of knowledge articles and easily access case forms when you need additional assistance. ADDRESS 10920 Wilshire Blvd., 5th Floor Los Angeles, CA 90024-6541 Mail Code: 143348 Phone: (310) 206-2639 or (800) 235-UCLA (8252) CST# 2046415-70" />
-<meta property="article:published_time" content="2017-07-13T14:16:00-07:00" />
-<meta property="article:modified_time" content="2023-10-20T09:26:04-07:00" />
-<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
-<meta name="MobileOptimized" content="width" />
-<meta name="HandheldFriendly" content="true" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-<meta http-equiv="apple-mobile-web-app-capable" content="yes" />
-<link rel="icon" href="/themes/custom/siteden_surface/favicon.ico" type="image/vnd.microsoft.icon" />
-
-    <title>Travel Services Directory | Travel Services</title>
-    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_axm7Ko1pzLoRJzH2wYLAOPoijg26yKz6KoNvQ4lnPyU.css" />
-<link rel="stylesheet" media="all" href="/sites/default/files/css/css_xy0iCAxfsah3jM-FB2kxWhdbaS4uOp-9RRgy03HeOLA.css" />
-
-    
-  </head>
-  <body class="path-node page-node-type-sf-page node-866">
-    <a class="skip-to-main-button" href="#main-content" role="link" aria-label="Skip to main content">Skip to Main Content</a>
-    
-      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
-    
-    <div class="region region-message" aria-label="message">
-    <div data-drupal-messages-fallback class="hidden"></div>
-
-  </div>
-
-
-<header id="header">
-        <div class="region region-university-header" aria-label="university_header">
-    
-<div class="header-logo">
-  <div class="header-logo__wrap">
-    <a href="https://www.ucla.edu/">
-      <img class="header-logo__image" src="/themes/custom/siteden_surface/assets/images/surface-images/logo-ucla.svg" alt="UCLA Logo" />
-    </a>
-
-        <ul class="breadcrumb breadcrumb--white">
-
-          <li class="breadcrumb__item"><a href="https://www.finance.ucla.edu">Business &amp; Finance Solutions</a></li>
-    
-    </ul>
-      </div>
-</div>
-
-
-  </div>
-
-  
-  <div class="header-wrap">
-      <div class="region region-header" aria-label="header">
-    
-<div id="block-siteden-surface-branding" class="block block-system block-system-branding-block">
-    
-    
-    
-<div class="site-name clearfix">
-    <a href="/" title="Home" rel="home">Travel Services</a>
-</div>
-
-</div>
-
-  </div>
-
-      <div class="region region-navigation header__navbar" id="nav-main">
-    <nav role="navigation" aria-labelledby="block-siteden-surface-main-menu-menu" id="block-siteden-surface-main-menu" class="nav-primary block block-menu navigation menu--main">
-            
-  <h2 class="visually-hidden" id="block-siteden-surface-main-menu-menu">Main navigation</h2>
-  
-
-        
-
-<ul region="navigation" class="nav-primary__list">
-
-      <li>
-    <a href="/air-car-hotel" data-drupal-link-system-path="node/1">Travel</a>
-      </li>
-      <li class="is-expanded has-children">
-    <a href="/T-E-Card" data-drupal-link-system-path="node/211">T&amp;E Card</a>
-          <button class="nav-primary__toggle" aria-label="toggle button to access submenu"></button>
-      <ul region="navigation" class="nav-primary__sublist">
-
-      <li>
-    <a href="/card-cash-withdrawals" data-drupal-link-system-path="node/1280">T&amp;E Card Withdrawals</a>
-      </li>
-
-</ul>
-
-      </li>
-      <li>
-    <a href="/policies" data-drupal-link-system-path="node/541">Policies</a>
-      </li>
-      <li>
-    <a href="/resources" data-drupal-link-system-path="node/921">Resources</a>
-      </li>
-      <li>
-    <a href="/forms" data-drupal-link-system-path="node/951">Forms</a>
-      </li>
-
-</ul>
-
-
-
-  </nav>
-
-<button id="search-button" aria-label="toggle button to access search form" class="search-bar__button">
-  <svg role="img" aria-hidden="true" class="nav-primary__search-icon" width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Search Icon</title>
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-      <g transform="translate(-15.000000, -15.000000)">
-        <g id="Nav-Item">
-          <g transform="translate(12.000000, 12.000000)">
-            <polygon class="Path-polygon" points="0 0 24 0 24 24 0 24"></polygon>
-            <path d="M15.5,14 L14.71,14 L14.43,13.73 C15.41,12.59 16,11.11 16,9.5 C16,5.91 13.09,3 9.5,3 C5.91,3 3,5.91 3,9.5 C3,13.09 5.91,16 9.5,16 C11.11,16 12.59,15.41 13.73,14.43 L14,14.71 L14,15.5 L19,20.49 L20.49,19 L15.5,14 Z M9.5,14 C7.01,14 5,11.99 5,9.5 C5,7.01 7.01,5 9.5,5 C11.99,5 14,7.01 14,9.5 C14,11.99 11.99,14 9.5,14 Z" fill="#00598C" fill-rule="evenodd"></path>
-          </g>
-        </g>
-      </g>
-    </g>
-  </svg>
-</button>
-
-<div id="block-search" role="search" class="search-bar">
-<form region="navigation" class="search-bar__form" action="/search/google" method="get" id="search-block-form" accept-charset="UTF-8">
-  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
-      <label for="edit-keys" class="visually-hidden">Search the site:</label>
-        <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" placeholder="Search …" required="required" class="search-bar__input form-search" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" />
-
-        </div>
-<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" class="btn search-bar__submit button js-form-submit form-submit" type="submit" id="edit-submit" value="Search" />
-</div>
-
-</form>
-
-</div>
-
-  </div>
-
-    <div class="hamburger__container">
-
-<button id="primary-ham" class="hamburger" type="button" aria-label="toggle button to access navigation and search" title="navigation and search">
-  <span class="hamburger__box">
-    <span class="hamburger__inner"></span>
-  </span>
-</button>
-
-</div>
-  </div>
-</header>
-
-<main id="main-content" tabindex="-1">
-
-  
-      <div class="layout__container">
-      
-    </div>
-  
-  
-  <div class="layout__container layout--default     ">
-          <div class="layout__title">
-          <div class="region region-title" aria-label="title">
-    
-<div id="block-siteden-surface-breadcrumbs" class="block block-system block-system-breadcrumb-block">
-    
-    
-            <ul class="breadcrumb">
-                <li class="breadcrumb__item breadcrumb__item--first">
-                    <a href="/">Home</a>
-            </li>
-      </ul>
-
-  </div>
-
-<div id="block-siteden-surface-page-title--2" class="block block-core block-page-title-block">
-    
-    
-        
-  <h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Travel Services Directory</span>
-</h1>
-
-
-  </div>
-
-  </div>
-
-      </div>
-    
-    <div class="layout__content">
-        <div class="region region-content" aria-label="content">
-    
-<div id="block-siteden-surface-content" class="block block-system block-system-main-block panel">
-    
-    
-        
-<article role="article" about="/travel-services-directory" class="node node--type-sf-page node--view-mode-full">
-
-  
-    
-
-  
-  <div class="node__content">
-    
-      <div class="field field--name-field-sf-content field--type-entity-reference-revisions field--label-hidden field__items">
-              <div class="field__item">  <div class="paragraph paragraph--type--sf-section paragraph--view-mode--default">
-            <div class="layout layout--onecol">
-    <div  class="layout__region layout__region--content">
-        <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
-          
-            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><div class="alert alert--success"><strong>Visit the <a href="https://support.finance.ucla.edu/s/knowledgearticles?requestType=T%26E#" target="_blank">UCLA Finance Support Portal</a> for streamlined Travel Accounting and T&amp;E card support!</strong> Quickly search dozens of knowledge articles and easily access case forms when you need additional assistance.</div>
-
-<h4>ADDRESS</h4>
-
-<p>10920 Wilshire Blvd., 5th Floor<br />
-Los Angeles, CA 90024-6541<br />
-Mail Code: 143348<br />
-Phone: (310) 20<strong>6-2639</strong> or (800) 235-UCLA (8252)</p>
-
-<p>CST# 2046415-70</p>
-
-<h4>OFFICE HOURS</h4>
-
-<p>Monday - Friday, 8 a.m. to 5 p.m., Saturday &amp; Sunday Closed</p>
-
-<h4>UCLA Travel Accounting </h4>
-
-<ul><li><strong>Express Help Desk:</strong> (310) 82<strong>5-4893</strong><br />
-	Submit a case through the <a href="https://support.finance.ucla.edu/s/knowledgearticles?requestType=T%26E#">UCLA Finance Support Portal</a></li>
-	<li><strong>Travel &amp; Entertainment Vendor Payments:</strong> (310) 82<strong>5-0672</strong><br />
-	Submit a case through the <a href="https://support.finance.ucla.edu/s/knowledgearticles?requestType=T%26E#">UCLA Finance Support Portal</a></li>
-	<li><strong>T&amp;E Card and Direct Bill Help Desk:</strong> (310) 79<strong>4-5878</strong><br />
-	Submit a case through the <a href="https://support.finance.ucla.edu/s/knowledgearticles?requestType=T%26E#">UCLA Finance Support Portal</a><br /><em>Fax: (310) 794-3509</em></li>
-</ul><p><strong>UCLA Travel Accounting Phone Hours:</strong> 9 a.m. – noon, 1 p.m. – 4 p.m.</p>
-
-<h4>UC Travel Center</h4>
-
-<ul><li>Email: <a href="mailto:travel@finance.ucla.edu">travel@finance.ucla.edu</a><br /><em>Fax: (310) 79<strong>4-2703</strong></em></li>
-</ul><div role="region" aria-label="Scrollable Table" tabindex="0" class="responsive-table"><table class="table"></table></div></div>
-      
-      </div>
-
-    </div>
-  </div>
-
-      </div>
-</div>
-          </div>
-  
-  </div>
-
-</article>
-
-  </div>
-
-  </div>
-
-    </div>
-
-    
-      </div>
-</main>
-
-
-<div class="footer__dept" aria-label="Department footer" role="contentinfo">
-  <div class="layout__container">
-
-    
-        <div class="region region-footer" aria-label="footer">
-    <div id="block-bbtravelfooterlogo" class="o-media branding">
-      
-        
-              <div class="o-media__figure branding__figure">
-        <a class="link-img" href="/"><img alt="Site logo" src="https://live-ucla-siteden-travel.pantheonsite.io/sites/default/files/2020-10/Uxd_Wht_travel.svg" /></a>
-      </div>
-          </div>
-
-<div id="block-footercontactinfo" class="block block-block-content block-block-content47af05d3-bc52-4e70-a98b-13de95fca05e block-type--sf_basic">
-    
-    
-        
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>10920 Wilshire Blvd., 5th Floor<br />
-Los Angeles, CA 90024-6541<br />
-Mail Code: 143348<br />
-Phone: (310) 206-2639 or (800) 235-UCLA (8252)</p>
-
-<p>CST# 2046415-70</p>
-
-<p><strong><a href="https://www.travel.ucla.edu/travel-services-directory">Travel Services Directory</a></strong></p></div>
-      
-  </div>
-
-  </div>
-
-
-    
-  </div>
-</div>
-<div class="layout__container global-foot" aria-label="Global footer" role="contentinfo">
-  <div class="global-foot__wrapper">
-    <div class="social-links-container">
-      <a class="social-icon" href="https://www.facebook.com/UCLA/"><span class="social-icon--facebook"></span><span class="visuallyhidden">Facebook</span></a>
-      <a href="https://www.instagram.com/ucla/"><span class="social-icon--instagram"></span><span class="visuallyhidden">Instagram</span></a>
-      <a href="https://www.linkedin.com/school/ucla"><span class="social-icon--linkedin"></span><span class="visuallyhidden">Linked</span></a>
-      <a href="https://twitter.com/ucla"><span class="social-icon--twitter"></span><span class="visuallyhidden">Twitter</span></a>
-      <a href="https://www.youtube.com/user/UCLA"><span class="social-icon--youtube"></span><span class="visuallyhidden">Youtube</span></a>
-      <a href="https://www.tiktok.com/@ucla?lang=en"><span class="social-icon--tiktok"></span><span class="visuallyhidden">TikTok</span></a>
-      <a href="https://story.snapchat.com/@uclaofficial"><span class="social-icon--snapchat"></span><span class="visuallyhidden">Snapchat</span></a>
-    </div>
-
-    <div class="global-foot__legal">
-
-      <p class="global-foot__legal--copyright">&copy; 2024 Regents of the <a class="copy__link-a dark" href="http://www.universityofcalifornia.edu/">University of California</a></p>
-
-      <ul class="global-foot__legal--list">
-        <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="https://www.bso.ucla.edu/">Emergency</a></li>
-        <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="https://www.ucla.edu/accessibility">Accessibility</a></li>
-        <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="https://www.ucla.edu/terms-of-use/">Privacy &amp; Terms of Use</a></li>
-      </ul>
-
-    </div>
-  </div>
-</div>
-
-
-  </div>
-
-    
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/866","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-45095774-9","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"googleCSE":{"cx":"006855704751877854816:ynn9etu4utk","language":"en","resultsWidth":0,"domain":"travel.ucla.edu","isDefault":true},"ajaxTrustedUrl":{"\/search\/google":true},"user":{"uid":0,"permissionsHash":"0c71b9b962220f5593aa722c9ad8cd95b14d7662e9c8df8daebf6d10fec82043"}}</script>
-<script src="/sites/default/files/js/js_t499oj5rM6uySO0pS6yCOGg9aSuMcNRz1adtpa2ABxU.js"></script>
-
-  </body>
-</html>
+Travel Services Directory | Travel Services
+Skip to Main Content
+Business & Finance Solutions
+Travel Services
+Search Icon
+Search the site:
+Home
+Travel Services Directory
+Visit the
+UCLA Finance Support Portal
+for streamlined Travel Accounting and T&E card support!
+Quickly search dozens of knowledge articles and easily access case forms when you need additional assistance.
+ADDRESS
+10920 Wilshire Blvd., 5th Floor
+Los Angeles, CA 90024-6541
+Mail Code: 143348
+Phone: (310) 20
+6-2639
+or (800) 235-UCLA (8252)
+CST# 2046415-70
+OFFICE HOURS
+Monday - Friday, 8 a.m. to 5 p.m., Saturday & Sunday Closed
+UCLA Travel Accounting
+Express Help Desk:
+(310) 82
+5-4893
+Submit a case through the
+UCLA Finance Support Portal
+Travel & Entertainment Vendor Payments:
+(310) 82
+5-0672
+Submit a case through the
+UCLA Finance Support Portal
+T&E Card and Direct Bill Help Desk:
+(310) 79
+4-5878
+Submit a case through the
+UCLA Finance Support Portal
+Fax: (310) 794-3509
+UCLA Travel Accounting Phone Hours:
+9 a.m. – noon, 1 p.m. – 4 p.m.
+UC Travel Center
+Email:
+travel@finance.ucla.edu
+Fax: (310) 79
+4-2703
+10920 Wilshire Blvd., 5th Floor
+Los Angeles, CA 90024-6541
+Mail Code: 143348
+Phone: (310) 206-2639 or (800) 235-UCLA (8252)
+CST# 2046415-70
+Travel Services Directory
+Facebook
+Instagram
+Linked
+Twitter
+Youtube
+TikTok
+Snapchat
+© 2024 Regents of the
+University of California
+Emergency
+Accessibility
+Privacy & Terms of Use

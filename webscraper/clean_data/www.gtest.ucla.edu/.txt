@@ -1,115 +1,33 @@
-<!DOCTYPE html>
-<html lang="en-us">
-<head>
-<title>Google Apps for UCLA</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=1050">
-<link rel="stylesheet" href="css/bootstrap.min.css">
-<link rel="stylesheet" href="css/style.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-29096055-2']);
-  _gaq.push(['_trackPageview']);
-  
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-  
-  function recordOutboundLink(link, category) {
-    try {
-      var pageTracker = _gat._getTracker("UA-29096055-2");
-      pageTracker._trackEvent(category, link.href);
-      setTimeout('document.location = "' + link.href + '"', 100)
-    } catch(err) {}
-  }
-  
-  function recordTabClick(tab, category) {
-    try {
-      var pageTracker = _gat._getTracker("UA-29096055-2");
-      pageTracker._trackEvent(category, $.trim($(tab).text()));
-    } catch(err) {}
-  }
-</script>
-</head>
-<body id="landing">
-<div class="container" id="main-container">
-  <div class="row">
-    <div class="span12">
-      <div id="splash">
-        <div id="splashimg"></div>
-        <div id="sign-in-box" style="margin-top:96px;">
-          <a class="btn btn-large btn-primary" href="http://mail.gtest.ucla.edu/">Sign in with your UCLA Logon ID</a>
-          <p><small><a href="https://gtest.ucla.edu/account-forgot">I need help with my username or password&hellip;</a></small></p>
-        <div class="fb-like" data-href="http://www.facebook.com/googleappsforucla" data-send="false" data-width="300" data-layout="button_count" data-show-faces="false"></div></div>
-        
-      </div>
-    </div>
-  </div>
-  <div class="row">
-    <div class="span8" id="main-content">
-      <h1>Welcome to Google Apps for UCLA.</h1>
-      <p>Google Apps is an integrated communication and collaboration solution offered by Google, which includes Gmail, Google Calendar, Google Docs, and more. Google Apps is available to employees, students, alumni, and retirees.  Affiliated individuals can be granted accounts with appropriate authorization.</p>
-      <p>
-If you are <a href="https://ucla.service-now.com/support?id=kb_article&sys_id=KB0012717">eligible for a Google Apps for UCLA account</a> and are experiencing issues <a href="http://mail.gtest.ucla.edu/">logging in</a>, please contact the IT Support Center at (310) 267-HELP (4357), <a href="mailto:help@it.ucla.edu">help@it.ucla.edu</a>, or visit their help desk at Kerckhoff Hall, Suite 124. 
-      </p>
-      <ul class="nav nav-tabs">
-        <li><a data-toggle="tab" href="#tell-me-more">Tell me more</a></li>
-        <li><a data-toggle="tab" href="#getting-help">Getting help</a></li>
-      </ul>
-      <div class="tab-content">
-        <div id="tell-me-more" class="tab-pane">
-          <img src="img/apps_ring_grey-logo2_nov2010.jpg" style="float: right; margin-left: 10px" alt="Google Apps icons" />
-          <p>Google Apps for UCLA is a suite of hosted email and collaboration applications for schools, universities, and non-profit organizations. This suite of services includes Gmail (Google&rsquo;s email service), Google Calendar, Google Docs (Google&rsquo;s web-based office software suite), and more.</p>
-        </div>
-        <div id="getting-help" class="tab-pane">
-          <p>For help with using Google Apps for UCLA, you may visit the following resources:</p>
-          <ul>
-            <li><a href="http://learn.googleapps.com/">Google Apps Learning Center</a></li>
-            <li><a href="http://support.google.com/mail/">Gmail Help Center</a></li>
-            <li><a href="http://support.google.com/calendar/">Google Calendar Help Center</a></li>
-            <li><a href="http://support.google.com/docs/">Google Docs Help Center</a></li>
-          </ul>
-          <p>Or, for help with access-related or UCLA-specific issues, see the <a href="http://www.bol.ucla.edu/shortcut/googleapps">Google Apps section of the Bruin OnLine knowledge base</a> or contact Bruin OnLine at (310) 267-4357, <a href="mailto:consult@ucla.edu">consult@ucla.edu</a>, or visit their help desk at Kerckhoff Hall, Suite 124.</p>
-        </div>
-      </div>
-    </div>
-    <div class="span4">
-      <h2>Recent News</h2>
-      <p>
-        <a href="https://www.bol.ucla.edu/alert/20140128.html">Google Apps for UCLA misfiled Gmail Messages</a><br/>
-        <small>January 28, 2014 via <a href="http://www.bol.ucla.edu/">Bruin OnLine</a></small>
-      </p>
-      <p>      
-<h2>System Status</h2>
-      <div class="system-status">
-      </div>
-      <p><small>via <a href="http://www.google.com/appsstatus#hl=en">Google Apps Status Dashboard</a></small></p>
-    </div>
-  </div>
-</div>
-<div class="container" id="footer-container" >
-  <div class="footer">
-    <p>© 2014 Regents of the University of California </p>
-  </div>
-</div>
-<div id="fb-root"></div>
-<script type="text/javascript">
-  $('.nav-tabs a').eq(0).tab('show');
-  $('a[href^="http://"]').attr('onclick', 'recordOutboundLink(this, "Outbound Links"); return false;');
-  $('a[data-toggle="tab"]').attr('onclick', 'recordTabClick(this, "Tabs");');
-  $('a.accordion-toggle').attr('onclick', 'recordTabClick(this, "System Status");');
-  
-  (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-</script>
-</body>
-</html>
+Google Apps for UCLA
+Sign in with your UCLA Logon ID
+I need help with my username or password…
+Welcome to Google Apps for UCLA.
+Google Apps is an integrated communication and collaboration solution offered by Google, which includes Gmail, Google Calendar, Google Docs, and more. Google Apps is available to employees, students, alumni, and retirees.  Affiliated individuals can be granted accounts with appropriate authorization.
+If you are
+eligible for a Google Apps for UCLA account
+and are experiencing issues
+logging in
+, please contact the IT Support Center at (310) 267-HELP (4357),
+help@it.ucla.edu
+, or visit their help desk at Kerckhoff Hall, Suite 124.
+Tell me more
+Getting help
+Google Apps for UCLA is a suite of hosted email and collaboration applications for schools, universities, and non-profit organizations. This suite of services includes Gmail (Google’s email service), Google Calendar, Google Docs (Google’s web-based office software suite), and more.
+For help with using Google Apps for UCLA, you may visit the following resources:
+Google Apps Learning Center
+Gmail Help Center
+Google Calendar Help Center
+Google Docs Help Center
+Or, for help with access-related or UCLA-specific issues, see the
+Google Apps section of the Bruin OnLine knowledge base
+or contact Bruin OnLine at (310) 267-4357,
+consult@ucla.edu
+, or visit their help desk at Kerckhoff Hall, Suite 124.
+Recent News
+Google Apps for UCLA misfiled Gmail Messages
+January 28, 2014 via
+Bruin OnLine
+System Status
+via
+Google Apps Status Dashboard
+© 2014 Regents of the University of California

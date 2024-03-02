@@ -1,239 +1,46 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-
-<title>The Crump Institute for Molecular Imaging | OPEN_CMS</title>
-
-
-      <!-- Favicons -->
-      <link rel="apple-touch-icon" sizes="57x57" href="/crump/favicons/apple-icon-57x57.png">
-      <link rel="apple-touch-icon" sizes="60x60" href="/crump/favicons/apple-icon-60x60.png">
-      <link rel="apple-touch-icon" sizes="72x72" href="/crump/favicons/apple-icon-72x72.png">
-      <link rel="apple-touch-icon" sizes="76x76" href="/crump/favicons/apple-icon-76x76.png">
-      <link rel="apple-touch-icon" sizes="114x114" href="/crump/favicons/apple-icon-114x114.png">
-      <link rel="apple-touch-icon" sizes="120x120" href="/crump/favicons/apple-icon-120x120.png">
-      <link rel="apple-touch-icon" sizes="144x144" href="/crump/favicons/apple-icon-144x144.png">
-      <link rel="apple-touch-icon" sizes="152x152" href="/crump/favicons/apple-icon-152x152.png">
-      <link rel="apple-touch-icon" sizes="180x180" href="/crump/favicons/apple-icon-180x180.png">
-      <link rel="icon" type="image/png" sizes="192x192"  href="/crump/favicons/android-icon-192x192.png">
-      <link rel="icon" type="image/png" sizes="32x32" href="/crump/favicons/favicon-32x32.png">
-      <link rel="icon" type="image/png" sizes="96x96" href="/crump/favicons/favicon-96x96.png">
-      <link rel="icon" type="image/png" sizes="16x16" href="/crump/favicons/favicon-16x16.png">
-      <link rel="manifest" href="/crump/favicons/manifest.json">
-      <meta name="msapplication-TileColor" content="#ffffff">
-      <meta name="msapplication-TileImage" content="/crump/favicons/ms-icon-144x144.png">
-      <meta name="theme-color" content="#ffffff">
-      <!-- End Favicons --> 
-
-    <meta http-equiv="content-style-type" content="text/css">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta name="generator" content="OpenACS version 5.10.1b2">
-    <link rel="stylesheet" href="/resources/xowiki/xowiki-bootstrap3.css" type="text/css" media="all">
-    <link rel="stylesheet" href="/resources/acs-subsite/site-master.css" type="text/css" media="all">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" type="text/css" media="all">
-    <link rel="stylesheet" href="/resources/openacs-bootstrap3-theme/css/main.css" type="text/css" media="all">
-    <link rel="stylesheet" href="/resources/openacs-bootstrap3-theme/css/color/blue.css" type="text/css" media="all">
-    <link rel="stylesheet" href="/resources/acs-templating/forms.css" type="text/css" media="all">
-    <link rel="stylesheet" href="/resources/acs-templating/lists.css" type="text/css" media="all">
-    <link rel="stylesheet" href="/crump/resources/styles-crump.css?v=52" type="text/css" media="all">
-   <script type="text/javascript" src="/resources/openacs-bootstrap3-theme/js/jquery-1.11.3.min.js" nonce="AC24068A415881887D0E1D7693A602F3A39CB0C7"></script>
-   <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js" nonce="AC24068A415881887D0E1D7693A602F3A39CB0C7"></script>
-   <script type="text/javascript" src="//www.googletagmanager.com/gtag/js?id=UA-75729505-1" nonce="AC24068A415881887D0E1D7693A602F3A39CB0C7"></script>
-   <script type="text/javascript" nonce="AC24068A415881887D0E1D7693A602F3A39CB0C7">window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-75729505-1');</script>
-
-</head>
-<body>
-  
-
-
-<!--  Header  -->
-<div class="container-fluid hdr">
-   <div class="container">
-         <div class="col-sm-3"></div>
-         <div class="col-sm-6 hdr-crump" align="center">
-         <!--  Subsite Logos  -->
-         <img src="/crump/files/view/images/2015crump_logo.png" class="img-responsive" />
-         </div>
-         <div class="col-sm-3"></div>
-   </div>
-</div>
-<!--  Nav, Content  -->
-<div class="container">
-   <div class="row">
-      <div class="col-sm-2" style="margin:0;padding:0;">
-          
-              <!--  Crump Main Navigation  -->
-              <nav class="navbar navbar-default" role="navigation">
-                  <!-- Brand and toggle get grouped for better mobile display -->
-                  <div class="navbar-header">
-                      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".crump">
-                          <span class="sr-only">Toggle navigation</span>
-                          <span class="icon-bar"></span>
-                          <span class="icon-bar"></span>
-                          <span class="icon-bar"></span>
-                      </button>
-                  </div>
-                  <!-- Collect the nav links, forms, and other content for toggling -->
-                  <div class="collapse navbar-collapse crump">
-                      <ul class="nav navbar-nav">
-                          <li role="presentation"><strong>About</strong></li>
-                          <li role="presentation"><a href="/crump/"><span class="glyphicon glyphicon-home"></span> Homepage</a></li>
-                          <li role="presentation"><a href="/crump/pages/director">From Our Director</a></li>
-                          <li role="presentation"><a href="/crump/pages/history">History</a></li>
-                          <li role="presentation"><a href="/crump/pages/vision">Vision</a></li>
-                          <li role="presentation"><a href="/crump/pages/home">Our Home</a></li>
-                          <li role="presentation"><a href="/crump/pages/rap">Research Program Areas</a></li>
-                          <li role="presentation"><a href="/crump/pages/techcenters">Technology Centers</a></li>
-                          <li role="presentation"><strong>Research</strong></li>
-                          <li role="presentation"><a href="/crump/pages/faculty">Faculty</a></li>
-                          <li role="presentation"><a href="/crump/pages/laboratories">Laboratories</a></li>
-                          <li role="presentation"><a href="/crump/pages/training">Training &amp; Education</a></li>
-                          <li role="presentation"><a href="/crump/pages/university">University-Industry Technology Transfer</a></li>
-                          <li role="presentation"><a href="/crump/pages/collaborations">Collaborations</a></li>
-                          <li role="presentation"><strong>Information</strong></li>
-                          <li role="presentation"><a href="/crump/announcements/">Announcements</a></li>
-                          <li><a href="/crump/pages/opportunities">Opportunities</a></li>
-                          <li role="presentation"><a href="/crump/pages/contact">Contact Us</a></li>
-                      </ul>
-                  </div><!-- /.navbar-collapse -->
-              </nav>
-
-          
-      </div>
-      <div class="col-sm-10">
-
-         <!-- Generated by ::xowiki::ADP_Generator on Wed Nov 16 18:41:51 UTC 2022 -->
-
-<!-- The following DIV is needed for overlib to function! -->
-          <div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
-          <div class='xowiki-content'>
-
-      
-
-      <style>
-        #wikicmds{height:55px;position:relative;font-size:1em !important;margin:10px auto;right:auto;text-align:center;top: 20px !important;}
-        a.text-white:link, a.text-white:visited{color:#fff;background-color: #337ab7;}
-        a.text-white:active, a.text-white:hover, a.text-white:focus{color:#fff;background-color: #16577f;}
-      </style>
-      <div id='wikicmds' class="container">
-         
-      </div>
-
- 
- <h1>University - Industry Technology Transfer</h1>
-
-<div class="col-md-8">
-<p>As a science and technology institute, the Crump Institute for Molecular Imaging seeks to facilitate broad access to the innovative discoveries and inventions that originate in its laboratories. Extensive academic collaborations engage scientists and engineers at UCLA, Caltech, UCSB, Stanford, and numerous academic institutions. These connections provide an integrated environment for translational and clinical evaluation and implementation of new science and technology. The Crump Institute views commercialization as an essential and responsible step to provide enabling technologies for biomedical and pharmaceutical sciences to improve patient care.</p>
-
-<p>The energy and vision of several Crump faculty members led to the establishment of a new technology transfer initiative in 2007. Born out of the frustration of LA-based inventions moving to the more established biotech hubs of San Francisco and San Diego, UCLA and Caltech faculty banded together to create a local home for entrepreneurial academics and their new ideas. Located just south of UCLA in Culver City, <a alt="Momentum Biosciences" href="http://www.momentum-biosciences.com/" target="_blank">Momentum Biosciences</a> provides laboratory space and support for start-up ventures interested in moving their technology from academia to industry. A typical biotech company will spend approximately $1.5 million in the first year, with the majority of that valuable capital going towards infrastructure. Momentum takes this burden off early stage companies by providing a comprehensive wet lab facility with shared office and meeting space, allowing scientists to focus time and resources on proof-of-concept and product development. To date, Momentum has housed over 10 companies in a variety of life and physical science disciplines, helping build the biotech economy of Los Angeles.</p>
-
-<p>At present, Momentum is home to <a alt="Sofie Biosciences" href="http://sofiebio.com/" target="_blank">Sofie Biosciences</a>, a company established on discoveries and inventions by Crump faculty. Sofie Biosciences is creating an ever-expanding playing field for molecular imaging with new PET technologies developed by great people with great ideas. The company was founded by leading UCLA and Caltech faculty along with imaging industry professionals who are committed to accelerating the transfer of new healthcare technologies from the laboratory to the clinical and commercial environment. By empowering a wide array of people with valuable, translational imaging tools, they are removing the dependency, cost, and complexity from PET, ushering in the new world of molecular medicine.</p>
-
-<p><a alt="ImaginAb" href="http://www.imaginab.com/" target="_blank">ImaginAb</a>, another company founded on work originating from Crump faculty laboratories, has used incubation at Momentum as a springboard and is now an independent, revenue generating business. ImaginAb is creating a completely new class of reagents by reformatting antibodies against biologically and clinically relevant targets into fragments optimized for diagnostic imaging. The company is currently developing pre-clinical research tools to understand the biological mechanisms of disease; companion imaging agents to support therapeutic antibody development; and a pipeline of clinical imaging agents for guiding disease management and therapy. ImaginAb believes that in this era of targeted molecular therapy, there is a major unmet need for targeted in vivo diagnostics to help realize the promise of personalized medicine.</p>
-
-<p>A key part of building a technology transfer &ldquo;engine&rdquo; is education. The Crump Institute joins with the Department of Molecular and Medical Pharmacology, and the Business of Science Center (<a alt="UCLABSC" href="http://www.bs.pharmacology.ucla.edu/" target="_blank">UCLABSC</a> ) to offer a graduate course on &ldquo;The Business of Science.&rdquo; Faculty from UCLA&rsquo;s David Geffen School of Medicine, Department of Bioengineering, Anderson School of Management, and Office of Intellectual Property, along with volunteers from outside business, legal, and financial communities join to help our students gain a better understanding of the cultures, expectations, and practices of companies in the biomedical sciences and healthcare.</p>
-</div>
-
-<div class="col-md-4"><img alt="Momentum Biosciences" class="img-responsive" src="/crump/files/view/images/momentum.png" />
-<p><small>Momentum Biosciences is located in Culver City and is home to her various start-up companies.</small></p>
-<a alt="Momentum Biosciences" href="http://www.momentum-biosciences.com/" target="_blank"> <img alt="Momentum Biosciences" class="img-responsive" src="/crump/files/view/images/mombio_logo.png" /> </a><br />
-<a alt="Sofie Biosciences" href="http://sofiebio.com/" target="_blank"><img alt="Sofie Biosciences" class="img-responsive" src="/crump/files/view/images/sofie_logo.png" /> </a><br />
-<a alt="ImaginAb" href="http://www.imaginab.com/" target="_blank"><img alt="ImaginAb" class="img-responsive" src="/crump/files/view/images/imaginab.png" /> </a><br />
-<a alt="UCLABSC" href="http://www.bs.pharmacology.ucla.edu/" target="_blank"><img alt="UCLABSC" class="img-responsive" src="/crump/files/view/images/UCLABSC.png" /> </a></div>
-
-<DIV class='content-chunk-footer'></DIV>
-
-<div class='item-footer'></div>
-
-</div> <!-- class='xowiki-content' -->
-
-
-      </div>
-   </div>
-<!--  Footer  -->
-  <div class="footer">
-   <div class="row" style="margin:0;padding:0;">
-      <div style="display:none;">
-         <span class="footer-sections">About</span>
-         <ul>
-         <li><a href="/crump/">Homepage</a></li>
-         <li><a href="/crump/pages/directors">From Our Director</a></li>
-         <li><a href="/crump/pages/history">History</a></li>
-         <li><a href="/crump/pages/vision">Vision</a></li>
-         <li><a href="/crump/pages/home">Our Home</a></li>
-         <li><a href="/crump/pages/rap">Research Program Areas</a></li>
-         <li><a href="/crump/pages/techcenters">Technology Centers</a></li>
-         </ul>
-         <span class="footer-sections">Research</span>
-         <ul>
-         <li><a href="https://fdb5.ctrl.ucla.edu/crump/institution/personnel-list/">Faculty</a></li>
-         <li><a href="/crump/pages/laboratories">Laboratories</a></li>
-         <li><a href="/crump/pages/training">Training &amp; Education</a></li>
-         <li><a href="/crump/pages/university">University-Industry Technology Transfer</a></li>
-         <li><a href="/crump/pages/collaborations">Collaborations</a></li>
-         </ul>
-         <span class="footer-sections">Information</span>
-         <ul>
-         <li><a href="/crump/pages/highlights">Highlights</a></li>
-         <li><a href="/crump/pages/opportunities">Opportunities</a></li>
-         <li><a href="/crump/pages/contact">Contact Us</a></li>
-         </ul>
-      </div>
-
-      <div class="col-xs-12">
-         <span class="footer-sections">Contact Information:</span>
-            <address><small>Crump Institute for Molecular Imaging &nbsp;<span style="color:#cccccc;">|</span>&nbsp;
-            University of California, Los Angeles &nbsp;<span style="color:#cccccc;">|</span>&nbsp;
-            570 Westwood Plaza &nbsp;<span style="color:#cccccc;">|</span>&nbsp;
-            Los Angeles, CA 90095-1770</small>
-             <br />
-            <div style="display:none;"><span class="glyphicon glyphicon-earphone"></span> <abbr title="Telephone">Tel:</abbr> 310-825-4903 &nbsp;
-            <span class="glyphicon glyphicon-print"></span> <abbr title="Facsimile">Fax:</abbr> 310-206-8975 <br /></div>
-         </address>
-      </div>
-   </div>
-  </div>
-
-      <div class="row">
-          <div class="col-xs-12">
-              <ul class="center-block compact">
-                  <li>
-                      Not logged in |
-                  </li>
-                  
-              </ul>
-          </div>
-      </div>
-
-   </div>
-</div>
-
-  
-    <script type="text/javascript" nonce="AC24068A415881887D0E1D7693A602F3A39CB0C7">
-          function get_popular_tags(popular_tags_link, prefix) {
-            var http = new XMLHttpRequest();
-            http.open('GET', popular_tags_link, true);
-            http.onreadystatechange = function() {
-              if (http.readyState == 4) {
-                if (http.status != 200) {
-                  alert('Something wrong in HTTP request, status code = ' + http.status);
-                } else {
-                  var e = document.getElementById(prefix + '-popular_tags');
-                  e.innerHTML = http.responseText;
-                  e.style.display = 'block';
-                }
-              }
-            };
-            http.send(null);
-          }
-        </script>
-    <script type="text/javascript" src="/resources/acs-subsite/core.js" nonce="AC24068A415881887D0E1D7693A602F3A39CB0C7"></script>
-
-
-<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=26&cb=1528574654" async nonce="AC24068A415881887D0E1D7693A602F3A39CB0C7"></script></body>
-</html>
+The Crump Institute for Molecular Imaging | OPEN_CMS
+University - Industry Technology Transfer
+As a science and technology institute, the Crump Institute for Molecular Imaging seeks to facilitate broad access to the innovative discoveries and inventions that originate in its laboratories. Extensive academic collaborations engage scientists and engineers at UCLA, Caltech, UCSB, Stanford, and numerous academic institutions. These connections provide an integrated environment for translational and clinical evaluation and implementation of new science and technology. The Crump Institute views commercialization as an essential and responsible step to provide enabling technologies for biomedical and pharmaceutical sciences to improve patient care.
+The energy and vision of several Crump faculty members led to the establishment of a new technology transfer initiative in 2007. Born out of the frustration of LA-based inventions moving to the more established biotech hubs of San Francisco and San Diego, UCLA and Caltech faculty banded together to create a local home for entrepreneurial academics and their new ideas. Located just south of UCLA in Culver City,
+Momentum Biosciences
+provides laboratory space and support for start-up ventures interested in moving their technology from academia to industry. A typical biotech company will spend approximately $1.5 million in the first year, with the majority of that valuable capital going towards infrastructure. Momentum takes this burden off early stage companies by providing a comprehensive wet lab facility with shared office and meeting space, allowing scientists to focus time and resources on proof-of-concept and product development. To date, Momentum has housed over 10 companies in a variety of life and physical science disciplines, helping build the biotech economy of Los Angeles.
+At present, Momentum is home to
+Sofie Biosciences
+, a company established on discoveries and inventions by Crump faculty. Sofie Biosciences is creating an ever-expanding playing field for molecular imaging with new PET technologies developed by great people with great ideas. The company was founded by leading UCLA and Caltech faculty along with imaging industry professionals who are committed to accelerating the transfer of new healthcare technologies from the laboratory to the clinical and commercial environment. By empowering a wide array of people with valuable, translational imaging tools, they are removing the dependency, cost, and complexity from PET, ushering in the new world of molecular medicine.
+ImaginAb
+, another company founded on work originating from Crump faculty laboratories, has used incubation at Momentum as a springboard and is now an independent, revenue generating business. ImaginAb is creating a completely new class of reagents by reformatting antibodies against biologically and clinically relevant targets into fragments optimized for diagnostic imaging. The company is currently developing pre-clinical research tools to understand the biological mechanisms of disease; companion imaging agents to support therapeutic antibody development; and a pipeline of clinical imaging agents for guiding disease management and therapy. ImaginAb believes that in this era of targeted molecular therapy, there is a major unmet need for targeted in vivo diagnostics to help realize the promise of personalized medicine.
+A key part of building a technology transfer “engine” is education. The Crump Institute joins with the Department of Molecular and Medical Pharmacology, and the Business of Science Center (
+UCLABSC
+) to offer a graduate course on “The Business of Science.” Faculty from UCLA’s David Geffen School of Medicine, Department of Bioengineering, Anderson School of Management, and Office of Intellectual Property, along with volunteers from outside business, legal, and financial communities join to help our students gain a better understanding of the cultures, expectations, and practices of companies in the biomedical sciences and healthcare.
+Momentum Biosciences is located in Culver City and is home to her various start-up companies.
+About
+Homepage
+From Our Director
+History
+Vision
+Our Home
+Research Program Areas
+Technology Centers
+Research
+Faculty
+Laboratories
+Training & Education
+University-Industry Technology Transfer
+Collaborations
+Information
+Highlights
+Opportunities
+Contact Us
+Contact Information:
+Crump Institute for Molecular Imaging
+|
+University of California, Los Angeles
+|
+570 Westwood Plaza
+|
+Los Angeles, CA 90095-1770
+Tel:
+310-825-4903
+Fax:
+310-206-8975
+Not logged in |

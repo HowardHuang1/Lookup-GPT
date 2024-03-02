@@ -1,212 +1,59 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <title>UCLA Astronomy Division</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800" rel="stylesheet">
-
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-
-    <link rel="stylesheet" href="css/magnific-popup.css">
-
-
-    <link rel="stylesheet" href="fonts/ionicons/css/ionicons.min.css">
-    <link rel="stylesheet" href="fonts/fontawesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="fonts/flaticons/font/flaticon.css">
-    <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
-
-    <!-- Theme Style -->
-    <link rel="stylesheet" href="css/style.css">
-  </head>
-  <body>
-    <header role="banner">
-      <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-        <div class="container">
-          <a class="navbar-brand" href="index.php">UCLA Division of <br /> Astronomy & Astrophysics</a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-
-          <div class="collapse navbar-collapse" id="navbarsExample05">
-            <ul class="navbar-nav ml-auto pl-lg-5 pl-0">
-              <li class="nav-item">
-                <a class="nav-link active" href="index.php">Home</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="research-areas.html">Research</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="academics.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Academics</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="graduate-studies.html">Graduate</a>
-                  <a class="dropdown-item" href="undergraduate-program.html">Undergraduate</a>
-                  <a class="dropdown-item" href="about-our-faculty.html">About our faculty</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="outreach.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Outreach</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="astronomy-live.html">Astronomy Live!</a>
-                  <a class="dropdown-item" href="planetarium.html">UCLA Planetarium</a>
-                  <a class="dropdown-item" href="https://planets.ucla.edu/">iPlex</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="events.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Events</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <!--a class="dropdown-item" href="http://pritha.astro.ucla.edu/~abhimat/astrocoffee/">Astro Coffee</a>-->
-                  <a class="dropdown-item" href="astrophysics-colloquium.html">Astrophysics Colloquium</a>
-                  <a class="dropdown-item" href="tuesday-lunch-talks.html">Tuesday Lunch Talks</a>
-                  <a class="dropdown-item" href="meetings.html">Meetings</a>
-                  <a class="dropdown-item" href="diversity-resources.html">Diversity Events</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="people.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">People</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="faculty.html">Faculty</a>
-                  <a class="dropdown-item" href="researchers.html">Researchers</a>
-                  <a class="dropdown-item" href="lecturers.html">Lecturers</a>
-                  <a class="dropdown-item" href="postdocs.html">Postdocs</a>
-                  <a class="dropdown-item" href="grad-students.html">Graduate Students</a>
-                  <a class="dropdown-item" href="staff.html">Staff</a>
-                  <a class="dropdown-item" href="facilities.html">Facilities</a>
-                  <a class="dropdown-item" href="graduate-program-alumni.html">Graduate Program Alumni</a>
-                  <a class="dropdown-item" href="postdoc-alumni.html">Postdoc Alumni</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="events.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="contact-alice-shapley.html">Contact the Division Chair</a>
-                  <a class="dropdown-item" href="https://www.pa.ucla.edu/graduate-admissions.html">Graduate Student Admissions</a>
-                  <a class="dropdown-item" href="https://www.pa.ucla.edu/undergraduate-program.html">Undergraduate Program</a>
-                  <a class="dropdown-item" href="http://computing.pa.ucla.edu/">Computing and IT Support</a>
-                </div>
-              </li>
-            </ul>
-
-            <!--<ul class="navbar-nav ml-auto">
-              <li class="nav-item cta-btn">
-                <a class="nav-link" href="contact.html">Contact Us</a>
-              </li>
-            </ul>-->
-            
-          </div>
-        </div>
-      </nav>
-    </header>
-    <!-- END header -->    
-    <section class="home-slider-loop-false  inner-page owl-carousel">
-      <div class="slider-item" style="background-image: url('img/whitedwarf-slide-3a.jpg')">
-        
-        <div class="container">
-          <div class="row slider-text align-items-center justify-content-center">
-            <div class="col-md-8 text-center col-sm-12 element-animate">
-              <h1>Astrophysics Colloquium</h1>
-              <p>Virtual Colloquium Meetings are held via Zoom</p>
-              <!-- <p><span class="mx-3">&bullet;</span> by <a href="#" class="text-white">John Doe</a></p>-->
-              
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="section">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-md-12 mb-5">
-            <!--<p class="mb-5"><img src="img/stellar.jpg" alt="" class="img-fluid"></p>-->
-            
-            <div class="row justify-content-center">
-            	<!-- Change column width here, originally col-md-7 -->
-              <div class="col-md-9 mb-5">
-                <h2 class="mb-5">Astrophysics Colloquium schedule</h2>
-                <p><strong>Wednesdays, 3:30-4:30 pm</strong></p>
-                <p>The Astronomy Colloquia Meetings are held in the P&A building, room 1-434.  Zoom information sent in email.</p>
-    <h4>Winter 2024</h4><br />
-    <p><b>January 10,2024 </b></p>
-    <p><b>AAS meeting, no colloquium </b></p>
-    <hr>
-    <p><b>January 17, 2024 </b></p>
-    <p><b>Ashley Villar (Center for Astrophysics | Harvard & Smithsonian (CfA))</b></p>
-    <p><b>Time-domain Astrophysics in the Era of Big Data</b></p>
-    <!--<img src="img/events/colloquium/Jia-Liu.jpg" width="150px" class="image1 float-left" hspace="15px" alt="..."><i><strong>Bio:</strong> Jia Liu (<a href="https://liuxx479.github.io/">https://liuxx479.github.io/</a>) is a computational and observational cosmologist. Liu is an associate professor at Kavli IPMU in the University of Tokyo and the inaugural director of the newly established Center for Data-Driven Discovery (CD3) at Kavli IPMU. Liu received her PhD from Columbia University in 2016, was an NSF postdoctoral fellow at Princeton (2016-2019) and a BCCP postdoctoral fellow at UC Berkeley (2019-2021).</i><p></p> -->
-    <p><strong>Abstract:</strong> The eruptions, collisions and explosions of stars drive the universe’s chemical and dynamical evolution. The upcoming Legacy Survey of Space and Time will drastically increase the discovery rate of these transient phenomena, bringing time-domain astrophysics into the realm of “big data.” With this transition comes the important question: how do we classify transient events and separate the interesting “needles” from the “haystack” of objects? In this talk, I will discuss efforts to discover and classify unexpected phenomena using semi-supervised machine learning techniques. I will highlight the interplay between data-informed physics and physics-informed machine learning required to best understand the future LSST dataset of extragalactic transients.</p>
-    <hr>
-    <p><b>January 24, 2024 </b></p>
-    <p><b>Lieke van Son (Center for Astrophysics | Harvard & Smithsonian (CfA))</b></p>
-    <p><b>The first pieces of the gravitational-wave progenitor population puzzle</b></p>
-    <p><img src="img/events/colloquium/LiekevanSon.jpg" width="150px" class="image1 float-left" hspace="15px" alt="..."><strong>Abstract:</strong> As the gravitational-wave event catalog has grown from O(10) to O(100), the field of gravitational-wave astronomy has been rapidly unfolding. We are moving from a phase of initial discovery into an era of population studies. The hope is that these observations help place new constraints on the otherwise elusive lives and deaths of massive stars throughout cosmic history. I will discuss how the first pieces of the gravitational-wave progenitor population puzzle have helped us so far to form a picture of their massive stellar ancestors. Additionally, I will touch upon some of the hopes but also pitfalls of population studies and discuss why the coming decades will be particularly exciting.</b></p>
-    <hr>
-    <!--
-    <p><b>January 31, Zoltan Heiman (Columbia University)</b></p>
-    <p><b>Gravitational wave and electromagnetic signatures of binary black holes with circumbinary gas</b></p>
-    <p><img src="img/events/colloquium/sunstone.jpg" width="150px" class="image1 float-left" hspace="15px" alt="..."><strong>Abstract:</strong> Binary black holes (BHBs) embedded in dense gas hold the
-        promise of so-called "multi-messenger astrophysics": when they are
-        detected both through gravitational waves (GWs) and electromagnetic
-        (EM) observations, they will enable novel science.  This is true both
-        for massive BHBs, whose GWs will be detectable by the future LISA
-        satellite and by on-going pulsar timing arrays (PTAs), as well as for
-        stellar-mass BHBs detected through ground-based GW detectors.  In both
-        cases, identifying the coalescing binaries through their EM signatures
-        will help clarify their astrophysical origin and yield novel probes of
-        cosmology, fundamental physics, and accretion physics.  In this talk,
-        I will describe how circumbinary gas may produce characteristic EM
-        signatures for both massive and stellar-mass BHBs, based on analytic
-        models as well as hydrodynamical simulations.  I will also argue that
-        in both cases, some coalescing binaries may have already been detected
-        in optical surveys, providing clues about their origin.</p>
-    <hr>
-    
-    <p><b>February 7, Priya Natarajan (Yale University)</b></p>
-    <p><b>Unveiling the first black holes </b></p>
-    <p><strong>Abstract:</strong> The origin of the first black holes is one of the key open questions in astrophysics today. Remnants of the first stars are expected to yield black hole seeds in the early Universe that will evolve over cosmic time to grow into the population of supermassive black holes that inhabit the centers of most, if not all galaxies. However, it is challenging to account for the observed luminous quasars powered by actively accreting supermassive black holes that appear to be in place as early as 2 Gyr after the Big Bang as originating from these light seeds. Alternate pathways to form heavy black hole seeds from direct collapse of primordial gas have been proposed to alleviate this timing issue. In this talk, I will focus on the seeding issue, and describe this formation channel and the associated multi-wavelength observational signatures. A key prediction of the direct collapse model is the existence of a unique class of transient, high-redshift objects, Over-massive Black Hole Galaxies [OBGs] that harbor a heavy initial black hole seed. New evidence validating this channel for heavy, direct collapse black hole seed formation from the recent JWST-Chandra discovery of the source UHZ1 will be presented.</p>
-    <hr>
-  -->
-    <p><b>February 14, 2024 </b></p>
-    <p><b>Re'em Sari (Racah Institute of Physics, The Hebrew University of Jerusalem)</b></p>
-    <p><b>Stellar Processes Around Supermassive Black Holes in Galactic Centers.</b></p>
-    <p>Most galaxies contain a super massive black hole at their centers, with masses of millions to billions times that of our sun. This gigantic mass reshapes the orbits of stars and stellar mass black holes around it. We discuss the processes which determine the stellar distribution around supermassive black holes, and derive their statistical equilibrium state. We show how these relate to extreme events, observable from our own galactic center as well as other galactic centers in the universe. These include gravitational waves in the LISA band, tidal disruption of stars, ejection of hypervelocity stars, stable mass transfer onto the supermassive black hole and mysterious pulses of x-rays known as Quasi Periodic Eruptions.</p> 
-    <hr>
-    <p><b>February 21, 2024 </b></p>
-    <p><b>Maura McLaughlin (West Virginia University)</b></p>
-    <p><b>Pulsar Timing Arrays: A New Window on the Gravitational Wave Universe</b></p>
-    <p><img src="img/events/colloquium/Maura2023.jpg" width="150px" class="image1 float-left" hspace="15px" alt="..."><strong>Abstract:</strong> Millisecond pulsars are rapidly rotating neutron stars with phenomenal rotational stability. Pulsar timing arrays world-wide monitor over 100 of these cosmic clocks in order to search for perturbations due to gravitational waves at nanohertz frequencies. The tell-tale sign of a stochastic background of gravitational waves in pulsar timing data is the presence of quadrupolar spatial correlations. Recently, and for the first time ever, pulsar timing array collaborations have found evidence of these spatial correlations in multiple independent pulsar datasets.  The signal is consistent with that expected from an ensemble of supermassive black hole binaries, but could also be attributable to more exotic sources, such as cosmic strings or early universe inflation. I will describe these experiments and the most recent results, in particular highlighting those from the NANOGrav collaboration, and will discuss the increases in sensitivity expected from the combination of data observed with new and existing telescopes across the globe.
-    <hr>
-    <p><b>February 28, 2024 </b></p>
-    <p><b>Shep Doeleman (Center for Astrophysics | Harvard & Smithsonian (CfA))</b></p>
-    <p><b>The next-generation Event Horizon Telescope: from Still Images to Video</b></p>
-    <p><img src="img/events/colloquium/Shep-Doeleman.jpg" width="150px" class="image1 float-left" hspace="15px" alt="..."><img src="img/events/colloquium/sgra_image.jpg" width="200px" class="image1 float-right" hspace="15px" alt="..."><strong>Abstract:</strong> The next-generation Event Horizon Telescope (ngEHT) is a transformative upgrade to the EHT that will realize black hole “cinema”: real-time and time-lapse movies of supermassive black holes on event horizon scales. These movies will resolve complex structure and dynamics on Schwarzschild radius dimensions, bringing into focus not just the persistent strong-field gravity features predicted by General Relativity (GR), but details of active accretion and relativistic jet launching that drive large scale structure in the Universe. This effort builds upon recent results by the Event Horizon Telescope (EHT): the first image of M87’s supermassive black hole and its magnetic field structure, as well as resolved images of SgrA*, the central black hole at the heart of the Milky Way. These images are scientifically rich, and show that evolution of the EHT to a more capable array can address even deeper questions across physics and astronomy. The central concept behind the ngEHT is that the addition of modest-diameter dishes at new geographic locations and multi-color observations over a range of frequencies will enable the next revolution in horizon-resolved black hole studies.  This talk will cover the ngEHT technical plans and scientific goals.</p>
-    <hr>
-    <p><b>March 6, 2024 </b></p>
-    <p><b>Fabio Pacucci (Center for Astrophysics | Harvard & Smithsonian (CfA))</b></p>
-    <p><b>Searching for Black Holes From the Nearby to the Faraway Universe</b></p>
-    <p><img src="img/events/colloquium/pacucci.png" width="150px" class="image1 float-left" hspace="15px" alt="..."><strong>Abstract:</strong> I will provide an overview of our quest to explore undetected populations of black holes, proceeding from the nearby to the faraway Universe. First, I will unveil a new multiwavelength observational campaign leading to discovering the second closest supermassive black hole in the Milky Way satellite Leo I. I will then describe the properties of intermediate-mass black holes potentially wandering in local galaxies, including in the Milky Way. Moving higher in the redshift ladder, I will detail the detection of the farthest lensed quasar to date and investigate why we may be missing a significant fraction of this population. Furthermore, based on JWST data of galaxies hosting black holes at z>4, I will present a statistical analysis that reveals a high-z M_bh-M_star relation that deviates significantly from the local relation. Black holes are overmassive by 10-100 times compared to their low-z counterparts; this fact is not due to a selection effect. I will present a simple model to explain these observations and discuss their significance for black hole seeds. I will then conclude with the observational properties of the first population of black holes, formed at z ~ 20-30, and how we may soon detect them directly.</p>
-    <hr>
-    <p><b>March 13, 2024 </b></p>
-    <p><b>Jorge G. Moreno Soto (Pomona College)</b></p>
-    <p><b>The intriguing lives of galaxies lacking dark matter</b></p>
-    <p><img src="img/events/colloquium/Jorge-Soto.jpg" width="150px" class="image1 float-left" hspace="15px" alt="..."><img src="img/events/colloquium/sciam2.png" width="200px" class="image1 float-right" hspace="15px" alt="..."><strong>Abstract:</strong> The standard cold dark matter plus cosmological constant model predicts that galaxies form within dark-matter haloes, and that low-mass galaxies are more dark-matter dominated than massive ones. The unexpected discovery of two low-mass galaxies lacking dark matter immediately provoked concerns about the standard cosmology and ignited explorations of alternatives, including self-interacting dark matter and modified gravity. Apprehension grew after several cosmological simulations using the conventional model failed to form adequate numerical analogues with comparable internal characteristics (stellar masses, sizes, velocity dispersions and Sérsic indices). Here we show that the standard paradigm naturally produces galaxies lacking dark matter with internal characteristics in agreement with observations. Using a state-of-the-art cosmological simulation and a meticulous galaxy-identification technique, we find that extreme close encounters with massive neighbours can be responsible for this. Moreover, these encounters occur when the satellite is still gas-rich, suggesting that gas-rich interactions may explain the peculiar globular cluster populations in these galaxies. We predict that ∼30% of massive central galaxies (with at least 10e11 solar masses in stars) harbour at least one dark-matter-deficient satellite (with 10e8 -10e9 solar masses in stars). This distinctive class of galaxies provides an additional layer in understanding how tidal stripping and star formation triggering unfolds under these extreme conditions. Future observations surveying galaxies in the aforementioned regime will provide a crucial test of this scenario.</p>
-    <hr>
-    <h4>Spring 2024</h4><br />
-    <b>April 3, 2024 </b></p>
-    <p><b>TBD</b></p>
-    <hr>
-    <p><b>April 6, 2024 </b></p>
-    <p><b>Suvi Gezari (Space Telescope Science Institute)</b></p>
-    <p><b>Searching for the Tidal Disruption of Stars Across the Black Hole Mass Function over Cosmic Time</b></p>
-    <p><img src="img/events/colloquium/Suvi_Gezari.png" width="150px" class="image1 float-left" hspace="15px" alt="..."><strong>Abstract:</strong> The tidal disruption of a star that wanders too close to a central black hole is a unique probe of quiescent supermassive black holes lurking in the nuclei of galaxies.  Over the last 5 years, we have demonstrated the ability to discover and spectroscopically classify large samples of tidal disruption events (TDEs) in the optical from the Zwicky Transient Facility (ZTF) Northern Sky Survey, with systematic high-energy follow-up with Swift and XMM-Newton.  One of the most exciting applications of TDEs is the ability to probe intermediate mass black holes (IMBHs) that are expected to reside in dwarf galaxies, with a black hole occupation fraction that depends on the nature of primordial seed black holes in the early Universe.  One novel way to probe IMBHs is to catch them in the act of tidally disrupting and accreting a white dwarf.  White dwarfs (WDs) are so dense, that they can only be ripped apart outside the event horizon around an IMBH sized black hole.  Furthermore, there is a theoretical prediction for a radioactively powered thermonuclear explosion at the time of maximum compression of the star as it passes through pericenter, that could be strong enough to ignite thermonuclear runaway, and a peculiar Type Ia like explosion.  I will present our strategy for searching for TDEs across the black hole mass function over cosmic time in the next 5 years, by extending our sensitivity to TDEs to lower central black hole masses and higher redshifts, by exploiting the discovery power of the next generation of time domain surveys, including Rubin, Roman, ULTRASAT, and UVEX.</p>
-    <hr>
-    <b>April 17, 2024 </b></p>
-    <p><b>Kate Whitaker (University of Massachusetts)</b></p>
-    <p><b>Unveiling the Epoch of Quenching</b></p>
-    <p><img src="img/events/colloquium/kate_whitaker.jpeg" width="150px" class="image1 float-left" hspace="15px" alt="..."><img src="img/events/colloquium/UNCOVER_nircam_mosaic.png" width="200px" class="image1 float-right" hspace="15px" alt="..."><strong>Abstract:</strong> When the Universe was merely a few billion years old, about half of massive galaxies had already formed the bulk of their stars and 
+UCLA Astronomy Division
+Astrophysics Colloquium
+Virtual Colloquium Meetings are held via Zoom
+Astrophysics Colloquium schedule
+Wednesdays, 3:30-4:30 pm
+The Astronomy Colloquia Meetings are held in the P&A building, room 1-434.  Zoom information sent in email.
+Winter 2024
+January 10,2024
+AAS meeting, no colloquium
+January 17, 2024
+Ashley Villar (Center for Astrophysics | Harvard & Smithsonian (CfA))
+Time-domain Astrophysics in the Era of Big Data
+Abstract:
+The eruptions, collisions and explosions of stars drive the universe’s chemical and dynamical evolution. The upcoming Legacy Survey of Space and Time will drastically increase the discovery rate of these transient phenomena, bringing time-domain astrophysics into the realm of “big data.” With this transition comes the important question: how do we classify transient events and separate the interesting “needles” from the “haystack” of objects? In this talk, I will discuss efforts to discover and classify unexpected phenomena using semi-supervised machine learning techniques. I will highlight the interplay between data-informed physics and physics-informed machine learning required to best understand the future LSST dataset of extragalactic transients.
+January 24, 2024
+Lieke van Son (Center for Astrophysics | Harvard & Smithsonian (CfA))
+The first pieces of the gravitational-wave progenitor population puzzle
+Abstract:
+As the gravitational-wave event catalog has grown from O(10) to O(100), the field of gravitational-wave astronomy has been rapidly unfolding. We are moving from a phase of initial discovery into an era of population studies. The hope is that these observations help place new constraints on the otherwise elusive lives and deaths of massive stars throughout cosmic history. I will discuss how the first pieces of the gravitational-wave progenitor population puzzle have helped us so far to form a picture of their massive stellar ancestors. Additionally, I will touch upon some of the hopes but also pitfalls of population studies and discuss why the coming decades will be particularly exciting.
+February 14, 2024
+Re'em Sari (Racah Institute of Physics, The Hebrew University of Jerusalem)
+Stellar Processes Around Supermassive Black Holes in Galactic Centers.
+Most galaxies contain a super massive black hole at their centers, with masses of millions to billions times that of our sun. This gigantic mass reshapes the orbits of stars and stellar mass black holes around it. We discuss the processes which determine the stellar distribution around supermassive black holes, and derive their statistical equilibrium state. We show how these relate to extreme events, observable from our own galactic center as well as other galactic centers in the universe. These include gravitational waves in the LISA band, tidal disruption of stars, ejection of hypervelocity stars, stable mass transfer onto the supermassive black hole and mysterious pulses of x-rays known as Quasi Periodic Eruptions.
+February 21, 2024
+Maura McLaughlin (West Virginia University)
+Pulsar Timing Arrays: A New Window on the Gravitational Wave Universe
+Abstract:
+Millisecond pulsars are rapidly rotating neutron stars with phenomenal rotational stability. Pulsar timing arrays world-wide monitor over 100 of these cosmic clocks in order to search for perturbations due to gravitational waves at nanohertz frequencies. The tell-tale sign of a stochastic background of gravitational waves in pulsar timing data is the presence of quadrupolar spatial correlations. Recently, and for the first time ever, pulsar timing array collaborations have found evidence of these spatial correlations in multiple independent pulsar datasets.  The signal is consistent with that expected from an ensemble of supermassive black hole binaries, but could also be attributable to more exotic sources, such as cosmic strings or early universe inflation. I will describe these experiments and the most recent results, in particular highlighting those from the NANOGrav collaboration, and will discuss the increases in sensitivity expected from the combination of data observed with new and existing telescopes across the globe.
+February 28, 2024
+Shep Doeleman (Center for Astrophysics | Harvard & Smithsonian (CfA))
+The next-generation Event Horizon Telescope: from Still Images to Video
+Abstract:
+The next-generation Event Horizon Telescope (ngEHT) is a transformative upgrade to the EHT that will realize black hole “cinema”: real-time and time-lapse movies of supermassive black holes on event horizon scales. These movies will resolve complex structure and dynamics on Schwarzschild radius dimensions, bringing into focus not just the persistent strong-field gravity features predicted by General Relativity (GR), but details of active accretion and relativistic jet launching that drive large scale structure in the Universe. This effort builds upon recent results by the Event Horizon Telescope (EHT): the first image of M87’s supermassive black hole and its magnetic field structure, as well as resolved images of SgrA*, the central black hole at the heart of the Milky Way. These images are scientifically rich, and show that evolution of the EHT to a more capable array can address even deeper questions across physics and astronomy. The central concept behind the ngEHT is that the addition of modest-diameter dishes at new geographic locations and multi-color observations over a range of frequencies will enable the next revolution in horizon-resolved black hole studies.  This talk will cover the ngEHT technical plans and scientific goals.
+March 6, 2024
+Fabio Pacucci (Center for Astrophysics | Harvard & Smithsonian (CfA))
+Searching for Black Holes From the Nearby to the Faraway Universe
+Abstract:
+I will provide an overview of our quest to explore undetected populations of black holes, proceeding from the nearby to the faraway Universe. First, I will unveil a new multiwavelength observational campaign leading to discovering the second closest supermassive black hole in the Milky Way satellite Leo I. I will then describe the properties of intermediate-mass black holes potentially wandering in local galaxies, including in the Milky Way. Moving higher in the redshift ladder, I will detail the detection of the farthest lensed quasar to date and investigate why we may be missing a significant fraction of this population. Furthermore, based on JWST data of galaxies hosting black holes at z>4, I will present a statistical analysis that reveals a high-z M_bh-M_star relation that deviates significantly from the local relation. Black holes are overmassive by 10-100 times compared to their low-z counterparts; this fact is not due to a selection effect. I will present a simple model to explain these observations and discuss their significance for black hole seeds. I will then conclude with the observational properties of the first population of black holes, formed at z ~ 20-30, and how we may soon detect them directly.
+March 13, 2024
+Jorge G. Moreno Soto (Pomona College)
+The intriguing lives of galaxies lacking dark matter
+Abstract:
+The standard cold dark matter plus cosmological constant model predicts that galaxies form within dark-matter haloes, and that low-mass galaxies are more dark-matter dominated than massive ones. The unexpected discovery of two low-mass galaxies lacking dark matter immediately provoked concerns about the standard cosmology and ignited explorations of alternatives, including self-interacting dark matter and modified gravity. Apprehension grew after several cosmological simulations using the conventional model failed to form adequate numerical analogues with comparable internal characteristics (stellar masses, sizes, velocity dispersions and Sérsic indices). Here we show that the standard paradigm naturally produces galaxies lacking dark matter with internal characteristics in agreement with observations. Using a state-of-the-art cosmological simulation and a meticulous galaxy-identification technique, we find that extreme close encounters with massive neighbours can be responsible for this. Moreover, these encounters occur when the satellite is still gas-rich, suggesting that gas-rich interactions may explain the peculiar globular cluster populations in these galaxies. We predict that ∼30% of massive central galaxies (with at least 10e11 solar masses in stars) harbour at least one dark-matter-deficient satellite (with 10e8 -10e9 solar masses in stars). This distinctive class of galaxies provides an additional layer in understanding how tidal stripping and star formation triggering unfolds under these extreme conditions. Future observations surveying galaxies in the aforementioned regime will provide a crucial test of this scenario.
+Spring 2024
+April 3, 2024
+TBD
+April 6, 2024
+Suvi Gezari (Space Telescope Science Institute)
+Searching for the Tidal Disruption of Stars Across the Black Hole Mass Function over Cosmic Time
+Abstract:
+The tidal disruption of a star that wanders too close to a central black hole is a unique probe of quiescent supermassive black holes lurking in the nuclei of galaxies.  Over the last 5 years, we have demonstrated the ability to discover and spectroscopically classify large samples of tidal disruption events (TDEs) in the optical from the Zwicky Transient Facility (ZTF) Northern Sky Survey, with systematic high-energy follow-up with Swift and XMM-Newton.  One of the most exciting applications of TDEs is the ability to probe intermediate mass black holes (IMBHs) that are expected to reside in dwarf galaxies, with a black hole occupation fraction that depends on the nature of primordial seed black holes in the early Universe.  One novel way to probe IMBHs is to catch them in the act of tidally disrupting and accreting a white dwarf.  White dwarfs (WDs) are so dense, that they can only be ripped apart outside the event horizon around an IMBH sized black hole.  Furthermore, there is a theoretical prediction for a radioactively powered thermonuclear explosion at the time of maximum compression of the star as it passes through pericenter, that could be strong enough to ignite thermonuclear runaway, and a peculiar Type Ia like explosion.  I will present our strategy for searching for TDEs across the black hole mass function over cosmic time in the next 5 years, by extending our sensitivity to TDEs to lower central black hole masses and higher redshifts, by exploiting the discovery power of the next generation of time domain surveys, including Rubin, Roman, ULTRASAT, and UVEX.
+April 17, 2024
+Kate Whitaker (University of Massachusetts)
+Unveiling the Epoch of Quenching
+Abstract:
+When the Universe was merely a few billion years old, about half of massive galaxies had already formed the bulk of their stars and 
     new star formation plummeted.  New observations from the James Webb 
     Space Telescope are now pushing the existence of these ‘red and dead’ 
     (quiescent) galaxies to uncomfortably high redshifts.  How these massive 
@@ -218,110 +65,55 @@
     and the key observations constraining their formation histories.  I will 
     present promising paths forward towards solving this puzzle that 
     leverage strong gravitational lensing and the capabilities of the James 
-    Webb Space Telescope and ALMA.</p>
-    <hr>
-    <b>April 24, 2024 </b></p>
-    <p><b>TBD</b></p>
-    <hr>
-    <b>May 1, 2024 </b></p>
-    <p><b>Erin Kara (Massachusetts Institute of Technology)</b></p>
-    <p><b></b></p>
-    <hr>
-    <b>May 8, 2024 </b></p>
-    <p><b>Jason Rhodes (JPL Nasa)</b></p>
-    <p><b>Mapping the Dark Universe with Euclid</b></p>
-    <p><img src="img/events/colloquium/jason.jpg" width="185px" class="image1 float-left" hspace="15px" alt="..."><img src="img/events/colloquium/Euclid_s_view_of_the_Horsehead_Nebula.jpg" width="200px" class="image1 float-right" hspace="15px" alt="..."><strong>Abstract:</strong> After 2 decades of preparation, the European Space Agency’s Euclid space telescope was launched on July 1, 2023.  Euclid’s primary goal is to study the dark universe and help us better understand the enigmatic dark matter and dark energy that make up the bulk of the universe. I will talk about my personal journey in bringing Euclid to fruition, give the details of the Euclid telescope and instruments that make it so powerful as a dark energy probe, and talk about the science (cosmology and other) that will be enabled by Euclid’s deep (50 square degrees) and wide (15,000 square degrees) sky surveys.</p>
-    <hr>
-    <b>May 15, 2024 </b></p>
-    <p><b>TBD</b></p>
-    <hr>
-    <b>May 22, 2024 </b></p>
-    <p><b>TBD</b></p>
-    <hr>
-    <b>May 29, 2024 </b></p>
-    <p><b>TBD</b></p>
-    <hr>
-    <b>June 5, 2024 </b></p>
-    <p><b>TBD</b></p>
-    <hr>
-		 <p><a href="astrophysics-colloquium-archived-talks.html">Astrophysics Colloquium archived talks</a></p>
-		 
-    </section>
-    
-     <footer class="site-footer" role="contentinfo">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-md-3 mb-5">
-            <h3>Announcements</h3>
-            <ul class="list-unstyled footer-link">
-              	<li><a href="https://www.pa.ucla.edu/open-positions.html">Open academic positions</a></li>
-              	<li><a href="https://www.pa.ucla.edu/annual-report.html">Annual reports and newsletters</a></li>
-              	<li><a href="http://newsroom.ucla.edu/">UCLA Newsroom</a></li>
-              	<li><a href="http://www.sexualviolence.ucla.edu/">UCLA policies on sexual harassment & violence</a></li>
-              	<li><a href="https://diversity.ucla.edu/">Diversity @ UCLA</li>
-            </ul>
-
-          </div>
-          <div class="col-md-3 mb-5">
-            <div class="mb-5">
-              <h3>Academic Resources</h3>
-              <ul class="list-unstyled footer-link">
-              	<li><a href="https://registrar.ucla.edu/calendars/annual-academic-calendar">Academic calendar</a></li>
-              	<li><a href="https://sa.ucla.edu/ro/public/soc">Schedule of classes</a></li>
-              	<li><a href="https://my.ucla.edu/">MyUCLA</a></li>
-              	<li><a href="http://bruinlearn.ucla.edu/">BruinLearn</a></li>
-              	<li><a href="https://www.lmstransformation.ucla.edu/">LMS Transformation</a></li>
-              	<li><a href="https://ucla.service-now.com/support?id=home">UCLA IT Services</a></li>
-            </ul>
-            </div>
-          </div>
-          <div class="col-md-3 mb-5">
-            <h3>General Resources</h3>
-            <ul class="list-unstyled footer-link">
-              <li><a href="observing-facilities.html">Observing facilities</a></li>
-              <li><a href="http://irlab.astro.ucla.edu/">Infrared Laboratory</a></li>
-              <li><a href="https://www.pa.ucla.edu/financial-services.html">Financial Services</a></li>
-              <li><a href="http://iff.pa.ucla.edu/">Machine Shop</a></li>
-              <li><a href="https://www.pa.ucla.edu/research-store.html">Research Store</a></li>
-              <li><a href="https://webmail.astro.ucla.edu/">Astronomy Zimbra Email</a></li>
-              <li><a href="http://computing.pa.ucla.edu/">Computing & IT Support</li>
-            </ul>
-        </div>
-        <div class="col-md-3 mb-5">
-            <h3>Visiting UCLA</h3>
-            <ul class="list-unstyled footer-link">
-              <li><a href="#">UCLA interactive map</a></li>
-              <li><a href="#">Directions and parking</a></li>
-              <li><a href="#">Planetarium directions</a></li>
-              <li><a href="#">UCLA campus shuttle</a></li>
-              <li><a href="#">Local accommodations</a></li>
-              <li><a href="#">Giving to the Astro Division</a></li>
-            </ul>
-          </div>
-        <div class="row">
-          <div class="col-12 text-md-center text-left">
-            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-        Copyright &copy;<script>document.write(new Date().getFullYear());</script> UCLA Division of Astronomy & Astrophysics, 475 Portola Plaza, Los Angeles, CA 90095-1547
-310-825-3440 | A <a href="https://colorlib.com" target="_blank" >Colorlib</a> template.
-        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-          </div>
-        </div>
-      </div>
-    </footer>
-    <!-- END footer -->
-    <!-- loader -->
-    <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#cf1d16"/></svg></div>
-
-    <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/jquery.waypoints.min.js"></script>
-
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/magnific-popup-options.js"></script>
-    
-
-    <script src="js/main.js"></script>
-  </body>
-</html>
+    Webb Space Telescope and ALMA.
+April 24, 2024
+TBD
+May 1, 2024
+Erin Kara (Massachusetts Institute of Technology)
+May 8, 2024
+Jason Rhodes (JPL Nasa)
+Mapping the Dark Universe with Euclid
+Abstract:
+After 2 decades of preparation, the European Space Agency’s Euclid space telescope was launched on July 1, 2023.  Euclid’s primary goal is to study the dark universe and help us better understand the enigmatic dark matter and dark energy that make up the bulk of the universe. I will talk about my personal journey in bringing Euclid to fruition, give the details of the Euclid telescope and instruments that make it so powerful as a dark energy probe, and talk about the science (cosmology and other) that will be enabled by Euclid’s deep (50 square degrees) and wide (15,000 square degrees) sky surveys.
+May 15, 2024
+TBD
+May 22, 2024
+TBD
+May 29, 2024
+TBD
+June 5, 2024
+TBD
+Astrophysics Colloquium archived talks
+Announcements
+Open academic positions
+Annual reports and newsletters
+UCLA Newsroom
+UCLA policies on sexual harassment & violence
+Diversity @ UCLA
+Academic Resources
+Academic calendar
+Schedule of classes
+MyUCLA
+BruinLearn
+LMS Transformation
+UCLA IT Services
+General Resources
+Observing facilities
+Infrared Laboratory
+Financial Services
+Machine Shop
+Research Store
+Astronomy Zimbra Email
+Computing & IT Support
+Visiting UCLA
+UCLA interactive map
+Directions and parking
+Planetarium directions
+UCLA campus shuttle
+Local accommodations
+Giving to the Astro Division
+Copyright ©
+UCLA Division of Astronomy & Astrophysics, 475 Portola Plaza, Los Angeles, CA 90095-1547
+310-825-3440 | A
+Colorlib
+template.

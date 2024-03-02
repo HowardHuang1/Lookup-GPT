@@ -1,384 +1,54 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Welcome to UCLA Recreation | Recreation</title>
-<link rel="stylesheet" href="/themes/custom/ucla_campus/css/ucla_sa.css?v=a20240220143103">
-<link rel="stylesheet" href="/themes/custom/ucla_campus/css/ucla_campus.css?v=a20240220143103">
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3379024-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() {
-    dataLayer.push(arguments);
-  }
-  gtag('js', new Date());
-  gtag('config', 'UA-3379024-1');
-</script>
-<style type="text/css">
-/*Summer tables */[data-ucla-path="/summer-camps-2023"] {    max-width: 100vw;}[data-ucla-path="/summer-camps-2023"] #main {    max-width: 100vw;}[data-ucla-path="/summer-camps-2023"] table {    overflow-x: scroll;    display: block;    max-width: -moz-fit-content;    max-width: fit-content;    margin: 0 auto;    overflow-x: auto;    text-align: center;}[data-ucla-path="/summer-camps-2023"] tr:nth-child(even) {background-color: #daebfe;}/* end Summer tables *//* start of for Events Category custom embed /node/269 */.ucla-calendar-category-links {margin: 2rem 0 1rem -1rem; }   .ucla-calendar-category-links ul, .ucla-calendar-category-links li {   list-style-type: none;    }    .ucla-calendar-category-links img {    width: 100%;    }    .ucla-calendar-category-links ul {    display: grid;    grid-gap: 1rem;    grid-template-columns: repeat(4, 1fr);    }    @media (max-width: 768px) {    .ucla-calendar-category-links ul {    grid-template-columns: repeat(3, 1fr);    }    }    @media (max-width: 600px) {    .ucla-calendar-category-links ul {    grid-template-columns: repeat(2, 1fr);    }    }/* end of for Events Category custom embed /node/269 *//* Start of Partners Logo Spacing custom embed  /node/307 and /node/254 */.graphic-logos img {       max-width: 55%;}.graphic-logos ul{ display: grid;    grid-gap: 1rem;    grid-template-columns: repeat(5, 1fr);}@media (max-width: 768px) {    .graphic-logos ul{    grid-template-columns: repeat(3, 1fr);    }    }/*  End of Partners Logo Spacing custom embed  /node/307 and /node/254 *//* Homepage Featured */[data-ucla-path="/"] [data-section-title="Featured"] {    background-color: #ddd;    margin-top: 3rem;    padding-top: 2rem;    padding-bottom: 3rem;}[data-ucla-path="/"] [data-section-title="Featured"] .card  {     background-color: #fff;}[data-ucla-path="/"] [data-section-title="Featured"] .cards-container {    grid-template-columns: repeat(auto-fit, minmax(calc(3rem + 240px), 3fr));    }/* End Homepage Featured for Full Layout look and feel *//* Homepage Upcoming Events  */[data-ucla-path="/"] [data-section-title="Upcoming Events"] {    background-color: #ddd;    padding-top: 2rem;}[data-ucla-path="/"] [data-section-title="Upcoming Events"] .card  {     background-color: #fff;}/* End Homepage Upcoming Events *//* Fix bullet points appearing on sponsor logos */.ucla-calendar-category-links li::before {    display: none;}/* Footer */footer ul li:first-child {    font-weight: normal;}
-</style>
-</head>
-<body
-    data-ucla-ref="recreation/"
-    data-ucla-path="/"
-    data-ucla-origin="https://recreation.ucla.edu"
-    data-ucla-theme-cache-version="a20240220143103"
-    data-ucla-theme-root="/themes/custom/ucla_campus"
-    class="no-js"
->
-<script>document.body.classList.remove('no-js'); document.body.classList.add('js');</script>
-<header class="siteheader">
-  <div class="skiplink">
-      <a href="#main">Skip to Main Content</a>
-  </div>
-      <div class="topbar">
-    <div class="container">
-      <a href="http://www.ucla.edu/" aria-label="UCLA">UCLA</a>
-    </div>
-  </div>
-  <div class="navbar-wrapper">
-    <div class="navbar-grid container">
-        <span role="heading" aria-level="1">
-                      <a href="/" class="h2">
-              Recreation
-            </a>
-                  </span>      
-        <nav aria-label="Secondary Top" class="navtop desktop-only">
-          <ul>  <li><a href="/feedback">Feedback</a></li>  <li><a href="/sustainability">Sustainability</a></li>  <li class="topbar-yellow-button"><strong><a href="/give">Give Now</a></strong></li></ul>
-        </nav>
-        <button class="mobile-only" aria-haspopup="true" aria-controls="menus" aria-expanded="false" aria-label="Main Menus">
-          <span class="menu-icon-wrap">
-            <span class="menu-icon">
-            </span>
-          </span>
-        </button>
-        <div class="navbar-position">
-          <div id="menus">
-            <nav class="navbar">
-              <form action="https://www.ucla.edu/search" method="GET" class="site-search mobile-only">
-                <label for="header-search-mobile-only">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-mobile-only"><button type="submit" class="ucla-button ucla-button-primary">Search</button>
-              </form>
-                            <ul><li><a href="/about">About</a><ul> <li><a href="/about-us">About Us</a></li><li><a href="/contact">Contact Us</a></li><li><a href="/news">News</a></li><li><a href="/employment">Employment</a></li><li><a href="/sponsorship">Sponsorship</a></li></ul></li>  <li><a href="/register">Register</a><ul><li><a href="https://secure.recreation.ucla.edu/membership/index">Rec Membership</a></li><li><a href="https://secure.recreation.ucla.edu/Program/GetProducts">Classes & Programs</a></li><li><a href="https://secure.recreation.ucla.edu/membership/index">Fitness Passes </a></li><li><a href="https://fitwell.recreation.ucla.edu/one-on-one-services">Private Services</a></li><li><a href="https://secure.recreation.ucla.edu/MultiVisitPass/GetProducts?category=f84b2b3e-37bd-4dc3-872b-7f11b271357d">MAC Passes</a></li><li><a href="https://secure.recreation.ucla.edu/MultiVisitPass/GetProducts?category=dcc33198-c84f-4b26-892f-5e347a393b64">MAC Private</a></li></ul></li><li><a href="/join">Member Services</a></li>  <li><a href="/rec-programs">Rec Programs</a><ul><li><a href="/rec-programs">Recreation Programs</a><li><a href="/rec-programs/adaptive-recreation">Adaptive Rec</a></li><li><a href="/rec-programs/aquatics">Aquatics</a></li><li><a href="/rec-programs/competitive-sports">Competitive Sports</a></li><li><a href="/rec-programs/experiential-teambuilding-programs">Experiential Programs</a></li><li><a href="https://fitwell.recreation.ucla.edu">FitWell</a></li><li><a href="/rec-programs/instructional-classes">Instructional Classes</a></li><li><a href="/rec-programs/marina-aquatic-center">Marina Aquatic Center</a></li><li><a href="/rec-programs/outdoor-adventures">Outdoor Adventures</a></li><li><a href="/rec-programs/youth-programs">Youth Programs</a></li></ul></li>    <li><a href="/facilities">Facilities</a><ul>   <li><a href="/facilities">All Facilities</a></li>   <li><a href="/facilities/reserve">Reservation and Rentals</a></li>   <li><a href="/facilities/open-rec-hours">Open Rec</a></li>   <li><a href="/facilities/policies-and-guidelines">Facility Policies</a></li>   </ul></li>  <li><a href="/events">Events</a></li> </ul>
-                          </nav>
-            <nav aria-label="Secondary Menu" class="navtop mobile-only">
-            <ul>  <li><a href="/feedback">Feedback</a></li>  <li><a href="/sustainability">Sustainability</a></li>  <li class="topbar-yellow-button"><strong><a href="/give">Give Now</a></strong></li></ul>
-            </nav>
-          </div> 
-          <button aria-haspopup="true" aria-controls="desktop-search" aria-expanded="false" aria-label="Search..." class="desktop-only"></button>
-        </div>
-      </div>
-      <form id="desktop-search" action="https://www.ucla.edu/search" method="GET" class="site-search desktop-only">
-        <p class="container">
-          <label for="header-search-headerbar">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-headerbar">
-          <button type="submit" class="ucla-button ucla-button-primary">Search</button>
-        </p>
-      </form>
-  </div>
-</header>
-
-
-<main id="main">
-        <div class="page">
-<div class="page-header">
-  <div id="block-system-messages" class="container">
-<div data-drupal-messages-fallback class="hidden"></div>
-</div>
-<div id="block-ucla-campus-headerimageblock" class="block">
-  
-    
-        <a href="https://secure.recreation.ucla.edu/"><img loading="eager" src="/sites/default/files/styles/header_image/public/2022-04/homepage_banner_v2_1156x420.jpg?itok=4aABupvA" width="2408" height="875" alt="UCLA Rec #Active Bruin" />
-
-</a>
-
-
-  </div>
-
-
-</div>
-<div class="page-content">
-  <div id="block-ucla-campus-mainpagecontent" class="block system-main-block">
-  
-    <div class="container">
-    <h1>Welcome to UCLA Recreation</h1>
-  </div>
-    
-      <div data-ucla-node-id="1" data-repeat-body_content-max-count="0">
-    
-    
-            
-                                    <div class="body--page">
-                        <div class="container">
-                                                                                        
-    <p></p> <section class="callout"> <section> <p>Explore UCLA Recreation in-person and online classes, programs, and activities. <strong>Be an #ActiveBruin.</strong></p></section></section>
-
-                                                    </div>
-                    </div>
-                                            
-    <div class="paragraph--section paragraph--type--cards cards-theme-services cards-with-images cards"  data-section-title="Featured">
-                    <div class="container">
-                <h2>
+Welcome to UCLA Recreation | Recreation
+Skip to Main Content
+UCLA
+Recreation
+Search Website
+Search
+Welcome to UCLA Recreation
+Explore UCLA Recreation in-person and online classes, programs, and activities.
+Be an #ActiveBruin.
 Featured
-</h2>
-                
-                <div class="cards-container">
-                    
-  <a href="https://recreation.ucla.edu/celebrating-black-history-month-jackie-robinson-42-plaques"  class="card">
-          <span class="card-image">  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2023-02/black_history_month_banner1%20%281%29.png?itok=XIViGAHd" width="900" height="600" alt="Locations of Jackie Robinsons &quot;42&quot; plaques across campus" />
-
-
-
-</span>
-      <span class="card-title">
 Celebrating Black History Month
-</span>
-      <span class="card-summary">
-<p class="summary">A 42 plaque in honor of Jackie Robinson marks each of the 22 UCLA athletic and recreation facilities. Learn more. </p>
-</span>
-      </a>
-
-  <a href="/spring-camp-2024"  class="card">
-          <span class="card-image">  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2024-01/Spring%20Camp-04.png?itok=a2iDMWXm" width="900" height="600" alt="Spring Camp 2024 March 25-29. Graphic of children in a sail boat" />
-
-
-
-</span>
-      <span class="card-title">
+A 42 plaque in honor of Jackie Robinson marks each of the 22 UCLA athletic and recreation facilities. Learn more.
 Spring Camp 2024
-</span>
-      <span class="card-summary">
-<p class="summary">Registration now open for Spring Camps, March 25 - 29</p>
-</span>
-      </a>
-
-  <a href="/summercamps2024"  class="card">
-          <span class="card-image">  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2024-02/Summer_Camps_2024_600x400.jpg?itok=I-Z0nZ64" width="900" height="600" alt="Summer Camps 2024. June 17 to August 23. On Sale Now!" />
-
-
-
-</span>
-      <span class="card-title">
+Registration now open for Spring Camps, March 25 - 29
 Summer Camps 2024 now on sale!
-</span>
-      <span class="card-summary">
-<p class="summary">Explore Camp Offerings for Summer 2024. </p>
-</span>
-      </a>
-
-  <a href="https://secure.recreation.ucla.edu/Program/GetProducts"  class="card">
-          <span class="card-image">  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2023-12/WinterRegistration_NowOpen_600x400.png?itok=rbrSJWqW" width="900" height="600" alt="Winter 2024 Class Registration Now Open" />
-
-
-
-</span>
-      <span class="card-title">
-Winter Programs &amp; Classes now on sale!
-</span>
-      <span class="card-summary"></span>
-      </a>
-
-  <a href="https://recreation.ucla.edu/ucla-rec-blogs"  class="card">
-          <span class="card-image">  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2022-10/IMG_7476-X3.jpg?itok=1xsCRVFw" width="900" height="600" alt="Drake Stadium" />
-
-
-
-</span>
-      <span class="card-title">
+Explore Camp Offerings for Summer 2024.
+Winter Programs & Classes now on sale!
 UCLA Rec Blogs
-</span>
-      <span class="card-summary">
-<p class="summary">Be an #ActiveBruin with the latest tips, news, recommendations, and stories from UCLA Recreation!</p>
-</span>
-      </a>
-
-  <a href="https://recreation.ucla.edu/adaptive-recreation-gives-bruin-athletes-any-ability-chance-level"  class="card">
-          <span class="card-image">  <img loading="eager" src="/sites/default/files/styles/resize_3_2/public/2023-02/220517_AdaptivePrograms_Basketball-36%2BLarge_hero.jpg?itok=hl71WOVG" width="900" height="600" alt="Adaptive Recreation: Basketball" />
-
-
-
-</span>
-      <span class="card-title">
+Be an #ActiveBruin with the latest tips, news, recommendations, and stories from UCLA Recreation!
 Explore our Adaptive Rec Program
-</span>
-      <span class="card-summary"></span>
-      </a>
-
-
-                </div>
-            </div>
-            </div>
-
-  <div class="cards-with-buttons cards paragraph--section" data-section-title="Latest News">
-    <div class="container">
-              <h2>
 Latest News
-</h2>
-        
-        <div class="cards-container cards-container-count-2 cards-container-count-even">
-        
-<div  class="card-with-button">
-  <h3 class="card-title">
 May Marks 40 Years of the John Wooden Center
-</h3>
-  <div class="card-summary">
-<p class="summary">The month of May marks the 40th anniversary of the John Wooden Center. Join us as we celebrate this milestone throughout the year. </p>
-
-  </div>
-  <p class="card-footer"><a href="/about/news" class="ucla-button ucla-button-secondary">
+The month of May marks the 40th anniversary of the John Wooden Center. Join us as we celebrate this milestone throughout the year.
 JWC 40th Anniversary
-</a></p>
-  </a>
-</div>
-
-<div  class="card-with-button">
-  <h3 class="card-title">
 Club Sports Social Media Highlight
-</h3>
-  <div class="card-summary">
-<p class="summary">Highlight your Club Sports team accomplishments or upcoming events/tryouts by filling out this form! </p>
-
-  </div>
-  <p class="card-footer"><a href="https://forms.monday.com/forms/53e4b40b0bb96f3656e7ea0795400d6d?r=use1" class="ucla-button ucla-button-secondary">
+Highlight your Club Sports team accomplishments or upcoming events/tryouts by filling out this form!
 Submit Your Highlight Here
-</a></p>
-  </a>
-</div>
-
-
-        </div>
-          </div>
-  </div>
-
-    <div class="body-content paragraph--section"  data-section-title="Upcoming Events">
-        <div class="container">
-                            <h2>
 Upcoming Events
-</h2>
-                
-<div data-custom-embed-id="318" data-custom-embed-title="Upcoming Events - Max 6">
-
-<div data-ucla="calendar" data-ucla-calendar-heading-start="2" data-ucla-calendar-max-events="6" data-ucla-calendar-path="/program/recreation" data-ucla-calendar-template="cards"> <p>Loading events...</p></div> <p class="button"><a href="/events">Explore All Events</a></p> <p></p>
-
-</div>
-
-
-
-                    </div>
-    </div>
-
-    <div class="body-content paragraph--section"  data-section-title="Our Partners">
-        <div class="container">
-                            <h2>
+Loading events...
+Explore All Events
 Our Partners
-</h2>
-                
-<div data-custom-embed-id="449" data-custom-embed-title="Logos">
-
-<div class="ucla-calendar-category-links graphic-logos"> <ul> <li> <a data-entity-substitution data-entity-type data-entity-uuid href="https://wescom.org/">
-  <img loading="eager" src="/sites/default/files/styles/header_image/public/2023-11/wescom_02_0.jpg?itok=940SK4SG" width="521" height="521" alt="Wescom">
-
-
-
-
-</a></li> <li> <a data-entity-substitution data-entity-type data-entity-uuid href="https://www.asus.com/us/">
-  <img loading="eager" src="/sites/default/files/styles/header_image/public/2023-11/ASUS%20logo_grey_002.fw_.fw_.png?itok=nqBerS1S" width="512" height="512" alt="ASUS">
-
-
-
-
-</a></li> <li> <a data-entity-substitution data-entity-type data-entity-uuid href="https://teamready.com/">
-  <img loading="eager" src="/sites/default/files/styles/header_image/public/2021-02/ready_1.jpg?itok=wBNGBWHf" width="522" height="521" alt="Ready">
-
-
-
-
-</a></li> <li> <a href="https://www.calhope.org/">
-  <img loading="eager" src="/sites/default/files/styles/header_image/public/2023-10/CalHOPE-logo-01%20%282%29.jpg?itok=e98wdXiZ" width="1559" height="1559" alt="CalHOPE">
-
-
-
-
-</a></li> <li> <a href="https://us.coca-cola.com/">
-  <img loading="eager" src="/sites/default/files/styles/header_image/public/2023-10/_thumb_254786.png?itok=5VVphG8f" width="200" height="200" alt="Coca-Cola">
-
-
-
-
-</a></li></ul></div>
-
-</div>
-
-
-
-<p class="button"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="0d50f2ca-7aa6-4bd1-b237-c0b404afe312" href="/about/sponsorship">Visit Our Sponsorship Page</a></p>
-
-<p>&nbsp;</p>
-
-                    </div>
-    </div>
-
-
-                    
-
-                    
-            
-        </div>
-
-  </div>
-
-
-</div>
-</div>
-
-
-          <footer class="site-footer" role="contentinfo">
-	      <div class="footer-logo">
-	                                  <a href="/" class="site-name">
-                            <img src="/themes/custom/ucla_campus/logos/ucla-recreation.svg" height="73" width="300" alt="UCLA Recreation ">
-                          </a>
-               	      	      </div>
-        
-        <div class="footer-content">    <address class="footer-contact">        Contact UCLA Recreation  <br>        <a href="mailto:info@recreation.ucla.edu">info@recreation.ucla.edu</a><br>       310.825.3701<br>       <a href="https://secure.recreation.ucla.edu/">Online Store</a><br>       <a href="/join">Join Today</a>   </address></div><div class="social-links-container">    <a href="https://www.facebook.com/UCLARec/"><span class="social-link-label">Facebook @uclarec</span></a>    <a href="https://www.instagram.com/uclarec/"><span class="social-link-label">Instagram @uclarec</span></a><a href="https://twitter.com/i/flow/login?redirect_after_login=%2FUCLARec%2F"><span class="social-link-label">Twitter @uclarec</span></a><a href="https://www.youtube.com/user/uclarecreation"><span class="social-link-label">Youtube @uclarec</span></a></div><div class="footer-covid19">  <a href="https://covid-19.ucla.edu">COVID-19 Resources</a></div>
-
-      </footer>
-    </main>
-
-<footer class="global-footer">
-  <div class="container">
-    <p class="regents">© 2024 Regents of the
-      <a href="https://www.universityofcalifornia.edu/">University of California</a>
-    </p>
-    <div class="global-footer-links">
-      <a href="https://www.bso.ucla.edu/">Emergency</a>
-      <a href="https://www.ucla.edu/accessibility">Accessibility</a>
-      <a href="https://www.ucla.edu/terms-of-use">Privacy & Terms of Use</a>
-    </div>
-    <div class="social-links-container">
-      <a href="https://www.facebook.com/UCLA/"><span class="social-link-label">Facebook @UCLAhousing</span></a>
-      <a href="https://www.instagram.com/ucla/"><span class="social-link-label">Instagram @uclahousing</span></a>
-      <a href="https://www.linkedin.com/school/ucla"><span class="social-link-label">Linkedin @ucla</span></a>
-      <a href="https://www.x.com/ucla"><span class="social-link-label">X @ucla</span></a>  
-      <a href="https://www.youtube.com/user/UCLA"><span class="social-link-label">YouTube @ucla</span></a>
-      <a href="https://www.tiktok.com/@ucla?lang=en"><span class="social-link-label">TikTok @ucla</span></a>
-      <a href="https://story.snapchat.com/@uclaofficial"><span class="social-link-label">Snapchat @uclaofficial</span></a>
-    </div>
-  </div>
-</footer>
-
-
-<script src="/themes/custom/ucla_campus/js/ucla_sa.js?v=a20240220143103" async></script>
-<script src="/themes/custom/ucla_campus/js/node_modules/wicg-inert/dist/inert.min.js?v=a20240220143103"></script>
-<script src="/themes/custom/ucla_campus/js/ucla_campus.js?v=a20240220143103" async></script>
-
-<script type="text/javascript">
-(function() {
-  if(document.querySelector('[data-ucla]')) {
-    var embed = document.createElement('script'); embed.type = 'text/javascript'; embed.async = true;
-    embed.src = '/themes/custom/ucla_campus/js/ucla_embed.js?v=20240220143103';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(embed, s);
-  }
-})();
-</script>
-</body>
-</html>
+Visit Our Sponsorship Page
+Contact UCLA Recreation
+info@recreation.ucla.edu
+310.825.3701
+Online Store
+Join Today
+Facebook @uclarec
+Instagram @uclarec
+Twitter @uclarec
+Youtube @uclarec
+COVID-19 Resources
+© 2024 Regents of the
+University of California
+Emergency
+Accessibility
+Privacy & Terms of Use
+Facebook @UCLAhousing
+Instagram @uclahousing
+Linkedin @ucla
+X @ucla
+YouTube @ucla
+TikTok @ucla
+Snapchat @uclaofficial

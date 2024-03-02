@@ -1,181 +1,100 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html><head>
-<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>Global Biotraits Database</title>
-
-<style type="text/css">
-a:link {
-color: black;
-}
-a:visited {
-color: black;
-}
-a:hover {
-color: #3366ff;
-}
-</style>
-<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-32700352-1']);
-_gaq.push(['_trackPageview']);
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-</script></head>
-<body style="color: rgb(0, 0, 0); background-color: white; background-image: url(pattern_brillant.png);" alink="#000099" link="#000099" vlink="#990099">
-<table style="background-color: white; width: 800px; height: 100%; text-align: left; margin-left: auto; margin-right: auto; font-family: Calibri;" border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td style="width: 1050px;" colspan="1">
-<table style="text-align: left; width: 800px; height: 226px;" border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td style="height: 103px; width: 100%; background-color: white; text-align: center;">&nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; <br>
-&nbsp; <a href="index.php"><img style="border: 0px solid ; width: 561px; height: 182px;" alt="logo" src="text4060.png"></a>
-<br>
-<br>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr>
-<td style="width: 1050px; height: 44px;">
-<table style="text-align: left; background-color: white; width: 800px; height: 30px;" border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td style="background-color: rgb(255, 204, 51); text-align: center; width: 90px; font-style: italic;"><small><a style="text-decoration: none;" href="file:///C:/Users/Will/Desktop/Biotraits/Images/index.php">HOME</a></small></td>
-
-<td style="color: black; background-color: rgb(255, 204, 51); text-align: center; width: 98px; font-style: italic;"><small><a style="text-decoration: none;" href="people.php">PEOPLE</a></small></td>
-<td style="text-align: center; background-color: rgb(255, 204, 51); width: 129px; font-style: italic;"><a style="text-decoration: none;" href="publications.php"><small>PUBLICATIONS</small></a></td>
-<td style="color: black; background-color: rgb(255, 204, 51); text-align: center; width: 119px; font-style: italic;"><font size="-1"><a style="text-decoration: none;" href="opportunities.php">OPPORTUNITIES</a></font></td>
-<td style="text-align: center; width: 134px; color: black; background-color: rgb(255, 204, 51); font-style: italic; font-weight: bold;"><small><small><small><big><big><small><small><big><big><small><small><big><big><small><a style="text-decoration: none;" href="search.php"><small><big><big>SEARCH</big></big></small></a></small></big></big></small></small></big></big></small></small></big></big></small></small></small></td>
-<td style="text-align: center; width: 129px; color: black; background-color: rgb(255, 204, 51); font-style: italic; font-weight: bold;"><small><small><small><big><big><small><small><big><big><small><a style="text-decoration: none;" href="add.php"><small><big><big>UPLOAD<br>
-</big></big></small></a></small></big></big></small></small></big></big></small></small></small></td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr>
-<td style="width: 1050px; background-color: rgb(250, 255, 204); text-align: left;">
-<table style="text-align: left; width: 100%; height: 100%;" border="0" cellpadding="10" cellspacing="0">
-<tbody>
-<tr>
-<td style="background-color: white; width: 519px; vertical-align: top;"><span style="color: black;">Welcome to the <span style="font-weight: bold;">Global Biotraits Database</span>.<br>
-<br>
-<a name="introduction"></a>This is an
+Global Biotraits Database
+HOME
+PEOPLE
+PUBLICATIONS
+OPPORTUNITIES
+SEARCH
+UPLOAD
+Welcome to the
+Global Biotraits Database
+.
+This is an
 online resource for empirical data on how biological traits
 respond to environmental
-drivers such as temperature, light, and salinity.</span><br style="color: black;">
-<br>
-This database represents the largest and most comprehensive database for the thermal responses of physiological and ecological traits, especially consumer-resource interactions. Currently, we have a total of 2445 intraspecific trait response curves from a total of 1508 species.<br/><span style="color: black; font-weight: bold;"></span><span style="color: black;">We
-expect researchers of diverse disciplines to use these <a href="PNAS_fig1.PNG" target="_blank">data</a> to shed
+drivers such as temperature, light, and salinity.
+This database represents the largest and most comprehensive database for the thermal responses of physiological and ecological traits, especially consumer-resource interactions. Currently, we have a total of 2445 intraspecific trait response curves from a total of 1508 species.
+We
+expect researchers of diverse disciplines to use these
+data
+to shed
 light on how natural
-systems respond to environmental drivers.</span><span style="color: black; font-weight: bold;"></span><span style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium; display: inline ! important; float: none; color: black;"><br>
-<br>
+systems respond to environmental drivers.
 From this site, users will be able to download available datasets and
 upload their own data. We hope that this website will become a central
 portal for the management and accession of data on the thermal responses
-of biological traits.<br><br>We
+of biological traits.
+We
 are currently working through a few bugs with the search capibilities,
-but please feel free to try a search. In the meantime, <span style="font-weight: bold;">the</span> <span style="font-weight: bold;">full dataset published in <span style="font-style: italic;">Ecology</span> (2013) can be downloaded </span><a style="font-weight: bold;" target="_blank" href="http://www.esajournals.org/doi/abs/10.1890/12-2060.1">here</a>. <br>
-<br>
-Work on the website is funded by the <a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1021010" target="_blank">NSF grant</a> to <a href="http://www.biomath.ucla.edu/vsavage/" target="_blank">Van
-Savage</a> and </span><br>
-<span style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium; display: inline ! important; float: none; color: black;"><a href="https://www.eeb.ucla.edu/Faculty/amarasekare/" target="_blank">Priyanga Amarasekare</a>.</span> <br>
-<br>
-Please contact <a href="mailto:vsavage@ucla.edu">us</a>
+but please feel free to try a search. In the meantime,
+the
+full dataset published in
+Ecology
+(2013) can be downloaded
+here
+.
+Work on the website is funded by the
+NSF grant
+to
+Van
+Savage
+and
+Priyanga Amarasekare
+.
+Please contact
+us
 if you have questions, including if you would like
-to help out or submit data.<br>
-<br>
-<img style="width: 219px; height: 57px; text-decoration: underline;" alt="meerkat_family" src="meerkat%20family.png" align="left">Thanks, <br>
-Global Biotraits Database team<br>
-</td>
-<td style="width: 235px; background-color: rgb(242, 242, 242);">
-<table style="width: 100%; height: 100%; text-align: left; margin-left: auto; margin-right: auto;" border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td style="height: 90px; width: 100%; vertical-align: middle; text-align: left; background-color: rgb(242, 242, 242);"><span style="font-weight: bold; color: rgb(204, 0, 0);">
+to help out or submit data.
+Thanks,
+Global Biotraits Database team
 Quick
-Search:</span><a name="quicksearch"></a>
-<form method="get" action="query.php"><input name="query" type="text">
-<select name="constraint"><option value="all">All</option><option value="taxa">Taxa</option><option value="trait">Trait</option><option value="citation">Citation</option></select>
-<input value="Submit" type="submit">
-</form>
-</td>
-<td><br>
-</td>
-</tr>
-<tr>
-<td style="height: 302px; vertical-align: top; width: 100%;">
-<div style="text-align: center;"><span style="font-weight: bold;"></span><br>
-</div>
-<div style="text-align: center;"><span style="font-weight: bold; text-decoration: underline;">What's New</span><a name="whatsnew"></a><br>
-<span style="font-weight: bold;"></span></div>
-<div style="padding: 5px; overflow: auto; width: 235px; height: 290px;">
-<span style="font-weight: bold;"><span style="font-weight: bold;">18 September 2013<br></span></span>The <a href="http://www.ecologicaldata.org/" target="_blank">Ecological Data Wiki</a> recently mentioned the Global Biotraits Database. Check it out!<span style="font-weight: bold;"><span style="font-weight: bold;"><br><br>9 September 2013<br><span style="font-weight: bold;"></span></span></span>Publication in <a href="http://www.esajournals.org/doi/abs/10.1890/12-2060.1"><span style="font-style: italic;">Ecology</span></a> of our entire dataset. Be sure to search this site for the most current and complete data<span style="font-weight: bold;">.<span style="font-weight: bold;"><br></span><br>15 June
-2012</span><br>
-Biotraits goes live to the world (still with a few key bugs to fix!)<br>
-<br>
-<span style="font-weight: bold;">30 May
-2012</span><br>
-Publication in <a href="http://www.nature.com/nature/journal/v486/n7404/full/nature11131.html" target="_blank"><span style="font-style: italic;">Nature</span></a>
+Search:
+All
+Taxa
+Trait
+Citation
+What's New
+18 September 2013
+The
+Ecological Data Wiki
+recently mentioned the Global Biotraits Database. Check it out!
+9 September 2013
+Publication in
+Ecology
+of our entire dataset. Be sure to search this site for the most current and complete data
+.
+15 June
+2012
+Biotraits goes live to the world (still with a few key bugs to fix!)
+30 May
+2012
+Publication in
+Nature
 of our paper describing how the dimensionality of consumer search
 space (i.e., 2D vs. 3D) drives trophic interaction strengths, and
 ultimately may be responisble for community differences between aquatic
-and terrestrial habitats.<br>
-<span style="font-weight: bold;"><br>
-1 October 2011</span><br>
-Biotraits goes live internally!<br>
-<br>
-<span style="font-weight: bold;">23 May
-2011</span><br>
-Publication in <a href="http://www.pnas.org/content/early/2011/05/18/1015178108.abstract" target="_blank"><span style="font-style: italic;">PNAS</span></a>
+and terrestrial habitats.
+1 October 2011
+Biotraits goes live internally!
+23 May
+2011
+Publication in
+PNAS
 of our work on the thermal response of biological and ecological
-traits. Accompanied by <a href="http://www.pnas.org/content/108/26/10377.extract" target="_blank">commentary</a> by R.B. Huey
-&amp;&nbsp;J.G. Kingsolver&nbsp;describing the
-significance of our paper.</div>
-</td>
-</tr>
-</tbody>
-</table>
-<br>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr>
-<td style="width: 1050px; background-color: rgb(255, 204, 51); text-align: center;"><small><a style="text-decoration: none;" href="index.php">home</a>
-&nbsp;&nbsp;&nbsp;- &nbsp;&nbsp;&nbsp; <a style="text-decoration: none;" href="sitemap.php">site
-map</a>&nbsp;&nbsp; - &nbsp;&nbsp; <span style="text-decoration: none;"><a style="text-decoration: none;" href="mailto:biotraitsdatabase@gmail.com">contact</a>
-&nbsp; - &nbsp; <a style="text-decoration: none;" href="publications.php#citebiotraits">citation</a>
-&nbsp;</span></small></td>
-</tr>
-<tr align="center">
-<td style="background-color: white;">
-<table style="text-align: left; width: 100%;" border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td style="width: 60%; text-align: center;"><br>
-<a style="text-decoration: none;" href="http://www.ucla.edu/" target="_blank"><img style="border: 0px solid ; width: 137px; height: 63px;" alt="ucla_logo" src="ucla_cw100.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</a><a href="http://www.nsf.gov/" target="_blank"><img style="border: 0px solid ; width: 63px; height: 63px;" alt="NSF_logo" src="nsf1.gif"></a><br><div style="font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255); color: black; text-align: center;"><span style="color: rgb(34, 34, 34); font-size: 11px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline ! important; float: none;">This material is based upon work supported by the National Science Foundation under Grant Number 1021010. </span><small><span style="font-size: 11px;">Any
+traits. Accompanied by
+commentary
+by R.B. Huey
+& J.G. Kingsolver describing the
+significance of our paper.
+home
+-
+site
+map
+-
+contact
+-
+citation
+This material is based upon work supported by the National Science Foundation under Grant Number 1021010.
+Any
 opinions, findings, and conclusions or recommendations expressed in
-this material are those of the author(s)&nbsp;and do not </span>necessarily reflect the views of the National Science Foundation.</small></div>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-<br style="font-family: Calibri;">
-<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=2143508745" async></script></body></html>
+this material are those of the author(s) and do not
+necessarily reflect the views of the National Science Foundation.

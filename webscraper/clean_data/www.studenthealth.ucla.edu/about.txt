@@ -1,808 +1,123 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>About Your Student Health Center | UCLA Student Health</title>
-<link rel="stylesheet" href="/themes/custom/ucla_sa/fonts/proximanova.css?v=20240220144912">
-<link rel="stylesheet" href="/themes/custom/ucla_sa/css/ucla_sa.css??v=20240220144912">
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120085288-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() {
-    dataLayer.push(arguments);
-  }
-  gtag('js', new Date());
-  gtag('config', 'UA-120085288-1');
-</script>
-<style type="text/css">
-.full-bleed-text{
-     padding:6%;
-}
-@media only screen and (min-width:990px){
-     .full-bleed-bg{
-         background: url(/media/487);
-         height:640px;
-         background-repeat: no-repeat;
-         background-size: 100%;
-         padding: 2rem;
-         margin-right: -24px;
-         margin-left: -24px;
-    }
-    .full-bleed-bg img{
-         display:none;
-    }
-    .full-bleed-text h2{
-         font-size: 3rem;
-         line-height: 3.375rem;
-         padding-bottom:2%;
-    }
-    .full-bleed-text p, .full-bleed-text ul{
-         font-size:16pt;
-         line-height: 1.4;
-    }
-}
-@media only screen and (max-width:1024px){
-     .full-bleed-text{
-         padding: 4% 
-    }
-}
-
-
-
-.button-with-bg{
-  text-align: center;
-  background-image: linear-gradient(#003B5C, #2774AE);
-  margin: 0 -24px -4px -24px;
-  padding: 2rem;
-}
-
-.button-with-bg h2 {
- color:#fff;
- font-weight:normal;
-}
-
-.bg-button a {
- background-color: var(--ucla-gold);
- border-color: var(--ucla-gold);
- color: #000000;
-}
-
-.bg-button a:hover, .bg-button a:focus {
- background-color: var(--yellow);
- border-color: var(--yellow);
-color: #000000;
-}
-
-.ashe-floor-1 {
-  width: 109px;
-  height: 280px;
-  background-image: url('/file/d631dcd5-329a-4cc3-aa13-95a622d717ed');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.ashe-floor-2 {
-  width: 187px;
-  height: 280px;
-  background-image: url('/file/6bf4b8aa-1230-499b-89a5-174dfb6f55f8');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.ashe-floor-3 {
-  width: 136px;
-  height: 280px;
-  background-image: url('/file/b3e196ae-bd4f-4cc3-895b-6a0c9db975d0');
- background-repeat: no-repeat;
-  background-size: cover;
-}
-.ashe-floor-4 {
-  width: 163px;
-  height: 280px;
-  background-image: url('/file/5d544f8b-240f-4524-b511-91bc6344ac9b');
-  background-repeat: no-repeat;
-  background-size: cover;
-
-}
-.ashe-floor-descriptions {
-  display: inline-block;
-  vertical-align: top;
-  margin-right: 1rem;
-}
-.ashe-floor-descriptions p {
-  display: inline-block; 
-   vertical-align: top;
-}
-.ashe-room-radiology {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/d4e70fd1-2fab-48e6-9ff8-744627eaca9b');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-womens {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/5ad53dc9-c564-46dc-9edd-22c3aaeb737b');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-acupuncture {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/793e100d-14a8-4aab-b56e-585721bfd304');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-scheduling {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/40ed8066-6720-452c-890b-3283e5b417ce');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-2-clinic {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/0f600fff-520f-42bf-b32e-22abb9c4c9e2');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-dental {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/1abd9f51-be51-4fb5-9d40-b2cd429a6e83');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-nursing {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/afdea2af-83c4-4add-b611-c3aa88eac7af');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-immune {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/6d25268e-2d10-4517-98c2-fe2f6b38b606');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-physical-therapy {
-  width: 57px;
-  height: 57px;
-  background-image: url('file/3985052e-3b2d-45d7-b961-8c37c9734d85');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-records {
-  width: 57px;
-  height: 57px;
-  background-image: url('file/0510707f-0eef-4615-882e-4dbefd38861f');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-.ashe-room-insurance {
-  width: 57px;
-  height: 57px;
-  background-image: url('/file/c0eaeffc-1b38-43d8-8735-8a807eb4dd69');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: inline-block;
-}
-@media (max-width:768px) {
-  .ashe-floor-descriptions {
-      margin-top: 2rem;
-  }
-}
-img {
-display: block;
-}
-.tables-col-4 th, .tables-col-4 td {
-    width: 25%;
-}
-.tables-col-5 th, .tables-col-5 td {
-    width: 20%;
-}
-</style>
-<script type="text/javascript">
-"use strict";
-async function covidFAQ() {
-    var node = document.querySelector('[data-ucla=covid-faq]');
-    if(typeof(node) == undefined || node == null) {
-        return;
-    }
-    var before = `${node.innerHTML}`;
-    node.innerText = 'Loading FAQs...';
-    var r = await fetch('https://www.uclahealth.org/ucla-campus-faq-feed.cfm?smajax=true');
-    var data = await r.json();
-    node.innerHTML = '';
-    var toc = document.createElement('div');
-    toc.classList.add('table-of-contents');
-    node.parentNode.insertBefore(toc, node);
-    console.log(node.parentNode.parentNode);
-    var activeCategory = '';
-    for(var i=0; i<data.length; i++) {
-        var item = data[i];
-        if(activeCategory != item.category) {
-            var h2 = document.createElement('h2');
-            h2.innerHTML = item.category;
-            activeCategory = `${item.category}`;
-            node.appendChild(h2);
-        }
-        var h3 = document.createElement('h3');
-        h3.innerHTML = item.question;
-
-        var div = document.createElement('div');
-        div.innerHTML = item.answer;
-
-        for(var ul of div.querySelectorAll('ul')) {
-            ul.classList.add('bullet');
-        }
-        for(var a of div.querySelectorAll('a')) {
-            if(!a.getAttribute('href').match(/http/)) {
-                a.setAttribute('href', `https:///www.uclahealth.org/${a.getAttribute('href')}`);
-            }
-        }
-
-        node.appendChild(h3);
-        node.appendChild(div);
-    }
-
-var tocs = document.querySelectorAll('.table-of-contents');
-for(var i=0; i < tocs.length; i++) {
-    generateTableOfContents(tocs[i]);
-}
-
- 
-
-
-function generateTableOfContents(toc) {
-    var parent = document.querySelector('.page-content');
-    toc.innerHTML = '';
-    var currentLevel = 2;
-    var ulForLevel = {
-        2: document.createElement('ul'),
-        3: null
-    }
-    toc.appendChild(ulForLevel[2]);
-    console.log(ulForLevel);
-    var tocFound = false;
-    var items = parent.querySelectorAll('h2, h3');
-    console.log(items);
-    for(var i=0; i < items.length; i++) {
-        var item = items[i];
-        console.log(item);
-        var key = item.textContent.replace(/ /g, '_').replace(/[^a-zA-Z0-9_]/g, '').toLowerCase();
-        item.id = key;
-        var li = document.createElement('li');        
-        var a = document.createElement('a');
-        a.href = '#' + key;
-        a.innerText = item.innerText;
-        li.appendChild(a);
-        var level = parseInt(item.nodeName.replace('H', ''));
-        if(currentLevel > level) {
-            ulForLevel[currentLevel] = null;
-        } else if(level == NaN) {
-        	level = 2;
-        }
-        if(ulForLevel[level] != null) {
-            ulForLevel[level].appendChild(li);           
-        } else {
-            ulForLevel[level] = document.createElement('ul');
-            console.log( ulForLevel[level - 1], item, level);
-            ulForLevel[level - 1].querySelector(':scope > li:last-child').appendChild(ulForLevel[level]);
-            ulForLevel[level].appendChild(li);
-        }
-        currentLevel = level;
-    }
-}
-
-}
-
-if (document.readyState === "complete" || document.readyState === "interactive") {
-    // Document is already ready to go.
-    setTimeout(covidFAQ, 1);
-} else {
-    document.addEventListener('DOMContentLoaded', function (event) {
-        covidFAQ();
-    });
-}
-</script>
-</head>
-<body
-    data-ucla-ref="load/about"
-    data-ucla-path="/about"
-    data-ucla-origin="https://www.studenthealth.ucla.edu"
-    class="no-js"
->
-<script>document.body.classList.remove('no-js'); document.body.classList.add('js');</script>
-<header class="header">
-    <div class="skip-to-main">
-    <a href="#main">Skip to Main Content</a>
-    </div>
-            <div class="nav-topbar desktop-only">
-    <nav aria-label="Secondary Top" class="nav-secondary container">
-    <ul>
-  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
-  <li><a href="https://www.immunizationrequirement.ucla.edu/">Immunization Requirements</a></li>
-  <li><a href="/afterhours">AfterHours</a></li>
-  <li><a href="/careers">Careers</a></li>
-  <li class="topbar-yellow-button"><strong><a href="/portal">PATIENT PORTAL</a></strong></li>
-</ul>
-    </nav>
-    </div>
-    <div class="headerbar container">
-          <a href="/" class="site-name"><img src="/sites/default/files/UCLA_Logo_AsheCenter.fw_.png" height="70" width="780" alt="UCLA Arthur Ashe Student Health &amp; Wellness Center"></a>
-          <div class="header-right">
-      <button class="mobile-only" aria-haspopup="true" aria-controls="menus" aria-expanded="false" aria-label="Main Menus"></button>
-      <form action="https://www.ucla.edu/search" method="GET" class="site-search desktop-only">
-      <label for="header-search-headerbar">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-headerbar"><button type="submit">Search</button>
-      </form>
-      </div>
-    </div>
-    <div id="menus">
-    <form action="https://www.ucla.edu/search" method="GET" class="site-search mobile-only">
-      <label for="header-search-mobile-only">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-mobile-only"><button type="submit">Search</button>
-    </form>
-    <nav aria-label="Main" class="nav-main container">
-    <ul>
-  <li><a href="/services">Services</a></li>
-  <li><a href="/insurance">Insurance</a></li>
-  <li><a href="/fees">Fees</a></li>
-  <li><a href="/about">About</a></li>
-  <li><a href="/contact">Contact</a></li>
-</ul>
-    </nav>
-    <nav aria-label="Secondary Menu" class="nav-secondary container mobile-only">
-    <ul>
-  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
-  <li><a href="https://www.immunizationrequirement.ucla.edu/">Immunization Requirements</a></li>
-  <li><a href="/afterhours">AfterHours</a></li>
-  <li><a href="/careers">Careers</a></li>
-  <li class="topbar-yellow-button"><strong><a href="/portal">PATIENT PORTAL</a></strong></li>
-</ul>
-    </nav>
-    </div>
-</header>
-<main id="main">
-  <div class="container">
-        <div class="page">
-<div class="page-header">
-  <div id="block-system-messages">
-<div data-drupal-messages-fallback class="hidden"></div>
-</div>
-<div id="block-breadcrumbs">
-  
-    
-        <nav aria-labelledby="system-breadcrumb">
-    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
-    <ol>
-          <li>
-                            <a href="https://www.studenthealth.ucla.edu/">Home</a>
-                        </li>
-          <li>
-                            <a href="https://www.studenthealth.ucla.edu/about">About</a>
-                        </li>
-        </ol>
-  </nav>
-
-  </div>
-<div id="block-ucla-sa-page-title">
-  
-    
-      
-  <h1>About Your Student Health Center</h1>
-
-
-  </div>
-
-
-</div>
-<div class="page-content">
-  <div id="block-mainpagecontent">
-  
-    
-      <div data-ucla-node-id="84" data-repeat-body_content-max-count="0">
-
-
-
-
-
-<div class="body-content body--section">
-
-<div data-custom-embed-id="111" data-custom-embed-title="In page buttons">
-
-<div class="in-page-buttons"></div>
-
-</div>
-
- <p></p> <p class="lead">The Ashe Center offers a variety of services to support the diverse UCLA campus community with comprehensive healthcare services &amp; education.</p> <h2>Arthur Ashe Student Health and Wellness Center</h2> <section class="columns columns-2 columns-2-7030"> <section class="column column-1"> <p>The Arthur Ashe Student Health and Wellness Center (The Ashe Center) is devoted to providing quality, accessible, state-of-the-art healthcare and education to support the unique development of UCLA students.</p> <p>Our comprehensive services include Primary Care, Gynecology Services, Immunizations, Travel Medicine, Physical Therapy, Specialty Clinics, Radiology &amp; Laboratory, and Acupuncture – all under one roof! Students can schedule appointments online, in person, or by phone and can communicate with their primary care providers via secure electronic messaging. After hours, students can call our 24/7 Nurseline for advice and information or log in to LiveHealth Online for a telemedicine visit on their mobile device.</p> <p>The Ashe Center is also pleased to offer additional services in the Ackerman Student Union, a full-service optometry center, U See LA Optometry, on Ackerman B-Level and the Bruin Health Pharmacy (Ackerman A-Level).</p> <p>We are committed to helping students “shine, inside and out.” From eating well and staying active to managing stress, The Ashe Center focuses on student wellbeing by providing ongoing wellness workshops, participating in health-related outreach events on campus. It’s no wonder that UCLA's student health center and its suite of services consistently rank as best in the nation. Most recently, the wellness fintech brand Ness recently awarded UCLA and The Ashe Center as the <a href="https://www.nesswell.com/healthiest-college">healthiest college in the state of California</a>.</p> <blockquote> <p>The mission of The Ashe Center is to support UCLA students in the successful attainment of their educational goals through the personalized delivery of accessible, high-quality health and wellness services, rendered with kindness and competence, by diligent, dedicated professionals.</p></blockquote> <p class="button"><a href="/about/patient-centered-medical-home">Patient-Centered Medical Home</a></p></section> <section class="column column-2"> <a href="https://www.studenthealth.ucla.edu/file/53e44f24-a07c-41a8-aba3-b12c4fceb2c5">
-  <img loading="eager" src="/sites/default/files/styles/header_image/public/2022-07/Artboard%201.png?itok=jb8xebv0" width="612" height="792" alt="Patient-Centered Medical Home Infographic 2022">
-
-
-
-
-</a> <p></p> <p></p> <p></p></section></section> <h2>Accreditation &amp; Certifications</h2> <section class="columns columns-2 columns-2-7030"> <section class="column column-1"> <p>The Ashe Center has been <strong>fully re-accredited by the Accreditation Association for Ambulatory Health Care (“AAAHC”)</strong>, the nation’s premier advocate for high quality health care and patient safety for surgery centers, primary care practices, student health centers, and more. Accreditation is awarded for a period of three years to facilities that meet the highest core standards, including patient rights and responsibilities, governance, administration, quality of care, quality management and improvement, clinical records and health information, infection prevention and control and safety, and facilities and environment.</p> <h3>About AAAHC</h3> <p>Accreditation is awarded to organizations that demonstrate substantial compliance with its standards and adhere to the AAAHC accreditation policies. Compliance is assessed through documented evidence, answers to detailed questions concerning implementation and on-site observations and interviews by surveyors. When attained, it identifies ambulatory health care facilities like The Ashe Center to its patients and to the community as one that may be trusted to provide safe, state-of-the-art services and is dedicated to ongoing self-monitoring and continuous improvement. More information about the <a href="https://www.aaahc.org/">AAAHC</a> and their mission.</p> <h3>Your Patient Centered Medical Home</h3> <p>The Ashe Center is a <a href="https://www.studenthealth.ucla.edu/about/patient-centered-medical-home">Primary Care Medical Home</a>. This means that all students are assigned to a Primary Care Provider (PCP) who leads the health care team that coordinates all aspects of your preventive, acute and chronic needs using the best available evidence and appropriate technology. These relationships offer comfort, convenience, and optimal health throughout your time as a student at UCLA. Our PCPs are physicians, nurse practitioners, or physicians assistants with training in family practice, pediatrics, or internal medicine. The health care team consists of the PCP, medical assistants, license vocational nurses, clinical coordinators, and registered nurses. All non-emergency care is coordinated through the Ashe PCP, including referrals to specialists.</p> <h3>Healthcare Equality Index</h3> <p>Additionally, The Ashe Center is one of a select group of healthcare facilities nationwide to be named <strong><a href="/file/1feda501-40e3-431c-9445-d6dee1abcc74">Leaders in LGBT Healthcare Equality</a></strong>. Facilities awarded this title meet key criteria, including patient and employee non-discrimination policies that specifically mention sexual orientation and gender identity, a guarantee of equal visitation for same-sex partners and parents, and LGBT health education for key staff members. This honor is given to facilities that meet LGBT-inclusive benchmarks that are part of the HRC Foundation’s Healthcare Equality Index. Visit their website to download a free copy of the report, or for more information about the <a href="https://www.hrc.org/hei">Healthcare Equality Index</a>.</p> <h3>Influenza Vaccination Honor Roll</h3> <p><a href="https://www.immunize.org/honor-roll/influenza-mandates/">IAC</a> (Immunize.org) recognizes the stellar examples of influenza vaccination mandates in healthcare settings. The best way to prevent transmission of influenza to our patients is to mandate vaccination of healthcare personnel. The <a href="http://www.immunize.org/honor-roll/influenza-mandates/honorees.asp#ca">Influenza Vaccination Honor Roll</a> represents the champions who have taken the lead in mandating influenza vaccination within their organization or institution. To be included in this honor roll, an organization's mandate must require influenza vaccination for employees and must include serious measures to prevent transmission of influenza from unvaccinated workers to patients. Such measures may include a mask requirement, reassignment to non-patient-care duties, or dismissal of the employee.</p></section> <section class="column column-2"> <a href="https://www.aaahc.org/">
-  <img loading="eager" src="/sites/default/files/styles/header_image/public/2021-03/AAAHC.jpeg?itok=4NxtY7dZ" width="810" height="501" alt="Accredited by the AAAHC">
-
-
-
-
-</a> <p></p> 
-  <img loading="eager" src="/sites/default/files/styles/header_image/public/portals/27/images/aboutus/pcmh-title.png?itok=32lqavU4" width="548" height="315" alt="Patient-Centered Medical Home graphic">
-
-
-
-
- <p></p> <p></p>  <a href="https://www.hrc.org/resources/healthcare-equality-index">
-  <img loading="eager" src="/sites/default/files/styles/header_image/public/2022-03/2022%20HEI-Leader-WEB.png?itok=W7xiGLWX" width="1170" height="881" alt="HRC HEI Logo 2022">
-
-
-
-
-</a> <p></p> <p></p>  <a data-entity-substitution data-entity-type data-entity-uuid href="https://www.immunize.org/honor-roll/influenza-mandates/honorees.asp">
-  <img loading="eager" src="/sites/default/files/styles/header_image/public/2023-08/Immunize%20Honor%20Roll%20Graphic.jpg?itok=fL5BCPCD" width="1170" height="351" alt="Immunize.org Logo">
-
-
-
-
-</a> <p></p></section></section> <section class="columns columns-2 columns-2-7030"> <section class="column column-1"> <h2><a href="/about/arthur-ashe-biography">Arthur Ashe</a> <a href="https://optimism.ucla.edu/profiles/ashe/">(UCLA Class of '66)</a></h2> <p>Former No. 1 tennis player in the world and winner of over 50 professional titles including three Grand Slams, <strong>Arthur Ashe</strong> was a dominant figure on and off the court. At UCLA, Ashe became the first African-American selected to the United States Davis Cup team, won a NCAA singles title and helped UCLA win the NCAA team title. He turned pro in 1969 and went on to have a storied career in the ATP World Tour. Ashe used his influence beyond sports to become a powerful humanitarian and statesman. Part of a 31-person delegation of prominent African-Americans sent to South Africa to advocate for racial integration, Ashe put his own freedom on the line and was arrested twice while protesting apartheid and crackdowns on refugees. His connection to UCLA is literally etched in stone with the Arthur Ashe Student Health and Wellness Center named in his honor.</p> <p class="button"><a href="https://newsroom.ucla.edu/magazine/arthur-ashe-legacy-oral-history-project">UCLA Magazine: Arthur Ashe, Champion for Justice</a></p></section> <section class="column column-2"> 
-  <img loading="eager" src="/sites/default/files/styles/header_image/public/portals/27/images/aboutus/arthurashe.jpg?itok=KJYhVn_F" width="640" height="424" alt="Arthur Ashe">
-
-
-
-
-</section></section>
-
-</div>
-
-  <div class="people paragraph--section" data-section-title="Administration">
-          <h2>
+About Your Student Health Center | UCLA Student Health
+Skip to Main Content
+Search Website
+Search
+Search Website
+Search
+About Your Student Health Center
+The Ashe Center offers a variety of services to support the diverse UCLA campus community with comprehensive healthcare services & education.
+Arthur Ashe Student Health and Wellness Center
+The Arthur Ashe Student Health and Wellness Center (The Ashe Center) is devoted to providing quality, accessible, state-of-the-art healthcare and education to support the unique development of UCLA students.
+Our comprehensive services include Primary Care, Gynecology Services, Immunizations, Travel Medicine, Physical Therapy, Specialty Clinics, Radiology & Laboratory, and Acupuncture – all under one roof! Students can schedule appointments online, in person, or by phone and can communicate with their primary care providers via secure electronic messaging. After hours, students can call our 24/7 Nurseline for advice and information or log in to LiveHealth Online for a telemedicine visit on their mobile device.
+The Ashe Center is also pleased to offer additional services in the Ackerman Student Union, a full-service optometry center, U See LA Optometry, on Ackerman B-Level and the Bruin Health Pharmacy (Ackerman A-Level).
+We are committed to helping students “shine, inside and out.” From eating well and staying active to managing stress, The Ashe Center focuses on student wellbeing by providing ongoing wellness workshops, participating in health-related outreach events on campus. It’s no wonder that UCLA's student health center and its suite of services consistently rank as best in the nation. Most recently, the wellness fintech brand Ness recently awarded UCLA and The Ashe Center as the
+healthiest college in the state of California
+.
+The mission of The Ashe Center is to support UCLA students in the successful attainment of their educational goals through the personalized delivery of accessible, high-quality health and wellness services, rendered with kindness and competence, by diligent, dedicated professionals.
+Patient-Centered Medical Home
+Accreditation & Certifications
+The Ashe Center has been
+fully re-accredited by the Accreditation Association for Ambulatory Health Care (“AAAHC”)
+, the nation’s premier advocate for high quality health care and patient safety for surgery centers, primary care practices, student health centers, and more. Accreditation is awarded for a period of three years to facilities that meet the highest core standards, including patient rights and responsibilities, governance, administration, quality of care, quality management and improvement, clinical records and health information, infection prevention and control and safety, and facilities and environment.
+About AAAHC
+Accreditation is awarded to organizations that demonstrate substantial compliance with its standards and adhere to the AAAHC accreditation policies. Compliance is assessed through documented evidence, answers to detailed questions concerning implementation and on-site observations and interviews by surveyors. When attained, it identifies ambulatory health care facilities like The Ashe Center to its patients and to the community as one that may be trusted to provide safe, state-of-the-art services and is dedicated to ongoing self-monitoring and continuous improvement. More information about the
+AAAHC
+and their mission.
+Your Patient Centered Medical Home
+The Ashe Center is a
+Primary Care Medical Home
+. This means that all students are assigned to a Primary Care Provider (PCP) who leads the health care team that coordinates all aspects of your preventive, acute and chronic needs using the best available evidence and appropriate technology. These relationships offer comfort, convenience, and optimal health throughout your time as a student at UCLA. Our PCPs are physicians, nurse practitioners, or physicians assistants with training in family practice, pediatrics, or internal medicine. The health care team consists of the PCP, medical assistants, license vocational nurses, clinical coordinators, and registered nurses. All non-emergency care is coordinated through the Ashe PCP, including referrals to specialists.
+Healthcare Equality Index
+Additionally, The Ashe Center is one of a select group of healthcare facilities nationwide to be named
+Leaders in LGBT Healthcare Equality
+. Facilities awarded this title meet key criteria, including patient and employee non-discrimination policies that specifically mention sexual orientation and gender identity, a guarantee of equal visitation for same-sex partners and parents, and LGBT health education for key staff members. This honor is given to facilities that meet LGBT-inclusive benchmarks that are part of the HRC Foundation’s Healthcare Equality Index. Visit their website to download a free copy of the report, or for more information about the
+Healthcare Equality Index
+.
+Influenza Vaccination Honor Roll
+IAC
+(Immunize.org) recognizes the stellar examples of influenza vaccination mandates in healthcare settings. The best way to prevent transmission of influenza to our patients is to mandate vaccination of healthcare personnel. The
+Influenza Vaccination Honor Roll
+represents the champions who have taken the lead in mandating influenza vaccination within their organization or institution. To be included in this honor roll, an organization's mandate must require influenza vaccination for employees and must include serious measures to prevent transmission of influenza from unvaccinated workers to patients. Such measures may include a mask requirement, reassignment to non-patient-care duties, or dismissal of the employee.
+Arthur Ashe
+(UCLA Class of '66)
+Former No. 1 tennis player in the world and winner of over 50 professional titles including three Grand Slams,
+Arthur Ashe
+was a dominant figure on and off the court. At UCLA, Ashe became the first African-American selected to the United States Davis Cup team, won a NCAA singles title and helped UCLA win the NCAA team title. He turned pro in 1969 and went on to have a storied career in the ATP World Tour. Ashe used his influence beyond sports to become a powerful humanitarian and statesman. Part of a 31-person delegation of prominent African-Americans sent to South Africa to advocate for racial integration, Ashe put his own freedom on the line and was arrested twice while protesting apartheid and crackdowns on refugees. His connection to UCLA is literally etched in stone with the Arthur Ashe Student Health and Wellness Center named in his honor.
+UCLA Magazine: Arthur Ashe, Champion for Justice
 Administration
-</h2>
-      
-      <div class="people-container">
-      
-  <div class="person">
-          <div class="person-background-node"></div>
-      <h3 class="person-title">
 Chaitali Mukherjee, MD
-</h3>
-      <div class="person-summary">
-<p class="summary">Executive Director</p>
-</div>
-      <div class="person-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_1_1/public/2021-08/Chaitali_Mukherjee_Headshot_18L5501_Web.jpg?itok=7T4bRUaX" width="800" height="800" alt="Portrait of Chaitali Mukherjee, MD" />
-
-
-
-</div>
-
-      </div>
-
-  <div class="person">
-          <div class="person-background-node"></div>
-      <h3 class="person-title">
+Executive Director
 Sandy Lai, MD
-</h3>
-      <div class="person-summary">
-<p class="summary">Medical Director</p>
-</div>
-      <div class="person-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_1_1/public/2023-01/lai.%20sandy.jpg?itok=O-5-1lxc" width="800" height="800" alt="Portrait of Sandy Lai, Medical Director" />
-
-
-
-</div>
-
-      </div>
-
-  <div class="person">
-          <div class="person-background-node"></div>
-      <h3 class="person-title">
+Medical Director
 Dena Florczyk, MD
-</h3>
-      <div class="person-summary">
-<p class="summary">Assistant Medical Director</p>
-</div>
-      <div class="person-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_1_1/public/2022-08/Dena%20Florczyk.jpg?itok=FATkpQAe" width="800" height="800" alt="Portrait of Dr. Florczyk" />
-
-
-
-</div>
-
-      </div>
-
-  <div class="person">
-          <div class="person-background-node"></div>
-      <h3 class="person-title">
+Assistant Medical Director
 Bettina Pedone, NP
-</h3>
-      <div class="person-summary">
-<p class="summary">Director, Population Health</p>
-</div>
-      <div class="person-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_1_1/public/image/512f02dad7dbad5f460815820220ede9bce6a6b1.jpg?itok=-5IvFV7A" width="800" height="800" alt="Portrait of Bettina Pedone" />
-
-
-
-</div>
-
-      </div>
-
-  <div class="person">
-          <div class="person-background-node"></div>
-      <h3 class="person-title">
+Director, Population Health
 Amrit Nagra, MPH
-</h3>
-      <div class="person-summary">
-<p class="summary">Director, Clinical Operations</p>
-</div>
-      <div class="person-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_1_1/public/image/7db9510cd49ece0d9ff282a61279c15c8c7be385.jpg?itok=MXrzgK4-" width="800" height="800" alt="Portrait of Amrit Nagra" />
-
-
-
-</div>
-
-      </div>
-
-  <div class="person">
-          <div class="person-background-node"></div>
-      <h3 class="person-title">
+Director, Clinical Operations
 Adrian Martinez
-</h3>
-      <div class="person-summary">
-<p class="summary">Director, Administrative Operations</p>
-</div>
-      <div class="person-image">
-  <img loading="eager" src="/sites/default/files/styles/resize_1_1/public/2021-07/web%20version_0.jpg?itok=l8MYFcOp" width="800" height="800" alt="Portrait of Adrian Martinez" />
-
-
-
-</div>
-
-      </div>
-
-
-      </div>
-      </div>
-
-  <div class="cards-theme-resources paragraph--type--cards paragraph--section cards" data-section-title="Organizational Structure">
-          <h2>
+Director, Administrative Operations
 Organizational Structure
-</h2>
-      
-      <div class="cards-container">
-      
-  <a href="https://www.studenthealth.ucla.edu/file/5047b04b-bdab-4b19-938e-814d7433e282"  class="card">
-          <span class="card-title">
 Administrative Staff
-</span>
-      <span class="card-summary"></span>
-      </a>
-
-  <a href="https://www.studenthealth.ucla.edu/file/78b10a37-21f9-4ec1-af6b-8d4d5786dafa"  class="card">
-          <span class="card-title">
 Clinical Staff
-</span>
-      <span class="card-summary"></span>
-      </a>
-
-  <a href="/portals/27/documents/pdf/committee-org-chart.pdf"  class="card">
-          <span class="card-title">
 Committees
-</span>
-      <span class="card-summary"></span>
-      </a>
-
-
-      </div>
-      </div>
-
-  <div class="body-content paragraph--section" data-section-title="Privacy Practices">
-          <h2>
 Privacy Practices
-</h2>
-      
-<p>The Ashe Center is committed to maintaining the privacy and confidentiality of all patient information. You have the right to privacy concerning your health care. All care and counseling received at The Ashe Center will be kept strictly confidential, except as required by law. Our Notice of Privacy Practices and policy on the Disclosure of Information are provided to acquaint you with your rights.<br>
-<br>
-<a href="https://www.finance.ucla.edu/business-finance-services/student-accounts/third-party-access">Third Party Access</a>&nbsp;allows a student to give access to their account to another person, typically to parents or a guardian. To authorize third party access use of MyUCLA, all students must agree that they have read and understand Family Educational Rights and Privacy Act (<a href="https://www.registrar.ucla.edu/Student-Records/Student-Rights-Privacy">FERPA</a>) restrictions. To learn more about third party access,&nbsp;<a href="https://parents.ucla.edu/about-us/ferpa3rd-party-access/">visit the UCLA Parent &amp; Family Association</a>.</p>
-
-<p class="button"><a href="/about/privacy-practices">Read Privacy Practices</a></p>
-
-<p>&nbsp;</p>
-
-      </div>
-
-  <div class="body-content paragraph--section" data-section-title="Patient Rights &amp; Responsibilities">
-          <h2>
-Patient Rights &amp; Responsibilities
-</h2>
-      
-<section class="columns columns-2 columns-2-5050">
-<section class="column column-1">
-<p>Prior to receiving care at the Ashe Center, patients shall be reminded of their patient responsibilities (such as providing complete and accurate information to the Ashe Center providers; accepting personal financial responsibility for any charges not covered by their insurance; remaining respectful of all Ashe Center providers and staff, as well as other patients). For more information on what to expect during your visit to The Ashe Center, you can view our short video.</p>
-
-<p class="button"><a href="/about/patient-rights-responsibilities">Patient Rights &amp; Responsibilities</a></p>
-</section>
-
-<section class="column column-2">
-<div data-custom-embed-id="105" data-custom-embed-title="About - Video">
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/385594691" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
-</div>
-
-
-</section>
-</section>
-
-<p>&nbsp;</p>
-
-      </div>
-
-  <div class="body-content paragraph--section" data-section-title="Sensitive Exams">
-          <h2>
+The Ashe Center is committed to maintaining the privacy and confidentiality of all patient information. You have the right to privacy concerning your health care. All care and counseling received at The Ashe Center will be kept strictly confidential, except as required by law. Our Notice of Privacy Practices and policy on the Disclosure of Information are provided to acquaint you with your rights.
+Third Party Access
+allows a student to give access to their account to another person, typically to parents or a guardian. To authorize third party access use of MyUCLA, all students must agree that they have read and understand Family Educational Rights and Privacy Act (
+FERPA
+) restrictions. To learn more about third party access,
+visit the UCLA Parent & Family Association
+.
+Read Privacy Practices
+Patient Rights & Responsibilities
+Prior to receiving care at the Ashe Center, patients shall be reminded of their patient responsibilities (such as providing complete and accurate information to the Ashe Center providers; accepting personal financial responsibility for any charges not covered by their insurance; remaining respectful of all Ashe Center providers and staff, as well as other patients). For more information on what to expect during your visit to The Ashe Center, you can view our short video.
+Patient Rights & Responsibilities
 Sensitive Exams
-</h2>
-      
-<section class="columns columns-2 columns-2-5050">
-<section class="column column-1">
-<p>At The Ashe Center, we understand that certain medical exams and procedures are more sensitive than others and we want to make sure that you are as comfortable as possible. You, or your provider, may choose to have a medical chaperone present during a physical examination, or at any time during your medical visit. A medical chaperone is a specially-trained member of The Ashe Center clinical team whose job it is to enhance the patient’s comfort, safety, privacy, security, and dignity during your visit. The chaperone will stand in a location where they are able to observe the exam, and assist as needed. It is The Ashe Center policy to have a chaperone present during all sensitive examinations (involving the genitals, anus, or breasts) or when you must be fully disrobed, unless you decline.</p>
-
-<h3>Brochure Translations</h3>
-
-<p class="button"><a data-entity-substitution="canonical" data-entity-type="media" data-entity-uuid="4bc7697b-da91-4533-96e4-61a84331e422" href="/file/4bc7697b-da91-4533-96e4-61a84331e422">Spanish Translation</a></p>
-
-<p class="button"><a data-entity-substitution="canonical" data-entity-type="media" data-entity-uuid="38424ea8-1dc8-43af-9734-1c97bc5886b4" href="/file/38424ea8-1dc8-43af-9734-1c97bc5886b4">Vietnamese Translation</a></p>
-
-<p class="button"><a data-entity-substitution="canonical" data-entity-type="media" data-entity-uuid="b0e27ed2-68a9-4553-aa00-5360eaa25f54" href="/file/b0e27ed2-68a9-4553-aa00-5360eaa25f54">Korean Translation</a></p>
-
-<p class="button"><a data-entity-substitution="canonical" data-entity-type="media" data-entity-uuid="8c91b547-0519-4a8d-a366-30dd64b6eafa" href="/file/8c91b547-0519-4a8d-a366-30dd64b6eafa">Chinese Translation</a></p>
-
-<p class="button"><a data-entity-substitution="canonical" data-entity-type="media" data-entity-uuid="16eb5b78-96a3-41c6-840a-c889a50e259b" href="/file/16eb5b78-96a3-41c6-840a-c889a50e259b">Russian Translation</a></p>
-</section>
-
-<section class="column column-2">
-<h3>Printed Brochures Available in Clinic</h3>
-
-
-  <img loading="eager" src="/sites/default/files/styles/header_image/public/2023-04/Sensitive%20Exams%20Screenshot.png?itok=OLoW_AxE" width="428" height="619" alt="Cover of Sensitive Exams brochure showing Ashe Center building exterior">
-
-
-
-
-
-
-<p class="button"><a data-entity-substitution="canonical" data-entity-type="media" data-entity-uuid="c55be6c3-7ccf-4e2a-aa65-8bcd5980d6bb" href="/file/c55be6c3-7ccf-4e2a-aa65-8bcd5980d6bb">Electronic Version (English)</a></p>
-</section>
-</section>
-
-<p>&nbsp;</p>
-
-      </div>
-
-  <div class="body-content paragraph--section" data-section-title="Statement of Reciprocal Services (UC Student Health Centers)">
-          <h2>
+At The Ashe Center, we understand that certain medical exams and procedures are more sensitive than others and we want to make sure that you are as comfortable as possible. You, or your provider, may choose to have a medical chaperone present during a physical examination, or at any time during your medical visit. A medical chaperone is a specially-trained member of The Ashe Center clinical team whose job it is to enhance the patient’s comfort, safety, privacy, security, and dignity during your visit. The chaperone will stand in a location where they are able to observe the exam, and assist as needed. It is The Ashe Center policy to have a chaperone present during all sensitive examinations (involving the genitals, anus, or breasts) or when you must be fully disrobed, unless you decline.
+Brochure Translations
+Spanish Translation
+Vietnamese Translation
+Korean Translation
+Chinese Translation
+Russian Translation
+Printed Brochures Available in Clinic
+Electronic Version (English)
 Statement of Reciprocal Services (UC Student Health Centers)
-</h2>
-      
-<p>The Student Health Center (SHC) at each University of California campus gladly offers reciprocal access to SHC services to currently registered students from all other UC campuses under the same conditions that apply to its own students who are not enrolled in its campus Student Health Insurance Plan (SHIP). Students enrolled in their campus SHIP may receive special discounts, benefits or services at their home campus Student Health Center. These special, campus-funded arrangements will not apply at another UC campus. Additional paperwork is required for Reciprocity students please arrive early for your appointment(s). For more information contact&nbsp;<a href="/insurance">the Student Health Insurance office.</a></p>
-
-      </div>
-
-  <div class="body-content paragraph--section" data-section-title="Patient Feedback">
-          <h2>
+The Student Health Center (SHC) at each University of California campus gladly offers reciprocal access to SHC services to currently registered students from all other UC campuses under the same conditions that apply to its own students who are not enrolled in its campus Student Health Insurance Plan (SHIP). Students enrolled in their campus SHIP may receive special discounts, benefits or services at their home campus Student Health Center. These special, campus-funded arrangements will not apply at another UC campus. Additional paperwork is required for Reciprocity students please arrive early for your appointment(s). For more information contact
+the Student Health Insurance office.
 Patient Feedback
-</h2>
-      
-<p>If you have any questions or concerns about the quality of care you have received at The Ashe Center, please submit any confidential inquiries to The Ashe Center's Clinical Coordinator, Katherine Mulligan,&nbsp;<a href="mailto:kmulligan@ashe.ucla.edu">kmulligan@ashe.ucla.edu</a>.</p>
-
-<p class="button"><a href="/patient-feedback">Submit Anonymous Patient Feedback</a></p>
-
-<p>&nbsp;</p>
-
-      </div>
-
-  <div class="body-content paragraph--section" data-section-title="Advance Directives">
-          <h2>
+If you have any questions or concerns about the quality of care you have received at The Ashe Center, please submit any confidential inquiries to The Ashe Center's Clinical Coordinator, Katherine Mulligan,
+kmulligan@ashe.ucla.edu
+.
+Submit Anonymous Patient Feedback
 Advance Directives
-</h2>
-      
-<p>An advance directive is a document by which a person makes provision for health care decisions in the event that, in the future, they become unable to make those decisions.</p>
-
-<p>There are two main types of advance directives — the “Living Will” and the “Durable Power of Attorney for Health Care.” There are also hybrid documents which combine elements of the Living Will with those of the Durable Power of Attorney.</p>
-
-<p>Students can get help with creating an Advanced Directive through Student Legal Services. Student Legal Services charges $50 for this type of consultation/assistance and students can make an appointment&nbsp;<a href="https://www.studentlegal.ucla.edu/services.php">via their website​</a>, or by calling the office at&nbsp;<a href="tel:+13108259894">(310)-825-9894</a>.</p>
-
-<p>If you chose to complete an Advanced Directive, please provide both the Ashe and&nbsp;<a href="https://www.uclahealth.org/medical-records">UCLA Health medical records</a>&nbsp;departments with a copy of the document so it can be added to your chart in both locations.</p>
-
-<p>For more information on Advance Directives, please refer to the State of California Department of Justice, Office of the Attorney General&nbsp;<a href="https://oag.ca.gov/consumers/general/care">resource page</a>.</p>
-
-      </div>
-
-  <div class="body-content paragraph--section" data-section-title="Student Health Advisory Committee (SHAC)">
-          <h2>
+An advance directive is a document by which a person makes provision for health care decisions in the event that, in the future, they become unable to make those decisions.
+There are two main types of advance directives — the “Living Will” and the “Durable Power of Attorney for Health Care.” There are also hybrid documents which combine elements of the Living Will with those of the Durable Power of Attorney.
+Students can get help with creating an Advanced Directive through Student Legal Services. Student Legal Services charges $50 for this type of consultation/assistance and students can make an appointment
+via their website​
+, or by calling the office at
+(310)-825-9894
+.
+If you chose to complete an Advanced Directive, please provide both the Ashe and
+UCLA Health medical records
+departments with a copy of the document so it can be added to your chart in both locations.
+For more information on Advance Directives, please refer to the State of California Department of Justice, Office of the Attorney General
+resource page
+.
 Student Health Advisory Committee (SHAC)
-</h2>
-      
-<p>Since the Fall of 1972, the&nbsp;<strong>Student Health Advisory Committee (SHAC)&nbsp;</strong>has served as an advocate for UCLA students, working with the Arthur Ashe Student Health and Wellness Center and UCLA’s Counseling and Psychological Services (CAPS) to ensure that student health care needs are met. The committee consists of four graduate and four undergraduate student representatives appointed by the respective student governments, as well as a non-voting administrative liaison appointed by the Ashe Center. The committee makes its recommendations to the UCLA Office of the Assistant Vice Chancellor for Student Development and the Senior Executive Director of Student Health Services.</p>
-
-<p class="button"><a href="/about/student-health-advisory-committee">Read about the Student Health Advisory Committee</a></p>
-
-<p>&nbsp;</p>
-
-      </div>
-
-
-
-
-
-
-</div>
-  </div>
-
-
-</div>
-</div>
-
-
-        <div class="page-footer-container page-footer-2-column" role="contentinfo">
-<div class="page-footer-box">
-<h2 class="h3">Contact Ashe Center</h2>
-<p>
-    <a href="https://goo.gl/maps/xLvHX7pY6TzVduS37">221 Westwood Plaza<br>
-    Los Angeles, CA 90095</a><br>
-    <a href="tel:+13108254073">310-825-4073</a><br>
-    Fax: (310) 206-8012<br>
-    <a href="/contact">Contact</a>
-</p>
-</div>
-<div class="page-footer-box">
-<h2 class="h3">Stay in the know</h2>
-<div class="social-links-container">
-  <a href="https://www.facebook.com/uclastudenthealth/"><span class="social-link-label">Facebook @uclastudenthealth</span></a>
-  <a href="https://www.instagram.com/uclaashecenter"><span class="social-link-label">Instagram @uclaashecenter</span></a>
-  <a href="https://www.linkedin.com/company/ucla-ashe-student-health-center/"><span class="social-link-label">LinkedIn @ucla-ashe-student-health-center</span></a>
-</div>
-<p>
-  <a href="/services/sydney-health-mobile-app">Sydney Health Mobile App</a>
-</p>
-</div>
-</div>
-      </div>
-</main>
-<footer>
-<div class="container">
-<nav class="nav-footer" aria-label="Footer">
-  <ul>\n  <li><a href="https://www.ucla.edu/accessibility" class="icon-ada">Accessibility</a></li>\n  <li><a href="https://www.ucla.edu/">UCLA</a></li>\n  <li><a href="https://www.studentaffairs.ucla.edu/">Student Affairs</a></li>\n  <li><a href="https://www.transportation.ucla.edu/campus-parking">Maps, Directions, Parking</a></li>\n  <li><a href="https://registrar.ucla.edu/calendars">Academic Calendar</a></li>\n  <li><a href="https://www.universityofcalifornia.edu/">University of California</a></li>\n  <li><a href="https://www.ucla.edu/terms-of-use">Terms of Use</a></li>\n</ul>
-
-</nav>
-</div>
-</footer>
-<script src="/themes/custom/ucla_sa/js/ucla_sa.js?v=a20240220144912" async></script>
-<script type="text/javascript">
-(function() {
-  if(document.querySelector('[data-ucla]')) {
-    var embed = document.createElement('script'); embed.type = 'text/javascript'; embed.async = true;
-    embed.src = '/themes/custom/ucla_sa/js/ucla_embed.js?v=20240220144912';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(embed, s);
-  }
-})();
-</script>
-</body>
-</html>
+Since the Fall of 1972, the
+Student Health Advisory Committee (SHAC)
+has served as an advocate for UCLA students, working with the Arthur Ashe Student Health and Wellness Center and UCLA’s Counseling and Psychological Services (CAPS) to ensure that student health care needs are met. The committee consists of four graduate and four undergraduate student representatives appointed by the respective student governments, as well as a non-voting administrative liaison appointed by the Ashe Center. The committee makes its recommendations to the UCLA Office of the Assistant Vice Chancellor for Student Development and the Senior Executive Director of Student Health Services.
+Read about the Student Health Advisory Committee
+Contact Ashe Center
+221 Westwood Plaza
+Los Angeles, CA 90095
+310-825-4073
+Fax: (310) 206-8012
+Contact
+Stay in the know
+Facebook @uclastudenthealth
+Instagram @uclaashecenter
+LinkedIn @ucla-ashe-student-health-center
+Sydney Health Mobile App

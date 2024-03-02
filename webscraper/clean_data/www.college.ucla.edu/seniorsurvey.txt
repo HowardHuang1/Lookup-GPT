@@ -1,338 +1,45 @@
-<!DOCTYPE html>
-<html lang="en-US" class="html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_custom html_header_sticky_disabled html_header_shrinking_disabled html_header_topbar_active html_mobile_menu_phone html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_av-submenu-hidden html_av-submenu-display-click html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_7196 av-no-preview html_text_menu_active ">
-<head>
-<meta charset="UTF-8" />
-<meta name="robots" content="index, follow" />
-
-
-<!-- mobile setting -->
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-<!-- Scripts/CSS and wp_head hook -->
-<title>Senior Survey | UCLA College &#8211; University of California, Los Angeles</title>
-<link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Senior Survey | UCLA College &raquo; Feed" href="https://www.college.ucla.edu/seniorsurvey/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Senior Survey | UCLA College &raquo; Comments Feed" href="https://www.college.ucla.edu/seniorsurvey/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Senior Survey | UCLA College &raquo; Senior Survey Comments Feed" href="https://www.college.ucla.edu/seniorsurvey/home-new/feed/" />
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.college.ucla.edu\/seniorsurvey\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.17"}};
-			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.college.ucla.edu/seniorsurvey/wp-includes/css/dist/block-library/style.min.css?ver=5.1.17' type='text/css' media='all' />
-<link rel='stylesheet' id='cntctfrm_form_style-css'  href='https://www.college.ucla.edu/seniorsurvey/wp-content/plugins/contact-form-plugin/css/form_style.css?ver=4.2.6' type='text/css' media='all' />
-<link rel='stylesheet' id='mediaelement-css'  href='https://www.college.ucla.edu/seniorsurvey/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-mediaelement-css'  href='https://www.college.ucla.edu/seniorsurvey/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.1.17' type='text/css' media='all' />
-<link rel='stylesheet' id='avia-merged-styles-css'  href='https://www.college.ucla.edu/seniorsurvey/wp-content/uploads/dynamic_avia/avia-merged-styles-cb39ad3b93d93ac8c9062609c8c4279d.css' type='text/css' media='all' />
-<script type='text/javascript' src='https://www.college.ucla.edu/seniorsurvey/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/seniorsurvey/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var gadwpUAEventsData = {"options":{"event_tracking":"1","event_downloads":"zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|jpe*g|png|gif|tiff|rar*","event_bouncerate":0,"aff_tracking":1,"event_affiliates":"\/out\/","hash_tracking":"1","root_domain":"ucla.edu","event_timeout":100,"event_precision":0,"event_formsubmit":1,"ga_pagescrolldepth_tracking":1,"ga_with_gtag":0}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://www.college.ucla.edu/seniorsurvey/wp-content/plugins/google-analytics-dashboard-for-wp/front/js/tracking-analytics-events.js?ver=5.3.7'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/seniorsurvey/wp-content/plugins/google-analytics-dashboard-for-wp/front/js/tracking-scrolldepth.js?ver=5.3.7'></script>
-<script type='text/javascript'>
-var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
-</script>
-<script type='text/javascript' src='https://www.college.ucla.edu/seniorsurvey/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/seniorsurvey/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.1.17'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var _wpmejsSettings = {"pluginPath":"\/seniorsurvey\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://www.college.ucla.edu/seniorsurvey/wp-content/themes/enfold-child/js/avia.js?ver=1'></script>
-<link rel='https://api.w.org/' href='https://www.college.ucla.edu/seniorsurvey/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.college.ucla.edu/seniorsurvey/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.college.ucla.edu/seniorsurvey/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.1.17" />
-<link rel="canonical" href="https://www.college.ucla.edu/seniorsurvey/" />
-<link rel='shortlink' href='https://www.college.ucla.edu/seniorsurvey/' />
-<link rel="alternate" type="application/json+oembed" href="https://www.college.ucla.edu/seniorsurvey/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.college.ucla.edu%2Fseniorsurvey%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.college.ucla.edu/seniorsurvey/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.college.ucla.edu%2Fseniorsurvey%2F&#038;format=xml" />
-<style>
-		#category-posts-2-internal ul {padding: 0;}
-#category-posts-2-internal .cat-post-item img {max-width: initial; max-height: initial; margin: initial;}
-#category-posts-2-internal .cat-post-author {margin-bottom: 0;}
-#category-posts-2-internal .cat-post-thumbnail {margin: 5px 10px 5px 0;}
-#category-posts-2-internal .cat-post-item:before {content: ""; clear: both;}
-#category-posts-2-internal .cat-post-excerpt-more {display: inline-block;}
-#category-posts-2-internal .cat-post-item {list-style: none; margin: 3px 0 10px; padding: 3px 0;}
-#category-posts-2-internal .cat-post-current .cat-post-title {font-weight: bold; text-transform: uppercase;}
-#category-posts-2-internal [class*=cat-post-tax] {font-size: 0.85em;}
-#category-posts-2-internal [class*=cat-post-tax] * {display:inline-block;}
-#category-posts-2-internal .cat-post-item:after {content: ""; display: table;	clear: both;}
-#category-posts-2-internal .cat-post-item .cat-post-title {overflow: hidden;text-overflow: ellipsis;white-space: initial;display: -webkit-box;-webkit-line-clamp: 2;-webkit-box-orient: vertical;padding-bottom: 0 !important;}
-#category-posts-2-internal .cat-post-item:after {content: ""; display: table;	clear: both;}
-#category-posts-2-internal .cat-post-thumbnail {display:block; float:left; margin:5px 10px 5px 0;}
-#category-posts-2-internal .cat-post-crop {overflow:hidden;display:block;}
-#category-posts-2-internal p {margin:5px 0 0 0}
-#category-posts-2-internal li > div {margin:5px 0 0 0; clear:both;}
-#category-posts-2-internal .dashicons {vertical-align:middle;}
-#category-posts-2-internal .cat-post-thumbnail .cat-post-crop img {object-fit: cover; max-width: 100%; display: block;}
-#category-posts-2-internal .cat-post-thumbnail .cat-post-crop-not-supported img {width: 100%;}
-#category-posts-2-internal .cat-post-thumbnail {max-width:100%;}
-#category-posts-2-internal .cat-post-item img {margin: initial;}
-#category-posts-3-internal ul {padding: 0;}
-#category-posts-3-internal .cat-post-item img {max-width: initial; max-height: initial; margin: initial;}
-#category-posts-3-internal .cat-post-author {margin-bottom: 0;}
-#category-posts-3-internal .cat-post-thumbnail {margin: 5px 10px 5px 0;}
-#category-posts-3-internal .cat-post-item:before {content: ""; clear: both;}
-#category-posts-3-internal .cat-post-excerpt-more {display: inline-block;}
-#category-posts-3-internal .cat-post-item {list-style: none; margin: 3px 0 10px; padding: 3px 0;}
-#category-posts-3-internal .cat-post-current .cat-post-title {font-weight: bold; text-transform: uppercase;}
-#category-posts-3-internal [class*=cat-post-tax] {font-size: 0.85em;}
-#category-posts-3-internal [class*=cat-post-tax] * {display:inline-block;}
-#category-posts-3-internal .cat-post-item:after {content: ""; display: table;	clear: both;}
-#category-posts-3-internal .cat-post-item .cat-post-title {overflow: hidden;text-overflow: ellipsis;white-space: initial;display: -webkit-box;-webkit-line-clamp: 2;-webkit-box-orient: vertical;padding-bottom: 0 !important;}
-#category-posts-3-internal .cat-post-item:after {content: ""; display: table;	clear: both;}
-#category-posts-3-internal .cat-post-thumbnail {display:block; float:left; margin:5px 10px 5px 0;}
-#category-posts-3-internal .cat-post-crop {overflow:hidden;display:block;}
-#category-posts-3-internal p {margin:5px 0 0 0}
-#category-posts-3-internal li > div {margin:5px 0 0 0; clear:both;}
-#category-posts-3-internal .dashicons {vertical-align:middle;}
-#category-posts-3-internal .cat-post-thumbnail .cat-post-crop img {height: 80px;}
-#category-posts-3-internal .cat-post-thumbnail .cat-post-crop img {width: 280px;}
-#category-posts-3-internal .cat-post-thumbnail .cat-post-crop img {object-fit: cover; max-width: 100%; display: block;}
-#category-posts-3-internal .cat-post-thumbnail .cat-post-crop-not-supported img {width: 100%;}
-#category-posts-3-internal .cat-post-thumbnail {max-width:100%;}
-#category-posts-3-internal .cat-post-item img {margin: initial;}
-</style>
-		<link rel="profile" href="http://gmpg.org/xfn/11" />
-<link rel="alternate" type="application/rss+xml" title="Senior Survey | UCLA College RSS2 Feed" href="https://www.college.ucla.edu/seniorsurvey/feed/" />
-<link rel="pingback" href="https://www.college.ucla.edu/seniorsurvey/xmlrpc.php" />
-
-<style type='text/css' media='screen'>
- #top #header_main > .container, #top #header_main > .container .main_menu  .av-main-nav > li > a, #top #header_main #menu-item-shop .cart_dropdown_link{ height:100px; line-height: 100px; }
- .html_top_nav_header .av-logo-container{ height:100px;  }
- .html_header_top.html_header_sticky #top #wrap_all #main{ padding-top:130px; } 
-</style>
-<!--[if lt IE 9]><script src="https://www.college.ucla.edu/seniorsurvey/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
-
-
-<!-- To speed up the rendering and to display the site as fast as possible to the user we include some styles and scripts for above the fold content inline -->
-<script type="text/javascript">'use strict';var avia_is_mobile=!1;if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)&&'ontouchstart' in document.documentElement){avia_is_mobile=!0;document.documentElement.className+=' avia_mobile '}
-else{document.documentElement.className+=' avia_desktop '};document.documentElement.className+=' js_active ';(function(){var e=['-webkit-','-moz-','-ms-',''],n='';for(var t in e){if(e[t]+'transform' in document.documentElement.style){document.documentElement.className+=' avia_transform ';n=e[t]+'transform'};if(e[t]+'perspective' in document.documentElement.style)document.documentElement.className+=' avia_transform3d '};if(typeof document.getElementsByClassName=='function'&&typeof document.documentElement.getBoundingClientRect=='function'&&avia_is_mobile==!1){if(n&&window.innerHeight>0){setTimeout(function(){var e=0,o={},a=0,t=document.getElementsByClassName('av-parallax'),i=window.pageYOffset||document.documentElement.scrollTop;for(e=0;e<t.length;e++){t[e].style.top='0px';o=t[e].getBoundingClientRect();a=Math.ceil((window.innerHeight+i-o.top)*0.3);t[e].style[n]='translate(0px, '+a+'px)';t[e].style.top='auto';t[e].className+=' enabled-parallax '}},50)}}})();</script>
-<!-- BEGIN ExactMetrics v5.3.7 Universal Analytics - https://exactmetrics.com/ -->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-86362239-1', 'auto');
-  ga('require', 'displayfeatures');
-  ga('send', 'pageview');
-</script>
-<!-- END ExactMetrics Universal Analytics -->
-		<style type="text/css" id="wp-custom-css">
-			/* add navigation menu arrows */
-header .menu li > a:after { content: ' ▾'; }  
-.menu li > a:only-child:after { content: ''; }
-
-nav.widget.widget_nav_menu.widget_nav_hide_child  {
-display: none !important;
-}		</style>
-		<style type='text/css'>
-@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal;
-src: url('https://www.college.ucla.edu/seniorsurvey/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot');
-src: url('https://www.college.ucla.edu/seniorsurvey/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype'), 
-url('https://www.college.ucla.edu/seniorsurvey/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff') format('woff'), 
-url('https://www.college.ucla.edu/seniorsurvey/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf') format('truetype'), 
-url('https://www.college.ucla.edu/seniorsurvey/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg');
-} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
-</style>
-
-<!--
-Debugging Info for Theme support: 
-
-Theme: Enfold
-Version: 4.5.5
-Installed: enfold
-AviaFramework Version: 5.0
-AviaBuilder Version: 0.9.5
-aviaElementManager Version: 1.0.1
-- - - - - - - - - - -
-ChildTheme: Enfold Child
-ChildTheme Version: 1.0.0
-ChildTheme Installed: enfold
-
-ML:128-PU:44-PLA:12
-WP:5.1.17
-Compress: CSS:all theme files - JS:all theme files
-Updates: disabled
-PLAu:11
--->
-</head>
-
-
-
-
-<body id="top" class="home page-template-default page page-id-7196  rtl_columns stretched helvetica-websave helvetica" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
-
-	
-	<div id='wrap_all'>
-
-	
-<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_custom av_header_sticky_disabled av_header_shrinking_disabled av_header_stretch_disabled av_mobile_menu_phone av_header_searchicon av_header_unstick_top_disabled av_seperator_big_border av_bottom_nav_disabled '  role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
-
-		<div id='header_meta' class='container_wrap container_wrap_meta  av_phone_active_right av_extra_header_active av_entry_id_7196'>
-		
-			      <div class='container'>
-			      <div class='phone-info '><span><a href="https://giveto.ucla.edu/school/college-of-letters-and-science/" target="_blank"><img alt="Give Now" style="width: 150px; position:absolute; top: 0; right: 0; z-index: 9999" src="https://www.college.ucla.edu/wp-content/uploads/2019/08/GiveNowButton-BG_2x.png"></a></span></div>			      </div>
-		</div>
-
-		<div  id='header_main' class='container_wrap container_wrap_logo'>
-	
-        <div class='container av-logo-container'><div class='inner-container'><span class='logo'><a href='https://www.college.ucla.edu/seniorsurvey/'><img height='100' width='300' src='https://www.college.ucla.edu/seniorsurvey/wp-content/uploads/2019/07/Uxd_Blk_College-e1557344896161.png' alt='Senior Survey | UCLA College' /></a></span><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul id="avia-menu" class="menu av-main-nav"><li id="menu-item-7544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7196 current_page_item menu-item-top-level menu-item-top-level-1"><a href="https://www.college.ucla.edu/seniorsurvey/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Senior Survey</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
-<li id="menu-item-7543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2"><a href="https://www.college.ucla.edu/seniorsurvey/overview/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Overview</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
-<li id="menu-item-7537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-3"><a href="https://www.college.ucla.edu/seniorsurvey/survey-results/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Survey Results</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
-
-
-<ul class="sub-menu">
-	<li id="menu-item-7542" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.college.ucla.edu/seniorsurvey/survey-results/overall-experience/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Overall Experience</span></a></li>
-	<li id="menu-item-7541" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.college.ucla.edu/seniorsurvey/survey-results/academic-experience/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Academic Experience</span></a></li>
-	<li id="menu-item-7540" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.college.ucla.edu/seniorsurvey/survey-results/student-development/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Student Development</span></a></li>
-	<li id="menu-item-7539" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.college.ucla.edu/seniorsurvey/survey-results/campus-climate/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Campus Climate</span></a></li>
-	<li id="menu-item-7538" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.college.ucla.edu/seniorsurvey/survey-results/post-graduation-plans/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Post-Graduation Plans</span></a></li>
-</ul>
-</li>
-<li id="menu-item-7554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-4"><a href="https://www.college.ucla.edu/seniorsurvey/student-quotes/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Student Quotes</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
-<li id="menu-item-7550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5"><a href="https://www.college.ucla.edu/seniorsurvey/contact-us/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Contact Us</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
-<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special">
-							<a href="?s=" rel="nofollow" data-avia-search-tooltip="
-
-&lt;form action=&quot;https://www.college.ucla.edu/seniorsurvey/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
-	&lt;div&gt;
-		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
-		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;
-			&lt;/div&gt;
-&lt;/form&gt;" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Search</span></a>
-	        		   </li><li class="av-burger-menu-main menu-item-avia-special ">
-	        			<a href="#">
-							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
-					        <span class="av-hamburger-box">
-						          <span class="av-hamburger-inner"></span>
-						          <strong>Menu</strong>
-					        </span>
-							</span>
-						</a>
-	        		   </li></ul></div></nav></div> </div> 
-		<!-- end container_wrap-->
-		</div>
-		<div class='header_bg'></div>
-
-<!-- end header -->
-</header>
-		
-	<div id='main' class='all_colors' data-scroll-offset='0'>
-
-	<div class='stretch_full container_wrap alternate_color light_bg_color title_container'><div class='container'><h1 class='main-title entry-title'><a href='https://www.college.ucla.edu/seniorsurvey/' rel='bookmark' title='Permanent Link: Senior Survey'  itemprop="headline" >Senior Survey</a></h1></div></div><div  class='main_color container_wrap_first container_wrap fullsize' style=' '  ><div class='container' ><main  role="main" itemprop="mainContentOfPage"  class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-7196'><div class='entry-content-wrapper clearfix'><div  data-size='featured'  data-lightbox_size='large'  data-animation='slide'  data-conditional_play=''  data-ids='7490'  data-video_counter='0'  data-autoplay='false'  data-bg_slider='false'  data-slide_height=''  data-handle='av_slideshow'  data-interval='5'  data-class=' avia-builder-el-0  el_before_av_section  avia-builder-el-no-sibling   '  data-css_id=''  data-scroll_down=''  data-control_layout='av-control-default'  data-custom_markup=''  data-perma_caption=''  data-autoplay_stopper=''  data-image_attachment=''  data-min_height='0px'  data-default-height='28.666666666667'  class='avia-slideshow avia-slideshow-1  av-control-default av-default-height-applied avia-slideshow-featured av_slideshow  avia-builder-el-0  el_before_av_section  avia-builder-el-no-sibling    avia-slide-slider '  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" ><ul class='avia-slideshow-inner ' style='padding-bottom: 28.677685950413%;' ><li  class=' av-single-slide slide-1 ' ><div data-rel='slideshow-1' class='avia-slide-wrap '   ><img src='https://www.college.ucla.edu/seniorsurvey/wp-content/uploads/2020/01/powell_stairs.png' width='1210' height='347' title='powell_stairs' alt=''  itemprop="thumbnailUrl"   /></div></li></ul></div>
-</div></div></main><!-- close content main element --></div></div><div id='true-next' class='avia-section main_color avia-section-no-padding avia-no-border-styling avia-bg-style-scroll  avia-builder-el-1  el_after_av_slideshow  el_before_av_textblock   av-minimum-height av-minimum-height-custom container_wrap fullsize' style=' '  ><div class='container' style='height:5px'><div class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-7196'><div class='entry-content-wrapper clearfix'>
-<div style='padding-bottom:10px; ' class='av-special-heading av-special-heading-h1  blockquote modern-quote  avia-builder-el-2  avia-builder-el-no-sibling   '><h1 class='av-special-heading-tag '  itemprop="headline"  ><span>The UCLA College of Letters and Science  <br /> Reflecting on the UCLA Experience</span></h1><div class='special-heading-border'><div class='special-heading-inner-border' ></div></div></div>
-</div></div></div><!-- close content main div --></div></div><div id='after_section_1' class='main_color av_default_container_wrap container_wrap fullsize' style=' '  ><div class='container' ><div class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-7196'><div class='entry-content-wrapper clearfix'>
-<section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  '   itemprop="text" ><p>In Spring 2023, all seniors in the UCLA College of Letters and Science were asked to complete a survey on their experiences at the university. The survey explored students’ views regarding their studies, lives on campus, and plans after graduation. Approximately 6,070 College seniors responded to the survey, representing approximately 82 percent of the graduating class.</p>
-<p>This website features some of the main results of the survey.</p>
-<p>Our goal is to ensure that the findings of this senior survey, and those that will follow, will help shape the UCLA experience for many generations of Bruins.</p>
-<p>Adriana Galván<br />
-Dean of Undergraduate Education</p>
-</div></section>
-</div></div></div><!-- close content main div --> <!-- section close by builder template -->		</div><!--end builder template--></div><!-- close default .container_wrap element -->						<div class='container_wrap footer_color' id='footer'>
-
-					<div class='container'>
-
-						<div class='flex_column av_one_fifth  first el_before_av_one_fifth'><section id="text-2" class="widget clearfix widget_text">			<div class="textwidget"><p><img class="alignnone wp-image-6734" src="https://www.college.ucla.edu/wp-content/uploads/2019/07/logo-white.png" alt="" width="209" height="46" /></p>
-<p>1309 Murphy Hall<br />
-Box 951413<br />
-Los Angeles, CA 90095-1413</p>
-<p>(t) (310) 206-1953<br />
-(f) (310) 267-2343</p>
-</div>
-		<span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fifth  el_after_av_one_fifth  el_before_av_one_fifth '><section id="nav_menu-2" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">Information</h3><div class="menu-footer-column-2-container"><ul id="menu-footer-column-2" class="menu"><li id="menu-item-6770" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6770"><a href="http://www.directory.ucla.edu/">Directory</a></li>
-<li id="menu-item-6771" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6771"><a href="https://www.registrar.ucla.edu/Calendars/Annual-Academic-Calendar">Academic Calendar</a></li>
-<li id="menu-item-6772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6772"><a href="https://hr.mycareer.ucla.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1564692562300">Careers</a></li>
-</ul></div><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fifth  el_after_av_one_fifth  el_before_av_one_fifth '><section id="nav_menu-3" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">Getting Around</h3><div class="menu-footer-column-3-container"><ul id="menu-footer-column-3" class="menu"><li id="menu-item-6751" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6751"><a href="https://map.ucla.edu/">Maps &#038; Directions</a></li>
-<li id="menu-item-6752" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6752"><a href="https://transportation.ucla.edu/campus-parking">Parking</a></li>
-<li id="menu-item-6753" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6753"><a href="https://transportation.ucla.edu/getting-around-campus/bruinbus">Campus Shuttles</a></li>
-<li id="menu-item-6754" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6754"><a href="https://transportation.ucla.edu/getting-to-ucla/public-transit">Public Transit</a></li>
-</ul></div><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fifth  el_after_av_one_fifth  el_before_av_one_fifth '><section id="nav_menu-4" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">Connect</h3><div class="menu-footer-column-4-container"><ul id="menu-footer-column-4" class="menu"><li id="menu-item-6755" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6755"><a href="http://www.ucla.edu/alumni">Alumni</a></li>
-<li id="menu-item-6756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6756"><a href="http://www.ucla.edu/students/prospective-students">Prospective Students</a></li>
-<li id="menu-item-6757" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6757"><a href="http://www.ucla.edu/students/current-students">Current Students</a></li>
-<li id="menu-item-6758" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6758"><a href="http://www.ucla.edu/parents-and-families">Parents &#038; Families</a></li>
-<li id="menu-item-6759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6759"><a href="https://www.ucla.edu/academics/faculty">Faculty</a></li>
-<li id="menu-item-6760" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6760"><a href="https://campusservices.ucla.edu/">Staff</a></li>
-<li id="menu-item-6761" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6761"><a href="http://newsroom.ucla.edu/media-contacts-at-ucla">Media &#038; Journalists</a></li>
-</ul></div><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fifth  el_after_av_one_fifth  el_before_av_one_fifth '><section id="nav_menu-5" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">UCLA College</h3><div class="menu-footer-column-5-container"><ul id="menu-footer-column-5" class="menu"><li id="menu-item-6764" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6764"><a href="https://lettherebe.ucla.edu/">Centennial Campaign</a></li>
-<li id="menu-item-6765" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6765"><a href="https://www.college.ucla.edu/seniorsurvey/news/">College News</a></li>
-<li id="menu-item-6766" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6766"><a href="https://www.college.ucla.edu/seniorsurvey/college-magazine/">College Magazine</a></li>
-<li id="menu-item-6767" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6767"><a href="https://www.college.ucla.edu/seniorsurvey/commencement/">Commencement</a></li>
-<li id="menu-item-6762" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6762"><a href="https://www.college.ucla.edu/seniorsurvey/academics/departments-and-programs/">Departments &#038; Programs</a></li>
-<li id="menu-item-6763" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6763"><a href="https://giveto.ucla.edu/school/college-of-letters-and-science/">Giving</a></li>
-<li id="menu-item-6768" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-6768"><a href="http://www.college.ucla.edu/seniorsurvey/" aria-current="page">Senior Survey</a></li>
-<li id="menu-item-6769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6769"><a href="https://www.college.ucla.edu/seniorsurvey/contact/">Contact UCLA College</a></li>
-</ul></div><span class="seperator extralight-border"></span></section></div>
-
-					</div>
-
-
-				<!-- ####### END FOOTER CONTAINER ####### -->
-				</div>
-
-	
-
-
-			
-
-			
-				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
-                    <div class='container'>
-
-                        <span class='copyright'></span>
-
-                        
-                    </div>
-<div style="padding-top: 25px;" class="container">
-	<div style="float: left; text-align: left;">© Copyright 2024 UCLA - <a href="/wp-admin">Login</a></div><div style="float: right; text-align: right"><a style="margin-right: 25px;" href="http://www.ucla.edu/terms-of-use">Terms of Use</a> <a style="margin-right: 25px;" href="http://www.ucla.edu/accessibility">Accessibility</a></div>
-</div>
-	            <!-- ####### END SOCKET CONTAINER ####### -->
-				</footer>
-
-
-					<!-- end main -->
-		</div>
-		
-		<!-- end wrap_all --></div>
-
-<a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Scroll to top</span></a>
-
-<div id="fb-root"></div>
-
-
- <script type='text/javascript'>
- /* <![CDATA[ */  
-var avia_framework_globals = avia_framework_globals || {};
-    avia_framework_globals.frameworkUrl = 'https://www.college.ucla.edu/seniorsurvey/wp-content/themes/enfold/framework/';
-    avia_framework_globals.installedAt = 'https://www.college.ucla.edu/seniorsurvey/wp-content/themes/enfold/';
-    avia_framework_globals.ajaxurl = 'https://www.college.ucla.edu/seniorsurvey/wp-admin/admin-ajax.php';
-/* ]]> */ 
-</script>
- 
- <script type='text/javascript' src='https://www.college.ucla.edu/seniorsurvey/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.1.17'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/seniorsurvey/wp-includes/js/wp-embed.min.js?ver=5.1.17'></script>
-<script type='text/javascript' src='https://www.college.ucla.edu/seniorsurvey/wp-content/uploads/dynamic_avia/avia-footer-scripts-dca7e71accc26f012943c133bc3dc84b.js'></script>
-</body>
-</html>
+Senior Survey | UCLA College – University of California, Los Angeles
+Senior Survey
+The UCLA College of Letters and Science
+Reflecting on the UCLA Experience
+In Spring 2023, all seniors in the UCLA College of Letters and Science were asked to complete a survey on their experiences at the university. The survey explored students’ views regarding their studies, lives on campus, and plans after graduation. Approximately 6,070 College seniors responded to the survey, representing approximately 82 percent of the graduating class.
+This website features some of the main results of the survey.
+Our goal is to ensure that the findings of this senior survey, and those that will follow, will help shape the UCLA experience for many generations of Bruins.
+Adriana Galván
+Dean of Undergraduate Education
+1309 Murphy Hall
+Box 951413
+Los Angeles, CA 90095-1413
+(t) (310) 206-1953
+(f) (310) 267-2343
+Information
+Directory
+Academic Calendar
+Careers
+Getting Around
+Maps & Directions
+Parking
+Campus Shuttles
+Public Transit
+Connect
+Alumni
+Prospective Students
+Current Students
+Parents & Families
+Faculty
+Staff
+Media & Journalists
+UCLA College
+Centennial Campaign
+College News
+College Magazine
+Commencement
+Departments & Programs
+Giving
+Senior Survey
+Contact UCLA College
+© Copyright 2024 UCLA -
+Login
+Terms of Use
+Accessibility
+Scroll to top

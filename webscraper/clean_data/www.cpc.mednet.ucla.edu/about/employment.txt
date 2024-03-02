@@ -1,416 +1,76 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
-  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-<html lang="en" dir="ltr"
-  xmlns:og="http://ogp.me/ns#"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/terms/"
-  xmlns:foaf="http://xmlns.com/foaf/0.1/"
-  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xmlns:sioc="http://rdfs.org/sioc/ns#"
-  xmlns:sioct="http://rdfs.org/sioc/types#"
-  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-<head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortcut icon" href="https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
-<meta name="description" content="Explore exciting career opportunities at the UCLA Center for Prehospital Care, the premier emergency and prehospital academic center on the West Coast. Whether you&#039;re an experienced EMS educator or looking to start a fulfilling journey, we offer part-time and full-time positions at every teaching level. Contribute to shaping the EMS workforce, enhance your clinical skills, and" />
-<meta name="abstract" content="Unlock a rewarding career at the forefront of EMS education with the UCLA Center for Prehospital Care. As a leading academic center on the West Coast, we offer diverse opportunities for EMS educators committed to making a difference. Join us part-time or full-time, contribute to the next generation of EMS professionals, and elevate your own skills and knowledge. Enjoy flexible schedules, outstanding benefits, and continuous professional development. Explore our available positions, apply online, and shape the future of emergency and prehospital care with us." />
-<meta name="keywords" content="EMS Educator Jobs, Part-Time Instructor Positions, Full-Time Career Opportunities, Emergency Medicine Careers, Prehospital Education Positions, Clinical Instructor Jobs, UCLA Center for Prehospital Care, EMS Work-Study Positions, Medical Education Jobs, Health Science Instructor Roles." />
-<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
-<link rel="canonical" href="https://www.cpc.mednet.ucla.edu/about/employment" />
-<link rel="shortlink" href="https://www.cpc.mednet.ucla.edu/node/85" />
-<meta property="og:site_name" content="UCLA CPC" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.cpc.mednet.ucla.edu/about/employment" />
-<meta property="og:title" content="Jobs at the Center" />
-<meta property="og:description" content="You chose your profession because you want to make a difference. Now you can make an even greater one by teaching your skills and knowledge to others who share the same values and passion. No matter what your specialty, we offer an incredible range of opportunities for an EMS Educator. We are the UCLA Center for Prehospital Care, the leading emergency and prehospital academic center on the West Coast. We are committed to improving the practice of EMS and have consolidated prehospital education, research, and system development into one major academic center." />
-<meta property="og:updated_time" content="2023-12-05T09:16:56-08:00" />
-<meta property="article:published_time" content="2014-11-03T17:39:35-08:00" />
-<meta property="article:modified_time" content="2023-12-05T09:16:56-08:00" />
-  <title>Jobs at the Center | UCLA CPC</title>
-  <style>
-@import url("https://www.cpc.mednet.ucla.edu/modules/system/system.base.css?s8lm5r");
-</style>
-<style>
-@import url("https://www.cpc.mednet.ucla.edu/modules/field/theme/field.css?s8lm5r");
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/filebrowser/css/filebrowser_style.css?s8lm5r");
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/views/css/views.css?s8lm5r");
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ckeditor/css/ckeditor.css?s8lm5r");
-</style>
-<style>
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ctools/css/ctools.css?s8lm5r");
-</style>
-<link type="text/css" rel="stylesheet" href="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.css?s8lm5r" media="all" />
-<style>
-@import url("https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/css/style.css?s8lm5r");
-</style>
-  <!-- HTML5 element support for IE6-8 -->
-  <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_YndZxdyT8-8LUpZC5MssOCg5j7KN4UJGOzCX7A0hGKI.js"></script>
-<script src="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.js?s8lm5r"></script>
-<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_sGFJ0aln9SHwpHdKSzoE8Cdcd6RIMEIfIGrifGaUeBw.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cpc_bootstrap","theme_token":"Xt5A5AvCvQ-LF1D0rZMqi28g2zxDJ3T7BnmxIK9BoTE","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"https:\/\/code.jquery.com\/jquery-3.7.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/contrib\/popup\/popup.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/cpc_bootstrap\/cpc_js.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/filebrowser\/css\/filebrowser_style.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/popup\/popup.css":1,"sites\/all\/themes\/cpc_bootstrap\/css\/style.css":1}},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":250,"delay":0},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
-      </head>
-<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-85 node-type-cpc-page" >
-  <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-  </div>
-    
-
-<style>
-.navbar-default {
-    background-color: #000000;
-}
-.navbar-default .navbar-nav > li > a:hover,
-.navbar-default .navbar-nav > li > a:focus {
-  color: #ffb300;
-  background-color: transparent;
-}
-.login-header, .login-header a
-	{ color: white; }
-.login-header a:hover, .login-header a:active, .login-header a:visited
-	{ color: #ffffff; }
-.msg-button, .msg-button a
-	{ color: white; }
-.msg-button a:hover, .msg-button a:active, .msg-button a:visited
-	{ color: #ffffff; }
-.hp_quicklinks {
-	color: #00a5e5;
-	}
-.hp_quicklinks a, .hp_quicklinks a:hover, .hp_quicklinks a:active, .hp_quicklinks a:visited {
-	color: #ffb300;
-}
-.row div.featureslot {
-	padding:2em;
-}
-.node-cpc-page div.content {
-  overflow: visible;
-}
-@media (max-width: 768px) {
-  .row div.featureslot {
-	padding-top:1em;
-	padding-bottom:1em;
-  }
-}
-</style>
-<header id="navbar" role="banner">
-	<div class="container containerlogin">
-		<div class="row" style="margin-top:0px; margin-bottom:0px; background-color: #666666;">
-			<div class="login-header pull-right" style="display: inline; background-color: #00a5e5; padding:10px;">
-				<!-- AJAX Replaces here	-->
-				[ Login / Register ] <span class="glyphicon glyphicon-shopping-cart"></span> 0  items in cart
-			</div>
-			<div class="pull-left hp_quicklinks" style="display: inline; padding:10px;"><p>
-	&nbsp; &nbsp;</p>
-</div>
-		</div>
-	</div>
-  <div class="containernavbar container navbar-default">
-    <div class="navbar-header">
-      				<a class="logo navbar-btn pull-left" href="/" title="Home">
-					<img src="https://www.cpc.mednet.ucla.edu/sites/default/files/images/cpc_logo-323x32.png" alt="Home" id="logo" class="img-responsive" />
-				</a>
-      
-      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-    </div>
-
-          <div class="navbar-collapse collapse">
-        <nav role="navigation">
-                      <ul class="menu nav navbar-nav"><li class="first expanded dropdown"><a href="/cpc/course-listings" title="Our Courses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Courses <span class="caret"></span></a><ul class="dropdown-menu"><li class="first collapsed"><a href="/emt-courses">EMT</a></li>
-<li class="collapsed"><a href="/paramedic-courses">Paramedic</a></li>
-<li class="leaf"><a href="/content/licensed-phlebotomist-course">Licensed Phlebotomist</a></li>
-<li class="expanded"><a href="/aha-courses">BLS, ACLS &amp; PALS</a></li>
-<li class="expanded"><a href="/cpr-first-aid-courses">CPR &amp; First Aid</a></li>
-<li class="last collapsed"><a href="/trauma-courses">Trauma &amp; NAEMT Courses</a></li>
-</ul></li>
-<li class="expanded dropdown"><a href="/students" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Students <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/services/payment-methods">Payment Methods</a></li>
-<li class="leaf"><a href="/services/payment-plan">Payment Plan</a></li>
-<li class="leaf"><a href="/services/refunds-transfers">Refunds &amp; Transfers</a></li>
-<li class="leaf"><a href="/services/transcripts">Transcripts</a></li>
-<li class="leaf"><a href="/services/financial-aid">Scholarships</a></li>
-<li class="leaf"><a href="/veterans">Veteran&#039;s Assistance Benefits</a></li>
-<li class="leaf"><a href="/services/students-with-disabilities">Educational Accommodations</a></li>
-<li class="last leaf"><a href="/services/college-credit">College Credit &amp; CEUs</a></li>
-</ul></li>
-<li class="expanded dropdown"><a href="/services" title="Services for agencies, hospitals, and businesses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/fdqi" title="node/572">Fire Department Quality Improvement</a></li>
-<li class="last leaf"><a href="/international">International</a></li>
-</ul></li>
-<li class="last expanded active-trail dropdown"><a href="/content/about-us" class="active-trail dropdown-toggle" data-target="#" data-toggle="dropdown">About Us <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/about/contact">Contact Us</a></li>
-<li class="leaf"><a href="/giving">Giving</a></li>
-<li class="leaf"><a href="/content/ucla-center-prehospital-care-strategic-plan">Strategic Plan</a></li>
-<li class="leaf"><a href="/about/leadership">Leadership</a></li>
-<li class="leaf"><a href="/diversity-resources">Equity, Diversity &amp; Inclusion</a></li>
-<li class="leaf"><a href="/about/history">Our History</a></li>
-<li class="leaf active-trail active"><a href="/about/employment" class="active-trail active">Jobs at the Center</a></li>
-<li class="last leaf"><a href="https://www.uclahealth.org/privacy-practices" title="">Privacy Practices</a></li>
-</ul></li>
-</ul>                                      </nav>
-      </div>
-      </div>
-	
-<!--
-	<div class="container">
-		<ol class="breadcrumb"><li class="first"><a href="/content/about-us" class="active-trail">About Us</a></li>
-<li class="active last">Jobs at the Center</li>
-</ol>	</div>
--->
-	</header>
-
-<div class="main-container container">
-
-  <header role="banner" id="page-header">
-    
-      </header> <!-- /#page-header -->
-
-  <div class="row">
-
-    <div class="col-sm-9 xcol-sm-push-3 col-md-float-right">
-            <a id="main-content"></a>
-            <!--
-			        <h1 class="page-header">Jobs at the Center</h1>
-      			-->
-			<!--------------------->
-							<h1 class="page-header">Jobs at the Center</h1>
-					<!--–– SECTION HIDDEN UNIVERSAL INFO AREA ––-->
-				<!--------------------->
-
-	                                      		</div>
-		
-          <div class="col-sm-3 xcol-sm-pull-9 col-md-float-left" role="complementary">
-          <div class="region region-sidebar-first">
-    <div id="block-menu-block-7" class="block block-menu-block">
-
-    <h2 class="block-title">About Us</h2>
-  
-  <div class="content">
-    <div class="menu-block-wrapper menu-block-7 menu-name-main-menu parent-mlid-888 menu-level-1">
-  <ul class="menu nav"><li class="first leaf menu-mlid-1476"><a href="/about/contact">Contact Us</a></li>
-<li class="leaf menu-mlid-3372"><a href="/giving">Giving</a></li>
-<li class="leaf menu-mlid-4770"><a href="/content/ucla-center-prehospital-care-strategic-plan">Strategic Plan</a></li>
-<li class="leaf menu-mlid-2282"><a href="/about/leadership">Leadership</a></li>
-<li class="leaf menu-mlid-3377"><a href="/diversity-resources">Equity, Diversity &amp; Inclusion</a></li>
-<li class="leaf menu-mlid-1406"><a href="/about/history">Our History</a></li>
-<li class="leaf active-trail active menu-mlid-1618 active"><a href="/about/employment" class="active-trail active">Jobs at the Center</a></li>
-<li class="last leaf menu-mlid-4767"><a href="https://www.uclahealth.org/privacy-practices" title="">Privacy Practices</a></li>
-</ul></div>
-  </div>
-</div>
-  </div>
-      </div>  <!-- /#sidebar-first -->
-    		
-    <div class="col-sm-9 xcol-sm-push-3 col-md-float-right">
-        <div class="region region-content">
-    <div id="block-system-main" class="block block-system">
-
-    
-  <div class="content">
-    <div id="node-85" class="node node-cpc-page clearfix" about="/about/employment" typeof="sioc:Item foaf:Document">
-
-	<!--
-  	-->
-      <span property="dc:title" content="Jobs at the Center" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
-  <div class="content">
-    
-		<!--
-					<h1 class="page-header">Jobs at the Center</h1>
-				-->
-		
-		<!--
-This file is not used by Drupal core, which uses theme functions instead.
-See http://api.drupal.org/api/function/theme_field/7 for details.
-After copying this file to your theme's folder and customizing it, remove this
-HTML comment.
--->
-          <p>
-	You chose your profession because you want to make a difference. Now you can make an even greater one by teaching your skills and knowledge to others who share the same values and passion. No matter what your specialty, we offer an incredible range of opportunities for an EMS Educator.</p>
-<p>
-	We are the UCLA Center for Prehospital Care, the leading emergency and prehospital academic center on the West Coast. We are committed to improving the practice of EMS and have consolidated prehospital education, research, and system development into one major academic center.&nbsp; Every day we go to work, we teach people to save lives.&nbsp;</p>
-<p>
-	We offer part-time employment opportunities and full-time career positions. We have opportunities at every teaching level. A minimum of six months to one year of clinical experience is required for most part-time per diem Clinical Instructor positions. Teaching experience is preferred (but not required) for our entry-level clinical instructor positions. Our part-time per diem positions are flexible with convenient schedules that allow instructors to&nbsp;work around other current commitments.</p>
-<p>
-	As instructors, our employees also have the opportunity to:</p>
-<ul>
-<li>
-		maintain and enhance their current skill set or acquire new skills</li>
-<li>
-		receive the latest information on current and new EMS education requirements</li>
-<li>
-		help educate and train the next generation of the EMS workforce</li>
-<li>
-		improve their own clinical skills competency&nbsp;by instructing others</li>
-<li>
-		continue their professional development on sponsorship to obtain and&nbsp;maintain ACLS, PALS, PHTLS and BLS provider and instructor certifications and attend&nbsp;our other courses</li>
-</ul>
-<p>
-	Career employees also enjoy UCLA's outstanding benefits package that includes medical, dental, and vision insurance. Full-time employees are eligible for over 3 weeks combined of paid holiday and vacation days and a two-thirds UCLA tuition reduction program available after 6 months of continuous service.</p>
-<h2>
-	<a name="open_positions"></a>How to Apply</h2>
-<p>
-	To apply for any of our positions, please click the link for the position title below, and follow the instructions on the next page. For part-time per-diem positions, you will apply through UCLA's online application systems. For full-time positions, we may also request a resume and cover letter to our Human Resources Manager.</p>
-<h3>
-	Full-Time Positions - Department of Emergency Medicine</h3>
-<p class="rteindent1" style="margin-top:10px;">
-	<a href="https://www.uclahealthcareers.org/job/18642496/junior-fund-manager-los-angeles-ca/" target="_blank">Junior Fund Manager</a><br />
-	<a href="https://www.uclahealthcareers.org/job/18453228/staff-research-associate-i-los-angeles-ca/" target="_blank">Staff Research Associate I</a><br />
-	<a href="https://www.uclahealthcareers.org/job/18634410/project-manager-los-angeles-ca/" target="_blank">Project Manager</a></p>
-<h3>
-	Full-Time Positions - UCLA Center for Prehospital Care</h3>
-<p class="rteindent1" style="margin-top:10px;">
-	<a href="https://uclahealth.avature.net/careers/JobDetail/EMS-Program-Faculty-Paramedic/7921" target="_blank">EMS Program Faculty - Paramedic</a><br />
-	<a href="https://uclahealth.avature.net/careers/JobDetail/EMS-Program-Faculty-EMT/7922" target="_blank">EMS Program Faculty - EMT</a></p>
-<h3>
-	Per-Diem Positions - Department of Emergency Medicine</h3>
-<p class="rteindent1" style="margin-top:10px;">
-	No current openings.</p>
-<h3>
-	Per-Diem Positions - UCLA Center for Prehospital Care</h3>
-<p class="rteindent1" style="margin-top:10px;">
-	<a href="https://uclahealth.avature.net/careers/JobDetail/ACLS-PALS-and-or-NRP-Clinical-Instructor-Per-Diem/2846" target="_blank">ACLS, PALS, NRP Clinical Instructor</a><br />
-	<a href="https://www.uclahealthcareers.org/job/18006841/bls-instructor-per-diem-los-angeles-ca/" target="_blank">BLS Instructor</a><br />
-	<a href="https://www.uclahealthcareers.org/job/18061670/emt-clinical-instructor-ii-per-diem-los-angeles-ca/" target="_blank">EMT Clinical Instructor II</a><br />
-	<a href="https://www.uclahealthcareers.org/job/19517042/fire-department-nurse-educator-los-angeles-ca/" target="_blank">FIRE Department and Law Enforcement EMS Educator</a><br />
-	<a href="https://www.uclahealthcareers.org/job/18369902/paramedic-clinical-instructor-per-diem-los-angeles-ca/" target="_blank">Paramedic Clinical Instructor</a><br />
-	<a href="https://www.uclahealthcareers.org/job/18046703/phlebotomy-skills-instructor-los-angeles-ca/" target="_blank">Phlebotomy Skills Instructor</a></p>
-<!-- 
-<p class="rteindent1"><p>	<a href="https://www.uclahealthcareers.org/job/16336882/acls-pals-and-or-nrp-clinical-instructor-per-diem-los-angeles-ca/" target="_blank">ACLS/PALS/NRP CLINICAL INSTRUCTOR</a><br />
-	<a href="https://www.uclahealthcareers.org/job/13523097/bls-instructor-per-diem-los-angeles-ca/" target="_blank">BLS INSTRUCTOR</a><br />
-	<a href="https://www.uclahealthcareers.org/job/16488728/emt-clinical-instructor-ii-per-diem-los-angeles-ca/" target="_blank">EMT CLINICAL INSTRUCTOR II</a><br />
-	<a href="https://www.uclahealthcareers.org/job/13523096/fire-department-quality-improvement-educator-los-angeles-ca/" target="_blank">FIRE DEPARTMENT AND LAW ENFORCEMENT EMS EDUCATOR</a><br />
-	<a href="https://www.uclahealthcareers.org/job/14924331/paramedic-clinical-instructor-per-diem-los-angeles-ca/" target="_blank">PARAMEDIC CLINICAL INSTRUCTOR</a><br />
-	<a href="https://www.uclahealthcareers.org/job/12402742/phlebotomy-skills-instructor-los-angeles-ca/" target="_blank">PHLEBOTOMY SKILLS INSTRUCTOR</a></p>
-<p>--></p>
-<h2>
-	Work-Study Positions</h2>
-<p>
-	Students! We are often hiring UCLA work-study students. If you would like to learn more about emergency medicine and prehospital care while working, check out our work-study listings. You can find our work-study job listings by signing in to <a href="https://my.ucla.edu/" target="_blank">MyUCLA</a> and clicking Finances and Jobs -&gt; Jobs and Community -&gt; Work-Study Job Search. Sort the list by department and look for “Center for Prehospital Care.”<o:p></o:p></p>
-<p>
-	</p>
-<!-- <a href="https://www.uclahealthcareers.org/job/8584501/paramedic-clinical-instructor-per-diem-westwood-ca/" target="_blank">Paramedic Clinical Instructor</a></p> --></p>
-<p>
-	&nbsp;</p>
-    		
-  </div>
-
-    		
-</div>
-  </div>
-</div>
-  </div>
-    </div>
-
-    
-  </div>
-</div>
-<footer class="footer container">
-	
-	<div class="col-sm-3">
-      <div class="region region-footer-left">
-    <div id="block-block-2" class="block block-block">
-
-    
-  <div class="content">
-    <ul class="footer-menu footer-menu-left">
-<li>
-		<span style="color:#00a5e5;">Resources</span></li>
-<li>
-		<a href="https://www.cpc.mednet.ucla.edu/pcrf/">PCRF</a></li>
-<li>
-		<a href="/about/contact">Contact</a></li>
-<li>
-		<a href="https://vipcpc1.ad.medctr.ucla.edu/portal">Portal</a></li>
-<li>
-		<a href="https://www.cpc.mednet.ucla.edu/SRRS/Staff/StaffMain.aspx">SRRS Staff Page</a></li>
-<li>
-		<a href="/associates">Associate Resources</a></li>
-</ul>
-  </div>
-</div>
-  </div>
-	</div>
-	<div class="col-sm-6">
-      <div class="region region-footer-middle">
-    <div id="block-block-1" class="block block-block">
-
-    
-  <div class="content">
-    <ul class="footer-menu footer-menu-center-left">
-<li>
-		<a href="/courses">Courses</a></li>
-<li>
-		<a href="/emt">EMT</a></li>
-<li>
-		<a href="/paramedic">Paramedic</a></li>
-<li>
-		<a href="/lifesupport">CPR, ACLS, PALS</a></li>
-<li>
-		<a href="/course/phlebotomy">Phlebotomy</a></li>
-<li>
-		<a href="/course/phtls">Trauma</a></li>
-</ul>
-<ul class="footer-menu footer-menu-center-center">
-<li>
-		<a href="/students">Students</a></li>
-<li>
-		<a href="/services/payment-methods">Payment Methods</a></li>
-<li>
-		<a href="/services/financial-aid">Financial Aid</a></li>
-<li>
-		<a href="/services/books">Books</a></li>
-<li>
-		<a href="/services/transcripts">Transcripts</a></li>
-</ul>
-<ul class="footer-menu footer-menu-center-right">
-<li>
-		<a href="/about">About Us</a></li>
-<li>
-		<a href="/about/contact">Contact</a></li>
-<li>
-		<a href="/giving">Giving</a></li>
-<li>
-		<a href="/about/leadership">Leadership</a></li>
-<li>
-		<a href="/diversity-resources">Equity, Diversity<br />
-		&amp; Inclusion</a></li>
-<li>
-		<a href="/about/history">Our History</a></li>
-<li>
-		<a href="/about/employment">Jobs at CPC</a></li>
-<li>
-		<a href="https://www.uclahealth.org/privacy-notice">Privacy Practices</a></li>
-</ul>
-  </div>
-</div>
-  </div>
-	</div>
-	<div class="col-sm-3">
-      <div class="region region-footer-right">
-    <div id="block-block-4" class="block block-block">
-
-    
-  <div class="content">
-    <div style="width:185px; xmargin:20px auto;">
-	<a href="http://www.facebook.com/uclacpc"><img class="img-responsive" src="/sites/all/themes/cpc_bootstrap/theme_images/facebookIcon-240.png" style="display: inline-block; margin: 5px; max-width:120px;" /></a><!--<img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-FB.png" style="display: inline-block; margin: 5px;" /> <img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-LI.png" style="display: inline-block; margin: 5px;" /><img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-YT.png" style="display: inline-block; margin: 5px;" /> --> <a href="https://www.instagram.com/uclacpc/" target="_blank"><img src="/sites/default/files/icons/instagram_glyph_color.png" style="display: inline-block; max-height: 40px; max-width: 40px; " /></a></div>
-  </div>
-</div>
-  </div>
-	</div>
-	<div class="col-sm-12 footer-bottom">
-		<div style="text-align: center; border-top: 1px solid #777;display:none;">
-		<a href="">Privacy</a> | <a href="">Terms</a>
-		</div>
-	</div>
-</footer>
-  	  <script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
-<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=29&cb=1851018475" async></script></body>
-</html>
+Jobs at the Center | UCLA CPC
+Skip to main content
+[ Login / Register ]
+0  items in cart
+Toggle navigation
+Jobs at the Center
+About Us
+Contact Us
+Giving
+Strategic Plan
+Leadership
+Equity, Diversity & Inclusion
+Our History
+Jobs at the Center
+Privacy Practices
+You chose your profession because you want to make a difference. Now you can make an even greater one by teaching your skills and knowledge to others who share the same values and passion. No matter what your specialty, we offer an incredible range of opportunities for an EMS Educator.
+We are the UCLA Center for Prehospital Care, the leading emergency and prehospital academic center on the West Coast. We are committed to improving the practice of EMS and have consolidated prehospital education, research, and system development into one major academic center.  Every day we go to work, we teach people to save lives.
+We offer part-time employment opportunities and full-time career positions. We have opportunities at every teaching level. A minimum of six months to one year of clinical experience is required for most part-time per diem Clinical Instructor positions. Teaching experience is preferred (but not required) for our entry-level clinical instructor positions. Our part-time per diem positions are flexible with convenient schedules that allow instructors to work around other current commitments.
+As instructors, our employees also have the opportunity to:
+maintain and enhance their current skill set or acquire new skills
+receive the latest information on current and new EMS education requirements
+help educate and train the next generation of the EMS workforce
+improve their own clinical skills competency by instructing others
+continue their professional development on sponsorship to obtain and maintain ACLS, PALS, PHTLS and BLS provider and instructor certifications and attend our other courses
+Career employees also enjoy UCLA's outstanding benefits package that includes medical, dental, and vision insurance. Full-time employees are eligible for over 3 weeks combined of paid holiday and vacation days and a two-thirds UCLA tuition reduction program available after 6 months of continuous service.
+How to Apply
+To apply for any of our positions, please click the link for the position title below, and follow the instructions on the next page. For part-time per-diem positions, you will apply through UCLA's online application systems. For full-time positions, we may also request a resume and cover letter to our Human Resources Manager.
+Full-Time Positions - Department of Emergency Medicine
+Junior Fund Manager
+Staff Research Associate I
+Project Manager
+Full-Time Positions - UCLA Center for Prehospital Care
+EMS Program Faculty - Paramedic
+EMS Program Faculty - EMT
+Per-Diem Positions - Department of Emergency Medicine
+No current openings.
+Per-Diem Positions - UCLA Center for Prehospital Care
+ACLS, PALS, NRP Clinical Instructor
+BLS Instructor
+EMT Clinical Instructor II
+FIRE Department and Law Enforcement EMS Educator
+Paramedic Clinical Instructor
+Phlebotomy Skills Instructor
+Work-Study Positions
+Students! We are often hiring UCLA work-study students. If you would like to learn more about emergency medicine and prehospital care while working, check out our work-study listings. You can find our work-study job listings by signing in to
+MyUCLA
+and clicking Finances and Jobs -> Jobs and Community -> Work-Study Job Search. Sort the list by department and look for “Center for Prehospital Care.”
+Resources
+PCRF
+Contact
+Portal
+SRRS Staff Page
+Associate Resources
+Courses
+EMT
+Paramedic
+CPR, ACLS, PALS
+Phlebotomy
+Trauma
+Students
+Payment Methods
+Financial Aid
+Books
+Transcripts
+About Us
+Contact
+Giving
+Leadership
+Equity, Diversity
+& Inclusion
+Our History
+Jobs at CPC
+Privacy Practices
+Privacy
+|
+Terms

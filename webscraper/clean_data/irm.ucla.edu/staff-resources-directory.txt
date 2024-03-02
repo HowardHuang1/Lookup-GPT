@@ -1,637 +1,183 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
-  <head>
-    <meta charset="utf-8" />
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-45095774-6"></script>
-<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-45095774-6", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path","allow_ad_personalization_signals":false});gtag("config", "G-GSXHPRPV6G", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location","allow_ad_personalization_signals":false});</script>
-<meta name="description" content="General Program Questions General Questions: info@irm.ucla.edu Patient Care, Medical Malpractice, Credentialing: riskmanagement@mednet.ucla.edu Employee Disability Management Services: RTWmail@irm.ucla.edu Ergonomics: contact@ergonomics.ucla.edu General Liability: glreports@irm.ucla.edu Trave" />
-<link rel="canonical" href="https://irm.ucla.edu/staff-resources-directory" />
-<meta property="og:site_name" content="Insurance &amp; Risk Management" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://irm.ucla.edu/staff-resources-directory" />
-<meta property="og:title" content="Staff &amp; Resources Directory" />
-<meta property="og:description" content="General Program Questions General Questions: info@irm.ucla.edu Patient Care, Medical Malpractice, Credentialing: riskmanagement@mednet.ucla.edu Employee Disability Management Services: RTWmail@irm.ucla.edu Ergonomics: contact@ergonomics.ucla.edu General Liability: glreports@irm.ucla.edu Trave" />
-<meta property="article:published_time" content="2017-04-05T15:16:00-07:00" />
-<meta property="article:modified_time" content="2024-02-08T13:13:24-08:00" />
-<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
-<meta name="MobileOptimized" content="width" />
-<meta name="HandheldFriendly" content="true" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-<meta http-equiv="apple-mobile-web-app-capable" content="yes" />
-<link rel="icon" href="/themes/custom/siteden_surface/favicon.ico" type="image/vnd.microsoft.icon" />
-
-    <title>Staff &amp; Resources Directory | Insurance &amp; Risk Management</title>
-    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_axm7Ko1pzLoRJzH2wYLAOPoijg26yKz6KoNvQ4lnPyU.css" />
-<link rel="stylesheet" media="all" href="/sites/default/files/css/css_xy0iCAxfsah3jM-FB2kxWhdbaS4uOp-9RRgy03HeOLA.css" />
-
-    
-  </head>
-  <body class="path-node page-node-type-sf-page node-446">
-    <a class="skip-to-main-button" href="#main-content" role="link" aria-label="Skip to main content">Skip to Main Content</a>
-    
-      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
-    
-    <div class="region region-message" aria-label="message">
-    <div data-drupal-messages-fallback class="hidden"></div>
-
-  </div>
-
-
-<header id="header">
-        <div class="region region-university-header" aria-label="university_header">
-    
-<div class="header-logo">
-  <div class="header-logo__wrap">
-    <a href="https://www.ucla.edu/">
-      <img class="header-logo__image" src="/themes/custom/siteden_surface/assets/images/surface-images/logo-ucla.svg" alt="UCLA Logo" />
-    </a>
-
-      </div>
-</div>
-
-
-  </div>
-
-  
-  <div class="header-wrap">
-      <div class="region region-header" aria-label="header">
-    
-<div id="block-siteden-surface-branding" class="block block-system block-system-branding-block">
-    
-    
-    
-<div class="site-name clearfix">
-    <a href="/" title="Home" rel="home">Insurance &amp; Risk Management</a>
-</div>
-
-</div>
-
-  </div>
-
-      <div class="region region-navigation header__navbar" id="nav-main">
-    <nav role="navigation" aria-labelledby="block-siteden-surface-main-menu-menu" id="block-siteden-surface-main-menu" class="nav-primary block block-menu navigation menu--main">
-            
-  <h2 class="visually-hidden" id="block-siteden-surface-main-menu-menu">Main navigation</h2>
-  
-
-        
-
-<ul region="navigation" class="nav-primary__list">
-
-      <li class="is-expanded has-children">
-    <a href="">Insurance Programs</a>
-          <button class="nav-primary__toggle" aria-label="toggle button to access submenu"></button>
-      <ul region="navigation" class="nav-primary__sublist">
-
-      <li>
-    <a href="/general-liability/auto-property-damage-insurance" data-drupal-link-system-path="node/166">Auto</a>
-      </li>
-      <li>
-    <a href="/cyber-insurance" data-drupal-link-system-path="node/186">Cyber</a>
-      </li>
-      <li>
-    <a href="/general-liability/new-primary-event-insurance-coverage-for-campus-fundraising-events" data-drupal-link-system-path="node/216">Donor Homes</a>
-      </li>
-      <li>
-    <a href="/drone-insurance" data-drupal-link-system-path="node/561">Drones</a>
-      </li>
-      <li>
-    <a href="/employment-practices-liability-insurance" data-drupal-link-system-path="node/566">Employment Practices Liability</a>
-      </li>
-      <li>
-    <a href="/general-liability/fine-arts-insurance" data-drupal-link-system-path="node/126">Fine Arts</a>
-      </li>
-      <li>
-    <a href="/general-liability" data-drupal-link-system-path="node/71">General Liability</a>
-      </li>
-      <li>
-    <a href="/general-liability/marine-insurance" data-drupal-link-system-path="node/171">Marine</a>
-      </li>
-      <li>
-    <a href="/general-liability/property-insurance-programs-at-ucla" data-drupal-link-system-path="node/156">Property</a>
-      </li>
-      <li>
-    <a href="https://ucla.campusconnexionsuc.com/">Registered Campus Organizations</a>
-      </li>
-      <li>
-    <a href="/travel-insurance" data-drupal-link-system-path="node/226">Travel Insurance</a>
-      </li>
-      <li>
-    <a href="/general-liability/university-of-california-vendor-and-service-provider-requirements" data-drupal-link-system-path="node/101">Vendors</a>
-      </li>
-
-</ul>
-
-      </li>
-      <li class="is-expanded has-children">
-    <a href="/workers-comp" data-drupal-link-system-path="node/1">Workers&#039; Comp</a>
-          <button class="nav-primary__toggle" aria-label="toggle button to access submenu"></button>
-      <ul region="navigation" class="nav-primary__sublist">
-
-      <li>
-    <a href="/workers-comp/injury-at-work" data-drupal-link-system-path="node/6">What To Do When There Is An Injury At Work</a>
-      </li>
-      <li>
-    <a href="/workers-comp/what-is-workers-compensation" title="What is Workers&#039; Compensation?" data-drupal-link-system-path="node/16">What Is Workers&#039; Comp</a>
-      </li>
-      <li>
-    <a href="/workers-comp/covid19wcguidelines" data-drupal-link-system-path="node/616">COVID-19 Reporting Guidelines and FAQ</a>
-      </li>
-      <li>
-    <a href="/workers-comp/FAQ" data-drupal-link-system-path="node/21">Workers&#039; Comp FAQs</a>
-      </li>
-      <li>
-    <a href="/workers-comp/UCPath-Leave-Instructions-for-Workers-Compensation%E2%80%93Employee-Off-Work-For-A-Work-Related-Injury" data-drupal-link-system-path="node/536">UCPath Leave Entry Instructions - When Employee Is Off Work</a>
-      </li>
-      <li>
-    <a href="/workers-comp/pharmacy-benefit-network" data-drupal-link-system-path="node/46">Workers&#039; Comp Pharmacy Benefit Network</a>
-      </li>
-      <li>
-    <a href="/workers-comp/if-you-suspect-fraud" data-drupal-link-system-path="node/26">What To Do When You Suspect Fraud</a>
-      </li>
-      <li>
-    <a href="/workers-comp/important-addresses-telephone-numbers" data-drupal-link-system-path="node/31">Important Workers&#039; Comp Contact Information</a>
-      </li>
-
-</ul>
-
-      </li>
-      <li class="is-expanded has-children">
-    <a href="/disability-mgt" data-drupal-link-system-path="node/61">Disability Mgt</a>
-          <button class="nav-primary__toggle" aria-label="toggle button to access submenu"></button>
-      <ul region="navigation" class="nav-primary__sublist">
-
-      <li>
-    <a href="/disability-mgt" data-drupal-link-system-path="node/61">Disability Accommodation Services</a>
-      </li>
-      <li>
-    <a href="https://ucla.box.com/v/reasonable-accomm-request-form">Reasonable Accommodation Request Form</a>
-      </li>
-      <li>
-    <a href="/e-course-reasonable-accommodations-and-interactive-process" data-drupal-link-system-path="node/636">e-Course: Reasonable Accommodation &amp; Interactive Process (60 minutes)</a>
-      </li>
-      <li>
-    <a href="https://www.transportation.ucla.edu/getting-around-campus/bruinaccess">BruinAccess - Paratransit Services</a>
-      </li>
-
-</ul>
-
-      </li>
-      <li>
-    <a href="/contracts" data-drupal-link-system-path="node/556">Contracts</a>
-      </li>
-      <li>
-    <a href="/general-liability/liability-waivers" data-drupal-link-system-path="node/151">Waivers</a>
-      </li>
-      <li>
-    <a href="/finance" data-drupal-link-system-path="node/261">Finance</a>
-      </li>
-      <li>
-    <a href="/uc-ready" data-drupal-link-system-path="node/296">UC Ready</a>
-      </li>
-      <li class="is-expanded has-children">
-    <a href="https://www.ergonomics.ucla.edu/">Ergonomics</a>
-          <button class="nav-primary__toggle" aria-label="toggle button to access submenu"></button>
-      <ul region="navigation" class="nav-primary__sublist">
-
-      <li>
-    <a href="https://www.ergonomics.ucla.edu/">Ergonomics Program </a>
-      </li>
-      <li>
-    <a href="https://goo.gl/forms/mfpk0MPSjcsZNrGl1">Evaluation Requests</a>
-      </li>
-      <li>
-    <a href="https://www.ergonomics.ucla.edu/programs/cost-sharing">Cost Sharing </a>
-      </li>
-      <li>
-    <a href="https://www.ergonomics.ucla.edu/injury-prevention/break-reminder-software">Break Reminder Software – RSIGuard </a>
-      </li>
-
-</ul>
-
-      </li>
-      <li class="is-expanded has-children">
-    <a href="https://www.irm.ucla.edu/workers-comp/what-to-do-when-a-volunteer-reports-an-injury">Volunteers</a>
-          <button class="nav-primary__toggle" aria-label="toggle button to access submenu"></button>
-      <ul region="navigation" class="nav-primary__sublist">
-
-      <li>
-    <a href="https://www.irm.ucla.edu/workers-comp/what-to-do-when-a-volunteer-reports-an-injury">What to Do When a Volunteer Reports an Injury </a>
-      </li>
-      <li>
-    <a href="https://www.irm.ucla.edu/general-liability/insurance-coverage-types-for-ucla-volunteers">Insurance Coverage Types for UCLA Volunteers </a>
-      </li>
-      <li>
-    <a href="https://www.irm.ucla.edu/general-liability/how-to-reduce-volunteer-claims-costs">How to Reduce Volunteer Claims Costs </a>
-      </li>
-      <li>
-    <a href="https://www.irm.ucla.edu/general-liability/liability-coverage-for-ucla-volunteers">Liability Coverage for UCLA Volunteers </a>
-      </li>
-      <li>
-    <a href="https://ucla.box.com/s/effk2mgw2n7dymg0zqcfsdhk418843po">Volunteer Election of Workers&#039; Compensation Coverage</a>
-      </li>
-      <li>
-    <a href="https://ucla.box.com/s/kaajixkrl4tvsp00el3a0bs84xvwitx2">Volunteer Guidelines and Application </a>
-      </li>
-      <li>
-    <a href="https://www.irm.ucla.edu/how-add-contingent-worker-ucpath">How To Add A Contingent Worker/Volunteer to UCPath</a>
-      </li>
-
-</ul>
-
-      </li>
-      <li>
-    <a href="/workers-comp/injury-prevention-committee-ipc" title="Injury Prevention Committee (IPC)" data-drupal-link-system-path="node/41">Injury Prevention Committee</a>
-      </li>
-
-</ul>
-
-
-
-  </nav>
-
-<button id="search-button" aria-label="toggle button to access search form" class="search-bar__button">
-  <svg role="img" aria-hidden="true" class="nav-primary__search-icon" width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Search Icon</title>
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-      <g transform="translate(-15.000000, -15.000000)">
-        <g id="Nav-Item">
-          <g transform="translate(12.000000, 12.000000)">
-            <polygon class="Path-polygon" points="0 0 24 0 24 24 0 24"></polygon>
-            <path d="M15.5,14 L14.71,14 L14.43,13.73 C15.41,12.59 16,11.11 16,9.5 C16,5.91 13.09,3 9.5,3 C5.91,3 3,5.91 3,9.5 C3,13.09 5.91,16 9.5,16 C11.11,16 12.59,15.41 13.73,14.43 L14,14.71 L14,15.5 L19,20.49 L20.49,19 L15.5,14 Z M9.5,14 C7.01,14 5,11.99 5,9.5 C5,7.01 7.01,5 9.5,5 C11.99,5 14,7.01 14,9.5 C14,11.99 11.99,14 9.5,14 Z" fill="#00598C" fill-rule="evenodd"></path>
-          </g>
-        </g>
-      </g>
-    </g>
-  </svg>
-</button>
-
-<div id="block-search" role="search" class="search-bar">
-<form region="navigation" class="search-bar__form" action="/search/google" method="get" id="search-block-form" accept-charset="UTF-8">
-  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
-      <label for="edit-keys" class="visually-hidden">Search the site:</label>
-        <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" placeholder="Search …" required="required" class="search-bar__input form-search" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" />
-
-        </div>
-<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" class="btn search-bar__submit button js-form-submit form-submit" type="submit" id="edit-submit" value="Search" />
-</div>
-
-</form>
-
-</div>
-
-  </div>
-
-    <div class="hamburger__container">
-
-<button id="primary-ham" class="hamburger" type="button" aria-label="toggle button to access navigation and search" title="navigation and search">
-  <span class="hamburger__box">
-    <span class="hamburger__inner"></span>
-  </span>
-</button>
-
-</div>
-  </div>
-</header>
-
-<main id="main-content" tabindex="-1">
-
-  
-      <div class="layout__container">
-      
-    </div>
-  
-  
-  <div class="layout__container layout--default     ">
-          <div class="layout__title">
-          <div class="region region-title" aria-label="title">
-    
-<div id="block-siteden-surface-breadcrumbs" class="block block-system block-system-breadcrumb-block">
-    
-    
-            <ul class="breadcrumb">
-                <li class="breadcrumb__item breadcrumb__item--first">
-                    <a href="/">Home</a>
-            </li>
-      </ul>
-
-  </div>
-
-<div id="block-siteden-surface-page-title--2" class="block block-core block-page-title-block">
-    
-    
-        
-  <h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Staff &amp; Resources Directory</span>
-</h1>
-
-
-  </div>
-
-  </div>
-
-      </div>
-    
-    <div class="layout__content">
-        <div class="region region-content" aria-label="content">
-    
-<div id="block-siteden-surface-content" class="block block-system block-system-main-block panel">
-    
-    
-        
-<article role="article" about="/staff-resources-directory" class="node node--type-sf-page node--view-mode-full">
-
-  
-    
-
-  
-  <div class="node__content">
-    
-      <div class="field field--name-field-sf-content field--type-entity-reference-revisions field--label-hidden field__items">
-              <div class="field__item">  <div class="paragraph paragraph--type--sf-section paragraph--view-mode--default">
-            <div class="layout layout--onecol">
-    <div  class="layout__region layout__region--content">
-        <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
-          
-            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><h2>General Program Questions</h2>
-
-<ul><li>General Questions: <a href="mailto:info@irm.ucla.edu">info@irm.ucla.edu</a></li>
-	<li>Patient Care, Medical Malpractice, Credentialing: <span><a href="mailto:riskmanagement@mednet.ucla.edu">riskmanagement@mednet.ucla.edu</a></span></li>
-	<li>Employee Disability Management Services: <a href="mailto:RTWmail@irm.ucla.edu">RTWmail@irm.ucla.edu</a></li>
-	<li>Ergonomics: <a href="mailto:contact@ergonomics.ucla.edu">contact@ergonomics.ucla.edu</a></li>
-	<li>General Liability: <a href="mailto:glreports@irm.ucla.edu">glreports@irm.ucla.edu</a></li>
-	<li>Travel Insurance and Registration Questions: <span><span><span><a href="mailto:UCLAtravelalerts@irm.ucla.edu?subject=Travel%20Insurance">UCLAtravelalerts@irm.ucla.edu</a></span></span></span></li>
-	<li>Workers' Compensation: <a href="mailto:WCmail@irm.ucla.edu%20">WCmail@irm.ucla.edu</a></li>
-</ul><h2>Director</h2>
-
-<p><strong><span>Malilay, Dean</span></strong><br />
-Director<br /><a href="mailto:dmalilay@irm.ucla.edu"><span>dmalilay@irm.ucla.edu</span></a><br />
-(310) 794-8013</p>
-
-<p><strong>Arlen, Phebe</strong><br />
-Assistant to the Director<br /><a href="mailto:pjarlen@finance.ucla.edu">pjarlen@finance.ucla.edu</a><br />
-(310) 794-6948</p>
-
-<h2>Workers’ Compensation:</h2>
-
-<p><strong><span>Cumpian, Dianna</span></strong><br />
-Workers' Compensation Program Manager<br /><a href="mailto:dcumpian@irm.ucla.edu"><span>dcumpian@irm.ucla.edu</span></a><br />
-(310) 794-6954</p>
-
-<p><strong><span>Sehgal, Ranjeet</span></strong><br />
-Workers' Compensation &amp; Safety Analyst<br /><a href="mailto:RSehgal@irm.ucla.edu"><span>rsehgal@irm.ucla.edu</span></a><br />
-(310) 794-2153</p>
-
-<p><strong><span>Nersisyan, Oksana</span></strong><br />
-Workers’ Compensation Program Analyst<br /><a href="mailto:onersisyan@irm.ucla.edu">onersisyan@irm.ucla.edu</a><br />
-(310) 794-6952</p>
-
-<p><strong><span>Barrera, Karen</span></strong><br />
-Risk Control Administrator<br /><a href="mailto:kbarrera@irm.ucla.edu"><span>kbarrera@irm.ucla.edu</span></a><br />
-(310) 794-5311</p>
-
-<h2>Finance:</h2>
-
-<p><strong><span>Ryan, John</span></strong><br />
-Chief Financial Officer<br /><a href="mailto:jryan@irm.ucla.edu"><span>jryan@irm.ucla.edu</span></a><br />
-(310) 794-6949</p>
-
-<h2>General &amp; Employment Liability, Auto &amp; Property:</h2>
-
-<p><strong>Wang, Julia</strong><br />
-General Liability Program Manager<br /><a href="mailto:jwang@irm.ucla.edu">jwang@irm.ucla.edu </a><br /><span><span>(310) 794-6950</span></span></p>
-
-<p><strong>Eckstine, Cynthia</strong><br />
-Real Estate Contract Specialist<br /><a href="mailto:ceckstine@irm.ucla.edu">ceckstine@irm.ucla.edu</a><br />
-(310) 794-2154</p>
-
-<p><strong>Berkovits, Neil</strong><br />
-Risk Administrator<br /><a href="mailto:nberkovits@irm.ucla.edu">nberkovits@irm.ucla.edu</a><br />
-(310) 794-6956</p>
-
-<p><strong><span><span><span>Barbeaux</span></span>, <span><span>Roc</span>í<span>o</span></span></span></strong><br />
-EPL Risk Analyst<br /><a href="mailto:rbarbeaux@irm.ucla.edu">rbarbeaux@irm.ucla.edu</a><br /><span><span>424-259-5532</span></span></p>
-
-<h2>Business Continuity:</h2>
-
-<p><strong><span>Brown, Tara</span></strong><br />
-Senior Business Continuity Planner<br /><a href="mailto:tbrown@irm.ucla.edu"><span>tbrown@irm.ucla.edu</span></a><br />
-(310) 794-9423</p>
-
-<h2>Employee Disability Management:</h2>
-
-<p><strong><span>Frohrip, Shelly</span></strong><br />
-Disability Management Program Manager<br /><a href="mailto:sfrohrip@irm.ucla.edu">sfrohrip@irm.ucla.edu</a><br />
-(424) 259-5242</p>
-
-<p><strong><span>Baker-Mason, Mauricio</span></strong><br />
-Disability Management Consultant<br /><a href="mailto:mmason@irm.ucla.edu"><span>mmason@irm.ucla.edu</span></a><br />
-(310) 794-6955</p>
-
-<p><strong><span>Bebe, Irma</span></strong><br />
-Disability Management Consultant<br /><a href="mailto:ibebe@irm.ucla.edu"><span>ibebe@irm.ucla.edu</span></a><br />
-(310) 794-6951</p>
-
-<p><strong><span>Bloom, Kate</span></strong><br />
-Disability Management Consultant<br /><a href="mailto:kbloom@irm.ucla.edu"><span>kbloom@irm.ucla.edu</span></a><br />
-(310) 794-5254</p>
-
-<p><strong><span>Maier, John</span></strong><br />
-Employee Placement Specialist<br /><a href="mailto:jmaier@irm.ucla.edu"><span>jmaier@irm.ucla.edu</span></a><br />
-(310) 794-9439</p>
-
-<p><strong><span>LaPalm, Monique</span></strong><br />
-Disability Management Consultant<br /><a href="mailto:mlapalm@irm.ucla.edu"><span>mlapalm@irm.ucla.edu</span></a><br />
-(310) 794-2146</p>
-
-<p><strong><span>Raphael, Mieko</span></strong><br />
-Disability Management Assistant<br /><a href="mailto:mraphael@irm.ucla.edu">mraphael@irm.ucla.edu</a><br /><span><span>(310) 794-6953<strong> </strong></span></span></p>
-
-<p><strong>Walker, Sheridan</strong><br />
-Disability Management Consultant<br /><a href="mailto:swalker@irm.ucla.edu">swalker@irm.ucla.edu</a><br />
-(424) 259-5099</p>
-
-<p><strong><span>Arnush, Ruth</span></strong><br />
-Disability Management<br /><a href="mailto:ararnush@irm.ucla.edu"><span>rarnush@irm.ucla.edu</span></a><br />
-(310) 206-9599</p>
-
-<h2>Ergonomics:</h2>
-
-<p><strong>Ozamoto, Michael</strong><br />
-Ergonomics Program Manager<br /><a href="mailto:mozamoto@irm.ucla.edu">mozamoto@irm.ucla.edu</a><br />
-(310) 901-3920</p>
-
-<p><strong>Alma Garcia</strong><br />
-Ergonomics Specialist<br /><a href="mailto:agarcia@irm.ucla.edu" target="_blank">agarcia@irm.ucla.edu</a><br />
-(310) 825-0536</p>
-
-<p><strong>Lin, Yensen</strong><br />
-Sr. Ergonomics Specialist<br /><a href="mailto:ylin@irm.ucla.edu">ylin@irm.ucla.edu</a><br />
-(310) 206-4189</p>
-
-<p><strong>Robles, Alfredo</strong><br />
-Ergonomics Specialist<br /><a href="mailto:arobles@irm.ucla.edu">arobles@irm.ucla.edu</a><br />
-(310) 794-5590</p>
-
-<h2>Safety &amp; Risk Control:</h2>
-
-<p><strong><span>Wilson, Jerry</span></strong><br />
-Safety Specialist<br /><a href="mailto:jwilson@irm.ucla.edu"><span>jwilson@irm.ucla.edu</span></a><br />
-(310) 794-8505</p>
-
-<p><strong><span>Lilley, Lynette</span></strong><br />
-Risk Control Specialist<br /><a href="mailto:llilley@irm.ucla.edu"><span>llilley@irm.ucla.edu</span></a><br />
-(310) 794-8501</p>
-
-<h2>Patient Care, Medical Malpractice, Credentialing:</h2>
-
-<p><span><strong>UCLA Health Office of Risk Management</strong><br />
-(310) 794-3501<br />
-(310) 794-3313 (Fax)<br /><a href="mailto:riskmanagement@mednet.ucla.edu">riskmanagement@mednet.ucla.edu</a></span></p>
-
-<h2>Departmental Contact Information:</h2>
-
-<p><strong><span>Insurance &amp; Risk Management</span></strong><br />
-Ste 600, UCLA Wilshire Center<br />
-(310) 794-6948<br />
-(310) 794-6957 (Fax)<br />
-mail code: 135248<br />
-adm code: 3315</p>
-
-<p><strong><span>Emergency Medical Center</span></strong><br />
-757 Westwood Plaza, ER entrance Gayley Ave, north of Le Conte<br />
-(310) 267-8400</p>
-
-<p><strong><span>UCLA Occupational Health</span></strong><br />
-17-240 CHS 10833 Le Conte Ave<br />
-(310) 825-6771</p>
-
-<p><strong><span>Environment, Health &amp; Safety</span></strong><br />
-501 Westwood Plaza, 4th Floor<br />
-(310) 825-5689<br />
-(310) 825-7076 (Fax)</p>
-
-<p><strong><span>Sedgwick CMS</span></strong><br />
-P.O. Box 14533, Lexington, KY 40512-4533<br />
-(858) 636-6200</p></div>
-      
-      </div>
-
-    </div>
-  </div>
-
-      </div>
-</div>
-          </div>
-  
-  </div>
-
-</article>
-
-  </div>
-
-  </div>
-
-    </div>
-
-    
-      </div>
-</main>
-
-
-<div class="footer__dept" aria-label="Department footer" role="contentinfo">
-  <div class="layout__container">
-
-    
-      <div class="footer__dept--left">  <div class="region region-footer" aria-label="footer">
-    <div id="block-bbfooterlogo" class="o-media branding">
-      
-        
-              <div class="o-media__figure branding__figure">
-        <a class="link-img" href="/"><img alt="Site logo" src="https://live-ucla-siteden-irm.pantheonsite.io/sites/default/files/2020-11/Uxd_Wht_IRM.svg" /></a>
-      </div>
-          </div>
-
-<div id="block-footercontactinfo" class="block block-block-content block-block-content304746e4-bdb7-45fe-b3ce-9b1d1e91f17e block-type--sf_basic">
-    
-    
-        
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>10920 Wilshire Boulevard, Suite 620<br />
-Los Angeles, CA 90024</p>
-
-<p>Phone: (310) 794-6948<br />
-Fax: (310) 794-6957</p></div>
-      
-  </div>
-
-  </div>
-</div>
-      <div class="footer__dept--right">
-        <nav role="navigation" aria-labelledby="-menu" class="l-footer__menu o-flex-region block block-menu navigation menu--">
-            
-  <h2 class="visually-hidden" id="-menu"></h2>
-  
-
-        
-<div id="block-contactus" class="block block-block-content block-block-contentcdc5ad40-71de-492b-a611-bfd12312d630 block-type--sf_basic">
-    
-    
-        
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a href="https://www.irm.ucla.edu/staff-resources-directory">Contact Us</a></p></div>
-      
-  </div>
-
-<div id="block-officehours" class="block block-block-content block-block-content6f73d32d-6a6a-4d8b-989a-efbcabff59cb block-type--sf_basic">
-    
-    
-        
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Office Hours</p>
-
-<p>Monday – Friday 8 a.m. to 5 p.m.<br />
-Saturday &amp; Sunday Closed</p></div>
-      
-  </div>
-
-  </nav>
-
-        
-      </div>
-
-    
-  </div>
-</div>
-<div class="layout__container global-foot" aria-label="Global footer" role="contentinfo">
-  <div class="global-foot__wrapper">
-    <div class="social-links-container">
-      <a class="social-icon" href="https://www.facebook.com/UCLA/"><span class="social-icon--facebook"></span><span class="visuallyhidden">Facebook</span></a>
-      <a href="https://www.instagram.com/ucla/"><span class="social-icon--instagram"></span><span class="visuallyhidden">Instagram</span></a>
-      <a href="https://www.linkedin.com/school/ucla"><span class="social-icon--linkedin"></span><span class="visuallyhidden">Linked</span></a>
-      <a href="https://twitter.com/ucla"><span class="social-icon--twitter"></span><span class="visuallyhidden">Twitter</span></a>
-      <a href="https://www.youtube.com/user/UCLA"><span class="social-icon--youtube"></span><span class="visuallyhidden">Youtube</span></a>
-      <a href="https://www.tiktok.com/@ucla?lang=en"><span class="social-icon--tiktok"></span><span class="visuallyhidden">TikTok</span></a>
-      <a href="https://story.snapchat.com/@uclaofficial"><span class="social-icon--snapchat"></span><span class="visuallyhidden">Snapchat</span></a>
-    </div>
-
-    <div class="global-foot__legal">
-
-      <p class="global-foot__legal--copyright">&copy; 2024 Regents of the <a class="copy__link-a dark" href="http://www.universityofcalifornia.edu/">University of California</a></p>
-
-      <ul class="global-foot__legal--list">
-        <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="https://www.bso.ucla.edu/">Emergency</a></li>
-        <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="https://www.ucla.edu/accessibility">Accessibility</a></li>
-        <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="https://www.ucla.edu/terms-of-use/">Privacy &amp; Terms of Use</a></li>
-      </ul>
-
-    </div>
-  </div>
-</div>
-
-
-  </div>
-
-    
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/446","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-45095774-6","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"googleCSE":{"cx":"006855704751877854816:sjz_rhaa1ws","language":"en","resultsWidth":0,"domain":"irm.ucla.edu","isDefault":true},"ajaxTrustedUrl":{"\/search\/google":true},"user":{"uid":0,"permissionsHash":"7f3ceba98d0238bee8f3d17047f9bcd3accfcd4348c0f65c4d8cf5137659208d"}}</script>
-<script src="/sites/default/files/js/js_t499oj5rM6uySO0pS6yCOGg9aSuMcNRz1adtpa2ABxU.js"></script>
-
-  </body>
-</html>
+Staff & Resources Directory | Insurance & Risk Management
+Skip to Main Content
+Insurance & Risk Management
+Search Icon
+Search the site:
+Home
+Staff & Resources Directory
+General Program Questions
+General Questions:
+info@irm.ucla.edu
+Patient Care, Medical Malpractice, Credentialing:
+riskmanagement@mednet.ucla.edu
+Employee Disability Management Services:
+RTWmail@irm.ucla.edu
+Ergonomics:
+contact@ergonomics.ucla.edu
+General Liability:
+glreports@irm.ucla.edu
+Travel Insurance and Registration Questions:
+UCLAtravelalerts@irm.ucla.edu
+Workers' Compensation:
+WCmail@irm.ucla.edu
+Director
+Malilay, Dean
+Director
+dmalilay@irm.ucla.edu
+(310) 794-8013
+Arlen, Phebe
+Assistant to the Director
+pjarlen@finance.ucla.edu
+(310) 794-6948
+Workers’ Compensation:
+Cumpian, Dianna
+Workers' Compensation Program Manager
+dcumpian@irm.ucla.edu
+(310) 794-6954
+Sehgal, Ranjeet
+Workers' Compensation & Safety Analyst
+rsehgal@irm.ucla.edu
+(310) 794-2153
+Nersisyan, Oksana
+Workers’ Compensation Program Analyst
+onersisyan@irm.ucla.edu
+(310) 794-6952
+Barrera, Karen
+Risk Control Administrator
+kbarrera@irm.ucla.edu
+(310) 794-5311
+Finance:
+Ryan, John
+Chief Financial Officer
+jryan@irm.ucla.edu
+(310) 794-6949
+General & Employment Liability, Auto & Property:
+Wang, Julia
+General Liability Program Manager
+jwang@irm.ucla.edu
+(310) 794-6950
+Eckstine, Cynthia
+Real Estate Contract Specialist
+ceckstine@irm.ucla.edu
+(310) 794-2154
+Berkovits, Neil
+Risk Administrator
+nberkovits@irm.ucla.edu
+(310) 794-6956
+Barbeaux
+,
+Roc
+í
+o
+EPL Risk Analyst
+rbarbeaux@irm.ucla.edu
+424-259-5532
+Business Continuity:
+Brown, Tara
+Senior Business Continuity Planner
+tbrown@irm.ucla.edu
+(310) 794-9423
+Employee Disability Management:
+Frohrip, Shelly
+Disability Management Program Manager
+sfrohrip@irm.ucla.edu
+(424) 259-5242
+Baker-Mason, Mauricio
+Disability Management Consultant
+mmason@irm.ucla.edu
+(310) 794-6955
+Bebe, Irma
+Disability Management Consultant
+ibebe@irm.ucla.edu
+(310) 794-6951
+Bloom, Kate
+Disability Management Consultant
+kbloom@irm.ucla.edu
+(310) 794-5254
+Maier, John
+Employee Placement Specialist
+jmaier@irm.ucla.edu
+(310) 794-9439
+LaPalm, Monique
+Disability Management Consultant
+mlapalm@irm.ucla.edu
+(310) 794-2146
+Raphael, Mieko
+Disability Management Assistant
+mraphael@irm.ucla.edu
+(310) 794-6953
+Walker, Sheridan
+Disability Management Consultant
+swalker@irm.ucla.edu
+(424) 259-5099
+Arnush, Ruth
+Disability Management
+rarnush@irm.ucla.edu
+(310) 206-9599
+Ergonomics:
+Ozamoto, Michael
+Ergonomics Program Manager
+mozamoto@irm.ucla.edu
+(310) 901-3920
+Alma Garcia
+Ergonomics Specialist
+agarcia@irm.ucla.edu
+(310) 825-0536
+Lin, Yensen
+Sr. Ergonomics Specialist
+ylin@irm.ucla.edu
+(310) 206-4189
+Robles, Alfredo
+Ergonomics Specialist
+arobles@irm.ucla.edu
+(310) 794-5590
+Safety & Risk Control:
+Wilson, Jerry
+Safety Specialist
+jwilson@irm.ucla.edu
+(310) 794-8505
+Lilley, Lynette
+Risk Control Specialist
+llilley@irm.ucla.edu
+(310) 794-8501
+Patient Care, Medical Malpractice, Credentialing:
+UCLA Health Office of Risk Management
+(310) 794-3501
+(310) 794-3313 (Fax)
+riskmanagement@mednet.ucla.edu
+Departmental Contact Information:
+Insurance & Risk Management
+Ste 600, UCLA Wilshire Center
+(310) 794-6948
+(310) 794-6957 (Fax)
+mail code: 135248
+adm code: 3315
+Emergency Medical Center
+757 Westwood Plaza, ER entrance Gayley Ave, north of Le Conte
+(310) 267-8400
+UCLA Occupational Health
+17-240 CHS 10833 Le Conte Ave
+(310) 825-6771
+Environment, Health & Safety
+501 Westwood Plaza, 4th Floor
+(310) 825-5689
+(310) 825-7076 (Fax)
+Sedgwick CMS
+P.O. Box 14533, Lexington, KY 40512-4533
+(858) 636-6200
+10920 Wilshire Boulevard, Suite 620
+Los Angeles, CA 90024
+Phone: (310) 794-6948
+Fax: (310) 794-6957
+Facebook
+Instagram
+Linked
+Twitter
+Youtube
+TikTok
+Snapchat
+© 2024 Regents of the
+University of California
+Emergency
+Accessibility
+Privacy & Terms of Use
