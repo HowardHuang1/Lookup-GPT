@@ -1,0 +1,110 @@
+Email Accounts and Settings | SEASnet
+Select Page
+Email Accounts and Settings
+Who has a SEASnet Email Address?
+SEASnet accounts for faculty and staff come with an email address associated with the account in the form of
+username@seas.ucla.edu
+.
+(SEASnet is in the process of migrating user email to G Suite as of 6/26/2018 and the users with G Suite account can sign in at gmail.com as
+username@seas.ucla.edu
+to access their email. Please see
+https://www.seas.ucla.edu/gsuite
+for detail)
+SEASnet accounts for students do not come with an email address.
+Most correspondence will be directed to the official email address on record at UCLA. However, there are times when SEASnet will contact you directly at another address (such as when you have registered an IP address with us using a different account, or there is a problem with your SEASnet account). Note that a requirement of having a SEASnet account with an email address is that you will either forward your email to an account that you do check, or you will check your SEASnet email regularly.
+Mail Servers and Limits
+(NOTE: SEASnet is in the process of discontinuing these old mail services)
+Mail Server
+Limit
+POP/IMAP server
+Server name:
+mail01.seas.ucla.edu
+see Configuring Mail Programs below
+Outgoing (SMTP) server
+For outgoing mail server, you can use one of the followings:
+set outgoing mail server to
+smtp2.seas.ucla.edu
+with SEAS username and password
+(As of 12/12/2016, smtp.seas.ucla.edu is still allowed as long as the device is connected to the SEAS network)
+set outgoing mail server to
+mail.ucla.edu
+with BOL username and password
+set outgoing mail server to some smtp server provided by the internet service provider for the device
+Maximum message size
+50 MB, including the size of attachments
+Disk quota
+4 GB
+Configuring* Mail Programs
+*SEASnet will do our best to assist users in configuring non-supported devices; however, please make sure that you have backed up your device prior to coming to the help desk for assistance. SEASnet will
+not
+be responsible for the loss of any data.
+Mail client
+Type
+Server Name
+Setting
+Thunderbird
+IMAP
+mail01.seas.ucla.edu
+port=143, STARTTLS, Normal password
+POP3
+mail01.seas.ucla.edu
+port=110, STARTTLS, Normal password
+Outgoing
+smtp2.seas.ucla.edu
+port=587, STARTTLS, Normal password
+iphone
+IMAP
+mail01.seas.ucla.edu
+Please close mail connection before you configure a new setting
+Advanced, INCOMING SETTINGS
+Use SSL: ON
+Authentication: Password
+Server Port: 143
+Outlook 2010
+IMAP
+mail01.seas.ucla.edu
+port=143, TLS
+POP3
+mail01.seas.ucla.edu
+port=995, Check This server requires a secure connection (SSL)
+Outgoing
+smtp2.seas.ucla.edu
+port=587, TLS
+iOS 9.x
+IMAP
+mail01.seas.ucla.edu
+Use SSL: ON, Authentication: Password, Server Port: 143
+POP3
+mail01.seas.ucla.edu
+Use SSL: ON, Authentication: Password, Server Port: 110
+Outgoing
+smtp2.seas.ucla.edu
+Use SSL: ON, Authentication: Password, Server Port: 587
+mutt
+IMAP
+mail01.seas.ucla.edu
+modify .muttrc
+set ssl_starttls=yes
+set spoolfile=imap://mail01.seas.ucla.edu
+alpine
+IMAP
+mail01.seas.ucla.edu
+modify .pinerc
+inbox-path={mail01.seas.ucla.edu/tls}inbox
+SEASnet: modify /etc/pine.conf.fixed on login servers
+(=/usr/local/files/etc_pine.conf.fixed)
+gmail
+–
+If you’re popping SEAS email from your gmail account, set
+POP Server: mail01.seas.ucla.edu
+Port: 995
+(check) Always use a secure connection (SSL) when retrieving mail.
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

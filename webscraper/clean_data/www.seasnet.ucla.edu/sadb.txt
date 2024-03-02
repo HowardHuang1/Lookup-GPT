@@ -1,0 +1,118 @@
+School Administrative and Student Affairs Databases (SADB) | SEASnet
+Select Page
+School Administrative and Student Affairs Databases (SADB)
+(Access to this page is restricted to UCLA IP addresses, including UCLA VPN)
+NOTES:
+To access to SADB, you must be connected to
+UCLA VPN
+or be in EA network.
+For general assistance email
+help@seas.ucla.edu
+;
+for Student Affairs related matters, email
+sahelp@seas.ucla.edu
+.
+Training can be requested any time as needed.
+Updated 2022-05-19
+Database
+Description
+Used By
+How to Access
+Campus Directory
+Allows you to conveniently and quickly search for only people within the School of Engineering by any search string, such as name, building, room number, phone, etc.. You can also expand the search scope to include everyone on campus.
+All
+Go to
+http://directory.seas.ucla.edu
+Contracts, Grants, and General Accounts
+Stores all financial accounts in the School of Engineering that are active and inactive. The data are combined from the UCLA Office of Research Administration (ORA), FS QDB, and R-NET QDB. Local data fields, such as efforts and various comments, are attached to each account record.
+Dean’s Office and all department fund managers and purchasing (limited view).
+Login to
+https://sadb.seas.ucla.edu
+and select “Contracts, Grants and General Accounts”
+Course Scheduling
+Keeps track of all courses offered by each department, Professors, Teaching Assistants, Visiting Professors, etc. Contains evaluation scores for instructor-led courses. Assists in the planning of academic instruction on a quarterly and yearly basis.  Generates all the academic personnel Teaching Record report. Allows departments to view each other’s schedules to prevent conflicts of when courses are offered.
+Dean’s Office, Student Affairs, and academic departments
+Login to
+https://sadb.seas.ucla.edu
+and select “Courses”
+Cylinder Tracking and Demurrage
+Keeps track of when cylinders are delivered and returned from the Storehouse.  The location of cylinder and PI are indicated.  Each cylinder is identified by a bar-code which is generated from the database.  Keeps track of demurrage charges.
+Shipping and Receiving
+Login to
+https://sadb.seas.ucla.edu
+and select “Gas Cylinders”
+Graduate Admissions
+Use
+https://go.grad.ucla.edu
+Student Affairs and academic departments
+Login to
+https://go.grad.ucla.edu
+Graduate Students
+Stores information on all current graduate students including classes, grades, advisor, major, etc.  Used for a variety of reports and decision information on student programs.
+Student Affairs and academic departments
+Login to
+https://sadb.seas.ucla.edu
+and choose “Graduate Students”
+Legacy:
+Command to access database: studentdb [dept]
+Database commands:
+INFORMIX
+Non-Inventorial Equipment
+Keeps track of equipments purchased that fall below the campus threshold for inventorial equipment ($5000).
+All departments and Dean’s units
+Login to
+https://sadb.seas.ucla.edu
+and select “Non-Inventorial Equipment”
+Personnel/Payroll
+Use UCPath reports in Cognos,
+https://cdw.qdb.ucla.edu
+. For the list of reports available, see
+https://ucla.app.box.com/v/UCPathReports
+All (except sadb is used by IT)
+Login to
+https://cdw.qdb.ucla.edu
+Shops and Recharges
+Facilitates Shops and IT recharge management. Daily batch submits recharges to the campus. Maintains information on estimates, labors, internal materials inventory and generates various administrative reports.
+Shops and IT
+Login to
+https://sadb.seas.ucla.edu
+and choose “Shops and Recharges” (IE not supported)
+Space
+Stores the campus space information (
+https://spaceinventory.ucla.edu
+) as read-only and allows for additional local space information to be attached to each space.
+Dean’s office and all departments
+Login to
+https://sadb.seas.ucla.edu
+and choose “Space”
+Undergraduate Admissions
+Stores all information pertaining to undergraduate student applications for admissions, used for decision making on acceptances, denials, statistics, etc.
+Student Affairs, department chairs and vice-chairs, and External Affairs
+Login to
+https://sadb.seas.ucla.edu
+and choose “Undergraduate Admissions – Freshman” or “Undergraduate Admissions – Transfer”
+Undergraduate Students
+Keeps all undergraduate students that are enrolled for the current quarter and their grades from previous courses passed.  A degree check program gives information on course completion and eligibility for graduation. Other reports generate lists for Scholarship’s, petitions filed and statistics.
+Student Affairs and academic departments
+Login to
+https://sadb.seas.ucla.edu
+and choose “Undergraduate Students”
+Legacy:
+Commands to access database: saform students (student info); asform (advanced standing)
+Database commands:
+INFORMIX
+Supported Machines
+Stores the status of the department computers/printers that are supported by SEASnet.
+Administrative department heads and IT
+Login to
+https://sadb.seas.ucla.edu
+and choose “Supported Machines”
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

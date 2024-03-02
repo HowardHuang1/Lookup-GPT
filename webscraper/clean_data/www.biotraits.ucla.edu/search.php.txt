@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>Search - Global Biotraits Database</title>
+
+<style type="text/css">
+a:link {
+color: black;
+}
+a:visited {
+color: black;
+}
+a:hover {
+color: #3366ff;
+}
+</style></head>
+<body style="color: rgb(0, 0, 0); background-color: white; background-image: url(pattern_brillant.png);" alink="#000099" link="#000099" vlink="#990099">
+<table style="background-color: white; width: 800px; height: 100%; text-align: left; margin-left: auto; margin-right: auto; font-family: Calibri;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="width: 1050px;" colspan="1">
+<table style="text-align: left; width: 800px; height: 226px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="height: 103px; width: 100%; background-color: white; text-align: center;">&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; <br>
+&nbsp; <a href="index.php"><img style="border: 0px solid ; width: 561px; height: 182px;" alt="logo" src="text4060.png"></a>
+<br>
+<br>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="width: 1050px; height: 44px;">
+<table style="text-align: left; background-color: rgb(255, 204, 51); width: 800px; height: 30px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr><td style="background-color: rgb(255, 204, 51); text-align: center; width: 90px; font-style: italic;"><small><a style="text-decoration: none;" href="index.php">HOME</a></small></td><td style="color: black; background-color: rgb(255, 204, 51); text-align: center; width: 98px; font-style: italic;"><small><a style="text-decoration: none;" href="people.php">PEOPLE</a></small></td><td style="text-align: center; background-color: rgb(255, 204, 51); width: 129px; font-style: italic;"><a style="text-decoration: none;" href="publications.php"><small>PUBLICATIONS</small></a></td><td style="color: black; background-color: rgb(255, 204, 51); text-align: center; width: 119px; font-style: italic;"><font size="-1"><a style="text-decoration: none;" href="opportunities.php">OPPORTUNITIES</a></font></td><td style="font-weight: bold; text-align: center; width: 134px; color: black; background-color: rgb(255, 204, 51); font-style: italic;"><small><small><small><big><big><small><small><big><big><small><small><big><big><small><a style="text-decoration: none;" href="file:///C:/Users/Will/Desktop/Biotraits/Images/search.php"><small><big><big>SEARCH</big></big></small></a></small></big></big></small></small></big></big></small></small></big></big></small></small></small></td><td style="font-weight: bold; text-align: center; width: 129px; color: black; background-color: rgb(255, 204, 51); font-style: italic;"><small><small><small><big><big><small><small><big><big><small><a style="text-decoration: none;" href="add.php"><small><big><big>UPLOAD</big></big></small></a><a style="text-decoration: none;" href="add.php"><small><big><big><br></big></big></small></a></small></big></big></small></small></big></big></small></small></small></td></tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="width: 1050px; background-color: rgb(250, 255, 204); text-align: left;">
+<table style="text-align: left; background-color: white; width: 100%; height: 100%;" border="0" cellpadding="10" cellspacing="0">
+<tbody>
+<tr>
+<td style="height: 70px; vertical-align: top; width: 412px; background-color: rgb(221, 221, 221);"><span style="color: black;">Use the <span style="font-weight: bold;">Quick Search</span> on the right to
+search our database for trait data that can be downloaded to your
+computer.<br><br></span><span style="color: black;">First,
+use the drop down list to set whether you want to search the entire
+database or specifically the taxonomy (including common name), type of
+functional
+trait, or citation. The search is not case dependent. <br>
+<br>
+Clicking on "submit" will list all matching data, within which subsets
+of data can then be selected and downloaded.</span><br><br>Datasets will download as comma separated value (<span style="font-weight: bold;">.csv</span>) files, which can be opened with Microsoft Excel or imported into <a href="http://www.r-project.org/" target="_blank">R</a>, <a href="http://www.mathworks.com/products/matlab/" target="_blank">Matlab</a>, and other similar programs.<br><span style="color: black;"> </span></td>
+<td style="vertical-align: top; width: 342px; background-color: rgb(221, 221, 221);"><span style="color: black;"></span><span style="color: black;"></span><table style="width: 100%; height: 100%; text-align: left; margin-left: auto; margin-right: auto;" border="0" cellpadding="2" cellspacing="2"><tbody><tr><td style="background-color: rgb(221, 221, 221);">Quick Search:
+<form method="get" action="query.php"><input name="query" type="text">
+<select name="constraint"><option value="all">All</option><option value="taxa">Taxa</option><option value="trait">Trait</option><option value="citation">Citation</option></select>
+<input value="Submit" type="submit"><br>
+</form></td></tr><tr><td style="vertical-align: top;"><span style="color: black;">Our
+database currently contains:<br>
+<php title="include 'include/config.php'; $query = &quot;select count(DISTINCT Protocol_ID) from _PROTOCOL&quot;; $results = mysql_query($query, $db_connection); if ($results) { $row = mysql_fetch_row($results); echo &quot;$row[0]&quot;; } " xmlns="http://disruptive-innovations.com/zoo/nvu">2445</php>&nbsp;
+data series &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;XXXX traits<br>
+<php title="include 'include/config.php'; $query = &quot;select count(DISTINCT Species_Auto) from ID_Species&quot;; $results = mysql_query ($query, $db_connection); if ($results) { $row = mysql_fetch_row($results); echo &quot;$row[0]&quot;; } " xmlns="http://disruptive-innovations.com/zoo/nvu">1508</php>&nbsp;
+</span><span style="color: black;"> species &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;XXXX citations</span><span style="color: black;"></span><span style="color: black;"></span></td></tr></tbody></table><span style="color: black;">
+</span></td>
+</tr>
+<tr><td style="height: 113px; background-color: white;"><span style="color: black;"><small><a name="advancedsearch"></a><big>Use the <span style="font-weight: bold;">Advanced Search</span> on the right to search the database using specific criteria and options.</big></small><br></span></td><td style="height: 113px; background-color: white;">Coming soon; hang tight.</td></tr><tr><td><br>Note:
+Currently, the results from a search for citations or traits specifically cannot
+be downloaded by clicking on the link themselves. For citations, please check
+the box next to the desired citation data and click "Display Details"
+at the bottom of the screen, which will lead you to the correct
+download page.&nbsp;</td><td></td></tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr><td style="width: 1050px; background-color: rgb(255, 204, 51); text-align: center;"><small><a style="text-decoration: none;" href="index.php">home</a> &nbsp;&nbsp;&nbsp;- &nbsp;&nbsp;&nbsp; <a style="text-decoration: none;" href="sitemap.php">site map</a>&nbsp;&nbsp; - &nbsp;&nbsp; <span style="text-decoration: none;"><a style="text-decoration: none;" href="mailto:biotraitsdatabase@gmail.com">contact</a> &nbsp; - &nbsp; <a style="text-decoration: none;" href="publications.php#citebiotraits">citation</a> &nbsp;</span></small></td></tr>
+<tr align="center">
+<td style="background-color: white;">
+<table style="text-align: left; width: 100%;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="width: 20%; text-align: center;">&nbsp;
+<a href="http://www.ucla.edu/" target="_blank"><img style="border: 0px solid ; width: 171px; height: 79px;" alt="ucla_logo" src="ucla_cw125.gif"></a></td>
+<td style="width: 60%; text-align: center;"><br>
+<img style="width: 270px; height: 70px;" alt="meerkat_family" src="meerkat%20family.png"></td>
+<td style="width: 20%; text-align: center;"><a href="http://www.nsf.gov/" target="_blank"><img style="border: 0px solid ; width: 91px; height: 92px;" alt="NSF_logo" src="nsf1.gif"></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+</tbody>
+</table>
+<br style="font-family: Calibri;">
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=140877354" async></script></body></html>

@@ -1,0 +1,189 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Travler: Welcome</title>
+</head>
+<body style="background-color: white; color: black;" div=""
+ link="seagreen" alink="black" vlink="darkolivegreen">
+<center>
+<table height="10">
+  <tbody>
+    <tr height="10">
+      <td> <br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td> <img src="G1.jpg" align="middle" ismap="ismap"
+ usemap="#travler1" border="0" alt="Information on Travler"> </td>
+    </tr>
+    <tr>
+      <td> <img src="G2.jpg" align="middle" ismap="ismap"
+ usemap="#travler2" border="0"
+ alt="Transparent, dynamic composition of adaptive agents to balance protocol requirements with transmission costs and capabilities">
+      </td>
+    </tr>
+    <tr>
+      <td> <img src="G3.jpg" align="middle" ismap="ismap"
+ usemap="#travler3" border="0"
+ alt="Smoothing of video transmission, analysis of impact of wireless channel video stream, and selection of packets to transmit for best video quality for a given channel condition.">
+      </td>
+    </tr>
+    <tr>
+      <td> <img src="G4A.jpg" align="middle" ismap="ismap"
+ usemap="#travler4A" border="0"
+ alt="Improved mobile IP protocol by caching the location of moving machines throughout the network"><img
+ src="G4B.jpg" align="middle" ismap="ismap" usemap="#travler4B"
+ border="0"
+ alt="Web page prefetching based on knowledge of access patterns and current network characteristics, plus icon graphics to indicate Web-link delays">
+      </td>
+    </tr>
+    <tr>
+      <td><img src="G5.jpg" align="middle" ismap="ismap"
+ usemap="#travler5" border="0"
+ alt="Peer-oriented, optimistic, scalable file replication for mobile computing units">
+      </td>
+    </tr>
+    <tr>
+      <td><img src="G6.jpg" align="middle" ismap="ismap"
+ usemap="#travler6" border="0"
+ alt="Portable simulation environment (Maisie) to support parallel and hybrid simulation and virtual and hierarchical model design">
+      </td>
+    </tr>
+    <tr>
+      <td> <img src="G7.jpg" align="middle" ismap="ismap"
+ usemap="#travler7" border="0"
+ alt="Automatic predictive file-hoarding to ensure that correct files are stored on mobile computing units prior to disconnection">
+      </td>
+    </tr>
+    <tr>
+      <td> <img src="G8.jpg" align="middle" ismap="ismap"
+ usemap="#travler8" border="0"
+ alt="A large-scale, heterogenous, distributed simulation of file replication, for investigating the effects of system attributes on service quality.  A sample application of hybrid simulation.">
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<br clear="left">
+<center>
+<table width="90%">
+  <tbody>
+    <tr>
+      <td>
+      <p> <font size="4">Welcome to the LASR Lab's <a
+ href="intro.html"><i><b>Travler</b></i></a> project pages</font> (note
+that this link provides a more detailed discussion of the <i>Travler</i>
+project, including links to related research, important papers and
+software downloads).
+The <b>TRA</b>nsparent <b>V</b>irtua<b>L</b> <b>E</b>nvi<b>R</b>onment
+(<i>Travler</i>) project was one of several multi-year DARPA-funded
+research efforts (1994-1999) within the UCLA Computer Science
+Department. This nomadic computing project focused on developing
+models, prototyping systems software and conducting experiments to
+support the needs of not just multiple users using the same files and
+systems, but users that are increasingly mobile.</p>
+      <p>The illustration above depicts deployment of the various <i>Travler</i>
+project components. Some of the call-outs will link you to a page
+describing that component in detail. Although this illustration depicts
+      <i>Travler</i> within the dynamics of a military environment, <i>Travler</i>
+is equally valuable in any conceivable mobile computing environment. </p>
+      <p>Each principal investigator on the <i>Travler</i> project had
+an extensive background in a project-essential nomadic computing field:
+      </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<center>
+<table width="80%">
+  <tbody>
+    <tr>
+      <td>
+      <p><br>
+      <a href="http://www.lk.cs.ucla.edu"><b><i>Leonard
+Kleinrock</i></b></a> is recognized as one of the leading experts on
+modeling of computer networks. Because of his pioneering work on the
+first ARPANET protocols, he has been acknowledged as one of the
+"fathers" of the Internet.</p>
+      <p><a
+ href="http://fmg-www.cs.ucla.edu/ficus-members/popek/index.html"><b><i>Gerald
+Popek</i></b></a> has been developing system software for distributed
+environments and researching security for system software for over
+twenty years.</p>
+      <p><a
+ href="http://www.cs.ucla.edu/csd/people/faculty_pages/bagrodia.html"><b><i>Rajive
+Bagrodia</i></b></a>
+is a leading expert in the field of parallel discrete event simulation
+and has taken the lead in designing simulation platforms to support
+research in mobile computing.</p>
+      <p><a href="http://fmg-www.cs.ucla.edu/reiher.new/index2.html"><b><i>Peter
+Reiher</i></b></a> has been developing system software for unreliable
+distributed environments for fifteen years, including naming systems,
+replicated file systems, and systems for secure collaboration over
+insecure networks. </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<br>
+<br>
+<center>
+<hr width="90%"> DARPA Contract No: DABT63-94-C-0080
+</center>
+<center>
+<hr width="90%"></center>
+<center>
+<table width="90%">
+  <tbody>
+    <tr>
+      <td>Last modified: August 2005<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<map name="travler1">
+<area shape="RECT" alt="Information on Travler" coords="10,15,620,80"
+ href="intro.html">
+</map>
+<map name="travler2">
+<area shape="RECT" alt="Adaptive Agent Framework" coords="90,10,350,35"
+ href="http://ficus-www.cs.ucla.edu/yarvis/Conductor/">
+</map>
+<map name="travler3">
+<area shape="RECT" alt="Smoothed Video" coords="450,7,620,25"
+ href="http://millennium.cs.ucla.edu:80/%7Ejiang/Research/Smoothing.html">
+</map>
+<map name="travler4A">
+<area shape="RECT" alt="Location Tracking" coords="20,10,190,30"
+ href="http://millennium.cs.ucla.edu/JWTSENG/ZIP/">
+</map>
+<map name="travler4B">
+<area shape="RECT" alt="Smiley" coords="200,15,300,35"
+ href="http://millennium.cs.ucla.edu/%7Ejiang/Research/">
+</map>
+<map name="travler5">
+<area shape="RECT" alt="Mobile File Replication" coords="400,15,630,35"
+ href="../mobile98/welcome.html">
+</map>
+<map name="travler6">
+<area shape="RECT" alt="Simulation Services" coords="5,5,200,25"
+ href="http://may.cs.ucla.edu/projects/travler">
+</map>
+<map name="travler7">
+<area shape="RECT" alt="Seer" coords="465,10,520,30"
+ href="http://fmg-www.cs.ucla.edu/geoff/seer.html">
+</map>
+<map name="travler8">
+<area shape="RECT" alt="File Replication Simulation"
+ coords="95,25,400,45"
+ href="http://fmg-www.cs.ucla.edu/simulation/index.html">
+</map>
+</body>
+</html>

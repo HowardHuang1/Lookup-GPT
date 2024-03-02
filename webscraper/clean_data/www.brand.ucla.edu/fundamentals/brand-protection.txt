@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+      	<!-- Google Tag Manager -->
+	  	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      	})(window,document,'script','dataLayer','GTM-M4CXQ7');</script>
+	  	<!-- End Google Tag Manager -->
+
+        <script src="https://www.youtube.com/iframe_api"></script>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=11">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="google-site-verification" content="QS5gayPg38zC46YsAx4a9c3v4qTBkn-R69g90pQgpB0" />
+
+        <title>Brand Guidelines | Fundamentals | Brand Protection</title>
+        <meta name="description" content="Information about the laws and campus policies designed to protect UCLA&rsquo;s name and marks."/>
+
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+
+		<!-- Main CSS -->
+		<link href="https://www.brand.ucla.edu/css/app.css" rel="stylesheet" type="text/css">
+    </head>
+<body>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4CXQ7"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <header id="header">
+      <div class="ribbon">
+
+        <div class="logo">
+          <a href="http://ucla.edu" class="gtm-main-nav-logo" target="_blank"><img src="/images/logo-ucla.svg" alt="UCLA logo"></a>
+        </div>
+
+        <div class="log-in">
+				        	<a href="https://www.brand.ucla.edu/login/YToxOntzOjQ6InBhdGgiO3M6MzA6Ii9mdW5kYW1lbnRhbHMvYnJhbmQtcHJvdGVjdGlvbiI7fQ==" class="gtm-main-nav">Log In</a>
+	                </div>
+
+      </div>
+    </header>
+    <nav id="main-nav">
+      <div class="nav-toggle">
+
+        <!-- HAMBURGER NAV -->
+        <input type="checkbox" class="gtm-main-nav-hamburger-icon" aria-label="Hamburger Menu" />
+        <div class="hamburger-icon">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+
+        <!-- MENU -->
+        <ul class="nav">
+          <li class="site-name"><a href="https://www.brand.ucla.edu" class="gtm-main-nav">Brand Guidelines</a></li>
+
+          <!-- FUNDAMENTALS -->
+          <li id="fundamentals-nav-item" class="nav-item">
+            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Fundamentals
+              <span class="arrow-down"></span>
+            </a>
+            <div aria-label="submenu">
+              <div class="dropdown">
+                <div class="nav-item-blurb">
+                  <div class="h5">Who we are</div>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/fundamentals/brand-defined" class="gtm-main-nav">Brand Defined</a></div>
+                  <p>The UCLA brand, core mission, key message, brand pillars and personality</p>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/fundamentals/brand-protection" class="gtm-main-nav">Brand Protection</a></div>
+                  <p>Policies, permissions and approvals to use UCLA logos and marks</p>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/fundamentals/accessibility" class="gtm-main-nav">Accessibility</a></div>
+                  <p>Creating an inclusive experience for everyone</p>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/fundamentals/edi" class="gtm-main-nav">EDI</a></div>
+                  <p>Learn how to reflect UCLA’s vision for equity, diversity and inclusion and avoid EDI messaging pitfalls with our tips and resources.</p>
+                </div>
+              </div>
+            </div>
+          </li>
+
+          <!-- IDENTITY -->
+          <li id="identity-nav-item" class="nav-item">
+            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Identity
+              <span class="arrow-down"></span>
+            </a>
+            <div aria-label="submenu">
+              <div class="dropdown">
+                <div class="nav-item-blurb">
+                  <div class="h5">How we look and talk</div>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/identity/logos-and-marks" class="gtm-main-nav">Logos and Marks</a></div>
+                  <ul>
+                    <li><a href="/identity/logos-and-marks/campus-logo" class="gtm-main-nav">Campus Logo</a></li>
+                    <li><a href="/identity/department-logos" class="gtm-main-nav">Department Logos</a></li>
+                    <li><a href="/identity/logos-and-marks/script-logo" class="gtm-main-nav">Script Logo</a></li>
+                    <li><a href="/identity/logos-and-marks/seals" class="gtm-main-nav">UCLA Seal</a></li>
+                    <li><a href="/identity/logos-and-marks/historical-logos-and-marks" class="gtm-main-nav">Historical Marks</a></li>
+                  </ul>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/identity/names-and-naming" class="gtm-main-nav">Names and Naming</a></div>
+                  <div class="h5"><a href="/identity/colors" class="gtm-main-nav">Colors</a></div>
+                  <div class="h5"><a href="/identity/typography" class="gtm-main-nav">Typography</a></div>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/identity/imagery" class="gtm-main-nav">Imagery</a></div>
+                  <ul>
+                    <li><a href="/identity/imagery/photography-and-videography" class="gtm-main-nav">Photography and Videography</a></li>
+                    <li><a href="/identity/imagery/graphic-elements" class="gtm-main-nav">Graphic Elements</a></li>
+                  </ul>
+                  <div class="h5"><a href="/identity/copy-editorial" class="gtm-main-nav">Copy and Editorial</a></div>
+                </div>
+              </div>
+            </div>
+          </li>
+
+          <!-- APPLICATION -->
+          <li id="application-nav-item" class="nav-item">
+            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Application
+              <span class="arrow-down"></span>
+            </a>
+            <div aria-label="submenu">
+              <div class="dropdown">
+                <div class="nav-item-blurb">
+                  <div class="h5">How to apply brand guidelines across channels</div>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/application/print" class="gtm-main-nav">Print</a></div>
+                  
+                  <div class="h5"><a href="/application/web" class="gtm-main-nav">Web</a></div>
+                    <ul>
+                      
+                      <li><a href="/application/web/design-system" class="gtm-main-nav">Design System</a></li>
+                      <li><a href="/application/web/cms-resources" class="gtm-main-nav">CMS Resources</a></li>
+                      <li><a href="/application/web/best-practices" class="gtm-main-nav">Best Practices</a></li>
+                      
+                    </ul>
+                  
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/application/presentations" class="gtm-main-nav">Presentations</a></div>
+                  
+                  <div class="h5"><a href="/application/email" class="gtm-main-nav">Email</a></div>
+                  <ul>
+                    <li><a href="/application/email/templates" class="gtm-main-nav">Templates</a></li>
+                    <li><a href="/application/email/best-practices" class="gtm-main-nav">Best practices</a></li>                    
+                    <li><a href="/application/email/staff-signature" class="gtm-main-nav">Staff signature</a></li>
+                  </ul> 
+                  
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a class="gtm-main-nav" href="/application/social-media">Social Media</a></div>
+                  <div class="h5"><a href="/application/video" class="gtm-main-nav">Video</a></div>
+                  <ul>
+                    <li><a href="/application/video/elements-and-styles" class="gtm-main-nav">Elements and styles</a></li>
+                    <li><a href="/application/video/best-practices" class="gtm-main-nav">Best practices</a></li>
+                  </ul>
+                  
+                </div>
+              </div>
+            </div>
+          </li>
+
+          <!-- INITIATIVES -->
+          <!-- <li id="initiatives-nav-item" class="nav-item">
+            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Initiatives
+              <span class="arrow-down"></span>
+            </a>
+            <div aria-label="submenu">
+              <div class="dropdown">
+                <div class="nav-item-blurb">
+                  <div class="h5">Major initiatives across campus</div>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/initiatives/centennial-celebration" class="gtm-main-nav">Centennial Celebration</a></div>
+                    <ul>
+                      <li><a href="/initiatives/centennial-celebration/identity-elements" class="gtm-main-nav">Identity Elements</a></li>
+                      <li><a href="/initiatives/centennial-celebration/templates" class="gtm-main-nav">Templates</a></li>
+                    </ul>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/initiatives/centennial-campaign" class="gtm-main-nav">The Centennial Campaign</a></div>
+                </div>
+                
+                  
+                  
+                
+              </div>
+            </div>
+          </li> -->
+
+          <!-- SEARCH -->
+          <li id="search-nav-item" class="nav-item search">
+            <form id="search-form" class="search-bar">
+              <div class="search-bar__container" id="searchbox">
+                <input id="site-search" class="form-control" aria-label="Search the Site" type="text" placeholder="Search">
+                <button type="button" class="gtm-main-nav-search-submit search-bar__submit btn blue" id="main-navigation-submit" aria-label="Search">
+                  <span class="search-bar__submit__text box-link">Search</span>
+                  </span>
+                </button>
+              </div>
+            </form>
+            <button type="button" class="gtm-main-nav-search-open search-open" id="main-navigation-search">
+              <img class="icon search-icon" src="/images/search-icon.svg" alt="Search button"/>
+            </button>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+
+	<div class="jump-nav single-column-section-titles" id="single-column-section-titles-template">
+
+		<!-- PAGE INTRO -->
+		<!-- PAGE INTRO -->
+		<section class="title">
+		    <div class="grid-wrapper">
+
+		    	<h1 class="col-1-13">Brand Protection</h1>
+
+		    	<div class="jump-nav-links col-1-13">
+			    	<ul>
+				    	<li><a class="gtm-internal-page-link" href="#using-uclas-names-and-marks">Using UCLA’s Names and Marks</a></li>
+				    	<li><a class="gtm-internal-page-link" href="#policies-you-should-know">Policies You Should Know</a></li>
+				    	<li><a class="gtm-internal-page-link" href="#guidelines-for-registered-groups">Guidelines for Registered Groups or Organizations</a></li>
+				    	<li><a class="gtm-internal-page-link" href="#request-permission">Request Permission</a></li>
+			    	</ul>
+		    	</div>
+		    </div>
+	    </section>
+
+		<!-- PAGE CONTENT -->
+		<div class="page-content no-border no-bottom-padding">
+			<div class="page-section page-overview">
+				<p>For those of us who work or study on campus, the UCLA brand is an everyday thing. Sometimes we forget that the UCLA names and marks are assets of great value. To protect UCLA&rsquo;s reputation and legal rights, we all need a basic understanding of brand protection.</p>
+			</div>
+		</div>
+		<div id="using-uclas-names-and-marks" class="page-content">
+			<div class="page-section">
+				<h2>Using UCLA’s Names and Marks</h2>
+
+				<h3>What are UCLA Marks?</h3>
+				<p>The UCLA marks include words, abbreviations, logos, symbols and landmarks that distinguish and identify UCLA. The UCLA Marks are protected regardless of color, font, letterform, etc. The UCLA Marks include, but are not limited to, these <a class="gtm-internal-page-link" href="/identity/logos-and-marks">examples of UCLA Marks</a>.</p>
+
+				<h3>Protected by Law and Policies</h3>
+				<p>State, federal and international law protect UCLA’s trademarks, registered and unregistered. University and campus policy spells out the proper use of names and marks.</p>
+				<p>The campus units of UCLA have the right (and responsibility) to use the UCLA marks on the print, video and online materials they create to conduct the business of the university. But even for campus units, there are areas of caution.</p>
+				<p>Let’s say a department wants to show its support for a nonprofit organization by co-sponsoring an event and putting a UCLA logo on the program or website. That’s a “third party” use, and requires permission. Or perhaps you want to print t-shirts or promotional items for a recruitment effort. Those require the use of a licensed vendor, even if the items are given away rather than sold.</p>
+
+				<h3>Guidelines vs. Permissions</h3>
+				<p>Brand Guidelines define how UCLA marks should be used &mdash; but only for approved uses. To find out if permission is needed for a specific use, and to start the review process, use the Administrative Vice Chancellor’s site <a href="https://marks.ucla.edu" target="_blank">Permission to Use UCLA Marks</a>.</p>
+			</div>
+		</div>
+		<div id="policies-you-should-know" class="page-content">
+			<div class="page-section">
+				<h2>Policies You Should Know</h2>
+				<p>You should be aware of three UCLA policies that are especially relevant to the proper use of the UCLA brand: <a href="http://www.adminpolicies.ucla.edu/APP/Number/110" target="_blank">110</a>, <a href="http://www.adminpolicies.ucla.edu/APP/Number/411" target="_blank">411</a> and <a href="http://www.adminpolicies.ucla.edu/APP/Number/863" target="_blank">863</a>.</p>
+
+				<h3 id="policy-110">Policy 110 &mdash; Names, Seals and Trademarks</h3>
+				<p>You’re working on a project with researchers from other schools. “Let’s feature all our logos on the project website,” a colleague suggests. Can you send the UCLA logo?</p>
+				<p>Not without permission. “Third party use” includes use by an individual, a corporation, a nonprofit or a government agency &mdash; by any entity that isn’t UCLA or the University of California.</p>
+				<p>Permission is more likely to be granted if the proposed web page clearly states UCLA’s role in the research and presents our logo appropriately sized and with enough clear space to separate it from other logos.</p>
+				<p>Policy 110 spells out the restrictions on the use of UCLA’s names, seals and trademarks by individuals, groups, and third parties.</p>
+				<p><a href="http://www.adminpolicies.ucla.edu/APP/Number/110" target="_blank">See the complete Policy 110</a>.</p>
+
+				<h3  id="policy-411">Policy 411 &mdash; UCLA Domain Names</h3>
+				<p>Your boss is in a hurry to launch a website, so you use your credit card to register a domain name for uclagreatidea.org. You’re a hero, right?</p>
+				<p>Maybe not. Because the name “UCLA” is owned by the State of California, any domain name that includes the campus name must be registered to the Regents, not to an individual. You can list yourself as the Admin Contact or the Tech Contact, but not the Registrant.</p>
+				<p>Consult Policy 411 for the right way to register a domain name, whether it’s in the ucla.edu domain or a top-level domain other than “edu.” Domain name approvals can be submitted through <a href="http://marks.ucla.edu" target="_blank">Permission to Use UCLA Marks</a>.</p>
+				<p>Policy 411 applies Policy 110 to web and electronic services, recognizing the importance of our online presence to the UCLA brand.</p>
+				<p><a href="http://www.adminpolicies.ucla.edu/APP/Number/411" target="_blank">See the complete Policy 411</a>.</p>
+
+				<h3  id="policy-863">Policy 863 &mdash; Filming and Photography</h3>
+				<p>Your department is updating its publications and website, so you hire a photographer to capture campus scenes. “Just go take pictures,” you say.</p>
+				<p>Not so fast. Even photography for internal use by campus units may require a permit. Unless you stay entirely inside your own facility, you need to contact the Events Office.</p>
+				<p>The Events Office also coordinates the logistics for commercial filming and photography on campus, making sure that scheduled events and academic programming aren’t interrupted. Access to iconic locations is limited.</p>
+				<p>Policy 863 recognizes the importance of still and moving images to UCLA’s identity and brand. In some contexts a photo of Royce Hall says “UCLA” as clearly as a logo.</p>
+				<p><a href="http://www.adminpolicies.ucla.edu/APP/Number/863" target="_blank">See the complete Policy 863</a>.</p>
+			</div>
+		</div>
+		<div id="guidelines-for-registered-groups" class="page-content">
+			<div class="page-section">
+				<h2>Guidelines for Registered Groups and Organizations</h2>
+
+				<h3>Naming Your Group</h3>
+				<p>UCLA policies specifically state that organizations are limited to using “at UCLA” or “at University of California Los Angeles” in their names: </p>
+				<p>“Registered Campus Organizations may only use the name of the University or abbreviation thereof as part of their own name for the purposes of geographical designation. Example: “Undergraduate English Association at UCLA” is acceptable; UCLA Undergraduate English Association” is not acceptable.” <br/>(<a href="https://www.sole.ucla.edu/Policies" target="_blank">UCLA Regulations on Activities, Registered Campus Organizations, and Use of Properties</a>) </p>
+				<p>In order to do even that much, a group must be registered through Student Organizations, Leadership and Engagement (SOLE). The website <a href="http://marks.ucla.edu" target="_blank"> marks.ucla.edu </a> provides a starting point for student groups to register.</p>
+				<p>Learn more in the <a class="gtm-internal-page-link" href="/identity/names-and-naming">Names and Naming</a> section of these guidelines.</p>
+
+				<figure>
+					<img src="/images/identity/group-identity/src-example.jpg" alt="Example of incorrect and correct UCLA group naming" />
+				</figure><br/>
+
+				<h3>Typesetting “UCLA”</h3>
+				<p>While groups can use “at UCLA” and “at University of California, Los Angeles” in their names, there are guidelines for typesetting. For example, the campus name should be set in the same typeface as the student group name. The campus name should not be italicized and the typesetting cannot resemble UCLA’s official logos.</p>
+
+				<figure>
+					<img src="/images/identity/group-identity/mental-health.jpg" alt="UCLA student group typesetting and logo example: Mental Health Caucus" />
+				</figure><br/>
+
+				<h3>Using UCLA Marks</h3>
+				<p><strong>Campus groups may not use UCLA’s primary logos at all</strong>. Registered campus groups are only allowed to use two protected UCLA marks: #58 and #62, located on the UCLA Art Sheet April 2018. The marks may be “texturized,” as long as the original shape and structure of the mark is intact.</p>
+
+				<figure>
+					<img src="/images/identity/group-identity/marks-58-62.jpg" alt="UCLA marks approved for student group use" />
+				</figure>
+				<figure>
+					<img src="/images/identity/group-identity/oil-painter-society.jpg" alt="UCLA Oil Painter Society Marks" />
+				</figure>
+				<figure>
+					<img src="/images/identity/group-identity/bruin-stargazers.jpg" alt="UCLA Bruin Stargazers Marks" />
+				</figure>
+				<br/>
+
+				<h3>Creating Original Artwork</h3>
+				<p>Groups and organizations can create their own artwork as long as it does not replicate or resemble protected UCLA marks. Groups can also create and use illustrations and drawings of UCLA buildings and landmarks (such as Royce Hall or Janss Steps). However, groups are not allowed to use artwork featuring or portraying UCLA people (alumni, faculty, etc.), or any copyrighted materials/objects on campus (e.g., sculptures in the Sculpture Garden).</p>
+
+				<figure>
+					<img src="/images/identity/group-identity/compliant-examples.jpg" alt="Example of compliant visual identity artwork" />
+				</figure>
+			</div>
+		</div>
+		<div id="request-permission" class="page-content">
+			<div class="page-section">
+				<h2>Request Permissions</h2>
+				<p>Policy 110 delegates much of the oversight of UCLA’s names and marks to the UCLA Administrative Vice Chancellor. That office maintains an online permissions process to streamline needed approvals, <a href="https://marks.ucla.edu" target="_blank">Permission to Use UCLA Marks</a>.</p>
+			</div>
+		</div>
+	</div>
+	</div>
+
+
+
+<footer id="footer">
+			<div class="wrapper">
+				<img class="logo" src="/images/logo-stratcomm.svg" alt="UCLA Strategic Communications logo">
+				<div class="footer-content">
+					<div class="col-1">
+						<p>
+							10889 Wilshire Blvd. | Ste 1400<br>
+							Los Angeles, CA 90024<br>
+						</p>
+						<p class="contact">
+							<ul>
+								<li><a class="gtm-footer-link-phone" href="tel:3108254321">(310) 825-4321</a></li>
+								<li><a class="gtm-footer-link-mailto" href="mailto:brand@stratcomm.ucla.edu">brand@stratcomm.ucla.edu</a></li>
+							</ul>
+						</p>
+					</div>
+					<div class="col-2">
+						<div class="h5">Learn More</div>
+							<ul>
+								<li><a class="gtm-footer-link-internal gtm-download-file-pdf" href="/assets/ucla-brand-glossary.pdf" target="_blank" data-button-name="Glossary Footer">Glossary (PDF 52KB)</a></li>
+								<li><a class="gtm-footer-link-internal" href="/resources">Resources</a></li>
+							</ul>
+					</div>
+					<div class="col-3">
+						<div class="h5">Related Websites</div>
+							<ul>
+								<li><a class="gtm-footer-link-outbound" href="https://www.marks.ucla.edu" target="_blank">Permission to use UCLA Marks</a></li>
+								<li><a class="gtm-footer-link-outbound" href="http://socialmedia.ucla.edu" target="_blank">Social Media at UCLA</a></li>
+								<li><a class="gtm-footer-link-outbound" href="http://identity.uclahealth.org" target="_blank">UCLA Health Identity</a></li>
+								<li><a class="gtm-footer-link-outbound" href="https://asucla.ucla.edu/licensing/" target="_blank">UCLA Trademarks and Licensing</a></li>
+								<li><a class="gtm-footer-link-outbound" href="https://www.adminvc.ucla.edu/marks/report-a-violation" target="_blank">Report improper use of UCLA Marks</a></li>
+							</ul>
+					</div>
+				</div>
+				<div class="sign-up">
+					<div class="blurb">
+						<div class="h5">Stay Informed</div>
+						Join the brand guidelines email list to hear about resources and updates
+					</div>
+
+					<div id="form-messages">
+						<form id="email-signup" method="post" action="/api/newsletter" pageId="22355370" siteId="549861" parentPageId="22355367" autocomplete="off">
+							<div class="field email-field">
+								<input type="text" name="Email" id="control_EMAIL" label="Email" class="textInput defaultText" placeholder="Your Email Address" aria-label="Your Email Address" required>
+								<input type="hidden" name="formSourceName" value="StandardForm"><!-- DO NOT REMOVE HIDDEN FIELD sp_exp --><input type="hidden" name="sp_exp" value="yes">
+							</div>
+							<div class="field submit-field">
+								<input type="submit" class="btn yellow gtm-footer-email-signup" value="Sign Up" aria-label="Sign Up">
+							</div>
+							<p class="warning">Please enter a valid email.</p>
+						</form>
+					</div>
+					<div id="success" class="hide">
+						<img src="/images/outline-check-circle.svg" alt="">
+						<p>Your email was submitted. Please check your inbox to complete your registration.</p>
+					</div>
+
+				</div>
+				<div class="legal">
+					<div id="regents">&copy;2024 Regents of the <a href="https://www.universityofcalifornia.edu" target="_blank">University of California</a></div>
+					<div class="global-links">
+						<a class="gtm-footer-link-outbound" href="http://www.ucla.edu/terms-of-use" target="_blank">Terms of Use</a>
+						<a class="gtm-footer-link-outbound" href="http://www.ucla.edu/accessibility" target="_blank">Accessibility</a>
+						<!--
+						<a class="gtm-footer-link-outbound" href="#">Emergency</a>
+						-->
+					</div>
+				</div>
+			</div>
+		</footer>
+
+		<script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+		<script src="/vendors/fancybox-master/dist/jquery.fancybox.min.js"></script>
+
+		
+		<script src="https://www.brand.ucla.edu/js/main.js" ></script>
+
+		<script type="text/javascript">
+			$(document).ready( function() {
+				$('a.fancybox').fancybox();
+			});
+
+						</script>
+		<!-- test -->
+	</body>
+</html>

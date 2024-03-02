@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="GENERATOR"
+ content="Mozilla/4.79 [en] (X11; U; Linux 2.4.18-3smp i686) [Netscape]">
+  <title>Truffles</title>
+  <link rel="stylesheet" type="text/css" href="spacing.css">
+</head>
+<body text="#800080" bgcolor="#ffffff" link="#40e0d0" vlink="#00bfff"
+ alink="#000000">
+<center><b><i><font size="+4">Truffles</font></i></b>
+<br>
+<b><i><font size="+2">Secure Flexible File-Sharing Over Wide-Area
+Networks</font></i></b></center>
+<center>
+<table height="20">
+  <tbody>
+    <tr>
+      <td><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<center>
+<table width="80%">
+  <tbody>
+    <tr>
+      <td><b><font size="+1">Computer users benefit greatly from being
+able to
+work cooperatively, but they are often limited by constraints of
+geography,
+administrative boundaries, and the existing state of distributed
+systems.
+Sharing data and setting up shared environments across networks like
+the
+Internet are difficult tasks. The only tools available are primitive
+and
+offer limited functionality. Most cooperation between geographically or
+administratively distant areas is performed solely through electronic
+mail.&nbsp;</font></b>
+      <p><b><font size="+1">The goal of the Truffles projects was to
+improve the
+tools available for cooperative work. The first such tool addressed by
+Truffles was file-sharing. Since much data is stored as files, the
+ability
+to share such data flexibly and securely will greatly facilitate the
+performance
+of cooperative work. A file-sharing tool for this environment must
+handle
+some difficult problems, such as secure transport of data, limited
+trust
+between the sharing parties, failures of the communications media
+between
+partners, difficulty of setting up the shared environment, and
+performance
+issues.&nbsp;</font></b>
+      </p>
+      <p><b><font size="+1">Truffles addressed these problems by
+marrying two existing
+technologies: Trusted Information Systems' (TIS) Privacy Enhanced Mail
+(PEM) and UCLA's Ficus optimistically replicated file system. PEM
+allows
+secure, authenticated, reliable setup services. Ficus addresses issues
+of availability of the data and performance by keeping data local. The
+Truffles project extended these services and created new software to
+deal
+with some of the problems discussed previously. The Truffles code can
+be
+      <a href="http://www.lasr.cs.ucla.edu/ult">downloaded
+      </a>.&nbsp;</font></b>
+      </p>
+      <center>
+      <p><img src="TrufflesImage.JPG"></p>
+      </center>
+      <p><b><font size="+1">The diagram above illustrates a Truffles
+system working
+over the Internet. Three different sets of files are being shared among
+four sites spread across the country. One set of files is being shared
+between UCLA and ISI, another between UCLA, DARPA, and TIS's Maryland
+office,
+and a third between DARPA and TIS. The systems involved in each
+relationship
+can access the files they share, but not the files shared with any
+other
+system. Thus, ISI cannot access the files UCLA shares with TIS and
+DARPA.&nbsp;</font></b>
+      </p>
+      <p><b><font size="+1">Truffles was designed to improve
+portability, add new
+services to support cooperative work, verify the security of code, and
+develop an understanding of limited trust in distributed systems.&nbsp;</font></b>
+      </p>
+      <p><b><font size="+1">Truffles (contract N00174-92-C-0128) and
+it's follow-on
+research effort, User-Level Truffles (contract DABT63-95-C-0008) were
+funded
+entirely by DARPA/ITO.</font></b>
+      <br>
+&nbsp;
+      </p>
+      <p><br>
+      </p>
+      <center>
+      <p></p>
+      <hr width="100%"></center>
+      <b><font size="+0">Date: September 2005</font></b>
+      <br>
+      <b><font size="+0">Technical Contact: Peter Reiher
+(reiher@cs.ucla.edu)</font></b>
+      <br>
+      <b><font size="+0">WWW Contact: Janice Martin
+(jjmartin@cs.ucla.edu)&nbsp;</font></b></td>
+    </tr>
+  </tbody>
+</table>
+</center>
+</body>
+</html>

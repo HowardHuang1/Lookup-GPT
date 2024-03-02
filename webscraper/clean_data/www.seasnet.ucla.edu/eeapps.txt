@@ -1,0 +1,40 @@
+EE Course Applications | SEASnet
+Select Page
+EE Course Applications
+What are EEAPPS Servers and Who Can Use These Machines?
+EEAPPS
+servers refer to a group of machines that may be used by EE classes.
+If you log in to eeapps.seas.ucla.edu, you will be logged into one of the following servers:
+eeapps01.seas.ucla.edu
+eeapps02.seas.ucla.edu
+eeapps03.seas.ucla.edu
+eeapps04.seas.ucla.edu
+eeapps05.seas.ucla.edu
+eeapps06.seas.ucla.edu
+You may use individual hostnames if you would like, but we recommend using
+eeapps.seas.ucla.edu
+for better load balancing and system maintenance.
+Access is granted only to those users who are currently enrolled in EE classes in which the instructor has completed the
+class activation
+through MyEngineering.
+You MUST be on the UCLA network to access the EEAPPS servers.
+Special Software Available on EEAPPS
+See
+List of Special Software Available on EEAPPS Server
+How to Access EEAPPS with X Window
+From your own PC or SEASnet Lab PC using Xming and PuTTY
+From another Unix host
+From the SEASnet Remote Desktop Server
+MobaXterm
+Cadence Users Only
+See
+How to Change Cadence Data Output Directory
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

@@ -1,0 +1,587 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.cpc.mednet.ucla.edu/" />
+<link rel="shortlink" href="https://www.cpc.mednet.ucla.edu/" />
+<meta property="og:site_name" content="UCLA CPC" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.cpc.mednet.ucla.edu/" />
+<meta property="og:title" content="UCLA CPC" />
+  <title>UCLA CPC |</title>
+  <style>
+@import url("https://www.cpc.mednet.ucla.edu/modules/system/system.base.css?s8lm5r");
+</style>
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/modules/field/theme/field.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/filebrowser/css/filebrowser_style.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/views/css/views.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ckeditor/css/ckeditor.css?s8lm5r");
+</style>
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ctools/css/ctools.css?s8lm5r");
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.css?s8lm5r" media="all" />
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/field_slideshow/field_slideshow.css?s8lm5r");
+</style>
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/css/style.css?s8lm5r");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_YndZxdyT8-8LUpZC5MssOCg5j7KN4UJGOzCX7A0hGKI.js"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.js?s8lm5r"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_9Irmtts4WIQjtI9_aGGSQNKJ7ziW-04j3yWXwK3jtdg.js"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_sGFJ0aln9SHwpHdKSzoE8Cdcd6RIMEIfIGrifGaUeBw.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cpc_bootstrap","theme_token":"5fna_eRl5mCMsZE7pwmMPb4Ttr-_jO70-d6ljNxps-M","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"https:\/\/code.jquery.com\/jquery-3.7.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/contrib\/popup\/popup.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/modules\/contrib\/field_slideshow\/field_slideshow.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/cpc_bootstrap\/cpc_js.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/filebrowser\/css\/filebrowser_style.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/popup\/popup.css":1,"sites\/all\/modules\/contrib\/field_slideshow\/field_slideshow.css":1,"sites\/all\/themes\/cpc_bootstrap\/css\/style.css":1}},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":250,"delay":0},"field_slideshow":{"field-slideshow-1":{"fx":"fade","speed":"1000","timeout":"4000","pause":1,"start_on_hover":0,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"number","controls":{"#theme":"field_slideshow_controls","#slideshow_id":1,"#controls_pause":0}}},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+      </head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-574 node-type-front-page-2021" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+<style>
+body.node-type-front-page-2021 .col-sm-12 {
+	padding: 0;
+}
+.field-slideshow-wrapper {
+  xmargin-right: -15px;
+  xmargin-left: -15px;
+  xbackground-color: #040;
+}
+.navbar-default {
+    background-color: #000000;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ffb300;
+  background-color: transparent;
+}
+body.node-type-front-page-2021 .field-slideshow-slide .field-slideshow-caption {
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  padding-left: 15px;
+  width: 45%;
+  font-family: "BebasNeue", "Roboto-Black", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 63px;
+  line-height: .9;
+}
+@media (max-width: 768px) {
+  body.node-type-front-page-2021 .field-slideshow-slide .field-slideshow-caption {
+    font-size: 8vw !important;
+    line-height: 8.5vw !important;
+  }
+}
+.login-header, .login-header a
+	{ color: white; }
+.login-header a:hover, .login-header a:active, .login-header a:visited
+	{ color: #ffffff; }
+.hp_quicklinks {
+	color: #00a5e5;
+	}
+.hp_quicklinks a, .hp_quicklinks a:hover, .hp_quicklinks a:active, .hp_quicklinks a:visited {
+	color: #ffb300;
+}
+</style>
+<header id="navbar" role="banner">
+	<div class="container containerlogin">
+		<div class="row" style="margin-top:0px; margin-bottom:0px; background-color: #666666;">
+			<div class="login-header pull-right" style="display: inline; background-color: #00a5e5; padding:10px;">
+				<!-- AJAX Replaces here	-->
+				[ Login / Register ] <span class="glyphicon glyphicon-shopping-cart"></span> 0  items in cart
+			</div>
+			<div class="pull-left hp_quicklinks" style="display: inline; padding:10px;"><p>
+	&nbsp; &nbsp;</p>
+</div>
+
+		</div>
+	</div>
+  <div class="containernavbar container navbar-default">
+    <div class="navbar-header">
+      				<a class="logo navbar-btn pull-left" href="/" title="Home">
+					<img src="https://www.cpc.mednet.ucla.edu/sites/default/files/images/cpc_logo-323x32.png" alt="Home" id="logo" class="img-responsive" />
+				</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first expanded dropdown"><a href="/cpc/course-listings" title="Our Courses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Courses <span class="caret"></span></a><ul class="dropdown-menu"><li class="first collapsed"><a href="/emt-courses">EMT</a></li>
+<li class="collapsed"><a href="/paramedic-courses">Paramedic</a></li>
+<li class="leaf"><a href="/content/licensed-phlebotomist-course">Licensed Phlebotomist</a></li>
+<li class="expanded"><a href="/aha-courses">BLS, ACLS &amp; PALS</a></li>
+<li class="expanded"><a href="/cpr-first-aid-courses">CPR &amp; First Aid</a></li>
+<li class="last collapsed"><a href="/trauma-courses">Trauma &amp; NAEMT Courses</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/students" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Students <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/services/payment-methods">Payment Methods</a></li>
+<li class="leaf"><a href="/services/payment-plan">Payment Plan</a></li>
+<li class="leaf"><a href="/services/refunds-transfers">Refunds &amp; Transfers</a></li>
+<li class="leaf"><a href="/services/transcripts">Transcripts</a></li>
+<li class="leaf"><a href="/services/financial-aid">Scholarships</a></li>
+<li class="leaf"><a href="/veterans">Veteran&#039;s Assistance Benefits</a></li>
+<li class="leaf"><a href="/services/students-with-disabilities">Educational Accommodations</a></li>
+<li class="last leaf"><a href="/services/college-credit">College Credit &amp; CEUs</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/services" title="Services for agencies, hospitals, and businesses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/fdqi" title="node/572">Fire Department Quality Improvement</a></li>
+<li class="last leaf"><a href="/international">International</a></li>
+</ul></li>
+<li class="last expanded dropdown"><a href="/content/about-us" data-target="#" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/about/contact">Contact Us</a></li>
+<li class="leaf"><a href="/giving">Giving</a></li>
+<li class="leaf"><a href="/content/ucla-center-prehospital-care-strategic-plan">Strategic Plan</a></li>
+<li class="leaf"><a href="/about/leadership">Leadership</a></li>
+<li class="leaf"><a href="/diversity-resources">Equity, Diversity &amp; Inclusion</a></li>
+<li class="leaf"><a href="/about/history">Our History</a></li>
+<li class="leaf"><a href="/about/employment">Jobs at the Center</a></li>
+<li class="last leaf"><a href="https://www.uclahealth.org/privacy-practices" title="">Privacy Practices</a></li>
+</ul></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    <section class="col-sm-12">
+            <a id="main-content"></a>
+      <!--
+		      	        <h1 class="page-header">Home Page</h1>
+            			-->
+                                              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <style type="text/css">.equal {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+}
+.row .hpgrid {
+    margin-left: -4px;
+    margin-right: -4px;
+}
+.row .hpgrid div.gridslot{
+    padding-right:4px;
+    padding-left:4px;
+    background-clip: content-box !important;
+}
+.row .hpgrid div.gridslot a, .row .hpgrid div.gridslot img, .row .hpgrid div img{
+    display: flex;
+    display: -webkit-flex;
+    align-self: flex-end;
+}
+.row div.featureslot {
+	padding:2em;
+}
+p.leadsmall {
+	font-size:16px;
+	color:#c8c8c8;
+}
+button.webform-submit {
+	text-align:center;
+	display: inline-block;
+	float:right;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	min-width:30%;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Roboto-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+.hpbluebox a {
+	color: #000;
+}
+.hpbluebox h2 {
+	font-size:36px;
+}
+@media (max-width: 768px) {
+  .hpbluebox h2 {
+    font-size: 4vw !important;
+    line-height: 4vw !important;
+  }
+  .hpgrid h2, .tagline h2, .tagline h3 {
+    font-size: 4vw !important;
+    line-height: 4vw !important;
+  }
+  .row div.featureslot {
+	padding-top:1em;
+	padding-bottom:1em;
+  }
+  .row div.featureslot.xs-nopad-bottom {
+	padding-bottom:0px;
+  }
+  .row div.featureslot.xs-nopad-top {
+	padding-top:0px;
+  }
+}
+</style>
+<!-- node--front_page -->
+<div id="node-574" class="node node-front-page-2021 clearfix" about="/content/home-page" typeof="sioc:Item foaf:Document">
+
+  <div class="content">
+		<!--
+					<h1 class="page-header">Home Page</h1>
+				-->
+		
+		
+		<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+          <!-- field_slideshow override template in theme root -->
+<div id="field-slideshow-1-wrapper" class="field-slideshow-wrapper" data-ride="carousel">
+    
+    <div class="field-slideshow field-slideshow-1 effect-fade timeout-4000 with-pager with-controls" style="width:1280px; height:450px">
+	<!-- slideshow items: -->
+          <div class="field-slideshow-slide field-slideshow-slide-1 even first">
+			<!-- single item: -->
+        <a href="/emt"><img class="field-slideshow-image field-slideshow-image-1 img-responsive" typeof="foaf:Image" src="https://www.cpc.mednet.ucla.edu/sites/default/files/emt-banner-1280.jpg" width="1280" height="450" alt="" /></a>                  <div class="field-slideshow-caption">
+            <span class="field-slideshow-caption-text"><a href="/emt">Become an EMT</a></span>
+          </div>
+              </div>
+          <div class="field-slideshow-slide field-slideshow-slide-2 odd" style="display:none;">
+			<!-- single item: -->
+        <a href="/lifesupport"><img class="field-slideshow-image field-slideshow-image-2 img-responsive" typeof="foaf:Image" src="https://www.cpc.mednet.ucla.edu/sites/default/files/PMwith1Med-B2.jpg" width="1280" height="450" alt="BLS ACLS PALS: AHA certified for health professionals" /></a>                  <div class="field-slideshow-caption">
+            <span class="field-slideshow-caption-text"><a href="/lifesupport">BLS ACLS PALS: AHA certified for health professionals</a></span>
+          </div>
+              </div>
+          <div class="field-slideshow-slide field-slideshow-slide-3 even last" style="display:none;">
+			<!-- single item: -->
+        <a href="/phlebotomy"><img class="field-slideshow-image field-slideshow-image-3 img-responsive" typeof="foaf:Image" src="https://www.cpc.mednet.ucla.edu/sites/default/files/Header_Phlebotomy_Prep_2.jpg" width="1280" height="450" alt="Phlebotomy" /></a>                  <div class="field-slideshow-caption">
+            <span class="field-slideshow-caption-text"><a href="/phlebotomy">Licensed Phlebotomist</a></span>
+          </div>
+              </div>
+    		<!-- pager field--field_slideshow_5 -->
+  </div>
+	
+  <div id="field-slideshow-1-pager" class="field-slideshow-pager slides-3"></div>
+
+  <div id="field-slideshow-1-controls" class="field-slideshow-controls">
+  <a href="#" class="prev">Prev</a>
+    <a href="#" class="next">Next</a>
+</div>
+
+  <a class="left carousel-control" href="#field-slideshow-1-wrapper" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+  <a class="right carousel-control" href="#field-slideshow-1-wrapper" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>    	  
+		<!-- Front Page features -->
+			  
+	  
+<!--–– SECTION GRID PLAY ––-->
+<div class="row" style="margin-top:8px;">
+	<div class="col-xs-12">
+		<div class="rtecenter tagline" style="background: #c8c8c8; padding:15px;">
+			<p>
+	&nbsp;</p>
+<!-- <h2><p>	<span style="color:#FF0000;"><strong>Our office will be closed for President's Day on February 19</strong></span></h2>
+<p> --></p>
+<p>
+	&nbsp;</p>
+		</div>
+	</div>
+</div>
+
+<!--–– NEW HP GRID ––-->
+<div class="row equal hpgrid" style="margin-bottom:8px; margin-top:8px;">
+	<div class="col-xs-6 gridslot" style="background: #000;">
+		<a href="/emt-courses"><img class="img-responsive center-block" src="/sites/default/files/home/uclacpc-hpgrid-emt-2023.jpg" /></a></div>
+
+	<div class="col-xs-6 equal gridslot" style="background: #000; background-clip: content-box;">
+		<a href="/phlebotomy"><img class="img-responsive center-block" src="/sites/default/files/home/uclacpc-hpgrid-phlebotomy-2023.jpg" /></a></div>
+</div>
+
+<div class="row equal hpgrid" style="margin-bottom:8px; margin-top:8px;">
+	<div class="col-xs-6 equal gridslot" style="background: #000;">
+		<a href="/paramedic-courses"><img class="img-responsive center-block" src="/sites/default/files/home/uclacpc-hpgrid-paramedic-2023.jpg" /></a></div>
+
+	<div class="col-xs-3 equal gridslot" style="background: #000; background-clip: content-box;">
+		<a href="/aha-courses"><img class="img-responsive center-block" src="/sites/default/files/home/uclacpc-hpgrid-4-aha-2023.jpg" /></a></div>
+
+	<div class="col-xs-3 equal gridslot" style="background: #000; background-clip: content-box;">
+		<a href="/trauma-courses"><img class="img-responsive center-block" src="/sites/default/files/home/uclacpc-hpgrid-4-trauma-2023.jpg" /></a></div>
+</div>
+	  
+<!--–– SPOT 01 ––-->
+<div class="row hpgrid" style="margin-bottom:8px; margin-top:8px; background-color: #eee; ">
+	<div class="col-sm-4 clearfix featureslot xs-nopad-bottom">
+		<h2 style="color:#00A5E5;">Turner Internship</h2>
+	</div>
+
+	<div class="col-sm-8 clearfix featureslot xs-nopad-top">
+		<p>The one-week-long Turner UCLA Allied Health Internship is implemented by the UCLA Community Engagement Program, in partnership with Bobby and Lauren Turner, to provide learning opportunities for high school students and recent graduates in finding out more about careers in the entry-level, allied health professions. Information sessions in December and January.</p>
+
+		<p>
+			<a class="btn btn-primary" href="https://medschool.ucla.edu/community-and-equity/community-engagement/pipeline-programs/turner-ucla-allied-health-internship" role="button">LEARN MORE</a></p>
+	</div>
+</div>
+<!--–– SPOT 2 ––-->
+<div class="row hpgrid equal" style="margin-bottom:0em; background-color: #000000; padding-bottom:0em;">
+	<div class="col-xs-4 clearfix equal" style="padding:0em">
+		<img alt="Paramedic in training" class="img-responsive" src="https://www.cpc.mednet.ucla.edu/sites/default/files/cpc_hybrid_third_leadership_0.jpg" /></div>
+
+	<div class="col-xs-8 clearfix featureslot">
+		<h2 style="color:#00A5E5;">What&#039;s the difference between an EMT and a Paramedic?</h2>
+
+		<p class="leadsmall">EMTs and Paramedics are the backbone of our emergency medical system. Learn more about careers in EMS.</p>
+
+		<p>
+			<a class="btn btn-primary" href="/node/27" role="button">LEARN MORE</a></p>
+	</div>
+</div>
+<!--–– SPOT 3 ––-->
+<div class="row hpgrid" style="margin-bottom:8px; margin-top:8px; background-color: #fff; ">
+	<div class="col-sm-4 clearfix featureslot xs-nopad-bottom">
+		<h2 style="color:#00A5E5;">Paramedic Preparation</h2>
+	</div>
+
+	<div class="col-sm-8 clearfix featureslot xs-nopad-top">
+		<p>Ready to take the BIG step to Paramedic? We can help you make the decision, and succeed in your education. Learn about our Paramedic Prep course or sign-up for our next free Paramedic Info Session.</p>
+		
+		<p>
+			<a class="btn btn-primary" href="https://www.cpc.mednet.ucla.edu/paramedic" role="button">LEARN MORE</a></p>
+	</div>
+</div>
+
+<!--–– END ––-->
+		<!-- Body content 		-->
+		<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+          <style type="text/css">div.field-slideshow-controls a {
+  font-size:1px;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  margin-top: -35px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+}
+div.big-hr {
+  border-top: 10px solid #000000;
+}
+</style><!--–– NEW VIDEO SPOT ––--><div class="row hpgrid big-hr" style="margin-bottom:0px; margin-top:0px; background-image: linear-gradient(#dddddd, #ffffff);">
+<div class="col-sm-10 clearfix featureslot" style="padding-top:5px; padding-bottom:5px;">
+<p style="color:#00A5E5;">
+			&nbsp;</p>
+</div>
+<div class="col-sm-2 clearfix gridslot featureslot">
+		&nbsp;</div>
+</div>
+<div class="row hpgrid hide" style="margin-bottom:50px; background-color: #FFF; padding-bottom:0em;border-bottom: 5px solid #444444;">
+<div class="col-sm-4 clearfix equal gridslot">
+<div>
+			<a href="https://youtu.be/FLZmriUnuvY"><img alt="Paramedic in training" class="img-responsive" src="/sites/default/files/CPR-100-Times.jpg" /></a></div>
+<div class="featureslot">
+<p>
+				<a class="btn btn-primary" href="https://youtu.be/FLZmriUnuvY" role="button">CPR Saves Lives | UCLA Health</a></p>
+<p>
+				Cardiopulmonary resuscitation (CPR) is given when someone’s breathing or pulse stops. If both have stopped, then sudden death has occurred...</p>
+</div>
+</div>
+<div class="col-sm-4 clearfix gridslot">
+<div>
+			<a href="https://youtu.be/vMzjloIAdm8"><img alt="Paramedic in training" class="img-responsive" src="/sites/default/files/Call-911.jpg" /></a></div>
+<div class="featureslot">
+<p>
+				<a class="btn btn-primary" href="https://youtu.be/vMzjloIAdm8" role="button">Tips for Calling 911 | UCLA Health</a></p>
+<p>
+				Would it blow your mind to know that 240 million people a year dial 911? How about if almost half of those calls weren’t even necessary?...</p>
+</div>
+</div>
+<div class="col-sm-4 clearfix gridslot">
+<div>
+			<a href="https://youtu.be/IIP9q-Nj9Qo"><img alt="Paramedic in training" class="img-responsive" src="/sites/default/files/Bleeding.jpg" /></a></div>
+<div class="featureslot">
+<p>
+				<a class="btn btn-primary" href="https://youtu.be/IIP9q-Nj9Qo" role="button">Stop the Bleed | UCLA Health</a></p>
+<p>
+				Did you know that trauma is the fourth leading cause of death in America and bleeding is the #1 cause of preventable death following injury?...</p>
+</div>
+</div>
+</div>
+<!--–– SPOT 4 ––--><!--
+<div class="row hpgrid equal" style="margin-bottom:8px; background-color: #000000; padding-bottom:0em;"><div class="col-xs-4 clearfix equal" style="padding:0em">
+		<img alt="Paramedic in training" class="img-responsive" src="https://www.cpc.mednet.ucla.edu/sites/default/files/cpc_hybrid_third_iv.jpg" /></div>
+<div class="col-xs-8 clearfix featureslot">
+<h2 style="color:#00A5E5;">
+			What's the difference between an EMT and a Paramedic?</h2>
+<p class="leadsmall">
+			EMTs and Paramedics are the backbone of our emergency medical system. Learn more about careers in EMS.</p>
+<p>
+			<a class="btn btn-primary" href="/node/27" role="button">LEARN MORE</a></p>
+</div>
+</div>
+<p>--></p>
+<!--–– SPOT 5 ––--><!--
+<div class="row hpgrid" style="margin-bottom:8px; margin-top:8px; background-color: #eee; "><div class="col-sm-4 clearfix featureslot xs-nopad-bottom">
+<h2 style="color:#00A5E5;">
+			Bryant Gladney Paramedic Education Scholarship</h2>
+</div>
+<div class="col-sm-8 clearfix featureslot">
+<p>
+			The Bryant Gladney Paramedic Education Scholarship is a $1,000 tuition scholarship offered to students who are currently enrolled in or starting a Paramedic program in the United States. These scholarships are awarded to students who display a strong passion for serving their community and who plan to pursue a life-long career in emergency medicine.</p>
+<p>
+			<a class="btn btn-primary" href="https://www.gladneyfoundation.org/" role="button">LEARN MORE</a></p>
+</div>
+</div>
+<p>--></p>
+      </div>
+
+    
+</div>  </div>
+</div>
+  </div>
+    </section>
+
+  </div>
+</div>
+
+
+<footer class="footer container">
+	
+	<div class="col-sm-3">
+      <div class="region region-footer-left">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="footer-menu footer-menu-left">
+<li>
+		<span style="color:#00a5e5;">Resources</span></li>
+<li>
+		<a href="https://www.cpc.mednet.ucla.edu/pcrf/">PCRF</a></li>
+<li>
+		<a href="/about/contact">Contact</a></li>
+<li>
+		<a href="https://vipcpc1.ad.medctr.ucla.edu/portal">Portal</a></li>
+<li>
+		<a href="https://www.cpc.mednet.ucla.edu/SRRS/Staff/StaffMain.aspx">SRRS Staff Page</a></li>
+<li>
+		<a href="/associates">Associate Resources</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-6">
+      <div class="region region-footer-middle">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="footer-menu footer-menu-center-left">
+<li>
+		<a href="/courses">Courses</a></li>
+<li>
+		<a href="/emt">EMT</a></li>
+<li>
+		<a href="/paramedic">Paramedic</a></li>
+<li>
+		<a href="/lifesupport">CPR, ACLS, PALS</a></li>
+<li>
+		<a href="/course/phlebotomy">Phlebotomy</a></li>
+<li>
+		<a href="/course/phtls">Trauma</a></li>
+</ul>
+<ul class="footer-menu footer-menu-center-center">
+<li>
+		<a href="/students">Students</a></li>
+<li>
+		<a href="/services/payment-methods">Payment Methods</a></li>
+<li>
+		<a href="/services/financial-aid">Financial Aid</a></li>
+<li>
+		<a href="/services/books">Books</a></li>
+<li>
+		<a href="/services/transcripts">Transcripts</a></li>
+</ul>
+<ul class="footer-menu footer-menu-center-right">
+<li>
+		<a href="/about">About Us</a></li>
+<li>
+		<a href="/about/contact">Contact</a></li>
+<li>
+		<a href="/giving">Giving</a></li>
+<li>
+		<a href="/about/leadership">Leadership</a></li>
+<li>
+		<a href="/diversity-resources">Equity, Diversity<br />
+		&amp; Inclusion</a></li>
+<li>
+		<a href="/about/history">Our History</a></li>
+<li>
+		<a href="/about/employment">Jobs at CPC</a></li>
+<li>
+		<a href="https://www.uclahealth.org/privacy-notice">Privacy Practices</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-3">
+      <div class="region region-footer-right">
+    <div id="block-block-4" class="block block-block">
+
+    
+  <div class="content">
+    <div style="width:185px; xmargin:20px auto;">
+	<a href="http://www.facebook.com/uclacpc"><img class="img-responsive" src="/sites/all/themes/cpc_bootstrap/theme_images/facebookIcon-240.png" style="display: inline-block; margin: 5px; max-width:120px;" /></a><!--<img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-FB.png" style="display: inline-block; margin: 5px;" /> <img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-LI.png" style="display: inline-block; margin: 5px;" /><img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-YT.png" style="display: inline-block; margin: 5px;" /> --> <a href="https://www.instagram.com/uclacpc/" target="_blank"><img src="/sites/default/files/icons/instagram_glyph_color.png" style="display: inline-block; max-height: 40px; max-width: 40px; " /></a></div>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-12 footer-bottom">
+		<div style="text-align: center; border-top: 1px solid #777;display:none;">
+		<a href="">Privacy</a> | <a href="">Terms</a>
+		</div>
+	</div>
+<!--
+	<div class="col-sm-12">
+		<div style="text-align: center;border-top:2px solid #666;">
+		<a href="/srrs/emsupdate"><img src="/srrs/images/ems_update_banner-larger.png" style="border:none;"></a>
+		</div>
+	</div>
+-->
+  		</footer>
+  <script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1140942336" async></script></body>
+</html>

@@ -1,0 +1,73 @@
+SEASnet Lab Policies | SEASnet
+Select Page
+SEASnet Lab Policies
+General Guidelines
+Failure to follow SEASnet Lab Policy may result in the temporary loss of your SEASnet account and/or further disciplinary action by the Engineering Dean of Students.
+The SEASnet Lab Policies are in addition to the
+User Agreement
+you accepted when you first established your SEASnet account, and the campus policies documented at
+https://www.it.ucla.edu/it-ucla/it-policies-practices
+SEASnet strongly recommends all users educate themselves regarding the personal risks involved in illegal file-sharing or copyright infringement by reading the information posted at the University of California’s Office of the President:
+http://www.ucop.edu/information-technology-services/initiatives/universitywide-copyright-policies-and-guidance-.html
+Facility Use Policy
+Users must follow instructions given by SEASnet staff.
+Food or drink in any type of container may only be left in the cubbies designed for this purpose.
+If labs are full, users needing to do course work have priority over those users just browsing the internet, reading email, etc.
+If you have access to restricted software for course work, that software may only be used to do assignments for that course.
+Users in the lab must need the use of the computers. Please do not use the lab to take a quick nap or study from textbooks.
+Machines may not be locked for more than 15 minutes. A machine left longer than 15 minutes will be rebooted by SEASnet staff to make available for another user.
+SEASnet is not responsible for anything done to a user’s account in the event the user did not log out prior to leaving the lab.
+There is one reserved station in room 4404 Boelter Hall. This station is reserved for students with disabilities. This station may only be used by non-disabled students provided there are no students with disabilities waiting and
+all
+other stations are full.
+Noise should be kept to a minimum. Please keep electronic devices on vibrate.  If you must use your phone, please have your conversation outside of the room.
+Items left in the lab are taken to HSSEAS Lost & Found in room 6426 Boelter Hall.
+Chairs are for lab use only and should not be removed from the room.
+Phone is for emergency use or to contact the SEASnet help desk (x75154).
+No bicycles allowed in the labs.
+All SEASnet labs may be under electronic surveillance.
+Information Distribution in SEASnet Labs
+SEASnet has specific policies for posting information in the labs. Currently this is an open policy whereby you are allowed to post information for engineering students without permission from SEASnet. However, we expect you to be responsible in your postings. Postings should be directly related to those items of interest to engineering students and must follow the guidelines outlined below.
+You may
+not
+distribute individual fliers to each station in the labs.
+You may leave fliers at our help desk for students to pick up.
+You may post announcements in the labs provided that you use “posting friendly” tape that doesn’t pull the paint/varnish off our walls and doors and announcements are removed when they are no longer valid.
+Official engineering organizations may also request the announcement be placed on SEASnet’s
+Message of the Day
+. Requests for postings of announcements on the MOTD can be sent to
+help@seas.ucla.edu
+for review. The announcement must be brief in nature and related to official university business.
+Server Use Policy
+Server Policies
+Priority is given to students doing coursework. Computing support for research is provided by the academic units. Should students be unable to complete their coursework due to a lack of computing resources, SEASnet will limit access to machines to those students enrolled in engineering courses.
+You may not run commands that require escalated privileges unless given specific directions to do so by your instructor.
+Users connecting to SEASnet servers with multiple simultaneous unsuccessful login attempts are considered to be brute force attacks and will result in the originating machine being blocked from the HSSEAS network.
+Process Definitions
+Resource Intensive Processes
+Programs or sets of programs that are planned to run for more than a few hours and which will use large amounts of system resources, such as computer cycles, memory, or process slots.
+Attended Processes
+Processes attached to a terminal session that also has an interactive shell belonging to the same user, or processes running as a netshell client.
+Unattended Processes
+Processes running unattached to any interactive session. This includes abandoned/lost X sessions and/or X based processes that are consuming computer cycles.
+Process Policies
+Resource intensive processes
+should not
+be run during prime time. Prime time is defined as 0800 (8:00AM) to 1700 (5:00PM) weekdays, except for University Holidays. We understand that sometimes it is necessary to run during prime time so we have implemented the following rules to ensure that the available resources are fairly shared. During prime time, a user may run one attended resource intensive job. During non prime time, a user may run one attended resource intensive job per computer to which the user has access.
+Users with more than one attended resource intensive process per computer will have
+all
+of the processes terminated on that computer. Users with multiple attended resource intensive processes running on multiple computers (if you split the load across several machines) during prime time will be warned and after four hours
+all
+of the user’s processes on any SEASnet managed computer will be terminated. Unattended resource intensive processes will be terminated when they are discovered.
+Explicitly prohibited processes include, but are not limited to: IRC Bots of any kind, fileservers of any kind and computer cycle servers.
+Classes needing to run intensive processes should contact
+help@seas.ucla.edu
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

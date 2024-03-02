@@ -1,0 +1,80 @@
+File Recovery | SEASnet
+Select Page
+File Recovery
+SEASnet takes a snapshot of your account several times a day.  These snapshots allow you to restore data from your account, including accidentally deleted files and directories.
+Useful commands:
+ls -ltu
+lists the time a snapshot was made
+ls -l
+lists the last time a file was modified
+In the following example, Bob restores a file he deleted by mistake while working on his project.
+BOLD denotes commands.
+Denotes comments.
+Denotes screen display.
+
+server:Home/CS174(65)
+rm *.cc
+<- OOPSIE! Accidentally deleted
+server:Home/CS174(66)
+date
+file on May 10 10:20:54
+Mon May 10 10:20:54 PDT 1999
+server:Home/CS174(67)
+cd
+<- Switch to your home directory
+server:Home(68)
+cd .snapshot
+<- Then to the snapshot directory
+server:Home/.snapshot(69)
+ls -l
+File was deleted on May 10 10:20:54, so the
+total 96
+hourly.0 snapshot will have the file
+drwx--x--x  15 bob      csugrad     1234 May 09 21:30 hourly.0
+<- This one
+drwx--x--x  15 bob      csugrad     1234 May 08 18:14 hourly.1
+drwx--x--x  15 bob      csugrad     1234 May 08 18:14 hourly.2
+drwx--x--x  15 bob      csugrad     1234 May 08 18:14 hourly.3
+drwx--x--x  15 bob      csugrad     1234 May 08 18:14 nightly.0
+drwx--x--x  15 bob      csugrad     1234 May 07 21:00 nightly.1
+drwx--x--x  14 bob      csugrad     1234 May 06 20:11 nightly.2
+drwx--x--x  14 bob      csugrad     1234 May 05 17:06 nightly.3
+drwx--x--x  14 bob      csugrad     1234 May 04 18:37 nightly.4
+drwx--x--x  14 bob      csugrad     1234 May 03 23:48 nightly.5
+drwx--x--x  14 bob      csugrad     1234 May 01 23:33 nightly.6
+drwx--x--x  15 bob      csugrad     1234 May 09 21:30 weekly.0
+server:Home/.snapshot(70)
+cd hourly.0/CS174
+<- Go to the CS174 directory
+server:/w/ugrad.01/.snapshot/hourly.0/cs/bob/risc/CS174(71)ls -l
+total 0
+-rw-------   1 bob      csugrad        0 May 07 11:38 final_proj
+-rw-------   1 bob      csugrad        0 May 07 11:38 final_proj.cc
+<- Here it is
+-rw-------   1 bob      csugrad        0 May 07 11:38 final_proj.dll
+-rw-------   1 bob      csugrad        0 May 07 11:38 final_proj.doc
+-rw-------   1 bob      csugrad        0 May 07 11:38 final_proj.o
+server:/w/ugrad.01/.snapshot/hourly.0/cs/bob/risc/CS174(72)
+cp final_proj.cc ~/CS174
+Copy the file from the snapshot to your directory
+-^
+server:/w/ugrad.01/.snapshot/hourly.0/cs/bob/risc/CS174(73)
+cd ~/CS174
+server:Home/CS174(74)
+ls -l
+total 0
+-rw-------   1 bob      csugrad        0 May 10 09:55 final_proj
+-rw-------   1 bob      csugrad        0 May 10 09:55 final_proj.cc
+<- Now it's back
+-rw-------   1 bob      csugrad        0 May 10 09:55 final_proj.dll
+-rw-------   1 bob      csugrad        0 May 10 09:55 final_proj.doc
+-rw-------   1 bob      csugrad        0 May 10 09:55 final_proj.o
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

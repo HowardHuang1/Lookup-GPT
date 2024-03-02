@@ -1,0 +1,186 @@
+Ergonomics - Break Reminder Software
+Skip to Main Content
+Ergonomics
+Search Icon
+Search the site:
+Home
+Training
+Break Reminder Software
+A Repetitive Strain Injury (RSI) is an injury that occurs over a period of time during which we repeatedly expose our bodies to minor strains without taking enough time to rest and recover. These injuries can lead to discomfort, muscle weakness, and nerve damage, which can limit your abilities, reduce your productivity, and negatively impact your life in a variety of ways. Taking regular breaks allows your body to rest and recover. RSIGuard is a break reminder software and a helpful tool that can improve your break-taking habits.
+UCLA Ergonomics has purchased licenses of RSIGuard for use by campus staff and faculty. Student-workers, part-time employees, and other persons on paid status with UCLA are welcome to use RSIGuard.
+How to Download RSIGuard
+Windows OS - Instructions: Follow the link:
+https://www.rsiguard.com/download/?id=ucla
+Authorized users must have a valid UCLA email address to receive a link to download RSIGuard. You will receive an email from Cority RSIGuard Support: staff@rsiguard.com with the subject line UCLA RSIGUARD DOWNLOAD LINK. Follow the link to begin the download process.
+Mac OS - Instructions: Follow the link:
+https://www.rsiguard.com/download
+and download the 45-day trial for Mac OS X (International Edition). Send an email to
+contact@ergonomics.ucla.edu
+for a registration code to convert your trial copy into a permanent copy.
+Installation
+Users must have administrative privileges to install software on the computer or should contact their IT Help Desk to complete the installation.
+Setup Wizard
+Use the Setup Wizard to configure RSIGuard after initial installation and consider these tips when answering the questions.
+Computer comfort
+– RSIGuard will reduce the amount of time between breaks based on how frequently you experience discomfort related to your computer workstation use. The time between breaks ranges between 22 and 60 minutes. You have the option to postpone breaks and RSIGuard will adjust the number of postponements based on your report comfort level.
+Willingness to follow BreakTimer’s suggestions
+– RSIGuard will adjust the level and type of intervention to motivate users to take desired, suggested, or required breaks. In the most involved cases, RSIGuard will disable your keyboard and mouse to ensure compliance with required work restrictions.
+Taking Breaks
+– The pop-up BreakTimer window and Begin Break Buttons are options to start rest periods. The pop-up BreakTimer window will initiate a break and is recommended for users with work restrictions. Use of the Begin Break Button will allow you to postpone taking a break, or extend the active computer time and is recommended for most users.
+Stretches
+– If checked, you will be shown 3 stretches when the BreakTimer is activated.
+Forget Me Not Reminders and Microbreaks
+– You are advised to take microbreaks as part of the ForgetMeNot Reminders.
+You can adjust the RSIGuard features at any time within the Settings menu. To access the settings menu click on the gear symbol and select Settings.
+BreakTimer Tips
+BreakTimer suggests when to take breaks based on your computer use and rules you can create. One of the most important and powerful aspects of the RSIGuard BreakTimer is that it can be configured to meet any individual's needs.
+To adjust BreakTimer settings, click the gear symbol and select Settings. Then, select the BreakTimer tab, and then click Adjust Settings.
+Be sure to
+explore the BreakTimer settings
+to learn more.
+ForgetMeNot Tips
+ForgetMeNots/Microbreaks feature helps to increase your awareness of your body during work and to remind you to take Microbreaks. To adjust ForgetMeNots settings, click the gear symbol and select Settings. Then, select the ForgetMeNots tab.
+ForgetMeNots and Microbreaks Timing
+Enabling ForgetMeNots
+- Select ON or OFF to enable or disable ForgetMeNots.
+Frequency
+- Select how often ForgetMeNots appear by changing the time in the Show a ForgetMeNots message every X minutes box. The recommended range is 10 to 30 minutes. Every 15 minutes is good for most users.
+Microbreaks
+- To include a microbreak with your ForgetMeNot message, check "ForgetMeNot reminders should also include X second Microbreaks." Specify how long you want the microbreaks to be, the recommended range is 8 to 15 seconds. When reminder messages appear, you are prompted to pause. You should stop working for the specified time (e.g., 12 seconds for the settings shown above). A countdown timer will wait for you to complete the pause. The Advanced setting lets you change what RSIGuard will do if you ignore the microbreak suggestion.
+ErgoCoach Equipment Optimization
+Ergo Coach
+is a group of tools that help you work more effectively. Each ErgoCoach tool addresses a particular aspect of your computing environment. To adjust ErgoCoach settings, click the gear symbol and select Settings. Then, select the ErgoCoach tab. Take some time to explore each
+ErgoCoach
+toolset that applies to you.
+Multiple monitors
+Sit-stand desks
+Notebook computers
+Shared (unassigned) workstations
+Remote (virtual) terminal/computer use
+AutoClick Tips
+AutoClick is a feature designed to lessen the strain associated with mousing. Here are 3 ways you can use AutoClick, along with KeyControl, to reduce mouse strain.
+Auto Click Video Tutorial
+When you move the mouse to a new location, AutoClick automatically clicks for you.
+Each time you move the mouse and then stop, the mouse automatically clicks. This feature requires some time to adapt since you don't expect mouse clicks to occur every time you move the mouse. After a short time, most people find that they acclimate to a new way of working.
+By pressing a KeyControl hotkey, you can perform a single, double-, or triple-click, or a right-click.
+By default, AutoClick's automatic clicks are single left-clicks (though this is adjustable). At times you will want some other kind of click (e.g., double- or right-click).
+KeyControl
+hotkeys let you define keyboard shortcuts to do all common click maneuvers with a single keypress.
+KeyControl's DragLock hotkey will hold the mouse button down until you press another key (or click the mouse). This lets you drag to select or move things without the strain of holding the mouse button.
+The DragLock hotkey feature allows you to position the mouse (or another pointing device) where you want to start the drag or selection, tap a hotkey, and then drag the mouse without having to actually hold the button down. Clicking the mouse or pressing any key (except the arrow keys) will end the drag. During a drag, the arrow keys allow you to move the mouse cursor in a more controlled way (separating horizontal and vertical motion).
+Setting Up AutoClick
+To explore the AutoClick functionality, click the gear symbol and select Settings. Then, select the AutoClick tab.
+Enable AutoClick
+- Select ON or OFF to enable or disable AutoClick.
+Main AutoClick Settings
+Trigger Time
+- The mouse pointer must be still for at least this period of time before AutoClick automatically clicks. The length of time is shown in the Settings screen in tenths of a second (e.g., 4 = 4/10ths of a second). Set this to a lower number (e.g., 4) as you become more adept at using AutoClick to make clicks occur more rapidly. Set this number higher while you learn to use AutoClick (e.g., 8) or if you have a disability that limits your control of the mouse position.
+Trigger Distance
+- The mouse pointer must move at least this many screen pixels after an automatic click before it will click again. This prevents automatic clicks if the mouse jitters or wiggles a few pixels after you let go of it. If your mouse has a tendency to slide when not in use, increase this number. If your mouse cord pulls your mouse when you release it (causing unwanted AutoClicks) you may benefit from using a cordless mouse, a mouse-pad with a rougher surface, or an alternate pointing device like a trackball or touchpad.
+Audio feedback for AutoClicks
+- By checking this option, you will hear a sound each time AutoClick clicks. You can select whether AutoClick makes a simple system beep through your computer speaker (the same sound for all clicks but no sound card is required) or unique sounds for each click through your sound card (requires a sound card with speakers).
+Visual feedback for AutoClicks
+- If enabled, AutoClick will show visual pointers that indicate that AutoClick is active and remind you when AutoClick is about to automatically click.
+Left-Handed Mouse Configuration
+- Check this option to reverse clicking logic for left-handed mouse usage. Checking this setting also automatically changes Windows to the left-handed mouse configuration for you (normally available in the Windows Control Panel).
+Advanced Settings
+Setting up AutoClick Filters
+Setting up Detailed Settings
+KeyControl Tips
+Key Control is an RSIGuard feature that helps reduce mouse strain by assigning lengthy keyboard or mouse activities to hotkeys. To assign hotkey functions select the KeyControl tab. The KeyControl window opens.
+My Hotkeys
+- The My Hotkeys section shows a list of your current KeyControl hotkeys. Hotkeys definitions include the assigned keys followed by the assigned name. (e.g. "Ctrl+Alt+Shift+A:MyAddress.") To temporarily disable a hotkey, uncheck the checkbox. Unchecked KeyControl definitions are kept and can be enabled again in the future.
+Mouse Cursor Movement
+- Enable mouse cursor movement with Windows Key+Ctrl key in combination with the arrow keys Controlling the Mouse with Arrow Keys. Check Enable mouse cursor movement with Windows Key+Ctrl key in combination with the arrow keys to control from the keyboard where the mouse cursor points. Hold down the Windows Key and then use the arrow keys to move the mouse. You can combine 2 arrow keys to move diagonally (e.g., holding the Up arrow and the Left arrow makes the cursor move diagonally up and to the left).
+Add New Hotkey
+To create a new hotkey, click Add New Hotkey.
+1. Select the Keypress
+- Click Select Keypress (or press Alt+S), then press the key combination you want to assign a hotkey to (e.g., Ctrl+Shift+G). It's important to pick a combination that isn't used elsewhere (e.g., using Alt+S would interfere with the shortcut for Select Keypress). The KeyControl wizard suggests using an alternate key if it knows your choice is likely to be a problem.
+2. Define the hotkey
+- Select a category for the key you wish to define. Based on the category you select, fill in the fields presented to complete the definition of the hotkey.
+- RSIGuard Functions - Assign functions like Single Click, Drag Lock, Take a Break Now, etc.
+- Launch an Application - Assign a hotkey to launch an application you use frequently.
+- Open a File - Assign a hotkey to open a file you use frequently.
+- Open a Web Page - Assign a hotkey to view a webpage you visit frequently.
+- Type Text - Assign a hotkey to type text you type frequently.
+- Insert Text from a File - Assign a hotkey to insert the entire text contents of a text file. This is like "Type Text" but is meant for larger amounts of text.
+- Run RSIScript - Assign a hotkey to run an RSIScript file.
+- Do RSIScript Command - Assign a hotkey to run an RSIScript command.
+Descriptions of the RSIGuard Functions
+.
+Help on typing special characters.
+Examples of what you can do with KeyControl combined with RSIScript.
+3. Select a Name
+- A default name is provided, but you can provide an alternate name if desired.
+4. Save Hotkey
+- Click OK to save the new hotkey.
+Edit Selected Hotkey
+To change a hotkey, click the hotkey you want to edit. Then, click Edit Selected to make any changes and click OK to save your edits.
+Delete Selected Hotkey
+- To permanently delete a hotkey, click the hotkey you wish to remove. Then, click Delete Selected. Click Delete in the confirmation prompt to complete the action.
+Viewing Lists of Hotkeys and Shortcut Keys
+- Printable List of My Hotkeys - To view a printable list of your KeyControl hotkeys, click Printable List of My Hotkeys. The list opens in your default text viewer (usually Notepad) so that you can print the list of hotkeys.
+Shortcut Keys for Common Applications
+- Click Shortcut Keys for Common Applications to select an application and available shortcut keys. When possible, different versions of the application and operating system are also presented as options.
+Work Restriction Manager Tips
+If you have a computer-related injury, your health professional may suggest or require a work restriction in order for you to continue working. These restrictions need to be documented in a medical note. The most common work restrictions are:
+A number of hours per day that you can use the computer (for example, 4 hours/day).
+A number of minutes you can work per unit time (for example, no more than 40 minutes of activity per hour)
+You can enter your work restrictions into RSIGuard within the BreakTimer Settings and click on Adjust Settings. Select the Work Restrictions tab.
+Defining The Restriction
+Minute-by-Minute Restriction
+- This restriction definition will monitor the amount of time you are actively using your computer and prompt you to take a break if that active limit is surpassed. RSIGuard monitors computer activity and will account for "natural breaks," such as times when you are performing non-typing/mousing tasks. If you are continuously active on your computer for the amount of time specified by your medical provider then RSIGuard will prompt a mandatory break.
+EXAMPLE: A medical note states that an employee must take a 15-minute break for every 45 minutes of computer work. To define this restriction using the minute-by-minute feature you must determine the total duration of active time and break time (45+15=60). Then enter 45 minutes of activity per 60 minutes.
+Specify Limit on "Hours of Work at the Computer"
+- This restriction has two options: "Fixed Length Work Restriction," and "Variable Length Work Restriction."
+Fixed Length Work Restrictions allow you to define the total amount of time spent on the computer per day. Once the daily limit is reached RSIGuard will prompt you to stop working, or extend the active computer time by an additional 10 to 60 minutes. Fixed Work Restrictions can be combined with minute-by-minute restrictions when necessary.
+Variable Length Work Restrictions has two configuration options: "Days of the Week Work Restriction" and "Ramp Down Restrictions."
+Days of the Week Work Restriction - This allows you to define the total amount of time spent on the computer per day of the week. You can specify a single daily limit or a limit that varies by day. When you reach the hourly limit per day you are notified to stop working and given the option for a 10 to 60-minute extension.
+EXAMPLE: A medical note states that an employee must limit their typing to no more than 5 hours per day, and no more than 16 hours per week. To accommodate this restriction the employee's department has assigned them to perform fewer computer tasks on Tuesdays and Thursdays. This accommodation is defined in the image below showing the maximum number of active computer hours per day.
+Ramp Down Restrictions vary by how much you worked the previous days. RSIGuard monitors the total amount of computer use over consecutive days worked and adjusts the restriction based on the active computer time. This is a rare type of work restriction.
+NOTE: Checking "Make work restriction times above compensate for work intensity" will instruct RSIGuard to adjust the daily limit for active computer use. Using the previous example, if an employee is very busy on Monday and does not take any breaks the daily limit will decrease to less than 4 hours as defined in the Days of the Week Work Restriction.
+FAQ
+I am using the free trial version and want to convert to the full version.
+It is recommended that you download the latest version of RSIGuard by visiting the UCLA download page. MAC OS users will need a registration code that you received from us; you can use it to convert your trial copy into a permanent copy.
+How do I uninstall RSIGuard?
+For Microsoft Windows:
+If you had a system administrator install RSIGuard for you, you will likely need their assistance to uninstall RSIGuard as well. This is because your organization may have restricted your rights to install and uninstall software on your computer.
+If you installed RSIGuard yourself or if you have rights to install/uninstall software, then you can do so by following these instructions:
+1. Exit RSIGuard (by clicking on the Tools menu and selecting Exit RSIGuard). If you can't do this step for any reason, you'll need to reboot your computer after uninstallation occurs to complete the uninstallation process.
+2. Click on the Start menu
+3. Select "Programs" (or "All Programs" in Windows XP)
+4. Select "RSIGuard"
+5. Select "Uninstall RSIGuard" and follow the prompts to complete the uninstallation. If you don't see the "Uninstall RSIGuard" option, you can also uninstall RSIGuard from the Windows Control Panel. To do so:
+1. Click on the Start menu
+2. Select "Settings"
+3. Select "Control Panel"
+4. Select "Add/Remove Programs"
+5. In the list of programs shown, select "RSIGuard"
+6. Click on the "Remove" button and follow the prompts to complete the uninstallation
+If this procedure gives you an error message, then you don't have the necessary rights to uninstall RSIGuard. You will need to contact your system administrator.
+For Mac OS
+:
+RSIGuard is installed using Apple PackageMaker, which is Apple's recommended standard method for installation. Although it does not provide an uninstaller, uninstalling on the Mac is simple. To uninstall RSIGuard, exit RSIGuard, browse to the Applications folder in the Finder, then select RSIGuard.app and drag it to the Trash Can.
+Related Links
+RSIGuard Download Link (Windows OS)
+RSIGuard Download Link (Mac OS)
+RSIGuard Setup Instructions Factsheet
+Repetitive Strain Injury (RSI)
+Wilshire Center, 10920 Wilshire Blvd. Ste. 860
+Los Angeles, CA 90024
+Ergonomics Lab, 10920 Wilshire Blvd. Ste. 150
+Los Angeles, CA 90024
+310-794-6948 |
+contact@ergonomics.ucla.edu
+Facebook
+Instagram
+Linked
+Twitter
+Youtube
+TikTok
+Snapchat
+© 2024 Regents of the
+University of California
+Emergency
+Accessibility
+Privacy & Terms of Use

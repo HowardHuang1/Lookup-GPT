@@ -1,0 +1,40 @@
+SEASnet Wireless Network | SEASnet
+Select Page
+SEASnet Wireless Network
+Work has been completed in the Engineering complex to upgrade wireless to conform to Campus standards. Three wireless networks are provided:
+eduroam
+– Provides the highest level of security but devices need to be configured (SEASnet recommends the use of the eduroam network).
+UCLA_WIFI
+– A portal based network that uses UCLA Logon or guest credentials for authentication.  VPN is also allowed.
+UCLA_WEB
+– A network that allows for web (HTTP/HTTPS) traffic without authentication.  VPN is also allowed.
+Detailed information about how to connect to the campus wireless can be found at:
+https://it.ucla.edu/it-support-center/services/wireless-network-access
+.
+What is needed?
+An 802.11b compliant wireless card for your computer and appropriate driver.
+A
+UCLA Logon ID
+account for authentication with the campus VPN server.
+VPN client software for your computer. You may obtain the VPN client software and configuration information at
+https://it.ucla.edu/news/when-use-campus-vpn
+.
+What do I do to connect?
+Install the 802.11b wireless card and configure the driver in your computer.
+Configure the driver to use one of the listed UCLA Wifi connections above as the network name (SSID).
+Configure the driver to get its wireless IP address and DNS servers from the network using DHCP.
+With this minimal configuration, you will find that you have web browser access to UCLA networks* (but not off campus access) and secure shell (SSH) connectivity to anywhere. For full network service resources, continue with the following:
+Once the VPN client has been installed, connect to the campus VPN server, vpn.ucla.edu, and log in using your UCLA Logon ID.
+Once your connection to the VPN server has been established, you have complete access to network services including the ability to browse off campus.
+If you have questions or problems, please email
+wireless@seas.ucla.edu
+or contact the SEASnet Help Desk in 2684 Boelter Hall, x66864.
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

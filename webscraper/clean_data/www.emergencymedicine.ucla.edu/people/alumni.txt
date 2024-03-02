@@ -1,0 +1,2449 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+
+    <title>Alumni | UCLA Emergency Medicine</title>
+    <link rel="stylesheet" media="all" href="/libraries/drupal-superfish/css/superfish.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/ajax-progress.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/autocomplete-loading.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tabledrag.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/modules/extlink/extlink.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/libraries/drupal-superfish/style/default/default.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/libraries/bootstrap/css/bootstrap.min.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/variables.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/user.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/progress.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/affix.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/book.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/contextual.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/feed-icon.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/field.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/header.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/help.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/icons.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/image-button.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/item-list.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/list-group.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/media.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/page.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/search-form.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/shortcut.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/sidebar.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/site-footer.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/skip-link.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/table.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/tabledrag.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/tableselect.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/tablesort-indicator.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/ui.widget.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/tabs.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/toolbar.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/vertical-tabs.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/views.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/webform.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/components/ui-dialog.css?s8yljn" />
+<link rel="stylesheet" media="all" href="//stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/subtheme/css/style.css?s8yljn" />
+<link rel="stylesheet" media="all" href="/sites/default/files/color/bootstrap_barrio_subtheme-2b0375c6/colors.css?s8yljn" />
+<link rel="stylesheet" media="all" href="//use.fontawesome.com/releases/v5.13.0/css/all.css" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap_barrio/css/colors/messages/messages-light.css?s8yljn" />
+<link rel="stylesheet" media="print" href="/themes/bootstrap_barrio/css/print.css?s8yljn" />
+
+    
+  </head>
+  <body class="layout-no-sidebars page-view-alumni path-people">
+    <a href="#main-content" class="visually-hidden-focusable">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper">
+  <div id="page">
+    <header id="header" class="header" role="banner" aria-label="Site header">
+                 <nav class="navbar fixed-top navbar-expand-lg" id="navbar-main">
+          		                    <a href="/" title="Home" rel="home" class="navbar-brand">
+              <img src="/sites/default/files/logo_UCLA_blue_boxed_3.png" alt="Home" class="img-fluid d-inline-block align-top" />
+            
+    </a>
+    <div id="block-mainnavigation" class="settings-tray-editable block block-superfish block-superfishmain" data-drupal-settingstray="editable">
+  
+    
+      <div class="content">
+      
+<ul id="superfish-main" class="menu sf-menu sf-main sf-horizontal sf-style-default">
+  
+
+  
+  <li id="main-menu-link-content7c99e67d-8aff-4eae-ae90-ecdf169b5712" class="sf-depth-1 sf-no-children">
+              <a href="/" class="sf-depth-1">HOME</a>
+                      </li>
+
+
+            
+  <li id="main-menu-link-content3df052d4-ad44-42a2-9337-dbac11d5b948" class="sf-depth-1 menuparent">
+              <span class="sf-depth-1 menuparent nolink">EDUCATION</span>
+        <ul class="sf-multicolumn">
+    <li class="sf-multicolumn-wrapper ">
+              <ol>      
+
+                      
+  <li id="main-menu-link-content3f8b507f-2527-4647-9c18-80b8f2b7d144" class="sf-depth-2 sf-multicolumn-column menuparent">
+        <div class="sf-multicolumn-column">
+              <a href="/education/residency_program" class="sf-depth-2 menuparent">Residency Program</a>
+                  <ol>      
+
+  
+  <li id="main-menu-link-content6828db95-7b2a-419a-9134-1190446e397c" class="sf-depth-3 sf-no-children">
+              <a href="/education/residency_program/clinical" class="sf-depth-3">Clinical Curriculum</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content85ff6fd1-6fba-4c33-8ec7-9397e1f09a36" class="sf-depth-3 sf-no-children">
+              <a href="/education/residency_program/training_sites" class="sf-depth-3">Training Sites</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentdb8f4b1b-13e7-429c-97e7-b162be1d7dc8" class="sf-depth-3 sf-no-children">
+              <a href="/education/residency_program/didactic" class="sf-depth-3">Didactic Curriculum</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentdc3387c6-8483-4c59-84c4-7b03e5bf5637" class="sf-depth-3 sf-no-children">
+              <a href="/education/residency_program/electives" class="sf-depth-3">Electives</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentff7bb319-f0bd-46e0-803b-542b8f8c3249" class="sf-depth-3 sf-no-children">
+              <a href="/education/residency_program/global_health" class="sf-depth-3">Global Health</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content23a9ad40-f55a-4f20-97a0-53455bf01486" class="sf-depth-3 sf-no-children">
+              <a href="/education/residency_program/other_opportunities" class="sf-depth-3">Other Clinical Opportunities</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentef3ad0bb-5cf4-405d-ab38-8fea22a333c2" class="sf-depth-3 sf-no-children">
+              <a href="/education/residency%20program/benefits" class="sf-depth-3">Benefits</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content564e55c0-462a-4a2f-813e-9f731b0f6f04" class="sf-depth-3 sf-no-children">
+              <a href="/education/residency_program/life" class="sf-depth-3">Life as a Resident</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content8e85fa55-445e-4b6d-80f2-7bfecc6eeb46" class="sf-depth-3 sf-no-children">
+              <a href="/education/residency_program/faqs" class="sf-depth-3">Frequently Asked Questions</a>
+                      </li>
+
+
+      </ol>            </div>  </li>
+
+
+                      
+  <li id="main-menu-link-content39a5d1c1-bf2d-443b-86a5-43d1be01e0d8" class="sf-depth-2 sf-multicolumn-column menuparent">
+        <div class="sf-multicolumn-column">
+              <span class="sf-depth-2 menuparent nolink">Fellowships</span>
+                  <ol>      
+
+  
+  <li id="main-menu-link-content579ded86-323f-40ef-ad73-66ee2f55d9a7" class="sf-depth-3 sf-no-children">
+              <a href="/education/fellowships/administration" class="sf-depth-3">Administration</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content1fa6a4c5-f7ec-4298-a00b-5524cdd08f00" class="sf-depth-3 sf-no-children">
+              <a href="/education/fellowships/medical_education" class="sf-depth-3">Medical Education &amp; Simulation</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content1fcca9f2-2e7f-40ac-90ae-3c08a7bdc895" class="sf-depth-3 sf-no-children">
+              <a href="/education/fellowships/research" class="sf-depth-3">Research</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content31bbe966-7f11-44c7-ab7e-0609322d3438" class="sf-depth-3 sf-no-children">
+              <a href="/education/fellowships/ultrasound" class="sf-depth-3">Ultrasound</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content77738869-5494-47a4-9d05-a993698fc59d" class="sf-depth-3 sf-no-children">
+              <a href="/education/fellowships/idheal" class="sf-depth-3">IDHEAL</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentcc83350a-4b11-4606-9893-7a96b791b5da" class="sf-depth-3 sf-no-children">
+              <a href="https://www.emergencymedicine.ucla.edu/education/fellowships/space_medicine" class="sf-depth-3 sf-external">Space Medicine</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentf2894861-aea7-431a-9b3f-16b2ec7044e9" class="sf-depth-3 sf-no-children">
+              <a href="https://www.uclahealth.org/clinical-informatics-fellowship" class="sf-depth-3 sf-external">Clinical Informatics</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content88ddeaea-9370-4d92-9bfc-54348bead087" class="sf-depth-3 sf-no-children">
+              <a href="http://nationalcsp.org/" class="sf-depth-3 sf-external">National Clinician Scholars</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content21d62499-3d6e-4757-a009-5ebc8cf76a83" class="sf-depth-3 sf-no-children">
+              <a href="/education/fellowship/toxicology" class="sf-depth-3">Toxicology</a>
+                      </li>
+
+
+      </ol>            </div>  </li>
+
+
+                      
+  <li id="main-menu-link-contentd5cca69a-6984-48da-a9db-2024bc41e953" class="sf-depth-2 sf-multicolumn-column menuparent">
+        <div class="sf-multicolumn-column">
+              <span class="sf-depth-2 menuparent nolink">Medical Students</span>
+                  <ol>      
+
+  
+  <li id="main-menu-link-content9c22681e-9739-47a2-ba11-5263a41bac11" class="sf-depth-3 sf-no-children">
+              <a href="/education/medicalstudents/interest" class="sf-depth-3">EM Interest Group</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contenta798ac47-3fb0-47ec-8622-98b9556658b3" class="sf-depth-3 sf-no-children">
+              <a href="/education/medicalstudents/core" class="sf-depth-3">Core Emergency Medicine Experience</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content23715cf4-ec78-403a-9a1f-0fe919fe6ade" class="sf-depth-3 sf-no-children">
+              <a href="/education/medicalstudents/clerkship" class="sf-depth-3">4th Year Clerkship</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contenta478c22c-b3c4-41cd-b255-e23ea4acfc67" class="sf-depth-3 sf-no-children">
+              <a href="/education/medicalstudents/diversity" class="sf-depth-3">Visiting Elective Diversity Scholarship</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content08ea1e2f-e525-4f7e-9c9d-f048f0ffed79" class="sf-depth-3 sf-no-children">
+              <a href="/education/medicalstudents/virtual" class="sf-depth-3">Virtual Clerkship Experience</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentc10ae2df-69b1-46fa-b779-5d9441908643" class="sf-depth-3 sf-no-children">
+              <a href="/education/medicalstudents/ultrasoundrotation" class="sf-depth-3">Ultrasound Rotation</a>
+                      </li>
+
+
+      </ol>            </div>  </li>
+
+
+      </ol>        </li></ul>      </li>
+
+
+            
+  <li id="main-menu-link-content78be1bda-d943-41f6-b089-d17ae9a89171" class="sf-depth-1 menuparent">
+              <span class="sf-depth-1 menuparent nolink">SECTIONS</span>
+        <ul class="sf-multicolumn">
+    <li class="sf-multicolumn-wrapper ">
+              <ol>      
+
+  
+  <li id="main-menu-link-content2956f216-a3c9-4c3f-b702-cd1460a5c238" class="sf-depth-2 sf-no-children">
+              <a href="http://www.uclaemultrasound.org/" class="sf-depth-2 sf-external">Ultrasound</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contente102e04f-26c8-409c-9df2-b329f5bd1516" class="sf-depth-2 sf-no-children">
+              <a href="http://www.idheal-ucla.org/" class="sf-depth-2 sf-external">IDHEAL</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentbeefe732-294e-4e5b-b8fd-6426afe7e8e9" class="sf-depth-2 sf-no-children">
+              <a href="/sections/research" class="sf-depth-2">Research</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentc75efa3a-807e-49ac-9f53-b8c83a5a1f67" class="sf-depth-2 sf-no-children">
+              <a href="https://emra.dgsom.ucla.edu/pages/" class="sf-depth-2 sf-external">EM Research Associates</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentc179e522-e2c7-40da-b753-77173d463486" class="sf-depth-2 sf-no-children">
+              <a href="/sections/critical_care" class="sf-depth-2">Critical Care</a>
+                      </li>
+
+
+      </ol>        </li></ul>      </li>
+
+
+            
+  <li id="main-menu-link-content49bb1ff9-e3ee-4b56-b7bc-77fc572e1817" class="active-trail sf-depth-1 menuparent">
+              <span class="sf-depth-1 menuparent nolink">PEOPLE</span>
+        <ul class="sf-multicolumn">
+    <li class="sf-multicolumn-wrapper ">
+              <ol>      
+
+  
+  <li id="main-menu-link-content9cadd0b9-dfe3-4675-b9f9-97a38a5e1c8b" class="sf-depth-2 sf-no-children">
+              <a href="/people/leadership/chair" class="sf-depth-2">Department Chair</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentb2dca69f-658e-43f8-8285-459dc59f719d" class="sf-depth-2 sf-no-children">
+              <a href="/node/6229" class="sf-depth-2">Medical Directors</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content06b4ba8f-91b0-4796-ab22-85aafaee2760" class="sf-depth-2 sf-no-children">
+              <a href="/people/leadership/residency" class="sf-depth-2">Program Directors</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentadd8a566-f56d-4856-bc93-72090b291f78" class="sf-depth-2 sf-no-children">
+              <a href="https://www.uclahealth.org/departments/emergency-medicine/our-team/ronald-reagan-ucla-medical-center" class="sf-depth-2 sf-external">Ronald Reagan Faculty</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content7e723200-fbff-49ce-91f2-0cc5eea6b869" class="sf-depth-2 sf-no-children">
+              <a href="https://www.uclahealth.org/departments/emergency-medicine/our-team/olive-view-ucla-medical-center" class="sf-depth-2 sf-external">Olive View Faculty</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentb5bc6538-02b1-42f2-9a6c-a75c7f38897f" class="sf-depth-2 sf-no-children">
+              <a href="/people/residents" class="sf-depth-2">Residents</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content7ea5846e-ce26-4c68-ba68-9cac0961080e" class="sf-depth-2 sf-no-children">
+              <a href="/people/fellows" class="sf-depth-2">Fellows</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content6aa2da49-9415-4095-a4df-0ad1e48bd0f5" class="active-trail sf-depth-2 sf-no-children">
+              <a href="/people/alumni" class="is-active sf-depth-2">Alumni</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentc462469d-f9f6-4781-a5ca-7d3997695508" class="sf-depth-2 sf-no-children">
+              <a href="/people/edu_staff" class="sf-depth-2">Staff</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content80c33b12-9b73-48f9-b848-c74b2af71c09" class="sf-depth-2 sf-no-children">
+              <a href="/people/scribes" class="sf-depth-2">Scribes</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentb2d70086-22d1-4708-ba4d-0ef875e21fdb" class="sf-depth-2 sf-no-children">
+              <a href="/people/band" class="sf-depth-2">Band</a>
+                      </li>
+
+
+      </ol>        </li></ul>      </li>
+
+
+  
+  <li id="main-menu-link-contentf2916f82-bade-4bff-a33a-235e8ee84787" class="sf-depth-1 sf-no-children">
+              <a href="/diversity" class="sf-depth-1">DIVERSITY</a>
+                      </li>
+
+
+            
+  <li id="main-menu-link-contentafda4ab5-c81a-4206-a397-27ebe6169b83" class="sf-depth-1 menuparent">
+              <span class="sf-depth-1 menuparent nolink">CONNECT</span>
+        <ul class="sf-multicolumn">
+    <li class="sf-multicolumn-wrapper ">
+              <ol>      
+
+  
+  <li id="main-menu-link-contentbc8755b7-0b70-4896-97f4-9e71ae0d7f32" class="sf-depth-2 sf-no-children">
+              <a href="/connect/calendar" class="sf-depth-2">Calendar</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content0c53fdd5-b7ac-45d7-b4da-e3251fcf6bb0" class="sf-depth-2 sf-no-children">
+              <a href="/connect/contact_us" class="sf-depth-2">Contact Us</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content3685e4a0-e1eb-4060-8939-078efe6bac4e" class="sf-depth-2 sf-no-children">
+              <a href="https://www.uclahealth.org/departments/emergency-medicine" class="sf-depth-2 sf-external">UCLA Department of Emergency Medicine</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contentd9e7a43f-2324-4842-9f87-52807d3bdf83" class="sf-depth-2 sf-no-children">
+              <a href="https://www.uclahealth.org" class="sf-depth-2 sf-external">UCLA Health</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content83df743e-8ba7-43b6-a3d4-60466e443f86" class="sf-depth-2 sf-no-children">
+              <a href="https://medschool.ucla.edu" class="sf-depth-2 sf-external">David Geffen School Of Medicine</a>
+                      </li>
+
+
+      </ol>        </li></ul>      </li>
+
+
+            
+  <li id="main-menu-link-content9e2c385f-7cee-44d0-9731-8fdcef10c306" class="sf-depth-1 menuparent">
+              <span class="sf-depth-1 menuparent nolink">BULLETIN</span>
+        <ul class="sf-multicolumn">
+    <li class="sf-multicolumn-wrapper ">
+              <ol>      
+
+  
+  <li id="main-menu-link-contenteba1f87f-cb81-4658-bec9-d6c47d1240c0" class="sf-depth-2 sf-no-children">
+              <a href="/newsletters" class="sf-depth-2">Newsletters</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content4ac2f7bf-ab00-48d0-ae05-0fee7525a55e" class="sf-depth-2 sf-no-children">
+              <a href="/overview/history" class="sf-depth-2">History</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content8da0ab7a-f85e-4d1b-89f5-3e9c8736d6e8" class="sf-depth-2 sf-no-children">
+              <a href="/didyouknow" class="sf-depth-2">Notables</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-content08d81456-5a97-4444-a62f-2d118d5ca588" class="sf-depth-2 sf-no-children">
+              <a href="/bulletin/faculty_positions" class="sf-depth-2">Faculty Positions</a>
+                      </li>
+
+
+      </ol>        </li></ul>      </li>
+
+
+  
+  <li id="main-menu-link-contentb7768948-92b7-42b4-a3d4-9dbcf79e49b7" class="sf-depth-1 sf-no-children">
+              <a href="https://students-residents.aamc.org/attending-medical-school/article/visiting-student-learning-opportunities/" class="sf-depth-1 sf-external">Apply to VSLO</a>
+                      </li>
+
+
+  
+  <li id="main-menu-link-contenta23a5b0f-a659-4bc1-b545-3b32e31377da" class="sf-depth-1 sf-no-children">
+              <a href="/donate" class="sf-depth-1">Donate</a>
+                      </li>
+
+
+</ul>
+
+    </div>
+  </div>
+
+
+                              </nav>
+          </header>
+            <div id="main-wrapper" class="layout-main-wrapper clearfix">
+              <div id="main" class="container-fluid">
+          
+          <div class="row row-offcanvas row-offcanvas-left clearfix">
+              <main class="main-content col" id="content" role="main">
+                <section class="section">
+                  <a id="main-content" tabindex="-1"></a>
+                    <div data-drupal-messages-fallback class="hidden"></div><div id="block-bootstrap-barrio-subtheme-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      <div class="views-element-container"><div class="pl-1 view view-alumni view-id-alumni view-display-id-page_1 js-view-dom-id-cd79b49727e380ceea25753ed14a7c76a2779d52eafea052d7a0c912bd50524e">
+  
+    
+      <div class="view-header">
+      <div class="pagetitle">
+<img height="300px" src="https://www.emergencymedicine.ucla.edu/sites/default/files/2019-07/Recruitment_S3.png" width="2000px" style="object-fit:cover;filter: brightness(0.6);" loading="lazy"><div class="pagetitle-nested" style="bottom: 30%;">
+<h1 class="text-light text-center display-3">Alumni</h1>
+</div>
+</div>
+    </div>
+      
+      <div class="view-content row">
+        <h3>2023</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Agatha Brzezinski, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Benjamin Chan, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Michelle Choi, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Nathaniel Coggins, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Micaela Finnegan, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Ethan Forsgren, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Anthony Fredericks, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jared Marshall, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Caitlin Oldenkamp, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Benito Pascua, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Chase Richard, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Santano Rosario, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>John Mark Sawyer, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>William Scheving, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Dong Yao, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2022</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Haig Aintablian, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Michelle Brennan, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Ignacio Calles, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Eugenie Como, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Alexander Daguanno, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Elizabeth Ferreira, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>David Haase, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>John Keller, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>James Murphy, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Anna Nguyen, D.O.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Chelsea Robinson, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Hannah Spungen, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Peter Treut, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Ashley Vuong, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Anna Yap, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2021</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Thomas Akie, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>C. Danielle Antonuk, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jessa Baker, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Claudie Bolduc, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Theresa Cheng, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Ryan Dollbaum, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Nathan Friedman, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Cameron Harrison, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Caroline Humphreys, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Daniel Ichwan, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Ryan Kunitake, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Matthew Levin, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Naseem Moridzadeh, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jason Singer, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Kevin Wroblewski, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2020</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Aws Al-Abdullah, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Annum Bhullar, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Steven Bolger, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Tyler Haertlein, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Vanessa Kreger, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jacqueline Kurth, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Randall Lee, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Alexandra McLeroy-Wallace, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Teri Miller, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Varun Shahi, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Luiz Souza-Filho, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Gregory Tong, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Cate Yaggi, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2019</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Joshua Baugh, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Maria Conradt, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Li Cui, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Adam Gruner, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Brittany  Guest, D.O.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>James Jiang, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Kellie Kitamura, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jacob Lentz, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Jason Lu, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Michael Merjanian, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Kyle Ragins, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Matthew  Rosen, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Hannah  Wallace, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2018</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Tabitha Cheng, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Alexandra Dyer, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Brandon Endo, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Adam Evans, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Allison Ferreira, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>David Kim, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>David Morales, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jessica  Oswald, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Sneha Shrestha, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Andrea Takemoto, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Maria Tamborski, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Brian Truong, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Jake Wilson, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2017</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Stephanie  Brenman, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Michael Casner, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Anthony Catalano, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Brandon Firestone, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Vanessa Franco, M.D., Ph.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Wesley Gaschler, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Christopher Katsura, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Haleigh Kotter, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Shamsher Samra, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Eric Schallert, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Catherine Weaver, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Carter Wystrach, M.D., M.P.H.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2016</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Angela Brown, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Caleb  Canders, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Kit Chang, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>James Gordon, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Steven Lai, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Vicky Nguyen, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Armando  Rodriguez, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Ashley  Sanello, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Rachel Shing, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Noah Sugerman, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2015</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Ashkan Akasheh, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Christopher Belfour, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Joseph Chan, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Sara Crager, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Marco Fossati-Bellani, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Brian McNamara, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Joshua Novak, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jada Roe, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Kateri Roessler-Henderson, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Sabrina Tom, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Joshua Troke, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jessica Wall, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Carmen Wolfe, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2014</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Laura Destro, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jessica Ellerman, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Carolyn Gates, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Elaine Lee, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Mari Machi, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Sarah Medeiros, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Miguel Mendoza Navarro, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Naresh Ramarajan, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Hollie Sandlin, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Thomas Solomon, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jennifer Weinberg, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Heather Whitlow, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2013</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Emile Chang, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Edward Chu, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Wendy Ciovacco, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Raul Easton-Carr, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Helena Horak, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Emily Huang, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Yumi Ishihara, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Samantha Kadera, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Maya Kido, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Soyun Kim, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Ana Lopez-O&#039;Sullivan, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jonathan McWhorter, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Christina Rager, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Mary Sun, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jennifer Termeer, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2012</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Christopher  Cha, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Drew Flansbaum, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Priscilla Hanudel, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Catherine Ho, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Tiffany Hsieh, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Omotola Johnson, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Shawn Kaku, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Amber Mock, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Seth Sushinsky, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Sophia Terp, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Monica Wattana, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Colette Wiseman, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2011</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Christopher Bewley, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>William Callard, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Raymond Cho, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Daniel Furoy, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Miguel Lemus, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Michael Mercado, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Nicholas Miniel, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Amir Rouhani, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Anne Schmitt, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Ghufran Syed, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Stephanie Tang, D.O.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Lisa Zhao, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2010</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>David Bernheimer, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Grace De Guzman, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Aliasgher Hussain, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Edidiong Ikpe, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Kathryn Kinsella, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Tess Klaristenfeld, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Keron Magness, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>John Meher, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>James Moore, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Ashwin Ramakrishnan, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Stacy Sawtelle, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jeremy Swartzberg, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Roxana Yoonessi, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2009</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Kirk Burgamy, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Robert (Jack)  Casey, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Kwame Donkor, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Daniel Hoh, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Monica Lee, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Arieh Levine, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Danielle Schindler, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Andrew Seefeld, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Tzu-Jen Tzao, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Kavid Udompanyanan, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Clifford Wang, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2008</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Peter Bloomfield, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Carlos Cao, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jessica Casey, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Sripha Ouk Chan, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Jonathan Crisp, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Reza Danesh, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Kelley Feeley, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Craig Goolsby, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Adam Landman, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Parveen Parmar, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Eric Snyder, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jonathan Watson, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2007</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Janak Acharya, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jennifer Chen, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Kenneth Chuang, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Heather Devore, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Heather Enomoto, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Kelli McCartan (O&#039;Laughlin), M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Amit Shah, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Gil Shlamovitz, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Sunil Shroff, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Natalie Shum, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Amy Vinther, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Matthew Waxman, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Gelareh Zagaraff (Gabayan), M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2006</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Scott D. Bailey, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Anthony Cardillo, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Malkeet Gupta, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Thomas Hemingway, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Brett Lorber, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Martine Sargent, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Erik Schraga, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Nara Sun (Shin), M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Sukhjit Takhar, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Richard Treger, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Carin Van Zyl, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2005</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Sanjay Arora, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Tyler Barrett, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Orn-Usa Boonprakong, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Scott Braunstein, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Edward Cotner, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>David Hardy, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Michael Katz, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Clayton Kazan, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Jay Lee, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Sara May, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Charles Otieno, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Allison Santi, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Tahlia Spector, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2004</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Heather Flaherty, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Zachary Gray, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Tiffany Hackett, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Alexander Kaplan, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Dan Katz, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Scott Lundberg, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Robert McCormick, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Michael Menchine, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Jason Mount, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Joe Nakagawa, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Kelly Painter, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Marcus Wang, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2003</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Todd Brown, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Diana Bui, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Reb Close, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Armand Dorian, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Gregory Hallert, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Ritu Malik, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>David Presser, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Carlo Reyes, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Andrew Shen, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Arthur Sorrell, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Ryan Wells, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2002</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Lisa-Jan Alcaraz, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Scott Bisheff, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Ilene Claudius, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Keri Gardner, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Hans House, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Wendy Lin, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Luis Moreno, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>True Mullins, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Hites Patel, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Carlos Ramos, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Matthew Richard, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Robert Rosenbloom, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Roger Wallace, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Andrea Wood (Roberts), M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2001</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>John Chung, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>John Dani, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Steven Gabriel, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Bessie Gavrilis, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Vanessa Park Hsieh, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Anthony Loffredo, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Luis Lovato, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Karen McDowell, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Mark Morocco, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Brian Romias, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Geraldine Stratton, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Laurie Yamanaka (Naito), M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Jason Ziemba, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>2000</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Catherine Bonomo, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Erin Casey Brewster, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Gregory Scott Brewster, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Angelique Kelly (Campen), M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Donald Mebust, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Joel Patrick Pearsall, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Tasnim Esmail Shamji, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1999</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Rushdi Abdul Cader, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Elisa Anhalt, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Frank Day, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Heike Farin, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Robert Hook, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>John Hung, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jennifer Krawczyk (Oman), M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>John Riel, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Thomas Ronay, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Michael Tarnay, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>David Tashman, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Ann Ullrich, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Gregory Whitley, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1998</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Michael Baker, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Darren Bedolla, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Howard Botwinick, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Mary Bouras, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Ivan Burgos, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Richelle Cooper, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Gerianne Dudley, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Julian Lis, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Mark Louden, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Lynne McCullough, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Richard Oh, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Scott Rodi, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Jeffrey Tabas, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Griffeth Tully, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jorge Vournas, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1997</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Beverly Bauman, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Elizabeth Char, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Joseph Englanoff, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Laurence Friedman, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Michelle Krueger (Kalinski), M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Brian Miura, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Gordon Myers, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jolie Pfahler, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Atilla Uner, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>John Wong, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1996</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Lysa Campbell (Ward), M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>John Cawley, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Mary Chiu, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Shannon Corrigan, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>William Goldberg, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Gregg Greenough, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Robert Hancock, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Swaminatha Mahadevan, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Samuel Ong, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Neal Peeples, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>John Pi, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Richard Sonner, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1995</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Victor Candioty, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Scott Chamberlin, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Mark Davis, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Pamela Dyne, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Susan Gelb, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Thomas Graham, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Mel Herbert, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>John Kreider, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Frances McCabe, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Valerie Norton, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Eric Otani, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Charles Pozner, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Eric Savitksy, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Larry Sebring, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1994</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Mark Ahearn, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Steven Dominguez, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Steven Go, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Eric Isaacs, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Maureen McCollough, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Kathleen Myers, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Robert Rodriguez, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Carolyn Sachs, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Charles Schultz, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Keiko Suzuki (Permut), M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1993</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Thomas C. Carter, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Gregory Hendey, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Frank Ruiz, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Houtan Sabahi, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Douglas Slabaugh, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>David Smith, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Pamela Lall Tornay, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Joanna Weinberg, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Joseph Zibulewsky, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1992</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Evelyn Cardenas, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>George Go, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Daniel Grossman, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Thomas Magner, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Gregory Moran, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Elizabeth (Betsy) Schilling, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Knox Todd, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1991</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Robert Cox, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Christine Dean, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Christopher Daniel Keyes, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Russ Kino, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Susie Li, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Douglas Lowery, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>George Nobile, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Barry Reeve, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Karen Wanger, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1990</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Vance Brown, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Robert Ferm, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jan Johnston, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Laura Lehmann, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Larry Levine, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>William Mower, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Joseph Sachs, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Seth Schonwald, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Michael Weitz, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1989</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>George Bosse, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Judi Meindl(-Holman), M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Matt Perl, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Craig Singer, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Kurt Solem, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Susan Spangler, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Paul Wax, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Eric L. Weiss, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1988</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Mark Brown, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Mary Anne Mrdeza (Melnik), M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1987</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Josefina Borbon, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Frank Ferlisi, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jeffrey Gutterman, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Daniel J. Hull, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Bret Lambert, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Susan Meyer, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Diana Staatz, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Scott Votey, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1986</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Jessica Crosson, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Robert Galli, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>James Glower, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Karen Morgan, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Jeffrey Nordella, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Daniel Spaite, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Carl Stevens, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>David Talan, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1985</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>John Mucia, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Kenneth (Casey) Murphy, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Glenn Pinholster, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Raymond Regan, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Chu Tan, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Charles Waibel, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>John Yanos, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Demetrios (Dmitri) Zukin, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1984</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Sanford (Sandy) Braunfeld, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Michael Hill, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Ramon (Ray) Johnson, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>James Leo, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Paula Pearlman, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Mark Solem, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>John Takahashi, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Stephen R. Thom, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1983</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Edward Abraham, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Gary Bota, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Howard Levy, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Cyrus Pourzan, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Mark Rosen, D.O.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Robert (Neal) Rouzier, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Clarke Waffle, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Mark Wittman, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1982</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Pamela Adams, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Todd Bailey, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Fred Einesman, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>William Howard, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>Robert Lufrano, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Charles (Chuck) Peitrafesa, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Perry Robinson, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Michael Vitullo, D.O.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1981</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Roy S. Antelyes, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Carol Bryant, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Edward Geehr, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Christopher (Kit) McDougal, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>James Pagano, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Lawrence Rudd, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Mark Schiffman, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Oscar Seminario, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1980</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Paul Auerbach, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Stephen Dresnick, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Jill Furguson, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Lawrence Jellinek, M.D.</h5>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col-sm-3">
+            <h5>John Rand, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Richard Schwab, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Charlotte Yeh, M.D.</h5>
+          </div>
+              </div>
+      </div>
+  <h3>1979</h3>
+<div class="views-view-grid horizontal cols-4 clearfix col">
+            <div class="row">
+                  <div class="col-sm-3">
+            <h5>Jerome R. Hoffman, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>James (Jay) Kahn, M.D.</h5>
+          </div>
+                  <div class="col-sm-3">
+            <h5>Gerard Lasalle, M.D.</h5>
+          </div>
+              </div>
+      </div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+
+
+                </section>
+              </main>
+                                  </div>
+        </div>
+          </div>
+        <footer class="site-footer">
+              <div class="container-fluid">
+          		<div class="site-footer text-center">
+		  <div class="content">
+			<p>UCLA Emergency Medicine<br><br>1100 Glendon Avenue, Suite 1200<br>Los Angeles, California 90024<br><br>© 2024</p>
+			</div>
+		  </div>
+		  <div class="text-center text-light" style="font-size: 13px;"><div id="content-d"><a href="https://www.uclahealth.org/emergency-medicine/" target="self">Department of Emergency Medicine</a> | <a href="https://medschool.ucla.edu/" target="self">David Geffen School of Medicine at UCLA</a> | <a href="https://www.uclahealth.org" target="self">UCLA Health</a></div></div>
+        </div>
+          </footer>
+  </div>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"people\/alumni","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx9j-FuwzAIhF8oqx_Jwskl9oZNBLht3n7ZtK3amuwPAr7THSQRN1daYyLVImGW5nSDScWQ_sKFJRG_mG9c2vLMK8xogUUuS_YnHq0nz6gIDzJO7R_daSCXpKTbw2jA3XfNW5i0r8SXr3GwvkLnYjn8dEe7mOUKLc3R_JBbJWYbFWjHfD8RccJMnU8cPrr9Mzujq1jxIsf-Ln3M3_mbOWpIZBiuBTcLn_VCr3T_tagydcY7ow7Dtw","theme":"bootstrap_barrio_subtheme","theme_token":null},"ajaxTrustedUrl":[],"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:cd79b49727e380ceea25753ed14a7c76a2779d52eafea052d7a0c912bd50524e":{"view_name":"alumni","view_display_id":"page_1","view_args":"","view_path":"\/people\/alumni","view_base_path":"people\/alumni","view_dom_id":"cd79b49727e380ceea25753ed14a7c76a2779d52eafea052d7a0c912bd50524e","pager_element":0}}},"superfish":{"superfish-main":{"id":"superfish-main","sf":{"delay":"750","animation":{"opacity":"show","height":"show","width":"show"}},"plugins":{"touchscreen":{"behaviour":"0","mode":"useragent_predefined"},"smallscreen":{"mode":"window_width","breakpoint":780,"accordionButton":"0","title":" "},"supposition":true,"supersubs":true}}},"user":{"uid":0,"permissionsHash":"c3eba8529a21c064539869cbbc885a306d6172d928c7ceb51188c8f17b67cd4d"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.2.2"></script>
+<script src="/core/misc/drupal.js?v=10.2.2"></script>
+<script src="/core/misc/drupal.init.js?v=10.2.2"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.2.0"></script>
+<script src="/themes/bootstrap_barrio/js/barrio.js?v=10.2.2"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+<script src="//stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+<script src="/themes/bootstrap_barrio/subtheme/js/global.js?v=10.2.2"></script>
+<script src="/modules/extlink/extlink.js?v=10.2.2"></script>
+<script src="/core/assets/vendor/jquery-form/jquery.form.min.js?v=4.3.0"></script>
+<script src="/core/misc/progress.js?v=10.2.2"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.2.0"></script>
+<script src="/core/misc/debounce.js?v=10.2.2"></script>
+<script src="/core/misc/announce.js?v=10.2.2"></script>
+<script src="/core/misc/message.js?v=10.2.2"></script>
+<script src="/core/misc/ajax.js?v=10.2.2"></script>
+<script src="/core/modules/views/js/base.js?v=10.2.2"></script>
+<script src="/core/modules/views/js/ajax_view.js?v=10.2.2"></script>
+<script src="/libraries/drupal-superfish/superfish.js?s8yljn"></script>
+<script src="/libraries/drupal-superfish/jquery.hoverIntent.minified.js?s8yljn"></script>
+<script src="/libraries/drupal-superfish/sftouchscreen.js?s8yljn"></script>
+<script src="/libraries/drupal-superfish/sfsmallscreen.js?s8yljn"></script>
+<script src="/libraries/drupal-superfish/supposition.js?s8yljn"></script>
+<script src="/libraries/drupal-superfish/supersubs.js?s8yljn"></script>
+<script src="/modules/superfish/js/superfish.js?v=2.0"></script>
+<script src="/libraries/bootstrap/js/bootstrap.min.js?s8yljn"></script>
+
+  <script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=33&cb=1557879130" async></script></body>
+</html>

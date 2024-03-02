@@ -1,0 +1,69 @@
+Departmental Computing Support | SEASnet
+Select Page
+Departmental Computing Support
+SEASnet Departmental Support Services (EA Network)
+SEASnet provides computing support at no charge for staff fully funded on either 19900 or 19935 funds (based on departmental 19900/19935 FTE). Depending on the departmental FTE, SEASnet will also provide additional computing support at no charge for a limited number of machines for student or part-time employees.  These machines will be configured with limited access by the user.
+In addition to these free services, computing support also consists of the following:
+Initial setup of one computer (no older than 5 years) with pre-approved hardware configuration as provided by SEASnet.
+Machines not running SEASnet’s approved hardware configuration that need SEASnet support services will be charged a fee for setup of the machine and additional services as needed or a monthly support fee.  Setup of machines also includes the following software packages:
+Operating system – Windows 10 (Due to Microsoft’s termination of Win7 support on Jan 14, 2020, all current Win7 users
+MUST
+be migrated to Win10)
+Networking software – Samba for shared drives
+Box Drive – for sharing documents with users outside of your unit and faculty
+Business productivity software – Microsoft Office
+Email client – Chrome
+Backup software – Veritas
+Anti-virus/Malware Protection –
+FireEye Endpoint Security
+(Sophos support ends Oct 2021)
+Terminal emulation software – PuTTY SSH client (for interface with eastaff) and Hummingbird’s TN3270 (for AIS interface)
+Web browsers – Edge, Firefox, Chrome (Internet Explorer Expired June 15, 2022)
+SFTP client – PuTTY – Being Phased Out, no longer installed
+PDF/Post script file readers –
+Adobe Cloud
+(UCLA Site License)
+Utilities and add-ins – QDB add-ins for Excel
+Backups of work-related data saved on the PC, including email
+(data storage retention policy is available
+here
+).
+Machines must be left on for backups to take place.  You may turn off your monitor, but your computer must remain powered on and connected to the SEAS network.
+Differential backups are done weekly and full backups are done monthly.  Full backups may not exceed 30GB. Users exceeding their backup quota will have backups disabled until they reduce the size of their backups.
+Users who wish to use Outlook as their email client will have their email excluded from backups due to the way Outlook handles mail.
+SEASnet will not backup any personal data. Users should understand how to save their data properly so personal files are not inadvertently backed up.
+There will be a fee associated with restoring data from a crashed drive if the user has opted out of backups.
+Requests for software not listed above will be dealt with on a case-by-case basis.
+Requests for social networking or other non-business related software may require supervisor approval.  SEASnet staff will determine if the installation is feasible and will notify the department if there will be a recharge for the software.
+General machine maintenance
+, including but not limited to, security patches/updates, machine cleanup, disk maintenance, etc.
+SEASnet will do our best to assist users with their choice of printers, whether they are personal or network printers.
+SEASnet can only maintain network print queues for printers that are compatible with HP Direct.  If you are unsure what type of printer to purchase and/or what type of support you will require, please contact any of our Help Desk staff for assistance.
+Laptop machines
+are supported for the department MSO or head.  Work on other laptops require an
+SEASnet Service Request
+.
+SEASnet can configure your machine to allow you to connect to it from home
+as if you are logging in here in the office.  However, this creates additional security issues you and your supervisor should be aware of.  To ensure the security of your data, SEASnet is requiring that all requests for use of a supported machine’s remote desktop function be made by your department head.
+SEASnet requires you to do the following:
+ALWAYS
+use the VPN software when connecting to your PC remotely.
+Make sure your account has a password that is difficult to crack.  SEASnet has posted instructions for
+creating strong passwords
+.
+Your machine must also be modified with:
+User policy to lockout any account after several failed login attempts.
+Firewall installed and operational.
+SEASnet does not support home machines.
+However, we understand that many of you use your home machine for work purposes and may occasionally need our assistance.  If this is the case, you can submit a
+SEASnet Service Request
+and bring your machine in for staff to work on.  Your departmental account will be charged for our labor at our currently approved campus rate.  You must backup any important data on your machine prior to bringing it in.  Requests for work on home machines must be coordinated with the Help Desk.
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

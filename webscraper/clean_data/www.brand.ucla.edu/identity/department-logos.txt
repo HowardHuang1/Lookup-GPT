@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+      	<!-- Google Tag Manager -->
+	  	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      	})(window,document,'script','dataLayer','GTM-M4CXQ7');</script>
+	  	<!-- End Google Tag Manager -->
+
+        <script src="https://www.youtube.com/iframe_api"></script>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=11">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="google-site-verification" content="QS5gayPg38zC46YsAx4a9c3v4qTBkn-R69g90pQgpB0" />
+
+        <title>Brand Guidelines | Identity | Department Logos</title>
+        <meta name="description" content="Department logos are sometimes called unit signatures or lockups. They&rsquo;re a combination of the UCLA Campus Logo and your department&rsquo;s name."/>
+
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+
+		<!-- Main CSS -->
+		<link href="https://www.brand.ucla.edu/css/app.css" rel="stylesheet" type="text/css">
+    </head>
+<body>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4CXQ7"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <header id="header">
+      <div class="ribbon">
+
+        <div class="logo">
+          <a href="http://ucla.edu" class="gtm-main-nav-logo" target="_blank"><img src="/images/logo-ucla.svg" alt="UCLA logo"></a>
+        </div>
+
+        <div class="log-in">
+				        	<a href="https://www.brand.ucla.edu/login/YToxOntzOjQ6InBhdGgiO3M6MjY6Ii9pZGVudGl0eS9kZXBhcnRtZW50LWxvZ29zIjt9" class="gtm-main-nav">Log In</a>
+	                </div>
+
+      </div>
+    </header>
+    <nav id="main-nav">
+      <div class="nav-toggle">
+
+        <!-- HAMBURGER NAV -->
+        <input type="checkbox" class="gtm-main-nav-hamburger-icon" aria-label="Hamburger Menu" />
+        <div class="hamburger-icon">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+
+        <!-- MENU -->
+        <ul class="nav">
+          <li class="site-name"><a href="https://www.brand.ucla.edu" class="gtm-main-nav">Brand Guidelines</a></li>
+
+          <!-- FUNDAMENTALS -->
+          <li id="fundamentals-nav-item" class="nav-item">
+            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Fundamentals
+              <span class="arrow-down"></span>
+            </a>
+            <div aria-label="submenu">
+              <div class="dropdown">
+                <div class="nav-item-blurb">
+                  <div class="h5">Who we are</div>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/fundamentals/brand-defined" class="gtm-main-nav">Brand Defined</a></div>
+                  <p>The UCLA brand, core mission, key message, brand pillars and personality</p>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/fundamentals/brand-protection" class="gtm-main-nav">Brand Protection</a></div>
+                  <p>Policies, permissions and approvals to use UCLA logos and marks</p>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/fundamentals/accessibility" class="gtm-main-nav">Accessibility</a></div>
+                  <p>Creating an inclusive experience for everyone</p>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/fundamentals/edi" class="gtm-main-nav">EDI</a></div>
+                  <p>Learn how to reflect UCLA’s vision for equity, diversity and inclusion and avoid EDI messaging pitfalls with our tips and resources.</p>
+                </div>
+              </div>
+            </div>
+          </li>
+
+          <!-- IDENTITY -->
+          <li id="identity-nav-item" class="nav-item">
+            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Identity
+              <span class="arrow-down"></span>
+            </a>
+            <div aria-label="submenu">
+              <div class="dropdown">
+                <div class="nav-item-blurb">
+                  <div class="h5">How we look and talk</div>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/identity/logos-and-marks" class="gtm-main-nav">Logos and Marks</a></div>
+                  <ul>
+                    <li><a href="/identity/logos-and-marks/campus-logo" class="gtm-main-nav">Campus Logo</a></li>
+                    <li><a href="/identity/department-logos" class="gtm-main-nav">Department Logos</a></li>
+                    <li><a href="/identity/logos-and-marks/script-logo" class="gtm-main-nav">Script Logo</a></li>
+                    <li><a href="/identity/logos-and-marks/seals" class="gtm-main-nav">UCLA Seal</a></li>
+                    <li><a href="/identity/logos-and-marks/historical-logos-and-marks" class="gtm-main-nav">Historical Marks</a></li>
+                  </ul>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/identity/names-and-naming" class="gtm-main-nav">Names and Naming</a></div>
+                  <div class="h5"><a href="/identity/colors" class="gtm-main-nav">Colors</a></div>
+                  <div class="h5"><a href="/identity/typography" class="gtm-main-nav">Typography</a></div>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/identity/imagery" class="gtm-main-nav">Imagery</a></div>
+                  <ul>
+                    <li><a href="/identity/imagery/photography-and-videography" class="gtm-main-nav">Photography and Videography</a></li>
+                    <li><a href="/identity/imagery/graphic-elements" class="gtm-main-nav">Graphic Elements</a></li>
+                  </ul>
+                  <div class="h5"><a href="/identity/copy-editorial" class="gtm-main-nav">Copy and Editorial</a></div>
+                </div>
+              </div>
+            </div>
+          </li>
+
+          <!-- APPLICATION -->
+          <li id="application-nav-item" class="nav-item">
+            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Application
+              <span class="arrow-down"></span>
+            </a>
+            <div aria-label="submenu">
+              <div class="dropdown">
+                <div class="nav-item-blurb">
+                  <div class="h5">How to apply brand guidelines across channels</div>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/application/print" class="gtm-main-nav">Print</a></div>
+                  
+                  <div class="h5"><a href="/application/web" class="gtm-main-nav">Web</a></div>
+                    <ul>
+                      
+                      <li><a href="/application/web/design-system" class="gtm-main-nav">Design System</a></li>
+                      <li><a href="/application/web/cms-resources" class="gtm-main-nav">CMS Resources</a></li>
+                      <li><a href="/application/web/best-practices" class="gtm-main-nav">Best Practices</a></li>
+                      
+                    </ul>
+                  
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/application/presentations" class="gtm-main-nav">Presentations</a></div>
+                  
+                  <div class="h5"><a href="/application/email" class="gtm-main-nav">Email</a></div>
+                  <ul>
+                    <li><a href="/application/email/templates" class="gtm-main-nav">Templates</a></li>
+                    <li><a href="/application/email/best-practices" class="gtm-main-nav">Best practices</a></li>                    
+                    <li><a href="/application/email/staff-signature" class="gtm-main-nav">Staff signature</a></li>
+                  </ul> 
+                  
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a class="gtm-main-nav" href="/application/social-media">Social Media</a></div>
+                  <div class="h5"><a href="/application/video" class="gtm-main-nav">Video</a></div>
+                  <ul>
+                    <li><a href="/application/video/elements-and-styles" class="gtm-main-nav">Elements and styles</a></li>
+                    <li><a href="/application/video/best-practices" class="gtm-main-nav">Best practices</a></li>
+                  </ul>
+                  
+                </div>
+              </div>
+            </div>
+          </li>
+
+          <!-- INITIATIVES -->
+          <!-- <li id="initiatives-nav-item" class="nav-item">
+            <a href="#" class="gtm-main-nav-popup" aria-haspopup="true">Initiatives
+              <span class="arrow-down"></span>
+            </a>
+            <div aria-label="submenu">
+              <div class="dropdown">
+                <div class="nav-item-blurb">
+                  <div class="h5">Major initiatives across campus</div>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/initiatives/centennial-celebration" class="gtm-main-nav">Centennial Celebration</a></div>
+                    <ul>
+                      <li><a href="/initiatives/centennial-celebration/identity-elements" class="gtm-main-nav">Identity Elements</a></li>
+                      <li><a href="/initiatives/centennial-celebration/templates" class="gtm-main-nav">Templates</a></li>
+                    </ul>
+                </div>
+                <div class="nav-column">
+                  <div class="h5"><a href="/initiatives/centennial-campaign" class="gtm-main-nav">The Centennial Campaign</a></div>
+                </div>
+                
+                  
+                  
+                
+              </div>
+            </div>
+          </li> -->
+
+          <!-- SEARCH -->
+          <li id="search-nav-item" class="nav-item search">
+            <form id="search-form" class="search-bar">
+              <div class="search-bar__container" id="searchbox">
+                <input id="site-search" class="form-control" aria-label="Search the Site" type="text" placeholder="Search">
+                <button type="button" class="gtm-main-nav-search-submit search-bar__submit btn blue" id="main-navigation-submit" aria-label="Search">
+                  <span class="search-bar__submit__text box-link">Search</span>
+                  </span>
+                </button>
+              </div>
+            </form>
+            <button type="button" class="gtm-main-nav-search-open search-open" id="main-navigation-search">
+              <img class="icon search-icon" src="/images/search-icon.svg" alt="Search button"/>
+            </button>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+
+	<div class="department-logos jump-nav single-column-section-titles">
+
+		<section class="title">
+
+			<div class="grid-wrapper">
+
+				<div class="parent col-1-13">
+					<a href="/identity/logos-and-marks/" class="gtm-internal-page-link btn blue">Logos and Marks</a>
+				</div>
+
+
+				<h1 class="col-1-13">Department Logos</h1>
+
+
+				<div class="jump-nav-links col-1-13">
+					<ul>
+						<li><a class="gtm-internal-page-link" href="#logo-system">Logo System</a></li>
+						<li><a class="gtm-internal-page-link" href="#logo-colors">Logo Colors</a></li>
+						<li><a class="gtm-internal-page-link" href="#minimum-space">Minimum Clear Space</a></li>
+						<li><a class="gtm-internal-page-link" href="#minimum-size">Minimum Size</a></li>
+						<li><a class="gtm-internal-page-link" href="#other-graphics">Other Graphics</a></li>
+						<li><a class="gtm-internal-page-link" href="#do-not">Do Not</a></li>
+						<li><a class="gtm-internal-page-link" href="#request">Request Logos</a></li>
+					</ul>
+				</div>
+
+			</div>
+		</section>
+
+		
+		<!-- If an email could not be sent, inform the user. -->
+		
+
+		<section id="overview" class="element top no-border-top">
+			<div class="grid-wrapper">
+				<div class="col-wide col-1-9 page-overview">
+					<p class="no-bottom-margin">The School or Department Logo &mdash; sometimes called a lockup or signature &mdash; combines the campus logo with the name of a school or department.</p>
+				</div>
+			</div>
+		</section>
+
+
+
+			<section id="logo-system" class="element">
+				<div class="grid-wrapper">
+
+					<h2 class="col-1-13">Logo System</h2>
+
+					<div class="col-1-7">
+						<figure>
+							<img src="/images/identity/dept-logos/id-deptlogo-1.jpg" alt="Diagram shows how the department logo system combines the boxed UCLA logo with the “Samueli School of Engineering” lettering." />
+						</figure>
+
+						<figure>
+							<img src="/images/identity/dept-logos/id-deptlogo-2.jpg" alt="The department logo system applied to the UCLA College, UCLA Anderson School of Management, and UCLA School of Nursing" />
+						</figure>
+
+						<figure>
+							<img src="/images/identity/dept-logos/id-deptlogo-3.jpg" alt="Four logos for the Bioengineering Department in the Samueli School" />
+						</figure>
+					</div>
+
+					<div class="col-7-13">
+						<p>Use of the standard department logo system is <strong>required</strong> for all academic and administrative units. Modifications are not permitted, but the logo system has a great deal of flexibility built in.</p>
+						<p>The Samueli School of Engineering adopted the department logo system in spring 2018. Their logos illustrate the options provided and the flexibility of the system.</p>
+
+						<h3>Boxed or Unboxed</h3>
+						<p>The preferred version of the school logo uses the boxed UCLA logo with the name “Samueli School of Engineering.” There’s an alternate version using the unboxed UCLA logo.</p>
+
+						<h3>Full Name or Shortened Name</h3>
+						<p>In certain contexts &mdash; for instance, messages for alumni, students or faculty of the school &mdash; the “School of Engineering” wording is dropped, so the logo reads simply “UCLA Samueli.” Those audiences already know that Samueli is an engineering school.</p>
+
+						<h3>Emphasis on School or Department</h3>
+						<p>Departments have logos with two versions of their names. One version emphasizes the school name, with the department in smaller type. The other version reverses that relationship, putting the school name in small type and maximizing the department’s name. That way either the school or the department can be highlighted as needed.</p>
+
+						<h3>Other UCLA Systems</h3>
+						<p>Please note that <a href="http://identity.uclahealth.org" target="_blank">UCLA Health</a> has additional graphic hierarchies on the clinical side to convey structure accurately. UCLA Athletics uses the <a class="gtm-internal-page-link" href="/identity/logos-and-marks/script-logo">script logo</a>.</p>
+					</div>
+
+				</div>
+			</section>
+
+			<section id="logo-colors" class="element">
+				<div class="grid-wrapper">
+
+					<h2 class="col-1-13">Logo Colors</h2>
+
+					<div class="col-1-7">
+						<figure>
+							<img src="/images/identity/dept-logos/id-deptlogo-4.jpg" alt="Eight color combinations, boxed or unboxed, against white or black backgrounds, are shown; one is not acceptable" />
+					</div>
+
+					<div class="col-7-13">
+						<p>Department logos typically appear in combinations of UCLA Blue and black, as shown. All black, all white and all blue department logos are also acceptable. Never use the department logo in gray or grayscale.</p>
+
+						<h4>The boxed version of the department logo can be:</h4>
+						<ul class="unordered-list">
+							<li>UCLA Blue and black on white background (preferred)</li>
+							<li>UCLA Blue and white on black or dark background</li>
+							<li>All black on white background</li>
+							<li>All white on black or dark background</li>
+						</ul>
+
+						<h4>The unboxed version of the department logo can be:</h4>
+						<ul class="unordered-list">
+							<li>UCLA Blue and black on white background</li>
+							<li>All black on white background</li>
+							<li>All white on black or dark background</li>
+						</ul>
+
+						<p>Always use the logo artwork from the brand bundle prepared for you by UCLA Marketing. Learn how to <a class="gtm-internal-page-link" href="/identity/department-logos#request">request</a> one for your department below.</p>
+					</div>
+
+				</div>
+			</section>
+
+			<section id="minimum-space" class="element">
+				<div class="grid-wrapper">
+
+					<h2 class="col-1-13">Minimum Clear Space</h2>
+
+					<div class="col-1-7">
+						<figure>
+							<img src="/images/identity/dept-logos/id-deptlogo-5.jpg" alt="Four diagrams showing width of “U” as the measure of required clear space around department logos" />
+					</div>
+
+					<div class="col-7-13">
+						<p>Never crowd department logos. Like the campus logo, they need clear space, “buffer” space, to achieve visual impact. Use the width of the letter “U” to gauge the amount of clear space that’s needed.</p>
+						<p>It’s fine to align the left hand edge of the logo with your text or image. The empty space in the margin will function as the necessary clear space.</p>
+					</div>
+
+				</div>
+			</section>
+
+			<section id="minimum-size" class="element">
+				<div class="grid-wrapper">
+
+					<h2 class="col-1-13">Minimum Size</h2>
+
+					<div class="col-1-7">
+						<figure>
+							<img src="/images/identity/dept-logos/id-deptlogo-6.jpg" alt="Four diagrams showing minimum sizes for department logos" />
+						</figure>
+					</div>
+
+					<div class="col-7-13">
+						<p>Never use department logos below the minimum size, measured vertically. Note that the unboxed two-line logo with “School of Engineering” needs more vertical space than the one-line version.</p>
+						<p>The one-line unboxed version should be at least 0.3” high in print, equivalent to 26 pixels high online. The two-line unboxed version should be at least 0.4” high in print, equivalent to 30 pixels high online.</p>
+						<p>The boxed versions should be at least 0.4” high in print, equivalent to 30 pixels high online.</p>
+					</div>
+
+				</div>
+			</section>
+
+			<section id="other-graphics" class="element">
+				<div class="grid-wrapper">
+
+					<h2 class="col-1-13">Other Graphics</h2>
+
+					<div class="col-1-13">
+						<p>Campus units — including but not limited to centers, institutes and ORUs — who have previously used other unique logos as part of their visual identities can maintain the use of those existing graphics for a limited time while transitioning to the department <a href="/identity/department-logos#logo-system">logo system</a>. Work with your <a href="/assets/identity/MarComm-Leads-List-2.3.2023.xlsx">communications or marketing point of contact</a> to determine the timeline for that transition.</p>
+						<p>A wide range of <a href="/application/print#other-graphics">print templates</a> and <a href="/application/email/templates#other-graphics">email templates</a> — stationery, event invites, newsletters and more — have been provided to guide your usage of the campus and department logos during this transition. Employ your existing graphic in the ample white space opposite the department logo available on any given template.</p>
+						<p>The default “GRFK” on these templates denotes the area where your graphic should be placed to ensure it stands out, without detracting from the department logo. Neither the height nor the width of the graphic may exceed the dimensions of the boxed UCLA logo; give the audience the visual reminder that your unit lives within a larger department and UCLA.</p>
+						<p>On applications where space is limited — on, say, a mug or a keychain — simply use the <a href="/identity/logos-and-marks/campus-logo">campus logo</a>.</p>
+					</div>
+
+				</div>
+			</section>
+
+			<section id="do-not" class="element grid">
+				<div class="grid-wrapper">
+
+					<h2 class="col-1-13">Do Not</h2>
+
+					<div class="col-1-13 no-padding">
+
+						<div class="grid-3x3">
+							<div>
+								<img src="/images/identity/dept-logos/id-deptlogo-dont-1.jpg" alt="Example with outlines around campus logo, outline type for the name “Samueli”" />
+								<p>Do not attempt to create your own department logos or variations of department logos. Please coordinate with your communications or marketing director to use existing logos until the official brand bundle is delivered.</p>
+							</div>
+
+							<div>
+								<img src="/images/identity/dept-logos/id-deptlogo-dont-2.jpg" alt="Example with no space between the campus logo and the name “Samueli”" />
+								<p>Do not mimic the department logo style for other purposes such as organization or lab names.</p>
+							</div>
+
+							<div>
+								<img src="/images/identity/dept-logos/id-deptlogo-dont-3.jpg" alt="Example shows altered campus logo on gold" />
+								<p>Once the official brand bundle digital masters are delivered, do not alter them in any way.</p>
+							</div>
+
+							<div>
+								<img src="/images/identity/dept-logos/id-deptlogo-dont-4.jpg" alt="Example with outlines around campus logo, outline type for the name “Samueli”" />
+								<p>Do not introduce outlines or outline type into the department logo.</p>
+							</div>
+
+							<div>
+								<img src="/images/identity/dept-logos/id-deptlogo-dont-5.jpg" alt="Example with no space between the campus logo and the name “Samueli”" />
+								<p>Do not change the spacing between the campus logo and the name.</p>
+							</div>
+
+							<div>
+								<img src="/images/identity/dept-logos/id-deptlogo-dont-6.jpg" alt="Example shows altered campus logo on gold." />
+								<p>Do not alter the color or weight of department logo elements.</p>
+							</div>
+
+							<div>
+								<img src="/images/identity/dept-logos/id-deptlogo-dont-7.jpg" alt="Example shows altered logo rotated counter-clockwise." />
+								<p>Do not alter the campus logo or rotate the department logo off the baseline.</p>
+							</div>
+
+							<div>
+								<img src="/images/identity/dept-logos/id-deptlogo-dont-8.jpg" alt="Example shows department logo with elements re-sized and re-aligned." />
+								<p>Do not change the size of any element of the department logo.</p>
+							</div>
+
+						</div>
+
+						<figcaption>
+							<strong>Note:</strong> These examples are illustrative only. Not one of these altered logos has ever been used by the Samueli School of Engineering.
+						</figcaption>
+
+					</div>
+
+				</div>
+			</section>
+
+			<section id="request" class="element">
+				<div class="grid-wrapper">
+
+					<h2 class="col-1-13">Request Logos</h2>
+
+					<div class="col-wide col-1-9">
+						<h3>Who Creates My Department Logos?</h3>
+						<p>In addition to using a special branded version of Helvetica, school and department logos require individual fine-tuning by hand, including significant adjustments to spacing. For that reason, this site does not show the specifications for department logos. Instead, UCLA Marketing will create the digital masters for academic and administrative units.</p>
+
+						<h3>Who Should I Contact?</h3>
+						<p>For all academic and administrative units, please direct requests through your school or department’s communications or marketing office so that a consistent package of logos is created for the entire school or division at the same time.</p>
+						<p>For campus programs, initiatives and partnerships (when two or more campus units — schools, departments, etc., are coordinating an event, program, etc.), please contact your unit’s Marketing & Communications Director for assistance. For partnerships with third parties (any off-campus organization, company, etc.), please submit a request at <a href="https://marks.ucla.edu" target="_blank">marks.ucla.edu</a></p>
+						<p>Download a list of Marketing &amp; Communications Directors from schools and departments across campus <a href="/assets/identity/MarComm-Leads-List-2.3.2023.xlsx">here</a>. Units within UCLA Health or David Geffen School of Medicine at UCLA please visit <a href="http://identity.uclahealth.org" target="_blank">identity.uclahealth.org</a>. If your campus unit is not listed, please scroll down to submit a request online.</p>
+
+						<h3>What Will I Receive?</h3>
+						<p>You will receive a brand bundle including the following variations:</p>
+						<ul class="unordered-list">
+							<li>Boxed and unboxed campus logo</li>
+							<li>Blue, black, and white color versions</li>
+							<li>Three graphic formats: EPS, SVG and PNG
+								<ul class="unordered-list">
+									<li>EPS for print (InDesign), engraving, banners</li>
+									<li>SVG for motion graphics and animation</li>
+									<li>PNG for online and Microsoft Office</li>
+								</ul>
+							</li>
+							<li>HTML email headers</li>
+						</ul>
+
+						<p>In some cases, name variations will be created — such as “UCLA Samueli” and “UCLA Samueli School of Engineering.”</p>
+
+						<h3 id="submit-request-online">Submit a Request Online</h3>
+						<p>If you don’t know who to contact for your campus unit, you can fill out the form below to submit a request online:</p>
+
+						<form id="request-dept-logo" method="post" action="/api/request_dept_logo" pageId="22355370" siteId="549861" parentPageId="22355367" autocomplete="off">
+
+							
+							<div class="field firstname-field">
+								<label class="font-weight-light" for="firstname">
+									First Name
+								</label>
+								<input type="text" name="Firstname" id="firstname" class="textInput defaultText" aria-label="Your first name." placeholder="Joe" value="">
+															</div>
+							<div class="field lastname-field">
+								<label class="font-weight-light" for="lastname">
+									Last Name
+								</label>
+								<input type="text" name="Lastname" id="lastname" class="textInput defaultText" aria-label="Your last name." placeholder="Bruin" value="">
+															</div>
+							<div class="field title-field">
+								<label class="font-weight-light" for="title">
+									Title
+								</label>
+								<input type="text" name="Title" id="title" class="textInput defaultText" aria-label="Your title." placeholder="Brand Ambassador" value="">
+															</div>
+							<div class="field email-field">
+								<label class="font-weight-light" for="email">
+									Email Address
+								</label>
+								<input type="text" name="Email" id="email" class="textInput defaultText" aria-label="Your email address." placeholder="joebruin@ucla.edu" value="">
+															</div>
+							<div class="field phone-number-field">
+								<label class="font-weight-light" for="phone-number">
+									Phone Number
+								</label>
+								<input type="text" name="PhoneNumber" id="phone-number" class="textInput defaultText" aria-label="Your phone number in the format 999-999-9999." placeholder="999-999-9999" value="">
+															</div>
+							<div class="field unit-field">
+								<label class="font-weight-light" for="unit">
+									School, administrative unit or center/institute name (required)
+								</label>
+								<input type="text" name="Unit" id="unit" class="textInput defaultText" aria-label="Your school, administrative unit or center/institute name." placeholder="College" value="">
+															</div>
+							<div class="field subunit-field">
+								<label class="font-weight-light" for="department">
+									Division, department or administrative subunit name (optional)
+								</label>
+								<input type="text" name="Subunit" id="subunit" class="textInput defaultText" aria-label="Your division, department or administrative subunit name." placeholder="Life Sciences" value="">
+															</div>
+							<div class="field department-field">
+								<label class="font-weight-light" for="department">
+									Department Name (optional)
+								</label>
+								<input type="text" name="Department" id="department" class="textInput defaultText" aria-label="Your department." placeholder="Microbiology, Immunology & Molecular Genetics" value="">
+															</div>
+							<div class="field notes-field">
+								<label class="font-weight-light" for="notes">
+									Notes
+								</label>
+								<textarea name="Notes" id="notes" aria-label="Additional notes." placeholder="Additional comments"></textarea>
+															</div>
+							<div class="field submit-field">
+								<input type="submit" class="btn blue contact-submit" value="Submit" aria-label="Submit">
+							</div>
+							<span style="display:none;visibility:hidden;">
+								<div class="field robo-field">
+									<label for="robo">
+										 Ignore this text box. If you enter anything into this text box, your message will not be sent.
+									</label>
+									<input type="text" name="Robo" id="robo" class="textInput defaultText" aria-label="Ignore this text box. If you enter anything into this text box, your message will not be sent." value="">
+																	</div>
+							</span>
+						</form>
+
+						<p>Contact UCLA Marketing at <a href="mailto:brand@stratcomm.ucla.edu">brand@stratcomm.ucla.edu</a> for related inquiries.</p>
+
+					</div>
+				</div>
+			</section>
+    </div>
+
+
+
+<footer id="footer">
+			<div class="wrapper">
+				<img class="logo" src="/images/logo-stratcomm.svg" alt="UCLA Strategic Communications logo">
+				<div class="footer-content">
+					<div class="col-1">
+						<p>
+							10889 Wilshire Blvd. | Ste 1400<br>
+							Los Angeles, CA 90024<br>
+						</p>
+						<p class="contact">
+							<ul>
+								<li><a class="gtm-footer-link-phone" href="tel:3108254321">(310) 825-4321</a></li>
+								<li><a class="gtm-footer-link-mailto" href="mailto:brand@stratcomm.ucla.edu">brand@stratcomm.ucla.edu</a></li>
+							</ul>
+						</p>
+					</div>
+					<div class="col-2">
+						<div class="h5">Learn More</div>
+							<ul>
+								<li><a class="gtm-footer-link-internal gtm-download-file-pdf" href="/assets/ucla-brand-glossary.pdf" target="_blank" data-button-name="Glossary Footer">Glossary (PDF 52KB)</a></li>
+								<li><a class="gtm-footer-link-internal" href="/resources">Resources</a></li>
+							</ul>
+					</div>
+					<div class="col-3">
+						<div class="h5">Related Websites</div>
+							<ul>
+								<li><a class="gtm-footer-link-outbound" href="https://www.marks.ucla.edu" target="_blank">Permission to use UCLA Marks</a></li>
+								<li><a class="gtm-footer-link-outbound" href="http://socialmedia.ucla.edu" target="_blank">Social Media at UCLA</a></li>
+								<li><a class="gtm-footer-link-outbound" href="http://identity.uclahealth.org" target="_blank">UCLA Health Identity</a></li>
+								<li><a class="gtm-footer-link-outbound" href="https://asucla.ucla.edu/licensing/" target="_blank">UCLA Trademarks and Licensing</a></li>
+								<li><a class="gtm-footer-link-outbound" href="https://www.adminvc.ucla.edu/marks/report-a-violation" target="_blank">Report improper use of UCLA Marks</a></li>
+							</ul>
+					</div>
+				</div>
+				<div class="sign-up">
+					<div class="blurb">
+						<div class="h5">Stay Informed</div>
+						Join the brand guidelines email list to hear about resources and updates
+					</div>
+
+					<div id="form-messages">
+						<form id="email-signup" method="post" action="/api/newsletter" pageId="22355370" siteId="549861" parentPageId="22355367" autocomplete="off">
+							<div class="field email-field">
+								<input type="text" name="Email" id="control_EMAIL" label="Email" class="textInput defaultText" placeholder="Your Email Address" aria-label="Your Email Address" required>
+								<input type="hidden" name="formSourceName" value="StandardForm"><!-- DO NOT REMOVE HIDDEN FIELD sp_exp --><input type="hidden" name="sp_exp" value="yes">
+							</div>
+							<div class="field submit-field">
+								<input type="submit" class="btn yellow gtm-footer-email-signup" value="Sign Up" aria-label="Sign Up">
+							</div>
+							<p class="warning">Please enter a valid email.</p>
+						</form>
+					</div>
+					<div id="success" class="hide">
+						<img src="/images/outline-check-circle.svg" alt="">
+						<p>Your email was submitted. Please check your inbox to complete your registration.</p>
+					</div>
+
+				</div>
+				<div class="legal">
+					<div id="regents">&copy;2024 Regents of the <a href="https://www.universityofcalifornia.edu" target="_blank">University of California</a></div>
+					<div class="global-links">
+						<a class="gtm-footer-link-outbound" href="http://www.ucla.edu/terms-of-use" target="_blank">Terms of Use</a>
+						<a class="gtm-footer-link-outbound" href="http://www.ucla.edu/accessibility" target="_blank">Accessibility</a>
+						<!--
+						<a class="gtm-footer-link-outbound" href="#">Emergency</a>
+						-->
+					</div>
+				</div>
+			</div>
+		</footer>
+
+		<script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+		<script src="/vendors/fancybox-master/dist/jquery.fancybox.min.js"></script>
+
+		
+		<script src="https://www.brand.ucla.edu/js/main.js" ></script>
+
+		<script type="text/javascript">
+			$(document).ready( function() {
+				$('a.fancybox').fancybox();
+			});
+
+						</script>
+		<!-- test -->
+	</body>
+</html>

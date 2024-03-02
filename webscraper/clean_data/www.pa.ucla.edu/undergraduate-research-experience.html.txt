@@ -1,0 +1,118 @@
+UCLA Physics & Astronomy
+College
+Physical Sciences
+Resources
+Admission information
+Majors and requirements
+Tuition and fees
+Departmental Honors
+Draft schedule of Physics/Astro classes for AY2022-23
+Schedule of classes
+Physics 1A/B/C and Physics 5A/B/C
+Descriptions of courses required for the Physics major
+Research Experience for Undergraduates
+Facebook undergraduate advising
+AIP PhysicsToday Jobs
+AAS Job Register
+Research Experience for Undergraduates
+The Physics & Astronomy Department has created a ten-week Undergraduate Summer Research program, open only to UCLA students in the Physics & Astronomy Department,
+      to be held June 19-August 25, 2023.
+Please download and fill out the application here
+.
+The application
+      deadline is March 17, 2023
+. Faculty will define a number of available research projects.
+In addition to the printed application, you are asked to provide:
+A one-page statement about yourself and your academic and research goals, your motivations, and your interest in doing 
+      	physics/astronomy research. You can also optionally provide reasons for your research preferences.
+Your unofficial transcript.
+A resume/CV that includes coursework, lab skills, and coding proficiencies.
+A letter of recommendation (sent separately to
+queval@physics.ucla.edu
+) from faculty.
+Place all these documents including the application form in a folder and compress them in a single zip file.
+Programs for 2023
+PHYSICS PROJECTS
+Particle Physics-Dark Matter
+Faculty: Alvine Kamaha
+Project 1: the project is to optimize a novel technique for particle detection based on supercooled water.
+Project 2: This project has to do with the development of a low-background counting facility as well as the development of cleanliness techniques for future generations of dark matter detectors.
+Biophysics/Neurophysics
+Faculty: Mayank Mehta
+Project title: Neuro-AI
+Description: The AI race is heating up and impacting all walks of life including research in physics. But, AI can't do many things that a mouse can do, such as find it's way in the world and navigate. How does the brain do all of this so effortlessly that even a butterfly can navigate large distances, with fewer neurons than the transistors in a laptop? What are the computational principles of the brain that allow it to do abstraction and generalization so easily? Our lab has addressed these questions using virtual reality for rats, neural recording during behavior and sleep, and neurophysics style theories. The project will involve these approaches. Solid ability to write codes in Matlab or Python is required, along with experience in things like digital signal processing and time series analysis. Experience with use of ML algorithms is a plus.
+Faculty: Katsushi Arisaka
+Project: Study the 3D visual perception by integrating Virtual Reality, Eye tracking, and Brainwave (EEG) detectors.  To investigate it further, the student will help develop a 3D scanning ultra-fast microscope for Drosophila's entire brain and human eyes.
+Plasma Physics
+Faculty: Christoph Niemann
+Project: Investigate shock waves driven by exploding plasmas in high-repetition rate laser experiments. The student will design and construct a laser based diagnostic and use it measure the evolution and plasma parameters inside the shock.
+High-Energy-Density Plasma Physics
+Faculty: Derek Schaeffer
+Project: This project would focus on the analysis of data from laboratory astrophysics experiments on large laser facilities. The experiments studied the physics of collisionless shocks and magnetic reconnection, processes that are found in many astrophysical systems from the Earth’s magnetosphere to supernova remnants. In these systems, a supersonic plasma expands into a pre-magnetized ambient plasma, which can be reproduced using high-powered lasers. Key to understanding the resulting dynamics is measuring the plasma properties (density, temperature, flow). The experiments utilized advanced light-based diagnostics, including Thomson scattering and x-ray imaging. The student would have the opportunity to analyze data from these experiments (using MATLAB or python) to study how plasma properties evolve over space and time. They will also have the opportunity to (remotely) participate in laser experiments throughout the summer.
+Theoretical/Computational Plasma Physics
+Faculty: Frank Tsung, Viktor Decyk, Han Wen (University of Rochester)
+Project: The NVIDIA Tesla V100 GPU, with a peak speed of 28 TFLOPS, would have ranked #2 supercomputer in the world 20 years ago.  With this kind of computing power on our desktops, it is now possible to perform world-class scientific simulations using commodity hardware.  With that in mind, we are looking for an undergraduate student with background in plasma physics and computer science who would like to work with the UCLA particle-in-cell Simulation group to port our existing 2D and 3D skeleton codes (available on GitHub) to run on modern GPU’s using the OpenACC library.  The goal of this project is to produce a portable code that can run a large variety of GPU’s and can be used as a template for our production codes moving forward.   The resulting code will be a permanent part of our GitHub collecting and the porting and validation efforts will be published in a conference proceeding or in a refereed journal.
+Nuclear Physics/QCD Collider
+Faculty: Zhongbo Kang
+Project: QCD is the theory of strong interactions, which describes how elementary particles like quarks and gluons interact with each other and is responsible for how quarks and gluons make up hadrons. The fundamental laws of QCD are elegantly concise. However, understanding the structural complexity of protons and neutrons in terms of quarks and gluons governed by those laws is one of the most important challenges facing physics today, a challenge that motivates the newest generation of experimental facilities. In this project, the students will learn the basic theory and computation tools to extract the fundamental properties of particles from vast data collected at high-energy collider experiments.
+Beam Physics
+Faculty: James Rosenzweig
+Project 1: Design and testing high power of extremely high field cryogenic RF structures as a part of a UCLA-SLAC-Rome-LANL collaboration
+Project 2: Measurement of femtosecond relativistic electron beams at the UCLA MITHRA Lab, which is soon to be the highest energy university linear accelerator for beam research for wakefield accelerators and free-electron lasers in the US.
+Project 3: Plasma source development for advanced plasma wakefield acceleration experiments, as part of a UCLA-Argonne collaboration.
+Experimental Condensed Matter Physics
+Faculty: John Miao
+Project: Coherent X-ray diffractive imaging of energy materials
+We will apply X-ray ptychography, a scanning coherent diffractive imaging method, to determine the three-dimensional (3D) structure of the solid electrolyte interphase in battery materials. We have acquired experimental ptychography data sets from the Advanced Light Source at the Lawrence Berkeley National Laboratory. We are looking for a motivated student to work on the phase retrieval of the ptychography data sets and perform the 3D reconstruction of the battery materials. Our goal is to image the 3D structural and chemical information of the solid electrolyte interphase at the nanoscale resolution.
+Experimental condensed matter physics/quantum information science
+Faculty: Jason Petta
+Project: Quantum control hardware - support efforts to design, fabricate, and test hardware for controlling single electron devices in Prof. Petta's on-campus lab.
+Solid State
+Faculty: Stuart Brown
+Project: "A number of unconventional superconductors exhibit signatures of chiral states. However, the useful probes of such time reversal symmetry breaking are quite limited. In this project, we explore the usefulness of low-magnetic-field quadrupole resonance for detecting such properties. On cooling, the test system we will study undergoes a phase transition to a state of matter known as a charge-density-wave state at about 90 K, and there is considerable interest in the properties of this state, including the question of whether it is also chiral. The project will involve hardware, software, measurement, and analysis components."
+ASTRONOMY PROJECTS
+Faculty: Matt Malkan
+Project: The two possible projects for the student both involve working with new spectroscopic
+         observations we have obtained with JWST. In one case we are analyzing the detailed motions
+         of gas in the centers of nearby active galactic nuclei. In the other project we are using
+         a large survey to find and study new active galactic nuclei at large cosmological distances.
+Faculty: Andrea Ghez
+Project: The selected student will work on the Galactic Center Orbits Initiative, which is a long-term project being carried out at Keck Observatory to measure the orbits of stars to learn about the physics and astrophysics of supermassive black holes.      We explore methods for extending the time baseline of the existing observations to improve our ability to perform new tests of General Relativity in the relatively unexplored regime near a supermassive black hole.
+Faculty: Tuan Do
+Project: Machine learning in astronomy - our group seeks to use machine learning methods to allow for novel ways of examining and analyzing astronomical data. The scale and complexity of astronomical data are growing exponentially, so it is important that our tools and methods grow as well to enable new discoveries. Our group studies both how machine learning is being used in astronomy and applies machine learning methods to challenging astronomical problems. Potential research projects include machine learning in extragalactic astronomy, image recognition and processing, and the study of stars around the supermassive black hole at the center of our galaxy.
+Faculty: Steven Furlanetto
+Project: Theoretical Astrophysics
+One of the landmark events of the early phases of galaxy formation is “reionization,” when photons from the first galaxies in the Universe ionized all the intergalactic gas. This is the last major phase transition in the Universe’s history, and it is a key goal of a number of new observatories. Furlanetto’s group is developing a new model for the reionization process inspired by recent data showing that ionizing photons travel only a short distance through the Universe. The REU student will work on improving this model by incorporating more realistic galaxy models and, if time permits, applying the model to observations in order to constrain the reionization process.
+Faculty: Smadar Naoz
+Project: TBD
+Questions? Contact the Undergraduate office:
+Françoise Queval
+, Student 
+      Affairs Officer, 1-707A PAB, 310-825-2453.
+Previous REU programs:
+2021 Research Experience for Undergraduates
+2020 Research Experience for Undergraduates
+2019 Research Experience for Undergraduates
+UCLA Physics & Astronomy Department
+Copyright ©
+UCLA Physics & Astronomy
+475 Portola Plaza, Los Angeles, CA 90095-1547
+310-825-3440
+Contact Physics & Astronomy
+ABOUT UCLA
+UCLA Home
+Division of Physical Sciences
+UCLA COVID-19 Resources
+Maps, directions, and parking
+RESOURCES
+BruinLearn
+Instructional Support
+Diversity
+Wellness
+COVID
+Computing and IT Support
+Machine Shop and Instrument Fabrication Facility
+Research Store
+Physics & Astronomy Administration
+Demoweb: Lecture demonstration
+Demoweb: Lab manuals

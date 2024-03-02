@@ -1,0 +1,171 @@
+<html>
+<head>
+<title>Panoply Ubiquitous Computing Project Home</title>
+</head>
+
+<body background="images/background.gif" vlink="black">
+<br>
+<a href="http://www.cs.ucla.edu"><img src="images/ucla_csd.gif" align="left" border=0></a>
+<a href="http://www.lasr.cs.ucla.edu"><img src="images/lasr_logo.gif" align="right" border=0></a>
+<center><img src="images/panoply_logo.gif">&nbsp;&nbsp;
+<b><span style='font-size:70.0pt;font-family:"Brush Script MT";color:purple'>Panoply</span><br>
+<span style='font-size:32.0pt;font-family:"Brush Script MT";color:#993366'>Secure Organization and Interactions of Ubiquitous Computing Spaces</span></b>
+<br><br><br>
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><a href="panoply.html"><span style='color:windowtext'>[</span>Home<span
+style='color:windowtext'>]</span></a> | <a href="projects.html"><span
+style='color:windowtext'>[</span>Projects<span style='color:windowtext'>]</span></a>
+| <a href="members.html"><span style='color:windowtext'>[</span>Members<span
+style='color:windowtext'>]</span></a> | <a href="publications.html"><span
+style='color:windowtext'>[</span>Publications<span style='color:windowtext'>]</span></a>
+| <a href="publications.html#_presentations"><span style='color:windowtext'>[</span>Presentations<span
+style='color:windowtext'>]</span></a> | <a href="links.html"><span
+style='color:windowtext'>[</span>Links<span style='color:windowtext'>]</span></a>
+| <a href="http://www.lasr.cs.ucla.edu/"><span style='color:windowtext'>[</span>Other
+LASR Projects<span style='color:windowtext'>]</span></a><o:p></o:p></b></p>
+<br><img src="images/divider_line.gif"></center><br><br>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:38.25pt;margin-bottom:
+12.0pt;margin-left:.5in'><span style='font-family:Arial'>Panoply is a
+middleware.that aims to enable secure and scalable interactions among devices that
+participate in a ubiquitous computing environment. This research builds on
+earlier work done in <i style='mso-bidi-font-style:normal'>active or
+intelligent spaces</i> and deals with the concepts of group formation and change,
+event management and policy management, which have not been dealt with in a
+comprehensive manner. Current and past ubiquitous computing research has
+concentrated on building more intelligence into physical spaces or designing
+better applications. Though largely effective, existing systems lack a common
+representational model for device communities, semantics for the formation and
+interaction of such communities, and ways to handle the vast permutations of
+context and policy disagreements that might occur in a global-scale ubiquitous
+system. Security and access control solutions are domain-specific and neither
+extensible nor scalable. The heterogeneity of devices, software and networks we
+are seeing today is only going to increase in the future, and ad hoc design
+of active spaces cannot provide a scalable or a secure solution for the systems
+of the future, where interoperation is going to be all-important.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:38.25pt;margin-bottom:
+12.0pt;margin-left:.5in'><span style='font-family:Arial'><span
+style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>At
+the heart of Panoply lies the concept of <i style='mso-bidi-font-style:normal'><b>spheres
+of influence</b></i>, or device communities, the basic units of interaction in a
+Panoply-enabled ubiquitous computing environment. A sphere can be a single
+device or a group of devices united by a shared set of properties or by a
+common goal. Spheres could be <i style='mso-bidi-font-style:normal'>physical</i>
+(or geographical), such as the set of devices in a local area network under a
+wireless access point, or <i style='mso-bidi-font-style:normal'>social</i>,
+such as the set of devices controlled by my friends, or those belonging to ACM
+members. A sphere can be recursively defined as a collection of one or more
+spheres. Spheres can have basic parent and child relationships as well as
+derived relationships, such as sibling, grandparent, and so on. A sphere
+defines a virtual boundary around its group members, scopes contextual and
+other state information, and defines a policy that all members must abide by.
+Both intra- and inter-sphere communication is supported through an event model,
+which also enables important tasks such as publish and subscribe. Basic sphere
+operations include joining and leaving. Further details about spheres and
+current research can be found <a
+href="projects.html#spheres">here</a>.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:38.25pt;margin-bottom:
+12.0pt;margin-left:.5in'><span style='font-family:Arial'><span
+style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+A sphere join operation requires us to deal with an important security issue, namely <i><b>integrity analysis</b></i>. The most common type of sphere join we will be dealing with involves the joining of a mobile device to a wireless network, the former being a unit device sphere and the latter being a physical sphere.
+Mobile computing today offers the scope for spontaneous discovery of wireless networks and the consequent addition of a mobile device to such networks. Such spontaneity will be expected, indeed at a much higher scale, in future ubiquitous computing environments. But such interactions often carry security risks, which are all too often ignored by the device owners and the network administrators. Mobile devices are prime targets for compromise by malicious agents that make use of unpatched and vulnerable software running on them. When such devices are granted access to a network, they could potentialy bring in viruses and worms and infect devices within a network. As an example, consider the Blaster worm scare in the summer of 2003. Network gateways, therefore, have a duty to analyze the integrity of incoming devices in order to protect existing members.We designed a solution for performing such an analysis in three steps, namely <i><font color="brown"><b>q</b>uarantine, <b>e</b>xamination</font></i> and <i><font color="brown"><b>d</b>econtamination</font></i>, or <font color="brown"><b><i>QED</i></b></font>. In a nutshell, an incoming device is firewalled from existing network members, examined for any software vulnerabilities, malicious software or aberrant behavior, and subsequently patched or disinfected if required. Limited versions of QED-like systems have been produced commercially, the most prominent example being Cisco's <i>Network Admission Control</i>. A lot of research still remains to be done though, chiefly involving trust issues, trusted hardware and privacy.
+More details about our research and practical experience in designing and running a system for performing QED tasks can be found <a href="projects.html#spheres">here</a>.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:38.25pt;margin-bottom:
+12.0pt;margin-left:.5in'><span style='font-family:Arial'><span
+style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Spheres
+can have a wide variety of policy that guides interactions, mainly pertaining
+to resource management, security and access control and context-sensitive
+behavior. When a sphere attempts to join another, it gains certain privileges
+denied to others. Both the host and the supplicant have local private
+policies which guide their behavior. They must resolve their policies in order
+to come to a working agreement whereby one could become a member of another, and each could avail of the other's services.
+This process of decentralized policy resolution is termed <i style='mso-bidi-font-style:
+normal'><b>negotiation</b></i>, which is another fundamental operation that Panoply
+supports. In a full-fledged Panoply-enabled environment, two spheres will be
+able to negotiate to share each others&#8217; resources and gain privileges,
+while maintaining their individual security and access control policy
+restrictions. The negotiation procedure will take immediate context into
+account, and will proceed in steps of give-and-take until an agreement or
+compromise is reached. A number of aspects are involved in this research.
+A tight but flexible policy language, an ontology for dealing with objects and resources, and semantics for
+negotiation primitives are required to enable policy negotiation. The negotiation
+procedure itself involves analysis of risk or cost versus benefit, and this
+requires research in trust models as well as the application
+of game-theoretic and utility-theoretic concepts to device interactions. Further
+details and current status of this research can be found <a
+href="projects.html#negotiation">here</a>.<o:p></o:p></span></p>
+<br>
+<font face="Arial">
+<center><img src="images/panoply_arch.gif"><br>
+<b>Figure:</b>&nbsp;&nbsp;The Panoply Architecture</center>
+<br></font>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:38.25pt;margin-bottom:
+12.0pt;margin-left:.5in'><span style='font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:38.25pt;margin-bottom:
+12.0pt;margin-left:.5in'><span style='font-family:Arial'>In addition to
+building the core infrastructure to support basic sphere operations, we have also
+been designing exciting applications that demonstrate the
+benefits of Panoply in the best manner. These include:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:38.25pt;margin-bottom:
+12.0pt;margin-left:.75in;text-indent:-.25in;mso-list:l0 level1 lfo2;tab-stops:
+list .75in'><![if !supportLists]><span style='font-family:Arial;mso-fareast-font-family:
+Arial'><span style='mso-list:Ignore'>1)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
+style='font-family:Arial;color:maroon'>Location-aided Interactive Fiction</span></b><span
+style='font-family:Arial'>: In this application, users are allowed to play the
+role of different characters in a story, and they can explore different
+Panoply-enabled physical spaces to discover clues, story leads and information about other
+story characters. This is a translation of the interactive fiction concept from
+books to the real world, where real users can interact through their devices and
+move through actual physical locations that represent places in the story.
+Details can be found <a
+href="projects.html#interactive_fiction">here</a>.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:38.25pt;margin-bottom:
+12.0pt;margin-left:.75in;text-indent:-.25in;mso-list:l0 level1 lfo2;tab-stops:
+list .75in'><![if !supportLists]><span style='font-family:Arial;mso-fareast-font-family:
+Arial'><span style='mso-list:Ignore'>2)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
+style='font-family:Arial;color:maroon'>Tour of a Museum Gallery</span></b><span
+style='font-family:Arial'>: We are working with the <a
+href="http://www.lacma.org/">Los Angeles County Museum of Art</a> to deploy
+Panoply in an experimental gallery for providing enhanced user experience.
+Currently, museum viewing proceeds in a fairly one-dimensional manner, where
+people move around, look at exhibits and get information pertaining to that
+particular exhibit. Using a Panoply-enabled mobile device, users could stand in
+front of an exhibit, obtain information not only about that exhibit, but about
+related exhibits that might be of interest. Members of tour groups could be
+guided on particular paths based on the nature of their interests. Details can
+be found <a href="projects.html#lacma">here</a>.<o:p></o:p></span></p>
+
+<br><p class=MsoNormal style='margin-top:0in;margin-right:38.25pt;margin-bottom:
+12.0pt;margin-left:.5in'><span style='font-family:Arial'>Most ubiquitous
+computing applications are required to be context-sensitive. The most important
+piece of context that is usually put to use is <i><b>location</b></i>. The two applications
+discussed above are heavily dependent on the ability of user devices to
+determine their instantaneous location, not necessarily a pinpoint reference but a defined semantic area, such as a room or a building.  Knowing the current location could
+allow devices to make suitable decisions, including ones that involve joining
+or leaving a sphere. Though a number of research efforts have been made to
+allow devices and wireless access points to determine the location of
+individual devices, they all suffer from certain drawbacks. These drawbacks, as
+well as our approaches for location determination, which utilize knowledge of access points to physical location mappings, are discussed in more detail
+<a href="projects.html#location">here</a>.<o:p></o:p></span></p>
+<br>
+<center><img src="images/divider_line.gif"></center><br>
+<center><br>The source code with installation and running guidelines can be downloaded <a href="http://lasr.cs.ucla.edu/panoply/Panoply-Installation.tar.gz">here</a>.</center><br><br><br>
+<center><img src="images/divider_line.gif"></center><br>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:12.0pt;
+margin-left:.5in'><span style='font-family:Arial'>The Panoply project is
+supported by the <a href="http://www.nsf.gov/">National Science Foundation</a>
+under Grant No. <font color="red">CNS 0427748</font>.
+<o:p></o:p></span></p>
+<br>
+</body>
+</html>

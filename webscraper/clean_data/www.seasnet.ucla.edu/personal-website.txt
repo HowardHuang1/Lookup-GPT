@@ -1,0 +1,95 @@
+Personal Website | SEASnet
+Select Page
+Personal Website
+Your choices for creating a website at UCLA include, but not limited to, the following:
+For Faculty Research/Lab Sites Only
+See
+research.seas.ucla.edu
+.
+Google Sites at g.ucla.edu
+Eligibilities:
+UCLA employees, students, departments, student groups/organizations, alumni, and retirees
+Pro:
+free
+Cons:
+Not flexible and very limited in design
+Custom URLs are not supported for sites hosted at g.ucla.edu
+Instructions:
+Activate your g.ucla.edu Google account at
+https://g.ucla.edu
+(if you’ve not done it already). A new faculty whose appointment has not begun will need his/her department to email help@it.ucla.edu.
+Sign to
+mail.g.ucla.edu
+with your UCLA Logon ID.
+Follow the instruction at
+https://gsuite.google.com/learning-center/products/sites/get-started
+Notes:
+Although IT support is not included, there are some fee-based support available:
+SEASnet Computing Facility via
+https://www.seasnet.ucla.edu/seasnet-service-request
+(subject to staff availability)
+GitHub Pages at github.com
+Eligibilities:
+Anyone
+Pro:
+free
+Con:
+familiarity with HTML
+Instructions:
+See
+https://pages.github.com
+WordPress using Amazon Lightsail
+Eligibilities:
+Valid UCLA’s FAU or CoA recharge account
+Cost
+(subject to change)
+:
+https://calculator.s3.amazonaws.com/index.html
+Instructions:
+https://softwarecentral.ucla.edu/amazon-aws-howto
+https://aws.amazon.com/getting-started/tutorials/launch-a-wordpress-website
+WordPress using cPanel
+Eligibilities:
+Valid UCLA’s FAU or CoA recharge account
+Cost
+(subject to change)
+:
+$29.75/month
+Instructions:
+See
+https://ucla.service-now.com/support?id=its_browse_service&sys_id=bc62ef341b9c885038cec8415b4bcbab
+Notes:
+You need to be within UCLA network to logon to CPanel’s admin console with the admin account provisioned to you.
+You are responsible for keeping WordPress/Drupal, Apache, MySQL/PostgreSQL, and etc. up-to-date with security updates.
+You are responsible for responding to UCLA IT Security should any security vulnerability is discovered.
+Although IT support is not included, there are some fee-based support available:
+UCLA IT Services at datacenterservices@it.ucla.edu
+SEASnet Computing Facility via
+https://www.seasnet.ucla.edu/seasnet-service-request
+(subject to staff availability)
+Drupal using full-service hosting
+Eligibilities:
+Valid UCLA’s FAU or CoA recharge account
+Cost
+(subject to change)
+:
+$288.42/month (for 10k daily page view site), $250.00/month (optional 5 hours of consulting)
+Instructions:
+See
+https://www.it.ucla.edu/services/web-development-hosting/web-cms
+Notes:
+As of April 2019, the version of Drupal is 7, with version 8 coming soon.
+You will be provided with the default UCLA template for your Drupal site. Customization may be possible at additional cost.
+Non-core Drupal module request is not supported (due to complexity in upgrades).
+Content updates can be delegated UCLA IT Services with additional cost. Also, content update approval workflow setup can be requested.
+UCLA IT Services is responsible for security updates.
+Some examples of UCLA sites using this service: tickets.ucla.edu, it.ucla.edu
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

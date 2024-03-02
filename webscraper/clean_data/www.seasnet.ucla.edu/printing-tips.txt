@@ -1,0 +1,49 @@
+Printing | SEASnet
+Select Page
+Printing
+Bruin Print/Wepa print station
+in (
+2684BH
+) will provide both black-and-white and color printing. Students can upload their documents to the Wepa print cloud at
+www.bruinprint.com
+(UCLA LOGON ID required) and retrieve their documents from the
+Wepa print stations
+(on or off campus). Files can also be on a USB drive.  Wepa Print app is available for iOS & Android smart phones or tablets.
+Wepa Printing fees and rates
+:
+https://www.library.ucla.edu/use/access-privileges/print-copy-scan#fees
+In the other SEASnet computer labs
+Your UCLA BAR account will be billed weekly for printing.
+Printing costs for all other lab printers are listed on the other SEASnet lab printers.
+To print from the Lab PCs to all other non Wepa lab printer’s, make sure that you have selected the correct printer: Select the program Menu bar and then File –> Print (
+select the room’s printer
+)
+To print from UNIX: lpr –P<printer name> <filename(s)>. For example: lpr –Ppr3760 homework1.ps
+For printing stations outside of the SEASnet labs, see
+BruinPrint
+Printing PDF file
+Please download the PDF file from browser to Desktop first, then select “Print as image” under “Advanced” after picking the printer.
+Printing Double-Sided
+Click
+File > Print
+.
+Choose a printer and then click on the
+Preferences
+button.
+Click on the
+Finishing
+tab and check the option
+Print On Both Sides (Manually)
+.
+Then click
+OK
+.
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

@@ -1,0 +1,190 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta http-equiv="content-type"
+ content="text/html; charset=ISO-8859-1">
+  <title>SAVE</title>
+</head>
+<body style="color: rgb(0, 0, 0); background-color: rgb(102, 204, 204);"
+ link="#000099" vlink="#990099" alink="#000099">
+<div style="margin-left: 40px;">
+<div style="text-align: center;"><big><big><span
+ style="font-family: capitals;"><big style="color: rgb(153, 51, 153);">SAVE</big><br>
+<span style="font-style: italic;"><span
+ style="color: rgb(153, 51, 153);">S</span>ource <span
+ style="color: rgb(153, 51, 153);">A</span>ddress <span
+ style="color: rgb(153, 51, 153);">V</span>alidation <span
+ style="color: rgb(153, 51, 153);">E</span>nforcement</span><br>
+<br>
+</span></big></big>
+<div style="text-align: left;"><br>
+<span
+ style="font-family: helvetica,arial,sans-serif; font-weight: bold;">NSF
+Grant:&nbsp; </span><span
+ style="font-family: helvetica,arial,sans-serif; font-weight: bold; color: rgb(153, 51, 153);">ANI-9980501
+(September 99 to August 03)</span><br
+ style="font-family: helvetica,arial,sans-serif; font-weight: bold;">
+<span
+ style="font-family: helvetica,arial,sans-serif; font-weight: bold;">Co-Principal
+Investigator:&nbsp; </span><span
+ style="font-family: helvetica,arial,sans-serif; font-weight: bold; color: rgb(153, 51, 153);">Peter
+Reiher</span><br
+ style="font-family: helvetica,arial,sans-serif; font-weight: bold;">
+<span
+ style="font-family: helvetica,arial,sans-serif; font-weight: bold;">Co-Principal
+Investigator:&nbsp;<span style="color: rgb(153, 51, 153);"> </span></span><span
+ style="font-family: helvetica,arial,sans-serif; font-weight: bold; color: rgb(153, 51, 153);">Lixia
+Zhang</span><br
+ style="font-family: helvetica,arial,sans-serif; font-weight: bold; color: rgb(102, 51, 102);">
+</div>
+<big><big><span style="font-family: capitals;"><br>
+</span></big></big>
+<hr style="width: 100%; height: 2px; color: rgb(204, 51, 204);"></div>
+<br>
+<big
+ style="font-family: helvetica,arial,sans-serif; font-weight: bold; color: rgb(153, 51, 153);">Project
+Summary</big><br>
+<br>
+<span style="font-family: helvetica,arial,sans-serif;">In today's
+Internet any node can send a packet to any other node that uses the
+standard protocol set. When abused by attackers, such flexibility can
+also lead to various kinds of disastrous behaviors at the target. The
+SYN denial-of-service attack is one example. While developing more
+robust protocol behaviors is important, complex protocols are unlikely
+to be completely bullet-proof. One good method of foiling such attacks
+is to identify the culprit and take measures to stop him, such as
+shutting off his node from the network, contacting his system
+administrator, or notifying law enforcement authorities. </span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<br style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;">These methods
+only work if the attacker can almost always be correctly identified.
+Unfortunately, in today's Internet one cannot easily identify attackers
+with any confidence. The obvious way to determine the sender of a
+malicious packet is to examine the source address field in the IP
+header; but existing Internet protocols allow senders to fill in this
+field arbitrarily. Despite incorrect source address fields, the network
+will properly route the packet to its destination. Responses, of
+course, will go to someone other than the attacker, which means that
+this vulnerability most likely cannot be used to obtain secret
+information or services. On the other hand, sometimes this feature
+allows the attacker to assault two sites for the price of one, since
+any bad responses to the packet will be routed to the misidentified
+sender, possibly causing further difficulties there. The receiver of
+the malicious packet has no confidence that the source address field is
+accurate. </span><br style="font-family: helvetica,arial,sans-serif;">
+<br style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;">Researchers in
+the Laboratory for Advanced Systems Research (<a
+ href="http://www.lasr.cs.ucla.edu">LASR</a>)
+in UCLA's Computer Science Department have worked on an address
+filtering project to solve this problem. Thanks to a funds and
+equipment grant from the <a href="http://www.ixaedu.com/home">Intel
+Corporation</a>, we were given an opportunity to study the feasibility
+of putting important security enhancements into high-speed routers. In
+the SAVE project, we used Intel's IXP equipment to develop a system
+capable of filtering out packets with forged IP source addresses. </span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<br style="font-family: helvetica,arial,sans-serif;">
+<big style="color: rgb(153, 51, 153);"><span
+ style="font-family: helvetica,arial,sans-serif; font-weight: bold;">Project
+Members </span></big><br
+ style="font-family: helvetica,arial,sans-serif;">
+<br style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;"><a
+ href="http://www.lasr.cs.ucla.edu/reiher.new/index2.html">Peter Reiher</a>
+(<span style="font-style: italic;">co-principal investigator</span>) </span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;"><a
+ href="http://www.cs.ucla.edu/csd/people/faculty_pages/lixia.html">Lixia
+Zhang</a>
+(<span style="font-style: italic;">co-principal investigator</span>) </span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;"><a
+ href="http://www.cs.uoregon.edu/%7Elijun/">Jun Li</a> (<span
+ style="font-style: italic;">former graduate student, now a faculty
+member at University of Oregon</span>) </span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;"><a
+ href="http://www.eecis.udel.edu/%7Esunshine/">Jelena Mirkovic</a> (<span
+ style="font-style: italic;">former graduate student, now a faculty
+member at the University of Delaware</span>)</span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;">Zhiguo Xu (<span
+ style="font-style: italic;">graduate student</span>) </span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;">Mattew Schnaider
+(<span style="font-style: italic;">former graduate student</span> )</span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;">Gregory Prier (<span
+ style="font-style: italic;">former graduate student, now with Microsoft</span>)</span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<br style="font-family: helvetica,arial,sans-serif;">
+<big><span
+ style="font-family: helvetica,arial,sans-serif; font-weight: bold; color: rgb(153, 51, 153);">Publications
+</span></big><br style="font-family: helvetica,arial,sans-serif;">
+<br style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;">*&nbsp;&nbsp;
+&nbsp;<a href="npc_paper.pdf">Implementing Address Assurance in
+the
+Intel IXP Router</a>,&nbsp; Proceedings of NPC 2002 </span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;">*&nbsp;&nbsp; <a
+ href="http://www.cis.udel.edu/%7Esunshine/publications/ucla_tech_report_020030.pdf">&nbsp;iSAVE:
+Incrementally Deployable Source
+Address Validation</a>,&nbsp; UCLA Tech Rept CSD-TR-020030 </span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;">*&nbsp;&nbsp;
+&nbsp;<a href="infocom02.pdf">SAVE: Source Address Validity
+Enforcement</a>,&nbsp; INFOCOM 2002</span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;">*&nbsp;&nbsp;
+&nbsp;<a href="010004.pdf">SAVE: Source Address
+Validity Enforcement Protocol</a>, UCLA Technical Report CSD-TR-010004</span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;">*&nbsp;&nbsp;
+&nbsp;<a href="isi_save_lijun.ppt">Jun Li presentation at USC/ISI</a></span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;">*&nbsp;&nbsp;
+&nbsp;<a href="http://www.lasr.cs.ucla.edu/save/usenix_save/index.htm">Jelena
+Mirkovic presentation</a> at Usenix Security Symposium 2001 - Work In
+Progress Session</span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<br style="font-family: helvetica,arial,sans-serif;">
+<big style="font-weight: bold; color: rgb(153, 51, 153);"><span
+ style="font-family: helvetica,arial,sans-serif;">Simulation Tools </span></big><br
+ style="font-family: helvetica,arial,sans-serif;">
+<br style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;"><a
+ href="http://pcl.cs.ucla.edu/projects/parsec/">Parsec</a> has been
+selected as the simulation platform for this project. Currently both
+RIP and BGP-4 are being studied. We will further study other routing
+protocols as well. </span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<br style="font-family: helvetica,arial,sans-serif;">
+<big style="font-weight: bold; color: rgb(153, 51, 153);"><span
+ style="font-family: helvetica,arial,sans-serif;">Links </span></big><br
+ style="font-family: helvetica,arial,sans-serif;">
+<br style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;">*&nbsp;&nbsp;
+&nbsp;<a href="http://www.lasr.cs.ucla.edu/save/topo.html">Topology
+modeling, generation and analysis</a></span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;">*&nbsp;&nbsp;
+&nbsp;<a href="http://www.lasr.cs.ucla.edu/save/traffic.html">Traffic
+modeling and generation</a></span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;">*&nbsp;&nbsp;
+&nbsp;<a href="http://www.lasr.cs.ucla.edu/save/sim.html">Simulation
+Tools</a></span><br style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;">*&nbsp;&nbsp;
+&nbsp;<a href="http://www.lasr.cs.ucla.edu/save/bib.html">Related
+publications</a></span><br
+ style="font-family: helvetica,arial,sans-serif;">
+<span style="font-family: helvetica,arial,sans-serif;">*&nbsp;&nbsp;
+&nbsp;<a href="http://www.lasr.cs.ucla.edu/save/software.html">Related
+software packages</a></span><br>
+</div>
+<br>
+</body>
+</html>

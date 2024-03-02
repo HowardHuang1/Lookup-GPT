@@ -1,0 +1,103 @@
+IP Address Request Form | SEASnet
+Select Page
+IP Address Request Form
+SEASnet uses static IP addresses for network access. Due to the size of our network and the number of users, we have multiple sub-nets which require your network port to be configured to work with your IP address. You have to manually set up the IP address info in your computer for the network connection to function properly.
+All network users must understand that SEASnet is responsible for ensuring the network is secure and meets all campus policies. At this point, SEASnet does not firewall the network; however, we do block various ports for security reasons.
+This form is used to request that SEASnet assign an IP address for your computer, printer, or other network device. The form is not considered complete until we have all the information requested.
+The service is provided free of charge, but a valid recharge ID is required to process this request. You should receive your IP address in 24-48 hours (weekends and holidays excluded) once we obtain all the information needed to process the request.
+Your networked equipment must be located in Boelter Hall, Engineering IV, Engineering V, or Engineering VI buildings. If this computer has been on the network before, we ask you to check with the SEASnet Helpdesk before you fill out this form because it may already have an IP address assigned to it.
+SEASnet requires all mail servers be registered.
+If this request is for a machine that will perform mail server functions please make a note of this in the comments section of your request.
+Please inform SEASnet of any change in “contact information” for your lab or research group. This is the only means to contact you when problems arise.
+If you are planning on moving to another location in engineering, SEASnet requires at least 48 hour advance notice (weekends and holidays excluded) to ensure that network connectivity is not interrupted. For large moves of 10 network devices or more, SEASnet must be contacted at the beginning of all talks involving the move.
+If you just need network cables, please use the online form to buy cables from SEASnet:
+https://www.seasnet.ucla.edu/seasnet-service-request/
+You need to agree that you will abide by the SEASnet Network Access Policies (
+https://www.seasnet.ucla.edu/network-access-policies/
+) before submitting an IP address request.
+*
+indicates required field
+Terms Agreement:
+*
+I agree to abide by the SEASnet Network Access Policies.   I understand that I will be the primary contact and responsible for all activity from the IP address.
+Name:
+*
+Phone Number:
+*
+Email:
+*
+Re-enter Email:
+*
+(your email within ucla.edu)
+Building:
+*
+-- Select an Engineering building --
+BH
+E4
+E5
+E6
+Life Sci.
+Room number:
+*
+Enter your port number based on your building:*
+BH = ( example ) E or W / A 12
+E4 = ( example ) 37-108 / A 12
+E5 = ( not required )
+E6 = ( example ) 306 / 2F09
+Port Number:
+*
+Department:
+*
+-- Select a department --
+BE
+CBE
+CEE
+CEED
+CS
+EE
+MAE
+MSE
+Other ( see comment )
+Recharge ID:
+*
+(may be obtained from your Departments administrative staff)
+Authorized by:
+*
+Hostname (must be between 3 and 8 long - The machine name that will be mapped to the IP address. Note: if the machine name does not match the IP address some services will not work properly):
+*
+Domain:
+seas.ucla.edu
+ee.ucla.edu
+Computer's MAC address:
+Will this IP address be used for a router ?
+*
+-- select --
+No, this IP will not be used for router.
+Yes, this IP will is used for wireless router.
+Yes, this IP will is used for wired router.
+(If Yes, then please give reason for why router is needed in comment section below)
+Is this computer connected to a hub or switch ?
+*
+-- select --
+Yes, computer is connected to hub or switch.
+No
+IP address of another computer connected to this hub:
+Will this IP address be used for something other than web browsing? If so, please explain below:
+OS
+*
+-- select --
+Win10
+MAC OSX
+Linux
+Win7 (No longer supported)
+Other (Specify in comments)
+Details / Comment
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

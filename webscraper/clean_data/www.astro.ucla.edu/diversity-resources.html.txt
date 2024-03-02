@@ -1,0 +1,441 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>UCLA Astronomy Division</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+
+    <link rel="stylesheet" href="fonts/ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="fonts/fontawesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="fonts/flaticons/font/flaticon.css">
+    <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
+
+    <!-- Theme Style -->
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    
+    <header role="banner">
+      <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <div class="container">
+          <a class="navbar-brand" href="index.php">UCLA Division of <br /> Astronomy & Astrophysics</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarsExample05">
+            <ul class="navbar-nav ml-auto pl-lg-5 pl-0">
+              <li class="nav-item">
+                <a class="nav-link active" href="index.php">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="research-areas.html">Research</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="academics.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Academics</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="graduate-studies.html">Graduate</a>
+                  <a class="dropdown-item" href="undergraduate-program.html">Undergraduate</a>
+                  <a class="dropdown-item" href="about-our-faculty.html">About our faculty</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="outreach.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Outreach</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="astronomy-live.html">Astronomy Live!</a>
+                  <a class="dropdown-item" href="planetarium.html">UCLA Planetarium</a>
+                  <a class="dropdown-item" href="https://planets.ucla.edu/">iPlex</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="events.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Events</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <!--a class="dropdown-item" href="http://pritha.astro.ucla.edu/~abhimat/astrocoffee/">Astro Coffee</a>-->
+                  <a class="dropdown-item" href="astrophysics-colloquium.html">Astrophysics Colloquium</a>
+                  <a class="dropdown-item" href="tuesday-lunch-talks.html">Tuesday Lunch Talks</a>
+                  <a class="dropdown-item" href="meetings.html">Meetings</a>
+                  <a class="dropdown-item" href="diversity-resources.html">Diversity Events</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="people.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">People</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="faculty.html">Faculty</a>
+                  <a class="dropdown-item" href="researchers.html">Researchers</a>
+                  <a class="dropdown-item" href="lecturers.html">Lecturers</a>
+                  <a class="dropdown-item" href="postdocs.html">Postdocs</a>
+                  <a class="dropdown-item" href="grad-students.html">Graduate Students</a>
+                  <a class="dropdown-item" href="staff.html">Staff</a>
+                  <a class="dropdown-item" href="facilities.html">Facilities</a>
+                  <a class="dropdown-item" href="graduate-program-alumni.html">Graduate Program Alumni</a>
+                  <a class="dropdown-item" href="postdoc-alumni.html">Postdoc Alumni</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="events.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="contact-alice-shapley.html">Contact the Division Chair</a>
+                  <a class="dropdown-item" href="https://www.pa.ucla.edu/graduate-admissions.html">Graduate Student Admissions</a>
+                  <a class="dropdown-item" href="https://www.pa.ucla.edu/undergraduate-program.html">Undergraduate Program</a>
+                  <a class="dropdown-item" href="http://computing.pa.ucla.edu/">Computing and IT Support</a>
+                </div>
+              </li>
+            </ul>
+
+            <!--<ul class="navbar-nav ml-auto">
+              <li class="nav-item cta-btn">
+                <a class="nav-link" href="contact.html">Contact Us</a>
+              </li>
+            </ul>-->
+            
+          </div>
+        </div>
+      </nav>
+    </header>
+    <!-- END header -->    
+    <section class="home-slider-loop-false  inner-page owl-carousel">
+      <div class="slider-item" style="background-image: url('img/whitedwarf-slide-3.jpg');">
+        
+        <div class="container">
+          <div class="row slider-text align-items-center justify-content-center">
+            <div class="col-md-8 text-center col-sm-12 element-animate">
+              <h1>Diversity Resources</h1>
+              <!--<p>May 1, 2019 <span class="mx-3">&bullet;</span> by <a href="#" class="text-white">John Doe</a></p>-->
+              
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+    
+    <div class="section container">
+        <div class="row">
+          <!--<div class="col-lg-4">
+            <p><img src="img/galaxies.jpg" alt="" class="img-fluid"></p>
+            <p class="mb-5"><img src="img/black-hole.jpg" alt="" class="img-fluid"></p>
+          </div>-->
+          
+          <div class="col-lg-12 pl-2 pl-lg-5">
+          <h3>Diversity Presentations</h3>
+            <p>The UCLA Division of Astronomy and Astrophysics is committed to promoting and fostering an inclusive environment to 
+            serve our diverse community of learners. This website provides details regarding past and upcoming workshops, and a list 
+            of further resources.</p>
+            <p>If you have questions, suggestions or would like to report something 
+            <a href="mailto:astrodiversity@astro.ucla.edu">please contact us</a>.</p>
+            <p>The UCLA Division of Astronomy and Astrophysics is committed to promoting and fostering an inclusive environment 
+            to serve our diverse community of learners.  We are dedicated to supporting and engaging faculty and students from a 
+            broad array of backgrounds and experiences to tackle some of the biggest questions in physics and astronomy. The 
+            Department strives for an environment of respect for all its members, who share the common purpose of the study of 
+            physics and astronomy.<p>
+            <p>The UCLA Physics & Astronomy Department, and the Division of Astronomy and Astrophysics, in accordance with the 
+            policy of the University of California, is deeply committed to promoting and fostering an inclusive community 
+            dedicated to the advancement of knowledge and creativity. We strive to maintain an environment in which all 
+            members of our department can work and learn together in an atmosphere free of sexual harassment, exploitation, 
+            or intimidation. Please see the University of California policy on Sexual Violence and Sexual Harassment 
+            here: <a href="https://equity.ucla.edu/programs-resources/policy/#svsh">https://equity.ucla.edu/programs-resources/policy/#svsh</a>.</p>
+			<p>This website provides details regarding past and upcoming workshops, and a list of further resources.</p>
+
+	<h3>2023 Diversity Presentations</h3>
+	<br />
+	<h4>Tuesday, October 3, 2023, 1pm</h4>
+	<p><b>Dr. Jia Liu, Director (Center for Data-Driven Discovery), Associate Professor (University of Tokyo)</b>
+	<p>Impact of COVID-19 on publishing in astronomy in the initial two years</p>
+	<p>Abstract: Back in 2020, my life was heavily affected by the COVID-19 pandemic as a new mother and an early career scientist –– lost childcare, dropped productivity, disconnection from colleagues, and a tough job market. While rebuilding my research and life routines in the next 2 years, I couldn’t stop wondering: how were others in my field affected by the pandemic –– am I alone? Together with Vanessa Böhm, then  a postdoctoral fellow at UC Berkeley and a fellow computational cosmologist, we set off to answer this question using public data from ADS. We studied the history of publishing rates in astronomy by gender and country, and the impact of the pandemic on those rates. In this informal talk, I will present our key findings. I also hope to connect with the audience and understand the individual journeys behind the statistics we saw. The detailed analysis and results can be found in this article: <a href="https://www.nature.com/articles/s41550-022-01830-9">https://www.nature.com/articles/s41550-022-01830-9</a>.</p>
+	<h4>Tuesday, June 6, 2023, 1pm</h4>
+	<p><b>Dr. Christopher Blaszczak-Boxe, Associate Professor (Howard University)</b></p>
+	<p>Title: "Sense of Belonging, As a Vital Ingredient for STEM Engagement"</p>
+	<p>Abstract: "This talk will highlight the pivotal experiences that shaped Dr. B’s science identity and that created a communal space for me to not only feel welcomed but, more importantly, a sense of belonging in the global STEM arena. Motivating factors will be discussed regarding the need for additional perspectives in STEM disciplines, occupations, and the research environment. Within this context, Dr. B will accentuate two ongoing planetary science projects: 1) The feasibility of landing safely on ice bodies, such as Enceladus, with respect to ice strength parameters (e.g., density, porosity, tensile strength); and 2) a collaborative project, spearheaded by Kayla Smith, that is quantifying the impact of the impact of Novel H 2 O(v) Absorption Cross-Sections on the Present Martian Atmosphere via Caltech-JPL’s 1D Photochemical Model. Kayla Smith is an exemplar of the positive impact and success that can be fostered through matrices that create and sustain a sense of belonging for the diverse spectrum of academic stakeholders."</p>
+	<h4>Tuesday, May 2nd, 2023 1pm</h4>
+	<p><b>Josh Samani will present a paper about gender bias in teaching evaluations:</b><br>
+  <a href="https://www.pnas.org/doi/10.1073/pnas.2118466120">https://www.pnas.org/doi/10.1073/pnas.2118466120</a></p>
+  <h4>Wednesday, March 22, 2023, 3:30pm </h4>
+	<p><b>Alvine, Dalton, and Smadar: imposter syndrome from the point of view of these two articles</b><br>
+	<a href="https://hbr.org/2021/02/stop-telling-women-they-have-imposter-syndrome">Stop Telling Women They Have Imposter Syndrome</a><br>
+	and <br>
+	<a href="https://www.higheredjobs.com/Articles/articleDisplay.cfm?ID=3273&utm_source=01_25_2023&utm_medium=email&utm_campaign=InsiderUpdate&utm_content=1&VersID=1&SchedVersID=154">Unfolding the Myth of Imposter Syndrome</a></p>
+  <hr>
+  <h3>2022 Diversity Presentations</h3>
+  <br />
+	<h4>Tuesday, January 25, 2022 1pm</h4>
+	<p><b>Anna Quider (Assistant Vice President for Federal Relations - NIU)</b></p>
+	<p>Title: From Natural Laws to Writing Laws: An Astrophysicist Turned Policymaker</p>
+	<p>During this talk, attendees will learn about what it means to work in science policy as well as the wide array of opportunities for 
+	scientists -- from undergraduates through faculty members -- to gain experience working in science policy. Dr. Anna Quider will discuss 
+	her experience as a physicist-turned-policymaker working within the federal government at the U.S. House of Representatives and U.S. 
+	Department of State, and external to the federal government as a higher education and science advocate. She will also share advice 
+	and insights gained from her experience serving as a selection committee member for the APS Congressional Science Fellowship and AAAS 
+	Science and Technology Policy Fellowship.</p>
+	<h4>April 7 2022, 4pm</h4>
+	<p><b>Sherard Robbins (University of Arizona, Visceral Change), Mentoring Workshop</b></p>
+	<p><b>The Missing Link: Mentorship as The Key to Success</b></p>
+	<p>Abstract: This particular workshop will focus on the importance of mentorship for students, staff, and faculty. Using a multicultural 
+	lens, this session will explore the ways in which cultural and social identities impact how people connect with one another while providing 
+	helpful tips to create space to celebrate our diversity; when done correctly, this will lead to a collectivist approach to growth and 
+	development.</p>
+	<hr>
+	<h4>April 26, 2022, 1pm</h4> 
+	<p><b>Kartik Sheth (NASA HQ)</b></p>
+	<p><b>Title: Kartik Sheth (NASA HQ)</b></p>
+	<p>Abstract: My career has spanned academia, government, non-profits and the White House, I didn't always know what I was going to be 
+	doing next and certainly did not always follow a traditional path.  I will describe for the students some of the lessons learned along 
+	the way that have served me well in these various careers and describe important lessons that may help them to successful careers.</p>
+	<hr>
+	<h4>June 14 2022, 1pm</h4> 
+	<p><b>Chandralekha Singh, (Department of Physics and Astronomy, University of Pittsburgh)</b></p>
+	<p><b>Title: How to enhance physics by making it inclusive</b></p>
+	<p>Abstract: Instructors often only focus on content and pedagogical approaches to improve student engagement and learning in physics 
+	courses. However, students’ motivational characteristics can also play an important role in their engagement and success in physics. 
+	For example, students’ sense of belonging in a STEM class, their self-efficacy, and views about whether intelligence in STEM is “fixed” 
+	or “malleable” can affect engagement and learning. These types of concerns can especially impact the learning outcomes of women and 
+	racial/ethnic minority students and stereotype threats can exacerbate these issues. I will discuss prior research studies that show 
+	how different types of social psychological interventions (e.g., social belonging and growth mindset) have improved the motivation 
+	and learning outcomes of all students, especially women and underrepresented minorities in STEM fields. These interventions include 
+	providing data to students about how intelligence is malleable and one can become an expert in a discipline by working hard in a 
+	deliberate manner, sharing with the students, examples of testimonials of past students from diverse backgrounds, who struggled 
+	initially but then succeeded by working hard and using deliberate approaches. We will discuss how these ecological interventions 
+	were adapted and implemented in our physics classes. These types of interventions are short, requiring less than one hour of regular 
+	class time even though they have the potential to impact student outcomes significantly—especially for women and other underrepresented 
+	racial/ethnic minority students in physics classes.</p>
+	<hr> 
+	<h3>2020-2021 Diversity Presentations</h3>
+	<br />
+	<h4>Monday October 18, 2021</h4>
+	<p><b>Smadar Naoz/Alice Shapley: Jocelyn Bell Burnell movie</b></p>
+	<hr>
+	<h4>Monday October 11, 2021</h4>
+	<p><b>Sanaea/Tony: How COVID affected women, "reference man", car crash, masks on women/men, working from home, How Science Got Women Wrong, etc</b></p>
+	<h4>Monday October 4, 2021</h4>
+	<p><b>Isabel/Liz: Women's experience/women of color @ UCLA and in general - per research area</b></p> 
+	<hr>
+	<h4>Monday September 27, 2021</h4>
+	<p><b>Gabi/Denyz: Why are there still so few women in the sciences?</b></p>
+	<hr>
+	<h4>Monday September 20, 2021</h4>
+	<p><b>Alice Shapley/Shawn: MIT/AIP and recent updates</b></p>
+	<hr>
+	<h4>Monday August 30, 2021</h4>
+	<p><b>Kristian: LGBTQ</b> -- <a href="https://www.aps.org/programs/lgbt/upload/LGBTClimateinPhysicsReport.pdf">https://www.aps.org/programs/lgbt/upload/LGBTClimateinPhysicsReport.pdf</a></p>
+	<hr>
+	<h4>Monday August 23, 2021, 1-2:30pm</h4>
+	<p><b>Smadar Naoz, Dalton: History/intersectionality</b></p>
+	<hr>
+	<h4>Tuesday, June 8, 2021, 1-2:30pm</h4>
+	<p><b>Bystander Intervention and Building a Culture of Inclusion Workshop</b></p>
+	<p>In this discussion we'll learn how to speak up when harassment and microaggressions happen in the workplace, using 
+	techniques of bystander intervention (whether you're a bystander or responding directly). Through practical and hands-on small 
+	group activities and self-reflection exercises, participants will be able to recognize both subtle and more severe forms of 
+	prejudice. We'll practice techniques to enable a culture of accountability, rather than blame, to address inappropriate 
+	behavior in the workplace.</p>
+	<p>Features of the workshop include:
+				<ul>
+					<li>Identifying and understanding what makes a microaggression, and what its harm is</li>
+					<li>Practicing what to do if participants experience or observe harmful behavior in the workplace by a peer, 
+					superior, direct report or any other individuals in the workplace</li>
+					<li>Tools to cultivate and model a culture of respect and inclusion</li>
+				</ul>
+	This workshop will be led by Audrey Roofeh and Swati Srivastava, experienced workshop facilitators and workplace culture consultants.</p>
+	<hr>
+	<h4>Tuesday May 26 2021, 3:30pm</h4>
+	<p><b>Emily Rice (City University of New York): Science of All Stripes -- Creating an Eclectic Academic Career and Broadening 
+	Inclusivity</b></p>
+	<p>The landscape of academic science has changed significantly in recent decades and is poised to change even more in the near 
+	future. We can leverage these cultural changes to create an environment that is both inclusive to more people and effective in 
+	preparing students (science majors and non-majors alike) for a wider variety of careers and more broadly defined success. I’ll 
+	share my own path to science, including graduate school at UCLA, and a variety of science projects I have been involved in along 
+	the way to becoming tenured faculty at the City University of New York, including: planetarium shows, parody music videos, media 
+	appearances, Astronomy on Tap public outreach events, STARtorialist science fashion blog and shop, the AstroCom NYC research 
+	mentorship program, and the BDNYC brown dwarf research group. The implicit mission that connects these eclectic projects is to 
+	expand support for, participation in, and even the definition of science.</p>
+	<hr>
+	<h4>Wednesday May 11 2021, 3:30pm</h4>
+	<p><b>DiversiTea: Can you trust your own mind?</b></p>
+	<p>In this DiversiTea/professional development event we will explore some of the pitfalls set up by our minds and in our work 
+	and study place.</p>
+	<hr>
+	<h4>Thursday, Nov. 19, 2020 4pm</h4>
+	<p><b>Sherard Robbins (University of Arizona): topic TBA</b></p>
+	<hr>
+	<h4>Tuesday Dec. 1, 2020, 1-2pm</h4>
+	<p><b>DiversiTea</b></p>
+	<hr>
+	<h4>Tuesday Oct. 20, 2020 1-2pm</h4>
+	<p><b>DiversiTea Town Hall</b>: Aimed at discussing the next step of activities and actions followed our 11 week JC program, 
+	presenting the DEI strategic plan etc.</p>
+	<hr>
+	<h4>Thursday, Oct. 15, 2020 11am-12pm</h4>
+	<p><b>Joyce Yen, (University of Washington): De-biasing the evaluation processes</b></p>
+	<p><a href="diversity-resources-archive.html">Click here for the Diversity Resources archive</a>.</p>
+	<hr>
+<h3>
+	UCLA internal resources</h3>
+<p><strong>UCLA equity, diversity, and inclusion</strong><br />
+	<a href="https://equity.ucla.edu/programs-resources/">https://equity.ucla.edu/programs-resources/</a><br />
+	<a href="https://equity.ucla.edu/programs-resources/campus-resources/">https://equity.ucla.edu/programs-resources/campus-resources/</a></p>
+<p>These websites provide information regarding resources for issues such as discrimination prevention, title IX, student affairs programs, and other resources. There are also educational links which have information about implicit bias, stereotype threat, and classroom climate. I think the discrimination prevention team could be a valuable resource because they investigate discrimination claims made by students, staff, or faculty. They also hold training to prevent discrimination and bias.<br />
+	<br />
+	<strong>Anxiety and mental health resources</strong><br />
+	UCLA OCD Program: (310) 794-7305<br />
+	UCLA Anxiety Disorders Program: (310) 794-1038<br />
+	UCLA Trauma Psychiatry Service: (310) 794-1076<br />
+	UCLA Child and Adolescent Program: (310) 825-0122<br />
+	<br />
+	<strong>UCLA Anxiety Disorders Clinic </strong><br />
+	<a href="https://www.semel.ucla.edu/adc/clinic">https://www.semel.ucla.edu/adc/clinic</a></p>
+<p>This is a possible alternative to using CAPS, which is usually very overbooked and therefore not an option for a lot of students.<br />
+	<br />
+	<strong>CAPS workshops and trainings</strong><br />
+	<a href="http://www.counseling.ucla.edu/Workshops-Traninings">http://www.counseling.ucla.edu/Workshops-Traninings</a><br />
+	<br />
+	<strong>CAPS resources for mental health and common concerns</strong><br />
+	<a href="http://www.counseling.ucla.edu/Resources/Online-Resources-Apps">http://www.counseling.ucla.edu/Resources/Online-Resources-Apps</a></p>
+<p>This link includes resources for apps, including some about anxiety and relaxation techniques.<br />
+	<br />
+	<strong>CAPS list of community resources</strong><br />
+	<a href="http://www.counseling.ucla.edu/Resources/Community-Resources">http://www.counseling.ucla.edu/Resources/Community-Resources</a><br />
+	<br />
+	UCLA Sexual violence prevention and response:<br />
+	<a href="http://www.sexualviolence.ucla.edu/Filing-a-Report">http://www.sexualviolence.ucla.edu/Filing-a-Report</a></p>
+<p>This website outlines all of the options for filing or not filing a report and provides a list of available resources through UCLA and the surrounding community.<br />
+	<br />
+	<strong>SACNAS at UCLA (Society for the advancement of Chicanos and Native Americans)</strong><br />
+	<a href="http://www.sexualviolence.ucla.edu/Filing-a-Report">http://www.sacnasatucla.com/</a><br />
+	<br />
+	<strong>Women in Physics and Astronomy at UCLA</strong><br />
+	<a href="http://wipa.physics.ucla.edu/">http://wipa.physics.ucla.edu/</a><br />
+	<br />
+	<strong>Women in Physical Sciences at UCLA (for undergrads)</strong><br />
+	<a href="http://ugradwomen.pa.ucla.edu/">http://ugradwomen.pa.ucla.edu/</a><br />
+	&nbsp;</p>
+<h3>
+	External resources</h3>
+<p><strong>Astronomy in Color (In pursuit of social justice, diversity, and excellence in astronomy)</strong><br />
+	<a href="http://Astronomy in Color (In pursuit of social justice, diversity, and excellence in astronomy)">http://astronomyincolor.blogspot.com/</a><br />
+	<br />
+	<strong>Astronomy Allies</strong><br />
+	<a href="http://www.astronomyallies.com/Astronomy_Allies/Welcome.html">http://www.astronomyallies.com/Astronomy_Allies/Welcome.html</a><br />
+	<br />
+	<strong>Women in Astronomy blog</strong><br />
+	<a href="http://womeninastronomy.blogspot.com/">http://womeninastronomy.blogspot.com/</a><br />
+	<br />
+	<strong>AAS Committee for Sexual Orientation and Gender Minorities in Astronomy</strong><br />
+	<a href="https://sgma.aas.org/">https://sgma.aas.org/</a><br />
+	<br />
+	<strong>AAS Committee for the Status of Minorities in Astronomy</strong><br />
+	http://csma.aas.org/<br />
+	<br />
+	<strong>Sexual Assault Resources: CARE</strong><br />
+	<a href="http://www.sexualviolence.ucla.edu/Portals/33/Documents/ResourcesandOptions%20Brochure%20June2016.pdf">http://www.sexualviolence.ucla.edu/Portals/33/Documents/ResourcesandOptions%20Brochure%20June2016.pdf</a><br />
+	<br />
+	This lists reporting options, confidential resources, advocacy, and additional resources, as well as explains different forms of sexual violence and harassment.</p>
+<p>&nbsp;</p>
+
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+
+    
+    
+
+    
+            
+              
+          </div>
+          <!-- END slider -->
+          </div>
+        </div>
+      
+    </section> <!-- .section -->
+
+
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md-3 mb-5">
+            <h3>Announcements</h3>
+            <ul class="list-unstyled footer-link">
+              	<li><a href="https://www.pa.ucla.edu/open-positions.html">Open academic positions</a></li>
+              	<li><a href="https://www.pa.ucla.edu/annual-report.html">Annual reports and newsletters</a></li>
+              	<li><a href="http://newsroom.ucla.edu/">UCLA Newsroom</a></li>
+              	<li><a href="http://www.sexualviolence.ucla.edu/">UCLA policies on sexual harassment & violence</a></li>
+              	<li><a href="https://diversity.ucla.edu/">Diversity @ UCLA</li>
+            </ul>
+
+          </div>
+          <div class="col-md-3 mb-5">
+            <div class="mb-5">
+              <h3>Academic Resources</h3>
+              <ul class="list-unstyled footer-link">
+              	<li><a href="https://registrar.ucla.edu/calendars/annual-academic-calendar">Academic calendar</a></li>
+              	<li><a href="https://sa.ucla.edu/ro/public/soc">Schedule of classes</a></li>
+              	<li><a href="https://my.ucla.edu/">MyUCLA</a></li>
+              	<li><a href="http://bruinlearn.ucla.edu/">BruinLearn</a></li>
+              	<li><a href="https://www.lmstransformation.ucla.edu/">LMS Transformation</a></li>
+              	<li><a href="https://ucla.service-now.com/support?id=home">UCLA IT Services</a></li>
+            </ul>
+            </div>
+          </div>
+          <div class="col-md-3 mb-5">
+            <h3>General Resources</h3>
+            <ul class="list-unstyled footer-link">
+              <li><a href="observing-facilities.html">Observing facilities</a></li>
+              <li><a href="http://irlab.astro.ucla.edu/">Infrared Laboratory</a></li>
+              <li><a href="https://www.pa.ucla.edu/financial-services.html">Financial Services</a></li>
+              <li><a href="http://iff.pa.ucla.edu/">Machine Shop</a></li>
+              <li><a href="https://www.pa.ucla.edu/research-store.html">Research Store</a></li>
+              <li><a href="https://webmail.astro.ucla.edu/">Astronomy Zimbra Email</a></li>
+              <li><a href="http://computing.pa.ucla.edu/">Computing & IT Support</li>
+            </ul>
+        </div>
+        <div class="col-md-3 mb-5">
+            <h3>Visiting UCLA</h3>
+            <ul class="list-unstyled footer-link">
+              <li><a href="#">UCLA interactive map</a></li>
+              <li><a href="#">Directions and parking</a></li>
+              <li><a href="#">Planetarium directions</a></li>
+              <li><a href="#">UCLA campus shuttle</a></li>
+              <li><a href="#">Local accommodations</a></li>
+              <li><a href="#">Giving to the Astro Division</a></li>
+            </ul>
+          </div>
+        <div class="row">
+          <div class="col-12 text-md-center text-left">
+            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+        Copyright &copy;<script>document.write(new Date().getFullYear());</script> UCLA Division of Astronomy & Astrophysics, 475 Portola Plaza, Los Angeles, CA 90095-1547
+310-825-3440 | A <a href="https://colorlib.com" target="_blank" >Colorlib</a> template.
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- END footer -->
+    <!-- loader -->
+    <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#cf1d16"/></svg></div>
+
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/magnific-popup-options.js"></script>
+    
+
+    <script src="js/main.js"></script>
+  </body>
+</html>

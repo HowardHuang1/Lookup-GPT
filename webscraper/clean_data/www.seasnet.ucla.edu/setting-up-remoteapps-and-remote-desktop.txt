@@ -1,0 +1,96 @@
+Setting Up RemoteApps and Remote Desktop | SEASnet
+Select Page
+Remote Access to SEASnet Lab Applications
+Login to UCLA VPN is REQUIRED before starting RemoteApp and Remote Desktop.
+Get
+Cisco VPN Software here
+.
+SEASnet offers the ability for students to access
+lab applications
+remotely using Windows RemoteApp and Remote Desktop connections.  Because this resource is extremely important for our students, the remote system is limited to students officially enrolled in engineering courses and the system is only available through finals week. To access the remote system, students must set up the remote app on their computer by following the instructions below. Note that users will be logged out if their session is idle for 30 minutes on remote app or 60 minutes on remote desktop; if you need to be logged in for up to 4 hours, follow the “Alternate Instructions” at the bottom of this page and use the icon
+Remote VDI
+. (FYI, When using Remote Apps in Work Resource)  (If you have one remote app running, you can also have a second app running at the same time. But if the first app is closed, it will not open again until you kill the Remote Desktop connection in Task Manager) (
+Pro-II will not work for Mac computer at this time.
+)
+Instructions for Windows
+Instructions for Mac
+Alternate instructions for
+downloading RDP files
+FAQ
+What are the choices under Work Resources?
+The choices under Work Resources are categorized into 3 remote technologies:
+RemoteApp
+(Adobe Acrobat, Visual Studio, Visio, etc.): provides the ability to deliver one or more Windows applications remotely. The applications look like any other applications running on your computer.
+Remote Desktop:
+provides the full desktop experience as in the SEASnet labs, using a cluster of Microsoft Windows servers.
+Remote VDI:
+(Virtual PC): also provides the full desktop experience as in the SEASnet labs, but gives you an exclusive use of a Windows Virtual Desktop through VDI/desktop-as-a-service implementation.
+Should I use RemoteApp, Remote Desktop, or Remote VDI?
+RemoteApp
+: If you just want to use a few specific Windows apps, you will get a better performance by using RemoteApp.
+For Microsoft Word, Excel and PowerPoint, you can optionally use these directly at ucla.box.com. The difference is where the data is saved. If you are not an engineering student, but a UCLA student, it is better to use ucla.box.com because your account at ucla.box.com is valid while you are a student at UCLA as opposed to your SEASnet account, which is only valid for a quarter.
+Remote Desktop
+: If you just want to have the same environment as in the SEASnet labs and you do not need Pro/II use Remote Desktop.
+SEASnet’s Remote Desktop is a multi-user system, but generally should give you a better performance over Virtual Desktop (a single-user concept) because it is hosted by a cluster of powerful servers.
+Remote VDI
+(does not work on Mac): If you need Pro/II, are a heavy MATLAB/COMSOL user, or are a resource intensive user, use Remote VDI (Virtual PC).
+Remote VDI consists of 50+ virtual machines.  On a Remote Desktop, a heavy usage of MATLAB/COMSOL or a resource intensive application can hog memory/CPU on a server to the level where other users are affected.  Therefore, if you are such a heavy user, we recommend that you use a Virtual Desktop to prevent affecting other users. Also, if you are testing an application that you write, it might also be safer to test it on a Virtual Desktop.
+Can I use a combination of RemoteApp, Remote Desktop, and Remote VDI simultaneously?
+No. We do not recommend this because your Windows User Profile is shared among all 3 remote services and it can become corrupted when using multiple technologies simultaneously. The corruption can also happen when you try to use one remote service right after logging off from another remote service. The corruption happens because different remote services are trying to retrieve/update your profile at the same time. Your account may not work properly when your profile becomes corrupted.
+What is an RDP file?
+The RDP file type is primarily associated with
+Remote Desktop Connection
+by Microsoft Corporation. An .RDP file contains all of the information for a connection to a terminal server, including the options settings that were configured when the file was saved. You use an RDP file by first downloading it to your computer and then opening it using an appropriate app (“RemoteApp and Desktop Connections” app on Windows and “Microsoft Remote Desktop” app on Mac).
+Instructions for Windows 10 users
+1. Using Windows Search, type in “remoteapp” and then choose “Access RemoteApp and desktops”.
+2. At the prompt for “Email address or connection URL”, enter
+https://rds.seaslab.seas.ucla.edu/RDWeb/Feed/webfeed.aspx
+and click Next.
+3. At the prompt for your credentials, enter your SEASnet username in the format
+seaslab\username
+(see example below) and your SEASnet password.  Click OK.
+4. Then Windows will guide you through the finishing steps and you will be able to see all the RemoteApps, Remote Desktops, and Virtual Desktops available in your Start Menu under Work Resources as shown below.
+Note
+: Please do not use RemoteApp, Remote Desktop, and Virtual Desktop at the same time or right after logging off from another because your account may not work properly anymore after that. See
+FAQ
+.
+Instructions for Mac users
+Download and install “Microsoft Remote Desktop” app from the App Store.  Open the app > click Workspace tab > click Add Workspace button.
+2. At the prompt for “Add Workspace”, enter
+https://rds.seaslab.seas.ucla.edu/RDWeb/Feed/webfeed.aspx
+and click Add.
+3. At the prompt for your user account, enter your SEASnet username in the format
+seaslab\username
+(see example below) and your SEASnet password.  Click Continue.
+4. Then you will be able to see all the RemoteApps, Remote Desktops and Virtual Desktops available in the Microsoft Remote Desktop window under Work Resources as shown below.
+Note
+: Please do not use RemoteApp, Remote Desktop, and Virtual Desktop at the same time or right after logging off from another because your account may not work properly anymore after that. See
+FAQ
+.
+Alternate instructions for downloading RDP files
+0.  If you are using Mac, first you need to download and install “Microsoft Remote Desktop” app from the App Store. If you are using Windows, you do not need to install any app.
+1.  Go to the URL
+https://rds.seaslab.seas.ucla.edu/RDWeb/Pages
+in your web browser and login with your SEASnet username in the format
+seaslab\username
+(see example below) and your SEASnet password, then click “Sign in”.
+2. After you sign in, you will be directed to the Work Resources page that has the RDP downloads for RemoteApps, Remote Desktops and Virtual Desktops.
+3. To download an RDP file, click on it and download. An example below shows the download for Adobe Acrobat.
+4. When you open a RDP file, it will ask you for your SEASnet username in the format
+seaslab\username
+and SEASnet password.
+Hint:
+For you convenience, download all the RDP files that you think you will need and save onto your computer so that you don’t have to repeat steps 1-3 again for a while.  For example, as a student, having Adobe Acrobat readily available on you computer can be very convenient, so save the RDP file for Adobe Acrobat on your computer and whenever you need to use Adobe Acrobat, you just open this RDP file on your computer.  That’s all!  It is like having the application right on your computer!
+Note
+: Please do not use RemoteApp, Remote Desktop, and Virtual Desktop at the same time or right after logging off from another because your account may not work properly anymore after that. See
+FAQ
+.
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

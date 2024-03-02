@@ -1,0 +1,3401 @@
+
+
+
+<!DOCTYPE html PUBLIC
+  "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us"
+      lang="en-us">
+
+  
+    
+    
+    
+    
+    
+    
+
+  
+
+  <head>
+
+    <meta http-equiv="Content-Type"
+          content="text/html;charset=utf-8" />
+
+    <meta name="generator" content="Plone - http://plone.org" />
+
+    <!-- Internet Explorer fix, forces IE8 into newest possible rendering
+         engine even if it's on an intranet. This has to be defined before any
+         script/style tags. -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+
+    
+      <base href="https://www.civilrightsproject.ucla.edu/" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    <link rel="kss-base-url" href="https://www.civilrightsproject.ucla.edu" />
+
+  
+  
+    
+    
+      <script type="text/javascript"
+              src="https://www.civilrightsproject.ucla.edu/portal_javascripts/CRP%20Theme/jquery-cachekey7329.js">
+      </script>
+    
+    
+    
+  
+
+  
+    
+    
+      <script type="text/javascript"
+              src="https://www.civilrightsproject.ucla.edu/portal_javascripts/CRP%20Theme/resourcebase2-dom-fp-cachekey2944.js">
+      </script>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <script type="text/javascript">
+/* Merged Plone Javascript file
+ * This file is dynamically assembled from separate parts.
+ * Some of these parts have 3rd party licenses or copyright information attached
+ * Such information is valid for that section,
+ * not for the entire composite file
+ * originating files are separated by - filename.js -
+ */
+
+/* - jquery.corners.js - */
+// https://www.civilrightsproject.ucla.edu/portal_javascripts/jquery.corners.js?original=1
+jQuery.fn.corners=function(options){var doneClass='rounded_by_jQuery_corners';var settings=parseOptions(options);var webkitAvailable=false;try{webkitAvailable=(document.body.style.WebkitBorderRadius!==undefined);var versionIndex=navigator.userAgent.indexOf('Chrome');if(versionIndex>=0) webkitAvailable=false} catch(err){}
+var mozillaAvailable=false;try{mozillaAvailable=(document.body.style.MozBorderRadius!==undefined);var versionIndex=navigator.userAgent.indexOf('Firefox');if(versionIndex>=0&&parseInt(navigator.userAgent.substring(versionIndex+8))<3) mozillaAvailable=false} catch(err){}
+return this.each(function(i,e){$e=jQuery(e);if($e.hasClass(doneClass)) return;$e.addClass(doneClass);var classScan=/{(.*)}/.exec(e.className);var s=classScan?parseOptions(classScan[1],settings):settings;var nodeName=e.nodeName.toLowerCase();if(nodeName=='input') e=changeInput(e);if(webkitAvailable&&s.webkit) roundWebkit(e,s);else if(mozillaAvailable&&s.mozilla&&(s.sizex==s.sizey)) roundMozilla(e,s);else{var bgColor=backgroundColor(e.parentNode);var fgColor=backgroundColor(e);switch(nodeName){case 'a':case 'input':roundLink(e,s,bgColor,fgColor);break;default:roundDiv(e,s,bgColor,fgColor);break}}});
+function roundWebkit(e,s){var radius=''+s.sizex+'px '+s.sizey+'px';var $e=jQuery(e);if(s.tl) $e.css('WebkitBorderTopLeftRadius',radius);if(s.tr) $e.css('WebkitBorderTopRightRadius',radius);if(s.bl) $e.css('WebkitBorderBottomLeftRadius',radius);if(s.br) $e.css('WebkitBorderBottomRightRadius',radius)}
+function roundMozilla(e,s){var radius=''+s.sizex+'px';var $e=jQuery(e);if(s.tl) $e.css('-moz-border-radius-topleft',radius);if(s.tr) $e.css('-moz-border-radius-topright',radius);if(s.bl) $e.css('-moz-border-radius-bottomleft',radius);if(s.br) $e.css('-moz-border-radius-bottomright',radius)}
+function roundLink(e,s,bgColor,fgColor){var table=tableElement("table");var tbody=tableElement("tbody");table.appendChild(tbody);var tr1=tableElement("tr");var td1=tableElement("td","top");tr1.appendChild(td1);var tr2=tableElement("tr");var td2=relocateContent(e,s,tableElement("td"));tr2.appendChild(td2);var tr3=tableElement("tr");var td3=tableElement("td","bottom");tr3.appendChild(td3);if(s.tl||s.tr){tbody.appendChild(tr1);addCorners(td1,s,bgColor,fgColor,true)}
+tbody.appendChild(tr2);if(s.bl||s.br){tbody.appendChild(tr3);addCorners(td3,s,bgColor,fgColor,false)}
+e.appendChild(table);if(jQuery.browser.msie) table.onclick=ieLinkBypass;e.style.overflow='hidden'}
+function ieLinkBypass(){if(!this.parentNode.onclick) this.parentNode.click()}
+function changeInput(e){var a1=document.createElement("a");a1.id=e.id;a1.className=e.className;if(e.onclick){a1.href='javascript:'
+a1.onclick=e.onclick} else{jQuery(e).parent('form').each(function(){a1.href=this.action});a1.onclick=submitForm}
+var a2=document.createTextNode(e.value);a1.appendChild(a2);e.parentNode.replaceChild(a1,e);return a1}
+function submitForm(){jQuery(this).parent('form').each(function(){this.submit()});return false}
+function roundDiv(e,s,bgColor,fgColor){var div=relocateContent(e,s,document.createElement('div'));e.appendChild(div);if(s.tl||s.tr) addCorners(e,s,bgColor,fgColor,true);if(s.bl||s.br) addCorners(e,s,bgColor,fgColor,false)}
+function relocateContent(e,s,d){var $e=jQuery(e);var c;while(c=e.firstChild) d.appendChild(c);if(e.style.height){var h=parseInt($e.css('height'));d.style.height=h+'px';h+=parseInt($e.css('padding-top'))+parseInt($e.css('padding-bottom'));e.style.height=h+'px'}
+if(e.style.width){var w=parseInt($e.css('width'));d.style.width=w+'px';w+=parseInt($e.css('padding-left'))+parseInt($e.css('padding-right'));e.style.width=w+'px'}
+d.style.paddingLeft=$e.css('padding-left');d.style.paddingRight=$e.css('padding-right');if(s.tl||s.tr){d.style.paddingTop=adjustedPadding(e,s,$e.css('padding-top'),true)} else{d.style.paddingTop=$e.css('padding-top')}
+if(s.bl||s.br){d.style.paddingBottom=adjustedPadding(e,s,$e.css('padding-bottom'),false)} else{d.style.paddingBottom=$e.css('padding-bottom')}
+e.style.padding=0;return d}
+function adjustedPadding(e,s,pad,top){if(pad.indexOf("px")<0){try{console.error('%s padding not in pixels',(top?'top':'bottom'),e)}
+catch(err){}
+pad=s.sizey+'px'}
+pad=parseInt(pad);if(pad-s.sizey<0){try{console.error('%s padding is %ipx for %ipx corner:',(top?'top':'bottom'),pad,s.sizey,e)}
+catch(err){}
+pad=s.sizey}
+return pad-s.sizey+'px'}
+function tableElement(kind,valign){var e=document.createElement(kind)
+e.style.border='none';e.style.borderCollapse='collapse';e.style.borderSpacing=0;e.style.padding=0;e.style.margin=0;if(valign) e.style.verticalAlign=valign;return e}
+function backgroundColor(e){try{var c=jQuery.css(e,"background-color");if(c.match(/^(transparent|rgba\(0,\s*0,\s*0,\s*0\))$/i)&&e.parentNode)
+return backgroundColor(e.parentNode);if(c==null)
+return "#ffffff";if(c.indexOf("rgb")>-1)
+c=rgb2hex(c);if(c.length==4)
+c=hexShort2hex(c);return c} catch(err){return "#ffffff"}}
+function hexShort2hex(c){return '#'+c.substring(1,2)+c.substring(1,2)+c.substring(2,3)+c.substring(2,3)+c.substring(3,4)+c.substring(3,4)}
+function rgb2hex(c){var x=255;var hex='';var i;var regexp=/([0-9]+)[, ]+([0-9]+)[, ]+([0-9]+)/;var array=regexp.exec(c);for(i=1;i<4;i++) hex+=('0'+parseInt(array[i]).toString(16)).slice(-2);return '#'+hex}
+function parseOptions(options,settings){var options=options||'';var s={sizex:5,sizey:5,tl:false,tr:false,bl:false,br:false,webkit:true,mozilla:true,transparent:false};if(settings){s.sizex=settings.sizex;s.sizey=settings.sizey;s.webkit=settings.webkit;s.transparent=settings.transparent;s.mozilla=settings.mozilla}
+var sizex_set=false;var corner_set=false;jQuery.each(options.split(' '), function(idx,option){option=option.toLowerCase();var i=parseInt(option);if(i>0&&option==i+'px'){s.sizey=i;if(!sizex_set) s.sizex=i;sizex_set=true} else switch(option){case 'no-native':s.webkit=s.mozilla=false;break;case 'webkit':s.webkit=true;break;case 'no-webkit':s.webkit=false;break;case 'mozilla':s.mozilla=true;break;case 'no-mozilla':s.mozilla=false;break;case 'anti-alias':s.transparent=false;break;case 'transparent':s.transparent=true;break;case 'top':corner_set=s.tl=s.tr=true;break;case 'right':corner_set=s.tr=s.br=true;break;case 'bottom':corner_set=s.bl=s.br=true;break;case 'left':corner_set=s.tl=s.bl=true;break;case 'top-left':corner_set=s.tl=true;break;case 'top-right':corner_set=s.tr=true;break;case 'bottom-left':corner_set=s.bl=true;break;case 'bottom-right':corner_set=s.br=true;break}});if(!corner_set){if(!settings){s.tl=s.tr=s.bl=s.br=true} else{s.tl=settings.tl;s.tr=settings.tr;s.bl=settings.bl;s.br=settings.br}}
+return s}
+function alphaBlend(a,b,alpha){var ca=Array(parseInt('0x'+a.substring(1,3)),parseInt('0x'+a.substring(3,5)),parseInt('0x'+a.substring(5,7)));var cb=Array(parseInt('0x'+b.substring(1,3)),parseInt('0x'+b.substring(3,5)),parseInt('0x'+b.substring(5,7)));r='0'+Math.round(ca[0]+(cb[0]-ca[0])*alpha).toString(16);g='0'+Math.round(ca[1]+(cb[1]-ca[1])*alpha).toString(16);b='0'+Math.round(ca[2]+(cb[2]-ca[2])*alpha).toString(16);return '#'+r.substring(r.length-2)+g.substring(g.length-2)+b.substring(b.length-2)}
+function addCorners(e,s,bgColor,fgColor,top){if(s.transparent) addTransparentCorners(e,s,bgColor,top);else addAntiAliasedCorners(e,s,bgColor,fgColor,top)}
+function addAntiAliasedCorners(e,s,bgColor,fgColor,top){var i,j;var d=document.createElement("div");d.style.fontSize='1px';d.style.backgroundColor=bgColor;var lastarc=0;for(i=1;i<=s.sizey;i++){var coverage,arc2,arc3;arc=Math.sqrt(1.0-Math.pow(1.0-i/s.sizey,2)) * s.sizex;var n_bg=s.sizex-Math.ceil(arc);var n_fg=Math.floor(lastarc);var n_aa=s.sizex-n_bg-n_fg;var x=document.createElement("div");var y=d;x.style.margin="0px "+n_bg+"px";x.style.height='1px';x.style.overflow='hidden';for(j=1;j<=n_aa;j++){if(j==1){if(j==n_aa){coverage=((arc+lastarc) *.5)-n_fg}
+else{arc2=Math.sqrt(1.0-Math.pow(1.0-(n_bg+1)/s.sizex,2)) * s.sizey;coverage=(arc2-(s.sizey-i)) *(arc-n_fg-n_aa+1) *.5}}
+else if(j==n_aa){arc2=Math.sqrt(1.0-Math.pow((s.sizex-n_bg-j+1)/s.sizex,2)) * s.sizey;coverage=1.0-(1.0-(arc2-(s.sizey-i))) *(1.0-(lastarc-n_fg)) *.5}
+else{arc3=Math.sqrt(1.0-Math.pow((s.sizex-n_bg-j)/s.sizex,2)) * s.sizey;arc2=Math.sqrt(1.0-Math.pow((s.sizex-n_bg-j+1)/s.sizex,2)) * s.sizey;coverage=((arc2+arc3) *.5)-(s.sizey-i)}
+addCornerDiv(s,x,y,top,alphaBlend(bgColor,fgColor,coverage));y=x;var x=y.cloneNode(false);x.style.margin="0px 1px"}
+addCornerDiv(s,x,y,top,fgColor);lastarc=arc}
+if(top)
+e.insertBefore(d,e.firstChild);else
+e.appendChild(d)}
+function addCornerDiv(s,x,y,top,color){if(top&&!s.tl) x.style.marginLeft=0;if(top&&!s.tr) x.style.marginRight=0;if(!top&&!s.bl) x.style.marginLeft=0;if(!top&&!s.br) x.style.marginRight=0;x.style.backgroundColor=color;if(top)
+y.appendChild(x);else
+y.insertBefore(x,y.firstChild)}
+function addTransparentCorners(e,s,bgColor,top){var d=document.createElement("div");d.style.fontSize='1px';var strip=document.createElement('div');strip.style.overflow='hidden';strip.style.height='1px';strip.style.borderColor=bgColor;strip.style.borderStyle='none solid';var sizex=s.sizex-1;var sizey=s.sizey-1;if(!sizey) sizey=1;for(var i=0;i<s.sizey;i++){var w=sizex-Math.floor(Math.sqrt(1.0-Math.pow(1.0-i/sizey,2)) * sizex);if(i==2&&s.sizex==6&&s.sizey==6) w=2;var x=strip.cloneNode(false);x.style.borderWidth='0 '+w+'px';if(top) x.style.borderWidth='0 '+(s.tr?w:0)+'px 0 '+(s.tl?w:0)+'px';else x.style.borderWidth='0 '+(s.br?w:0)+'px 0 '+(s.bl?w:0)+'px';top?d.appendChild(x):d.insertBefore(x,d.firstChild)}
+if(top)
+e.insertBefore(d,e.firstChild);else
+e.appendChild(d)}}
+
+
+/* - rounded.js - */
+// https://www.civilrightsproject.ucla.edu/portal_javascripts/rounded.js?original=1
+jq(document).ready(function(){jq('.rounded').corners("top");jq('.rounded').corners("top");jq('.rounded-nav').corners("left");jq('.rounded-nav').corners("left");jq('table',jq('#featureTabsContainer .tab')[0]).each(function(){jq('.native').hide()});jq('#featureTabsContainer').show();tab(0)});
+function tab(n){jq('#featureTabsContainer .tab').removeClass('tab_selected');jq(jq('#featureTabsContainer .tab')[n]).addClass('tab_selected');jq('#featureElementsContainer .feature').hide();jq(jq('#featureElementsContainer .feature')[n]).show()}
+</script>
+    
+    
+  
+
+
+  
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/base.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/public.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/columns.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/authoring.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/portlets.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/controlpanel.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="print">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/print.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/deprecated.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/navtree.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/invisibles.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/forms.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/ploneKss.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/++resource++plonetheme.crptheme.stylesheets/main.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="all">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/++resource++ContentWellPortlets.styles/ContentWellPortlets.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="all">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/ploneCustom.css);</style>
+    
+    
+    
+  
+
+
+  
+  <link rel="kinetic-stylesheet" type="text/css"
+        href="https://www.civilrightsproject.ucla.edu/portal_kss/CRP%20Theme/at-cachekey4320.kss" />
+
+
+<title>The Civil Rights Project at UCLA</title>
+
+    <!-- IE6 workaround CSS/JS  -->
+    <!--[if lte IE 7]>
+        <style type="text/css" media="all">@import url(https://www.civilrightsproject.ucla.edu/IEFixes.css);</style>
+        
+        <script type="text/javascript"
+                src="https://www.civilrightsproject.ucla.edu/iefixes.js">
+        </script>
+    <![endif]-->
+
+    <meta content="The Civil Rights Project at UCLA"
+          name="description" />
+
+    
+
+    <link rel="shortcut icon" type="image/x-icon"
+          href="https://www.civilrightsproject.ucla.edu/favicon.ico" />
+
+
+
+    <link rel="home"
+          href="https://www.civilrightsproject.ucla.edu"
+          title="Front page" />
+
+    <link rel="contents"
+          href="https://www.civilrightsproject.ucla.edu/sitemap"
+          title="Site Map" />
+
+
+
+
+
+
+    <link rel="search"
+          href="https://www.civilrightsproject.ucla.edu/search_form"
+          title="Search this site" />
+
+
+
+    <!-- Disable IE6 image toolbar -->
+    <meta http-equiv="imagetoolbar" content="no" />
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+  </head>
+
+  <body class=" template-sitemap" dir="ltr">
+    <div id="visual-portal-wrapper">
+
+      <div id="portal-top">
+        
+    
+
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+
+</div>
+
+<div id="portal-header">
+<p class="hiddenStructure">
+  <a accesskey="2"
+     href="https://www.civilrightsproject.ucla.edu/sitemap#documentContent">Skip to content.</a> |
+
+  <a accesskey="6"
+     href="https://www.civilrightsproject.ucla.edu/sitemap#portlet-navigation-tree">Skip to navigation</a>
+</p>
+
+<div id="portal-searchbox">
+    <form name="searchform"
+          action="https://www.civilrightsproject.ucla.edu/search">
+
+        <label for="searchGadget" class="hiddenStructure">Search Site</label>
+
+        <div class="LSBox">
+        <input name="SearchableText" type="text" size="28"
+               title="Search Site" accesskey="4"
+               class="inputLabel" id="" />
+
+        <input class="searchButton" type="submit" value="" />
+    
+        <div class="searchSection">
+            <input id="searchbox_currentfolder_only"
+                   class="noborder" type="checkbox"
+                   name="path" value="/crp" />
+            <label for="searchbox_currentfolder_only"
+                   style="cursor: pointer">
+                only in current section
+            </label>
+        </div>
+
+        <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div></div>
+        </div>
+    </form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="https://www.civilrightsproject.ucla.edu/search_form"
+           accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+<a id="portal-logo" accesskey="1"
+   href="https://www.civilrightsproject.ucla.edu">
+
+<!--    <img src="logo.jpg" alt=""
+         tal:replace="structure view/logo_tag" /></a>
+
+        <img src="logo.jpg" alt=""
+             tal:condition="not:we_are_home"
+             tal:replace="structure view/logo_tag"/>
+
+        <img src="logo-front.jpg" alt=""
+             tal:condition="we_are_home"
+             tal:replace="structure view/logo_tag"/></a>
+-->
+
+        
+
+        <img src="logo-front.jpg" alt="" /></a>
+
+
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav">
+        <li id="portaltab-index_html" class="selected"><a
+    href="https://www.civilrightsproject.ucla.edu" title="">Home</a></li>
+        <li id="portaltab-news" class="plain"><a
+    href="https://www.civilrightsproject.ucla.edu/news"
+    title="News and Legal Developments related to civil rights issues">News</a></li>
+        <li id="portaltab-events" class="plain"><a
+    href="https://www.civilrightsproject.ucla.edu/events"
+    title="A Collection of Events, including Policy Briefings, Convenings and Conferences">Events</a></li>
+        <li id="portaltab-research" class="plain"><a
+    href="https://www.civilrightsproject.ucla.edu/research"
+    title="Research on key civil rights and equal opportunity policies that have been neglected or overlooked">Research</a></li>
+        <li id="portaltab-legal-developments" class="plain"><a
+    href="https://www.civilrightsproject.ucla.edu/legal-developments"
+    title="Key policy decisions, court cases, and legal memos impacting education and civil rights">Legal Developments</a></li>
+        <li id="portaltab-resources" class="plain"><a
+    href="https://www.civilrightsproject.ucla.edu/resources"
+    title="Tools for civil rights experts, policy advocates, community leaders and parents">Resources</a></li>
+        <li id="portaltab-about-us" class="plain"><a
+    href="https://www.civilrightsproject.ucla.edu/about-us"
+    title="CRP funders, mission, staff and contact information ">About Us</a></li>
+    </ul>
+
+<!-- 
+<script>jq(document).ready( function(){
+
+  jq('.rounded').corners("30px 10px");
+
+});</script>
+-->
+
+</div>
+
+      </div>
+
+      <div class="visualClear" id="clear-space-before-wrapper-table"><!-- --></div>
+
+      <table id="portal-columns">
+        <tbody>
+          <tr>
+            
+            
+            
+
+            
+            <td id="portal-column-content">
+
+              
+                <div class="">
+
+                  <div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <a href="https://www.civilrightsproject.ucla.edu">Home</a>
+    
+
+</div>
+
+<div id="portlets-above">
+		
+		
+		<div class="portletsAboveContentA">
+
+</div> 
+
+		<div class="portletsAboveContentB">
+
+</div> 
+
+		<div class="portletsAboveContentC">
+
+</div> 
+
+		<div class="portletsAboveContentD">
+
+</div>
+
+		<div class="portletsAboveContentE">
+
+</div>
+
+		<div class="portletsAboveContentF">
+
+</div>
+	
+	
+
+	
+</div>
+
+
+
+
+                  <div id="region-content" class="documentContent">
+
+                    <span id="contentTopLeft"></span>
+                    <span id="contentTopRight"></span>
+                    
+                    <a name="documentContent"></a>
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+                    
+                    <div id="viewlet-above-content"></div>
+
+                    
+                    <div id="content">
+                      
+                      
+
+    <h1 class="documentFirstHeading">Site map</h1>
+
+    <p class="documentDescription">
+    An overview of the available content on this site. Keep the pointer still
+    over an item for a few seconds to get its description.
+    </p>
+
+    <ul id="portal-sitemap"
+        class="navTreeLevel0 visualNoMarker">
+        
+
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news"
+           class="state-published"
+           title="News and Legal Developments related to civil rights issues">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            News
+        </a>
+        
+    </div>
+
+    <ul class="navTree navTreeLevel2">
+        
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/crp-newsletters"
+           class="state-published"
+           title="Stories and updates delivered via email about CRP research and researchers. ">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            CRP Bulletin/Noticiero 
+        </a>
+        
+    </div>
+
+    <ul class="navTree navTreeLevel3">
+        
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/crp-newsletters/crp-newsletter-volume-1-issue-1"
+           class="state-published"
+           title="This inaugural issue of CRP Bulletin/Noticiero looks back to 1996 and recounts CRP's founding at Harvard amid a climate of increasing doubt over the future of affirmative action in the nation's universities. 
+
+In upcoming issues, we spotlight staff, students and alumni as well as recap important and ongoing research, announce upcoming events and more.  We also look to you -- our readers -- to send us your feedback and suggestions.  ">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Volume 1, Issue 1
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/crp-newsletters/volume-1-issue-2"
+           class="state-published"
+           title="This 2014 Spring issue commemorates the 60th anniversary of Brown vs. Board of Education. Brown created hope for progress towards integration. After the 1964 Civil Rights Act, there was real progress but gradually it came to a halt after the Supreme Court changed the rules in the 1990's. Also in this issue, CRP Co-director, Patricia Gándara, discusses the roots of her career in policy research. She also focuses our attention on two pieces of California legislation that may be presented in 2016. Both have the potential to help increase educational equity for students from underrepresented backgrounds. ">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Volume 1, Issue 2
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/crp-newsletters/volume-2-issue-1"
+           class="state-published"
+           title="The Fall 2014 Issue highlights new CRP research that assesses the possible consequences of the U.S. Department of Education’s proposed postsecondary reforms in financial aid and the development of a new college ratings system. Alumni Spotlight interviews James Kim, associate professor at Harvard’s Graduate School of Education, who conducts research to lower the gap in literacy and reading for students from high poverty schools.  Upcoming events, new resources, and civil rights in history are also featured.
+
+">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Volume 2, Issue 1
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/crp-newsletters/volume-2-issue-2"
+           class="state-published"
+           title="The Winter 2015 Issue highlights a new CRP book release that looks at the benefits of being bilingual in the U.S. labor market. Alumni Spotlight interviews Associate Professor Mindy Kornhaber, who conducts research on how institutional policies affecting individual potential could be more equitable. Upcoming events, new resources, and civil rights in history are also featured. 
+">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Volume 2, Issue 2
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/mailing-list"
+           class="state-published"
+           title="Sign up to receive our current press releases and news updates.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Mailing List
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/media-contact"
+           class="state-published"
+           title="Information for media outlets">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Media Contact
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases"
+           class="state-published"
+           title="Use this section to browse our archive of press releases.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Press Releases
+        </a>
+        
+    </div>
+
+    <ul class="navTree navTreeLevel3">
+        
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/press-releases-2024"
+           class="state-published"
+           title="Media releases related to new research published in 2024.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2024 Press Releases 
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/2023-press-releases"
+           class="state-published" title="">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2023 Press Releases
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/2022-press-releases"
+           class="state-published" title="">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2022 Press Releases
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/2021-press-releases"
+           class="state-published"
+           title="PR for research reports">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2021 Press Releases
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/press-releases-2020"
+           class="state-published"
+           title="PR documents announcing new research and findings.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2020 Press Releases 
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/press-releases-2019"
+           class="state-published"
+           title="Press releases announcing new research in 2019. ">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2019 Press Releases
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/2018-press-releases"
+           class="state-published"
+           title="This folder contains press releases that pertain to research published in 2018.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2018 Press Releases
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/2017-press-releases"
+           class="state-published" title="">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2017 Press Releases
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/featured-research-2016"
+           class="state-published" title="">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2016 Press Releases
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/2015-press-releases"
+           class="state-published"
+           title="Announcements and media alerts for reports.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2015 Press Releases
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/2014-press-releases"
+           class="state-published"
+           title="CRP/PDC Media Advisories and Press Releases.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2014 Press Releases
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/2013-press-releases"
+           class="state-published"
+           title="CRP/PDC Press Releases and Media Alerts for 2013.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2013 Press Releases
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/crp-press-releases-2012"
+           class="state-published"
+           title="Press releases and news briefings from 2012.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2012 Press Releases
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/2011"
+           class="state-published"
+           title="Press Releases from 2011">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2011 Press Releases
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/2010"
+           class="state-published"
+           title="Press releases from 2010">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2010 Press Releases
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/2009"
+           class="state-published"
+           title="Press Releases from 2009">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2009 Press Releases
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/2008"
+           class="state-published"
+           title="Press Releases from 2008">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2008 Press Releases
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+    </ul>
+    
+</li>
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events"
+           class="state-published"
+           title="A Collection of Events, including Policy Briefings, Convenings and Conferences">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Events
+        </a>
+        
+    </div>
+
+    <ul class="navTree navTreeLevel2">
+        
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2022"
+           class="state-published" title="events ">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2022
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2018"
+           class="state-published"
+           title="Conferences, policy briefings and roundtable events in 2018.
+">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2018
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2016"
+           class="state-published" title="">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2016
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2015-events"
+           class="state-published"
+           title="CRP/PDC conferences, meetings, and research roundtables.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2015
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2014"
+           class="state-published" title="Events for 2014">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2014
+        </a>
+        
+    </div>
+
+    <ul class="navTree navTreeLevel3">
+        
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2014/higher-ed-accountability-briefing"
+           class="state-published"
+           title="Do Higher Ed Accountability Proposals Narrow Opportunity For Minority Students and Minority-Serving Institutions? What New Research Tells Us. September 2, 2014. U.S. Capitol Visitors Center, Congressional Auditorium &amp; Atrium.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Higher Ed Accountability Briefing
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2013"
+           class="state-published"
+           title="CRP Events for 2013">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2013
+        </a>
+        
+    </div>
+
+    <ul class="navTree navTreeLevel3">
+        
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2013/closing-the-school-discipline-gap-conference-research-papers"
+           class="state-published"
+           title="Documents for the event, including program information.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Closing the School Discipline Gap Conference &amp; Research Papers
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2013/segregation-immigration-and-educational-inequality"
+           class="state-published"
+           title="Documents for the Conference at University of Ghent, Ghent Belgium, September 21, 2013.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Segregation, Immigration, and Educational Inequality
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2012"
+           class="state-published"
+           title="CRP Events from 2012">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2012
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/copy_of_2010"
+           class="state-published" title="Events from 2011">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2011
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2010"
+           class="state-published" title="Events from 2010">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2010
+        </a>
+        
+    </div>
+
+    <ul class="navTree navTreeLevel3">
+        
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2010/the-students-we-share-a-binational-conference"
+           class="state-published"
+           title="A convening that brought together leading PreK-12 education and migration researchers and policymakers from the United States and Mexico. It provided a rare opportunity to share current research from both countries, and to explore future lines of interchange and collaboration in service to the children our countries share.  ">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            The Students We Share - A Binational Conference
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2009"
+           class="state-published"
+           title="Events occurring in 2009">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2009
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2008"
+           class="state-published"
+           title="Events occurring in 2008">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2008
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2007"
+           class="state-published"
+           title="Events occurring in 2007">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2007
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2006"
+           class="state-published"
+           title="Events occurring in 2006">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2006
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2005"
+           class="state-published"
+           title="Events occurring in 2005">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2005
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2004"
+           class="state-published"
+           title="Events occurring in 2004">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2004
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/events/2001"
+           class="state-published" title="Events from 2001">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            2001
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research"
+           class="state-published"
+           title="Research on key civil rights and equal opportunity policies that have been neglected or overlooked">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Research
+        </a>
+        
+    </div>
+
+    <ul class="navTree navTreeLevel2">
+        
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/college-access"
+           class="state-published"
+           title="College Access includes research on admissions, affirmative action, diversity and financing.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            College Access
+        </a>
+        
+    </div>
+
+    <ul class="navTree navTreeLevel3">
+        
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/college-access/admissions"
+           class="state-published"
+           title="Research related to College Admissions">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Admissions
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/college-access/affirmative-action"
+           class="state-published"
+           title="Research related to Affirmative Action">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Affirmative Action
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/college-access/diversity"
+           class="state-published"
+           title="Research related to College Diversity">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Diversity
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/college-access/financing"
+           class="state-published"
+           title="Research related to College Financing">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Financing
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/college-access/underrepresented-students"
+           class="state-published"
+           title="Research on underrepresented students in higher education.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Underrepresented Students
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/criminal-justice"
+           class="state-published"
+           title="Currently, there are no available research reports filed under Criminal Justice. Refer to the School Discipline sub-section under the K-12 Education section.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Criminal Justice
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/immigration"
+           class="state-published"
+           title="Our current research on immigration is focused on merit scholarships, immigration policy, and Latino civil rights.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Immigration
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/k-12-education"
+           class="state-published"
+           title="Our current K-12 research interests include: impacts and benefits of racial and ethnic diversity in education; resegregation trends and remedies in our nation's public schools; effective educational policies for language minority students (English language learners; effectiveness of Title I reforms; racial disparities in policies and practices related to special education and school discipline; dropout trends and remedies, and high stakes testing.  
+">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            K-12 Education
+        </a>
+        
+    </div>
+
+    <ul class="navTree navTreeLevel3">
+        
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/k-12-education/civil-rights-data-collection-1"
+           class="state-published"
+           title="These documents consist of CRP's efforts to improve the U.S. Department of Education's collection of and the public's access to civil rights data from schools, districts and individuals. ">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Civil Rights Data Collection
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/k-12-education/integration-and-diversity"
+           class="state-published"
+           title="Research in this section explores the impacts and benefits of racial and ethnic diversity in education, as well as resegregation trends and remedies in our nation's public schools. ">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Integration and Diversity
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/k-12-education/language-minority-students"
+           class="state-published"
+           title="Research in this section studies effective educational policies and practices for language minority students (English language learners) in our nation's public schools.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Language Minority Students
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/k-12-education/immigration-immigrant-students"
+           class="state-published" title="">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Immigration/Immigrant Students
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/k-12-education/nclb-title-i"
+           class="state-published"
+           title="Research on the civil rights implications of federal policies like the 1965 Elementary and Secondary Education Act, it's 2001 reauthorization known as No Child Left Behind, or Title I of ESEA.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            NCLB / Title I
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/k-12-education/school-discipline"
+           class="state-published"
+           title="Research on the racial disparities in policies and practices related to school discipline.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            School Discipline
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/k-12-education/school-dropouts"
+           class="state-published"
+           title="Research in this section relates to dropout trends and remedies for improving graduation rates.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            School Dropouts
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/k-12-education/special-education"
+           class="state-published"
+           title="Research on the racial disparities in policies and practices related to special education.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Special Education
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/k-12-education/testing-and-assessment"
+           class="state-published"
+           title="Research in this section is related to high-stakes testing and accountability systems. ">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Testing and Assessment
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/metro-and-regional-inequalities"
+           class="state-published"
+           title="Research in this section focuses attention on the structure of economic and social opportunities created by the intersection of metropolitan and regional housing, education, transportation, growth, workforce and other policies, all within a context of often dramatic demographic changes. ">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Metro and Regional Inequalities
+        </a>
+        
+    </div>
+
+    <ul class="navTree navTreeLevel3">
+        
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/metro-and-regional-inequalities/housing"
+           class="state-published"
+           title="Research in this section focuses attention on the structure of and access to housing opportunities created by the intersection of housing with other metropolitan and regional factors.  ">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Housing
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/metro-and-regional-inequalities/metro-boston-equity-initiative-1"
+           class="state-published"
+           title="Research in this section was conducted under the auspices of the The Metropolitan Boston Equity Initiative,  and investigates racial change and the implications of such change for social and economic opportunity within the region’s diverse population. ">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Metro Boston Equity Initiative
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/metro-and-regional-inequalities/transportation"
+           class="state-published"
+           title="Research in this section focuses attention on the structure of and access to transportation opportunities.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Transportation
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/metro-and-regional-inequalities/lasanti-project-los-angeles-san-diego-tijuana"
+           class="state-published"
+           title="The LASANTI Project will explore many dimensions of social and economic change and inequality across the huge bi-national urbanized complex, stretching from the northern Los Angeles suburbs down through San Diego, to the Tijuana metropolitan area.  ">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            LASANTI Project: Los Angeles, San Diego, Tijuana
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/binational-u.s.-mexico"
+           class="state-published"
+           title="Research in this section focuses on collaborative work between CRP and Mexican organizations that address the issues impacting students and plausible solutions on both sides of the U.S.-Mexico border region.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Binational U.S.-Mexico 
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/research/demographic-studies"
+           class="state-published"
+           title="Research in this category analyzes the changing nature of the human population of the U.S.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Demographic Studies
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/legal-developments"
+           class="state-published"
+           title="Key policy decisions, court cases, and legal memos impacting education and civil rights">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Legal Developments
+        </a>
+        
+    </div>
+
+    <ul class="navTree navTreeLevel2">
+        
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/legal-developments/court-decisions"
+           class="state-published" title="">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Court Decisions
+        </a>
+        
+    </div>
+
+    <ul class="navTree navTreeLevel3">
+        
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/legal-developments/court-decisions/court-decisions"
+           class="state-published" title="">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/topic_icon.gif"
+                 alt="Collection" />
+            Court Decisions
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/legal-developments/court-decisions/resources-related-to-grutter-v.-bollinger-gratz-v.-bollinger"
+           class="state-published"
+           title="Grutter v. Bollinger, 539 U.S. 306 and  Gratz v. Bollinger, 539 U.S. 244 , were a linked pair ofcases in which the United States Supreme Court upheld the affirmative action admissions policies of the University of Michigan Law School and the University's undergraduate division respectively">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Resources Related to Grutter v. Bollinger &amp; Gratz v. Bollinger
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/legal-developments/court-decisions/resources-realted-to-fisher-v.-university-of-texas-austin"
+           class="state-published"
+           title="This case reexamines the Supreme Court’s decisions interpreting the Equal Protection Clause of the Fourteenth Amendment, including Grutter v. Bollinger, with regards to University of Texas at Austin’s use of race in undergraduate admissions decisions. ">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Resources Related to Fisher v. University of Texas at Austin
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/legal-developments/legal-briefs"
+           class="state-published" title="">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Legal Briefs
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/legal-developments/legal-memos"
+           class="state-published" title="">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Legal Memos
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/legal-developments/policy-papers"
+           class="state-published" title="">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Policy Papers
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/resources"
+           class="state-published"
+           title="Tools for civil rights experts, policy advocates, community leaders and parents">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Resources
+        </a>
+        
+    </div>
+
+    <ul class="navTree navTreeLevel2">
+        
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/resources/civil-rights-organizations"
+           class="state-published"
+           title="Links to advocacy and civil rights organizations.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Civil Rights Organizations
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/resources/community-tools"
+           class="state-published"
+           title="Action kits, brochures, manuals, pamphlets, and links for use in the community organized by subject area.
+
+As The Civil Rights Project is located in Los Angeles, many of the direct/walk-in resources that provided below are located in Metro L.A. There are, however, many online resources available and provided here. 
+
+The Civil Rights Project DOES NOT endorse any of these listed below; we provide them as a place to start for those seeking assistance in these areas.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Community Tools
+        </a>
+        
+    </div>
+
+    <ul class="navTree navTreeLevel3">
+        
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/resources/community-tools/employment-discrimination"
+           class="state-published"
+           title="National and local resources for assisting the public with employment-related legal matters.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Employment Discrimination
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/resources/community-tools/education-advocacy-services-school-discipline"
+           class="state-published"
+           title="These agencies offer services to children subject to zero-tolerance policies or other school discipline-related problems. Check individual agencies for the exact services offered and eligibility requirements.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Education Advocacy Services
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/resources/community-tools/housing"
+           class="state-published"
+           title="These resources provide information about housing justice in Southern California primarily, with links to national policy documents.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Housing
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/resources/community-tools/immigration"
+           class="state-published"
+           title="Legal services networks, non profits and private practice attorneys who have indicated their availability to assist undocumented residents needing legal assistance.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Immigration
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/resources/community-tools/lgbtq-resources"
+           class="state-published"
+           title="We are providing a list of resources collected by our staff as suggestions. We do not endorse or promote any of those listed but hope they are helpful.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            LGBTQ Resources
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/resources/community-tools/police-misconduct"
+           class="state-published"
+           title="Many emails we receive from the general public are related to policy misconduct or abuse. Since we are not a legal services provider, and we do not work outside of the area of civil rights and education, we hope these resources will be of assistance.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Police Misconduct
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/resources/community-tools/teaching-and-learning"
+           class="state-published"
+           title="Civil rights toolkits and resources for teachers and students.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Teaching and Learning
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/resources/community-tools/transportation-tools"
+           class="state-published"
+           title="This pathfinder aims to explain transportation rights to citizens in different cities. These tools focus on livable neighborhoods, environmental justice, and transportation equity.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Transportation Equity Tools
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/resources/community-tools/wrongly-accused-prison-abuse"
+           class="state-published"
+           title="Resources enclosed are for criminal justice reform, generally speaking, and for individuals and their families who seek greater understandig about their rights.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Wrongly Accused/Prison Abuse
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/resources/community-tools/securing-legal-representation"
+           class="state-published"
+           title="This is a short list of various national legal services organizations. The last link is to various legal services organizations in Los Angeles.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Securing Legal Representation
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/resources/legal-tools"
+           class="state-published"
+           title="Links to legal search engines, law journals and catalogs, and pro bono litigation.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Legal Tools
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/resources/copy_of_publications"
+           class="state-published"
+           title="Books, edited journals and manuals produced by The Civil Rights Project">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Publications
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/resources/research-tools"
+           class="state-published"
+           title="Links for researching civil rights on-line via governmental sources and agencies, partner organizations, databases and journals.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Research Tools
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/resources/the-integration-report"
+           class="state-published"
+           title="A bi-weekly bulletin advancing awareness of integration in our nation's schools produced by CRP researchers until 2011.">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/link_icon.gif"
+                 alt="Link" />
+            The Integration Report
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us"
+           class="state-published"
+           title="CRP funders, mission, staff and contact information ">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            About Us
+        </a>
+        
+    </div>
+
+    <ul class="navTree navTreeLevel2">
+        
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/acknowledgements"
+           class="state-published" title="">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Acknowledgements
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/staff"
+           class="state-published"
+           title="Listing of all CRP staff and associates">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/folder_icon.gif"
+                 alt="Folder" />
+            Staff &amp; Associates
+        </a>
+        
+    </div>
+
+    <ul class="navTree navTreeLevel3">
+        
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/staff/patricia-gandara-ph.d"
+           class="state-published"
+           title="Research Professor, UCLA Graduate School of Education;  Co-Director, The Civil Rights Project at UCLA">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Patricia Gándara, Ph.D.
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/staff/gary-orfield-ph.d"
+           class="state-published"
+           title="Distinguished Research  Professor, UCLA Graduate School of Education;  Co-Director, The Civil Rights Project at UCLA">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Gary Orfield, Ph.D.
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/staff/daniel-losen-j.d.-m.ed"
+           class="state-published"
+           title="Sr. Research Fellow, Education Law and Policy
+dlosen@youthlaw.org">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Daniel Losen, J.D., M.Ed. 
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/staff/laurie-russman"
+           class="state-published"
+           title="Coordinator/Coordinadora">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Laurie Russman, M.F.A.
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/staff/jenn-ayscue"
+           class="state-published"
+           title="Assistant Professor, Department of Educational Leadership, Policy, and Human Development, North Carolina State University">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Jennifer B. Ayscue
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/staff/kfir-mordechay"
+           class="state-published"
+           title="Assistant Professor, Pepperdine University">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Kfir Mordechay
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/staff/jongyeon-ee-joy"
+           class="state-published"
+           title="Assistant Professor, School of Education, Loyola Marymount University">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Jongyeon Ee (Joy)
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/staff/li-yan"
+           class="state-published" title="">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Li Yan
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/staff/william-kidder"
+           class="state-published"
+           title="Compliance and Civil Rights Professional, University of California-Riverside
+">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            William Kidder
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/staff/paul-martinez"
+           class="state-published"
+           title="Research Associate">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Paul Martinez, PhD
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/staff/gail-sunderman-ph.d"
+           class="state-published"
+           title="Research Associate, Civil Rights Project/Proyecto Derechos Civiles">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Gail L. Sunderman, Ph.D.
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/staff/david-mickey-pabello-ph.d.-postdoctoral-fellow"
+           class="state-published" title="">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            David Mickey-Pabello, Ph.D.
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/staff/ryan-pfleger-ph.d"
+           class="state-published" title="">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Ryan Pfleger, Ph.D.
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/staff/shuchi-goyal"
+           class="state-published" title="">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Shuchi Goyal
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/staff/ramon-flores-graduate-student-researcher"
+           class="state-published" title="">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Ramon Flores, Graduate Student Researcher
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/contact-us"
+           class="state-published"
+           title="We welcome inquiries from the community. ">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/Form.gif"
+                 alt="Form Folder" />
+            Contact Us
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/mission-statement"
+           class="state-published" title="">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Mission Statement
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div>
+        
+        <a href="https://www.civilrightsproject.ucla.edu/about-us/donate"
+           class="state-published"
+           title="Support the research and ongoing mission of the Civil Rights Project/Proyecto Derechos Civiles. ">
+            <img width="16" height="16"
+                 src="https://www.civilrightsproject.ucla.edu/document_icon.gif"
+                 alt="Page" />
+            Donate
+        </a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+    </ul>
+    
+</li>
+
+
+
+
+    </ul>
+
+
+                    </div>
+                    
+
+                    
+                    
+                      
+
+<div id="portlets-below">
+	
+		
+
+		<div class="portletsBelowContentA">
+
+</div> 
+
+		<div class="portletsBelowContentB">
+
+</div> 
+
+		<div class="portletsBelowContentC">
+
+</div> 
+
+		<div class="portletsBelowContentD">
+
+</div>
+
+		<div class="portletsBelowContentE">
+
+</div>
+
+		<div class="portletsBelowContentF">
+
+</div>
+	
+	
+
+	
+</div>
+
+                    
+                    
+
+                    <span id="contentBottomLeft"></span>
+                    <span id="contentBottomRight"></span>
+
+                  </div>
+
+                </div>
+
+              
+            </td>
+            
+
+            
+            
+            
+          </tr>
+        </tbody>
+      </table>
+      
+
+      <div class="visualClear" id="clear-space-before-footer"><!-- --></div>
+      
+      
+
+      
+
+        <div id="footer-portlets">
+	
+		
+
+		<div class="FooterPortletA">
+
+</div> 
+
+		<div class="FooterPortletB">
+
+</div> 
+
+		<div class="FooterPortletC">
+
+</div> 
+
+		<div class="FooterPortletD">
+
+</div>
+
+		<div class="FooterPortletE">
+
+</div>
+
+		<div class="FooterPortletF">
+
+</div>
+	
+	
+
+	
+</div>
+
+<div id="portal-footer">
+
+<p>
+<strong>The Civil Rights Project / Proyecto Derechos Civiles</strong><br />
+8370 Math Sciences, Box 951521<br />
+Los Angeles, CA 90095-1521<br />
+<a href="mailto:crp@ucla.edu">crp@ucla.edu</a><br />    
+</p>
+
+</div>
+
+<ul id="portal-siteactions">
+
+    <li id="siteaction-contact"><a
+    href="https://www.civilrightsproject.ucla.edu/about-us/contact-us"
+    accesskey="9" title="Contact Us">Contact Us</a></li>
+    <li id="siteaction-copyright"><a
+    href="https://www.civilrightsproject.ucla.edu/copyright-policy"
+    accesskey="" title="Copyright Policy">Copyright Policy</a></li>
+    <li id="siteaction-accessibility"><a
+    href="https://www.civilrightsproject.ucla.edu/accessibility-info"
+    accesskey="0" title="Accessibility">Accessibility</a></li>
+    <li id="siteaction-sitemap"><a
+    href="https://www.civilrightsproject.ucla.edu/sitemap"
+    accesskey="3" title="Site Map">Site Map</a></li>
+    <li id="siteaction-login"><a
+    href="https://www.civilrightsproject.ucla.edu/login_form"
+    accesskey="" title="Log in">Log in</a></li>
+
+</ul>
+
+<div id="portal-colophon">
+      
+
+      
+
+      <div class="colophonWrapper">
+      <p>Copyright &copy; 2010 UC Regents</p> 
+      </div>
+
+    </div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24859663-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+      
+
+      <div class="visualClear"><!-- --></div>
+    </div>
+<div id="kss-spinner"><img alt=""
+                           src="https://www.civilrightsproject.ucla.edu/spinner.gif" /></div>
+</body>
+</html>
+

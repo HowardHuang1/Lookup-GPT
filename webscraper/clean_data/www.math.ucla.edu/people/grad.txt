@@ -1,0 +1,1424 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.math.ucla.edu/sites/all/themes/math/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Graduate Students | UCLA Department of Mathematics</title>
+  <style>
+@import url("https://www.math.ucla.edu/modules/system/system.base.css?qfurcz");
+</style>
+<style>
+@import url("https://www.math.ucla.edu/sites/all/modules/date/date_api/date.css?qfurcz");
+@import url("https://www.math.ucla.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?qfurcz");
+@import url("https://www.math.ucla.edu/modules/field/theme/field.css?qfurcz");
+@import url("https://www.math.ucla.edu/sites/all/modules/views/css/views.css?qfurcz");
+@import url("https://www.math.ucla.edu/sites/all/modules/ckeditor/css/ckeditor.css?qfurcz");
+</style>
+<style>
+@import url("https://www.math.ucla.edu/sites/all/modules/ctools/css/ctools.css?qfurcz");
+@import url("https://www.math.ucla.edu/sites/all/modules/panels/css/panels.css?qfurcz");
+@import url("https://www.math.ucla.edu/sites/all/modules/taxonomy_access/taxonomy_access.css?qfurcz");
+@import url("https://www.math.ucla.edu/sites/all/libraries/fontawesome/css/font-awesome.css?qfurcz");
+</style>
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" media="all" />
+<style>
+@import url("https://www.math.ucla.edu/sites/all/themes/bootstrap/css/overrides.css?qfurcz");
+@import url("https://www.math.ucla.edu/sites/all/themes/math/css/style.css?qfurcz");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <!--[if IE]>
+  <style type="text/css">
+  body {
+    margin: 0px !important;
+  }
+  .main-container {
+    padding-bottom: 10px;
+  }
+
+  .news .views-row img {
+    margin-left: 0px;
+    margin-right: 75px;
+    display: inline;
+  }
+
+  #footer {
+    position: relative !important;
+  }
+  </style>
+  <![endif]-->
+  <script src="https://www.math.ucla.edu/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.3"></script>
+<script src="https://www.math.ucla.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.math.ucla.edu/misc/drupal.js?qfurcz"></script>
+<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js?qfurcz"></script>
+<script src="https://www.math.ucla.edu/sites/all/modules/jcaption/jcaption.js?qfurcz"></script>
+<script src="https://www.math.ucla.edu/sites/all/themes/math/scripts/news.js?qfurcz"></script>
+<script src="https://www.math.ucla.edu/sites/all/themes/math/scripts/schedules.js?qfurcz"></script>
+<script src="https://www.math.ucla.edu/sites/all/themes/math/scripts/ugrad-faq.js?qfurcz"></script>
+<script src="https://www.math.ucla.edu/sites/all/themes/math/scripts/grad-course-landing.js?qfurcz"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"math","theme_token":"-OEeK7dwmKJvq3ljeTVJ0YbLpCR_coufmZeOPi-hUNU","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/jcaption\/jcaption.js":1,"sites\/all\/themes\/math\/scripts\/news.js":1,"sites\/all\/themes\/math\/scripts\/schedules.js":1,"sites\/all\/themes\/math\/scripts\/ugrad-faq.js":1,"sites\/all\/themes\/math\/scripts\/grad-course-landing.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/taxonomy_access\/taxonomy_access.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/css\/bootstrap-combined.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/math\/css\/style.css":1}},"jcaption":{"jcaption_selectors":[".node-article .field-item img"],"jcaption_alt_title":"alt","jcaption_requireText":1,"jcaption_copyStyle":0,"jcaption_removeStyle":0,"jcaption_removeClass":1,"jcaption_removeAlign":0,"jcaption_copyAlignmentToClass":0,"jcaption_copyFloatToClass":0,"jcaption_copyClassToClass":0,"jcaption_autoWidth":0,"jcaption_keepLink":0,"jcaption_styleMarkup":"","jcaption_animate":0,"jcaption_showDuration":"200","jcaption_hideDuration":"200"},"urlIsAjaxTrusted":{"\/people\/grad":true}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-people page-people-grad" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="header visible-desktop">
+  <div class="container">
+          <a class="logo pull-left" href="/" title="Home">
+      <img src="https://www.math.ucla.edu/sites/default/files/30_logo_0.png" alt="Home" />
+      </a>
+        <div class="header-block pull-right">
+        <div class="region region-inline-header">
+    <section id="block-search-form" class="block block-search clearfix">
+
+      
+  <form class="form-search content-search" action="/people/grad" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="input-append"><input title="Enter the terms you wish to search for." class="search-query span2 form-text" placeholder="Search" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><button type="submit" class="btn"><i class="icon-search"></i><span class="element-invisible">Search</span></button></div><button class="element-invisible btn btn-primary form-submit" id="edit-submit" name="op" value="Search" type="submit">Search</button>
+<input type="hidden" name="form_build_id" value="form-3T24So2HC5YT_dIspeOc_oSoqO1bDrhuXwFiOWihKCQ" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  
+</section> <!-- /.block -->
+<section id="block-block-24" class="block block-block clearfix">
+
+      
+  <p class="rteright"><a href="https://www.math.ucla.edu/user">UCLA Mathnet Login</a></p>
+  
+</section> <!-- /.block -->
+  </div>
+    </div>
+  </div>
+</div>
+
+<div id="primary-nav" class="navbar container">
+  <div class="navbar-inner">
+    <div class="container">
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+      
+      <a href="/" title="Home" class="brand visible-tablet visible-phone">UCLA Department of Mathematics</a>
+
+              <div class="nav-collapse collapse">
+          <nav role="navigation">
+                          <ul class="menu nav"><li class="first leaf"><a href="/">Home</a></li>
+<li class="expanded dropdown"><a href="/about" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">About <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="https://ww3.math.ucla.edu/about/welcome-from-the-chair/" title="">Welcome from the Chair</a></li>
+<li class="leaf"><a href="https://ww3.math.ucla.edu/about/" title="">Department Overview</a></li>
+<li class="leaf"><a href="https://ww3.math.ucla.edu/about/diversity-inclusion/" title="">Diversity &amp; Inclusion</a></li>
+<li class="leaf"><a href="https://ww3.math.ucla.edu/ucla-mathematics-computing/" title="">Computing Resources</a></li>
+<li class="last leaf"><a href="https://www.math.ucla.edu/internal" title="">Internal Resources</a></li>
+</ul></li>
+<li class="leaf active-trail dropdown"><a href="/people" title="" class="active-trail dropdown-toggle" data-toggle="dropdown" data-target="#">People <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/people/ladder" title="">Faculty</a></li>
+<li class="leaf"><a href="/people/visiting" title="">Visiting Faculty</a></li>
+<li class="leaf active-trail active"><a href="/people/grad" title="" class="active-trail active">Graduate Students</a></li>
+<li class="leaf"><a href="/people/staff" title="">Staff</a></li>
+<li class="last leaf"><a href="/people" title="">All</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="https://ww3.math.ucla.edu/undergraduate-program/" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Student Services <span class="caret"></span></a><ul class="dropdown-menu"><li class="first expanded dropdown-submenu"><a href="https://ww3.math.ucla.edu/undergraduate-program/" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Undergraduate Program</a><ul class="dropdown-menu"><li class="first leaf"><a href="https://ww3.math.ucla.edu/undergraduate-program/" title="">Overview</a></li>
+<li class="collapsed"><a href="https://ww3.math.ucla.edu/majors-minors-specializations/" title="">Majors, Minors &amp; Specializations</a></li>
+<li class="leaf"><a href="https://ww3.math.ucla.edu/courses/" title="">Courses</a></li>
+<li class="leaf"><a href="https://ww3.math.ucla.edu/math-diagnostic-test/" title="">Math Diagnostic Test</a></li>
+<li class="leaf"><a href="https://ww3.math.ucla.edu/petitions/" title="">Petitions</a></li>
+<li class="leaf"><a href="https://ww3.math.ucla.edu/opportunities/" title="">Opportunities &amp; Announcements</a></li>
+<li class="leaf"><a href="https://ww3.math.ucla.edu/summer-2020-courses/" title="">Summer 2020 Courses</a></li>
+<li class="last leaf"><a href="https://ww3.math.ucla.edu/tutoring/" title="">Tutors</a></li>
+</ul></li>
+<li class="expanded dropdown-submenu"><a href="/grad" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Graduate Program</a><ul class="dropdown-menu"><li class="first leaf"><a href="https://ww3.math.ucla.edu/overview-2/" title="">Program Overview</a></li>
+<li class="leaf"><a href="https://ww3.math.ucla.edu/admissions/" title="">Admissions</a></li>
+<li class="leaf"><a href="https://ww3.math.ucla.edu/courses-2/" title="">Courses</a></li>
+<li class="last leaf"><a href="https://ww3.math.ucla.edu/graduate-handbook/" title="">Graduate Handbook</a></li>
+</ul></li>
+<li class="last leaf"><a href="https://ww3.math.ucla.edu/student-groups/" title="">Student Groups</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="https://secure.math.ucla.edu/seminars/weekly_list.php" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">News & Events <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="https://ww3.math.ucla.edu/news-events/news-2/" title="">News</a></li>
+<li class="leaf"><a href="https://ww3.math.ucla.edu/news-events/dept-magazine/" title="">Department Magazine</a></li>
+<li class="leaf"><a href="https://ww3.math.ucla.edu/news-events/distinguished-lecture-series/" title="">Distinguished Lecture Series</a></li>
+<li class="expanded dropdown-submenu"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Colloquium" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Colloquia</a><ul class="dropdown-menu"><li class="first leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Applied%20Colloquium" title="">Applied Math Colloquium</a></li>
+<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Logic%20Colloquium" title="">Logic Colloquium</a></li>
+<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Colloquium" title="">Thursday Colloquium</a></li>
+<li class="last leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Undergraduate%20Colloquium" title="">Undergraduate Colloquium</a></li>
+</ul></li>
+<li class="expanded dropdown-submenu"><a href="https://secure.math.ucla.edu/seminars/weekly_list.php" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Seminars</a><ul class="dropdown-menu"><li class="first leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Algebra" title="">Algebra Seminar</a></li>
+<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?&amp;type=Algebraic%20Topology" title="">Algebraic Topology Seminar</a></li>
+<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?&amp;type=Analysis%20and%20PDE" title="">Analysis and PDE Seminar</a></li>
+<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?&amp;type=Combinatorics" title="">Combinatorics Seminar</a></li>
+<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?&amp;type=Functional%20Analysis" title="">Functional Analysis Seminar</a></li>
+<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=GSO" title="">GSO Seminar</a></li>
+<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Geometry" title="">Geometry Seminar</a></li>
+<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Joint%20Topology" title="">Joint Topology Seminar</a></li>
+<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=The%20Level%20Set%20Collective" title="">The Level Set Collective</a></li>
+<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Logic" title="">Logic Seminar</a></li>
+<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Number%20Theory" title="">Number Theory Seminar</a></li>
+<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Probability" title="">Probability Seminar</a></li>
+<li class="last leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Topology" title="">Topology Seminar</a></li>
+</ul></li>
+<li class="expanded dropdown-submenu"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Algebraic%20Topology" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Participating Seminars</a><ul class="dropdown-menu"><li class="first leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Algebraic%20Topology" title="">Participating Algebraic Topology Seminar</a></li>
+<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Analysis" title="">Participating Analysis Seminar</a></li>
+<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Funct.%20Analysis" title="">Participating Funct. Analysis Seminar</a></li>
+<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Number%20Theory" title="">Participating Number Theory Seminar</a></li>
+<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20PDE" title="">Participating PDE Seminar</a></li>
+<li class="leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Probability" title="">Participating Probability Seminar</a></li>
+<li class="last leaf"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?type=Participating%20Topology" title="">Participating Topology Seminar</a></li>
+</ul></li>
+<li class="last leaf"><a href="https://secure.math.ucla.edu/seminars/weekly_list.php" title="">Weekly Schedule</a></li>
+</ul></li>
+<li class="leaf"><a href="https://ww3.math.ucla.edu/alumni-donors/" title="">Alumni</a></li>
+<li class="leaf"><a href="https://ww3.math.ucla.edu/giving/" title="">Giving</a></li>
+<li class="last leaf"><a href="https://ww3.math.ucla.edu/contact/" title="">Contact</a></li>
+</ul>                                              </nav>
+        </div>
+          </div>
+  </div>
+</div>
+
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#header -->
+
+  <div class="row-fluid">
+
+      
+
+    <section class="span12">  
+
+      <ul class="breadcrumb"><li><a href="/">Home</a><span class="divider">/</span></li><li><a href="/people" title="">People</a></li></ul>      <a id="main-content"></a>
+                    <h1 class="page-header ">Graduate Students</h1>
+                                                        
+<div class="view view-directory view-id-directory view-display-id-page_3 view-dom-id-da55f2a360a7d28daa16166ec322c894">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-3 table" >
+         <thead>
+      <tr>
+                  <th class="views-field views-field-php"  scope="col">
+            Name          </th>
+                  <th class="views-field views-field-Title"  scope="col">
+            <a href="/people/grad?order=Title&amp;sort=asc" title="sort by Title" class="active">Title</a>          </th>
+                  <th class="views-field views-field-OfficeRoom1"  scope="col">
+            <a href="/people/grad?order=OfficeRoom1&amp;sort=asc" title="sort by Office Location" class="active">Office Location</a>          </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/oak">Akar, Osman</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6139</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/aaronanderson">Anderson, Aaron</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Graduate Student</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 5351-2</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/rarbon">Arbon, Ryan</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Graduate Student</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 5351-2</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/abaeumer">Baeumer, Albert</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2344</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/jbahr">Bahr, Juniper</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 5351-1</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/mbansil">Bansil, Mohit</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3975</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/itaibn">Bar-Natan, Itai</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3957</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/jrbarnett">Barnett, Joel</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 7601</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/zmb">Baugher, Zachary</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3973</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/nickboschert">Boschert, Nicholas</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6154</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/jasbrown">Brown, Jason Maxwell</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>CNSI</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/brownr">Brown, Thomas Rush</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2963</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/chang314">Chang, William</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2344</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/chapman20j">Chapman, James Emory</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 7630</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/bhchenyz">Chen, Bohan</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 7601</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/snek">Chen, James</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2344</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/chenyizhou">Chen, Yizhou</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 5343-3</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/yunuoch">Chen, Yunuo</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3915C</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/joycechew">Chew, Joyce Allison</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Fellow</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6153</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/arianagchin">Chin, Ariana</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2361</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/rchu">Chu, Raymond</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3919</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/mcofie">Cofie, Marisa</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3915E</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/ctcollins">Collins, Carson</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3919</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/evandavis">Davis, Evan</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Graduate Student</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6161</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/gurkirand">Dhaliwal, Gurkiran</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3905</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/lsding">Ding, Lisang</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 7601</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/jiahandu">Du, Jiahan</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2901</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/jlenwright1">Enwright, Joshua</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3915B</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/tfaust">Faust, Theodore Yushin</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6147</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/emilg">Geisler, Emil</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2350</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/egeo">George, Erin</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Fellow</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6153</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/kgettig">Gettig, Kyle Allen</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6160</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/gladkovna">Gladkov, Nikita</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3949</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/bengoldman">Goldman, Benjamin</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2963</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/luna">Gonzalez, Luna</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3915B</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/yushanh1">Han, Yushan</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 7630</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/hhm">Hardiman-Mostow, Harris</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Fellow</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 5351-2</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/xinjieh">He, Xinjie</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2361</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/pjhiatt%20">Hiatt, Patrick</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6139</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/ceceliahiggins">Higgins, Cecelia</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>TAC/Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6603</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/jameshogan">Hogan, James</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2901</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/jshopper">Hopper, John</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2901</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/haiyu">Huang, Haiyu</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3965</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/fyhung">Hung, Fan-Yun (Matthew)</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2350</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/chuyinjiang">Jiang, Chuyin</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3975</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/mcjcard">Johnson, Michael Christopher</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 7630</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/reid">Johnson, Reid</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2951</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/johnsrude">Johnsrude, Benjamin Peter</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6154</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/rohansjoshi">Joshi, Rohan</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 5351-3</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/ebjrade">Jrade, Ely</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2961</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/vtkala">Kala, Victoria</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>TAC/Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6603</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/kedar">Karhadkar, Kedar</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 7630</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/akastner">Kastner, Alexander</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Graduate Student</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6146</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/ericykim">Kim, Young Han</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2903</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/markkong">Kong, Mark</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2951</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/mattkowalski">Kowalski, Matthew</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3921</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/koziol">Koziol, Matthew</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2954</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/romakrut">Krutovskiy, Roman</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6160</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/jamesleng">Leng, James</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Fellow</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 5351-1</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/graceli">Li, Grace Jingying</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Fellow</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6147</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/xiangli">Li, Xiang</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2943</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/xuanli1">Li, Xuan</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3965</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/zililim">Lim, Zi Li</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3955</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/hunterliu">Liu, Hunter</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2943</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/yxliu">Liu, Yuxuan</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2903</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/alu">Lu, Annie</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Fellow</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3955</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/jerryluo8">Luo, Jerry</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6147</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/jqluong">Luong, Jack</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>CNSI</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/lyons">Lyons, Clark</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Graduate Student</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3931</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/lyuhaoyang">Lyu, Haoyang</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2344</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/benmajor">Major, Benjamin</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2905</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/malkov">Malkov, Stepan</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3975</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/jmanaker">Manaker, Jacob Ezra</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>TA/Other Department</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3905</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/esm">Manuelides, Elias</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2961</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/stmartin">Martin, Spencer</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3915C</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/tmartinez">Martinez, Thomas</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3955</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/jmauro">Mauro, Jack</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3915E</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/mikatcr">Mikat, Cecilia</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2954</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/wmilgrim">Milgrim, Wyatt</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2350</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/robertmiranda">Miranda, Robert</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2905</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/sidmulherkar">Mulherkar, Siddharth</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3969</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/jwmurri">Murri, Jacob</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6161</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/anad">Nadjimzadah, Arian</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3905</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/colinni">Ni, Colin</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3969</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/tomokioda0723">Oda, Tomoki</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2963</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/harahmpark">Park, Harahm</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2943</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/ctpartin">Partin, Caleb</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2350</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/griffinpinney">Pinney, Griffin</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3931</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/dpopovic">Popovic, David</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3973</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/victoriaquijano">Quijano, Victoria</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3903</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/sdqunell">Qunell, Samuel</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3957</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/rushil">Raghavan, Rushil</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3973</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/advika">Rajapakse, Advika</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2953</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/danrui">Rui, Daniel</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3973</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/andrewsack">Sack, Andrew Ian</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Fellow</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 5351-3</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/jasonsch">Schuchardt, Jason Aaron</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6160</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/ksereesu">Sereesuchart, Khunpob</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2350</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/olha">Shevchenko, Olha</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3915B</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/kwshi">Shi, Kye</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3903</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/ishors">Shors, Ian</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2350</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/alexsietsema">Sietsema, Alexander</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2953</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/zbsmith">Smith, Zachary</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 5351-3</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/tsmits">Smits, Timothy</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 5351-4</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/soukup">Soukup, David</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Fellow</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3921</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/benspitz">Spitz, Benjamin</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6154</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/talonstark%20">Stark, Talon</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6146</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/bertrand.stone">Stone, Bertrand</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6146</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/jungjoos">Suh, Jung Joo</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3949</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/jaswenberg">Swenberg, Jacob</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2951</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/indraneel">Tambe, Indraneel</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2953</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/maxtanhk">Tan, Hong Kiat</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6161</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/zhengtan">Tan, Zheng</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Graduate Student</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2350</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/ytao">Tao, Yan</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3903</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/steven">Truong, Steven Khang</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2961</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/mtyler">Tyler, Matthew</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 7630</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/emmyvr">Van Rooy, Emmy</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3931</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/vitas">Vitas, Daniel</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Graduate Student</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2344</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/zerrinvural">Vural, Zerrin</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3975</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/jiahewang">Wang, Jiahe</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2361</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/chwu93">Wu, Chi-Hao</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2350</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/alexxue">Xue, Alexander</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3921</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/yotamya">Yaniv, Yotam</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Fellow</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 6153</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/tracy">Yu, Xinyue</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3915E</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/zender">Zender, Mia</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2903</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/czhao4">Zhao, Casey</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2344</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/aaz">Zheleznyak, Adam</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 2905</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/zeshunzong">Zong, Zeshun</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 3915C</div>          </td>
+              </tr>
+          <tr class="even views-row-last">
+                  <td class="views-field views-field-php" >
+            <a href="/people/grad/zxz">Zuo, Xinzhe</a>          </td>
+                  <td class="views-field views-field-Title" >
+            <div>Teaching/Research Assistant</div>          </td>
+                  <td class="views-field views-field-OfficeRoom1" >
+            <div>MS
+ 7601</div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </section>
+
+    
+  </div>
+</div>
+
+<footer id="footer">
+  <div class="container">
+      <div class="region region-footer">
+    <section id="block-block-28" class="block block-block clearfix">
+
+      
+  <div class="col-2-3">
+
+            <span class="copyright">©2018 Regents of the <a href="http://www.universityofcalifornia.edu" target="_blank" >University of California</a></span>
+
+</div>
+<div class="col-1-3">
+<div class="icons">
+<!--Linkedin--><p><a class="li-ic" href="https://www.linkedin.com/company/uclamathematics" target="_blank"> <i class="fa fa-linkedin white-text mr-lg-4"> </i> </a> </p>
+<!--Facebook--><p><a class="fb-ic ml-0" href="https://www.facebook.com/UCLAmath/" target="_blank"> <i class="fa fa-facebook white-text mr-lg-4"> </i> </a> </p>
+<!--Youtube--><p> <a class="tw-ic" href="https://www.youtube.com/results?search_query=ucla+mathematics" target="_blank"> <i class="fa fa-youtube white-text mr-lg-4"> </i> </a></p></div>
+</div>
+  
+</section> <!-- /.block -->
+  </div>
+  </div>
+</footer>
+
+<script>
+$('.dropdown-toggle').click(function(e) {
+  e.preventDefault();
+  setTimeout($.proxy(function() {
+    if ('ontouchstart' in document.documentElement) {
+      $(this).siblings('.dropdown-backdrop').off().remove();
+    }
+  }, this), 0);
+});
+</script>
+  </body>
+</html>

@@ -1,0 +1,31 @@
+HSSEAS Network Restrictions | SEASnet
+Select Page
+HSSEAS Network Restrictions
+SEASnet employs various methods to ensure the security of data and systems within the School.  As new threats occur, changes may be made to the School’s network configuration without any advance notice.  Devices creating serious problems on the School or other networks will be immediately blocked and the device owner will be notified after the problem has been stopped. Owners with devices not creating serious problems will be notified first and given time to respond. Failure to respond will result in the device being blocked from the network. Repeat offenders may be asked for reimbursement SEASnet for staff time necessary to ensure the device meets UCLA and UC requirements for network access.
+Here are some of the ports being blocked by SEASnet and/or campus:
+23 Telnet – unsecure text based remote connect
+67,68 DHCP – automatic IP assignment
+111 SunRPC – unix service information
+135-139 NetBios – network naming system
+445 SMB – shared folder
+515 Line Printer Daemon / Spooler
+631 Internet Printing Protocol
+1433 MS-SQL-S – Microsoft SQL database server
+3283 ARD/ARMS – Apple Remote Desktop/Apple Remote Management Services (works only after connecting to the UCLA VPN)
+3306 MySQL – MySQL database
+3389 RDP – Windows Remote Desktop (works only after connecting to the UCLA VPN)
+3702 WSD – Web Services Discovery and UPnPv2
+5000 UPnP – Universal Plug and Play
+9100 jetdirect – HP Printer
+If you have any questions, you can email: help@seas.ucla.edu.
+Please note that SEASnet is required to follow UCLA and UC requirements and policies regarding network devices.  For more information, please visit
+http://security.ucop.edu/
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

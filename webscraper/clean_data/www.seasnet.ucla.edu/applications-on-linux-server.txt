@@ -1,0 +1,1803 @@
+Applications on Linux Servers | SEASnet
+Select Page
+Applications on Linux Servers
+List of software packages available on lnxsrv servers
+Extra software
+Software
+Description
+CUDA toolkit for cs33
+/usr/local_cs/cs33/cuda
+GNU Common Lisp
+/usr/local/bin/gcl
+or
+/usr/local/bin/clisp
+Tangram2 for Prof. Muntz
+source /usr/local/Tangram2/setup
+tangram2
+tomcat/apache/mysql for cs130
+(lnxsrv04 only)
+tomcat
+apache
+mysql
+tomcat/apache/mysql for cs131
+(lnxsrv03 only)
+/u/cs/class/cs143/apps/tomcat/webapps
+tomcat
+apache
+mysql
+Software available from the OS installation
+NAME
+SHORT DESCRIPTION
+a2ps
+Converts text and other types of files to PostScript(TM).
+acl
+Access control list utilities.
+acpid
+ACPI Event Daemon
+acroread
+Adobe Acrobat® Reader
+alchemist
+A multi-sourced configuration back-end.
+alpine
+Alternative Pine mail user agent implementation
+alsa-lib-devel
+Static libraries and header files from the ALSA library.
+alsa-lib
+The Advanced Linux Sound Architecture (ALSA) library.
+amtu
+Abstract Machine Test Utility (AMTU)
+anacron
+A cron-like program that can run jobs lost during downtime.
+A Name Service Caching Daemon (nscd).
+A Name Service Caching Daemon (nscd).
+antlr
+ANother Tool for Language Recognition
+apr
+Apache Portable Runtime library
+apr-util
+Apache Portable Runtime Utility library
+aspell-en
+English dictionaries for Aspell.
+aspell
+A spelling checker.
+atk-devel
+System for layout and rendering of internationalized text.
+atk
+Interfaces for accessibility support
+at-spi
+Assistive Technology Service Provider Interface
+at
+Job spooling tools.
+attr
+Utilities for managing filesystem extended attributes.
+audiofile-devel
+Development files for Audio File applications.
+audiofile
+A library for accessing various audio file formats.
+audit-libs-python
+Python bindings for libaudit
+audit-libs
+Dynamic library for libaudit
+audit
+User space tools for 2.6 kernel auditing
+authconfig-gtk
+Graphical tool for setting up authentication from network services
+authconfig
+Command line tool for setting up authentication from network
+autoconf
+A GNU tool for automatically configuring source code.
+autofs
+A tool for automatically mounting and unmounting filesystems.
+automake14
+A GNU tool for automatically creating Makefiles.
+automake15
+A GNU tool for automatically creating Makefiles.
+automake16
+A GNU tool for automatically creating Makefiles.
+automake17
+A GNU tool for automatically creating Makefiles.
+automake
+A GNU tool for automatically creating Makefiles.
+avahi-compat-libdns_sd
+Libraries for Apple Bonjour mDNSResponder compatibility.
+avahi-glib
+Glib libraries for avahi
+avahi
+Local network service discovery
+basesystem
+The skeleton package which defines a simple Red Hat Linux system.
+bash
+The GNU Bourne Again shell (bash) version 3.1.
+bc
+GNU’s bc (a numeric processing language) and dc (a calculator).
+bind-libs
+Libraries used by the BIND DNS packages
+bind-utils
+Utilities for querying DNS name servers.
+binutils
+A GNU collection of binary utilities.
+bison
+A GNU general-purpose parser generator.
+bitmap-fonts
+Selected set of bitmap fonts
+bitstream-vera-fonts
+Bitstream Vera Fonts
+bluez-libs
+Bluetooth libraries
+boost-devel
+The Boost C++ headers and development libraries
+boost
+The Boost C++ Libraries
+brlapi
+Application Programming Interface for BRLTTY.
+bsf
+Bean Scripting Framework
+bsh-javadoc
+Javadoc for bsh
+bsh-manual
+Manual for bsh
+bsh
+Lightweight Scripting for Java
+busybox
+Statically linked binary providing simplified versions of system
+byacc
+A public domain Yacc parser generator.
+bzip2-devel
+Header files and libraries for developing apps which will use
+bzip2-libs
+Libraries for applications using bzip2
+bzip2
+A file compression utility.
+cadaver
+Command-line WebDAV client
+cairo-devel
+Cairo developmental libraries and header files
+cairo
+A vector graphics library
+ccid
+Generic USB CCID smart card reader driver
+cdparanoia-libs
+Libraries for libcdda_paranoia (Paranoia III).
+checkpolicy
+SELinux policy compiler
+chkconfig
+A system tool for maintaining the /etc/rc*.d hierarchy.
+chkfontpath
+Simple interface for editing the font path for the X font server.
+compat-gcc-34-c++
+C++ support for compatibility compiler
+compat-gcc-34-g77
+Fortran 77 support for compatibility compiler
+compat-gcc-34
+Compatibility GNU Compiler Collection
+compat-glibc-headers
+Header files for development using standard C libraries.
+compat-glibc
+Compatibility C library
+compat-libcom_err
+A libcom_err compatibility library
+compat-libf2c-34
+Fortran 77 compatibility runtime
+compat-libgcc-296
+Compatibility 2.96-RH libgcc library
+compat-libstdc++-296
+Compatibility 2.96-RH standard C++ libraries
+compat-libstdc++-33
+Compatibility standard C++ libraries
+comps-extras
+Images for components and tools for working with the comps file
+conman
+ConMan – The Console Manager
+coolkey-devel
+CoolKey Applet libraries
+coolkey
+CoolKey PKCS #11 module
+coreutils
+The GNU core utilities
+cpio
+A GNU archiving program.
+cpp
+The C Preprocessor.
+cpuspeed
+CPU Frequency adjusting daemon.
+cracklib-dicts
+The standard CrackLib dictionaries.
+cracklib
+A password-checking library.
+crash
+crash utility for live systems; netdump, diskdump, kdump, LKCD or
+crontabs
+Root crontab files used to schedule the execution of programs.
+cryptsetup-luks
+A utility for setting up encrypted filesystems
+cscope
+C source code tree search and browse tool
+ctags
+A C programming language indexing and/or cross-reference tool.
+cups-libs
+Common Unix Printing System – libraries
+cups
+Common Unix Printing System
+curl-devel
+Files needed for building applications with libcurl.
+curl
+A utility for getting files from remote servers (FTP, HTTP, and
+cvs
+CVS (Concurrent Versions System) is a version control system
+cyrus-sasl-devel
+Files needed for developing applications with Cyrus SASL.
+cyrus-sasl-lib
+Shared libraries needed by applications which use Cyrus SASL.
+cyrus-sasl-plain
+PLAIN and LOGIN support for Cyrus SASL.
+cyrus-sasl
+The Cyrus SASL library.
+db4-devel
+Development files for the Berkeley DB (version 4) library.
+db4
+The Berkeley DB database library (version 4) for C.
+dbus-devel
+Libraries and headers for D-BUS
+dbus-glib-devel
+Libraries and headers for the D-Bus GLib bindings
+dbus-glib
+GLib bindings for D-Bus
+dbus-libs
+Libraries for accessing D-BUS
+dbus-python
+D-Bus Python Bindings
+dbus
+D-BUS message bus
+dbus-x11
+X11-requiring add-ons for D-BUS
+dcraw
+A tool for decoding raw image data from digital cameras.
+dejavu-lgc-fonts
+DejaVu LGC Fonts
+Deployment_Guide-en-US
+Red Hat Enterprise Linux 5 – Beta
+desktop-backgrounds-basic
+Desktop background base set.
+desktop-file-utils
+Utilities for manipulating .desktop files
+dev86
+A real mode 80×86 assembler and linker.
+device-mapper-event
+Device-mapper event daemon
+device-mapper-multipath
+Tools to manage multipath devices using device-mapper.
+device-mapper
+device mapper library
+dhclient
+Provides the dhclient ISC DHCP client daemon and dhclient-script .
+dhcpv6-client
+DHCPv6 client
+dialog
+A utility for creating TTY dialog boxes.
+diffstat
+A utility which provides statistics based on the output of diff.
+diffutils
+A GNU collection of diff utilities.
+dmidecode
+Tool to analyze BIOS DMI data.
+dmraid-events
+dmevent_tool (Device-mapper event tool) and DSO
+dmraid
+dmraid (Device-mapper RAID tool and library)
+dnsmasq
+A lightweight DHCP/caching DNS server
+docbook-dtds
+SGML and XML document type definitions for DocBook.
+dogtail
+GUI test tool and automation framework
+dos2unix
+Text file format converter
+dosfstools
+Utilities for making and checking MS-DOS FAT filesystems on Linux.
+doxygen
+A documentation system for C/C++.
+dump
+Programs for backing up and restoring ext2/ext3 filesystems
+e2fsprogs-devel
+Ext2/3 filesystem-specific static libraries and headers
+e2fsprogs-libs
+Ext2/3 filesystem-specific static libraries and headers
+e2fsprogs
+Utilities for managing the second and third extended (ext2/ext3)
+eclipse-ecj
+Eclipse Compiler for Java
+ed
+The GNU line editor.
+eject
+A program that ejects removable media using software control.
+elfutils-libelf-devel-static
+Static archive of libelf
+elfutils-libelf-devel
+Development support for libelf
+elfutils-libelf
+Library to read and write ELF files.
+elfutils-libs
+Libraries to handle compiled objects.
+elfutils
+A collection of utilities and DSOs to handle compiled objects.
+elinks
+A text-mode Web browser.
+emacs-common
+Emacs common files
+emacs-leim
+Emacs Lisp files for input methods for international characters.
+emacspeak
+emacspeak — The Complete Audio Desktop
+emacs
+GNU Emacs text editor
+enscript
+A plain ASCII to PostScript converter.
+esound-devel
+Development files for EsounD applications.
+esound
+Allows several audio streams to play on a single audio device.
+ethtool
+Ethernet settings tool for PCI ethernet cards
+expat-devel
+Libraries and include files to develop XML applications with expat.
+expat
+A library for parsing XML.
+fbset
+Tools for managing a frame buffer’s video mode properties.
+fetchmail
+A remote mail retrieval and forwarding utility.
+filesystem
+The basic directory layout for a Linux system.
+file
+A utility for determining file types.
+findutils
+The GNU versions of find utilities (find and xargs).
+finger
+The finger client.
+fipscheck-lib
+Library files for fipscheck
+fipscheck
+A library for integrity verification of FIPS validated modules
+firefox
+Mozilla Firefox Web browser.
+firstboot-tui
+A text interface for firstboot
+flac
+An encoder/decoder for the Free Lossless Audio Codec.
+flex
+A tool for creating scanners (text pattern recognizers).
+fontconfig-devel
+Font configuration and customization library
+fontconfig
+Font configuration and customization library
+foomatic
+Foomatic printer database.
+freeglut
+A freely licensed alternative to the GLUT library
+freetype-devel
+FreeType development libraries and header files
+freetype
+A free and portable font rendering engine
+ftp
+The standard UNIX FTP (File Transfer Protocol) client.
+gail
+Accessibility implementation for GTK+ and GNOME libraries
+gamin-python
+Python bindings for the gamin library
+gamin
+Library providing the FAM File Alteration Monitor API
+gawk
+The GNU version of the awk text processing utility.
+gcc-c++
+C++ support for GCC
+gcc-gfortran
+Fortran 95 support
+gcc-java
+Java support for GCC
+gcc
+Various compilers (C, C++, Objective-C, Java, …)
+GConf2-devel
+Headers and libraries for GConf development
+GConf2
+A process-transparent configuration system
+gdbm-devel
+Development libraries and header files for the gdbm library.
+gdbm
+A GNU set of database routines which use extensible hashing.
+gdb
+A GNU source-level debugger for C, C++, Java and other languages.
+gd-devel
+The development libraries and header files for gd
+gdm
+The GNOME Display Manager.
+gd
+A graphics library for quick creation of PNG or JPEG images
+gedit
+gEdit is a small but powerful text editor for GNOME
+gettext
+GNU libraries and utilities for producing multi-lingual messages.
+ghostscript-fonts
+Fonts for the Ghostscript PostScript(TM) interpreter.
+ghostscript
+A PostScript(TM) interpreter and renderer.
+giflib-devel
+Development tools for programs which will use the libungif library
+giflib
+Library for manipulating GIF format image files
+gjdoc
+GNU Javadoc
+glib2-devel
+The GIMP ToolKit (GTK+) and GIMP Drawing Kit (GDK) support library
+glib2
+A library of handy utility functions
+glibc-common
+Common binaries and locale data for glibc
+glibc-devel
+Object files for development using standard C libraries.
+glibc-headers
+Header files for development using standard C libraries.
+glibc
+The GNU libc libraries.
+glx-utils
+GLX utilities
+gmp-devel
+Development tools for the GNU MP arbitrary precision library.
+gmp
+A GNU arbitrary precision library.
+gnome-doc-utils
+Documentation utilities for the GNOME project
+gnome-icon-theme
+Base gnome icons
+gnome-keyring-devel
+The files needed for gnome-keyring application development
+gnome-keyring
+A framework for managing user passwords and other secrets
+gnome-menus
+A menu system for the GNOME project
+gnome-mime-data
+MIME type data files for GNOME desktop
+gnome-mount
+Mount replacement which uses HAL to do the mounting
+gnome-python2-bonobo
+Python bindings for interacting with bonobo.
+gnome-python2-canvas
+Python bindings for the GNOME Canvas.
+gnome-python2-desktop
+The sources for additional PyGNOME Python extension modules for the
+gnome-python2-gconf
+Python bindings for interacting with GConf
+gnome-python2-gnomeprint
+Python bindings for interacting with libgnomeprint
+gnome-python2-gnomevfs
+Python bindings for interacting with gnome-vfs
+gnome-python2-gtksourceview
+Python bindings for interacting with the gtksourceview library
+gnome-python2
+The sources for the PyGNOME Python extension module
+gnome-speech
+GNOME Text to Speech
+gnome-vfs2-devel
+Libraries and include files for developing GNOME VFS applications
+gnome-vfs2
+The GNOME virtual file-system libraries
+gnupg
+A GNU utility for secure communication and data storage.
+gnuplot
+A program for plotting mathematical expressions and data.
+gnutls
+A TLS protocol implementation.
+gphoto2
+Software for accessing digital cameras
+gpm-devel
+A mouse server for the Linux console.
+gpm
+A mouse server for the Linux console.
+grep
+The GNU versions of grep pattern matching utilities.
+groff
+A document formatting system.
+grub
+GRUB – the Grand Unified Boot Loader.
+gstreamer
+GStreamer streaming media framework runtime
+gstreamer-tools
+common tools and files for GStreamer streaming media framework
+gtk2-devel
+Development tools for GTK+ applications
+gtk2-engines
+Theme engines for GTK+ 2.0
+gtk2
+The GIMP ToolKit (GTK+), a library for creating GUIs for X
+gtksourceview
+A library for viewing source files
+gzip
+The GNU data compression program.
+hal-cups-utils
+Halified CUPS utilities
+hal-devel
+Libraries and headers for HAL
+hal
+Hardware Abstraction Layer
+hdparm
+A utility for displaying and/or setting hard disk parameters.
+hesiod-devel
+Development libraries and headers for Hesiod
+hesiod
+Hesiod libraries.
+hicolor-icon-theme
+Basic requirement for icon themes
+hmaccalc
+Tools for computing and checking HMAC values for files
+hpijs
+HP Printer Drivers
+hplip
+HP Linux Imaging and Printing Project
+htmlview
+Tools for launching Preferred Applications
+hwdata
+Hardware identification and configuration data
+ifd-egate
+Axalto Egate SmartCard device driver for PCSC-lite
+imake
+imake source code configuration and build system
+indent
+A GNU program for formatting C code.
+info
+A stand-alone TTY-based reader for GNU texinfo documentation.
+initscripts
+The inittab file and the /etc/init.d scripts.
+Internationalized Domain Name support library
+Internationalized Domain Name support library
+iproute
+Advanced IP routing and network device configuration tools.
+ipsec-tools
+Tools for configuring and using IPSEC
+iptables-ipv6
+IPv6 support for iptables.
+iptables
+Tools for managing Linux kernel packet filtering capabilities.
+iptstate
+A top-like display of IP Tables state table entries
+iputils
+Network monitoring tools including ping.
+irda-utils
+Utilities for infrared communication between devices.
+irqbalance
+IRQ balancing daemon.
+iscsi-initiator-utils
+iSCSI daemon and utility programs
+isdn4k-utils
+Utilities for configuring an ISDN subsystem.
+jakarta-commons-codec
+Jakarta Commons Codec Package
+jakarta-commons-httpclient
+Jakarta Commons HTTPClient Package
+jakarta-commons-logging
+Jakarta Commons Logging Package
+java-1.4.2-gcj-compat-devel
+JPackage development scripts for GCJ
+java-1.4.2-gcj-compat-src
+Source files for libgcj
+java-1.4.2-gcj-compat
+JPackage runtime scripts for GCJ
+java-1.6.0-openjdk-devel
+OpenJDK Development Environment
+java-1.6.0-openjdk
+OpenJDK Runtime Environment
+jpackage-utils
+JPackage utilities
+junit
+Java regression test package
+jwhois
+Internet whois/nicname client.
+kbd
+Tools for configuring the console (keyboard, virtual terminals,
+kernel-devel
+Development package for building kernel modules to match the
+kernel-headers
+Header files for the Linux kernel for use by glibc
+kernel
+The Linux kernel (the core of the Linux operating system)
+kexec-tools
+The kexec/kdump userspace component.
+keyutils-libs-devel
+Development package for building linux key management utilities
+keyutils-libs
+Key utilities library
+kpartx
+Partition device manager for device-mapper devices.
+krb5-auth-dialog
+Kerberos 5 authentication dialog
+krb5-devel
+Development files needed to compile Kerberos 5 programs.
+krb5-libs
+The shared libraries used by Kerberos 5.
+krb5-workstation
+Kerberos 5 programs for use on workstations.
+ksh
+The Original ATT Korn Shell
+kudzu-devel
+Development files needed for hardware probing using kudzu.
+kudzu
+The Red Hat Linux hardware probing tool.
+lcms
+Color Management System
+less
+A text file browser similar to more, but better.
+lftp
+A sophisticated file transfer program
+libacl-devel
+Access control list static libraries and headers.
+libacl
+Dynamic library for access control list support.
+libaio
+Linux-native asynchronous I/O access library
+libao
+Cross Platform Audio Output Library.
+libart_lgpl-devel
+Libraries and headers for libart_lgpl
+libart_lgpl
+Library of graphics routines used by libgnomecanvas
+libattr-devel
+Extended attribute static libraries and headers.
+libattr
+Dynamic library for extended attribute support.
+libavc1394
+Audio/Video Control library for IEEE-1394 devices
+libbonobo-devel
+Libraries and headers for libbonobo
+libbonobo
+Bonobo component system
+libbonoboui-devel
+Libraries and headers for libbonoboui
+libbonoboui
+Bonobo user interface components
+libcap-devel
+Development files for libcap
+libcap
+Library for getting and setting POSIX.1e capabilities
+libcroco
+A CSS2 parsing library
+libdaemon
+library for writing UNIX daemons
+libdmx
+X.Org X11 libdmx runtime library
+libdrm-devel
+libdrm-devel
+libdrm
+libdrm Direct Rendering Manager runtime library
+libdv
+Software decoder for DV format video
+liberation-fonts
+Fonts to replace commonly used Microsoft Windows Fonts
+libevent
+Abstract asynchronous event notification library
+libexif
+Library for extracting extra information from image files
+libfontenc-devel
+X.Org X11 libfontenc development package
+libfontenc
+X.Org X11 libfontenc runtime library
+libFS
+X.Org X11 libFS runtime library
+libgcc
+GCC version 4.1 shared support library
+libgcj-devel
+Libraries for Java development using GCC
+libgcj-src
+Java library sources from GCC4 preview
+libgcj
+Java runtime library for gcc
+libgcrypt-devel
+Development files for the libgcrypt package.
+libgcrypt
+A general-purpose cryptography library.
+libgfortran
+Fortran 95 runtime
+libglade2-devel
+The files needed for libglade application development.
+libglade2
+The libglade library for loading user interfaces.
+libgnomecanvas-devel
+Libraries and headers for libgnomecanvas
+libgnomecanvas
+GnomeCanvas widget
+libgnomecups
+GNOME library for CUPS integration
+libgnome-devel
+Libraries and headers for libgnome
+libgnomeprint22
+Printing library for GNOME.
+libgnomeprintui22
+GUI support for libgnomeprint
+libgnome
+GNOME base library
+libgnomeui-devel
+Libraries and headers for libgnome
+libgnomeui
+GNOME base GUI library
+libgomp
+GCC OpenMP 2.5 shared support library
+libgpg-error-devel
+Development files for the libgpg-error package
+libgpg-error
+libgpg-error
+libgsf
+GNOME Structured File library
+libgssapi
+Generic Security Services Application Programming Interface Library
+libgtop2
+libgtop library (version 2)
+libhugetlbfs
+Library to access the Huge TLB Filesystem
+libICE-devel
+X.Org X11 libICE development package
+libICE
+X.Org X11 libICE runtime library
+libicu
+International Components for Unicode – libraries
+libIDL-devel
+Development libraries and header files for libIDL
+libIDL
+Library for parsing IDL (Interface Definition Language)
+libidn-devel
+Development files for the libidn library
+libiec61883
+Streaming library for IEEE1394
+libieee1284
+A library for interfacing IEEE 1284-compatible devices.
+libjpeg-devel
+Development tools for programs which will use the libjpeg library.
+libjpeg
+A library for manipulating JPEG image format files.
+libmng-devel
+Development files for the Multiple-image Network Graphics library
+libmng
+Library for Multiple-image Network Graphics support
+libmusicbrainz
+Library for accessing MusicBrainz servers
+libnotify-devel
+Files for development using libnotify
+libnotify
+libnotify notification library
+libogg-devel
+Files needed for development using libogg.
+libogg
+The Ogg bitstream file format library.
+liboil
+Library of Optimized Inner Loops, CPU optimized functions
+libpcap
+A system-independent interface for user-level packet capture.
+libpng-devel
+Development tools for programs to manipulate PNG image format
+libpng
+A library of functions for manipulating PNG image format files
+libraw1394
+Library providing low-level IEEE-1394 access
+librsvg2
+An SVG library based on cairo
+libsane-hpaio
+SANE driver for scanners in HP’s multi-function devices
+libselinux-devel
+Header files and libraries used to build SELinux
+libselinux-python
+python bindings for libselinux
+libselinux
+SELinux library and simple utilities
+libselinux-utils
+SELinux libselinux utilities
+libsemanage
+SELinux binary policy manipulation library
+libsepol-devel
+Header files and libraries used to build policy manipulation tools
+libsepol
+SELinux binary policy manipulation library
+libsmbclient
+The SMB client library
+libSM-devel
+X.Org X11 libSM development package
+libSM
+X.Org X11 libSM runtime library
+libsoup
+Soup, an HTTP library implementation
+libstdc++-devel
+Header files and libraries for C++ development
+libstdc++
+GNU Standard C++ Library
+libsysfs
+Shared library for interfacing with sysfs
+libtermcap-devel
+Development tools for programs which will access the termcap
+libtermcap
+A basic system library for accessing the termcap database.
+libtheora
+Theora Video Compression Codec
+libtiff-devel
+Development tools for programs which will use the libtiff library
+libtiff
+Library of functions for manipulating TIFF format image files
+libtool
+The GNU Portable Library Tool
+libusb-devel
+Development files for libusb.
+libusb
+A library which allows userspace access to USB devices.
+libuser-devel
+Files needed for developing applications which use libuser.
+libuser
+A user and group account administration library.
+libutempter
+A privileged helper for utmp/wtmp updates
+libvolume_id
+Dynamic libraries to get volume ids
+libvorbis-devel
+Development tools for Vorbis applications.
+libvorbis
+The Vorbis General Audio Compression Codec.
+libwmf
+Windows Metafile Library
+libwnck
+Window Navigator Construction Kit
+libwvstreams
+WvStreams is a network programming library written in C++.
+libX11-devel
+X.Org X11 libX11 development package
+libX11
+X.Org X11 libX11 runtime library
+libXau-devel
+X.Org X11 libXau development package
+libXau
+X.Org X11 libXau runtime library
+libXaw-devel
+X.Org X11 libXaw development package
+libXaw
+X.Org X11 libXaw runtime library
+libXcomposite-devel
+X.Org X11 libXcomposite development package
+libXcomposite
+X.Org X11 libXcomposite runtime library
+libXcursor-devel
+X.Org X11 libXcursor development package
+libXcursor
+X.Org X11 libXcursor runtime library
+libXdamage-devel
+X.Org X11 libXdamage development package
+libXdamage
+X.Org X11 libXdamage runtime library
+libXdmcp-devel
+X.Org X11 libXdmcp development package
+libXdmcp
+X.Org X11 libXdmcp runtime library
+libXevie-devel
+X.Org X11 libXevie development package
+libXevie
+X.Org X11 libXevie runtime library
+libXext-devel
+X.Org X11 libXext development package
+libXext
+X.Org X11 libXext runtime library
+libXfixes-devel
+X.Org X11 libXfixes development package
+libXfixes
+X.Org X11 libXfixes runtime library
+libXfontcache-devel
+X.Org X11 libXfontcache development package
+libXfontcache
+X.Org X11 libXfontcache runtime library
+libXfont-devel
+X.Org X11 libXfont development package
+libXfont
+X.Org X11 libXfont runtime library
+libXft-devel
+X.Org X11 libXft development package
+libXft
+X.Org X11 libXft runtime library
+libXi-devel
+X.Org X11 libXi development package
+libXinerama-devel
+X.Org X11 libXinerama development package
+libXinerama
+X.Org X11 libXinerama runtime library
+libXi
+X.Org X11 libXi runtime library
+libxkbfile
+X.Org X11 libxkbfile runtime library
+libxklavier
+library providing high-level API for X Keyboard Extension
+libxml2-devel
+Libraries, includes, etc. to develop XML and HTML applications
+libxml2-python
+Python bindings for the libxml2 library
+libxml2
+Library providing XML and HTML support
+libXmu-devel
+X.Org X11 libXmu development package
+libXmu
+X.Org X11 libXmu/libXmuu runtime libraries
+libXpm-devel
+X.Org X11 libXpm development package
+libXpm
+X.Org X11 libXpm runtime library
+libXrandr-devel
+X.Org X11 libXrandr development package
+libXrandr
+X.Org X11 libXrandr runtime library
+libXrender-devel
+X.Org X11 libXrender development package
+libXrender
+X.Org X11 libXrender runtime library
+libXres-devel
+X.Org X11 libXres development package
+libXres
+X.Org X11 libXres runtime library
+libXScrnSaver-devel
+X.Org X11 libXScrnSaver development package
+libXScrnSaver
+X.Org X11 libXss runtime library
+libxslt-devel
+Libraries, includes, etc. to embed the Gnome XSLT engine
+libxslt
+Library providing the Gnome XSLT engine
+libXt-devel
+X.Org X11 libXt development package
+libXTrap-devel
+X.Org X11 libXTrap development package
+libXTrap
+X.Org X11 libXTrap runtime library
+libXtst-devel
+X.Org X11 libXtst development package
+libXtst
+X.Org X11 libXtst runtime library
+libXt
+X.Org X11 libXt runtime library
+libXv-devel
+X.Org X11 libXv development package
+libXvMC-devel
+X.Org X11 libXvMC development package
+libXvMC
+X.Org X11 libXvMC runtime library
+libXv
+X.Org X11 libXv runtime library
+libXxf86dga-devel
+X.Org X11 libXxf86dga development package
+libXxf86dga
+X.Org X11 libXxf86dga runtime library
+libXxf86misc-devel
+X.Org X11 libXxf86misc development package
+libXxf86misc
+X.Org X11 libXxf86misc runtime library
+libXxf86vm-devel
+X.Org X11 libXxf86vm development package
+libXxf86vm
+X.Org X11 libXxf86vm runtime library
+linuxwacom
+Wacom Drivers from Linux Wacom Project
+lockdev-devel
+The header files and a static library for the lockdev library.
+lockdev
+A library for locking devices.
+log4cpp
+C++ logging library
+logrotate
+Rotates, compresses, removes and mails system log files.
+logwatch
+A log file analysis program.
+lrzsz
+The lrz and lsz modem communications programs.
+lsof
+A utility which lists open files on a Linux/UNIX system.
+ltrace
+Tracks runtime library calls from dynamically linked executables.
+lvm2
+Userland logical volume management tools
+m2crypto
+Support for using OpenSSL in python scripts
+m4
+The GNU macro processor.
+mailcap
+Associates helper applications with particular file types.
+mailx
+The /bin/mail program for sending e-mail messages.
+MAKEDEV
+A program used for creating device files in /dev.
+make
+A GNU tool which simplifies the build process for users.
+man-pages
+Man (manual) pages from the Linux Documentation Project.
+man
+A set of documentation tools
+mcelog
+Tool to translate x86-64 CPU Machine Check Exception data.
+mcstrans
+SELinux Translation Daemon
+mdadm
+mdadm controls Linux md devices (software RAID arrays)
+mesa-libGL-devel
+Mesa libGL development package
+mesa-libGL
+Mesa libGL runtime libraries and DRI drivers
+mesa-libGLU-devel
+Mesa libGLU development package
+mesa-libGLU
+Mesa libGLU runtime library
+metacity
+Metacity window manager
+mgetty
+A getty replacement for use with data and fax modems.
+microcode_ctl
+Tool to update x86/x86-64 CPU microcode.
+mingetty
+A compact getty program for virtual consoles only.
+minicom
+A text-based modem control and terminal emulation program.
+mkbootdisk
+Creates a boot floppy disk for booting a system.
+mkinitrd
+Creates an initial ramdisk image for preloading modules.
+mktemp
+A small utility for safely making /tmp files.
+mlocate
+An utility for finding files by name
+module-init-tools
+Kernel module management utilities.
+mozldap
+Mozilla LDAP C SDK
+mtools
+Programs for accessing MS-DOS disks without mounting the disks.
+mtr
+A network diagnostic tool.
+mutt
+A text mode mail user agent.
+nano
+A small text editor
+nash
+nash shell
+nc
+Reads and writes data across network connections using TCP or UDP.
+ncurses-devel
+Development files for the ncurses library
+ncurses
+A terminal handling library
+neon
+An HTTP and WebDAV client library
+netpbm-devel
+Development tools for programs which will use the netpbm libraries.
+netpbm-progs
+Tools for manipulating graphics files in netpbm supported formats.
+netpbm
+A library for handling different graphics file formats.
+net-snmp-libs
+The NET-SNMP runtime libraries.
+net-tools
+Basic networking tools.
+NetworkManager-glib
+Libraries for adding NetworkManager support to applications that
+NetworkManager
+Network connection manager and user applications
+newt-devel
+Newt windowing toolkit development files.
+newt-perl
+Perl bindings for the Newt library
+newt
+A development library for text mode user interfaces.
+nfs-utils-lib
+Network File System Support Library
+nfs-utils
+NFS utilities and supporting clients and daemons for the kernel
+notification-daemon
+Notification Daemon
+notify-python
+Python bindings for libnotify
+nspr-devel
+Development libraries for the Netscape Portable Runtime
+nspr
+Netscape Portable Runtime
+nss_db
+An NSS library for the Berkeley DB.
+nss-devel
+Development libraries for Network Security Services
+nss_ldap
+NSS library and PAM module for LDAP.
+nss
+Network Security Services
+nss-tools
+Tools for the Network Security Services
+ntp
+Synchronizes system time using the Network Time Protocol (NTP).
+ntsysv
+A tool to set the stop/start of system services in a runlevel.
+numactl
+library for tuning for Non Uniform Memory Access machines
+OpenIPMI-libs
+The OpenIPMI runtime libraries
+OpenIPMI
+OpenIPMI (Intelligent Platform Management Interface) library and
+openjade
+A DSSSL implementation.
+openldap-devel
+OpenLDAP development libraries and header files.
+openldap
+The configuration files, libraries, and documentation for OpenLDAP.
+opensp
+SGML and XML parser
+openssh-askpass
+A passphrase dialog for OpenSSH and X
+openssh-clients
+The OpenSSH client applications
+openssh-server
+The OpenSSH server daemon
+openssh
+The OpenSSH implementation of SSH protocol versions 1 and 2
+openssl-devel
+Files for development of applications which will use OpenSSL
+openssl
+The OpenSSL toolkit
+oprofile
+System wide profiler
+ORBit2-devel
+Development libraries, header files and utilities for ORBit
+ORBit2
+A high-performance CORBA Object Request Broker
+pam_ccreds
+Pam module to cache login credentials
+pam-devel
+Files needed for developing PAM-aware applications and modules for
+pam_krb5
+A Pluggable Authentication Module for Kerberos 5.
+pam_passwdqc
+Pluggable password quality-control module.
+pam_pkcs11
+PKCS #11/NSS PAM login module
+pam_smb
+A Pluggable Authentication Module (PAM) for use with SMB servers.
+pam
+A security tool which provides authentication for applications
+pango-devel
+System for layout and rendering of internationalized text
+pango
+System for layout and rendering of internationalized text
+paps
+Plain Text to PostScript converter
+parted
+The GNU disk partition manipulation program.
+passwd
+The passwd utility for setting/changing passwords using PAM
+patch
+The GNU patch command, for modifying/upgrading files.
+patchutils
+A collection of programs for manipulating patch files
+pax
+POSIX File System Archiver
+pciutils-devel
+Linux PCI development library.
+pciutils
+PCI bus related utilities.
+pcmciautils
+PCMCIA utilities and initialization programs
+pcre
+Perl-compatible regular expression library
+pcsc-lite-devel
+PC/SC Lite development files
+pcsc-lite-libs
+PC/SC Lite libraries
+pcsc-lite
+PC/SC Lite smart card framework and applications
+perl-Compress-Zlib
+A module providing Perl interfaces to the zlib compression library.
+perl-HTML-Parser
+Perl module for parsing HTML
+perl-HTML-Tagset
+HTML
+perl-libwww-perl
+A Perl interface to the World-Wide Web
+perl-String-CRC32
+Perl interface for cyclic redundency check generation
+perl
+The Perl programming language
+perl-URI
+A Perl module implementing URI parsing and manipulation
+pinfo
+An info file viewer.
+pirut
+Package Installation, Removal and Update Tools
+pkgconfig
+A tool for determining compilation options.
+pkinit-nss
+PKINIT for MIT Kerberos
+pm-utils
+Power management utilities and scripts for Fedora Core
+policycoreutils-gui
+SELinux configuration GUI
+policycoreutils
+SELinux policy core utilities.
+poppler
+PDF rendering library
+poppler-utils
+Command line utilities for converting PDF files.
+popt
+A C library for parsing command line parameters.
+portmap
+A program which manages RPC connections.
+postgresql-libs
+The shared libraries required for any PostgreSQL clients.
+ppp
+The PPP (Point-to-Point Protocol) daemon.
+prelink
+An ELF prelinking utility
+procmail
+The procmail mail processing program.
+procps
+System and process monitoring utilities.
+psacct
+Utilities for monitoring process activities.
+psgml
+A GNU Emacs major mode for editing SGML documents.
+psmisc
+Utilities for managing processes on your system.
+pstack
+Display stack trace of a running process
+psutils
+PostScript Utilities
+pycairo
+Python bindings for the cairo library
+pygobject2
+Python bindings for GObject
+pygtk2-libglade
+A wrapper for the libglade library for use with PyGTK
+pygtk2
+Python bindings for the GTK+ widget set.
+pyOpenSSL
+Python wrapper module around the OpenSSL library
+pyorbit
+Python bindings for ORBit2.
+PyQt
+Python bindings for Qt
+pyspi
+Python bindings for AT-SPI
+python-devel
+The libraries and header files needed for Python development.
+python-dmidecode
+Python module to access DMI data
+python-elementtree
+Fast XML parser and writer
+python-iniparse
+Python Module for Accessing and Modifying Configuration Data in INI
+python-ldap
+An object-oriented API to access LDAP directory servers.
+python-libs
+The libraries for python runtime
+python-numeric
+Numerical Extension to Python
+python-sqlite
+Python bindings for sqlite.
+python
+An interpreted, interactive, object-oriented programming language.
+python-urlgrabber
+A high-level cross-protocol url-grabber
+pyxf86config
+Python wrappers for libxf86config
+PyXML
+XML libraries for python.
+qt
+The shared library for the Qt GUI toolkit.
+quota
+System administration tools for monitoring users’ disk usage.
+rcs
+Revision Control System (RCS) file version management tools.
+rdate
+Tool for getting the date/time from a remote machine.
+rdist
+Maintains identical copies of files on multiple machines.
+readahead
+Read a preset list of files into memory.
+readline-devel
+Files needed to develop programs which use the readline library.
+readline
+A library for editing typed command lines.
+redhat-artwork
+Artwork for Red Hat default look-and-feel
+redhat-logos
+Red Hat-related icons and pictures.
+redhat-lsb
+LSB support for Red Hat Linux
+redhat-menus
+Configuration and data files for the desktop menus
+redhat-release-notes
+Red Hat Enterprise Linux release notes files
+redhat-release
+Red Hat Enterprise Linux release file
+redhat-rpm-config
+Red Hat specific rpm configuration files.
+rhel-instnum
+A library for decoding RHEL installation numbers
+rhgb
+Red Hat Graphical Boot
+rhn-check
+Check for RHN actions
+rhn-client-tools
+Support programs and libraries for Red Hat Network
+rhnlib
+Python libraries for the RHN project
+rhnsd
+Red Hat Network query daemon
+rhn-setup-gnome
+A GUI interface for RHN Registration
+rhn-setup
+Configure and register an RHN client
+rhpl
+Library of python code used by programs in Red Hat Linux
+rhpxl
+Python library for configuring and running X.
+rmt
+Provides certain programs with access to remote tape devices
+rng-utils
+Random number generator related utilities
+rootfiles
+The basic required files for the root user’s directory.
+rpm-build
+Scripts and executable programs used to build packages.
+rpm-devel
+Development files for manipulating RPM packages.
+rpmforge-release
+RPMforge release file and RPM repository configuration
+rpm-libs
+Libraries for manipulating RPM packages.
+rpm-python
+Python bindings for apps which will manipulate RPM packages.
+rpm
+The RPM package management system.
+rp-pppoe
+A PPP over Ethernet client (for xDSL support).
+rsh-server
+Servers for remote access commands (rsh, rlogin, rcp).
+rsh
+Clients for remote access commands (rsh, rlogin, rcp).
+rsync
+A program for synchronizing files over a network.
+samba-client
+Samba (SMB) client programs.
+samba-common
+Files used by both Samba servers and clients.
+sane-backends-libs
+SANE libraries
+sane-backends
+Scanner access software
+sane-frontends
+Graphical frontend to SANE
+scrollkeeper
+ScrollKeeper is a cataloging system for documentation on open
+SDL-devel
+Files needed to develop Simple DirectMedia Layer applications.
+SDL
+A cross-platform multimedia library.
+sed
+A GNU stream text editor.
+selinux-policy-devel
+SELinux policy development
+selinux-policy-targeted
+SELinux targeted base policy
+selinux-policy
+SELinux policy configuration
+sendmail-cf
+The files needed to reconfigure Sendmail.
+sendmail
+A widely used Mail Transport Agent (MTA).
+setarch
+Personality setter
+setools
+SELinux tools for managing policy
+setroubleshoot-plugins
+Analysis plugins for use with setroubleshoot
+setroubleshoot-server
+SELinux troubleshoot server
+setserial
+A utility for configuring serial ports.
+setup
+A set of system configuration and setup files.
+setuptool
+A text mode system configuration tool.
+sgml-common
+Common SGML catalog and DTD files.
+sgpio
+SGPIO captive backplane tool
+shadow-utils
+Utilities for managing accounts and shadow password files.
+shared-mime-info
+Shared MIME information database
+sip
+SIP – Python/C++ Bindings Generator
+slang-devel
+The static library and header files for development using S-Lang.
+slang
+The shared library for the S-Lang extension language.
+slrn
+A threaded Internet news reader.
+smartmontools
+Tools for monitoring SMART capable hard disks
+sos
+System Support Tools
+specspo
+Fedora package descriptions, summaries, and groups.
+speex
+A voice compression format (codec)
+splint
+An implementation of the lint program
+sqlite-devel
+Development tools for the sqlite3 embeddable SQL database engine.
+sqlite
+Library that implements an embeddable SQL database engine
+startup-notification-devel
+Development portions of startup-notification
+startup-notification
+Library for tracking application startup
+strace
+Tracks and displays system calls associated with a running process.
+stunnel
+An SSL-encrypting socket wrapper.
+subversion
+Modern Version Control System designed to replace CVS
+svrcore
+Secure PIN handling using NSS crypto
+swig
+Connects C/C++/Objective C to some high-level programming
+symlinks
+A utility which maintains a system’s symbolic links.
+synaptics
+Synaptics Touchpad Driver
+sysfsutils
+sysfsutils, library interface to sysfs.
+sysklogd
+System logging and kernel message trapping daemons.
+syslinux
+Simple kernel loader which boots from a FAT filesystem
+system-config-date
+A graphical interface for modifying system date and time
+system-config-display
+A graphical interface for configuring the X Window System display
+system-config-language
+A graphical interface for modifying the system language
+system-config-netboot-cmd
+network booting/install configuration utility
+system-config-network
+The GUI of the NEtwork Administration Tool
+system-config-network-tui
+The NEtwork Administration Tool
+system-config-printer-libs
+Common code for the graphical and non-graphical pieces.
+system-config-printer
+A printer administration tool
+system-config-rootpassword
+A graphical interface for modifying the rootpassword
+system-config-securitylevel
+A graphical interface for modifying the system security level
+system-config-securitylevel-tui
+A text interface for modifying the system security level
+system-config-services
+system-config-services is an initscript and xinetd configuration
+system-config-users
+A graphical interface for administering users and groups
+systemtap-runtime
+Instrumentation System Runtime
+systemtap
+Instrumentation System
+SysVinit
+Programs which control basic system processes.
+talk
+Talk client for one-on-one Internet chatting.
+tar
+A GNU file archiving program.
+tcl
+Tcl scripting language development environment
+tclx
+Extensions for Tcl and Tk
+tcpdump
+A network traffic monitoring tool.
+tcp_wrappers
+A security tool which acts as a wrapper for TCP daemons.
+tcsh
+An enhanced version of csh, the C shell.
+telnet
+The client program for the telnet remote login protocol.
+termcap
+The terminal feature database used by certain applications.
+tetex-doc
+The documentation files for the TeX text formatting system.
+tetex-dvips
+A DVI to PostScript converter for the TeX text formatting system.
+tetex-fonts
+The font files for the TeX text formatting system.
+tetex-latex
+The LaTeX front end for the TeX text formatting system.
+tetex
+The TeX text formatting system.
+texinfo
+Tools needed to create Texinfo format documentation files.
+tftp-server
+The server for the Trivial File Transfer Protocol (TFTP).
+time
+A GNU utility for monitoring a program’s use of system resources.
+tk
+Tk graphical toolkit for the Tcl scripting language
+tmpwatch
+A utility for removing files based on when they were last accessed.
+tomcat5-jsp-2.0-api
+Jakarta Tomcat Servlet and JSP implementation classes
+tomcat5-servlet-2.4-api
+Jakarta Tomcat Servlet implementation classes
+traceroute
+Traces the route taken by packets over an IPv4/IPv6 network
+tree
+A utility which displays a tree view of the contents of
+ttmkfdir
+Utility to create fonts.scale files for truetype fonts
+tzdata-java
+Timezone data for Java
+tzdata
+Timezone data
+udev
+A userspace implementation of devfs
+udftools
+Linux UDF Filesystem userspace utilities
+units
+A utility for converting amounts from one unit to another.
+unix2dos
+unix2dos – UNIX to DOS text file format converter
+unzip
+A utility for unpacking zip files.
+urw-fonts
+Free versions of the 35 standard PostScript fonts.
+usbutils
+Linux USB utilities.
+usermode-gtk
+Graphical tools for certain user account management tasks.
+usermode
+Tools for certain user account management tasks.
+util-linux
+A collection of basic system utilities.
+valgrind
+Tool for finding memory management bugs in programs
+vconfig
+Linux 802.1q VLAN configuration utility
+vim-common
+The common files needed by any version of the VIM editor.
+vim-enhanced
+A version of the VIM editor which includes recent enhancements.
+vim-minimal
+A minimal version of the VIM editor.
+vixie-cron
+The Vixie cron daemon for executing specified programs at set
+vnc-server
+A VNC server.
+vte
+A terminal emulator
+wdaemon
+Hotplug helper for Wacom X.org driver
+wget
+A utility for retrieving files using the HTTP or FTP protocols.
+which
+Displays where a particular program in your path is located.
+wireless-tools
+Wireless ethernet configuration tools
+words
+A dictionary of English words for the /usr/share/dict directory.
+wpa_supplicant
+WPA/WPA2/IEEE 802.1X Supplicant
+wvdial
+A heuristic autodialer for PPP connections.
+xalan-j2
+Java XSLT processor
+Xaw3d-devel
+Header files and static libraries for development using Xaw3d.
+Xaw3d
+A version of the MIT Athena widget set for X.
+xinetd
+A secure replacement for inetd.
+xkeyboard-config
+xkeyboard-config alternative xkb data files
+xml-common
+Common XML catalog and DTD files.
+xmlrpc-javadoc
+Javadoc for xmlrpc
+xmlrpc
+Java XML-RPC implementation
+xmlsec1-devel
+Libraries, includes, etc. to develop applications with XML Digital
+xmlsec1
+Library providing support for “XML Signature” and “XML Encryption”
+xorg-x11-apps
+X.Org X11 applications
+xorg-x11-drivers
+X.Org X11 driver installation package
+xorg-x11-drv-acecad
+Xorg X11 acecad input driver
+xorg-x11-drv-aiptek
+Xorg X11 aiptek input driver
+xorg-x11-drv-ast
+Xorg X11 ast video driver
+xorg-x11-drv-ati
+Xorg X11 ati video driver
+xorg-x11-drv-calcomp
+Xorg X11 calcomp input driver
+xorg-x11-drv-cirrus
+Xorg X11 cirrus video driver
+xorg-x11-drv-citron
+Xorg X11 citron input driver
+xorg-x11-drv-digitaledge
+Xorg X11 digitaledge input driver
+xorg-x11-drv-dmc
+Xorg X11 dmc input driver
+xorg-x11-drv-dummy
+Xorg X11 dummy video driver
+xorg-x11-drv-dynapro
+Xorg X11 dynapro input driver
+xorg-x11-drv-elo2300
+Xorg X11 elo2300 input driver
+xorg-x11-drv-elographics
+Xorg X11 elographics input driver
+xorg-x11-drv-evdev
+Xorg X11 evdev input driver
+xorg-x11-drv-fbdev
+Xorg X11 fbdev video driver
+xorg-x11-drv-fpit
+Xorg X11 fpit input driver
+xorg-x11-drv-hyperpen
+Xorg X11 hyperpen input driver
+xorg-x11-drv-i810
+Xorg X11 i810 video driver(s)
+xorg-x11-drv-jamstudio
+Xorg X11 jamstudio input driver
+xorg-x11-drv-joystick
+Xorg X11 joystick input driver
+xorg-x11-drv-keyboard
+Xorg X11 keyboard input driver
+xorg-x11-drv-magellan
+Xorg X11 magellan input driver
+xorg-x11-drv-magictouch
+Xorg X11 magictouch input driver
+xorg-x11-drv-mga
+Xorg X11 mga video driver
+xorg-x11-drv-microtouch
+Xorg X11 microtouch input driver
+xorg-x11-drv-mouse
+Xorg X11 mouse input driver
+xorg-x11-drv-mutouch
+Xorg X11 mutouch input driver
+xorg-x11-drv-nv
+Xorg X11 nv video driver
+xorg-x11-drv-palmax
+Xorg X11 palmax input driver
+xorg-x11-drv-penmount
+Xorg X11 penmount input driver
+xorg-x11-drv-qxl
+Xorg X11 qxl video driver
+xorg-x11-drv-s3
+Xorg X11 s3 video driver
+xorg-x11-drv-s3virge
+Xorg X11 s3virge video driver
+xorg-x11-drv-savage
+Xorg X11 savage video driver
+xorg-x11-drv-siliconmotion
+Xorg X11 siliconmotion video driver
+xorg-x11-drv-sis
+Xorg X11 sis video driver
+xorg-x11-drv-sisusb
+Xorg X11 sisusb video driver
+xorg-x11-drv-spaceorb
+Xorg X11 spaceorb input driver
+xorg-x11-drv-summa
+Xorg X11 summa input driver
+xorg-x11-drv-tdfx
+Xorg X11 tdfx video driver
+xorg-x11-drv-tek4957
+Xorg X11 tek4957 input driver
+xorg-x11-drv-trident
+Xorg X11 trident video driver
+xorg-x11-drv-ur98
+Xorg X11 ur98 input driver
+xorg-x11-drv-vesa
+Xorg X11 vesa video driver
+xorg-x11-drv-vga
+Xorg X11 vga video driver
+xorg-x11-drv-via
+Xorg X11 via video driver
+xorg-x11-drv-vmmouse
+Xorg X11 vmmouse input driver
+xorg-x11-drv-vmware
+Xorg X11 vmware video driver
+xorg-x11-drv-void
+Xorg X11 void input driver
+xorg-x11-drv-voodoo
+Xorg X11 voodoo video driver
+xorg-x11-filesystem
+X.Org X11 filesystem layout
+xorg-x11-fonts-100dpi
+A set of 100dpi resolution fonts for the X Window System.
+xorg-x11-fonts-75dpi
+A set of 75dpi resolution fonts for the X Window System.
+xorg-x11-fonts-base
+Base fonts required by the X Window System.
+xorg-x11-fonts-ISO8859-1-100dpi
+A set of 100dpi ISO-8859-1 fonts for X.
+xorg-x11-fonts-ISO8859-1-75dpi
+A set of 75dpi ISO-8859-1 fonts for X.
+xorg-x11-fonts-ISO8859-2-100dpi
+A set of 100dpi Central European language fonts for X.
+xorg-x11-fonts-misc
+misc bitmap fonts for the X Window System
+xorg-x11-fonts-truetype
+TrueType fonts provided by the X Window System
+xorg-x11-fonts-Type1
+Type1 fonts provided by the X Window System
+xorg-x11-font-utils
+X.Org X11 font utilities
+xorg-x11-proto-devel
+X.Org X11 Protocol headers
+xorg-x11-server-utils
+X.Org X11 X server utilities
+xorg-x11-server-Xnest
+A nested server.
+xorg-x11-server-Xorg
+Xorg X server
+xorg-x11-server-Xvfb
+A X Windows System virtual framebuffer X server.
+xorg-x11-twm
+X.Org X11 twm window manager
+xorg-x11-util-macros
+X.Org X11 Autotools macros
+xorg-x11-utils
+X.Org X11 X client utilities
+xorg-x11-xauth
+X.Org X11 X authority utilities
+xorg-x11-xfs
+X.Org X11 xfs font server
+xorg-x11-xinit
+X.Org X11 X Window System xinit startup scripts
+xorg-x11-xkb-utils
+X.Org X11 xkb utilities
+xorg-x11-xtrans-devel
+X.Org X11 developmental X transport library
+xrestop
+X Resource Monitor
+xsane
+An X Window System front-end for the SANE scanner interface.
+xsri
+X Set Root Image
+xterm
+xterm terminal emulator for the X Window System
+xulrunner-devel
+Development files for Gecko
+xulrunner
+XUL Runtime for Gecko Applications
+yelp
+A system documentation reader from the Gnome project
+ypbind
+The NIS daemon which binds NIS clients to an NIS domain.
+yp-tools
+NIS (or YP) client programs.
+yum-metadata-parser
+A fast metadata parser for yum
+yum-rhn-plugin
+RHN support for yum
+yum-security
+Yum plugin to enable security filters
+yum
+RPM installer/updater
+yum-updatesd
+Update notification daemon
+zenity
+Display dialog boxes from shell scripts
+zip
+A file compression and packaging utility compatible with PKZIP.
+zlib-devel
+Header files and libraries for Zlib development.
+zlib
+The zlib compression and decompression library.
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

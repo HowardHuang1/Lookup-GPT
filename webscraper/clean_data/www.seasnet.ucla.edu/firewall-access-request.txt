@@ -1,0 +1,35 @@
+Firewall Access Request | SEASnet
+Select Page
+Firewall Access Request
+To better preserve our network security/integrity, SEASnet will update our default network security policy from fully “open” to fully “closed” effective February 2020. Your
+wired
+(aka ethernet) connected device will still have normal outbound traffic for connections originating from inside the SEASnet network. However, your device will not be reachable from connections originating outside SEASnet.
+For normal desktop use, there are no steps needed as all operations will function normally. If you are running a server or require a publicly available service, you will need to submit a request to open the corresponding port(s) for the service to communicate properly. For example, if you require the ability to “ssh” into your device, you will need to request TCP port 22 (the default ssh port). For the example of a web server, TCP port 80 and 443 will be required for visitors to view your website.
+Please fill out the form below with the explanation of why your device requires certain port(s) to be publicly available and an explanation of the service(s). Please provide as much information as you can. Also note that it is the requester’s responsibility to understand the specific needs of running the device.
+We will make an allowance for regularly used services for convenient access and better security. After successful login to the
+UCLA Campus VPN
+, the following ports and services will be accessible to almost any device. If the port or service request is listed below, please reconsider submitting a request and use this secure procedure instead. Submitting the request will open up your device and its port(s) to the entire internet. Note that we cannot open port 3389/Windows Remote Desktop to the entire internet due to blocks outside our control.
+Service
+TCP/UDP/Other
+Port #(s)
+SSH
+TCP
+22
+Apple Remote Desktop/Apple Remote Management Services
+TCP/UDP
+3283
+Windows Remote Desktop
+TCP
+3389
+The service is provided free of charge; however, a valid recharge ID will be required to process this request. After we receive all the information needed, you should receive confirmation in 1-2 business days that the request has been reviewed and processed.
+Please note: In the coming weeks, SEASnet will update our network policy to require a annual review and renewal of IP address(es) and open port(s) to preserve SEASnet network security.
+Click Here to Submit a Firewall Access Request
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

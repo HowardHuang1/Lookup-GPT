@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>UCLA Astronomy Division</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+
+    <link rel="stylesheet" href="fonts/ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="fonts/fontawesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="fonts/flaticons/font/flaticon.css">
+    <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
+
+    <!-- Theme Style -->
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    
+    <header role="banner">
+      <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <div class="container">
+          <a class="navbar-brand" href="index.php">UCLA Division of <br /> Astronomy & Astrophysics</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarsExample05">
+            <ul class="navbar-nav ml-auto pl-lg-5 pl-0">
+              <li class="nav-item">
+                <a class="nav-link active" href="index.php">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="research-areas.html">Research</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="academics.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Academics</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="graduate-studies.html">Graduate</a>
+                  <a class="dropdown-item" href="undergraduate-program.html">Undergraduate</a>
+                  <a class="dropdown-item" href="about-our-faculty.html">About our faculty</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="outreach.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Outreach</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="astronomy-live.html">Astronomy Live!</a>
+                  <a class="dropdown-item" href="planetarium.html">UCLA Planetarium</a>
+                  <a class="dropdown-item" href="https://planets.ucla.edu/">iPlex</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="events.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Events</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <!--a class="dropdown-item" href="http://pritha.astro.ucla.edu/~abhimat/astrocoffee/">Astro Coffee</a>-->
+                  <a class="dropdown-item" href="astrophysics-colloquium.html">Astrophysics Colloquium</a>
+                  <a class="dropdown-item" href="tuesday-lunch-talks.html">Tuesday Lunch Talks</a>
+                  <a class="dropdown-item" href="meetings.html">Meetings</a>
+                  <a class="dropdown-item" href="diversity-resources.html">Diversity Events</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="people.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">People</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="faculty.html">Faculty</a>
+                  <a class="dropdown-item" href="researchers.html">Researchers</a>
+                  <a class="dropdown-item" href="lecturers.html">Lecturers</a>
+                  <a class="dropdown-item" href="postdocs.html">Postdocs</a>
+                  <a class="dropdown-item" href="grad-students.html">Graduate Students</a>
+                  <a class="dropdown-item" href="staff.html">Staff</a>
+                  <a class="dropdown-item" href="facilities.html">Facilities</a>
+                  <a class="dropdown-item" href="graduate-program-alumni.html">Graduate Program Alumni</a>
+                  <a class="dropdown-item" href="postdoc-alumni.html">Postdoc Alumni</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="events.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="contact-alice-shapley.html">Contact the Division Chair</a>
+                  <a class="dropdown-item" href="https://www.pa.ucla.edu/graduate-admissions.html">Graduate Student Admissions</a>
+                  <a class="dropdown-item" href="https://www.pa.ucla.edu/undergraduate-program.html">Undergraduate Program</a>
+                  <a class="dropdown-item" href="http://computing.pa.ucla.edu/">Computing and IT Support</a>
+                </div>
+              </li>
+            </ul>
+
+            <!--<ul class="navbar-nav ml-auto">
+              <li class="nav-item cta-btn">
+                <a class="nav-link" href="contact.html">Contact Us</a>
+              </li>
+            </ul>-->
+            
+          </div>
+        </div>
+      </nav>
+    </header>
+    <!-- END header -->    
+    <section class="home-slider-loop-false  inner-page owl-carousel">
+      <div class="slider-item" style="background-image: url('img/whitedwarf-slide-3.jpg');">
+        
+        <div class="container">
+          <div class="row slider-text align-items-center justify-content-center">
+            <div class="col-md-8 text-center col-sm-12 element-animate">
+              <h1>Meetings</h1>
+              <!--<p>May 1, 2019 <span class="mx-3">&bullet;</span> by <a href="#" class="text-white">John Doe</a></p>-->
+              
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+    
+    <div class="section container">
+        <div class="row">
+          <!--<div class="col-lg-4">
+            <p><img src="img/galaxies.jpg" alt="" class="img-fluid"></p>
+            <p class="mb-5"><img src="img/black-hole.jpg" alt="" class="img-fluid"></p>
+          </div>-->
+          <div class="col-lg-12 pl-2 pl-lg-5">
+            <h2>Career Celebration </h2>
+<h3>
+  September 26-27, 2023, UCLA Physics &amp; Astronomy</h3>
+<div>
+<div>
+  &nbsp;</div>
+<div>
+  <a href="celebration.html"><strong>Click this link for the career celebration website</strong></a></div>
+<div>
+  &nbsp;</div>
+<div>
+  <hr />
+            <h2>
+	Keck Science Meeting</h2>
+<h3>
+	September 19-20, 2019, UCLA Physics &amp; Astronomy</h3>
+<div>
+	UCLA Physics &amp; Astronomy and the W.M. Keck Observatory are pleased to announce the 2019 Keck Science Meeting, which will take place at UCLA on Thursday and Friday, September 19-20, 2019. The meeting will bring together Keck users from UCLA, Caltech, the University of California, NASA, the University of Hawaii, Yale University, Northwestern, Notre Dame, Swinburne University and Australian Keck users, and Subaru.</div>
+<div>
+	&nbsp;</div>
+<div>
+	The primary focus of the meeting will be to share exciting science results made possible by Keck Observatory.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<a href="https://conferences.pa.ucla.edu/keck-2019/"><strong>Click this link for the meeting website</strong></a></div>
+<div>
+	&nbsp;</div>
+<div>
+	<hr />
+	<h2>
+		MorrisFest 2019</h2>
+</div>
+<h3>
+	September 5-7, 2019, UCLA Luskin Conference Center</h3>
+<p>Morrisfest 2019 is a celebration of Mark Morris’ academic and scientific career as well as his 2^3 * 3^2 birthday. Please join us for this event at UCLA September 5-7, 2019.</p>
+<p><strong><a href="https://conferences.pa.ucla.edu/morrisfest-2019/">Click this link for the conference website</a></strong></p>
+<hr />
+<h2>
+	NedFest 2017</h2>
+<h3>
+	August 25-25, 2017 at the UCLA Luskin Conference Center</h3>
+<div>
+	Nedfest 2017 is a festschrift in honor of Professor Ned Wright’s 70th birthday and his retirement from UCLA. It will be held on August 25-26, 2017 (Friday and Saturday) at UCLA’s Luskin Conference Center and will feature two days of scientific talks highlighting Ned’s impact on a variety of fields in astrophysics and cosmology and on our scientific careers.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong><a href="https://conferences.pa.ucla.edu/nedfest-2017/index.html">Conference site</a></strong></div>
+<div>
+	<hr />
+	<h2>
+		Keck Science Meeting</h2>
+</div>
+<h3>
+	September 17-18, 2015 at Physics &amp; Astronomy PAB 1-425.</h3>
+<p>UCLA is pleased to host this year's annual meeting of the Keck Observatory user community in the Physics &amp; Astronomy building, room 1-425. The meeting will include two days of both oral and poster presentations from the scientific partners of the Keck Observatory, including Caltech, UC, UH, NASA, TSIP, Yale, Swinburne and WMKO. Participants will share recent, interesting results based on observations conducted with the Keck I and Keck II telescopes on Mauna Kea. A special feature of this meeting will be two sessions on Data Reduction Pipelines. Everyone is invited to attend.</p>
+<p>Official Keck Science Meeting website: <strong><a href="https://conferences.pa.ucla.edu/keck/">https://conferences.pa.ucla.edu/keck/</a></strong></p>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+
+    
+    
+
+    
+            
+              
+          </div>
+          <!-- END slider -->
+          </div>
+        </div>
+      
+    </section> <!-- .section -->
+
+
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md-3 mb-5">
+            <h3>Announcements</h3>
+            <ul class="list-unstyled footer-link">
+              	<li><a href="https://www.pa.ucla.edu/open-positions.html">Open academic positions</a></li>
+              	<li><a href="https://www.pa.ucla.edu/annual-report.html">Annual reports and newsletters</a></li>
+              	<li><a href="http://newsroom.ucla.edu/">UCLA Newsroom</a></li>
+              	<li><a href="http://www.sexualviolence.ucla.edu/">UCLA policies on sexual harassment & violence</a></li>
+              	<li><a href="https://diversity.ucla.edu/">Diversity @ UCLA</li>
+            </ul>
+
+          </div>
+          <div class="col-md-3 mb-5">
+            <div class="mb-5">
+              <h3>Academic Resources</h3>
+              <ul class="list-unstyled footer-link">
+              	<li><a href="https://registrar.ucla.edu/calendars/annual-academic-calendar">Academic calendar</a></li>
+              	<li><a href="https://sa.ucla.edu/ro/public/soc">Schedule of classes</a></li>
+              	<li><a href="https://my.ucla.edu/">MyUCLA</a></li>
+              	<li><a href="http://bruinlearn.ucla.edu/">BruinLearn</a></li>
+              	<li><a href="https://www.lmstransformation.ucla.edu/">LMS Transformation</a></li>
+              	<li><a href="https://ucla.service-now.com/support?id=home">UCLA IT Services</a></li>
+            </ul>
+            </div>
+          </div>
+          <div class="col-md-3 mb-5">
+            <h3>General Resources</h3>
+            <ul class="list-unstyled footer-link">
+              <li><a href="observing-facilities.html">Observing facilities</a></li>
+              <li><a href="http://irlab.astro.ucla.edu/">Infrared Laboratory</a></li>
+              <li><a href="https://www.pa.ucla.edu/financial-services.html">Financial Services</a></li>
+              <li><a href="http://iff.pa.ucla.edu/">Machine Shop</a></li>
+              <li><a href="https://www.pa.ucla.edu/research-store.html">Research Store</a></li>
+              <li><a href="https://webmail.astro.ucla.edu/">Astronomy Zimbra Email</a></li>
+              <li><a href="http://computing.pa.ucla.edu/">Computing & IT Support</li>
+            </ul>
+        </div>
+        <div class="col-md-3 mb-5">
+            <h3>Visiting UCLA</h3>
+            <ul class="list-unstyled footer-link">
+              <li><a href="#">UCLA interactive map</a></li>
+              <li><a href="#">Directions and parking</a></li>
+              <li><a href="#">Planetarium directions</a></li>
+              <li><a href="#">UCLA campus shuttle</a></li>
+              <li><a href="#">Local accommodations</a></li>
+              <li><a href="#">Giving to the Astro Division</a></li>
+            </ul>
+          </div>
+        <div class="row">
+          <div class="col-12 text-md-center text-left">
+            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+        Copyright &copy;<script>document.write(new Date().getFullYear());</script> UCLA Division of Astronomy & Astrophysics, 475 Portola Plaza, Los Angeles, CA 90095-1547
+310-825-3440 | A <a href="https://colorlib.com" target="_blank" >Colorlib</a> template.
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- END footer -->
+    <!-- loader -->
+    <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#cf1d16"/></svg></div>
+
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/magnific-popup-options.js"></script>
+    
+
+    <script src="js/main.js"></script>
+  </body>
+</html>

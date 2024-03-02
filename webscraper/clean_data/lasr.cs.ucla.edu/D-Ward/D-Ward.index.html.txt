@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="Generator" content="Microsoft Word 97">
+  <meta name="Template"
+ content="C:\Program Files\Microsoft Office\Office\html.dot">
+  <meta name="GENERATOR"
+ content="Mozilla/4.79 [en] (X11; U; Linux 2.4.18-3smp i686) [Netscape]">
+  <title>D-WARD Project Home Page</title>
+</head>
+<body
+ style="background-image: url(file:///Users/jjmartin/Desktop/chalk.jpg); color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);"
+ link="#000099" vlink="#990099" alink="#000099">
+<img src="D-Ward_logo.gif" hspace="12" height="126" width="197"
+ align="right">
+<h1 style="text-align: center; background-color: rgb(255, 255, 255);"><font
+ face="Arial"><font color="#800080"><font size="+4">D-WARD</font></font></font></h1>
+<h1
+ style="margin-left: 80px; text-align: left; font-style: italic; background-color: rgb(255, 255, 255);">
+<font face="Arial"><font color="#800080">DDoS Network Attack
+Recognition and Defense</font></font></h1>
+<br>
+&nbsp;&nbsp;&nbsp;
+<big
+ style="font-family: helvetica,arial,sans-serif; font-weight: bold; color: rgb(153, 51, 153);"><big>Project
+Description</big></big><br>
+<br>
+<div style="margin-left: 40px; background-color: rgb(255, 255, 255);"><span
+ style="font-family: helvetica,arial,sans-serif;">Today's routers offer
+a best-effort service: they forward all traffic toward
+destinations, attempting to deliver fast and fair service to all flows.
+Policing, reliability, and rate-control mechanisms are therefore left
+to
+be deployed by higher layers at end hosts. This feature has been
+misused
+in distributed denial-of-service attacks, where many compromised hosts
+simultaneously generate excessive traffic to a victim. The number of
+received
+packets overwhelms the target, consuming its resources and rendering
+its
+services unavailable. Many attempts have been made to design systems
+that
+help identify attacking machines and stop malicious flows. Most of
+these
+systems are located on the target side (either at the victim host or
+somewhere
+in the target network), which facilitates easy detection of the problem
+and possible characterization of the attack signature. However, they
+are
+ineffective in stopping the attack because they require the cooperation
+of upstream routers to push back the attacking flows.&nbsp; Other
+proposed
+systems are located in the network between the attacking machines and
+the
+victim. These identify and throttle attacking flows, autonomously or
+acting
+on a signal from the victim. They require significant changes in core
+routers
+and still do not prevent malicious flows from using network resources.
+</span></div>
+<p
+ style="font-family: helvetica,arial,sans-serif; margin-left: 40px; background-color: rgb(255, 255, 255);">We
+propose a system that is located at the source network router (either
+LAN or border router) that autonomously detects and suppresses DDoS
+flows
+originating at this network. This system observes the outgoing and
+incoming
+traffic and gathers lightweight statistics on the flows, classified by
+destination. These statistics, along with built-in traffic models,
+define
+legitimate traffic patterns. Any discrepancy between observed traffic
+and
+a legitimate traffic pattern for a given destination is considered to
+be
+the signal of a potential DDoS attack. The source router then decides
+to
+throttle all traffic to the suspected target of the attack and at the
+same
+time attempts to separate attacking flows from legitimate flows and
+identify
+the attacking machines. This approach has the benefit of preventing
+malicious
+flows from entering the network and consuming resources. As the part of
+our future work, we will investigate the possibility of also deploying
+this system on the core routers.
+</p>
+<p
+ style="font-family: helvetica,arial,sans-serif; margin-left: 40px; background-color: rgb(255, 255, 255);">D-WARD
+was funded under DARPA contract N66001-01-1-8937. Additionlly, thanks
+to a funds and
+equipment grant from the <a href="http://www.ixaedu.com">Intel
+Corporation</a>, we had an opportunity to use Intel's IXP equipment to
+combat DDoS attacks in routers close to attack sources.
+</p>
+<p
+ style="color: rgb(153, 51, 153); font-family: helvetica,arial,sans-serif; background-color: rgb(255, 255, 255);"><b><font
+ size="+2">&nbsp;&nbsp; Project Members</font></b>
+</p>
+<p
+ style="font-family: helvetica,arial,sans-serif; margin-left: 40px; background-color: rgb(255, 255, 255);"><a
+ href="http://www.eecis.udel.edu/%7Esunshine/">J</a><a
+ href="http://www.eecis.udel.edu/%7Esunshine/">elena Mirkovic</a>:&nbsp;&nbsp;&nbsp;
+Former graduate student, now a faculty member at the University of
+Delaware <br>
+<a href="http://www.lasr.cs.ucla.edu/reiher.new/index2.html">Peter
+Reiher</a>: &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Principal
+Investigator
+<br>
+Greg Prier:&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+Former graduate student.&nbsp; Now
+with Microsoft<br>
+Scott Michel:&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Former
+graduate
+student.&nbsp; Now with The Aerospace Corp.
+<br>
+<a href="http://www.cs.uoregon.edu/%7Elijun">Jun Li</a>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
+Former graduate student, now a faculty member at University of Oregon
+</p>
+<p
+ style="color: rgb(153, 51, 153); font-family: helvetica,arial,sans-serif; background-color: rgb(255, 255, 255);"><b><font
+ size="+2">&nbsp;&nbsp; Source Code Release</font></b><br>
+</p>
+<div style="margin-left: 40px; background-color: rgb(255, 255, 255);"><a
+ href="http://www.lasr.cs.ucla.edu/d-ward/dward.tgz">dward.tgz</a><br>
+If you are runniing D-WARD or have any questions, we would like to
+know.&nbsp; See contact information below.<br>
+</div>
+<p
+ style="color: rgb(153, 51, 153); font-family: helvetica,arial,sans-serif; background-color: rgb(255, 255, 255);"><b><font
+ size="+2">&nbsp;&nbsp; Publications</font></b>
+</p>
+<ul style="font-family: helvetica,arial,sans-serif;">
+  <li style="background-color: rgb(255, 255, 255);">J. Mirkovic, <a
+ href="http://www.cis.udel.edu/%7Esunshine/publications/dward-thesis.pdf">D-WARD:
+Source-End
+Defense Against Distributed Denial-of-Service Attacks</a>, <i>Ph.D.
+Thesis</i> </li>
+  <li style="background-color: rgb(255, 255, 255);">J. Mirkovic, G.
+Prier and P. Reiher, <a href="dward.pdf">Attacking
+DDoS at the Source</a>, <i>Proceedings of ICNP 2002</i>, pp. 312-321,
+Paris, France, November 2002. </li>
+  <li style="background-color: rgb(255, 255, 255);"> <a
+ href="../../ddos/icnp_pres.htm">Attacking DDoS at the Source
+-
+Presentation at ICNP 2002</a></li>
+  <li style="background-color: rgb(255, 255, 255);"> <a
+ href="../../ddos/ucla_tech_report_020018.pdf">A Taxonomy of
+DDoS
+Attacks
+and DDoS Defense Mechanisms - UCLA CSD Technical Report no. 020018</a> </li>
+  <li style="background-color: rgb(255, 255, 255);"> <a
+ href="../../ddos/prospectus.pdf">PhD Proposal "D-WARD: DDoS
+Network
+Attack Recognition and Defense"</a></li>
+  <li style="background-color: rgb(255, 255, 255);"> <a
+ href="../../ddos/qual/index.htm">Presentation for PhD
+Proposal</a></li>
+  <li style="background-color: rgb(255, 255, 255);"> <a
+ href="../../ddos/usenix_ddos/index.htm">Source Router
+Approach
+to DDoS
+Defense - Presentation for Usenix Security Symposium 2001 Work In
+Progress
+Session</a></li>
+  <li style="background-color: rgb(255, 255, 255);"> <a
+ href="../../ddos/ucla_tech_report_010042.pdf">Source Router
+Approach
+to DDoS Defense - UCLA CSD Technical Report no. 010042</a></li>
+  <li style="background-color: rgb(255, 255, 255);">See also the <a
+ href="http://www.lasr.cs.ucla.edu/defcom/">D-WARD</a>
+related project publications. </li>
+</ul>
+&nbsp;&nbsp;&nbsp;
+<b
+ style="color: rgb(153, 51, 153); font-family: helvetica,arial,sans-serif;"><font
+ size="+2">Traces</font></b>
+<br>
+<div style="margin-left: 40px; background-color: rgb(255, 255, 255);"><a
+ href="../../ddos/traces">Sanitized
+UCLA
+CSD traffic traces</a></div>
+<ul style="font-family: helvetica,arial,sans-serif;">
+</ul>
+&nbsp;&nbsp;&nbsp;
+<b
+ style="font-family: helvetica,arial,sans-serif; color: rgb(153, 51, 153);"><font
+ size="+2">Contact</font></b>
+<div style="margin-left: 40px; background-color: rgb(255, 255, 255);"><span
+ style="font-family: helvetica,arial,sans-serif;">If you have any
+questions or suggestions, do not hesitate to </span><a
+ href="mailto:http://www.eecis.udel.edu/%7Esunshine"
+ style="font-family: helvetica,arial,sans-serif;">contact
+us.</a></div>
+<p><br>
+&nbsp;
+</p>
+</body>
+</html>

@@ -1,0 +1,60 @@
+Detecting Problems | SEASnet
+Select Page
+Detecting Problems
+Knowing what is happening on the network and connected devices allows us to have a proactive posture to security.  This can be organized as Vulnerability Management and Endpoint Protection.
+Vulnerability Detection and Management
+Vulnerability management is a practice designed to proactively prevent the exploitation of vulnerabilities that exist within an organization’s information systems and networks.  Discovery of the vulnerabilities can come from a variety of activities such as vendor announcements, third-party reporting, and ongoing vulnerability scanning.
+Campus IT Security has industry standard tools to scan the UCLA environment for n
+ew devices, vulnerabilities, and compliance with configuration baselines.  SEASnet is working with Campus IT Security to implement and utilize the tools to reduce our risk.
+Required User Action:
+In order for the Campus’ Qualys vulnerability scanning tool to work well and reduce incorrect or incomplete data, one of the follow actions is required on your local device:
+On a device’s firewall, allow the following list of vulnerability scanners to have full IP connectivity to your device(s) and networks: 128.97.10.100, 128.97.25.0/24, 169.232.194.80/30, 169.232.234.101, and 164.67.134.55
+Install a local program to perform the scan.  The local program is call a Cloud Agent.  Please
+contact us
+to obtain the appropriate Cloud Agent for your Operating System.
+Setup an account on the local machine for the scanning system to authenticate and scan your system.  This is called
+Authenticated Scans
+.  Please
+contact us
+to Setup Authenticated Scan for your device.
+Assets classified
+as Protection Level 3 or 4, or Availability Level 4, must be scanned using authenticated scans or using a Cloud Agent
+.  We recommend using a Cloud Agent.
+Once the scan is complete, any vulnerability found is prioritized based on the
+Common Vulnerability Scoring System (CVSS)
+.  These are numerical values 0-10.  To simplify things, we clump the CVSS values and re-ranked them as (1) None, (2) Low, (3) Medium, (4) Critical, and (5) Urgent.  We require (3) Medium, (4) Critical, and (5) Urgent risk items to be addressed within the following time frames:
+Severity
+Response Time
+(5) Urgent
+14 Days
+(4) Critical
+30 Days
+(3) Medium
+90 Days
+Failure to address vulnerabilities within the Response Time will result in the device being blocked from the network.
+Should we see or get notified of malicious activity before the time is up, we will preemptively block the device to protect the network.
+Endpoint Detection and Protection
+Devices connected to the network are called endpoints.  There is software that is used to help protect endpoints (similar to and better than anti-malware programs) and report when incidents occur.  For University-owned devices, contact SEASnet’s
+Help Desk
+for information on installing the
+required
+FireEye Endpoint Security (FES) program.
+For personally owned devices, there is no endpoint detection and protection requirement.  FES is not available for personally owned devices.  However, as a part of minimum security requirements, there still needs to be an active anti-malware program running.  There are a number of freely available antivirus products on the market for your use.  Please check and use one that works for you.  Some of them are:
+Sophos Home Edition
+AVG Antivirus Free
+Avast Free Antivirus
+Bitdefender Antivirus Free Edition
+Microsoft Safety Scanner
+Microsoft Defender Antivirus in Windows
+Note that vendors will have different variants including paid versions that include other functionality.  It is up to you to obtain and use an up to date anti-malware program to be in compliance with standards.
+For one-time scans, you can use:
+Microsoft Defender Offline
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

@@ -1,0 +1,687 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Discover the academic pathways at UCLA&#039;s Center for Prehospital Care. Seamlessly earn college credit through West Los Angeles College (WLAC) for courses like Emergency Medical Technician and Paramedic Program. Our process ensures a smooth transition, allowing you to become a California Community College student and leverage your UCLA transcript. Explore Continuing Education" />
+<meta name="abstract" content="Elevate your education with UCLA&#039;s Center for Prehospital Care – your gateway to academic excellence and professional growth. Explore opportunities for college credit through West Los Angeles College (WLAC) and Continuing Education Units (CEUs). Uncover the seamless process of earning academic credits with WLAC for courses like Emergency Medical Technician and Paramedic Program. Delve into the world of CEUs, approved by California EMS and the Board of Registered Nursing, offering enhancement for your career. Your journey to academic recognition and continuous learning begins here." />
+<meta name="keywords" content="College Credit, CEUs, Academic Credit, West Los Angeles College, WLAC, UCLA CPC Courses, California Community College, Continuing Education Units, CE Provider, Emergency Medical Technician, Paramedic Program, Prior Learning, Transcript Request, California EMS, Registered Nursing Board, ACLS CE Hours, PALS CE Hours, BLS CE, eCard, Online Course, CME Credits, Heart.org." />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.cpc.mednet.ucla.edu/services/college-credit" />
+<link rel="shortlink" href="https://www.cpc.mednet.ucla.edu/node/65" />
+<meta property="og:site_name" content="UCLA CPC" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.cpc.mednet.ucla.edu/services/college-credit" />
+<meta property="og:title" content="College Credit &amp; CEUs" />
+<meta property="og:description" content="Enrollment for College Credit Students may eligible to earn academic credit after the successful completion of the UCLA courses below at West Los Angeles College (WLAC). For the most current guidelines, student eligibility, documentation required and process, please visit WLAC&#039;s Credit for Prior Learning page.  UCLA CPC Course  Corresponding WLAC Course No." />
+<meta property="og:updated_time" content="2023-11-13T14:36:48-08:00" />
+<meta property="article:published_time" content="2014-10-15T16:29:35-07:00" />
+<meta property="article:modified_time" content="2023-11-13T14:36:48-08:00" />
+  <title>College Credit & CEUs | UCLA CPC</title>
+  <style>
+@import url("https://www.cpc.mednet.ucla.edu/modules/system/system.base.css?s8lm5r");
+</style>
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/modules/field/theme/field.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/filebrowser/css/filebrowser_style.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/views/css/views.css?s8lm5r");
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ckeditor/css/ckeditor.css?s8lm5r");
+</style>
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/ctools/css/ctools.css?s8lm5r");
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.css?s8lm5r" media="all" />
+<style>
+@import url("https://www.cpc.mednet.ucla.edu/sites/all/themes/cpc_bootstrap/css/style.css?s8lm5r");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_YndZxdyT8-8LUpZC5MssOCg5j7KN4UJGOzCX7A0hGKI.js"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/all/modules/contrib/popup/popup.js?s8lm5r"></script>
+<script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_sGFJ0aln9SHwpHdKSzoE8Cdcd6RIMEIfIGrifGaUeBw.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cpc_bootstrap","theme_token":"Ij2CL2xoDnD4e-OMMMbMyLgP0c2ctOfxooGvWPdxJRY","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"https:\/\/code.jquery.com\/jquery-3.7.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/contrib\/popup\/popup.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/cpc_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/cpc_bootstrap\/cpc_js.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/filebrowser\/css\/filebrowser_style.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/popup\/popup.css":1,"sites\/all\/themes\/cpc_bootstrap\/css\/style.css":1}},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":250,"delay":0},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+      </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-65 node-type-cpc-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+
+<style>
+.navbar-default {
+    background-color: #000000;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ffb300;
+  background-color: transparent;
+}
+.login-header, .login-header a
+	{ color: white; }
+.login-header a:hover, .login-header a:active, .login-header a:visited
+	{ color: #ffffff; }
+.msg-button, .msg-button a
+	{ color: white; }
+.msg-button a:hover, .msg-button a:active, .msg-button a:visited
+	{ color: #ffffff; }
+.hp_quicklinks {
+	color: #00a5e5;
+	}
+.hp_quicklinks a, .hp_quicklinks a:hover, .hp_quicklinks a:active, .hp_quicklinks a:visited {
+	color: #ffb300;
+}
+.row div.featureslot {
+	padding:2em;
+}
+.node-cpc-page div.content {
+  overflow: visible;
+}
+@media (max-width: 768px) {
+  .row div.featureslot {
+	padding-top:1em;
+	padding-bottom:1em;
+  }
+}
+</style>
+<header id="navbar" role="banner">
+	<div class="container containerlogin">
+		<div class="row" style="margin-top:0px; margin-bottom:0px; background-color: #666666;">
+			<div class="login-header pull-right" style="display: inline; background-color: #00a5e5; padding:10px;">
+				<!-- AJAX Replaces here	-->
+				[ Login / Register ] <span class="glyphicon glyphicon-shopping-cart"></span> 0  items in cart
+			</div>
+			<div class="pull-left hp_quicklinks" style="display: inline; padding:10px;"><p>
+	&nbsp; &nbsp;</p>
+</div>
+		</div>
+	</div>
+  <div class="containernavbar container navbar-default">
+    <div class="navbar-header">
+      				<a class="logo navbar-btn pull-left" href="/" title="Home">
+					<img src="https://www.cpc.mednet.ucla.edu/sites/default/files/images/cpc_logo-323x32.png" alt="Home" id="logo" class="img-responsive" />
+				</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first expanded dropdown"><a href="/cpc/course-listings" title="Our Courses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Courses <span class="caret"></span></a><ul class="dropdown-menu"><li class="first collapsed"><a href="/emt-courses">EMT</a></li>
+<li class="collapsed"><a href="/paramedic-courses">Paramedic</a></li>
+<li class="leaf"><a href="/content/licensed-phlebotomist-course">Licensed Phlebotomist</a></li>
+<li class="expanded"><a href="/aha-courses">BLS, ACLS &amp; PALS</a></li>
+<li class="expanded"><a href="/cpr-first-aid-courses">CPR &amp; First Aid</a></li>
+<li class="last collapsed"><a href="/trauma-courses">Trauma &amp; NAEMT Courses</a></li>
+</ul></li>
+<li class="expanded active-trail dropdown"><a href="/students" class="active-trail dropdown-toggle" data-target="#" data-toggle="dropdown">Students <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/services/payment-methods">Payment Methods</a></li>
+<li class="leaf"><a href="/services/payment-plan">Payment Plan</a></li>
+<li class="leaf"><a href="/services/refunds-transfers">Refunds &amp; Transfers</a></li>
+<li class="leaf"><a href="/services/transcripts">Transcripts</a></li>
+<li class="leaf"><a href="/services/financial-aid">Scholarships</a></li>
+<li class="leaf"><a href="/veterans">Veteran&#039;s Assistance Benefits</a></li>
+<li class="leaf"><a href="/services/students-with-disabilities">Educational Accommodations</a></li>
+<li class="last leaf active-trail active"><a href="/services/college-credit" class="active-trail active">College Credit &amp; CEUs</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/services" title="Services for agencies, hospitals, and businesses" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/fdqi" title="node/572">Fire Department Quality Improvement</a></li>
+<li class="last leaf"><a href="/international">International</a></li>
+</ul></li>
+<li class="last expanded dropdown"><a href="/content/about-us" data-target="#" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/about/contact">Contact Us</a></li>
+<li class="leaf"><a href="/giving">Giving</a></li>
+<li class="leaf"><a href="/content/ucla-center-prehospital-care-strategic-plan">Strategic Plan</a></li>
+<li class="leaf"><a href="/about/leadership">Leadership</a></li>
+<li class="leaf"><a href="/diversity-resources">Equity, Diversity &amp; Inclusion</a></li>
+<li class="leaf"><a href="/about/history">Our History</a></li>
+<li class="leaf"><a href="/about/employment">Jobs at the Center</a></li>
+<li class="last leaf"><a href="https://www.uclahealth.org/privacy-practices" title="">Privacy Practices</a></li>
+</ul></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+	
+<!--
+	<div class="container">
+		<ol class="breadcrumb"><li class="first"><a href="/students" class="active-trail">Students</a></li>
+<li class="active last">College Credit &amp; CEUs</li>
+</ol>	</div>
+-->
+	</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    <div class="col-sm-9 xcol-sm-push-3 col-md-float-right">
+            <a id="main-content"></a>
+            <!--
+			        <h1 class="page-header">College Credit &amp; CEUs</h1>
+      			-->
+			<!--------------------->
+							<h1 class="page-header">College Credit &amp; CEUs</h1>
+					<!--–– SECTION HIDDEN UNIVERSAL INFO AREA ––-->
+				<!--------------------->
+
+	                                      		</div>
+		
+          <div class="col-sm-3 xcol-sm-pull-9 col-md-float-left" role="complementary">
+          <div class="region region-sidebar-first">
+    <div id="block-menu-block-6" class="block block-menu-block">
+
+    <h2 class="block-title">Students</h2>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-6 menu-name-main-menu parent-mlid-4771 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-864"><a href="/services/payment-methods">Payment Methods</a></li>
+<li class="leaf menu-mlid-3896"><a href="/services/payment-plan">Payment Plan</a></li>
+<li class="leaf menu-mlid-1473"><a href="/services/refunds-transfers">Refunds &amp; Transfers</a></li>
+<li class="leaf menu-mlid-1475"><a href="/services/transcripts">Transcripts</a></li>
+<li class="leaf menu-mlid-865"><a href="/services/financial-aid">Scholarships</a></li>
+<li class="leaf menu-mlid-1474"><a href="/veterans">Veteran&#039;s Assistance Benefits</a></li>
+<li class="leaf menu-mlid-1478"><a href="/services/students-with-disabilities">Educational Accommodations</a></li>
+<li class="last leaf active-trail active menu-mlid-1479 active"><a href="/services/college-credit" class="active-trail active">College Credit &amp; CEUs</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+      </div>  <!-- /#sidebar-first -->
+    		
+    <div class="col-sm-9 xcol-sm-push-3 col-md-float-right">
+        <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-65" class="node node-cpc-page clearfix" about="/services/college-credit" typeof="sioc:Item foaf:Document">
+
+	<!--
+  	-->
+      <span property="dc:title" content="College Credit &amp; CEUs" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  <div class="content">
+    
+		<!--
+					<h1 class="page-header">College Credit &amp; CEUs</h1>
+				-->
+		
+		<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+          <style type="text/css">table.padded-min td, th {
+   padding: 4px;
+   vertical-align: top;
+}
+table.padded-min {
+   width:100%;
+   border-width:1px;
+   margin-bottom:20px;
+   border-color:#999999;
+}
+</style><h2>
+	Enrollment for College Credit</h2>
+<p>
+	Students may eligible to earn academic credit after the successful completion of the UCLA courses below at West Los Angeles College (WLAC).&nbsp; For the most current guidelines, student eligibility, documentation required and process, please visit <a href="https://www.wlac.edu/Academic-Affairs/Credit-for-Prior-Learning.aspx" target="_blank">WLAC's Credit for Prior Learning page</a>.</p>
+<table border="1" cellpadding="3" cellspacing="0" class="padded-min">
+<tbody>
+<tr style="background-color:#ccedfa;">
+<td>
+<p>
+					<strong>UCLA CPC Course</strong></p>
+</td>
+<td>
+<p>
+					<strong>Corresponding WLAC Course No.</strong></p>
+</td>
+<td>
+<p>
+					<strong>WLAC Course Name</strong></p>
+</td>
+<td>
+<p align="center">
+					<strong>WLAC Units</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+					Basic Life Support CPR</p>
+</td>
+<td>
+<p>
+					Allied Health 21</p>
+</td>
+<td>
+<p>
+					Basic Life Support for the Healthcare Provider</p>
+</td>
+<td>
+<p align="center">
+					.5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+					Emergency Medical Technician</p>
+</td>
+<td>
+<p>
+					Allied Health 52</p>
+</td>
+<td>
+<p>
+					Emergency Medical Training-Basic</p>
+</td>
+<td>
+<p align="center">
+					9.0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+					Paramedic Preparation</p>
+</td>
+<td>
+<p>
+					Allied Health 53</p>
+</td>
+<td>
+<p>
+					Pre-Paramedic</p>
+</td>
+<td>
+<p align="center">
+					3.5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+					Paramedic Program</p>
+</td>
+<td>
+<p>
+					Allied Health 43</p>
+</td>
+<td>
+<p>
+					Anatomy &amp; Physiology for Emergency Health Care Personnel</p>
+</td>
+<td>
+<p align="center">
+					4.0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+					&nbsp;</p>
+</td>
+<td>
+<p>
+					Allied Health 44</p>
+</td>
+<td>
+<p>
+					Introduction to Emergency Medical Services</p>
+</td>
+<td>
+<p align="center">
+					2.0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+					&nbsp;</p>
+</td>
+<td>
+<p>
+					Allied Health 45</p>
+</td>
+<td>
+<p>
+					Patient Assessment &amp; Airway Management</p>
+</td>
+<td>
+<p align="center">
+					2.0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+					&nbsp;</p>
+</td>
+<td>
+<p>
+					Allied Health 46</p>
+</td>
+<td>
+<p>
+					Cardiology Assessment &amp; Medical Emergencies</p>
+</td>
+<td>
+<p align="center">
+					6.0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+					&nbsp;</p>
+</td>
+<td>
+<p>
+					Allied Health 47</p>
+</td>
+<td>
+<p>
+					Emergency Response to Crisis</p>
+</td>
+<td>
+<p align="center">
+					4.0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+					&nbsp;</p>
+</td>
+<td>
+<p>
+					Allied Health 48</p>
+</td>
+<td>
+<p>
+					Medical Emergencies &amp; Pharmacological Interventions</p>
+</td>
+<td>
+<p align="center">
+					5.0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+					&nbsp;</p>
+</td>
+<td>
+<p>
+					Allied Health 49</p>
+</td>
+<td>
+<p>
+					Clinical Internship</p>
+</td>
+<td>
+<p align="center">
+					4.0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+					&nbsp;</p>
+</td>
+<td>
+<p>
+					Allied Health 50</p>
+</td>
+<td>
+<p>
+					Field Internship</p>
+</td>
+<td>
+<p align="center">
+					9.0</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+	The process is briefly summarized:</p>
+<ol>
+<li>
+		You must become a California Community College student for these units to be recorded. Complete <a href="http://www.laccd.edu/Students/opencccapply/applywlac/Pages/default.aspx" target="_blank">WLAC’s online application</a> and make sure you enroll for the current semester.</li>
+</ol>
+<ol>
+<li value="2">
+		Fill out the WLAC request for prior learning form (at <a href="http://www.wlac.edu/Academic-Affairs/Credit-for-Prior-Learning.aspx" target="_blank">WLAC's Credit for Prior Learning page</a>) and follow the instructions on the form.</li>
+</ol>
+<ol>
+<li value="3">
+		Request an official copy of your transcript from UCLA by filling out the <a href="https://www.cpc.mednet.ucla.edu/sites/default/files/attached_files/FAQ%20%26%20Transcript%20Req%20Form%20Final%20030623%20%281%29.pdf">UCLA transcript request form</a> and request the transcript to be sent to WLAC at: <a href="mailto:transcripts@wlac.edu">transcripts@wlac.edu</a>.</li>
+</ol>
+<ol>
+<li value="4">
+		This process will take an average of 6-8 weeks and is subject to approval by WLAC. UCLA is unable to approve or expedite this process or requests.</li>
+</ol>
+<h2>
+	Continuing Education Units (CEUs)</h2>
+<p>
+	The UCLA Center for Prehospital Care is an approved Continuing Education Provider for the California EMS (CEP #19-0307) and the California Board of Registered Nursing (CEP #12416). Continuing education credit is available for most courses. The number of continuing education (CE) hours and objectives for a course are available upon request.</p>
+<p>
+	&nbsp;</p>
+<table border="1" cellpadding="3" cellspacing="0" class="padded-min">
+<tbody>
+<tr style="background-color:#ccedfa;">
+<td>
+<p>
+					<strong>CPC Course</strong></p>
+</td>
+<td>
+<p>
+					<strong>CEU Hours</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+					ACLS Primary</p>
+</td>
+<td>
+<p>
+					4 CE hours (Online CE hours can be claimed on the <a href="https://cpr.heart.org/en/resources/faqs/need-to-claim-your-aha-continuing-education-credits" target="_blank">AHA website with this link</a>)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+					ACLS Recertification</p>
+</td>
+<td>
+<p>
+					7 CE hours</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+					PALS Primary</p>
+</td>
+<td>
+<p>
+					4 CE hours (Online CE hours can be claimed on the <a href="https://cpr.heart.org/en/resources/faqs/need-to-claim-your-aha-continuing-education-credits" target="_blank">AHA website with this link</a>)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+					PALS Recertification</p>
+</td>
+<td>
+<p>
+					7 CE hours</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+					BLS</p>
+</td>
+<td>
+<p>
+					CE can be claimed on the <a href="https://cpr.heart.org/en/resources/faqs/need-to-claim-your-aha-continuing-education-credits">AHA website with this link</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+	We offer CE for ACLS and PALS courses and they will be sent to you when you receive your eCard. We do not offer CE for BLS courses but you can claim your BLS CE on the AHA website with the above link or below instructions:</p>
+<p>
+	<a href="https://cpr.heart.org/en/resources/faqs/need-to-claim-your-aha-continuing-education-credits">AHA CE Instructions Link</a></p>
+<p>
+	If you completed your AHA course online, you can claim your CME/CE credits on the site where you completed the course. CE credits can only be claimed once all components of the online course are complete.</p>
+<ol start="1" type="1">
+<li>
+		Login to&nbsp;<a href="https://elearning.heart.org/">eLearning.Heart.org</a>.</li>
+<li>
+		Once logged in, on the upper right of your screen, select your name drop-down and select ‘Classes'.</li>
+<li>
+		Once on the My Courses page, select the “Completed Courses” tab, and look under the “CME/CE Credits” column. Note: To claim CME/CE, you need to have fully completed the online portion of the course, including the evaluation. Once completed, the course will appear in “Completed Courses.”</li>
+</ol>
+<p>
+	&nbsp;</p>
+    		
+  </div>
+
+    		
+</div>
+  </div>
+</div>
+  </div>
+    </div>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+	
+	<div class="col-sm-3">
+      <div class="region region-footer-left">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="footer-menu footer-menu-left">
+<li>
+		<span style="color:#00a5e5;">Resources</span></li>
+<li>
+		<a href="https://www.cpc.mednet.ucla.edu/pcrf/">PCRF</a></li>
+<li>
+		<a href="/about/contact">Contact</a></li>
+<li>
+		<a href="https://vipcpc1.ad.medctr.ucla.edu/portal">Portal</a></li>
+<li>
+		<a href="https://www.cpc.mednet.ucla.edu/SRRS/Staff/StaffMain.aspx">SRRS Staff Page</a></li>
+<li>
+		<a href="/associates">Associate Resources</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-6">
+      <div class="region region-footer-middle">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="footer-menu footer-menu-center-left">
+<li>
+		<a href="/courses">Courses</a></li>
+<li>
+		<a href="/emt">EMT</a></li>
+<li>
+		<a href="/paramedic">Paramedic</a></li>
+<li>
+		<a href="/lifesupport">CPR, ACLS, PALS</a></li>
+<li>
+		<a href="/course/phlebotomy">Phlebotomy</a></li>
+<li>
+		<a href="/course/phtls">Trauma</a></li>
+</ul>
+<ul class="footer-menu footer-menu-center-center">
+<li>
+		<a href="/students">Students</a></li>
+<li>
+		<a href="/services/payment-methods">Payment Methods</a></li>
+<li>
+		<a href="/services/financial-aid">Financial Aid</a></li>
+<li>
+		<a href="/services/books">Books</a></li>
+<li>
+		<a href="/services/transcripts">Transcripts</a></li>
+</ul>
+<ul class="footer-menu footer-menu-center-right">
+<li>
+		<a href="/about">About Us</a></li>
+<li>
+		<a href="/about/contact">Contact</a></li>
+<li>
+		<a href="/giving">Giving</a></li>
+<li>
+		<a href="/about/leadership">Leadership</a></li>
+<li>
+		<a href="/diversity-resources">Equity, Diversity<br />
+		&amp; Inclusion</a></li>
+<li>
+		<a href="/about/history">Our History</a></li>
+<li>
+		<a href="/about/employment">Jobs at CPC</a></li>
+<li>
+		<a href="https://www.uclahealth.org/privacy-notice">Privacy Practices</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-3">
+      <div class="region region-footer-right">
+    <div id="block-block-4" class="block block-block">
+
+    
+  <div class="content">
+    <div style="width:185px; xmargin:20px auto;">
+	<a href="http://www.facebook.com/uclacpc"><img class="img-responsive" src="/sites/all/themes/cpc_bootstrap/theme_images/facebookIcon-240.png" style="display: inline-block; margin: 5px; max-width:120px;" /></a><!--<img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-FB.png" style="display: inline-block; margin: 5px;" /> <img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-LI.png" style="display: inline-block; margin: 5px;" /><img src="/sites/all/themes/cpc_bootstrap/theme_images/32x32-Circle-50-YT.png" style="display: inline-block; margin: 5px;" /> --> <a href="https://www.instagram.com/uclacpc/" target="_blank"><img src="/sites/default/files/icons/instagram_glyph_color.png" style="display: inline-block; max-height: 40px; max-width: 40px; " /></a></div>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="col-sm-12 footer-bottom">
+		<div style="text-align: center; border-top: 1px solid #777;display:none;">
+		<a href="">Privacy</a> | <a href="">Terms</a>
+		</div>
+	</div>
+</footer>
+  	  <script src="https://www.cpc.mednet.ucla.edu/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=18&cb=596583179" async></script></body>
+</html>

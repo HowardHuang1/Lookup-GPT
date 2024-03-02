@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-45095774-9"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-45095774-9", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path","allow_ad_personalization_signals":false});gtag("config", "G-4W4DXY7BMB", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location","allow_ad_personalization_signals":false});</script>
+<link rel="shortlink" href="https://travel.ucla.edu/" />
+<link rel="canonical" href="https://travel.ucla.edu/" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="apple-mobile-web-app-capable" content="yes" />
+<link rel="icon" href="/themes/custom/siteden_surface/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Home | Travel Services</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_DfIk0kDE_97QqZBJr5TF4iiP6Rt7nG3gWSu-Jh5AKCY.css" />
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_6qoCG4F-iPULZHlrt9b_No8T0K0y-XoDL8ObfOYie8U.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_xy0iCAxfsah3jM-FB2kxWhdbaS4uOp-9RRgy03HeOLA.css" />
+
+    
+  </head>
+  <body class="path-frontpage page-node-type-sf-landing node-1171">
+    <a class="skip-to-main-button" href="#main-content" role="link" aria-label="Skip to main content">Skip to Main Content</a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+    <div class="region region-message" aria-label="message">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+
+<header id="header">
+        <div class="region region-university-header" aria-label="university_header">
+    
+<div class="header-logo">
+  <div class="header-logo__wrap">
+    <a href="https://www.ucla.edu/">
+      <img class="header-logo__image" src="/themes/custom/siteden_surface/assets/images/surface-images/logo-ucla.svg" alt="UCLA Logo" />
+    </a>
+
+        <ul class="breadcrumb breadcrumb--white">
+
+          <li class="breadcrumb__item"><a href="https://www.finance.ucla.edu">Business &amp; Finance Solutions</a></li>
+    
+    </ul>
+      </div>
+</div>
+
+
+  </div>
+
+  
+  <div class="header-wrap">
+      <div class="region region-header" aria-label="header">
+    
+<div id="block-siteden-surface-branding" class="block block-system block-system-branding-block">
+    
+    
+    
+<div class="site-name clearfix">
+    <a href="/" title="Home" rel="home">Travel Services</a>
+</div>
+
+</div>
+
+  </div>
+
+      <div class="region region-navigation header__navbar" id="nav-main">
+    <nav role="navigation" aria-labelledby="block-siteden-surface-main-menu-menu" id="block-siteden-surface-main-menu" class="nav-primary block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-siteden-surface-main-menu-menu">Main navigation</h2>
+  
+
+        
+
+<ul region="navigation" class="nav-primary__list">
+
+      <li>
+    <a href="/air-car-hotel" data-drupal-link-system-path="node/1">Travel</a>
+      </li>
+      <li class="is-expanded has-children">
+    <a href="/T-E-Card" data-drupal-link-system-path="node/211">T&amp;E Card</a>
+          <button class="nav-primary__toggle" aria-label="toggle button to access submenu"></button>
+      <ul region="navigation" class="nav-primary__sublist">
+
+      <li>
+    <a href="/card-cash-withdrawals" data-drupal-link-system-path="node/1280">T&amp;E Card Withdrawals</a>
+      </li>
+
+</ul>
+
+      </li>
+      <li>
+    <a href="/policies" data-drupal-link-system-path="node/541">Policies</a>
+      </li>
+      <li>
+    <a href="/resources" data-drupal-link-system-path="node/921">Resources</a>
+      </li>
+      <li>
+    <a href="/forms" data-drupal-link-system-path="node/951">Forms</a>
+      </li>
+
+</ul>
+
+
+
+  </nav>
+
+<button id="search-button" aria-label="toggle button to access search form" class="search-bar__button">
+  <svg role="img" aria-hidden="true" class="nav-primary__search-icon" width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Search Icon</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+      <g transform="translate(-15.000000, -15.000000)">
+        <g id="Nav-Item">
+          <g transform="translate(12.000000, 12.000000)">
+            <polygon class="Path-polygon" points="0 0 24 0 24 24 0 24"></polygon>
+            <path d="M15.5,14 L14.71,14 L14.43,13.73 C15.41,12.59 16,11.11 16,9.5 C16,5.91 13.09,3 9.5,3 C5.91,3 3,5.91 3,9.5 C3,13.09 5.91,16 9.5,16 C11.11,16 12.59,15.41 13.73,14.43 L14,14.71 L14,15.5 L19,20.49 L20.49,19 L15.5,14 Z M9.5,14 C7.01,14 5,11.99 5,9.5 C5,7.01 7.01,5 9.5,5 C11.99,5 14,7.01 14,9.5 C14,11.99 11.99,14 9.5,14 Z" fill="#00598C" fill-rule="evenodd"></path>
+          </g>
+        </g>
+      </g>
+    </g>
+  </svg>
+</button>
+
+<div id="block-search" role="search" class="search-bar">
+<form region="navigation" class="search-bar__form" action="/search/google" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search the site:</label>
+        <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" placeholder="Search …" required="required" class="search-bar__input form-search" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" class="btn search-bar__submit button js-form-submit form-submit" type="submit" id="edit-submit" value="Search" />
+</div>
+
+</form>
+
+</div>
+
+  </div>
+
+    <div class="hamburger__container">
+
+<button id="primary-ham" class="hamburger" type="button" aria-label="toggle button to access navigation and search" title="navigation and search">
+  <span class="hamburger__box">
+    <span class="hamburger__inner"></span>
+  </span>
+</button>
+
+</div>
+  </div>
+</header>
+
+<main id="main-content" tabindex="-1">
+
+  
+      <div class="layout__container">
+      
+    </div>
+  
+  
+  <div class="layout__container layout--default     ">
+    
+    <div class="layout__content">
+        <div class="region region-content" aria-label="content">
+    
+<div id="block-siteden-surface-content" class="block block-system block-system-main-block panel">
+    
+    
+        
+<article role="article" about="/home" class="node node--type-sf-landing node--view-mode-full">
+
+  
+    
+
+  
+  <div class="node__content">
+    
+      <div class="field field--name-field-sf-content field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">  <div class="paragraph paragraph--type--sf-section paragraph--view-mode--default">
+            <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+        <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><div class="alert text-align-center"><a class="btn btn--primary" href="https://www.travel.ucla.edu/travel-advisory-alerts-entry-exit-requirements-when-planning-travel">Travel Advisory, Alerts, Entry &amp; Exit Requirements When Planning Travel</a></div>
+
+<div class="alert alert--success"><strong>Please check your Concur profile to ensure your first, middle and last name match your government-issued photo ID. If the name in your profile does not match your government-issued photo ID, please update your legal name in UCPath (ucpath.universityofcalifornia.edu). Name updates can take up to 72 hours to show in Concur.  If you need to book a flight before your Concur profile has been updated DO NOT BOOK ONLINE, call the UC Travel Center at (310) 206-2639 or email <a href="mailto:travel@finance.ucla.edu">travel@finance.ucla.edu</a>.</strong></div></div>
+      
+      </div>
+  <div class="option--spacing-bottom--none paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><h2>UCLA Express </h2></div>
+      
+      </div>
+
+    </div>
+  </div>
+
+      </div>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--sf-section paragraph--view-mode--default">
+            <div class="layout layout--twocol-section layout--twocol-section--50-50">
+
+          <div  class="layout__region layout__region--first">
+          <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><article class="align-left media media--type-sf-image-media-type media--view-mode-landscape-4x3"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/sf_landscape_4x3/public/media/images/travel-page-banner.png?h=34e43602&amp;itok=8GylBo3k" width="640" height="480" alt="The New UCLA Express" typeof="foaf:Image" class="image-style-sf-landscape-4x3" /></div>
+      
+  </article></div>
+      
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+          <div class="option--spacing-bottom--none paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><p><a class="btn btn--primary" href="https://www.finance.ucla.edu/express">Learn About Express</a></p>
+
+<h2>Latest Updates</h2></div>
+      
+      </div>
+  <div class="paragraph paragraph--type--sf-accordion paragraph--view-mode--default">
+      
+<div class="sf_accordion">
+  
+    <div class="accordion">
+  <button type="button" aria-label="click button to view/hide content" class="accordion__label">Minor Express System Update</button>
+  <div class="accordion__content" role="region">
+    <div class="text-formatted">In preparation for <a href="https://purchasing.ucla.edu/news/announcing-expansion-concur" target="_blank">Concur Expansion</a> efforts, minor Express system updates were moved to production on March 22, 2023. <br /><br /><a href="https://travel.ucla.edu/news/minor-express-system-update">Read the update announcement</a></div>
+  </div>
+</div>
+
+  
+    <div class="accordion">
+  <button type="button" aria-label="click button to view/hide content" class="accordion__label">Express Best Practices Webinar</button>
+  <div class="accordion__content" role="region">
+    <div class="text-formatted">Whether you're a new or seasoned user, this webinar teaches you tips and tricks you can immediately implement.<br /><br /><a class="btn btn--invert" href="https://www.finance.ucla.edu/express/best-practices-webinar">Access</a></div>
+  </div>
+</div>
+
+  
+    <div class="accordion">
+  <button type="button" aria-label="click button to view/hide content" class="accordion__label">NextGen User Interface</button>
+  <div class="accordion__content" role="region">
+    <div class="text-formatted">On October 1, 2022, SAP Concur released their NextGen user interface (UI) which modernizes the expense reporting experience in the Express system. Interested in learning more? Watch our <a href="https://vimeo.com/752698838" target="_blank">Express Changes webinar</a> or review our updated training materials. </div>
+  </div>
+</div>
+
+  
+    <div class="accordion">
+  <button type="button" aria-label="click button to view/hide content" class="accordion__label">Increase in Meal Rates for Business Travel Meals and Entertainment</button>
+  <div class="accordion__content" role="region">
+    <div class="text-formatted">The maximum per person amounts for the reimbursement of travel and entertainment meal expenses have been revised. <br /><br /><span><span><span><a href="https://travel.ucla.edu/policy-resources/reimbursement-allowances-mileage-meals">2022 Reimbursement Allowances for Mileage &amp; Meals</a><br /><a href="https://ucla.app.box.com/v/New-Meal-Rates-FY2022-FY2023">Read the UCOP announcement</a></span></span></span></div>
+  </div>
+</div>
+
+  
+    <div class="accordion">
+  <button type="button" aria-label="click button to view/hide content" class="accordion__label">Increase in Mileage Rate</button>
+  <div class="accordion__content" role="region">
+    <div class="text-formatted"><span><span><span>In recognition of recent gasoline price increases, the IRS has made a special adjustment to increase the standard mileage rate for the final 6 months of 2022. Effective July 1, 2022, the standard mileage rate for business travel will be 62.5 cents per mile.<br /><br /><a href="https://travel.ucla.edu/policy-resources/reimbursement-allowances-mileage-meals">2022 Reimbursement Allowances for Mileage &amp; Meals</a><br /><a href="https://www.irs.gov/newsroom/irs-increases-mileage-rate-for-remainder-of-2022">Read the IRS announcement</a></span></span></span></div>
+  </div>
+</div>
+
+  
+    <div class="accordion">
+  <button type="button" aria-label="click button to view/hide content" class="accordion__label">Express Email Notifications</button>
+  <div class="accordion__content" role="region">
+    <div class="text-formatted"><p><span><span><span><span><span>Express email notifications and reminders are sent to the email address listed as the </span></span></span><strong><span><span><span>Work Email</span></span></span></strong> <span><span><span>for the employee in the </span></span></span><strong><span><span><span>campus directory</span></span></span></strong><span><span><span>. If your email appears as “</span></span></span><span><span>notavailableinconcur.ucla.edu<span>” in Express or if you want to change your Express email, please contact your </span><strong><span><span>Department Directory Coordinator</span></span></strong><span> to request that they update your </span><strong><span><span>Work Email</span></span></strong><span>. </span> </span></span><span>After, Department Directory Coordinator <strong><span>update</span></strong> your work email in the online directory it will take <strong><span>‘up to 72 hours’ </span></strong>to update in Express</span>.  <span><span><span>More information, including a list of Directory Coordinators can be found in the </span></span></span><a href="http://www.directory.ucla.edu/update.php"><em><span><span>Update Directory Listing</span></span></em></a><em> </em><span><span><span>section of the campus directory.</span></span></span></span></span></p><p><span><span><span><em><span><span><span><span>Please Note:</span></span></span></span></em></span></span></span></p><p><span><span><span><span><span><span>Employees cannot update the Business Email through UCPath self-service, this must be done through the Directory Coordinator. </span></span></span></span></span></span></p><p><span><span><span><span><span><span><span>The field called</span></span></span></span><span><span><span> ‘</span></span></span><span><span><span>E</span></span></span><span><span><span>-</span></span></span><span><span><span>mail</span></span></span><span><span><span>’</span></span></span><span><span><span> in <span>the </span></span></span></span><span><span><span><span>Campus</span></span></span></span><span><span><span> D</span></span></span><span><span><span>irectory </span></span></span><span><span><span><span>is recorded as</span></span></span></span><span><span> <span>the Business Email </span><span><span>next day</span></span> <span>in UCPath.</span></span></span></span></span></span></p><p><span><span><span><span><span><span><span>Email addresses marked as</span></span></span></span> <span><span><span>Campus Email </span></span></span><span><span><span><span>within the</span></span></span></span> <span><span><span>UCPath </span></span></span><span><span><span><span>System</span></span></span></span> <span><span><span>are not used for </span></span></span><span><span><span>the </span></span></span><span><span><span>Express</span></span></span><span><span><span> <span>System</span></span></span></span><span><span><span>.</span></span></span></span></span></span></p><p><span><span><span><span><span><span><span><span>Express emails will be sent from an </span></span></span><strong><span><span><span>@concursolutions.com</span></span></span></strong><span><span><span> domain. Please ensure your spam/junk mail settings are updated to allow these as a safe sender.</span></span></span></span></span></span></span></span></p><p><span><span><span><span><span><em><strong><span><span><span>Notifications</span></span></span></strong></em> <span><span>sent from:<strong>  </strong></span></span><a href="mailto:AutoNotification@concursolutions.com"><span><span>AutoNotification@concursolutions.com</span></span></a></span></span></span></span></span></p><p><span><span><span><span><span><em><strong><span><span><span>Reminders</span></span></span></strong></em> <span><span>sent from:<strong>  </strong></span></span><a href="mailto:EmailReminderService@concursolutions.com"><span><span>EmailReminderService@concursolutions.com</span></span></a></span></span></span></span></span></p><p><span><span><span><span><span><span><span><span>Users can change the email notifications they receive under their </span></span></span><strong><em><span><span><span>Profile Settings &gt; Expense Preferences</span></span></span></em></strong><span><span><span> and/or </span></span></span><strong><em><span><span><span>Request Preferences</span></span></span></em></strong><span><span><span>. There are different email notifications based on whether it is an expense report or a request.</span></span></span></span></span></span></span></span></p><p><span><span><span><span><span><span><span><span>If an employee has given permission for a delegate to receive emails on their behalf, the delegate will be copied on all email notifications and reminders. Users can change their delegate’s email permissions under </span></span></span><strong><em><span><span><span>Profile Settings &gt; Expense Delegates</span></span></span></em></strong><span><span><span>.</span></span></span></span></span></span></span></span></p><p><span><span><span><span><span><span><span><span>Supervisors are copied on certain email reminders; this setting cannot be changed.</span></span></span></span></span></span></span></span><br /><br /><span><span><span><span><span><span><span>Express email notifications and reminders are sent to the email address listed as the </span></span></span><strong><span><span><span>Business Email</span></span></span></strong> <span><span><span>for the employee in UCPath. If your email appears as “</span></span></span><span><span><span>notavailableinconcur.ucla.edu</span></span></span><span><span><span>” in Express, please contact your department HR to request that they update your </span></span></span><strong><span><span><span>Business Email</span></span></span></strong> <span><span><span>in UCPath. Employees cannot update their Business Email through UCPath self-service. <em><span>Note: Campus Email addresses from UCPath are <strong>not</strong> used for Express.</span></em></span></span></span></span></span></span></span></p><p><span><span><span><span><span><span><span>Express emails will be sent from an </span></span></span><strong><span><span><span>@concursolutions.com</span></span></span></strong><span><span><span> domain. Please ensure your spam/junk mail settings are updated to allow these email addresses as safe senders:</span></span></span></span></span></span></span><br /><span><span><span><span><strong><span><span><span>  AutoNotification@concursolutions.com</span></span></span></strong></span></span></span></span><br /><span><span><span><span><strong><span><span><span>  EmailReminderService@concursolutions.com</span></span></span></strong></span></span></span></span></p><p><span><span><span><span><span><span><span>Users can change the email notifications they receive under their </span></span></span><strong><em><span><span><span>Profile Settings &gt; Expense Preferences</span></span></span></em></strong><span><span><span> and/or </span></span></span><strong><em><span><span><span>Request Preferences</span></span></span></em></strong><span><span><span>. There are different email notifications based on whether it is an expense report or a request.</span></span></span></span></span></span></span></p><span><span><span><span>If an employee has given permission for a delegate to receive emails on their behalf, the delegate will be copied on all email notifications. Users can change their delegate’s email permissions under </span></span></span></span><strong><em><span><span><span><span>Profile Settings &gt; Expense Delegates</span></span></span></span></em></strong><span><span><span><span>.</span></span></span></span></div>
+  </div>
+</div>
+
+  </div>
+  </div>
+
+      </div>
+    
+  </div>
+
+      </div>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--sf-section paragraph--view-mode--default">
+            <div class="layout layout--twocol-section layout--twocol-section--33-67">
+
+          <div  class="layout__region layout__region--first">
+          <div class="paragraph paragraph--type--sf-focal-link paragraph--view-mode--default">
+      
+<a href="https://travel.ucla.edu/concur" class="focal-link">
+
+      <div class="focal-link__figure">
+              <span class="material-icons" aria-hidden="true">navigation</span>
+          </div>
+  
+  <div class="focal-link__body">
+    <div class="focal-link__text">Express: Online Booking, Request (Pre-Trip) &amp; Expense</div>
+  </div>
+</a>
+  </div>
+  <div class="paragraph paragraph--type--sf-focal-link paragraph--view-mode--default">
+      
+<a href="https://travel.ucop.edu/connexxus/" class="focal-link">
+
+      <div class="focal-link__figure">
+              <span class="material-icons" aria-hidden="true">map</span>
+          </div>
+  
+  <div class="focal-link__body">
+    <div class="focal-link__text">Connexxus Portal</div>
+  </div>
+</a>
+  </div>
+  <div class="paragraph paragraph--type--sf-focal-link paragraph--view-mode--default">
+      
+<a href="/additional-resources" class="focal-link">
+
+      <div class="focal-link__figure">
+              <span class="material-icons" aria-hidden="true">zoom_in</span>
+          </div>
+  
+  <div class="focal-link__body">
+    <div class="focal-link__text">Additional Resources</div>
+  </div>
+</a>
+  </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+          <div class="paragraph paragraph--type--sf-accordion paragraph--view-mode--default">
+      
+<div class="sf_accordion">
+  
+    <div class="accordion">
+  <button type="button" aria-label="click button to view/hide content" class="accordion__label">Reconciling Company Card Transactions</button>
+  <div class="accordion__content" role="region">
+    <div class="text-formatted"><p><strong>Travel &amp; Entertainment Card</strong></p><p>Use of the Travel &amp; Entertainment (T&amp;E) Card is limited to business travel and event expenses that will be paid directly from the University to US Bank via expense report. The T&amp;E Card should not be used for other types of business expenses and should never be used for personal charges of any kind.</p><p>All T&amp;E Card transactions must now be accounted for in the new Express. A cardholder can no longer use the T&amp;E Card, pay US Bank directly (out of pocket), then remove the transaction like they could in the legacy Express.</p><p>To account for a T&amp;E Card transaction that the cardholder personally paid to the bank, the transaction must be attached to an expense report and assigned to the “Personal Expense” expense type. Selecting Personal Expense indicates that no payment should be made from the University to US Bank. Selecting Personal Expense for a T&amp;E Card transaction does not necessarily mean that the expense was not for business, but it accounts for the transaction without sending a payment to the bank.</p><p>Please note that an expense report cannot be submitted if the only line items on the report are all Personal Expenses (the user will see a red “Action Required” exception message). Personal Expense transactions should be attached to a report in a timely manner, but the report should be held until there are other valid business expenses ready to submit. The Personal Expenses would be combined on the same expense report as the next available business expenses. The trip/event for the next valid business expenses is what the header information (purpose, destination, justification, date range) should be updated to. Be advised that the cardholder (and any delegates who have permission to receive their emails) will continue to receive periodic email reminders until this is resolved by submitting a valid report.</p><p><strong>Direct Billed Airfare</strong></p><p>Airfare and UCTC service fee charges that are paid via direct billing are also now reconciled via Express. Users will see these company card transactions along with their T&amp;E Card transactions when completing an expense report. To account for these direct bill charges, the company card transaction(s) must be added to an expense report and an approved request must be linked. The transactions can be added to the report as soon as they are available, but the report should not be submitted until after completion of the trip. Any out of pocket or T&amp;E Card transactions should included on the same report, to provide a full accounting of the trip or event.</p><p>Please refer to the Quick Reference Guides for detailed Instructions on how to create a report from a request and how to attach company card transactions.</p><p> </p><p><a href="https://ucla.box.com/v/create-report-from-request" target="_blank">Create a Report from a Request QRG</a></p><p><a href="https://ucla.box.com/v/add-uni-card-expense-report" target="_blank">Add University Card Transactions to an Expense Report QRG</a></p><p> </p></div>
+  </div>
+</div>
+
+  
+    <div class="accordion">
+  <button type="button" aria-label="click button to view/hide content" class="accordion__label">Submitting a Request for a Ticket Refund</button>
+  <div class="accordion__content" role="region">
+    <div class="text-formatted"><p>The UC Travel Center (UCTC) will advise you if your ticket may qualify for a refund. Refunds are not guaranteed, and airlines may change their refund policy at any time without notification.</p><p>If your ticket may qualify for a refund, you will need to create a Request to cover the applicable airline and UCTC service fees.</p><p>Specific instructions for how to format a refund request are available here:</p><p><a href="https://ucla.box.com/v/request-for-ticket-refund" target="_blank">Create Request for a Ticket Refund QRG</a></p></div>
+  </div>
+</div>
+
+  
+    <div class="accordion">
+  <button type="button" aria-label="click button to view/hide content" class="accordion__label">Revised Travel Guidelines for Meetings, Meals &amp; Events</button>
+  <div class="accordion__content" role="region">
+    <div class="text-formatted"><p><span><span><span><span>The COVID-19 Response and Recovery Task Force has developed new UCLA protocols for planned gathering as we continue to acclimate back to in-person teaching, learning, living and working. These temporary protocols are effective Monday, October 4, 2021 and planned to be </span><span>in place until Wednesday, December 1, 2021. </span></span></span></span></p><p><span><span><span><span><span><span><strong><span><span>Meetings, Meals, and Events</span></span></strong></span></span></span><br /><br /><span>Generally, food at indoor events and meetings is not permitted, with exceptions for restaurants, dining halls and conference facilities that have other mitigations in place. Vaccination or recent negative test verification is necessary for all indoor and outdoor events. Please see the protocol document for specific details. Although we plan to have these protocols in place until Wednesday, Dec. 1, 2021, UCLA will continue to monitor campus and area case levels, and make changes and adjustments as needed to support the continued safety of our UCLA community and others who attend our events.</span></span></span></span></p><p><span><span><span><span><span><span><span><span><strong><span><span><a href="https://click.bp.e.ucla.edu/?qs=f3c8513ebd23618e197583e96dd8e6668223d13afce821defe0ed973afb3915a646162afa9cab4f32af5f011cc38d3dea637aec038aecf3096258c71e8d142ee"><span>UCLA Indoor/Outdoor Organized Event Temporary Protocols Recommendation (PDF)﻿</span></a></span></span></strong></span></span></span></span></span></span></span></span></p><span><span><span><strong><span><span>Travel</span></span></strong></span></span></span><br /><br /><span><span><span><span>The guidelines for travel <strong><span>remain the same</span></strong> as in the June 7 BruinPost and are as follows:</span></span></span></span><br /><br /><span><span><span><span>UCLA has been following public health guidance with regard to non-essential travel. Following </span></span></span></span><span><span><a href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html?utm_source=BP05544_02&amp;utm_medium=email&amp;utm_campaign=&amp;utm_content=CDC+travel+guidance"><span><span>CDC travel guidance</span></span></a><span><span> changes, LACDPH has also modified their guidance to reflect that COVID-19 vaccines are readily available. Employees who are vaccinated may undertake non-essential travel, while such travel is still discouraged for unvaccinated individuals. UCLA employees must follow the </span></span><a href="http://publichealth.lacounty.gov/media/Coronavirus/traveladvisory.htm?utm_source=BP05544_02&amp;utm_medium=email&amp;utm_campaign=&amp;utm_content=LACDPH+travel+guidelines"><span><span>LACDPH travel guidelines</span></span></a><span><span> and corresponding mitigation measures, including mask wearing for all travelers and for those who are unvaccinated, testing before and after certain types of travel, as well as quarantining after returning from out-of-state travel. Managers and travelers should consider the impact of quarantine requirements at the destination location for work-related travel plans. Please note that travel no longer requires approval from a Dean, Vice Chancellor or Vice Provost, as has been required since last March. </span></span><br /><br /><span><span>If you have questions related to the above guidance, please contact Travel Accounting at </span></span><a href="mailto:travelacct@finance.ucla.edu"><span><span>travelacct@finance.ucla.edu</span></span></a><span><span>.</span></span></span></span></div>
+  </div>
+</div>
+
+  </div>
+  </div>
+  <div class="paragraph paragraph--type--sf-view-embed paragraph--view-mode--default">
+      <div class="sf_view-embed">
+      <h2 class="heading--bar">Recent Articles</h2>
+    
+<div class="field__item field__item-label-hidden">
+  
+    
+      <div class="views-element-container"><div class="view view-sf-articles-recent view-id-sf_articles_recent view-display-id-block_1 js-view-dom-id-083b0c785c11c454e3af250b85339cc4073856e49ecf7666239fa5aac389d55a">
+  
+    
+      
+      <div class="view-content ">
+          <div>
+
+  <article role="article" about="/news/reminder-travel-entertainment-document-retention-policy" class="view-mode--listing">
+  
+  <div class="node-general__info">
+    <div class="node-general__title">
+              <h3><a href="/news/reminder-travel-entertainment-document-retention-policy">REMINDER: Travel &amp; Entertainment Document Retention Policy</a></h3>
+          </div>
+  </div>
+</article>
+
+</div>
+    <div>
+
+  <article role="article" about="/news/sb-447-rescinds-state-funded-travel-prohibition" class="view-mode--listing">
+  
+  <div class="node-general__info">
+    <div class="node-general__title">
+              <h3><a href="/news/sb-447-rescinds-state-funded-travel-prohibition">SB 447 Rescinds State-Funded Travel Prohibition</a></h3>
+          </div>
+  </div>
+</article>
+
+</div>
+    <div>
+
+  <article role="article" about="/news/2022-2023-fiscal-close-procedures-travel-accounting" class="view-mode--listing">
+  
+  <div class="node-general__info">
+    <div class="node-general__title">
+              <h3><a href="/news/2022-2023-fiscal-close-procedures-travel-accounting">2022-2023 Fiscal Close Procedures for Travel Accounting</a></h3>
+          </div>
+  </div>
+</article>
+
+</div>
+    <div>
+
+  <article role="article" about="/news/summer-airline-anticipated-schedule-changes" class="view-mode--listing">
+  
+  <div class="node-general__info">
+    <div class="node-general__title">
+              <h3><a href="/news/summer-airline-anticipated-schedule-changes">Summer Airline Anticipated Schedule Changes</a></h3>
+          </div>
+  </div>
+</article>
+
+</div>
+    <div>
+
+  <article role="article" about="/news/minor-express-system-update" class="view-mode--listing">
+  
+  <div class="node-general__info">
+    <div class="node-general__title">
+              <h3><a href="/news/minor-express-system-update">Minor Express System Update</a></h3>
+          </div>
+  </div>
+</article>
+
+</div>
+
+    </div>
+  
+            <div class="view-footer">
+      <a href="/articles/news" class="icon-link icon-link--internal">View all</a>
+    </div>
+    </div>
+</div>
+
+  </div>
+
+</div>
+  </div>
+
+      </div>
+    
+  </div>
+
+      </div>
+</div>
+          </div>
+  
+  </div>
+
+</article>
+
+  </div>
+
+  </div>
+
+    </div>
+
+    
+      </div>
+</main>
+
+
+<div class="footer__dept" aria-label="Department footer" role="contentinfo">
+  <div class="layout__container">
+
+    
+        <div class="region region-footer" aria-label="footer">
+    <div id="block-bbtravelfooterlogo" class="o-media branding">
+      
+        
+              <div class="o-media__figure branding__figure">
+        <a class="link-img" href="/"><img alt="Site logo" src="https://live-ucla-siteden-travel.pantheonsite.io/sites/default/files/2020-10/Uxd_Wht_travel.svg" /></a>
+      </div>
+          </div>
+
+<div id="block-footercontactinfo" class="block block-block-content block-block-content47af05d3-bc52-4e70-a98b-13de95fca05e block-type--sf_basic">
+    
+    
+        
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>10920 Wilshire Blvd., 5th Floor<br />
+Los Angeles, CA 90024-6541<br />
+Mail Code: 143348<br />
+Phone: (310) 206-2639 or (800) 235-UCLA (8252)</p>
+
+<p>CST# 2046415-70</p>
+
+<p><strong><a href="https://www.travel.ucla.edu/travel-services-directory">Travel Services Directory</a></strong></p></div>
+      
+  </div>
+
+  </div>
+
+
+    
+  </div>
+</div>
+<div class="layout__container global-foot" aria-label="Global footer" role="contentinfo">
+  <div class="global-foot__wrapper">
+    <div class="social-links-container">
+      <a class="social-icon" href="https://www.facebook.com/UCLA/"><span class="social-icon--facebook"></span><span class="visuallyhidden">Facebook</span></a>
+      <a href="https://www.instagram.com/ucla/"><span class="social-icon--instagram"></span><span class="visuallyhidden">Instagram</span></a>
+      <a href="https://www.linkedin.com/school/ucla"><span class="social-icon--linkedin"></span><span class="visuallyhidden">Linked</span></a>
+      <a href="https://twitter.com/ucla"><span class="social-icon--twitter"></span><span class="visuallyhidden">Twitter</span></a>
+      <a href="https://www.youtube.com/user/UCLA"><span class="social-icon--youtube"></span><span class="visuallyhidden">Youtube</span></a>
+      <a href="https://www.tiktok.com/@ucla?lang=en"><span class="social-icon--tiktok"></span><span class="visuallyhidden">TikTok</span></a>
+      <a href="https://story.snapchat.com/@uclaofficial"><span class="social-icon--snapchat"></span><span class="visuallyhidden">Snapchat</span></a>
+    </div>
+
+    <div class="global-foot__legal">
+
+      <p class="global-foot__legal--copyright">&copy; 2024 Regents of the <a class="copy__link-a dark" href="http://www.universityofcalifornia.edu/">University of California</a></p>
+
+      <ul class="global-foot__legal--list">
+        <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="https://www.bso.ucla.edu/">Emergency</a></li>
+        <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="https://www.ucla.edu/accessibility">Accessibility</a></li>
+        <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="https://www.ucla.edu/terms-of-use/">Privacy &amp; Terms of Use</a></li>
+      </ul>
+
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/1171","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-45095774-9","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"googleCSE":{"cx":"006855704751877854816:ynn9etu4utk","language":"en","resultsWidth":0,"domain":"travel.ucla.edu","isDefault":true},"ajaxTrustedUrl":{"\/search\/google":true},"user":{"uid":0,"permissionsHash":"0c71b9b962220f5593aa722c9ad8cd95b14d7662e9c8df8daebf6d10fec82043"}}</script>
+<script src="/sites/default/files/js/js_rvyOu7XN1O3RawBsYFlEZGwayZdIr_B60zVu-OM8tVI.js"></script>
+
+  </body>
+</html>

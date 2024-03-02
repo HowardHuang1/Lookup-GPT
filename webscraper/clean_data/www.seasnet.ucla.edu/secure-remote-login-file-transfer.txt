@@ -1,0 +1,33 @@
+Secure Remote Login and File Transfer | SEASnet
+Select Page
+Secure Remote Login and File Transfer
+For secure remote login and file transfer, use SSH
+*
+and SFTP
+*
+(instead of Telnet and FTP).
+To run graphical application on a remote unix server, see X11 Forwarding.
+Windows Clients
+PuTTY SSH
+How to install
+How to use
+WinSCP freeware SFTP and SCP client for Windows
+X11 Forwarding
+Xming X Server for Windows
+Unix Clients
+Example: how to use SSH
+Example: how to use SFTP
+Macintosh Clients
+Note that Mac OS X includes OpenSSH by default.
+OpenSSH Mac OS clients
+*Note: All SSH and SFTP connections require that you be on the campus network. If you are trying to connect from off campus, first establish a VPN session:
+UCLA VPN
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

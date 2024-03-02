@@ -1,0 +1,1426 @@
+
+
+
+<!DOCTYPE html PUBLIC
+  "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us"
+      lang="en-us">
+
+  
+    
+    
+    
+    
+    
+    
+
+  
+
+  <head>
+
+    <meta http-equiv="Content-Type"
+          content="text/html;charset=utf-8" />
+
+    <meta name="generator" content="Plone - http://plone.org" />
+
+    <!-- Internet Explorer fix, forces IE8 into newest possible rendering
+         engine even if it's on an intranet. This has to be defined before any
+         script/style tags. -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+
+    
+      <base href="https://www.civilrightsproject.ucla.edu/front-page" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    <link rel="kss-base-url" href="https://www.civilrightsproject.ucla.edu/front-page" />
+
+  
+  
+    
+    
+      <script type="text/javascript"
+              src="https://www.civilrightsproject.ucla.edu/portal_javascripts/CRP%20Theme/jquery-cachekey7329.js">
+      </script>
+    
+    
+    
+  
+
+  
+    
+    
+      <script type="text/javascript"
+              src="https://www.civilrightsproject.ucla.edu/portal_javascripts/CRP%20Theme/resourcebase2-dom-fp-cachekey2944.js">
+      </script>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <script type="text/javascript">
+/* Merged Plone Javascript file
+ * This file is dynamically assembled from separate parts.
+ * Some of these parts have 3rd party licenses or copyright information attached
+ * Such information is valid for that section,
+ * not for the entire composite file
+ * originating files are separated by - filename.js -
+ */
+
+/* - jquery.corners.js - */
+// https://www.civilrightsproject.ucla.edu/portal_javascripts/jquery.corners.js?original=1
+jQuery.fn.corners=function(options){var doneClass='rounded_by_jQuery_corners';var settings=parseOptions(options);var webkitAvailable=false;try{webkitAvailable=(document.body.style.WebkitBorderRadius!==undefined);var versionIndex=navigator.userAgent.indexOf('Chrome');if(versionIndex>=0) webkitAvailable=false} catch(err){}
+var mozillaAvailable=false;try{mozillaAvailable=(document.body.style.MozBorderRadius!==undefined);var versionIndex=navigator.userAgent.indexOf('Firefox');if(versionIndex>=0&&parseInt(navigator.userAgent.substring(versionIndex+8))<3) mozillaAvailable=false} catch(err){}
+return this.each(function(i,e){$e=jQuery(e);if($e.hasClass(doneClass)) return;$e.addClass(doneClass);var classScan=/{(.*)}/.exec(e.className);var s=classScan?parseOptions(classScan[1],settings):settings;var nodeName=e.nodeName.toLowerCase();if(nodeName=='input') e=changeInput(e);if(webkitAvailable&&s.webkit) roundWebkit(e,s);else if(mozillaAvailable&&s.mozilla&&(s.sizex==s.sizey)) roundMozilla(e,s);else{var bgColor=backgroundColor(e.parentNode);var fgColor=backgroundColor(e);switch(nodeName){case 'a':case 'input':roundLink(e,s,bgColor,fgColor);break;default:roundDiv(e,s,bgColor,fgColor);break}}});
+function roundWebkit(e,s){var radius=''+s.sizex+'px '+s.sizey+'px';var $e=jQuery(e);if(s.tl) $e.css('WebkitBorderTopLeftRadius',radius);if(s.tr) $e.css('WebkitBorderTopRightRadius',radius);if(s.bl) $e.css('WebkitBorderBottomLeftRadius',radius);if(s.br) $e.css('WebkitBorderBottomRightRadius',radius)}
+function roundMozilla(e,s){var radius=''+s.sizex+'px';var $e=jQuery(e);if(s.tl) $e.css('-moz-border-radius-topleft',radius);if(s.tr) $e.css('-moz-border-radius-topright',radius);if(s.bl) $e.css('-moz-border-radius-bottomleft',radius);if(s.br) $e.css('-moz-border-radius-bottomright',radius)}
+function roundLink(e,s,bgColor,fgColor){var table=tableElement("table");var tbody=tableElement("tbody");table.appendChild(tbody);var tr1=tableElement("tr");var td1=tableElement("td","top");tr1.appendChild(td1);var tr2=tableElement("tr");var td2=relocateContent(e,s,tableElement("td"));tr2.appendChild(td2);var tr3=tableElement("tr");var td3=tableElement("td","bottom");tr3.appendChild(td3);if(s.tl||s.tr){tbody.appendChild(tr1);addCorners(td1,s,bgColor,fgColor,true)}
+tbody.appendChild(tr2);if(s.bl||s.br){tbody.appendChild(tr3);addCorners(td3,s,bgColor,fgColor,false)}
+e.appendChild(table);if(jQuery.browser.msie) table.onclick=ieLinkBypass;e.style.overflow='hidden'}
+function ieLinkBypass(){if(!this.parentNode.onclick) this.parentNode.click()}
+function changeInput(e){var a1=document.createElement("a");a1.id=e.id;a1.className=e.className;if(e.onclick){a1.href='javascript:'
+a1.onclick=e.onclick} else{jQuery(e).parent('form').each(function(){a1.href=this.action});a1.onclick=submitForm}
+var a2=document.createTextNode(e.value);a1.appendChild(a2);e.parentNode.replaceChild(a1,e);return a1}
+function submitForm(){jQuery(this).parent('form').each(function(){this.submit()});return false}
+function roundDiv(e,s,bgColor,fgColor){var div=relocateContent(e,s,document.createElement('div'));e.appendChild(div);if(s.tl||s.tr) addCorners(e,s,bgColor,fgColor,true);if(s.bl||s.br) addCorners(e,s,bgColor,fgColor,false)}
+function relocateContent(e,s,d){var $e=jQuery(e);var c;while(c=e.firstChild) d.appendChild(c);if(e.style.height){var h=parseInt($e.css('height'));d.style.height=h+'px';h+=parseInt($e.css('padding-top'))+parseInt($e.css('padding-bottom'));e.style.height=h+'px'}
+if(e.style.width){var w=parseInt($e.css('width'));d.style.width=w+'px';w+=parseInt($e.css('padding-left'))+parseInt($e.css('padding-right'));e.style.width=w+'px'}
+d.style.paddingLeft=$e.css('padding-left');d.style.paddingRight=$e.css('padding-right');if(s.tl||s.tr){d.style.paddingTop=adjustedPadding(e,s,$e.css('padding-top'),true)} else{d.style.paddingTop=$e.css('padding-top')}
+if(s.bl||s.br){d.style.paddingBottom=adjustedPadding(e,s,$e.css('padding-bottom'),false)} else{d.style.paddingBottom=$e.css('padding-bottom')}
+e.style.padding=0;return d}
+function adjustedPadding(e,s,pad,top){if(pad.indexOf("px")<0){try{console.error('%s padding not in pixels',(top?'top':'bottom'),e)}
+catch(err){}
+pad=s.sizey+'px'}
+pad=parseInt(pad);if(pad-s.sizey<0){try{console.error('%s padding is %ipx for %ipx corner:',(top?'top':'bottom'),pad,s.sizey,e)}
+catch(err){}
+pad=s.sizey}
+return pad-s.sizey+'px'}
+function tableElement(kind,valign){var e=document.createElement(kind)
+e.style.border='none';e.style.borderCollapse='collapse';e.style.borderSpacing=0;e.style.padding=0;e.style.margin=0;if(valign) e.style.verticalAlign=valign;return e}
+function backgroundColor(e){try{var c=jQuery.css(e,"background-color");if(c.match(/^(transparent|rgba\(0,\s*0,\s*0,\s*0\))$/i)&&e.parentNode)
+return backgroundColor(e.parentNode);if(c==null)
+return "#ffffff";if(c.indexOf("rgb")>-1)
+c=rgb2hex(c);if(c.length==4)
+c=hexShort2hex(c);return c} catch(err){return "#ffffff"}}
+function hexShort2hex(c){return '#'+c.substring(1,2)+c.substring(1,2)+c.substring(2,3)+c.substring(2,3)+c.substring(3,4)+c.substring(3,4)}
+function rgb2hex(c){var x=255;var hex='';var i;var regexp=/([0-9]+)[, ]+([0-9]+)[, ]+([0-9]+)/;var array=regexp.exec(c);for(i=1;i<4;i++) hex+=('0'+parseInt(array[i]).toString(16)).slice(-2);return '#'+hex}
+function parseOptions(options,settings){var options=options||'';var s={sizex:5,sizey:5,tl:false,tr:false,bl:false,br:false,webkit:true,mozilla:true,transparent:false};if(settings){s.sizex=settings.sizex;s.sizey=settings.sizey;s.webkit=settings.webkit;s.transparent=settings.transparent;s.mozilla=settings.mozilla}
+var sizex_set=false;var corner_set=false;jQuery.each(options.split(' '), function(idx,option){option=option.toLowerCase();var i=parseInt(option);if(i>0&&option==i+'px'){s.sizey=i;if(!sizex_set) s.sizex=i;sizex_set=true} else switch(option){case 'no-native':s.webkit=s.mozilla=false;break;case 'webkit':s.webkit=true;break;case 'no-webkit':s.webkit=false;break;case 'mozilla':s.mozilla=true;break;case 'no-mozilla':s.mozilla=false;break;case 'anti-alias':s.transparent=false;break;case 'transparent':s.transparent=true;break;case 'top':corner_set=s.tl=s.tr=true;break;case 'right':corner_set=s.tr=s.br=true;break;case 'bottom':corner_set=s.bl=s.br=true;break;case 'left':corner_set=s.tl=s.bl=true;break;case 'top-left':corner_set=s.tl=true;break;case 'top-right':corner_set=s.tr=true;break;case 'bottom-left':corner_set=s.bl=true;break;case 'bottom-right':corner_set=s.br=true;break}});if(!corner_set){if(!settings){s.tl=s.tr=s.bl=s.br=true} else{s.tl=settings.tl;s.tr=settings.tr;s.bl=settings.bl;s.br=settings.br}}
+return s}
+function alphaBlend(a,b,alpha){var ca=Array(parseInt('0x'+a.substring(1,3)),parseInt('0x'+a.substring(3,5)),parseInt('0x'+a.substring(5,7)));var cb=Array(parseInt('0x'+b.substring(1,3)),parseInt('0x'+b.substring(3,5)),parseInt('0x'+b.substring(5,7)));r='0'+Math.round(ca[0]+(cb[0]-ca[0])*alpha).toString(16);g='0'+Math.round(ca[1]+(cb[1]-ca[1])*alpha).toString(16);b='0'+Math.round(ca[2]+(cb[2]-ca[2])*alpha).toString(16);return '#'+r.substring(r.length-2)+g.substring(g.length-2)+b.substring(b.length-2)}
+function addCorners(e,s,bgColor,fgColor,top){if(s.transparent) addTransparentCorners(e,s,bgColor,top);else addAntiAliasedCorners(e,s,bgColor,fgColor,top)}
+function addAntiAliasedCorners(e,s,bgColor,fgColor,top){var i,j;var d=document.createElement("div");d.style.fontSize='1px';d.style.backgroundColor=bgColor;var lastarc=0;for(i=1;i<=s.sizey;i++){var coverage,arc2,arc3;arc=Math.sqrt(1.0-Math.pow(1.0-i/s.sizey,2)) * s.sizex;var n_bg=s.sizex-Math.ceil(arc);var n_fg=Math.floor(lastarc);var n_aa=s.sizex-n_bg-n_fg;var x=document.createElement("div");var y=d;x.style.margin="0px "+n_bg+"px";x.style.height='1px';x.style.overflow='hidden';for(j=1;j<=n_aa;j++){if(j==1){if(j==n_aa){coverage=((arc+lastarc) *.5)-n_fg}
+else{arc2=Math.sqrt(1.0-Math.pow(1.0-(n_bg+1)/s.sizex,2)) * s.sizey;coverage=(arc2-(s.sizey-i)) *(arc-n_fg-n_aa+1) *.5}}
+else if(j==n_aa){arc2=Math.sqrt(1.0-Math.pow((s.sizex-n_bg-j+1)/s.sizex,2)) * s.sizey;coverage=1.0-(1.0-(arc2-(s.sizey-i))) *(1.0-(lastarc-n_fg)) *.5}
+else{arc3=Math.sqrt(1.0-Math.pow((s.sizex-n_bg-j)/s.sizex,2)) * s.sizey;arc2=Math.sqrt(1.0-Math.pow((s.sizex-n_bg-j+1)/s.sizex,2)) * s.sizey;coverage=((arc2+arc3) *.5)-(s.sizey-i)}
+addCornerDiv(s,x,y,top,alphaBlend(bgColor,fgColor,coverage));y=x;var x=y.cloneNode(false);x.style.margin="0px 1px"}
+addCornerDiv(s,x,y,top,fgColor);lastarc=arc}
+if(top)
+e.insertBefore(d,e.firstChild);else
+e.appendChild(d)}
+function addCornerDiv(s,x,y,top,color){if(top&&!s.tl) x.style.marginLeft=0;if(top&&!s.tr) x.style.marginRight=0;if(!top&&!s.bl) x.style.marginLeft=0;if(!top&&!s.br) x.style.marginRight=0;x.style.backgroundColor=color;if(top)
+y.appendChild(x);else
+y.insertBefore(x,y.firstChild)}
+function addTransparentCorners(e,s,bgColor,top){var d=document.createElement("div");d.style.fontSize='1px';var strip=document.createElement('div');strip.style.overflow='hidden';strip.style.height='1px';strip.style.borderColor=bgColor;strip.style.borderStyle='none solid';var sizex=s.sizex-1;var sizey=s.sizey-1;if(!sizey) sizey=1;for(var i=0;i<s.sizey;i++){var w=sizex-Math.floor(Math.sqrt(1.0-Math.pow(1.0-i/sizey,2)) * sizex);if(i==2&&s.sizex==6&&s.sizey==6) w=2;var x=strip.cloneNode(false);x.style.borderWidth='0 '+w+'px';if(top) x.style.borderWidth='0 '+(s.tr?w:0)+'px 0 '+(s.tl?w:0)+'px';else x.style.borderWidth='0 '+(s.br?w:0)+'px 0 '+(s.bl?w:0)+'px';top?d.appendChild(x):d.insertBefore(x,d.firstChild)}
+if(top)
+e.insertBefore(d,e.firstChild);else
+e.appendChild(d)}}
+
+
+/* - rounded.js - */
+// https://www.civilrightsproject.ucla.edu/portal_javascripts/rounded.js?original=1
+jq(document).ready(function(){jq('.rounded').corners("top");jq('.rounded').corners("top");jq('.rounded-nav').corners("left");jq('.rounded-nav').corners("left");jq('table',jq('#featureTabsContainer .tab')[0]).each(function(){jq('.native').hide()});jq('#featureTabsContainer').show();tab(0)});
+function tab(n){jq('#featureTabsContainer .tab').removeClass('tab_selected');jq(jq('#featureTabsContainer .tab')[n]).addClass('tab_selected');jq('#featureElementsContainer .feature').hide();jq(jq('#featureElementsContainer .feature')[n]).show()}
+</script>
+    
+    
+  
+
+
+  
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/base.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/public.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/columns.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/authoring.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/portlets.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/controlpanel.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="print">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/print.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/deprecated.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/navtree.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/invisibles.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/forms.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/ploneKss.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/++resource++plonetheme.crptheme.stylesheets/main.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="all">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/++resource++ContentWellPortlets.styles/ContentWellPortlets.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="all">@import url(https://www.civilrightsproject.ucla.edu/portal_css/CRP%20Theme/ploneCustom.css);</style>
+    
+    
+    
+  
+
+
+  
+  <link rel="kinetic-stylesheet" type="text/css"
+        href="https://www.civilrightsproject.ucla.edu/portal_kss/CRP%20Theme/at-cachekey4320.kss" />
+
+
+<title>The Civil Rights Project at UCLA</title>
+
+    <!-- IE6 workaround CSS/JS  -->
+    <!--[if lte IE 7]>
+        <style type="text/css" media="all">@import url(https://www.civilrightsproject.ucla.edu/IEFixes.css);</style>
+        
+        <script type="text/javascript"
+                src="https://www.civilrightsproject.ucla.edu/iefixes.js">
+        </script>
+    <![endif]-->
+
+    <meta content="The Civil Rights Project at UCLA"
+          name="description" />
+
+    
+
+    <link rel="shortcut icon" type="image/x-icon"
+          href="https://www.civilrightsproject.ucla.edu/favicon.ico" />
+
+
+
+    <link rel="home"
+          href="https://www.civilrightsproject.ucla.edu"
+          title="Front page" />
+
+    <link rel="contents"
+          href="https://www.civilrightsproject.ucla.edu/sitemap"
+          title="Site Map" />
+
+
+
+
+
+
+    <link rel="search"
+          href="https://www.civilrightsproject.ucla.edu/search_form"
+          title="Search this site" />
+
+
+
+    <!-- Disable IE6 image toolbar -->
+    <meta http-equiv="imagetoolbar" content="no" />
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+  </head>
+
+  <body class="section-front-page template-document_view"
+        dir="ltr">
+    <div id="visual-portal-wrapper">
+
+      <div id="portal-top">
+        
+    
+
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+
+</div>
+
+<div id="portal-header">
+<p class="hiddenStructure">
+  <a accesskey="2"
+     href="https://www.civilrightsproject.ucla.edu/#documentContent">Skip to content.</a> |
+
+  <a accesskey="6"
+     href="https://www.civilrightsproject.ucla.edu/#portlet-navigation-tree">Skip to navigation</a>
+</p>
+
+<div id="portal-searchbox">
+    <form name="searchform"
+          action="https://www.civilrightsproject.ucla.edu/search">
+
+        <label for="searchGadget" class="hiddenStructure">Search Site</label>
+
+        <div class="LSBox">
+        <input name="SearchableText" type="text" size="28"
+               title="Search Site" accesskey="4"
+               class="inputLabel" id="" />
+
+        <input class="searchButton" type="submit" value="" />
+    
+        <div class="searchSection">
+            <input id="searchbox_currentfolder_only"
+                   class="noborder" type="checkbox"
+                   name="path" value="/crp" />
+            <label for="searchbox_currentfolder_only"
+                   style="cursor: pointer">
+                only in current section
+            </label>
+        </div>
+
+        <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div></div>
+        </div>
+    </form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="https://www.civilrightsproject.ucla.edu/search_form"
+           accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+<a id="portal-logo" accesskey="1"
+   href="https://www.civilrightsproject.ucla.edu">
+
+<!--    <img src="logo.jpg" alt=""
+         tal:replace="structure view/logo_tag" /></a>
+
+        <img src="logo.jpg" alt=""
+             tal:condition="not:we_are_home"
+             tal:replace="structure view/logo_tag"/>
+
+        <img src="logo-front.jpg" alt=""
+             tal:condition="we_are_home"
+             tal:replace="structure view/logo_tag"/></a>
+-->
+
+        
+
+        <img src="logo-front.jpg" alt="" /></a>
+
+
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav">
+        <li id="portaltab-index_html" class="selected"><a
+    href="https://www.civilrightsproject.ucla.edu" title="">Home</a></li>
+        <li id="portaltab-news" class="plain"><a
+    href="https://www.civilrightsproject.ucla.edu/news"
+    title="News and Legal Developments related to civil rights issues">News</a></li>
+        <li id="portaltab-events" class="plain"><a
+    href="https://www.civilrightsproject.ucla.edu/events"
+    title="A Collection of Events, including Policy Briefings, Convenings and Conferences">Events</a></li>
+        <li id="portaltab-research" class="plain"><a
+    href="https://www.civilrightsproject.ucla.edu/research"
+    title="Research on key civil rights and equal opportunity policies that have been neglected or overlooked">Research</a></li>
+        <li id="portaltab-legal-developments" class="plain"><a
+    href="https://www.civilrightsproject.ucla.edu/legal-developments"
+    title="Key policy decisions, court cases, and legal memos impacting education and civil rights">Legal Developments</a></li>
+        <li id="portaltab-resources" class="plain"><a
+    href="https://www.civilrightsproject.ucla.edu/resources"
+    title="Tools for civil rights experts, policy advocates, community leaders and parents">Resources</a></li>
+        <li id="portaltab-about-us" class="plain"><a
+    href="https://www.civilrightsproject.ucla.edu/about-us"
+    title="CRP funders, mission, staff and contact information ">About Us</a></li>
+    </ul>
+
+<!-- 
+<script>jq(document).ready( function(){
+
+  jq('.rounded').corners("30px 10px");
+
+});</script>
+-->
+
+</div>
+
+      </div>
+
+      <div class="visualClear" id="clear-space-before-wrapper-table"><!-- --></div>
+
+      <table id="portal-columns">
+        <tbody>
+          <tr>
+            
+            <td id="portal-column-one">
+              <div class="visualPadding">
+                
+                  
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6372700a737570706f72742d6f75722d7265736561726368"
+     class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6372700a737570706f72742d6f75722d7265736561726368">
+<dl class="portlet portletStaticText portlet-static-support-our-research">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <span>
+           Support Our Research
+        </span>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem odd">
+        
+<p><a class="external-link" href="https://giving.ucla.edu/CivilRightsProject">Donate to the Civil Rights Project.</a></p>
+
+        
+            <span class="portletBottomLeft"></span>
+            <span class="portletBottomRight"></span>
+        
+    </dd>
+    
+    
+
+</dl>
+</div>
+
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6372700a717569636b2d6c696e6b73"
+     class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6372700a717569636b2d6c696e6b73">
+<dl class="portlet portletStaticText portlet-static-quick-links">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <span>
+           Quick Links
+        </span>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem odd">
+        
+<p><a title="Contact Us" class="internal-link" href="about-us/contact-us">Contact Us</a></p>
+<p><a title="Mailing List" class="internal-link" href="news/mailing-list">Mailing List Sign-up</a></p>
+<p><a title="CRP in the News 2013" class="internal-link" href="resolveuid/f97718134d9d50005955c52279c47a37">Media Coverage of CRP</a></p>
+<p><a title="Center for Civil Rights Remedies" class="internal-link" href="resolveuid/77d1f633e5f2e1bc6abdbe821b1afae0">Center for Civil Rights Remedies</a></p>
+<p><a title="Project SOL 2.0" class="internal-link" href="resolveuid/07ad3fd68b81f1ffcf049e118c8d6e01">Project SOL 2.0<br /></a></p>
+
+        
+            <span class="portletBottomLeft"></span>
+            <span class="portletBottomRight"></span>
+        
+    </dd>
+    
+    
+
+</dl>
+</div>
+
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6372700a466f6c6c6f772d7573"
+     class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6372700a466f6c6c6f772d7573">
+<dl class="portlet portletStaticText portlet-static-Follow-us">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <span>
+           Follow us...
+        </span>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem odd">
+        
+<p><a class="external-link" href="http://www.facebook.com/#!/pages/Civil-Rights-ProjectProyecto-Derechos-Civiles-at-UCLA/124921007573577"><img src="fb-icon.png" alt="Facebook profile" /></a> <a class="external-link" href="http://www.facebook.com/#!/pages/Civil-Rights-ProjectProyecto-Derechos-Civiles-at-UCLA/124921007573577">Facebook</a></p>
+<p><img class="image-inline image-inline" src="resolveuid/db1c9467a11a372c90ada41d3443b60d/image_preview" alt="YouTube_logo_16x16.png" />&nbsp;<a class="external-link" href="http://www.youtube.com/user/crppdc?feature=mhee">YouTube</a></p>
+<p><a title="Link to CRP Twitter page" class="external-link" href="http://twitter.com/CRPatUCLA"><img src="twit-icon.png" alt="" /></a> <a title="Link to CRP Twitter page" class="external-link" href="http://twitter.com/CRPatUCLA">Twitter</a></p>
+
+        
+            <span class="portletBottomLeft"></span>
+            <span class="portletBottomRight"></span>
+        
+    </dd>
+    
+    
+
+</dl>
+</div>
+
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6372700a53706f746c696768742d6f6e"
+     class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6372700a53706f746c696768742d6f6e">
+<dl class="portlet portletStaticText portlet-static-Spotlight-on">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <span>
+           Spotlight on...
+        </span>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem odd">
+        
+<p><strong><a title="Publications" class="internal-link" href="resolveuid/19068d114ab81a0c1468219a468dd58f">The School Voucher Illusion:&nbsp; Exposing the Pretense of Equity</a></strong>, edited by Kevin Welner, Gary Orfield and Luis A. Huerta, is available from Teachers College Press.&nbsp;</p>
+
+        
+            <span class="portletBottomLeft"></span>
+            <span class="portletBottomRight"></span>
+        
+    </dd>
+    
+    
+
+</dl>
+</div>
+
+
+
+
+                
+                &nbsp;
+              </div>
+            </td>
+            
+
+            
+            <td id="portal-column-content">
+
+              
+                <div class="">
+
+                  <div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <a href="https://www.civilrightsproject.ucla.edu">Home</a>
+    
+
+</div>
+
+<div id="portlets-above">
+		
+		
+		<div class="portletsAboveContentA">
+
+</div> 
+
+		<div class="portletsAboveContentB">
+
+</div> 
+
+		<div class="portletsAboveContentC">
+
+</div> 
+
+		<div class="portletsAboveContentD">
+
+</div>
+
+		<div class="portletsAboveContentE">
+
+</div>
+
+		<div class="portletsAboveContentF">
+
+</div>
+	
+	
+
+	
+</div>
+
+
+
+
+                  <div id="region-content" class="documentContent">
+
+                    <span id="contentTopLeft"></span>
+                    <span id="contentTopRight"></span>
+                    
+                    <a name="documentContent"></a>
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+                    
+                    <div id="viewlet-above-content"></div>
+
+                    
+                    <div id="content">
+                      
+                      
+    
+
+        
+
+        <h1 class="documentFirstHeading"> 
+            
+        <span class="" id="parent-fieldname-title">
+            The Civil Rights Project at UCLA
+        </span>
+    
+        </h1>
+
+        
+
+
+        <p class="documentDescription">
+            
+        <span class="" id="parent-fieldname-description">
+            The Civil Rights Project at UCLA
+        </span>
+    
+        </p>
+
+        
+
+
+
+        
+
+        
+        <div class="" id="parent-fieldname-text">
+            
+<p>The mission of the <strong>Civil Rights Project/Proyecto Derechos Civiles</strong> is to help renew the civil rights movement by bridging the worlds of ideas and action, to be a preeminent source of intellectual capital within that movement, and to deepen the understanding of the issues that must be resolved to achieve racial and ethnic equity as society moves through the great transformation of the 21st century.</p>
+
+            
+        </div>
+    
+
+        <div class="relatedItems">
+    
+        
+            
+        
+    
+</div>
+    
+        
+
+<div class="visualClear"><!-- --></div>
+<div class="documentActions">
+    
+
+    <h5 class="hiddenStructure">Document Actions</h5>
+
+    <ul>
+    
+        <li id="document-action-print">
+            <a href="javascript:this.print();" title="">Print this</a>
+        </li>
+    
+
+    </ul>
+    
+
+    
+
+</div>
+
+
+    
+
+                    </div>
+                    
+
+                    
+                    
+                      
+    
+
+
+
+
+<div id="portlets-below">
+	
+		
+
+		<div class="portletsBelowContentA">
+
+</div> 
+
+		<div class="portletsBelowContentB">
+
+
+<div id="portletwrapper-436f6e74656e7457656c6c506f72746c6574732e42656c6f77506f72746c65744d616e61676572320a636f6e746578740a2f6372702f66726f6e742d706167650a6e657773"
+     class="portletWrapper kssattr-portlethash-436f6e74656e7457656c6c506f72746c6574732e42656c6f77506f72746c65744d616e61676572320a636f6e746578740a2f6372702f66726f6e742d706167650a6e657773"><dl class="portlet portletCollection">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <a href="https://www.civilrightsproject.ucla.edu/news-collection">
+            <span>News and Announcements</span>
+        </a>
+        <span class="portletTopRight"></span>
+    </dt>
+    
+    
+    <dd class="portletItem odd">
+        <a href="https://www.civilrightsproject.ucla.edu/news/news-and-announcements/2023-announcements/crp-co-director-patricia-gandara-elected-to-the-american-academy-of-arts-and-sciences"
+           class="tile"
+           title="The Civil Rights Project/Proyecto Derechos Civiles congratulates CRP Co-Director Patricia Gándara for her election to the American Academy of Arts and Sciences, in recognition of her life's work pursuing equal educational opportunity on behalf of immigrant students and families.   ">
+
+
+<!-- Added date to top - it's linked! [turned off at moment-uncomment below] -->
+<!--
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+</span>
+-->
+
+            <img width="16" height="16" src="https://www.civilrightsproject.ucla.edu/newsitem_icon.gif" alt="Featured News" />
+            CRP Co-Director Patricia Gándara Elected to the American Academy of Arts and Sciences
+</a>
+
+<!-- start of MM f'n around -->
+<span class="portletItemDescription">
+
+The Civil Rights Project/Proyecto Derechos Civiles congratulates CRP Co-Director Patricia Gándara for her election to the American Academy of Arts and Sciences, in recognition of her life's work pursuing equal educational opportunity on behalf of immigrant students and fami ...
+</span>
+<!-- end of MM f'n around -->
+
+
+
+<!-- Here's the date @ the bottom - not linked [turned on - comment on/off below] -->
+
+<span class="portletItemDetails">Sep 29, 2023</span>
+
+
+<!-- 
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+            </span>
+
+       </a> -->
+
+    </dd>
+    
+    
+    <dd class="portletItem even">
+        <a href="https://www.civilrightsproject.ucla.edu/news/news-and-announcements/2023-announcements/statement-on-todays-affirmative-action-ruling"
+           class="tile"
+           title="Today’s ruling on affirmative action makes the Supreme Court’s majority the nation’s college admissions office and sharply reduces opportunities for students of color in the institutions that train America’s leaders. The decision is a major step backward toward a more rigidly stratified society where Black, Latino, and Native students face seriously unequal opportunities and American leadership will become more segregated.  It is a purely political decision, and one in which the Court has ignored legal precedent, research-based evidence, and the advice of leading civil rights groups. ">
+
+
+<!-- Added date to top - it's linked! [turned off at moment-uncomment below] -->
+<!--
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+</span>
+-->
+
+            <img width="16" height="16" src="https://www.civilrightsproject.ucla.edu/newsitem_icon.gif" alt="Featured News" />
+            Statement on Today's Affirmative Action Ruling
+</a>
+
+<!-- start of MM f'n around -->
+<span class="portletItemDescription">
+
+Today’s ruling on affirmative action makes the Supreme Court’s majority the nation’s college admissions office and sharply reduces opportunities for students of color in the institutions that train America’s leaders. The decision is a major step backward toward a mor ...
+</span>
+<!-- end of MM f'n around -->
+
+
+
+<!-- Here's the date @ the bottom - not linked [turned on - comment on/off below] -->
+
+<span class="portletItemDetails">Jun 29, 2023</span>
+
+
+<!-- 
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+            </span>
+
+       </a> -->
+
+    </dd>
+    
+    
+    <dd class="portletItem odd">
+        <a href="https://www.civilrightsproject.ucla.edu/news/news-and-announcements/2023-announcements/the-civil-rights-project-praises-today2019s-supreme-court-voting-rights"
+           class="tile"
+           title="CRP Co-director Gary Orfield issues a statement on today's 5-4 Supreme Court decision in the Allen v Milligan voting rights case upholding Section 2 of the Voting Rights Act. ">
+
+
+<!-- Added date to top - it's linked! [turned off at moment-uncomment below] -->
+<!--
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+</span>
+-->
+
+            <img width="16" height="16" src="https://www.civilrightsproject.ucla.edu/newsitem_icon.gif" alt="Featured News" />
+            The Civil Rights Project Praises Today’s Supreme Court Voting Rights
+</a>
+
+<!-- start of MM f'n around -->
+<span class="portletItemDescription">
+CRP Co-director Gary Orfield issues a statement on today's 5-4 Supreme Court decision in the Allen v Milligan voting rights case upholding Section 2 of the Voting Rights Act. 
+
+</span>
+<!-- end of MM f'n around -->
+
+
+
+<!-- Here's the date @ the bottom - not linked [turned on - comment on/off below] -->
+
+<span class="portletItemDetails">Jun 08, 2023</span>
+
+
+<!-- 
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+            </span>
+
+       </a> -->
+
+    </dd>
+    
+    
+    <dd class="portletItem even">
+        <a href="https://www.civilrightsproject.ucla.edu/news/news-and-announcements/2023-announcements/crp-codirector-orfield-elected-fellow-of-aaas"
+           class="tile"
+           title="Gary Orfield, distinguished research professor of education, law, political science and urban planning at UCLA and the co-director of the UCLA Civil Rights Project, has been elected as a Fellow of the American Association for the Advancement of Science (AAAS).">
+
+
+<!-- Added date to top - it's linked! [turned off at moment-uncomment below] -->
+<!--
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+</span>
+-->
+
+            <img width="16" height="16" src="https://www.civilrightsproject.ucla.edu/newsitem_icon.gif" alt="Featured News" />
+            CRP Codirector Orfield Elected as Fellow of AAAS
+</a>
+
+<!-- start of MM f'n around -->
+<span class="portletItemDescription">
+Gary Orfield, distinguished research professor of education, law, political science and urban planning at UCLA and the co-director of the UCLA Civil Rights Project, has been elected as a Fellow of the American Association for the Advancement of Science (AAAS).
+
+</span>
+<!-- end of MM f'n around -->
+
+
+
+<!-- Here's the date @ the bottom - not linked [turned on - comment on/off below] -->
+
+<span class="portletItemDetails">Feb 01, 2023</span>
+
+
+<!-- 
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+            </span>
+
+       </a> -->
+
+    </dd>
+    
+    
+    <dd class="portletItem odd">
+        <a href="https://www.civilrightsproject.ucla.edu/news/news-and-announcements/2022-site-news/feature-article-and-q-a-spotlights-new-book-the-walls-around-opportunity"
+           class="tile"
+           title="The Fall 2022 issue of the UCLA Ed&amp;IS Magazine features an excellent article and Q&amp;A with Gary Orfield, spotlighting his new book, The Walls Around Opportunity: The Failure of Color Blind Policy for Higher Education.">
+
+
+<!-- Added date to top - it's linked! [turned off at moment-uncomment below] -->
+<!--
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+</span>
+-->
+
+            <img width="16" height="16" src="https://www.civilrightsproject.ucla.edu/newsitem_icon.gif" alt="Featured News" />
+            Feature article and Q&amp;A spotlights new book, The Walls Around Opportunity
+</a>
+
+<!-- start of MM f'n around -->
+<span class="portletItemDescription">
+The Fall 2022 issue of the UCLA Ed&amp;IS Magazine features an excellent article and Q&amp;A with Gary Orfield, spotlighting his new book, The Walls Around Opportunity: The Failure of Color Blind Policy for Higher Education.
+
+</span>
+<!-- end of MM f'n around -->
+
+
+
+<!-- Here's the date @ the bottom - not linked [turned on - comment on/off below] -->
+
+<span class="portletItemDetails">Nov 15, 2022</span>
+
+
+<!-- 
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+            </span>
+
+       </a> -->
+
+    </dd>
+    
+    
+    <dd class="portletFooter">
+        <span class="portletBottomLeft"></span>
+        <span>
+        <a href="https://www.civilrightsproject.ucla.edu/news-collection">
+             more&hellip;
+             </a>
+        </span>
+        <span class="portletBottomRight"></span>
+    </dd>
+
+</dl>
+</div>
+
+</div> 
+
+		<div class="portletsBelowContentC">
+
+
+<div id="portletwrapper-436f6e74656e7457656c6c506f72746c6574732e42656c6f77506f72746c65744d616e61676572330a636f6e746578740a2f6372702f66726f6e742d706167650a66656174757265642d7265736561726368"
+     class="portletWrapper kssattr-portlethash-436f6e74656e7457656c6c506f72746c6574732e42656c6f77506f72746c65744d616e61676572330a636f6e746578740a2f6372702f66726f6e742d706167650a66656174757265642d7265736561726368"><dl class="portlet portletCollection">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <a href="https://www.civilrightsproject.ucla.edu/featured-research-collection">
+            <span>Featured Research by CRP</span>
+        </a>
+        <span class="portletTopRight"></span>
+    </dt>
+    
+    
+    <dd class="portletItem odd">
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/press-releases-2024/new-data-show-ca-school-administrators-dramatically-increased-disciplinary-exclusion-of-homeless-youth-to-highest-rate-in-6-years"
+           class="tile"
+           title="Research does not support the long-standing practice of kicking students out of school for minor misconduct. Unfortunately, after years of declining rates, new data in this update to the Lost Instruction Report -- released in Oct. 2023 — shows that school administrators are increasingly denying students who are homeless access to school.">
+
+
+<!-- Added date to top - it's linked! [turned off at moment-uncomment below] -->
+<!--
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+</span>
+-->
+
+            <img width="16" height="16" src="https://www.civilrightsproject.ucla.edu/newsitem_icon.gif" alt="Press Release" />
+             New Data show CA school administrators dramatically increased disciplinary exclusion of homeless youth to highest rate in 6 years
+</a>
+
+<!-- start of MM f'n around -->
+<span class="portletItemDescription">
+
+Research does not support the long-standing practice of kicking students out of school for minor misconduct. Unfortunately, after years of declining rates, new data in this update to the Lost Instruction Report -- released in Oct. 2023 — shows that school administrators ar ...
+</span>
+<!-- end of MM f'n around -->
+
+
+
+<!-- Here's the date @ the bottom - not linked [turned on - comment on/off below] -->
+
+<span class="portletItemDetails">Jan 08, 2024</span>
+
+
+<!-- 
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+            </span>
+
+       </a> -->
+
+    </dd>
+    
+    
+    <dd class="portletItem even">
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/2023-press-releases/new-ucla-brief-sheds-renewed-light-on-immigration-enforcement2019s-devastating-impacts-on-latinx-students"
+           class="tile"
+           title="A new collaborative research brief from UCLA’s Latino Policy and Politics Institute, Center for the Transformation of Schools, and Civil Rights Project/Proyecto Derechos Civiles examines the harmful impact of immigration enforcement actions on Latinx children of undocumented immigrants. Building on a 2017-18 survey finding two-thirds of those surveyed reported a negative impact of immigration enforcement in their schools, this new research brief updates the analysis and spotlights the urgent need for comprehensive policy reforms that ensure the well-being of all students, regardless of their parents’ immigration status. ">
+
+
+<!-- Added date to top - it's linked! [turned off at moment-uncomment below] -->
+<!--
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+</span>
+-->
+
+            <img width="16" height="16" src="https://www.civilrightsproject.ucla.edu/newsitem_icon.gif" alt="Press Release" />
+            New UCLA Brief Sheds Renewed Light on Immigration Enforcement’s Devastating Impacts on Latinx Students
+</a>
+
+<!-- start of MM f'n around -->
+<span class="portletItemDescription">
+
+A new collaborative research brief from UCLA’s Latino Policy and Politics Institute, Center for the Transformation of Schools, and Civil Rights Project/Proyecto Derechos Civiles examines the harmful impact of immigration enforcement actions on Latinx children of undocument ...
+</span>
+<!-- end of MM f'n around -->
+
+
+
+<!-- Here's the date @ the bottom - not linked [turned on - comment on/off below] -->
+
+<span class="portletItemDetails">Dec 05, 2023</span>
+
+
+<!-- 
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+            </span>
+
+       </a> -->
+
+    </dd>
+    
+    
+    <dd class="portletItem odd">
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/2023-press-releases/new-demographic-analyses-project-increasingly-diverse-school-age-population-and-deep-dive-into-native-american-data"
+           class="tile"
+           title="Demography, may not, as the famed French philosopher Auguste Comte once wrote, “be destiny,” but two new analyses, a demographic simulation of the school-age population of the United States and a projection of the racially-identified American Indian and Alaska Native population to 2050, make clear that rapid changes in the racial and ethnic composition of the population have and will continue to reshape the nation, with significant implications for education and the future of civil rights.">
+
+
+<!-- Added date to top - it's linked! [turned off at moment-uncomment below] -->
+<!--
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+</span>
+-->
+
+            <img width="16" height="16" src="https://www.civilrightsproject.ucla.edu/newsitem_icon.gif" alt="Press Release" />
+            New Demographic Studies: Increasing Diversity of School-Age Population, Complexity of Native American Population Data Have Implications for Civil Rights
+</a>
+
+<!-- start of MM f'n around -->
+<span class="portletItemDescription">
+
+Demography, may not, as the famed French philosopher Auguste Comte once wrote, “be destiny,” but two new analyses, a demographic simulation of the school-age population of the United States and a projection of the racially-identified American Indian and Alaska Native pop ...
+</span>
+<!-- end of MM f'n around -->
+
+
+
+<!-- Here's the date @ the bottom - not linked [turned on - comment on/off below] -->
+
+<span class="portletItemDetails">Nov 30, 2023</span>
+
+
+<!-- 
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+            </span>
+
+       </a> -->
+
+    </dd>
+    
+    
+    <dd class="portletItem even">
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/2023-press-releases/new-crp-research-examines-impact-of-gentrification-on-schools-potential-for-reducing-segregation"
+           class="tile"
+           title="A new study, published today by The Civil Rights Project/Proyecto Derechos Civiles, examines the growth of gentrification in California and its impact on schools and educational opportunities in the state.">
+
+
+<!-- Added date to top - it's linked! [turned off at moment-uncomment below] -->
+<!--
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+</span>
+-->
+
+            <img width="16" height="16" src="https://www.civilrightsproject.ucla.edu/newsitem_icon.gif" alt="Press Release" />
+            New CRP Research Examines Impact of Gentrification on Schools, Potential for Reducing Segregation
+</a>
+
+<!-- start of MM f'n around -->
+<span class="portletItemDescription">
+A new study, published today by The Civil Rights Project/Proyecto Derechos Civiles, examines the growth of gentrification in California and its impact on schools and educational opportunities in the state.
+
+</span>
+<!-- end of MM f'n around -->
+
+
+
+<!-- Here's the date @ the bottom - not linked [turned on - comment on/off below] -->
+
+<span class="portletItemDetails">Nov 15, 2023</span>
+
+
+<!-- 
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+            </span>
+
+       </a> -->
+
+    </dd>
+    
+    
+    <dd class="portletItem odd">
+        <a href="https://www.civilrightsproject.ucla.edu/news/press-releases/2023-press-releases/lost-instruction-time-in-california-schools-the-disparate-harm-from-post-pandemic-punitive-suspensions"
+           class="tile"
+           title="Two groups of children with the most unstable home environments - foster youth and those experiencing homelessness - are the two groups that educators are most likely to send home by meting out punitive &quot;out-of-school&quot; suspension, according to this new research. ">
+
+
+<!-- Added date to top - it's linked! [turned off at moment-uncomment below] -->
+<!--
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+</span>
+-->
+
+            <img width="16" height="16" src="https://www.civilrightsproject.ucla.edu/newsitem_icon.gif" alt="Press Release" />
+            New research details lost instruction time in CA schools, underscores disparate harm of post-pandemic punitive suspensions
+</a>
+
+<!-- start of MM f'n around -->
+<span class="portletItemDescription">
+Two groups of children with the most unstable home environments - foster youth and those experiencing homelessness - are the two groups that educators are most likely to send home by meting out punitive "out-of-school" suspension, according to this new research. 
+
+</span>
+<!-- end of MM f'n around -->
+
+
+
+<!-- Here's the date @ the bottom - not linked [turned on - comment on/off below] -->
+
+<span class="portletItemDetails">Oct 30, 2023</span>
+
+
+<!-- 
+<span class="portletItemDetails"
+                  tal:condition="view/data/show_dates"
+                  tal:content="python:toLocalizedTime(obj.Date)">
+                Date
+            </span>
+
+       </a> -->
+
+    </dd>
+    
+    
+    <dd class="portletFooter">
+        <span class="portletBottomLeft"></span>
+        <span>
+        <a href="https://www.civilrightsproject.ucla.edu/featured-research-collection">
+             more&hellip;
+             </a>
+        </span>
+        <span class="portletBottomRight"></span>
+    </dd>
+
+</dl>
+</div>
+
+</div> 
+
+		<div class="portletsBelowContentD">
+
+</div>
+
+		<div class="portletsBelowContentE">
+
+</div>
+
+		<div class="portletsBelowContentF">
+
+</div>
+	
+	
+
+	
+</div>
+
+                    
+                    
+
+                    <span id="contentBottomLeft"></span>
+                    <span id="contentBottomRight"></span>
+
+                  </div>
+
+                </div>
+
+              
+            </td>
+            
+
+            
+            
+            
+          </tr>
+        </tbody>
+      </table>
+      
+
+      <div class="visualClear" id="clear-space-before-footer"><!-- --></div>
+      
+      
+
+      
+
+        <div id="footer-portlets">
+	
+		
+
+		<div class="FooterPortletA">
+
+</div> 
+
+		<div class="FooterPortletB">
+
+</div> 
+
+		<div class="FooterPortletC">
+
+</div> 
+
+		<div class="FooterPortletD">
+
+</div>
+
+		<div class="FooterPortletE">
+
+</div>
+
+		<div class="FooterPortletF">
+
+</div>
+	
+	
+
+	
+</div>
+
+<div id="portal-footer">
+
+<p>
+<strong>The Civil Rights Project / Proyecto Derechos Civiles</strong><br />
+8370 Math Sciences, Box 951521<br />
+Los Angeles, CA 90095-1521<br />
+<a href="mailto:crp@ucla.edu">crp@ucla.edu</a><br />    
+</p>
+
+</div>
+
+<ul id="portal-siteactions">
+
+    <li id="siteaction-contact"><a
+    href="https://www.civilrightsproject.ucla.edu/about-us/contact-us"
+    accesskey="9" title="Contact Us">Contact Us</a></li>
+    <li id="siteaction-copyright"><a
+    href="https://www.civilrightsproject.ucla.edu/copyright-policy"
+    accesskey="" title="Copyright Policy">Copyright Policy</a></li>
+    <li id="siteaction-accessibility"><a
+    href="https://www.civilrightsproject.ucla.edu/accessibility-info"
+    accesskey="0" title="Accessibility">Accessibility</a></li>
+    <li id="siteaction-sitemap"><a
+    href="https://www.civilrightsproject.ucla.edu/sitemap"
+    accesskey="3" title="Site Map">Site Map</a></li>
+    <li id="siteaction-login"><a
+    href="https://www.civilrightsproject.ucla.edu/login_form"
+    accesskey="" title="Log in">Log in</a></li>
+
+</ul>
+
+<div id="portal-colophon">
+      
+
+      
+
+      <div class="colophonWrapper">
+      <p>Copyright &copy; 2010 UC Regents</p> 
+      </div>
+
+    </div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24859663-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+      
+
+      <div class="visualClear"><!-- --></div>
+    </div>
+<div id="kss-spinner"><img alt=""
+                           src="https://www.civilrightsproject.ucla.edu/spinner.gif" /></div>
+</body>
+</html>
+
+

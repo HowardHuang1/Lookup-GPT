@@ -1,0 +1,94 @@
+Securing Your Computer | SEASnet
+Select Page
+Securing Your Computer
+The following are required and recommended steps to keep your computer, accounts, and data more secure.  The steps involving setup, installation, or configuration require administrative/root privileges.
+Note: Staff machines under SEASnet support have many of these configured already.  Please check with the Help Desk before making changes.
+Required
+: Meeting
+UC’s Minimum Security Standard
+and
+UCLA’s Minimum Security Standard
+(note that there is overlap).  Below is UC’s standard for reference:
+Anti-malware:
+Anti-malware software
+must be installed and running up-to-date definitions.
+Approval and Inventory:
+Confirm that devices can be secured before making a purchasing decision. Make sure IT Resources and Institutional Information are appropriately recorded in Location inventory.
+Backup and Recovery:
+Institutional Information
+classified at Availability Level 3 or higher must be backed up and recoverable. Backups must be protected according to the classification level of the information they contain.
+Encryption:
+All portable computing devices must be encrypted.
+Encrypt Portable Media:
+Portable media containing Institutional Information classified at Protection Level 3 or higher must be encrypted and safely stored.
+Host-based Firewall:
+If host-based firewall software is available on a device, it must be running and configured to block all inbound traffic that is not explicitly required for the intended use of the device.
+Local Admin or Administrator:
+Non-privileged user accounts must be used and only elevated to root or administrator when necessary.
+Password/PIN lock:
+Secure devices with a strong password, PIN, smart card, or biometric lock.
+Patching:
+Supported security patches must be applied to all operating systems and applications.  When possible, allow the updates to happen automatically.
+Physical Security:
+Devices and Institutional Information must be physically secured.  You can submit a
+SEASnet Service Request
+to do so.
+Session Timeout:
+Devices used to store, or access Institutional Information or IT Resources classified at Protection Level 2 or higher must employ lockout/screen-lock mechanisms or session timeout to block access after a defined period of inactivity (15 minutes or Location limit). Mechanisms must require re-authentication before a return to interactive use. Some
+guidance for Windows and macOS
+.
+Supported Operating Systems:
+Run a version of the operating system that is supported by the vendor. Unsupported (also known as End of Life) OS’s include: Windows NT, Windows XP, Windows 7, macOS 10.14 or earlier
+Recommendations
+Log
+off
+the machine when you leave for the day.
+Implement user account hygiene: check for and delete old and unused accounts.
+Create
+strong passwords
+for
+all
+computer accounts and change them every 6 months.
+Use a password manager; do not re-use passwords. UCLA has licenses for
+LastPass
+Do not save
+passwords in web browsers.
+Do not keep
+any
+Sensitive Data
+on your computer unless absolutely necessary – if you must keep sensitive data on your computer it should be
+Secured
+–
+compromised computers containing sensitive data will be subject to
+UCLA Policy 420
+.
+If you have passwords or other sensitive data in hard copy (on paper),
+keep it secure
+. In a locked cabinet, for example.
+Beware of
+Social Engineering Attacks
+.
+SecureID cards (if one is assigned to you) should be considered like a master key: Keep its location secure, do not let anyone borrow/use it, do not write your username and/or password on the device, nor place any identifiable marks, stickers, or notes of any kind on the device.
+Windows-Specific:
+Lock down and/or disable
+Shared Folders.
+If you use
+Remote Desktop
+, tighten security.
+Protection of Personally Identifiable Information
+as outlined in
+UCLA Policy 420:
+Don’t transfer protected information to a device such as a USB drive or CD that can easily be lost and accessed by someone else.
+Don’t send email that includes protected data if at all possible.  If you absolutely must send email with protected data carefully evaluate where the email will be sent.  If you forward on email that has protected data and the recipient does not need the protected data, remove that information from the message prior to sending it.  With the addition of health and medical information, an email from an employee to their supervisor explaining a medical condition becomes protected data. Supervisors should ensure that their employees are not forwarding email to a non-HSSEAS account.  Email accounts not handled through SEASnet may or may not meet campus security requirements.
+Be cautious when using your computer to casually browse internet.  If you’re not sure if a site is trustworthy, then don’t visit it from a work machine.
+Never assume that you are not responsible for keeping data secure.  If you have access to the data, you are responsible.
+Computer security requirements change as new vulnerabilities and methods of compromising your systems are discovered.  Please check back here often to ensure your system is as secure as possible.
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

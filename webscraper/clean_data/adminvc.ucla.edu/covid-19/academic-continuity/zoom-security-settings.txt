@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content=" " />
+<link rel="canonical" href="https://adminvc.ucla.edu/covid-19/academic-continuity/zoom-security-settings" />
+<meta property="og:site_name" content="Administrative Vice Chancellor" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://adminvc.ucla.edu/covid-19/academic-continuity/zoom-security-settings" />
+<meta property="og:title" content="Zoom Security Settings" />
+<meta property="og:description" content=" " />
+<meta property="article:published_time" content="2020-04-01T21:58:00-07:00" />
+<meta property="article:modified_time" content="2023-09-29T09:35:53-07:00" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="apple-mobile-web-app-capable" content="yes" />
+<link rel="icon" href="/themes/custom/siteden_surface/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Zoom Security Settings | Administrative Vice Chancellor</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_M7X0H1eDpRqKoP-JrfhzyzSRiij4ogY09BYLL4ziff0.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_N4u4zV_avOKoN3P_iTI3_v_aBGyTVinRyLMGFo1in5w.css" />
+
+    
+  </head>
+  <body class="path-node page-node-type-sf-page node-1226">
+    <a class="skip-to-main-button" href="#main-content" role="link" aria-label="Skip to main content">Skip to Main Content</a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+    <div class="region region-message" aria-label="message">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+
+<header id="header">
+        <div class="region region-university-header" aria-label="university_header">
+    
+<div class="header-logo">
+  <div class="header-logo__wrap">
+    <a href="https://www.ucla.edu/">
+      <img class="header-logo__image" src="/themes/custom/siteden_surface/assets/images/surface-images/logo-ucla.svg" alt="UCLA Logo" />
+    </a>
+
+      </div>
+</div>
+
+
+  </div>
+
+  
+  <div class="header-wrap">
+      <div class="region region-header" aria-label="header">
+    
+<div id="block-siteden-surface-branding" class="block block-system block-system-branding-block">
+    
+    
+    
+<div class="site-name clearfix">
+    <a href="/" title="Home" rel="home">Administrative Vice Chancellor</a>
+</div>
+
+</div>
+
+  </div>
+
+      <div class="region region-navigation header__navbar" id="nav-main">
+    <nav role="navigation" aria-labelledby="block-siteden-surface-main-menu-menu" id="block-siteden-surface-main-menu" class="nav-primary block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-siteden-surface-main-menu-menu">Main navigation</h2>
+  
+
+        
+
+<ul region="navigation" class="nav-primary__list">
+
+      <li class="menu-firstchild is-expanded has-children">
+    <a href="/welcome">About</a>
+          <button class="nav-primary__toggle" aria-label="toggle button to access submenu"></button>
+      <ul region="navigation" class="nav-primary__sublist">
+
+      <li>
+    <a href="/welcome" data-drupal-link-system-path="node/61">Welcome</a>
+      </li>
+      <li>
+    <a href="/biography" data-drupal-link-system-path="node/1">Michael J. Beck</a>
+      </li>
+      <li>
+    <a href="/leadership-team">Leadership Team</a>
+      </li>
+      <li>
+    <a href="/vision-and-values" data-drupal-link-system-path="node/36">Vision &amp; Values</a>
+      </li>
+      <li>
+    <a href="/content/strategic-plan" title="Strategic Plan">Strategic Plan and Priorities</a>
+      </li>
+      <li>
+    <a href="/annual-financial-reports" title="Annual Reports">Annual Reports</a>
+      </li>
+
+</ul>
+
+      </li>
+      <li class="is-expanded has-children">
+    <a href="/administrative-units-overview">Administrative Units</a>
+          <button class="nav-primary__toggle" aria-label="toggle button to access submenu"></button>
+      <ul region="navigation" class="nav-primary__sublist">
+
+      <li>
+    <a href="https://www.chr.ucla.edu/">Campus Human Resources</a>
+      </li>
+      <li>
+    <a href="http://tickets.ucla.edu/">Central Ticket Office</a>
+      </li>
+      <li>
+    <a href="https://www.ehs.ucla.edu/">Environment, Health &amp; Safety</a>
+      </li>
+      <li>
+    <a href="https://www.campusservices.ucla.edu/events-transportation">Events &amp; Transportation</a>
+      </li>
+      <li>
+    <a href="https://www.facilities.ucla.edu/">Facilities Management</a>
+      </li>
+      <li>
+    <a href="https://www.campusservices.ucla.edu/financial-organizational-services">Financial &amp; Organizational Services</a>
+      </li>
+      <li>
+    <a href="http://housingandhospitality.ucla.edu/">Housing &amp; Hospitality</a>
+      </li>
+      <li>
+    <a href="https://www.it.ucla.edu/">Information Technology Services</a>
+      </li>
+      <li>
+    <a href="https://www.ucpd.ucla.edu/">UCLA Police Department</a>
+      </li>
+
+</ul>
+
+      </li>
+      <li>
+    <a href="/administrative-offices-services" data-drupal-link-system-path="node/51">A-Z Offices and Services</a>
+      </li>
+      <li class="menu-firstchild is-expanded has-children">
+    <a href="/news-views/fall-2023">News &amp; Views</a>
+          <button class="nav-primary__toggle" aria-label="toggle button to access submenu"></button>
+      <ul region="navigation" class="nav-primary__sublist">
+
+      <li>
+    <a href="/news-views/fall-2023">Current Issue</a>
+      </li>
+      <li>
+    <a href="/news-views" data-drupal-link-system-path="node/236">Past Issues</a>
+      </li>
+
+</ul>
+
+      </li>
+      <li class="menu-firstchild is-expanded has-children">
+    <a href="https://campusservices.ucla.edu/">Staff Resources</a>
+          <button class="nav-primary__toggle" aria-label="toggle button to access submenu"></button>
+      <ul region="navigation" class="nav-primary__sublist">
+
+      <li>
+    <a href="https://campusservices.ucla.edu/">Insider Resources</a>
+      </li>
+      <li>
+    <a href="/covid-19/resources-and-tools" data-drupal-link-system-path="node/1331">COVID-19 Resources</a>
+      </li>
+      <li>
+    <a href="/administration-roundtable">Administration Roundtable</a>
+      </li>
+      <li>
+    <a href="/town-hall" data-drupal-link-system-path="node/1421">UCLA Administration Town Halls</a>
+      </li>
+      <li class="is-expanded has-children">
+    <a href="/equity-council" data-drupal-link-system-path="node/1681">Administration Equity Council</a>
+          <button class="nav-primary__toggle" aria-label="toggle button to access submenu"></button>
+      <ul region="navigation" class="nav-primary__sublist">
+
+      <li>
+    <a href="/equity/affinity-groups" data-drupal-link-system-path="node/1899">Affinity Groups</a>
+      </li>
+      <li>
+    <a href="/equity/welcome" data-drupal-link-system-path="node/1913">VC Beck’s Welcome Note</a>
+      </li>
+      <li>
+    <a href="/ucla-administration-equity-council-chairs-message" data-drupal-link-system-path="node/1930">UCLA Administration Equity Council Chair’s Message</a>
+      </li>
+      <li>
+    <a href="/event-category/equity-council-speaker-series">Equity Council Speaker Series</a>
+      </li>
+      <li class="is-collapsed">
+    <a href="/equity-council-advisors-role" data-drupal-link-system-path="node/2008">Equity Council Advisors</a>
+      </li>
+      <li class="is-collapsed">
+    <a href="/equity/hiring-guide">Manager Tools</a>
+      </li>
+      <li>
+    <a href="/equity-council-newsletter" data-drupal-link-system-path="node/2054">Equity Council Newsletter</a>
+      </li>
+      <li class="is-collapsed">
+    <a href="/equity/edi-education-resources" data-drupal-link-system-path="node/1905">EDI Education Resources</a>
+      </li>
+      <li class="is-collapsed">
+    <a href="/equity/reporting">Reporting</a>
+      </li>
+
+</ul>
+
+      </li>
+      <li>
+    <a href="/leadership-forum">Administration Leadership Forum</a>
+      </li>
+      <li>
+    <a href="/photos">UCLA Administration Photos</a>
+      </li>
+      <li>
+    <a href="/service-excellence-awards" data-drupal-link-system-path="node/511">Service Excellence Award</a>
+      </li>
+      <li>
+    <a href="/true-bruin-values-award" data-drupal-link-system-path="node/496">True Bruin Values Award</a>
+      </li>
+      <li>
+    <a href="/article-category/monthly-management-tips" title="Monthly Management Tips">Monthly Management Tips</a>
+      </li>
+
+</ul>
+
+      </li>
+      <li>
+    <a href="/contact-us" data-drupal-link-system-path="node/46">Contact Us</a>
+      </li>
+
+</ul>
+
+
+
+  </nav>
+
+<button id="search-button" aria-label="toggle button to access search form" class="search-bar__button">
+  <svg role="img" aria-hidden="true" class="nav-primary__search-icon" width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Search Icon</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+      <g transform="translate(-15.000000, -15.000000)">
+        <g id="Nav-Item">
+          <g transform="translate(12.000000, 12.000000)">
+            <polygon class="Path-polygon" points="0 0 24 0 24 24 0 24"></polygon>
+            <path d="M15.5,14 L14.71,14 L14.43,13.73 C15.41,12.59 16,11.11 16,9.5 C16,5.91 13.09,3 9.5,3 C5.91,3 3,5.91 3,9.5 C3,13.09 5.91,16 9.5,16 C11.11,16 12.59,15.41 13.73,14.43 L14,14.71 L14,15.5 L19,20.49 L20.49,19 L15.5,14 Z M9.5,14 C7.01,14 5,11.99 5,9.5 C5,7.01 7.01,5 9.5,5 C11.99,5 14,7.01 14,9.5 C14,11.99 11.99,14 9.5,14 Z" fill="#00598C" fill-rule="evenodd"></path>
+          </g>
+        </g>
+      </g>
+    </g>
+  </svg>
+</button>
+
+<div id="block-search" role="search" class="search-bar">
+<form region="navigation" class="search-bar__form" action="/search/google" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search the site:</label>
+        <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" placeholder="Search …" required="required" class="search-bar__input form-search" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" class="btn search-bar__submit button js-form-submit form-submit" type="submit" id="edit-submit" value="Search" />
+</div>
+
+</form>
+
+</div>
+
+  </div>
+
+    <div class="hamburger__container">
+
+<button id="primary-ham" class="hamburger" type="button" aria-label="toggle button to access navigation and search" title="navigation and search">
+  <span class="hamburger__box">
+    <span class="hamburger__inner"></span>
+  </span>
+</button>
+
+</div>
+  </div>
+</header>
+
+<main id="main-content" tabindex="-1">
+
+  
+      <div class="layout__container">
+      
+    </div>
+  
+  
+  <div class="layout__container layout--default     ">
+          <div class="layout__title">
+          <div class="region region-title" aria-label="title">
+    
+<div id="block-siteden-surface-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+    
+    
+            <ul class="breadcrumb">
+                <li class="breadcrumb__item breadcrumb__item--first">
+                    <a href="/">Home</a>
+            </li>
+                <li class="breadcrumb__item">
+                    <a href="/covid-19/academic-continuity">Planning for Academic Continuity</a>
+            </li>
+      </ul>
+
+  </div>
+
+<div id="block-pagetitle--2" class="block block-core block-page-title-block">
+    
+    
+        
+  <h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Zoom Security Settings</span>
+</h1>
+
+
+  </div>
+
+  </div>
+
+      </div>
+    
+    <div class="layout__content">
+        <div class="region region-content" aria-label="content">
+    
+<div id="block-siteden-surface-content" class="block block-system block-system-main-block panel">
+    
+    
+        
+<article role="article" about="/covid-19/academic-continuity/zoom-security-settings" class="node node--type-sf-page node--view-mode-full">
+
+  
+    
+
+  
+  <div class="node__content">
+    
+      <div class="field field--name-field-sf-content field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">  <div class="paragraph paragraph--type--sf-section paragraph--view-mode--default">
+            <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+        <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><p class="lead"> </p>
+
+<article class="align-right media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/zoom_security_settings_590x_0.jpg" width="590" height="406" alt="Devices compatible with Zoom" typeof="foaf:Image" /></div>
+      
+  </article><blockquote>
+<p class="lead"><strong>To help members of the UCLA community manage Zoom security concerns, we recommend the following steps for using Zoom while working and learning remotely.</strong></p>
+</blockquote>
+
+<p><a class="btn btn--primary" href="https://ucla.box.com/s/qrx8wntj8fx1decsbdfzkubjnrqu1q5n">Download Zoom Security Settings (PDF) </a></p>
+
+<p><a class="btn btn--secondary" href="https://ucla.box.com/s/5easecnbhke1d2wdzvo7cl26vnov8r2q">Zoom Updates July 2020</a></p>
+
+<p><a class="btn btn--invert" href="https://www.it.ucla.edu/news/update-zoom-oct10">Update to Zoom 5.3.0 Is Required</a></p>
+
+<p class="lead"> </p>
+
+<p class="lead"> </p>
+
+<p> </p>
+
+<p> </p></div>
+      
+      </div>
+  <div class="paragraph paragraph--type--sf-accordion paragraph--view-mode--default">
+      
+<div class="sf_accordion">
+  
+    <div class="accordion">
+  <button type="button" aria-label="click button to view/hide content" class="accordion__label">STEP 1: Zoom web application v. Zoom desktop application</button>
+  <div class="accordion__content" role="region">
+    <div class="text-formatted"><p><strong>Zoom web application</strong>:</p><p>-You can create a UCLA Zoom account from the <a href="https://ucla.zoom.us/">Zoom at UCLA</a> website. <br /><em>-Before</em> you sign-in to host a meeting, you must first set-up the meeting and properly adjust your Zoom security settings using the Zoom web applicatio<strong>n.</strong><br />
+	-Instructions to set-up a secure Zoom meeting using the web application are below.</p><p><strong>Zoom desktop application</strong>:<br />
+	The desktop app can be downloaded to your Mac or Windows computer from the <a href="https://ucla.zoom.us/download#client_4meeting">Zoom at UCLA</a> website. </p><p><strong>Recommendations:</strong></p><p>-For instructors and meeting hosts:<br /><em><strong>    </strong>-<strong>After </strong></em>you have set-up the meeting and adjusted the Zoom security settings using the web application, you are strongly encouraged to then use the Zoom <strong>desktop application </strong>instead to conduct the meeting.<br />
+	    -Recording a Zoom lecture or meeting <strong><em>requires </em></strong>the use of the desktop app.<br />
+	    -We now allow Cloud Recording and will be encouraging it.  We’re currently testing an integration that will move Cloud Recordings from Zoom to a video repository (Kaltura) that is integrated with CCLE.  <br />
+	    -Zoom is also integrated with CCLE, so instructors can also schedule their Zoom sessions from within CCLE.<br />
+	-For meeting participants (that is, those <em>not </em>hosting Zoom sessions):<br />
+	    -Participants may safely join lectures or meetings using either the desktop application or the web application.</p></div>
+  </div>
+</div>
+
+  
+    <div class="accordion">
+  <button type="button" aria-label="click button to view/hide content" class="accordion__label">STEP 2: Checking for Desktop Application Updates</button>
+  <div class="accordion__content" role="region">
+    <div class="text-formatted"><p>If you haven't already, visit <a href="https://ucla.zoom.us/download#client_4meeting">Zoom at UCLA</a> to download the desktop application.</p><p>If you have already downloaded the Zoom desktop application, you need to ensure that you are running the current version.</p><p>Follow these steps to check for the current version.</p><p>1. Open the Zoom application.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/open_the_zoom_application_3.png" width="2160" height="1562" alt="Open the Zoom application" typeof="foaf:Image" /></div>
+      
+  </article><p><br />
+	2. Click on your profile in the upper right-hand corner of the Zoom application.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/click_on_profile_4.png" width="1280" height="925" alt="Click on profile in upper right-hand corner" typeof="foaf:Image" /></div>
+      
+  </article><p><br />
+	3. Select "<strong>Check for Updates</strong>" from the dropdown menu.     </p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/select_check_for_updates_3.png" width="524" height="1116" alt="Select check for updates" typeof="foaf:Image" /></div>
+      
+  </article><p><br />
+	4. If a new version is available you will get a notification to update; otherwise, you should see the following.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/update_status_will_appear_1.png" width="1132" height="390" alt="Update status will appear" typeof="foaf:Image" /></div>
+      
+  </article><p> </p></div>
+  </div>
+</div>
+
+  
+    <div class="accordion">
+  <button type="button" aria-label="click button to view/hide content" class="accordion__label">STEP 3: Set up a Secure Zoom Meeting (use the web app)</button>
+  <div class="accordion__content" role="region">
+    <div class="text-formatted"><p><strong>1. Log into the Zoom web application. </strong>You can log-in from <a href="https://ucla.zoom.us/">Zoom at UCLA</a> or at <a href="http://www.ucla.zoom.us">ucla.zoom.us</a>. You will be prompted for your UCLA Logon credentials and Duo authentication.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/log_into_zoom_at_ucla.zoom_.us__0.png" width="1437" height="1084" alt="Login to Zoom at ucla.zoom.us" typeof="foaf:Image" /></div>
+      
+  </article><p><br /><strong>2. Schedule a new meeting.</strong> To schedule your meeting, start by selecting “<strong>Schedule a Meeting</strong>.”</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/schedule_a_meeting_1.png" width="1884" height="582" alt="Select Schedule a Meeting" typeof="foaf:Image" /></div>
+      
+  </article><p><br /><strong>3. Naming and setting the date. </strong>The first options you should set are the meeting topic and the schedule for the meeting. If you would like to add a description for the class or meeting, you may, but it is not necessary.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/naming_and_setting_a_date.png" width="2278" height="1181" alt="Give the meeting a name and set the date and time" typeof="foaf:Image" /></div>
+      
+  </article><p><br /><strong>4. Creating a recurring meeting (optional). </strong>If you would like the meeting to be a recurring meeting, check the box next to “<strong>Recurring meeting</strong>” and enter the details for the recurrence.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/recurring_meeting_optional_0.png" width="1740" height="866" alt="Use the recurring meeting option if applicable" typeof="foaf:Image" /></div>
+      
+  </article><p><br /><strong>5. Meeting ID and meeting passcode. </strong>Next to Meeting ID, the button for “<strong>Generate Automatically</strong>” should already be checked. <em>We do not recommend using your Personal Room for general sessions.</em> Next to Security, a “<strong>Passcode</strong>” will be generated for you. You can change the passcode, but we recommend that you keep it as a numeric sequence.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/meeting_id_and_password_1.png" width="1317" height="596" alt="Meeting ID and a numeric passcode are required." typeof="foaf:Image" /></div>
+      
+  </article><p><br /><strong>6. Check video settings and mute participants on entry.</strong> When scheduling the meeting, ensure that video is off for both host and participants. You should also ensure that “<strong>Mute participants on entry</strong>” is <em><strong>checked</strong></em>.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/turn_off_video_and_turn_on_mute_participants_on_entry.png" width="1172" height="694" alt="Turn off Video and turn on mute participants on entry." typeof="foaf:Image" /></div>
+      
+  </article><p> </p><p><strong>7. Alternative Hosts.</strong> Finally, if your meeting has a co-host, add the co-host’s email in the “<strong>Alternative Hosts</strong>” field. You can add multiple co-hosts by entering their email addresses separated by commas (for example: <a href="mailto:joebruin@ucla.edu">joebruin@ucla.edu</a>, <a href="mailto:josiebruin@ucla.edu">josiebruin@ucla.edu</a>).</p><p><strong>Important note: </strong>The host and all co-hosts have the same privileges in meetings. A faculty member or meeting chair must be the host or co-host, even when a teaching assistant or other assistant is creating and managing the Zoom session.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/alternative_hosts.png" width="1720" height="212" alt="Enter the email address of any alternative hosts" typeof="foaf:Image" /></div>
+      
+  </article><p><strong>8. Save your meeting.</strong><strong> </strong>Click “<strong>Save</strong>,” and you will see a confirmation that your meeting has been created.</p><p> </p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/save.png" width="540" height="160" alt="After all settings are entered, click SAVE." typeof="foaf:Image" /></div>
+      
+  </article><p><strong>9. Send participants the information they need to join your meeting. </strong>You can send participants a link that they can click to join your meeting by highlighting and copying the text next to “Join URL.” If you are using CCLE to share the information, we recommend that you add the join URL to your CCLE site <em>(i.e. Turn editing on &gt; select a section &gt; Section tools &gt; URL.).</em></p><p> </p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/copy_the_url_to_invite_attendees.png" width="2686" height="1104" alt="Copy the URL to invite attendees" typeof="foaf:Image" /></div>
+      
+  </article><p><strong>10. Copy the invitation. </strong> Alternatively, you can send the text of the complete meeting invitation by clicking on “Copy the invitation” (see image above). When you click “Copy the invitation,” another window will pop up and allow you to copy the invitation details. You can then send the copied text to participants or post them in CCLE</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/copy_meeting_invitation_0.png" width="1318" height="1282" alt="Copy the meeting invitation and post at CCLE" typeof="foaf:Image" /></div>
+      
+  </article><p><br /><strong>11. Waiting room options. </strong>Once you have saved your meeting, you must make a change in your profile settings. <em>You only have to change this setting once</em> unless you decide to change it again later. Begin by clicking “<strong>Settings</strong>” on the left side of your screen (i.e., Settings&gt; Security&gt; Waiting Room Options</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/waiting_room_0.png" width="1888" height="744" alt="Confirm the waiting room is enabled and only hosts and co-hosts may admit participants." typeof="foaf:Image" /></div>
+      
+  </article><p>This will ensure that any user who is logged in using an account from ucla.zoom.us will automatically join your meeting, and it will keep all other users held in the waiting room until you admit them.</p></div>
+  </div>
+</div>
+
+  
+    <div class="accordion">
+  <button type="button" aria-label="click button to view/hide content" class="accordion__label">STEP 4: Run your Zoom meeting securely (use the desktop app)</button>
+  <div class="accordion__content" role="region">
+    <div class="text-formatted"><p><strong>1. Initiate the meeting. </strong>We recommend that you initiate and host meetings using the Zoom <strong>desktop application</strong> (Windows and Mac users). You must use the Zoom desktop application if you are recording a session.</p><p>a. Start the Zoom desktop app: To use the desktop app, you may be asked to log-in. Select the “<strong>Sign in with SSO</strong>” option to ensure you are using the ucla.zoom.us account.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/sign_in_sso_0.png" width="1246" height="828" alt="To login select Sign in SSO" typeof="foaf:Image" /></div>
+      
+  </article><p><br />
+	b. UCLA domain: A dialog box will ask for your company domain, which is "UCLA". If the field is empty, type “ucla” in the box and click “<strong>Continue</strong>.”</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/sso_domain.png" width="1272" height="864" alt="Enter the domain &quot;UCLA&quot;" typeof="foaf:Image" /></div>
+      
+  </article><p><br />
+	2. Begin the meeting. We recommend that the host begin the meeting a few minutes prior to the scheduled start time to allow for managing participants.</p><p>a. To start the meeting, click on the “<strong>Start</strong>” button beside the meeting name.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/start_the_meeting.png" width="1846" height="1284" alt="Click Start next to the meeting name" typeof="foaf:Image" /></div>
+      
+  </article><p><br />
+	b. If the meeting does not appear on the main screen, click on the “<strong>Meetings</strong>” button at the top of the desktop application.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/meetings_button.png" width="624" height="90" alt="Select the Meetings button if it doesn't automatically load" typeof="foaf:Image" /></div>
+      
+  </article><p><br /><strong>3. Mute participants in meeting. </strong>After beginning the meeting, the host should select “<strong>Manage Participants</strong>” at the bottom of the meeting window.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/select_manage_participants_4.png" width="2306" height="122" alt="Select manage participants at the bottom of the screen." typeof="foaf:Image" /></div>
+      
+  </article><p><br />
+	a. This will open the <strong>Participants </strong>pane on the right-side of the application window.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/participants_pane_2.png" width="628" height="233" alt="Participants pane" typeof="foaf:Image" /></div>
+      
+  </article><p><br />
+	b. Select the “<strong>Mute All</strong>” button.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/mute_all_0.png" width="637" height="113" alt="Mute all" typeof="foaf:Image" /></div>
+      
+  </article><p><br />
+	c. A dialog box will pop up. Make sure that the “<strong>Allow participants to unmute themselves</strong>” box is <em><strong>unchecked</strong></em>, and then select “<strong>Continue</strong>.”</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/uncheck_allow_participants_to_unmute_themselves.png" width="824" height="314" alt="Uncheck allow participants to unmute themselves" typeof="foaf:Image" /></div>
+      
+  </article><p><br /><strong>4. </strong>Limit Chat. Next, select “<strong>Chat</strong>” at the bottom of the Zoom meeting window. This will open a separate chat window.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/chat.png" width="2300" height="126" alt="Select chat at the bottom of the screen." typeof="foaf:Image" /></div>
+      
+  </article><p><br />
+	a. At the lower left-side of the chat window, you will see a box with a “<strong>…</strong>” symbol. Click that box.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/click_box_with_ellipsis_._symbol.png" width="636" height="718" alt="Click the ellipsis ..." typeof="foaf:Image" /></div>
+      
+  </article><p><br />
+	b. Make sure “<strong>Host Only</strong>” is checked. This will only allow participants to chat with the host to protect the session from unwanted chatter.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/host_only.png" width="452" height="236" alt="Select participant can chat with Host Only" typeof="foaf:Image" /></div>
+      
+  </article><p><br />
+	Once these options have been set, you are ready for your meeting to start.</p></div>
+  </div>
+</div>
+
+  
+    <div class="accordion">
+  <button type="button" aria-label="click button to view/hide content" class="accordion__label">STEP 5: Manage the Waiting Room</button>
+  <div class="accordion__content" role="region">
+    <div class="text-formatted"><p>As participants start to join the meeting, those who are using a ucla.zoom.us account will be placed directly in the meeting.</p><p>Those who are not will be shown as “<strong>waiting</strong>” in the Participants window.<br /><br />
+	-To admit someone who is waiting, simply click the “Admit” button.<br />
+	-If you do not recognize a participant who is waiting, you can either leave them in the waiting room or click the “Remove” button.</p><p><strong>Remember</strong>: Only hosts or co-hosts can move individuals from the waiting room to the class or meeting.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/admitting_guests_2.png" width="733" height="465" alt="Select admit to allow guests in the waiting room to join the meeting" typeof="foaf:Image" /></div>
+      
+  </article><p> </p></div>
+  </div>
+</div>
+
+  
+    <div class="accordion">
+  <button type="button" aria-label="click button to view/hide content" class="accordion__label">STEP 6: Deal with unruly participants</button>
+  <div class="accordion__content" role="region">
+    <div class="text-formatted"><p><span> </span>If you have a participant who starts their video and displays objectionable content, you can quickly terminate that user’s video.</p><p>1. Open "<strong>Manage Participants." </strong></p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/select_manage_participants_3.png" width="2306" height="122" alt="Select manage participants at the bottom of the screen." typeof="foaf:Image" /></div>
+      
+  </article><p><br />
+	2. Move your cursor to the offender’s name in the "<strong>Participants</strong>" pane. Next to the participant’s name, you will see two buttons. Click on the "<strong>More</strong>" button.</p><article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/more_options.png" width="632" height="250" alt="Use the more dropdown for options to manage individual participants" typeof="foaf:Image" /></div>
+      
+  </article><div>
+	<div><br />
+	3. From the drop down menu you can select "<strong>Stop Video"</strong> or, if necessary, you can select "<strong>Remove</strong>."</div>
+
+	<div>
+	<p><strong>"Stop Video"</strong> does not remove the participant but does restrict their ability to restart their video. The host can restart that participant’s video if desired.</p>
+
+	<p><strong>"Remove" </strong>will open a dialog box, asking you to confirm the action. If you do, the user will be removed and not be able to rejoin the meeting.</p>
+	</div>
+
+	<div>
+	<article class="media media--type-sf-image-media-type media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/media/images/stop_video_or_remove_a_participant.png" width="254" height="321" alt="From the more dropdown you can stop video or remove an individual participant" typeof="foaf:Image" /></div>
+      
+  </article></div>
+	</div><p> </p></div>
+  </div>
+</div>
+
+  
+    <div class="accordion">
+  <button type="button" aria-label="click button to view/hide content" class="accordion__label">STEP 7: Actively monitor participants</button>
+  <div class="accordion__content" role="region">
+    <div class="text-formatted"><p>These recommendations will significantly reduce any participant's ability to disrupt your meeting. </p><p>As the host, you will need to actively monitor participants and deal with any disruptive behavior.</p><p>One additional step you can take is to turn off participants video as they join, using the steps outlined above for unruly participants. When the host turns off the video, the participant cannot restart the video.</p><p>You should also ensure that “<strong>Mute participants on entry</strong>” and “<strong>Enable waiting room</strong>” are both <em><strong>checked</strong></em>.</p></div>
+  </div>
+</div>
+
+  
+    <div class="accordion">
+  <button type="button" aria-label="click button to view/hide content" class="accordion__label">STEP 8: Contact Security</button>
+  <div class="accordion__content" role="region">
+    <div class="text-formatted"><p>If you are having a meeting and you experience a disruption or an uninvited guest, <strong><a href="mailto:security@ucla.edu">email Security</a></strong> as soon as possible so the matter can be investigated further.</p><p>Additionally, anyone who experiences a bias incident should report it by <strong><a href="https://www.deanofstudents.ucla.edu/Report-an-Incident-of-BIAS">completing a UCLA Incident of Bias Reporting Form</a></strong>.</p></div>
+  </div>
+</div>
+
+  
+    <div class="accordion">
+  <button type="button" aria-label="click button to view/hide content" class="accordion__label">Additional Zoom Options</button>
+  <div class="accordion__content" role="region">
+    <div class="text-formatted"><p>Zoom also offers other options that may be value for meeting hosts, including:</p><p><strong>1. <a href="https://support.zoom.us/hc/en-us/articles/201362603-Host-and-Co-Host-Controls-in-a-Meeting?zcid=1231">Lock the meeting</a></strong>. When you lock a Zoom Meeting after it has started, no new participants can join, even if they have the meeting ID and password (if you have required one).</p><p>-In the meeting, click “<strong>Participants</strong>” at the bottom of your Zoom window.<br />
+	-In the Participants pop-up, click the “<strong>Lock Meeting</strong>” button.</p><p><strong>2. </strong><strong><a href="https://support.zoom.us/hc/en-us/articles/201362813-Attendee-On-Hold#h_87d70d90-5b0e-46b8-b7b0-b51e3c9fd699?zcid=1231">Put them on hold</a></strong>. You can put each participant on a temporary hold, including the attendees’ video and audio connections.</p><p>-Click on someone’s video thumbnail and select “<strong>Start Attendee On Hold</strong>” to activate this feature.<br />
+	-Click “<strong>Take Off Hold</strong>” in the Participants list if and when you’re ready to have them back.</p></div>
+  </div>
+</div>
+
+  </div>
+  </div>
+  <div class="paragraph paragraph--type--sf-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-sf-wysiwyg field--type-text-long field--label-hidden field__item"><div> </div>
+
+<p> </p></div>
+      
+      </div>
+
+    </div>
+  </div>
+
+      </div>
+</div>
+          </div>
+  
+  </div>
+
+</article>
+
+  </div>
+
+  </div>
+
+    </div>
+
+    
+      </div>
+</main>
+
+
+<div class="footer__dept" aria-label="Department footer" role="contentinfo">
+  <div class="layout__container">
+
+    
+        <div class="region region-footer" aria-label="footer">
+    <div id="block-bbfooterlogo" class="o-media branding">
+      
+        
+              <div class="o-media__figure branding__figure">
+        <a class="link-img" href="/"><img alt="Site logo" src="https://adminvc.ucla.edu/sites/default/files/2020-11/Uxd_Wht_adminvc.svg" /></a>
+      </div>
+          </div>
+
+<div id="block-footercontactinfo" class="block block-block-content block-block-content68a44cfc-3d3c-4dba-b07c-8b4e6141d34f block-type--sf_basic">
+    
+    
+        
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>(310) 825-2411</p>
+
+<p><a href="mailto:adminvc@ucla.edu">adminvc@ucla.edu</a></p></div>
+      
+  </div>
+
+  </div>
+
+
+    
+  </div>
+</div>
+<div class="layout__container global-foot" aria-label="Global footer" role="contentinfo">
+  <div class="global-foot__wrapper">
+    <div class="social-links-container">
+      <a class="social-icon" href="https://www.facebook.com/UCLA/"><span class="social-icon--facebook"></span><span class="visuallyhidden">Facebook</span></a>
+      <a href="https://www.instagram.com/ucla/"><span class="social-icon--instagram"></span><span class="visuallyhidden">Instagram</span></a>
+      <a href="https://www.linkedin.com/school/ucla"><span class="social-icon--linkedin"></span><span class="visuallyhidden">Linked</span></a>
+      <a href="https://twitter.com/ucla"><span class="social-icon--twitter"></span><span class="visuallyhidden">Twitter</span></a>
+      <a href="https://www.youtube.com/user/UCLA"><span class="social-icon--youtube"></span><span class="visuallyhidden">Youtube</span></a>
+      <a href="https://www.tiktok.com/@ucla?lang=en"><span class="social-icon--tiktok"></span><span class="visuallyhidden">TikTok</span></a>
+      <a href="https://story.snapchat.com/@uclaofficial"><span class="social-icon--snapchat"></span><span class="visuallyhidden">Snapchat</span></a>
+    </div>
+
+    <div class="global-foot__legal">
+
+      <p class="global-foot__legal--copyright">&copy; 2024 Regents of the <a class="copy__link-a dark" href="http://www.universityofcalifornia.edu/">University of California</a></p>
+
+      <ul class="global-foot__legal--list">
+        <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="https://www.bso.ucla.edu/">Emergency</a></li>
+        <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="https://www.ucla.edu/accessibility">Accessibility</a></li>
+        <li class="global-foot__legal--list-item"><a class="global-foot__legal--link" href="https://www.ucla.edu/terms-of-use/">Privacy &amp; Terms of Use</a></li>
+      </ul>
+
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/1226","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"UA-45095774-18","otherIds":["G-FR77Y2SZFS"],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"classy\/base,classy\/messages,classy\/node,core\/normalize,google_cse\/googlecseWatermark,google_tag\/gtag,google_tag\/gtag.ajax,layout_discovery\/onecol,media\/filter.caption,paragraphs\/drupal.paragraphs.unpublished,siteden_components\/sf_accordion,siteden_surface\/global-scripts,siteden_surface\/global-styles,social_media_links\/social_media_links.theme,system\/base","theme":"siteden_surface","theme_token":null},"ajaxTrustedUrl":{"\/search\/google":true},"googleCSE":{"cx":"006855704751877854816:c87uvsnioza","language":"en","resultsWidth":0,"domain":"adminvc.ucla.edu","isDefault":true},"user":{"uid":0,"permissionsHash":"58a1a1cc640eb8ac1b2494ab191f9eccc0916341c74567c34e2205ab329c81f0"}}</script>
+<script src="/sites/default/files/js/js_f_uTkYYuFSIiTto1BQXc_3e01dLCz-qvkY9YzIUhqwc.js"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?s8xeui"></script>
+<script src="/sites/default/files/js/js_nltuPz17xSmWQh8GumxlIOAfxcIijM3rsmXq2euuHps.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,538 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Exposure Management FAQs | UCLA Student Health</title>
+<link rel="stylesheet" href="/themes/custom/ucla_sa/fonts/proximanova.css?v=20240220144912">
+<link rel="stylesheet" href="/themes/custom/ucla_sa/css/ucla_sa.css??v=20240220144912">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120085288-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', 'UA-120085288-1');
+</script>
+<style type="text/css">
+.full-bleed-text{
+     padding:6%;
+}
+@media only screen and (min-width:990px){
+     .full-bleed-bg{
+         background: url(/media/487);
+         height:640px;
+         background-repeat: no-repeat;
+         background-size: 100%;
+         padding: 2rem;
+         margin-right: -24px;
+         margin-left: -24px;
+    }
+    .full-bleed-bg img{
+         display:none;
+    }
+    .full-bleed-text h2{
+         font-size: 3rem;
+         line-height: 3.375rem;
+         padding-bottom:2%;
+    }
+    .full-bleed-text p, .full-bleed-text ul{
+         font-size:16pt;
+         line-height: 1.4;
+    }
+}
+@media only screen and (max-width:1024px){
+     .full-bleed-text{
+         padding: 4% 
+    }
+}
+
+
+
+.button-with-bg{
+  text-align: center;
+  background-image: linear-gradient(#003B5C, #2774AE);
+  margin: 0 -24px -4px -24px;
+  padding: 2rem;
+}
+
+.button-with-bg h2 {
+ color:#fff;
+ font-weight:normal;
+}
+
+.bg-button a {
+ background-color: var(--ucla-gold);
+ border-color: var(--ucla-gold);
+ color: #000000;
+}
+
+.bg-button a:hover, .bg-button a:focus {
+ background-color: var(--yellow);
+ border-color: var(--yellow);
+color: #000000;
+}
+
+.ashe-floor-1 {
+  width: 109px;
+  height: 280px;
+  background-image: url('/file/d631dcd5-329a-4cc3-aa13-95a622d717ed');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ashe-floor-2 {
+  width: 187px;
+  height: 280px;
+  background-image: url('/file/6bf4b8aa-1230-499b-89a5-174dfb6f55f8');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ashe-floor-3 {
+  width: 136px;
+  height: 280px;
+  background-image: url('/file/b3e196ae-bd4f-4cc3-895b-6a0c9db975d0');
+ background-repeat: no-repeat;
+  background-size: cover;
+}
+.ashe-floor-4 {
+  width: 163px;
+  height: 280px;
+  background-image: url('/file/5d544f8b-240f-4524-b511-91bc6344ac9b');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.ashe-floor-descriptions {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 1rem;
+}
+.ashe-floor-descriptions p {
+  display: inline-block; 
+   vertical-align: top;
+}
+.ashe-room-radiology {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/d4e70fd1-2fab-48e6-9ff8-744627eaca9b');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-womens {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/5ad53dc9-c564-46dc-9edd-22c3aaeb737b');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-acupuncture {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/793e100d-14a8-4aab-b56e-585721bfd304');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-scheduling {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/40ed8066-6720-452c-890b-3283e5b417ce');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-2-clinic {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/0f600fff-520f-42bf-b32e-22abb9c4c9e2');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-dental {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/1abd9f51-be51-4fb5-9d40-b2cd429a6e83');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-nursing {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/afdea2af-83c4-4add-b611-c3aa88eac7af');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-immune {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/6d25268e-2d10-4517-98c2-fe2f6b38b606');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-physical-therapy {
+  width: 57px;
+  height: 57px;
+  background-image: url('file/3985052e-3b2d-45d7-b961-8c37c9734d85');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-records {
+  width: 57px;
+  height: 57px;
+  background-image: url('file/0510707f-0eef-4615-882e-4dbefd38861f');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.ashe-room-insurance {
+  width: 57px;
+  height: 57px;
+  background-image: url('/file/c0eaeffc-1b38-43d8-8735-8a807eb4dd69');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+@media (max-width:768px) {
+  .ashe-floor-descriptions {
+      margin-top: 2rem;
+  }
+}
+img {
+display: block;
+}
+.tables-col-4 th, .tables-col-4 td {
+    width: 25%;
+}
+.tables-col-5 th, .tables-col-5 td {
+    width: 20%;
+}
+</style>
+<script type="text/javascript">
+"use strict";
+async function covidFAQ() {
+    var node = document.querySelector('[data-ucla=covid-faq]');
+    if(typeof(node) == undefined || node == null) {
+        return;
+    }
+    var before = `${node.innerHTML}`;
+    node.innerText = 'Loading FAQs...';
+    var r = await fetch('https://www.uclahealth.org/ucla-campus-faq-feed.cfm?smajax=true');
+    var data = await r.json();
+    node.innerHTML = '';
+    var toc = document.createElement('div');
+    toc.classList.add('table-of-contents');
+    node.parentNode.insertBefore(toc, node);
+    console.log(node.parentNode.parentNode);
+    var activeCategory = '';
+    for(var i=0; i<data.length; i++) {
+        var item = data[i];
+        if(activeCategory != item.category) {
+            var h2 = document.createElement('h2');
+            h2.innerHTML = item.category;
+            activeCategory = `${item.category}`;
+            node.appendChild(h2);
+        }
+        var h3 = document.createElement('h3');
+        h3.innerHTML = item.question;
+
+        var div = document.createElement('div');
+        div.innerHTML = item.answer;
+
+        for(var ul of div.querySelectorAll('ul')) {
+            ul.classList.add('bullet');
+        }
+        for(var a of div.querySelectorAll('a')) {
+            if(!a.getAttribute('href').match(/http/)) {
+                a.setAttribute('href', `https:///www.uclahealth.org/${a.getAttribute('href')}`);
+            }
+        }
+
+        node.appendChild(h3);
+        node.appendChild(div);
+    }
+
+var tocs = document.querySelectorAll('.table-of-contents');
+for(var i=0; i < tocs.length; i++) {
+    generateTableOfContents(tocs[i]);
+}
+
+ 
+
+
+function generateTableOfContents(toc) {
+    var parent = document.querySelector('.page-content');
+    toc.innerHTML = '';
+    var currentLevel = 2;
+    var ulForLevel = {
+        2: document.createElement('ul'),
+        3: null
+    }
+    toc.appendChild(ulForLevel[2]);
+    console.log(ulForLevel);
+    var tocFound = false;
+    var items = parent.querySelectorAll('h2, h3');
+    console.log(items);
+    for(var i=0; i < items.length; i++) {
+        var item = items[i];
+        console.log(item);
+        var key = item.textContent.replace(/ /g, '_').replace(/[^a-zA-Z0-9_]/g, '').toLowerCase();
+        item.id = key;
+        var li = document.createElement('li');        
+        var a = document.createElement('a');
+        a.href = '#' + key;
+        a.innerText = item.innerText;
+        li.appendChild(a);
+        var level = parseInt(item.nodeName.replace('H', ''));
+        if(currentLevel > level) {
+            ulForLevel[currentLevel] = null;
+        } else if(level == NaN) {
+        	level = 2;
+        }
+        if(ulForLevel[level] != null) {
+            ulForLevel[level].appendChild(li);           
+        } else {
+            ulForLevel[level] = document.createElement('ul');
+            console.log( ulForLevel[level - 1], item, level);
+            ulForLevel[level - 1].querySelector(':scope > li:last-child').appendChild(ulForLevel[level]);
+            ulForLevel[level].appendChild(li);
+        }
+        currentLevel = level;
+    }
+}
+
+}
+
+if (document.readyState === "complete" || document.readyState === "interactive") {
+    // Document is already ready to go.
+    setTimeout(covidFAQ, 1);
+} else {
+    document.addEventListener('DOMContentLoaded', function (event) {
+        covidFAQ();
+    });
+}
+</script>
+</head>
+<body
+    data-ucla-ref="load/exposure-management-faqs"
+    data-ucla-path="/exposure-management-faqs"
+    data-ucla-origin="https://www.studenthealth.ucla.edu"
+    class="no-js"
+>
+<script>document.body.classList.remove('no-js'); document.body.classList.add('js');</script>
+<header class="header">
+    <div class="skip-to-main">
+    <a href="#main">Skip to Main Content</a>
+    </div>
+            <div class="nav-topbar desktop-only">
+    <nav aria-label="Secondary Top" class="nav-secondary container">
+    <ul>
+  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
+  <li><a href="https://www.immunizationrequirement.ucla.edu/">Immunization Requirements</a></li>
+  <li><a href="/afterhours">AfterHours</a></li>
+  <li><a href="/careers">Careers</a></li>
+  <li class="topbar-yellow-button"><strong><a href="/portal">PATIENT PORTAL</a></strong></li>
+</ul>
+    </nav>
+    </div>
+    <div class="headerbar container">
+          <a href="/" class="site-name"><img src="/sites/default/files/UCLA_Logo_AsheCenter.fw_.png" height="70" width="780" alt="UCLA Arthur Ashe Student Health &amp; Wellness Center"></a>
+          <div class="header-right">
+      <button class="mobile-only" aria-haspopup="true" aria-controls="menus" aria-expanded="false" aria-label="Main Menus"></button>
+      <form action="https://www.ucla.edu/search" method="GET" class="site-search desktop-only">
+      <label for="header-search-headerbar">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-headerbar"><button type="submit">Search</button>
+      </form>
+      </div>
+    </div>
+    <div id="menus">
+    <form action="https://www.ucla.edu/search" method="GET" class="site-search mobile-only">
+      <label for="header-search-mobile-only">Search Website</label><input name="q" type="search" placeholder="Search..." id="header-search-mobile-only"><button type="submit">Search</button>
+    </form>
+    <nav aria-label="Main" class="nav-main container">
+    <ul>
+  <li><a href="/services">Services</a></li>
+  <li><a href="/insurance">Insurance</a></li>
+  <li><a href="/fees">Fees</a></li>
+  <li><a href="/about">About</a></li>
+  <li><a href="/contact">Contact</a></li>
+</ul>
+    </nav>
+    <nav aria-label="Secondary Menu" class="nav-secondary container mobile-only">
+    <ul>
+  <li><a href="https://covid-19.ucla.edu">COVID-19</a></li>
+  <li><a href="https://www.immunizationrequirement.ucla.edu/">Immunization Requirements</a></li>
+  <li><a href="/afterhours">AfterHours</a></li>
+  <li><a href="/careers">Careers</a></li>
+  <li class="topbar-yellow-button"><strong><a href="/portal">PATIENT PORTAL</a></strong></li>
+</ul>
+    </nav>
+    </div>
+</header>
+<main id="main">
+  <div class="container">
+        <div class="page">
+<div class="page-header">
+  <div id="block-system-messages">
+<div data-drupal-messages-fallback class="hidden"></div>
+</div>
+<div id="block-breadcrumbs">
+  
+    
+      
+  </div>
+<div id="block-ucla-sa-page-title">
+  
+    
+      
+  <h1>Exposure Management FAQs</h1>
+
+
+  </div>
+
+
+</div>
+<div class="page-content">
+  <div id="block-mainpagecontent">
+  
+    
+      <div data-ucla-node-id="136" data-repeat-body_content-max-count="0">
+
+
+
+
+<div class="collapse collapse-h3">
+
+<div class="body-content body--section">
+
+<p><strong><em>We've developed the following Frequently Asked Questions below to assist the Bruin community as we work diligently to address all inquiries. Please read through the newest frequently asked questions about testing, vaccination, or exposure to COVID-19.</em></strong></p> <section class="columns columns-2 columns-2-5050"> <section class="column column-1"> <h2>If You Tested Positive</h2> <ul> <li><strong>Please isolate immediately and refer to</strong><a href="https://ucla.app.box.com/s/ytuwjy4j3ntmvfuexfga6jxmwseu6ghd"><strong>UCLA COVID-19 Isolation &amp; Quarantine Protocols</strong></a><strong>.</strong><strong>Do not wait for a response to your message, start isolation immediately</strong>,<strong> contact the Exposure Management Team at</strong><a href="mailto:exposuremanagementteam@ashe.ucla.edu">exposuremanagementteam@ashe.ucla.edu</a><strong> or (310) 206-6217 to be given isolation instructions and the earliest date you can return to campus safely.</strong></li> <li>To be evaluated by a medical provider for COVID-19, please log in to <a href="https://www.studenthealth.ucla.edu/portal">The Ashe Center Patient Portal</a> to <strong>send a secure message</strong> or <strong>schedule a telehealth visit</strong>.</li></ul> <p class="button"><a href="https://www4.studenthealth.ucla.edu/contactus/contactus.aspx?id=covid">Send a message to Exposure Management Team</a></p></section> <section class="column column-2"> <h2>Isolation, quarantine and contact tracing</h2> <p>It’s expected that some students, faculty or staff will test positive for COVID-19. To protect their health and the health of the campus community, isolation, contact tracing and quarantine protocols are in place, as outlined below.</p> <p>For students, the prospect of missing class time, projects or assessments because of a positive test can be daunting. Please know that your instructors understand the situation and are committed to accommodating those who cannot be in class through video or audio streaming or recordings, makeup assignments, alternative projects, or other means.</p> <p><strong>Students who need to isolate or quarantine should notify their course instructors as soon as possible and explain their circumstances. If an instructor requires a medical note, students in isolation or quarantine will receive an academic support letter from the Exposure Management Team during the case investigation process.</strong></p> <p class="button"><a href="https://ucla.app.box.com/s/ytuwjy4j3ntmvfuexfga6jxmwseu6ghd">Detailed information on quarantine and isolation</a></p> <h3>​</h3></section></section>
+
+</div>
+
+  <div class="body-content paragraph--section" data-section-title="Positive COVID-19 Test Result">
+          <h2>
+Positive COVID-19 Test Result
+</h2>
+      
+<h3><strong>I just tested positive for COVID. What do I do?</strong></h3>
+
+<p>If you tested positive, isolate immediately and report your positive test to the Exposure Management Team at <a href="mailto:exposuremanagementteam@ashe.ucla.edu"><strong>exposuremanagementteam@ashe.ucla.edu</strong></a><strong> or (310) 206-6217. </strong>While waiting to be contacted, please notify any close contacts of your positive test.</p>
+
+<h3><strong>What is the isolation timeline for a positive COVID-19 result? When can I come to campus or leave isolation?</strong></h3>
+
+<p>The standard isolation period for those who test positive for COVID-19 is 5 days if you have not had a fever for at least 24 hours without the use of fever-reducing medication, <strong>AND</strong> your symptoms are mild and improving, or have never developed. See further isolation guidance listed in the&nbsp;<a href="https://ucla.app.box.com/s/ytuwjy4j3ntmvfuexfga6jxmwseu6ghd">UCLA COVID-19 Isolation and Quarantine Protocol</a>.</p>
+
+<h3><strong>I recently did a rapid test at home and it was positive. What should I do?</strong></h3>
+
+<p>You need to isolate immediately.&nbsp;<a href="https://www4.studenthealth.ucla.edu/contactus/contactus.aspx?id=covid">Alert the Exposure Management Team</a>. The team&nbsp;will contact you for case investigation as soon as possible.</p>
+
+<h3><strong>How do I self-request a diagnostic test via The Ashe Center Patient Portal if I have symptoms?</strong></h3>
+
+<p>Log into The Ashe Center Patient Portal&nbsp;&gt; Appointments/Online Services &gt; Schedule an Appointment &gt; COVID-19 testing.&nbsp;An Ashe Center nurse will contact you and provide testing instructions within one business day. Results from diagnostic testing at Ashe are typically available the next morning.</p>
+
+      </div>
+
+  <div class="body-content paragraph--section" data-section-title="UCLA COVID-19 Vaccination Policy">
+          <h2>
+UCLA COVID-19 Vaccination Policy
+</h2>
+      
+<h3><strong>Am I required to get the COVID-19 booster?</strong></h3>
+
+<p>No, the COVID-19 booster is no longer required per the <a href="https://ucnet.universityofcalifornia.edu/news/2023/05/uc-updating-covid-19-vaccination-policy-to-systemwide-opt-out-program.html">UC Office of the President</a>.</p>
+
+<h3><strong>What is the new COVID-19 vaccination policy?</strong></h3>
+
+<p>Under the revised policy that will be circulated for review, the University will require students and employees to <strong>either receive or affirmatively decline</strong> COVID-19 vaccination. It is expected that the revised policy will require covered individuals to be vaccinated consistent with applicable public health recommendations or opt out. Neither the Food and Drug Administration (FDA) nor the Centers for Disease Control and Prevention (CDC) has yet made a recommendation on the frequency of vaccination.</p>
+
+<h3><strong>What inspired the changes to the COVID-19 vaccination policy?</strong></h3>
+
+<p>The decision to update UC’s policy reflects the welcome fact that UC has entered a very different phase in our response, with&nbsp;<a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html">more than 88 million COVID-19 vaccines having been administered in California</a>.&nbsp;The CDC&nbsp;<a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html">continues to recommend that everyone 6 months of age and older be up to date with COVID vaccines</a>.</p>
+
+<h3><strong>I have questions or concerns about this updated COVID-19 vaccination policy. Where should I send them?</strong></h3>
+
+<p>If you have questions or concerns about the proposed policy change, please direct them to:&nbsp;<a href="mailto:vaccinepolicycomments@ucop.edu">vaccinepolicycomments@ucop.edu.</a></p>
+
+<h3><strong>Where can I learn more about these changes to the COVID-19 vaccination policy?</strong></h3>
+
+<p>Visit the <a href="https://covid-19.ucla.edu/">UCLA COVID-19 and Vaccine Resources </a>hub for the latest news, and updates on UCLA's COVID-19 vaccination policy.&nbsp;</p>
+
+      </div>
+
+  <div class="body-content paragraph--section" data-section-title="UCLA Campus Housing and Isolation">
+          <h2>
+UCLA Campus Housing and Isolation
+</h2>
+      
+<h3><strong>I live in the on-campus dorms and I tested positive. Do I need to move into isolation housing? </strong></h3>
+
+<p>UCLA has a very limited number of isolation spaces available to students living on-campus. Students who test positive will have the option to utilize one of these rooms as space permits. More information on COVID-19 protocols for UCLA Housing residents is <a href="https://portal.housing.ucla.edu/covid-19-protocols">available through the UCLA Housing portal.</a></p>
+
+      </div>
+
+
+
+
+
+
+</div>
+</div>
+  </div>
+
+
+</div>
+</div>
+
+
+        <div class="page-footer-container page-footer-2-column" role="contentinfo">
+<div class="page-footer-box">
+<h2 class="h3">Contact Ashe Center</h2>
+<p>
+    <a href="https://goo.gl/maps/xLvHX7pY6TzVduS37">221 Westwood Plaza<br>
+    Los Angeles, CA 90095</a><br>
+    <a href="tel:+13108254073">310-825-4073</a><br>
+    Fax: (310) 206-8012<br>
+    <a href="/contact">Contact</a>
+</p>
+</div>
+<div class="page-footer-box">
+<h2 class="h3">Stay in the know</h2>
+<div class="social-links-container">
+  <a href="https://www.facebook.com/uclastudenthealth/"><span class="social-link-label">Facebook @uclastudenthealth</span></a>
+  <a href="https://www.instagram.com/uclaashecenter"><span class="social-link-label">Instagram @uclaashecenter</span></a>
+  <a href="https://www.linkedin.com/company/ucla-ashe-student-health-center/"><span class="social-link-label">LinkedIn @ucla-ashe-student-health-center</span></a>
+</div>
+<p>
+  <a href="/services/sydney-health-mobile-app">Sydney Health Mobile App</a>
+</p>
+</div>
+</div>
+      </div>
+</main>
+<footer>
+<div class="container">
+<nav class="nav-footer" aria-label="Footer">
+  <ul>\n  <li><a href="https://www.ucla.edu/accessibility" class="icon-ada">Accessibility</a></li>\n  <li><a href="https://www.ucla.edu/">UCLA</a></li>\n  <li><a href="https://www.studentaffairs.ucla.edu/">Student Affairs</a></li>\n  <li><a href="https://www.transportation.ucla.edu/campus-parking">Maps, Directions, Parking</a></li>\n  <li><a href="https://registrar.ucla.edu/calendars">Academic Calendar</a></li>\n  <li><a href="https://www.universityofcalifornia.edu/">University of California</a></li>\n  <li><a href="https://www.ucla.edu/terms-of-use">Terms of Use</a></li>\n</ul>
+
+</nav>
+</div>
+</footer>
+<script src="/themes/custom/ucla_sa/js/ucla_sa.js?v=a20240220144912" async></script>
+<script type="text/javascript">
+(function() {
+  if(document.querySelector('[data-ucla]')) {
+    var embed = document.createElement('script'); embed.type = 'text/javascript'; embed.async = true;
+    embed.src = '/themes/custom/ucla_sa/js/ucla_embed.js?v=20240220144912';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(embed, s);
+  }
+})();
+</script>
+</body>
+</html>

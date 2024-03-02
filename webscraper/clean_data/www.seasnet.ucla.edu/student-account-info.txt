@@ -1,0 +1,64 @@
+Student Account Information | SEASnet
+Select Page
+SEASnet STUDENT ACCOUNT
+You can
+get a new SEASnet Student Account
+if you meet
+all the eligibilities
+You can
+change your password by following the instructions here
+You can request to
+recover your username and/or reset your password by following the instructions here
+If you suspect your account has been compromised,
+change your password immediately
+and then contact the SEASnet Help Desk
+SEASnet
+User Agreement
+:
+www.seasnet.ucla.edu/user-account-policy
+LAB LOCATIONS and HOURS
+See
+www.seasnet.ucla.edu/seasnet-computer-labs
+SOFTWARE
+Lab PC’s have most, if not all, software needed for you to do your coursework. A list of installed Windows applications can be found at:
+www.seasnet.ucla.edu/application-on-windows-lab-pcs
+All Linux applications are also available from the Lab PC’s, but you will need to start
+Xming
+to use those that require X-Windows. A list of Linux applications can be found at:
+www.seasnet.ucla.edu/linux-software
+SEASnet participates in various programs to offer software to our students for free or at a reduced rate, please visit our software download website at:
+www.seasnet.ucla.edu/software-download
+for additional information
+REMOTE ACCESS: PC LAB APPLICATIONS – *UCLA VPN REQUIRED TO CONNECT
+You can remotely access most of the software available in the Lab PCs by using the
+SEASnet RemoteApps or Remote Desktop
+REMOTE ACCESS: LINUX SERVERS – *UCLA VPN REQUIRED TO CONNECT
+You can use a
+SSH program
+from your computer to connect to the
+SEASnet Linux server
+PRINTING
+See
+www.seasnet.ucla.edu/printing-tips
+WINDOWS LAB ENVIRONMENT FAQ
+Before you logon, make sure you select the SEASLAB domain and not the local machine.
+Some
+applications
+are restricted to course work only and must be activated by your instructor or TA.
+Save all your work on the [Z:] drive ONLY. This is the same as your Linux home directory. Note that Windows directories: Application Data, Desktop, Documents, Downloads and some Windows specific folders (such as the recycling bin) storage resides in your Linux home directory. The storage space for your account has a limit of 3GB. We have provided a small buffer; however, you will experience problems if you ignore your storage balance and hit the hard limit. SEASnet sends out daily emails to users exceeding their disk quotas.
+You can customize your Windows environment by adding shortcuts, changing backgrounds, etc. Your customization will be saved in your personal profile and restored the next time you logon.
+ALWAYS logoff from your account when you are done by pressing CTRL+ALT+DEL and clicking Log Off.
+LINUX LAB ENVIRONMENT FAQ
+If you have questions about anything in Linux, try the online manuals by typing man <command> or man –k <keyword>
+ALWAYS logout from your account when you are done by typing logout or exit
+Some basic Linux commands can be found at:
+www.seasnet.ucla.edu/how-to-use-basic-unix-commands
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

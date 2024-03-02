@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta http-equiv="content-type"
+ content="text/html; charset=ISO-8859-1">
+  <title>Conquest-2</title>
+</head>
+<body style="color: rgb(0, 0, 0); background-color: rgb(153, 255, 153);"
+ link="#000099" vlink="#990099" alink="#000099">
+<br>
+<br>
+<div style="text-align: center;"><big><big><big><big
+ style="font-family: capitals; color: rgb(153, 102, 51);"><span
+ style="font-weight: bold;">Conquest-2</span></big></big><br>
+<br style="font-weight: bold; font-family: capitals;">
+<span
+ style="font-weight: bold; font-family: helvetica,arial,sans-serif;"><span
+ style="font-style: italic;">Improving Energy Efficiency and Performance</span><br
+ style="font-style: italic;">
+<span style="font-style: italic;">&nbsp;Through a Disk/Hybrid File
+System</span></span></big></big><br
+ style="font-family: helvetica,arial,sans-serif;">
+</div>
+<br>
+<hr style="width: 100%; height: 5px; color: rgb(102, 0, 204);"><br>
+<br>
+<br>
+<div style="margin-left: 40px;"><big
+ style="font-weight: bold; font-family: helvetica,arial,sans-serif;">NSF
+Grant: <span style="color: rgb(0, 0, 153);">CNS-0410908 (Jul 2004 to
+Jun 2007)</span></big><br>
+<big style="font-weight: bold; font-family: helvetica,arial,sans-serif;">UCLA
+PI:&nbsp; <span style="color: rgb(0, 0, 153);"><a
+ href="http://www.lasr.cs.ucla.edu/reiher.new/index2.html">Peter
+Reiher</a>
+(Laboratory for Advanced Systems Research)</span></big><br>
+<big style="font-weight: bold; font-family: helvetica,arial,sans-serif;">FSU
+PI:&nbsp; <span style="color: rgb(0, 0, 153);"><a
+ href="http://www.cs.fsu.edu/%7Eawang/">An-I (Andy) Wang</a> (FSU
+Computer Science Department)</span></big><br>
+</div>
+<center>
+<br>
+<a href="conquest/conquest6.jpg"><br>
+</a></center>
+<br>
+<br>
+<br>
+<table cellpadding="2" cellspacing="2" border="1"
+ style="text-align: left; width: 90%;">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top;">
+      <div style="margin-left: 40px;"><big><span
+ style="font-weight: bold;"><span style="font-style: italic;">Conquest-2</span>
+is a three-year
+NSF-funded collaborative research grant with Florida State
+University.&nbsp; In conjunction with Andy Wang of Florida State
+University, we are developing a file system that can simultaneously
+provide high file systems performance and energy efficiency.&nbsp; The
+key for reconciling these generally conflicting goals is based on the
+observation that RAM is becoming an inexpensive resource that can
+deliver all file system services with the single exception of large
+storage capacity.&nbsp; In essence, instead of storing most files on
+disks, Conquest-2 stores them only in RAM.&nbsp; Also, it stores all
+metadata in RAM.&nbsp; Since&nbsp; most files can then be accessed
+directly from RAM, there is no need to keep the disk spinning.&nbsp;
+Only large files need to be kept on disk, and such files will be
+accessed infrequently.&nbsp; While RAM running in its normal mode
+consumes a great deal of power, RAM can be put into an extremely
+power-efficient mode and returned to its normal mode much more rapidly
+than disk can.</span><br style="font-weight: bold;">
+      <br style="font-weight: bold;">
+      <span style="font-weight: bold;">Our research suggests that one
+can
+achieve better power savings than LRU caching by instead using RAM with
+battery backup as the primary persistent storage for most files, and
+providing two separate data paths to memory and disk storage.&nbsp; By
+specializing the data paths, the memory data path contains
+no-disk-related complexity.&nbsp; The disk data path consists only of
+optimizations for the specialized disk usage pattern.&nbsp; </span><br
+ style="font-weight: bold;">
+      <br style="font-weight: bold;">
+      <span style="font-weight: bold;"><span style="font-style: italic;">Conquest-2
+      </span>is based on the original <a
+ href="http://www.lasr.cs.ucla.edu/conquest_new.html">Conquest </a>disk/RAM
+hybrid file system
+(NSF grant CCR-0098363).&nbsp; Under the original Conquest, all
+metadata (e.g., file attributes) and all files smalled than a certain
+threshold are stored in RAM, while the disk stores only the data
+content of large files.&nbsp; The performance improvement is achieved
+by matching the user behavior with physical characteristics, and having
+two specialized data paths.&nbsp; <span style="font-style: italic;">Conquest-2</span>
+will extend the original Conquest to handle multiple disks.&nbsp;
+Minimizing the energy use for multiple disks involves creating a
+bimodal distribution of active and idle disks, so we can put idle disks
+to sleep to conserve power.&nbsp; The idea is to design and implement
+an energy-efficient RAID that can "gear shift" disks on and off to
+adapt for changing loads.&nbsp; This energy-efficient RAID also needs
+to address existing load balancing and failure recovery concerns by
+exploting user access patterns, applying erasure encoding, and striping
+data in a non-uniform way.</span><br>
+      </big></div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+</body>
+</html>

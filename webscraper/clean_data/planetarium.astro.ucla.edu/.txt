@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full motion-safe:scroll-smooth" data-theme="dark">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <meta name="generator" content="Astro v2.10.12">
+
+    <title>UCLA Planetarium</title>
+    <meta name="description" content="The UCLA Planetarium hosts public and private graduate student-run shows.">
+
+    <!-- social media -->
+    <meta property="og:title" content="UCLA Planetarium">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="The UCLA Planetarium hosts public and private graduate student-run shows.">
+    <meta property="og:image" content="https://planetarium.astro.ucla.edu/social.jpg">
+    <meta property="og:url" content="https://planetarium.astro.ucla.edu/">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <!-- initialize theme -->
+    <script>
+      const themeSaved = localStorage.getItem("theme");
+
+      if (themeSaved) {
+        document.documentElement.dataset.theme = themeSaved;
+      } else {
+        const prefersDark = window.matchMedia(
+          "(prefers-color-scheme: dark)",
+        ).matches;
+        document.documentElement.dataset.theme = prefersDark ? "dark" : "light";
+      }
+
+      window
+        .matchMedia("(prefers-color-scheme: dark)")
+        .addEventListener("change", (event) => {
+          if (!localStorage.getItem("theme")) {
+            document.documentElement.dataset.theme = event.matches
+              ? "dark"
+              : "light";
+          }
+        });
+    </script>
+  <link rel="stylesheet" href="/_astro/about.07183447.css" />
+<link rel="stylesheet" href="/_astro/index.c4fc7d57.css" />
+<link rel="stylesheet" href="/_astro/index.06cb6420.css" /><script type="module" src="/_astro/hoisted.09d67cd9.js"></script></head>
+  <body class="h-full overflow-x-hidden bg-default text-default text-base selection:bg-secondary selection:text-white">
+    <header id="page-header" class="invisible absolute top-0 z-20 flex w-full items-center justify-between border-b border-transparent px-8 py-4 text-white astro-HPNW4VWY">
+  <a class="flex items-center gap-3 hover:!text-default astro-HPNW4VWY" href="#intro">
+    <h1 class="sr-only astro-HPNW4VWY">UCLA Planetarium</h1>
+    <picture>
+	<source type="image/avif" srcset="/_astro/planetarium_logo.7116a657_1zXbRz.avif 450w,/_astro/planetarium_logo.7116a657_Z12tBjS.avif 800w" sizes="(min-width: 640px) 42vw, 67vw"><source type="image/webp" srcset="/_astro/planetarium_logo.7116a657_2n4wTk.webp 450w,/_astro/planetarium_logo.7116a657_Zfngi8.webp 800w" sizes="(min-width: 640px) 42vw, 67vw"><source type="image/png" srcset="/_astro/planetarium_logo.7116a657_Z12xQyR.png 450w,/_astro/planetarium_logo.7116a657_ZCHpKb.png 800w" sizes="(min-width: 640px) 42vw, 67vw">
+	<img alt="A bruin with the ursa major constellation overlaid" src="/_astro/planetarium_logo.7116a657_ZCHpKb.png" loading="eager" decoding="async" class="h-10 astro-HPNW4VWY">
+</picture>
+    <!--<Icon name="astro_logo_cropped" class="h-10 fill-transparent" />-->
+    <!--<Icon name="wordmark" class="hidden h-4 sm:block" />-->
+    <p class="astro-HPNW4VWY">UCLA Planetarium</p>
+  </a>
+  <div class="astro-HPNW4VWY">
+    <div class="flex items-center gap-6 astro-HPNW4VWY">
+      <nav class="hidden sm:block astro-HPNW4VWY">
+        <ul class="flex items-center gap-6 astro-HPNW4VWY">
+          <li class="astro-HPNW4VWY">
+                <a class="text-sm astro-HPNW4VWY" href="../about">
+                  About
+                </a>
+              </li><li class="astro-HPNW4VWY">
+                <a class="text-sm astro-HPNW4VWY" href="../#shows">
+                  Shows
+                </a>
+              </li><li class="astro-HPNW4VWY">
+                <a class="text-sm astro-HPNW4VWY" href="../directions">
+                  Directions
+                </a>
+              </li><li class="astro-HPNW4VWY">
+                <a class="text-sm astro-HPNW4VWY" href="../faq">
+                  FAQ
+                </a>
+              </li><li class="astro-HPNW4VWY">
+                <a class="text-sm astro-HPNW4VWY" href="../#contact">
+                  Contact
+                </a>
+              </li>
+        </ul>
+      </nav>
+      <button id="open-nav-button" type="button" class="btn sm:hidden astro-HPNW4VWY" aria-label="Navigation">
+        <svg viewBox="0 0 24 24" class="h-8 astro-HPNW4VWY" astro-icon="mdi:menu"><path fill="currentColor" d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+      </button>
+      <!--
+  negative margin is sum of button width (8) and gap size of flex parent (6)
+  TODO don't hardcode these values
+--><button id="theme-switcher" type="button" class="-ml-14 origin-[right_center] scale-0 transition-all duration-500 astro-L4AEQEA3">
+  <div id="icon-theme-light" class="astro-L4AEQEA3">
+    <svg viewBox="0 0 512 512" class="h-8 astro-L4AEQEA3" astro-icon="theme/light"><defs><linearGradient id="astroicon:theme/lighta" x1="149.99" x2="234.01" y1="119.24" y2="264.76" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="currentColor"/><stop offset=".45" stop-color="currentColor"/><stop offset="1" stop-color="currentColor"/></linearGradient><symbol id="astroicon:theme/lightb" viewBox="0 0 384 384"><circle cx="192" cy="192" r="84" fill="url(#astroicon:theme/lighta)" stroke="currentColor" stroke-miterlimit="10" stroke-width="6"/><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="24" d="M192 61.66V12m0 360v-49.66m92.17-222.51 35.11-35.11M64.72 319.28l35.11-35.11m0-184.34L64.72 64.72m254.56 254.56-35.11-35.11M61.66 192H12m360 0h-49.66"><animateTransform additive="sum" attributeName="transform" dur="6s" repeatCount="indefinite" type="rotate" values="0 192 192; 45 192 192"/></path></symbol></defs><use xlink:href="#astroicon:theme/lightb" width="384" height="384" transform="translate(64 64)"/></svg>
+    <span class="sr-only astro-L4AEQEA3">Use light theme</span>
+  </div>
+  <div id="icon-theme-dark" class="hidden astro-L4AEQEA3">
+    <svg viewBox="0 0 512 512" class="h-8 astro-L4AEQEA3" astro-icon="theme/dark"><defs><linearGradient id="astroicon:theme/darkb" x1="54.33" x2="187.18" y1="29.03" y2="259.13" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="currentColor"/><stop offset=".45" stop-color="currentColor"/><stop offset="1" stop-color="currentColor"/></linearGradient><linearGradient id="astroicon:theme/darka" x1="294" x2="330" y1="112.82" y2="175.18" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="currentColor"/><stop offset=".45" stop-color="currentColor"/><stop offset="1" stop-color="currentColor"/></linearGradient><linearGradient xlink:href="#astroicon:theme/darka" id="astroicon:theme/darkc" x1="295.52" x2="316.48" y1="185.86" y2="222.14"/><linearGradient xlink:href="#astroicon:theme/darka" id="astroicon:theme/darkd" x1="356.29" x2="387.71" y1="194.78" y2="249.22"/><symbol id="astroicon:theme/darke" overflow="visible" viewBox="0 0 270 270"><path fill="url(#astroicon:theme/darkb)" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" d="M252.25 168.63C178.13 168.63 118 109.35 118 36.21A130.48 130.48 0 0 1 122.47 3C55.29 10.25 3 66.37 3 134.58 3 207.71 63.09 267 137.21 267 199.69 267 252 224.82 267 167.79a135.56 135.56 0 0 1-14.75.84Z"><animateTransform additive="sum" attributeName="transform" dur="6s" repeatCount="indefinite" type="rotate" values="-15 135 135; 9 135 135; -15 135 135"/></path></symbol></defs><path fill="url(#astroicon:theme/darka)" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m282.83 162.84 24.93-6.42a1.78 1.78 0 0 1 1.71.46l18.37 18a1.8 1.8 0 0 0 3-1.73l-6.42-24.93a1.78 1.78 0 0 1 .46-1.71l18-18.37a1.8 1.8 0 0 0-1.73-3l-24.93 6.42a1.78 1.78 0 0 1-1.71-.46l-18.37-18a1.8 1.8 0 0 0-3 1.73l6.42 24.93a1.78 1.78 0 0 1-.46 1.71l-18 18.37a1.8 1.8 0 0 0 1.73 3Z"><animateTransform additive="sum" attributeName="transform" calcMode="spline" dur="6s" keySplines=".42, 0, .58, 1; .42, 0, .58, 1" repeatCount="indefinite" type="rotate" values="-15 312 144; 15 312 144; -15 312 144"/><animate attributeName="opacity" dur="6s" values="1; .75; 1; .75; 1; .75; 1"/></path><path fill="url(#astroicon:theme/darkc)" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m285.4 193.44 12 12.25a1.19 1.19 0 0 1 .3 1.14l-4.28 16.62a1.2 1.2 0 0 0 2 1.15l12.25-12a1.19 1.19 0 0 1 1.14-.3l16.62 4.28a1.2 1.2 0 0 0 1.15-2l-12-12.25a1.19 1.19 0 0 1-.3-1.14l4.28-16.62a1.2 1.2 0 0 0-2-1.15l-12.25 12a1.19 1.19 0 0 1-1.14.3l-16.62-4.28a1.2 1.2 0 0 0-1.15 2Z"><animateTransform additive="sum" attributeName="transform" begin="-.33s" calcMode="spline" dur="6s" keySplines=".42, 0, .58, 1; .42, 0, .58, 1" repeatCount="indefinite" type="rotate" values="-15 306 204; 15 306 204; -15 306 204"/><animate attributeName="opacity" begin="-.33s" dur="6s" values="1; .75; 1; .75; 1; .75; 1"/></path><path fill="url(#astroicon:theme/darkd)" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m337.32 223.73 24.8 6.9a1.83 1.83 0 0 1 1.25 1.25l6.9 24.8a1.79 1.79 0 0 0 3.46 0l6.9-24.8a1.83 1.83 0 0 1 1.25-1.25l24.8-6.9a1.79 1.79 0 0 0 0-3.46l-24.8-6.9a1.83 1.83 0 0 1-1.25-1.25l-6.9-24.8a1.79 1.79 0 0 0-3.46 0l-6.9 24.8a1.83 1.83 0 0 1-1.25 1.25l-24.8 6.9a1.79 1.79 0 0 0 0 3.46Z"><animateTransform additive="sum" attributeName="transform" begin="-.67s" calcMode="spline" dur="6s" keySplines=".42, 0, .58, 1; .42, 0, .58, 1" repeatCount="indefinite" type="rotate" values="-15 372 222; 15 372 222; -15 372 222"/><animate attributeName="opacity" begin="-.67s" dur="6s" values="1; .75; 1; .75; 1; .75; 1"/></path><use xlink:href="#astroicon:theme/darke" width="270" height="270" transform="translate(121 121)"/></svg>
+    <span class="sr-only astro-L4AEQEA3">Use dark theme</span>
+  </div>
+</button>
+    </div>
+    <div id="menu-modal" class="modal hidden astro-HPNW4VWY" aria-hidden="true">
+      <div class="fixed inset-0 bg-default px-8 py-4 text-default astro-HPNW4VWY">
+        <div class="space-y-4 astro-HPNW4VWY" role="dialog" aria-modal="true">
+          <header class="text-right astro-HPNW4VWY">
+            <button id="close-nav-button" type="button" class="btn astro-HPNW4VWY" aria-label="Close navigation">
+              <svg viewBox="0 0 24 24" class="h-8 astro-HPNW4VWY" astro-icon="mdi:close"><path fill="currentColor" d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+            </button>
+          </header>
+          <div class="flex justify-center astro-HPNW4VWY">
+            <!--<Icon name="ucla_astro_logo" class="h-16" />-->
+            <picture>
+	<source type="image/avif" srcset="/_astro/planetarium_logo.7116a657_1zXbRz.avif 450w,/_astro/planetarium_logo.7116a657_Z12tBjS.avif 800w" sizes="(min-width: 640px) 42vw, 67vw"><source type="image/webp" srcset="/_astro/planetarium_logo.7116a657_2n4wTk.webp 450w,/_astro/planetarium_logo.7116a657_Zfngi8.webp 800w" sizes="(min-width: 640px) 42vw, 67vw"><source type="image/png" srcset="/_astro/planetarium_logo.7116a657_Z12xQyR.png 450w,/_astro/planetarium_logo.7116a657_ZCHpKb.png 800w" sizes="(min-width: 640px) 42vw, 67vw">
+	<img alt="A bruin with the ursa major constellation overlaid" src="/_astro/planetarium_logo.7116a657_ZCHpKb.png" loading="eager" decoding="async" class="h-16 astro-HPNW4VWY">
+</picture>
+          </div>
+          <nav class="astro-HPNW4VWY">
+            <ul class="flex flex-col astro-HPNW4VWY">
+              <li class="astro-HPNW4VWY">
+                    <a class="block py-4 text-center text-xl astro-HPNW4VWY" href="../about">
+                      About
+                    </a>
+                  </li><li class="astro-HPNW4VWY">
+                    <a class="block py-4 text-center text-xl astro-HPNW4VWY" href="../#shows">
+                      Shows
+                    </a>
+                  </li><li class="astro-HPNW4VWY">
+                    <a class="block py-4 text-center text-xl astro-HPNW4VWY" href="../directions">
+                      Directions
+                    </a>
+                  </li><li class="astro-HPNW4VWY">
+                    <a class="block py-4 text-center text-xl astro-HPNW4VWY" href="../faq">
+                      FAQ
+                    </a>
+                  </li><li class="astro-HPNW4VWY">
+                    <a class="block py-4 text-center text-xl astro-HPNW4VWY" href="../#contact">
+                      Contact
+                    </a>
+                  </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+
+<noscript>
+  <style>
+    #open-nav-button {
+      display: none;
+    }
+  </style>
+</noscript>
+    <section class="relative h-full bg-black astro-3EGMGWTG">
+  <div id="starfield" class="absolute inset-0">
+  <canvas id="starfield-canvas"></canvas>
+</div>
+  <div id="splash-bg-fallback" class="absolute inset-0 hidden opacity-40 astro-3EGMGWTG">
+    <picture>
+	<source type="image/avif" srcset="/_astro/moon.e37745fc_Z1yMVJY.avif 450w,/_astro/moon.e37745fc_Z1DFhPq.avif 800w,/_astro/moon.e37745fc_yW6JM.avif 1200w" sizes="100vw"><source type="image/webp" srcset="/_astro/moon.e37745fc_ZLGAIe.webp 450w,/_astro/moon.e37745fc_ZQyVNF.webp 800w,/_astro/moon.e37745fc_1m3rLx.webp 1200w" sizes="100vw"><source type="image/jpeg" srcset="/_astro/moon.e37745fc_Z148XWe.jpg 450w,/_astro/moon.e37745fc_1dLTv3.jpg 800w,/_astro/moon.e37745fc_ZaSIDl.jpg 1200w" sizes="100vw">
+	<img alt="The ridged surface of the moon" src="/_astro/moon.e37745fc_ZaSIDl.jpg" loading="lazy" decoding="async" class="h-full w-full object-cover">
+</picture>
+  </div>
+  <div class="grid h-full place-items-center align-middle sm:grid-cols-1 astro-3EGMGWTG">
+    <!--<h2
+      class="flex flex-col gap-2 self-end sm:gap-4 sm:self-auto sm:justify-self-end"
+    >
+      <Icon name="logomark" class="h-24 text-white md:h-32" />
+      <div
+        class="gradient-text text-center font-extrabold tracking-tighter text-8xl"
+      >
+        Welcome to the
+        <br /> UCLA Planetarium.
+      </div>
+    </h2>-->
+    <div id="astronaut" class="w-2/3 max-w-[40%] sm:w-10/12 sm:align-middle sm:justify-self-center astro-3EGMGWTG">
+      <a href="#intro" class="astro-3EGMGWTG"><picture>
+	<source type="image/avif" srcset="/_astro/planetarium_logo_cropped_warrow.ba44a3f5_Z2r5Tv.avif 450w,/_astro/planetarium_logo_cropped_warrow.ba44a3f5_1LDPzB.avif 800w" sizes="(min-width: 640px) 42vw, 67vw"><source type="image/webp" srcset="/_astro/planetarium_logo_cropped_warrow.ba44a3f5_JEf7f.webp 450w,/_astro/planetarium_logo_cropped_warrow.ba44a3f5_Z2vqWcz.webp 800w" sizes="(min-width: 640px) 42vw, 67vw"><source type="image/png" srcset="/_astro/planetarium_logo_cropped_warrow.ba44a3f5_Rjdeo.png 450w,/_astro/planetarium_logo_cropped_warrow.ba44a3f5_gRfU9.png 800w" sizes="(min-width: 640px) 42vw, 67vw">
+	<img alt="A bruin with the ursa major constellation overlaid" src="/_astro/planetarium_logo_cropped_warrow.ba44a3f5_gRfU9.png" loading="eager" decoding="async" class="h-full w-full object-cover astro-3EGMGWTG">
+</picture></a>
+    </div>
+  </div>
+</section>
+
+<noscript>
+  <style>
+    #splash-bg-fallback {
+      display: block;
+    }
+  </style>
+</noscript>
+    <div class="space-y-24 px-8 py-32">
+      <section id="intro" class="flex scroll-mt-24 flex-col items-center gap-4 space-y-8">
+  <div class="flex flex-col items-center gap-4">
+    
+    <!--<h2
+      class="gradient-text text-center font-extrabold tracking-tight text-4xl"
+    >-->
+    <h2 class="text-center tracking-tight text-4xl">
+      Welcome to the UCLA Planetarium!
+    </h2>
+  </div>
+  <p class="max-w-3xl text-center text-1xl">
+    
+    Public planetarium shows are <span class="text-primary">free</span> and suitable for all ages, and are usually given by current astronomy graduate students. 
+    The content of a show varies by presenter, but commonly includes discussion about the current night sky, constellations, 
+    astronomical phenomena, and more!
+  
+  </p>
+  <p class="max-w-3xl text-center text-1xl">
+    
+  </p>
+  
+  
+  
+
+  <div id="projector" class="w-full max-w-3xl sm:w-10/12 sm:self-auto sm:justify-self-center">
+      <picture>
+	<source type="image/avif" srcset="/_astro/projector.f96b6e83_ZjoBzF.avif 450w,/_astro/projector.f96b6e83_ZQLiz7.avif 800w" sizes="(min-width: 640px) 42vw, 67vw"><source type="image/webp" srcset="/_astro/projector.f96b6e83_sGIr5.webp 450w,/_astro/projector.f96b6e83_Z4EWxm.webp 800w" sizes="(min-width: 640px) 42vw, 67vw"><source type="image/jpeg" srcset="/_astro/projector.f96b6e83_2jjUbL.jpeg 450w,/_astro/projector.f96b6e83_1KWeck.jpeg 800w" sizes="(min-width: 640px) 42vw, 67vw">
+	<img alt="A bruin with the ursa major constellation overlaid" src="/_astro/projector.f96b6e83_1KWeck.jpeg" loading="eager" decoding="async" class="h-full w-full object-cover">
+</picture>
+    </div>
+  
+
+</section>
+      <section id="shows" class="flex scroll-mt-24 flex-col items-center gap-4 space-y-8">
+  <div class="flex flex-col items-center gap-4">
+    
+    <!--<h2
+      class="gradient-text text-center font-extrabold tracking-tight text-4xl"
+    >-->
+    <h2 class="text-center tracking-tight text-4xl">
+      Shows
+    </h2>
+  </div>
+  <p class="max-w-3xl text-center text-1xl">
+    
+    Public shows are hosted every Wednesday when UCLA is in session during the Fall, Winter, and Spring quarters.
+    See <a href="https://registrar.ucla.edu/calendars/annual-academic-calendar" class="text-link hover:underline">the UCLA academic calendar</a> for details about the UCLA schedule. 
+
+    <br>
+
+    <ul class="max-w-2xl self-center list-disc text-left text-1xl">
+    <li>Public planetarium shows start at 8 pm between April and October (7 pm between November and March) on Wednesday evenings (except holidays and final exam weeks)</li>
+    <li>Planetarium shows typically last about <span class="text-primary">60 minutes</span>, broken up into a special topic show and star show, lasting about 30 minutes each</li>
+    <li>The planetarium is located on the 8th floor of the UCLA Mathematical Sciences Building (<a href="directions" class="text-link hover:underline">see here for directions</a>)</li>
+  </ul> 
+  
+  </p>
+  <p class="max-w-3xl text-center text-1xl">
+    
+  </p>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.0/flowbite.min.js"></script>
+
+   
+
+  <h3 class="text-center tracking-tight text-2xl" id="tickets">Upcoming Public Shows:</h3>
+    <p class="max-w-2xl text-center text-l">(click boxes for details and ticket info)</p>
+    <p class="max-w-3xl text-center text-l">Tickets for public shows are free and can be requested from the links below! A subset of the seats will be available to reserve 1 week before the show for those guests that would like to ensure a guaranteed seat. The remainder of the tickets will be released on a first-come, first-serve basis one hour prior to the start of the show. Ticket holders that are not present 15 minutes before the show begins will automatically forfeit their seat, which will be given to those in the queue. There are no late arrivals.</p>
+
+    <div class="max-w-6xl space-y-2">
+          <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
+            <!--{orderedSites.map((site) => <ShowcaseCard site={site} id={site.data.featured} />
+            )}-->
+            <div data-modal-toggle="modal-1" data-modal-show="modal-1">
+              <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.0/flowbite.min.js"></script>
+
+<a class="group aspect-video hover:!text-default"> <!--href = {site.data.url}>-->
+  <figure class="relative h-fill w-fill overflow-hidden">
+    <picture>
+	<source type="image/avif" srcset="/_astro/black_hole.45dcd86d_Z27eNk3.avif 450w,/_astro/black_hole.45dcd86d_1uhgl0.avif 800w" sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"><source type="image/webp" srcset="/_astro/black_hole.45dcd86d_1MdvkC.webp 450w,/_astro/black_hole.45dcd86d_jxrbJ.webp 800w" sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"><source type="image/jpeg" srcset="/_astro/black_hole.45dcd86d_1VePUk.jpeg 450w,/_astro/black_hole.45dcd86d_syLLr.jpeg 800w" sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw">
+	<img alt="An image of Black Holes in the Universe" src="/_astro/black_hole.45dcd86d_syLLr.jpeg" loading="lazy" decoding="async" class="h-fill w-fill bg-cover object-cover transition-all duration-300 group-hover:scale-110 group-hover:opacity-20 group-focus:scale-110 group-focus:opacity-20">
+</picture>
+    <figcaption class="absolute inset-0">
+      <div class="flex h-full flex-col items-center justify-center gap-2 opacity-0 transition-all duration-300 group-hover:opacity-100 group-focus:opacity-100">
+        <h3 class="px-2 text-center font-bold uppercase text-l">
+          Black Holes in the Universe
+        </h3>
+        <p class="px-4 py-2">Ava Huddleston</p>
+        <p class="px-4">Feb. 21, 2024 / 7 pm</p>
+      </div>
+    </figcaption>
+  </figure>
+</a>
+            </div>
+            <div data-modal-toggle="modal-2" data-modal-show="modal-2">
+              <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.0/flowbite.min.js"></script>
+
+<a class="group aspect-video hover:!text-default"> <!--href = {site.data.url}>-->
+  <figure class="relative h-fill w-fill overflow-hidden">
+    <picture>
+	<source type="image/avif" srcset="/_astro/bhm.5290e510_lxLJ.avif 450w,/_astro/bhm.5290e510_Z1sjvm9.avif 800w" sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"><source type="image/webp" srcset="/_astro/bhm.5290e510_Z1angmw.webp 450w,/_astro/bhm.5290e510_2r8Niw.webp 800w" sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"><source type="image/jpeg" srcset="/_astro/bhm.5290e510_kVUJb.jpg 450w,/_astro/bhm.5290e510_Z17I8oH.jpg 800w" sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw">
+	<img alt="An image of Black History Month Special Show" src="/_astro/bhm.5290e510_Z17I8oH.jpg" loading="lazy" decoding="async" class="h-fill w-fill bg-cover object-cover transition-all duration-300 group-hover:scale-110 group-hover:opacity-20 group-focus:scale-110 group-focus:opacity-20">
+</picture>
+    <figcaption class="absolute inset-0">
+      <div class="flex h-full flex-col items-center justify-center gap-2 opacity-0 transition-all duration-300 group-hover:opacity-100 group-focus:opacity-100">
+        <h3 class="px-2 text-center font-bold uppercase text-l">
+          Black History Month Special Show
+        </h3>
+        <p class="px-4 py-2">Nate Magari</p>
+        <p class="px-4">Feb. 28, 2024 / 7 pm</p>
+      </div>
+    </figcaption>
+  </figure>
+</a>
+            </div>
+            <div data-modal-toggle="modal-3" data-modal-show="modal-3">
+              <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.0/flowbite.min.js"></script>
+
+<a class="group aspect-video hover:!text-default"> <!--href = {site.data.url}>-->
+  <figure class="relative h-fill w-fill overflow-hidden">
+    <picture>
+	<source type="image/avif" srcset="/_astro/astro_logo_cropped.e48e4b66_mtOfB.avif 450w,/_astro/astro_logo_cropped.e48e4b66_Z16beSh.avif 800w" sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"><source type="image/webp" srcset="/_astro/astro_logo_cropped.e48e4b66_ZNeYSE.webp 450w,/_astro/astro_logo_cropped.e48e4b66_Z2gU42x.webp 800w" sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"><source type="image/png" srcset="/_astro/astro_logo_cropped.e48e4b66_26dzeA.png 450w,/_astro/astro_logo_cropped.e48e4b66_Cxv5H.png 800w" sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw">
+	<img alt="An image of Women's History Month Special Show" src="/_astro/astro_logo_cropped.e48e4b66_Cxv5H.png" loading="lazy" decoding="async" class="h-fill w-fill bg-cover object-cover transition-all duration-300 group-hover:scale-110 group-hover:opacity-20 group-focus:scale-110 group-focus:opacity-20">
+</picture>
+    <figcaption class="absolute inset-0">
+      <div class="flex h-full flex-col items-center justify-center gap-2 opacity-0 transition-all duration-300 group-hover:opacity-100 group-focus:opacity-100">
+        <h3 class="px-2 text-center font-bold uppercase text-l">
+          Women&#39;s History Month Special Show
+        </h3>
+        <p class="px-4 py-2">Sofia Rojas</p>
+        <p class="px-4">March 6, 2024 / 7 pm</p>
+      </div>
+    </figcaption>
+  </figure>
+</a>
+            </div>
+          </div>
+          
+          <div id="modal-1" tabindex="-1" aria-hidden="true" class="fixed top-0 left-0 right-0 z-50 hidden w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 h-[calc(100%-1rem)] max-h-full">
+            <div class="relative w-full max-w-2xl max-h-full">
+                <div class="relative bg-white rounded-lg shadow dark:bg-gray-700">
+                    <div class="flex items-start justify-between p-4 border-b rounded-t dark:border-gray-600">
+                        <h3 class="text-xl font-semibold text-gray-900 dark:text-white">
+                            Black Holes in the Universe
+                        </h3>
+                        <button type="button" class="text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 ml-auto inline-flex justify-center items-center dark:hover:bg-gray-600 dark:hover:text-white" data-modal-hide="modal-1">
+                            <svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6"></path>
+                            </svg>
+                            <span class="sr-only">Close modal</span>
+                        </button>
+                    </div>
+                    <!-- Modal body -->
+                    <div class="p-6 space-y-6">
+                        <h4 class="text-base leading-relaxed text-gray-700 dark:text-gray-600">
+                            Feb. 21, 2024 / 7 pm
+                        </h4>
+                        <h4 class="text-base leading-relaxed text-gray-700 dark:text-gray-600">
+                            Ava Huddleston
+                        </h4>
+                        <p class="text-base leading-relaxed text-gray-500 dark:text-gray-400">
+                            Join us in learning about the principles behind black holes and why they capture the imagination of scientists.
+                        </p>
+                    </div>
+                    <a href="https://pretix.eu/UCLAplanetarium/feb21show/">
+                    <div class="flex items-center p-6 space-x-2 border-t border-gray-200 rounded-b dark:border-gray-600">
+                        <button data-modal-hide="modal-1" type="button" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Tickets</button>
+                    </div>
+                  </a>
+                </div>
+            </div>
+        </div>
+
+          <div id="modal-2" tabindex="-1" aria-hidden="true" class="fixed top-0 left-0 right-0 z-50 hidden w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 h-[calc(100%-1rem)] max-h-full">
+            <div class="relative w-full max-w-2xl max-h-full">
+                <div class="relative bg-white rounded-lg shadow dark:bg-gray-700">
+                    <div class="flex items-start justify-between p-4 border-b rounded-t dark:border-gray-600">
+                        <h3 class="text-xl font-semibold text-gray-900 dark:text-white">
+                            Black History Month Special Show
+                        </h3>
+                        <button type="button" class="text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 ml-auto inline-flex justify-center items-center dark:hover:bg-gray-600 dark:hover:text-white" data-modal-hide="modal-2">
+                            <svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6"></path>
+                            </svg>
+                            <span class="sr-only">Close modal</span>
+                        </button>
+                    </div>
+                    <!-- Modal body -->
+                    <div class="p-6 space-y-6">
+                        <h4 class="text-base leading-relaxed text-gray-700 dark:text-gray-600">
+                            Feb. 28, 2024 / 7 pm
+                        </h4>
+                        <h4 class="text-base leading-relaxed text-gray-700 dark:text-gray-600">
+                            Nate Magari
+                        </h4>
+                        <p class="text-base leading-relaxed text-gray-500 dark:text-gray-400">
+                            TBA
+                        </p>
+                    </div>
+                    <a href="https://pretix.eu/UCLAplanetarium/feb28show/">
+                    <div class="flex items-center p-6 space-x-2 border-t border-gray-200 rounded-b dark:border-gray-600">
+                        <button data-modal-hide="modal-2" type="button" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Tickets</button>
+                    </div>
+                  </a>
+                </div>
+            </div>
+        </div>
+
+        <div id="modal-3" tabindex="-1" aria-hidden="true" class="fixed top-0 left-0 right-0 z-50 hidden w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 h-[calc(100%-1rem)] max-h-full">
+            <div class="relative w-full max-w-2xl max-h-full">
+                <div class="relative bg-white rounded-lg shadow dark:bg-gray-700">
+                    <div class="flex items-start justify-between p-4 border-b rounded-t dark:border-gray-600">
+                        <h3 class="text-xl font-semibold text-gray-900 dark:text-white">
+                            Women&#39;s History Month Special Show
+                        </h3>
+                        <button type="button" class="text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 ml-auto inline-flex justify-center items-center dark:hover:bg-gray-600 dark:hover:text-white" data-modal-hide="modal-3">
+                            <svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6"></path>
+                            </svg>
+                            <span class="sr-only">Close modal</span>
+                        </button>
+                    </div>
+                    <!-- Modal body -->
+                    <div class="p-6 space-y-6">
+                        <h4 class="text-base leading-relaxed text-gray-700 dark:text-gray-600">
+                            March 6, 2024 / 7 pm
+                        </h4>
+                        <h4 class="text-base leading-relaxed text-gray-700 dark:text-gray-600">
+                            Sofia Rojas
+                        </h4>
+                        <p class="text-base leading-relaxed text-gray-500 dark:text-gray-400">
+                            TBA
+                        </p>
+                    </div>
+                    <a href="https://pretix.eu/UCLAplanetarium/mar6show/">
+                    <div class="flex items-center p-6 space-x-2 border-t border-gray-200 rounded-b dark:border-gray-600">
+                        <button data-modal-hide="modal-3" type="button" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Tickets</button>
+                    </div>
+                  </a>
+                </div>
+            </div>
+        </div>
+          <!--<Modal site={orderedSites[1]} id={orderedSites[1].data.featured}/>
+          <Modal site={orderedSites[2]} id={orderedSites[2].data.featured}/>-->
+          <p class="text-right text-sm">
+            <a class="text-link hover:underline" href="#shows">
+              click to see some of our past shows &rarr;
+            </a>
+          </p>
+        </div>
+
+</section>
+      <section id="requests" class="flex scroll-mt-24 flex-col items-center gap-4 space-y-8">
+  <div class="flex flex-col items-center gap-4">
+    
+    <!--<h2
+      class="gradient-text text-center font-extrabold tracking-tight text-4xl"
+    >-->
+    <h2 class="text-center tracking-tight text-4xl">
+      Requests
+    </h2>
+  </div>
+  <p class="max-w-3xl text-center text-1xl">
+    
+    To request a private show, please submit <a href="https://docs.google.com/forms/d/e/1FAIpQLSehMRTjw3D970Sd-evVKkcir9VgAAZ0sGQf0Zv_GAntNrE8vg/viewform" class="text-link hover:underline">this form</a>. Please note that the UCLA planetarium offers private shows <span class="text-primary">only to educational groups</span>, 
+      with a minimum party size of 15. We are currently accepting requests for <span class="text-primary">Spring/Summer 2024</span>. The deadline is <span class="text-primary">March 18</span>.
+  
+  </p>
+  <p class="max-w-3xl text-center text-1xl">
+    
+  </p>
+  
+</section>
+      <section id="contact" class="flex scroll-mt-24 flex-col items-center gap-4 space-y-8">
+  <div class="flex flex-col items-center gap-4">
+    
+    <!--<h2
+      class="gradient-text text-center font-extrabold tracking-tight text-4xl"
+    >-->
+    <h2 class="text-center tracking-tight text-4xl">
+      Contact
+    </h2>
+  </div>
+  <p class="max-w-3xl text-center text-1xl">
+    
+    For any questions or comments, feel free to email us at <a href="mailto:planet@astro.ucla.edu" class="text-link hover:underline">planet [at] astro.ucla.edu</a>.
+  
+  </p>
+  <p class="max-w-3xl text-center text-1xl">
+    
+  </p>
+  
+</section>
+    </div>
+    <footer class="relative flex h-64 items-center justify-center">
+  <div class="absolute inset-0 overflow-hidden opacity-40">
+    <picture>
+	<source type="image/avif" srcset="/_astro/moon.e37745fc_Z1yMVJY.avif 450w,/_astro/moon.e37745fc_Z1DFhPq.avif 800w,/_astro/moon.e37745fc_yW6JM.avif 1200w" sizes="100vw"><source type="image/webp" srcset="/_astro/moon.e37745fc_ZLGAIe.webp 450w,/_astro/moon.e37745fc_ZQyVNF.webp 800w,/_astro/moon.e37745fc_1m3rLx.webp 1200w" sizes="100vw"><source type="image/jpeg" srcset="/_astro/moon.e37745fc_Z148XWe.jpg 450w,/_astro/moon.e37745fc_1dLTv3.jpg 800w,/_astro/moon.e37745fc_ZaSIDl.jpg 1200w" sizes="100vw">
+	<img alt="The ridged surface of the moon" src="/_astro/moon.e37745fc_ZaSIDl.jpg" loading="lazy" decoding="async" class="h-full w-full object-cover">
+</picture>
+  </div>
+  <ul class="relative grid grid-cols-2 gap-4 sm:grid-cols-4">
+    <li>
+          <a class="flex h-16 w-16 items-center justify-center rounded-full border-2 border-current p-4" href="#">
+            <span class="sr-only">UCLA Planetarium</span>
+            <svg viewBox="0 0 24 24" class="h-full" astro-icon="mdi:home"><path fill="currentColor" d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8h5z"/></svg>
+          </a>
+        </li><li>
+          <a class="flex h-16 w-16 items-center justify-center rounded-full border-2 border-current p-4" href="https://twitter.com/uclaplanetarium">
+            <span class="sr-only">Follow the UCLA Planetarium on Twitter</span>
+            <svg viewBox="0 0 512 512" class="h-full" astro-icon="fa-brands:twitter"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+          </a>
+        </li><li>
+          <a class="flex h-16 w-16 items-center justify-center rounded-full border-2 border-current p-4" href="https://www.facebook.com/UCLAPlanetarium/">
+            <span class="sr-only">Follow the UCLA Planetarium on Facebook</span>
+            <svg viewBox="0 0 512 512" class="h-full" astro-icon="fa-brands:facebook"><path fill="currentColor" d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"/></svg>
+          </a>
+        </li><li>
+          <a class="flex h-16 w-16 items-center justify-center rounded-full border-2 border-current p-4" href="https://www.youtube.com/@UCLAPlanetarium">
+            <span class="sr-only">Watch our shows on YouTube</span>
+            <svg viewBox="0 0 576 512" class="h-full" astro-icon="fa-brands:youtube"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"/></svg>
+          </a>
+        </li>
+  </ul>
+</footer>
+  </body></html>

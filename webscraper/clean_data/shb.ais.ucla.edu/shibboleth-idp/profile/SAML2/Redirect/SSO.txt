@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>UCLA Single Sign-On</title>
+        <script src="/shibboleth-idp/js/modernizr.js"></script>
+        <link rel="stylesheet" type="text/css" href="/shibboleth-idp/css/app.css">
+        <script>
+        <!--
+"use strict";
+function readLocalStorage(key) {
+    var success;
+    try {
+        var value = localStorage.getItem(key);
+        if (value != null) {
+            document.form1["shib_idp_ls_value." + key].value = value;
+        }
+        success = "true";
+    } catch (e) {
+        success = "false";
+        document.form1["shib_idp_ls_exception." + key].value = e;
+    }
+    document.form1["shib_idp_ls_success." + key].value = success;
+}
+
+function isLocalStorageSupported() {
+    try {
+        localStorage.setItem("shib_idp_ls_test", "shib_idp_ls_test");
+        localStorage.removeItem("shib_idp_ls_test");
+        return true;
+    } catch (e) {
+        return false;
+    }
+}
+        // -->
+        </script>
+    </head>
+    <body onload="doLoad()">
+    <style>
+       /* Hide the default background so we don't get a bg flash when we redirect.
+          But if there is no JS, cookies, mediaqueries support we need to show it. */
+        html.js {
+           background: 0
+       }
+
+       html.no-js, html.no-mediaqueries, html.no-cookies {
+           background: #39c url('/shibboleth-idp/img/skyline.jpg') no-repeat;
+           background-size: cover
+       }
+   
+       /* if JS is not enable, moderinzr will not work so we hide the browser-sux message */
+       .no-js #browser-sux, .no-js #no-cookies {
+           display: none
+       }
+   
+       /* show the appropriate message as the features are available or not. */
+       .js #no-javascript, .mediaqueries #browser-sux, .cookies #no-cookies {
+           display: none
+       }
+   
+       .no-js #no-javascript, .no-mediaqueries #browser-sux, .no-cookies #no-cookies {
+           display: block
+       }
+
+       /* Finally hide the submit button as we don't want it displaying on the page */
+       input[type=button], input[type=submit], input[type=reset] {
+           display: none;
+       }
+   </style>
+      <noscript>
+        <header class="logo" role="banner">
+          <img src="/shibboleth-idp/img/ucla-white.png" alt="UCLA">
+        </header>
+
+
+        <section class="content" role="main">
+            <article role="status">
+        
+                <h1 class="error-title">To use the UCLA Sign-On Service, you need to do the following:</h1>
+                
+                <section id="no-javascript">
+                    <h2>Enable JavaScript in your browser.</h2>
+        
+                    <p><a href="https://ucla.service-now.com/support?id=kb_article&sys_id=KB0012821">Enable JavaScript.</a></p>
+                </section>
+        
+                <section id="no-cookies">
+                    <h2>Enable Cookies in your browser.</h2>
+        
+                    <p><a href="https://ucla.service-now.com/support?id=kb_article&sys_id=KB0012820">Enable Cookies.</a></p>
+                </section>
+        
+                <section id="browser-sux">
+                    <h2>Use a modern browser.</h2>
+        
+                    <p>The UCLA Sign-On service requires a modern, vendor supported browser. You are seeing this message because your browser does
+                        not meet the requirement.</p>
+        
+                    <p>If you have another browser, try signing in with it. Alternatively, upgrade your browser.</p>
+        
+                    <p><a href="https://ucla.service-now.com/support?id=kb_article&sys_id=KB0012835">What is considered a modern browser?</a>
+                    </p>
+        
+                    <p>If you are using a work machine and are unable to upgrade browsers, please contact your local desktop support team for
+                        assistance.</p>
+        
+                    <p>For a limited time, you may sign in with your current browser. Depending on your browser, you may experience issues. Please
+                        take the appropriate steps to install/upgrade your browser.</p>
+        
+                    <p class="cookies"><a href="/shibboleth-idp/profile/SAML2/Redirect/SSO?execution=e2s2&_eventId=proceed">Continue to sign in.</a></p>
+                </section>
+        
+                <p>For further assistance, please contact IT Services Support Center at <a href="mailto:help@it.ucla.edu">help@it.ucla.edu</a>.
+                </p>
+        
+            </article>
+        </section>
+        
+        <footer role="contentinfo" class="ucla-iam-footer">
+          <div class="ucla-iam-footer-content">
+            <p><a href="/shibboleth-idp/cms-policies.jsp">Privacy, Security & Legal</a></p>
+          </div>
+        </footer>
+
+        <script src="/shibboleth-idp/js/app.js"></script>
+         
+      </noscript>
+<form name="form1" action="/shibboleth-idp/profile/SAML2/Redirect/SSO?execution=e6s1" method="post">
+        <input name="shib_idp_ls_exception.shib_idp_session_ss" type="hidden" />
+        <input name="shib_idp_ls_success.shib_idp_session_ss" type="hidden" value="false" />
+        <input name="shib_idp_ls_value.shib_idp_session_ss" type="hidden" />
+        <input name="shib_idp_ls_exception.shib_idp_persistent_ss" type="hidden" />
+        <input name="shib_idp_ls_success.shib_idp_persistent_ss" type="hidden" value="false" />
+        <input name="shib_idp_ls_value.shib_idp_persistent_ss" type="hidden" />
+    <input name="shib_idp_ls_supported" type="hidden" />
+    <input name="_eventId_proceed" type="hidden" />
+    <noscript>
+        <input type="submit" value="Continue" />
+    </noscript>
+</form>
+
+<script>
+<!--
+function doLoad() {
+    var localStorageSupported = isLocalStorageSupported();
+    document.form1["shib_idp_ls_supported"].value = localStorageSupported;
+    if (localStorageSupported) {
+        readLocalStorage("shib_idp_session_ss");
+        readLocalStorage("shib_idp_persistent_ss");
+    }
+    document.form1.submit();
+}
+// -->
+</script>
+
+    </body>
+</html>

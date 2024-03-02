@@ -1,0 +1,338 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>UCLA Astronomy Division</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+
+    <link rel="stylesheet" href="fonts/ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="fonts/fontawesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="fonts/flaticons/font/flaticon.css">
+    <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
+
+    <!-- Theme Style -->
+    <link rel="stylesheet" href="css/style.css">
+    
+    
+  </head>
+  <body>
+    
+    <header role="banner">
+      <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <div class="container">
+          <a class="navbar-brand" href="index.php">UCLA Division of <br /> Astronomy & Astrophysics</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarsExample05">
+            <ul class="navbar-nav ml-auto pl-lg-5 pl-0">
+              <li class="nav-item">
+                <a class="nav-link active" href="index.php">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="research-areas.html">Research</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="academics.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Academics</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="graduate-studies.html">Graduate</a>
+                  <a class="dropdown-item" href="undergraduate-program.html">Undergraduate</a>
+                  <a class="dropdown-item" href="about-our-faculty.html">About our faculty</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="outreach.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Outreach</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="astronomy-live.html">Astronomy Live!</a>
+                  <a class="dropdown-item" href="planetarium.html">UCLA Planetarium</a>
+                  <a class="dropdown-item" href="https://planets.ucla.edu/">iPlex</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="events.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Events</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <!--a class="dropdown-item" href="http://pritha.astro.ucla.edu/~abhimat/astrocoffee/">Astro Coffee</a>-->
+                  <a class="dropdown-item" href="astrophysics-colloquium.html">Astrophysics Colloquium</a>
+                  <a class="dropdown-item" href="tuesday-lunch-talks.html">Tuesday Lunch Talks</a>
+                  <a class="dropdown-item" href="meetings.html">Meetings</a>
+                  <a class="dropdown-item" href="diversity-resources.html">Diversity Events</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="people.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">People</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="faculty.html">Faculty</a>
+                  <a class="dropdown-item" href="researchers.html">Researchers</a>
+                  <a class="dropdown-item" href="lecturers.html">Lecturers</a>
+                  <a class="dropdown-item" href="postdocs.html">Postdocs</a>
+                  <a class="dropdown-item" href="grad-students.html">Graduate Students</a>
+                  <a class="dropdown-item" href="staff.html">Staff</a>
+                  <a class="dropdown-item" href="facilities.html">Facilities</a>
+                  <a class="dropdown-item" href="graduate-program-alumni.html">Graduate Program Alumni</a>
+                  <a class="dropdown-item" href="postdoc-alumni.html">Postdoc Alumni</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="events.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="contact-alice-shapley.html">Contact the Division Chair</a>
+                  <a class="dropdown-item" href="https://www.pa.ucla.edu/graduate-admissions.html">Graduate Student Admissions</a>
+                  <a class="dropdown-item" href="https://www.pa.ucla.edu/undergraduate-program.html">Undergraduate Program</a>
+                  <a class="dropdown-item" href="http://computing.pa.ucla.edu/">Computing and IT Support</a>
+                </div>
+              </li>
+            </ul>
+
+            <!--<ul class="navbar-nav ml-auto">
+              <li class="nav-item cta-btn">
+                <a class="nav-link" href="contact.html">Contact Us</a>
+              </li>
+            </ul>-->
+            
+          </div>
+        </div>
+      </nav>
+    </header>
+    <!-- END header -->    
+    <section class="home-slider-loop-false  inner-page owl-carousel">
+      <div class="slider-item" style="background-image: url('img/whitedwarf-slide-3.jpg');">
+        
+        <div class="container">
+          <div class="row slider-text align-items-center justify-content-center">
+            <div class="col-md-8 text-center col-sm-12 element-animate">
+              <h1>People</h1>
+              <p>Division of Astronomy & Astrophysics Graduate Student Alumni</p>
+              
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+    
+    <div class="section container">
+        <div class="row">
+          <div class="col-lg-4">
+          <h3>Personnel directory</h3>
+            <p>
+            <ul>
+            	<li><a href="#">Faculty</a></li>
+            	<li><a href="#">Researchers</a></li>
+            	<li><a href="#">Postdocs</a></li>
+            	<li><a href="#">Graduate students</a></li>
+            	<li><a href="#">Staff</a></li>
+            	<li><a href="#">Facilities</a></li>
+            </ul>	
+            </p>
+          </div>
+          
+          <div class="col-lg-8 pl-2 pl-lg-5">
+            <h2>Graduate Student Alumni</h2>
+            <p>Includes student name, graduation year, current position if known, email address where available, and advisor.</p>
+            <p>
+            <ul>
+            	<li>Xin Wang, 2019, ansonl@astro.ucla.edu, Advisor: Wright, E.</li>
+            	<li>Charlotte Mason, 2018, cmason@astro.ucla.edu, Advisor: Treu, T.</li>
+            	<li>S. Michelle Consiglio, 2018, Postdoctoral Scholar, UCLA, smconsiglio@astro.ucla.edu, Advisor: Turner, J.</li>
+            	<li>Emily Martin, 2018, NSF Postdoctoral Scholar and UC Chancellor’s Fellow, UC Santa Cruz, emartin@astro.ucla.edu, Advisor: McLean, I.</li>
+            	<li>Ryan Sanders, 2018, Postdoctoral Scholar, UC Davis, rlsand@astro.ucla.edu, Advisor: Shapley, A.</li>
+            	<li>Samantha Chappell, 2018, schappell@astro.ucla.edu, Advisor: Ghez, A.</li>
+            	<li>Sean Lake, 2017, lake@physics.ucla.edu, Advisor: Wright, E.</li>
+            	<li>Xuheng Ding, 2017, Postdoctoral Scholar, UCLA, @astro.ucla.edu, Advisor: Treu, T.</li>
+            	<li>Sarah Logsdon, 2017, Asst. Scientist/NEID Instrument Scientist, NSF OIR Lab, slogsdon@noao.edu, Advisor: McLean, I.</li>
+            	<li>Anna Boehle, 2017, Postdoctoral Scholar, ETH Zurich, aboehle@astro.ucla.edu, Advisor: Larkin, J.</li>
+            	<li>Adam Greenber, 2017, Technical Staff, Raytheon, ahgreenberg@astro.ucla.edu, Advisor: Margot, J. L.</li>
+            	<li>Alexis Popkow, 2016, Senior Systems Engineer, Raytheon, apopkow@ucla.edu, Advisor: Ong R.</li>
+            	<li>Breann Sitarski, 2016, Optical Systems Scientist, GMT, bsitarski@astro.ucla.edu, Advisor: Ghez, A.</li>
+            	<li>Laura Vican, 2016, Science Teacher, Sequoyah School, lvican@astro.ucla.edu, Advisor: Zuckerman, B.</li>
+            	<li>Li-Wei Hung, 2016, Night Skies Research Scientist, National Park Service, li-wei_hung@nps.gov, Advisor: Fitzgerald, M.</li>
+            	<li>Tom Esposito, 2015, Postdoctoral Scholar, UC Berkeley, tesposito@berkeley.edu, Advisor: Fitzgerald, M.</li>
+            	<li>Shane Frewen, 2015, Physics and Computer Science Teacher, Flintridge Preparatory School, sfrewen@astro.ucla.edu, Advisor: Hansen, B.</li>
+            	<li>Robin Mostardi Rehagen, 2015, Faculty, Las Positas College, Livermore, CA, robin.rehagen@gmail.com, Advisor: Shapley, A.</li>
+            	<li>Nate Ross, 2015, Senior Principal Modeling &amp; Simulation Engineer, Northrop Grumman, nross@astro.ucla.edu, Advisor: Malkan, M.</li>
+            	<li>Fred Davies, 2015, Postdoctoral Scholar, UC Santa Barbara, davies@mpia.de, Advisor: Furlanetto, S.</li>
+            	<li>Jeffrey Chilcote, 2014, Assistant Professor, Notre Dame, jchilcote@astro.ucla.edu, Advisor: Larkin, J.</li>
+            	<li>Gregory Mace, 2014, Research Associate, University of Texas at Austin, gmace@astro.as.utexas.edu, Advisor: McLean, I.</li>
+            	<li>Siyi Xu, 2014, Assistant Astronomer, Gemini Observatory, sxu@astro.ucla.edu, Advisor: Jura, M.</li>
+            	<li>Lauren Holzbauer, 2014, Government Employee, Non-Astronomy Institution, holzbauer@astro.ucla.edu, Advisor: Furlanetto, S.</li>
+            	<li>Kristin Kulas, 2013, Lecturer, Santa Clara University, kkulas@scu.edu, Advisors: McLean, I. and Shapley, A.</li>
+            	<li>Betsy Mills, 2013, ;Assistant Professor, University of Kansas, bmills@nrao.edu, Advisor: Morris, M.</li>
+            	<li>Julia Fang, 2013, Technical Staff, MIT Lincoln Laboratory, fang@astro.ucla.edu, Advisor: Margot, J.-L.</li>
+            	<li>Tim Arlen, 2013, Machine Learning Software Engineer, Second Spectrum, Inc., tca3@psu.edu, Advisor: Vassiliev, V.</li>
+            	<li>Katherine Kornei, 2012, Science Writer, katherine.kornei@gmail.com, Advisor: Shapley, A</li>
+            	<li>Sylvana Yelda, 2012, Senior Data Scientist, Kollective Technology, syelda@astro.ucla.edu, Advisor: Ghez, A.</li>
+            	<li>Kevin Hainline, 2012, Postdoctoral Researcher, JWST NIRCam Science Team;, Steward Observatory, University of Arizona, kevinhainline@gmail.com, Advisor: Shapley, A.</li>
+            	<li>Ian Crossfield, 2012, Assistant Professor, University of Kansas, ianc@lpl.arizona.edu, Advisor: Hansen, B.</li>
+            	<li>Keri Dixon, 2012, Postdoctoral Researcher, University of Sussex, K.Dixon@sussex.ac.uk, Advisor: Furlanetto, S.</li>
+            	<li>Chris Crockett, 2011, Freelance science writer, cosmic.thespian@gmail.com, Advisor: Larkin, J.</li>
+            	<li>David Rodriguez, 2011, Archive Scientist, Space, kleinb@astro.ucla.edu, Advisor: Jura, M.</li>
+            	<li>Matthew Wood, 2010, Postdoctoral Researcher, SLAC, mdwood@astro.ucla.edu, Advisor: Vassiliev, V.</li>
+            	<li>Daryl Parker, 2010, parker@astro.ucla.edu, Advisor: Ulrich, R.</li>
+            	<li>Yeuk Chun (Ken) Chow, 2010, Financial Sector, yckchow@astro.ucla.edu, Advisor: Ong, R.</li>
+            	<li>Chun Ly, 2010, NASA Postdoctoral Fellow, Goddard Space Flight Center, chun.ly@nasa.gov or astro.chun@gmail.com, Advisor: Malkan, M.</li>
+            	<li>Tuan Do, 2010, Assistant Research Scientist, UCLA, tdo@astro.ucla.edu, Advisor: Ghez, A.</li>
+            	<li>Ryan Mallery, 2010, Image Processing Scientist, Rebellion Photonics, rmallery@astro.ucla.ed, Advisor: Rich, M.</li>
+            	<li>Steve Berukoff, 2009, Assistant Director for Data Products, National Ecological Observation Network, steveb@astro.ucla.edu, Advisor: Hansen, B.</li>
+            	<li>Chao-Wei Tsai, 2009, Postdoctoral Researcher, JPL, cwtsai@ipac.caltech.edu, Advisor: Turner, J.</li>
+            	<li>Quinn Konopacky, 2009, Assisstant Professor, UC San Diego, konopacky@astro.utoronto.ca, Advisor: Ghez, A.</li>
+            	<li>Carl Melis, 2009, Assistant Research Scientist, UC, xchen@astro.ucla.edu, Advisor: Wright, E.</li>
+            	<li>Emily Rice, 2009, Assistant Professor, College of Staten Island, erice@amnh.org, Advisor: Mclean, I.</li>
+            	<li>Tham Tran, 2009, tran@astro.ucla.edu, Advisor: Ulrich, R.</li>
+            	<li>Alaina Henry, 2009, NASA Postdoctoral Program Fellow, Goddard Space Flight Center, ahenry@astro.ucla.edu, Advisor: Malkan, M.</li>
+            	<li>Shelley Wright, 2008, Assistant Professor, UC San , wright@astro.utoronto.ca, Advisor: Larkin, J.</li>
+            	<li>Erin Smith, 2008, Staff Scientist, NASA Goddard, esmith@hubble.gsfc.nasa.gov, Advisor: McLean, I.</li>
+            	<li>Eugene Chen, 2008, Scientist, DecisionNext (San Francisco), eugene@astro.ucla.edu, Advisor: Hansen, B.</li>
+            	<li>Christian Howard, 2008, Research Programs Communications Manager, Google, howard@astro.ucla.edu, Advisor: Rich, M.</li>
+            	<li>Ozlem Celik, 2008, Scientist, Goddard Space Flight Center, celik@astro.ucla.edu, Advisor: Ong, R.</li>
+            	<li>Louis Levenson, 2008, Postdoctoral Fellow, Caltech, levenson@caltech.edu, Advisor: Wright, Ned</li>
+            	<li>Alexander Jarvis, 2008, Analyst, Disney Productions, ajarvis@physics.ucla.edu, Advisor: Ong, R.</li>
+            	<li>Jon C. Mauerhan, 2008, Research Staff, UC Berkeley, mauerhan@astro.berkeley.edu, Advisor: Morris, M.</li>
+            	<li>Jessica Lu, 2008, Assistant Astronomer, IfA/Hawaii, jlu@ifa.hawaii.edu, Advisor: Ghez, A.</li>
+            	<li>Thayne Michael Currie, 2007, NAOJ-Subaru Research Fellow, Subaru Telescope, currie@naoj.org, Advisor: Zuckerman, B.</li>
+            	<li>Michael William McElwain, 2007, Staff Scientist: Civil Servant, Goddard Space Flight Center, michael.w.mcelwain@nasa.gov, Advisor: Larkin, J.</li>
+            	<li>Matthew Michael Barczys, 2006, Systems Engineer, NASA, Johnson Space Center, matbar@mac.com, Advisor: Larkin, J. </li>
+            	<li>Seth David Hornstein, 2006, Senior Instructor, University of Colorado, Boulder, seth.hornstein@colorado.edu, Advisor: Ghez, A.</li>
+            	<li>Erin Kathleen Strobel Hicks, 2006, Assistant Professor of Astronomy; Director of UAA Planetarium &amp; Visualization Theater, 
+            	University of Alaska Anchorage, ekhicks@uaa.alaska.edu, Advisor: Malkan, M.</li>
+            	<li>Peter Plavchan, 2006, Assistant Professor, George Mason University, plavchan@ipac.caltech.edu, Advisor: Jura, M.</li>
+            	<li>Denise Kaisler, 2005, Professor of Astronomy, Citrus College, dkaisler@citruscollege.edu, Advisor: Zuckerman, B.</li>
+            	<li>Mark Roland McG, 2005, Systems Engineer, Northrop Grumman Space Technology, , Advisor: Ong, R.</li>
+            	<li>Joseph Hakjin Rhee, 2004, Postdoctoral Researcher, UCLA, rhee@astro.ucla.edu, Advisor: Larkin, J.</li>
+            	<li>Sarah Jane Lipscy, 2004, Engineer, Ball Aerospace, slipscy@ball.com, Advisor: Jura, M.</li>
+            	<li>Caer-Eve McCabe, 2004, Research Scientist, Eureka Scientific Inc., caereve@gmail.com, Advisor: Ghez, A.</li>
+            	<li>Michael J. Schwartz, 2004, Professor of Astronomy, Santa Monica College, schwartz_michael@smc.edu, Advisors: Becklin, E. Young. E.</li>
+            	<li>Dawn Rene Williams, 2004, Assistant Professor, University of Alabama, drwilliams3@ua.edu, Advisor: Saltzberg, D.</li>
+            	<li>Jay Farih, 2004, Assistant Professor, University College London, j.farihi@ucl.ac.uk, Advisor: Becklin, E.</li>
+            	<li>Angelle Maria Tanner, 2003, Assistant Professor, Mississippi State University, at876@m, Advisor: Malkan, M.</li>
+            	<li>James Willian, IV Colbert, 2003, Staff Scientist, NASA Spitzer Science Center, colbert@ipac.caltech.edu, Advisor: Malkan, M.</li>
+            	<li>Amy Mainzer, 2003, Deputy Project Scientist for WISE, Jet Propulsion Laboratory, Advisor: McLean, I.</li>
+            	<li>Tiffany Michelle Glassman, 2002, Systems Engineer, Northrop Grumman, glassman@ipac.caltech.edu, Advisor: Larkin, J.</li>
+            	<li>Christine Hsiao-Ching Chen, 2002, Associate Astronomer, Space Telescope Science Institute, cchen@stsci.edu, Advisor: Jura, M.</li>
+            	<li>David Stuart Meier, 2002, New Mexico Tech, dmeier@nmt.edu, Advisor: Turner, J.</li>
+            	<li>Lukas Mandrake, 2002, Research Astronomer, Jet Propulsion Laboratory, lpcrosthwaite@cox.net, Advisor: Turner, J.</li>
+            	<li>Chris McCarthy, 2001, Adjunct Professor, San Francisco State University, chris@stars.sfsu.edu, Advisor: Zuckerman, B.</li>
+            	<li>Patrick James Lowrance, 2000, Spitzer Staff Scientist, IPAC/Caltech, lowrance@ipac.caltech.edu, Advisor: Becklin, E.</li>
+            	<li>Richard Albert Webb, 2000, NRC Postdoctoral Fellow, NASA Ames, rwebb@mail.arc.nasa.gov, Advisor: Zuckerman, B.</li>
+            	<li>Sungsoo Kim, 2000, Associate Professor of Astronomy, Kyung Hee University, Korea, sungsoo.kim@khu.ac.kr, Advisor: Morris, M.</li>
+            	<li>Aimee Ann Norton, 2000, Assistant Astronomer, National Solar Observatory, Tucson, norton@noao.edu, Advisor: Ulrich, R.</li>
+            	<li>Murray Daniel Silverstone, 2000, Instructor of Physics and Astronomy, University of Alabama, mdsilverstone@ua.edu, Advisor: Becklin, E.</li>
+            	<li>Cornelia Chesley Lang, 2000, Assistant Professor of Physics and Astronomy, University of Iowa, cornelia-lang@uiowa.edu, Advisor: Morris, M.</li>
+            	<li>Gregory Ronald Schultz, 1999, Postdoctoral Fellow, PFSMETE program, Space Sciences Laboratory, UCB, schultz@ssl.berkeley.edu, Advisor: Zuckerman, B.</li>
+            	<li>Jennifer Lynn Patience, 1999, Associate Professor, Arizona State University, jennifer.patience@asu.edu, Advisor: Ghez, A.</li>
+            	<li>Russel Joseph White, 1999, Associate Professor, Georgia State University, white@chara.gsu.edu, Advisor: Ghez, A.</li>
+            	<li>Gregory Ronald Schultz, 1999, Education/Outreach Scientist and Teacher Educator, Space Sciences Lab, UC Berkeley, schultz@ssl.berkeley.edu, Advisor: Zuckerman, B.</li>
+            	<li>Ranga-Ram Chary, 1999, Postdoctoral Fellow, IPAC/Caltech, rchary@ucolick.org, Advisor: Wright, Advisor: Ulrich, R.</li>
+            	<li>Carl John Henney, 1999, SOLIS Staff Scientist, Kitt Peak National Solar Observatory, henney@noao.edu, Advisor: Ulrich, R.</li>
+            </ul>
+            </p>	          </td>
+             
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+
+    
+    
+
+    
+            
+              
+          </div>
+          <!-- END slider -->
+          </div>
+        </div>
+      
+    </section> <!-- .section -->
+
+
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md-3 mb-5">
+            <h3>Announcements</h3>
+            <ul class="list-unstyled footer-link">
+              	<li><a href="https://www.pa.ucla.edu/open-positions.html">Open academic positions</a></li>
+              	<li><a href="https://www.pa.ucla.edu/annual-report.html">Annual reports and newsletters</a></li>
+              	<li><a href="http://newsroom.ucla.edu/">UCLA Newsroom</a></li>
+              	<li><a href="http://www.sexualviolence.ucla.edu/">UCLA policies on sexual harassment & violence</a></li>
+              	<li><a href="https://diversity.ucla.edu/">Diversity @ UCLA</li>
+            </ul>
+
+          </div>
+          <div class="col-md-3 mb-5">
+            <div class="mb-5">
+              <h3>Academic Resources</h3>
+              <ul class="list-unstyled footer-link">
+              	<li><a href="https://registrar.ucla.edu/calendars/annual-academic-calendar">Academic calendar</a></li>
+              	<li><a href="https://sa.ucla.edu/ro/public/soc">Schedule of classes</a></li>
+              	<li><a href="https://my.ucla.edu/">MyUCLA</a></li>
+              	<li><a href="http://bruinlearn.ucla.edu/">BruinLearn</a></li>
+              	<li><a href="https://www.lmstransformation.ucla.edu/">LMS Transformation</a></li>
+              	<li><a href="https://ucla.service-now.com/support?id=home">UCLA IT Services</a></li>
+            </ul>
+            </div>
+          </div>
+          <div class="col-md-3 mb-5">
+            <h3>General Resources</h3>
+            <ul class="list-unstyled footer-link">
+              <li><a href="observing-facilities.html">Observing facilities</a></li>
+              <li><a href="http://irlab.astro.ucla.edu/">Infrared Laboratory</a></li>
+              <li><a href="https://www.pa.ucla.edu/financial-services.html">Financial Services</a></li>
+              <li><a href="http://iff.pa.ucla.edu/">Machine Shop</a></li>
+              <li><a href="https://www.pa.ucla.edu/research-store.html">Research Store</a></li>
+              <li><a href="https://webmail.astro.ucla.edu/">Astronomy Zimbra Email</a></li>
+              <li><a href="http://computing.pa.ucla.edu/">Computing & IT Support</li>
+            </ul>
+        </div>
+        <div class="col-md-3 mb-5">
+            <h3>Visiting UCLA</h3>
+            <ul class="list-unstyled footer-link">
+              <li><a href="#">UCLA interactive map</a></li>
+              <li><a href="#">Directions and parking</a></li>
+              <li><a href="#">Planetarium directions</a></li>
+              <li><a href="#">UCLA campus shuttle</a></li>
+              <li><a href="#">Local accommodations</a></li>
+              <li><a href="#">Giving to the Astro Division</a></li>
+            </ul>
+          </div>
+        <div class="row">
+          <div class="col-12 text-md-center text-left">
+            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+        Copyright &copy;<script>document.write(new Date().getFullYear());</script> UCLA Division of Astronomy & Astrophysics, 475 Portola Plaza, Los Angeles, CA 90095-1547
+310-825-3440 | A <a href="https://colorlib.com" target="_blank" >Colorlib</a> template.
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- END footer -->
+    <!-- loader -->
+    <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#cf1d16"/></svg></div>
+
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/magnific-popup-options.js"></script>
+    
+
+    <script src="js/main.js"></script>
+  </body>
+</html>

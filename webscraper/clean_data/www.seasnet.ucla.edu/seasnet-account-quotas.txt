@@ -1,0 +1,36 @@
+SEASnet Account Quotas | SEASnet
+Select Page
+SEASnet Account Quotas
+⇒Tips for reducing your disk usage
+Home Directory Disk Quota
+This is the space you use when you log in to ugrad.seas.ucla.edu or grad.seas.ucla.edu and when you log in to the SEASnet lab machines. Each student is allocated a specific amount of disk space (Currently 3 GB).
+To check your allocated disk quota at any time, log in to the SEASnet servers (SSH ugrad.seas.ucla.edu or SSH grad.seas.ucla.edu), and enter “showdq” at the command line. This will show your assigned quota and the amount of space being used. You
+cannot
+get an accurate reading of the amount of disk space you are using on the Windows systems by checking your Z: drive as this does not include all of the Windows files that get copied back over to your account when you logout.
+If you have any special reason to have more disk space, please email help@seas.ucla.edu about that.
+For classes requiring a large disk quota, SEASnet can provide a separate project space for the duration of the quarter, and the instructor is to send the request to help@seas.ucla.edu to make it available for each student for the class.
+What happens if your home directory quota goes over the hard limit in the middle of using some application? You may not see any direct error message, but you may experience some unknown problems, and you won’t be able to save files in your home directory. SEASnet would send an email asking you to reduce the disk usage when the disk usage goes over the soft limit to help you become aware of the possible problem of exceeding the hard limit.
+SEASnet Lab Roaming Profile Quota
+The files and folders located in the users account on the Windows machines in (C:\users\username) are subject to a 200 MB size limit. If you exceed this limit then you will not be allowed to log out until you reduce it. You can click on the profile quota icon on the bottom right of the menu bar to see what is using the disk space. You may need to change your Windows Explorer view to show hidden files and folders.
+PrivacIE / Index.dat
+This error is the most typical profile quota you’ll see.  In order to correct this, you’ll need to do the following:
+Open My Computer
+Click on TOOLS / Folder Options / VIEW tab
+Click on SHOW HIDDEN FILES AND FOLDERS (to set bullet)
+Click on HIDE PROTECTED OPERATING SYSTEM FILES (to remove bullet)
+Click on OK and close all windows
+OPEN up My Computer / C Drive / user / Your USERNAME folder / PrivacIE / and delete the index.dat
+Your error will now clear
+You can get assistance from the 2nd floor front desk LC’s
+If your file is NOT the index.dat which is causing the problem, browse to the directories listed and delete the file in question
+If you are getting an error which is NOT the PrivacIE/Index.dat, look for the icon in the lower right hand corner and open it. This should give you the path to the file / program which is causing the error. Once you have the path, follow the instructions above to go to that location to delete the temp files in question.
+⇒Tips for reducing your disk usage
+Contact Us
+Accessibility
+Terms of Use
+Safety First
+UCLA
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent. However, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and
+Terms of Use
+.
+I ACCEPT

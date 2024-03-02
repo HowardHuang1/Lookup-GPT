@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta http-equiv="content-type"
+ content="text/html; charset=ISO-8859-1">
+  <title>Benchmarks for DDoS Defense Evaluation</title>
+</head>
+<body alink="#993399" vlink="#993399" link="#ffcc33"
+ style="background-image: url(file:///Users/jjmartin/Desktop/Benchmarks_DDoS_Def_Eval.html); background-color: rgb(153, 153, 255); color: rgb(0, 0, 0);">
+<div style="text-align: center; background-color: rgb(153, 153, 255);"><big><big><span
+ style="font-family: capitals;"><big style="color: rgb(255, 204, 51);">Benchmarks<br>
+&nbsp;for <br>
+DDoS Defense Evaluation</big><span style="color: rgb(255, 204, 51);">
+</span><br>
+</span></big></big><br>
+<div style="text-align: left;">
+<div
+ style="text-align: center; color: rgb(0, 0, 0); background-color: rgb(153, 153, 255);"><big
+ style="font-style: italic; font-weight: bold;"><big><span
+ style="font-family: helvetica,arial,sans-serif;">A University of
+Delaware Subcontract to UCLA</span></big></big><br>
+</div>
+<div style="margin-left: 40px; text-align: center;">
+<div style="text-align: center;"><br>
+</div>
+<hr
+ style="height: 4px; background-color: rgb(255, 204, 0); color: rgb(255, 255, 0); width: 100%;">
+<div style="text-align: center; background-color: rgb(153, 153, 255);"><br>
+</div>
+<span style="font-family: helvetica,arial,sans-serif;"><span
+ style="font-style: italic;"><span style="font-weight: bold;"><br>
+</span></span></span></div>
+</div>
+<table
+ style="text-align: left; margin-left: auto; margin-right: auto; background-color: rgb(102, 102, 204); height: 100%; width: 90%;"
+ border="0" cellspacing="2" cellpadding="2">
+  <tbody>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 153, 255);">
+      <div style="text-align: center;"><br>
+      </div>
+      <big> </big><big><span
+ style="font-family: helvetica,arial,sans-serif; font-weight: bold;">DARPA
+Homeland Security Grant:&nbsp;<span style="color: rgb(255, 204, 51);">
+FA8750-05-2-0197
+(June 05 to May 07)</span></span></big><br style="font-weight: bold;">
+      <big> <span
+ style="font-family: helvetica,arial,sans-serif; font-weight: bold;">Univ.
+Delaware PI:&nbsp; <a href="http://www.eecis.udel.edu/%7Esunshine/"
+ style="color: rgb(255, 204, 51);">Jelena Mirkovic</a><span
+ style="color: rgb(255, 204, 51);"><span
+ style="color: rgb(153, 153, 255);">,</span> <span
+ style="color: rgb(255, 204, 51);">Computer &amp; Info.
+Sciences Dept.</span></span></span></big><br
+ style="font-family: helvetica,arial,sans-serif; font-weight: bold;">
+      <big> <span
+ style="font-family: helvetica,arial,sans-serif; font-weight: bold;">UCLA
+PI:&nbsp; <a href="http://www.lasr.cs.ucla.edu/reiher.new/index2.html"
+ style="color: rgb(255, 204, 51);">Peter Reiher </a><span
+ style="color: rgb(255, 204, 51);"><span
+ style="color: rgb(153, 153, 255);">, </span>Laboratory for Advanced
+Systems
+Research <a href="http://www.lasr.cs.ucla.edu">(LASR)</a> </span></span></big><br>
+      <big> </big><br>
+      <big> </big><br>
+      <big style="font-family: helvetica,arial,sans-serif;">This
+two-year research effort is headed up by the University
+of
+Delaware with subcontracts to UCLA,&nbsp; Purdue University, and McAfee
+Research.&nbsp; The focus of this work is to develop a common
+evaluation methodology for DDoS defense systems to enable independent
+evaluations and comparisons.&nbsp; This methodology will consist of:</big><br>
+      <ul style="font-family: helvetica,arial,sans-serif;">
+        <li><span style="font-style: italic;"><span
+ style="font-weight: bold;">A benchmark suite </span></span>that
+will define all the necessary elements needed to recreate typical DDoS
+attack scenarios in a testbed setting.</li>
+      </ul>
+      <ul style="font-family: helvetica,arial,sans-serif;">
+        <li><span style="font-style: italic; font-weight: bold;">A set
+of performance
+metrics </span>that expresses a
+defense system's effectiveness, cost and
+security.</li>
+      </ul>
+      <ul style="font-family: helvetica,arial,sans-serif;">
+        <li><span style="font-style: italic; font-weight: bold;">Specification
+of a
+testing methodology</span> that provides guidelines on using benchmarks
+and summarizing and interpreting performance measures.</li>
+      </ul>
+      <big style="font-family: helvetica,arial,sans-serif;">This basic
+evaluation methodology will provide means of
+assessing the
+ability of a given DDoS defense to defend against today's threats, and
+the potential damage to a given target network (with or without
+defense) from these threats.&nbsp; The benchmark suite will be further
+enriched with two additional benchmark categories:&nbsp; future
+scenarios which will contain sophisticated attack scenarios. and
+stress-test scenarios which will contain attacks targeting specific
+critical network resources that are being developed in a related
+effort.&nbsp;&nbsp; Further, we will provide tools to update benchmarks
+as attacks and network-use patterns evolve in the real Internet.</big><br
+ style="font-family: helvetica,arial,sans-serif;">
+      <big style="font-family: helvetica,arial,sans-serif;"> </big><br
+ style="font-family: helvetica,arial,sans-serif;">
+      <big style="font-family: helvetica,arial,sans-serif;">The
+specific tasks earmarked for UCLA are:<br>
+      </big>
+      <ul style="font-family: helvetica,arial,sans-serif;">
+        <li><span style="font-style: italic;"><span
+ style="font-weight: bold;">Examine internals of
+numerous networks to generate realistic topology specifications.</span>&nbsp;</span>
+We will accomplish this using available tools such as SMW developed at
+the
+University of Washington; Internet maps and routing respositories such
+as Oregon RouteViews, RIPE, CAIDA Skitter; and tools from the PREDICT
+project.&nbsp; We will develop a <span style="font-style: italic;">NetProf</span>
+tool that engages topology-mapping and network-mapping software and
+summarizes results from the software in a manner that does not&nbsp;
+divulge the identiy and detailed internal organization of the mapped
+network.&nbsp;&nbsp; We will work with universities, companies and ISPs
+to apply <span style="font-style: italic;">NetProf </span>on their
+networks.</li>
+      </ul>
+      <ul style="font-family: helvetica,arial,sans-serif;">
+        <li><span style="font-style: italic; font-weight: bold;">Develop
+measures to be
+used in combination to evaluate DDoS defense systems.</span>&nbsp; The
+selection of the measures that best characterize DDoS impact on a
+network and DDoS defense effectiveness will be our focus.&nbsp; These
+can include:&nbsp; legitimate traffic service level, attack detection,
+attack response, false positives, deployment cost, operation cost,
+overall effect and security. </li>
+      </ul>
+      <br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<br>
+<br>
+<br>
+</body>
+</html>
