@@ -13,3 +13,5 @@ This project aims to provide users with a LLM that they can use to obtain inform
 <img width="544" alt="Screenshot 2024-03-02 at 15 50 41" src="https://github.com/HowardHuang1/Lookup-GPT/assets/69656428/962c202d-8cc7-430a-96ab-f48cee824747">
 
 6. You are now good to go. Have fun!
+
+[CustomGPT trained on UCLA data](https://chat.openai.com/g/g-JxmpfHIL8-bruin-guide)
